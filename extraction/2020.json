@@ -1,0 +1,124 @@
+{
+  "year": 2020,
+  "rha_dataset": [
+    {
+      "paper_id": "2020_15", "source_file": "2020/15_Evaluation_of_Rice_Husk_Ash...SCC.pdf",
+      "paper_title": "Evaluation of Rice Husk Ash as a Partial Replacement of Cement in Self-Compacting Concrete Using Mix Design",
+      "authors": "Dahal, Banstola, Baral, Basnet", "country_region": "Nepal (Pokhara)", "rha_source_location": "Hemaja, Pokhara, Nepal (uncontrolled burning)",
+      "material_type": "SCC (M20)", "primary_binder_scm": "OPC+RHA",
+      "mixes": [
+        {"mix_id": "RHA0", "rha_pct_cement_replacement": 0, "cement_kg_m3": 429.3, "rha_kg_m3": 0.0, "fine_agg_kg_m3": 1166.4, "coarse_agg_kg_m3": 777.1, "other_additives": "Superplasticizer ~4.29 kg/m3", "water_cement_ratio": 0.57, "strengths": [{"age": 7, "comp": 18.67}, {"age": 28, "comp": 27.33}, {"age": 45, "comp": 27.41}]},
+        {"mix_id": "RHA5", "rha_pct_cement_replacement": 5, "cement_kg_m3": 407.8, "rha_kg_m3": 21.5, "fine_agg_kg_m3": 1166.4, "coarse_agg_kg_m3": 777.1, "other_additives": "Superplasticizer ~4.29 kg/m3", "water_cement_ratio": 0.57, "strengths": [{"age": 7, "comp": 11.19}, {"age": 28, "comp": 15.19}, {"age": 45, "comp": 18.52}]},
+        {"mix_id": "RHA10", "rha_pct_cement_replacement": 10, "cement_kg_m3": 386.4, "rha_kg_m3": 42.9, "fine_agg_kg_m3": 1166.4, "coarse_agg_kg_m3": 777.1, "other_additives": "Superplasticizer ~4.29 kg/m3", "water_cement_ratio": 0.57, "strengths": [{"age": 7, "comp": 8.52}, {"age": 28, "comp": 12.07}, {"age": 45, "comp": 14.44}]},
+        {"mix_id": "RHA15", "rha_pct_cement_replacement": 15, "cement_kg_m3": 364.9, "rha_kg_m3": 64.4, "fine_agg_kg_m3": 1166.4, "coarse_agg_kg_m3": 777.1, "other_additives": "Superplasticizer ~4.29 kg/m3", "water_cement_ratio": 0.57, "strengths": [{"age": 7, "comp": 5.33}, {"age": 28, "comp": 8.74}, {"age": 45, "comp": 10.30}]},
+        {"mix_id": "RHA20", "rha_pct_cement_replacement": 20, "cement_kg_m3": 343.4, "rha_kg_m3": 85.9, "fine_agg_kg_m3": 1166.4, "coarse_agg_kg_m3": 777.1, "other_additives": "Superplasticizer ~4.29 kg/m3", "water_cement_ratio": 0.57, "strengths": [{"age": 7, "comp": 5.85}, {"age": 28, "comp": 9.85}, {"age": 45, "comp": 11.63}]},
+        {"mix_id": "RHA30", "rha_pct_cement_replacement": 30, "cement_kg_m3": 300.5, "rha_kg_m3": 128.8, "fine_agg_kg_m3": 1166.4, "coarse_agg_kg_m3": 777.1, "other_additives": "Superplasticizer ~4.29 kg/m3", "water_cement_ratio": 0.57, "strengths": [{"age": 7, "comp": 4.74}, {"age": 28, "comp": 8.07}, {"age": 45, "comp": 9.70}]}
+      ],
+      "value_source": "comp strength=Table 11 (verbatim); kg/m3=computed from base mix TRC5 (Table 3) batch /0.014 m3", "output_availability": "tabulated", "data_origin": "primary",
+      "notes": "Comp strength from Table 11 (N/mm2=MPa). Mix masses converted from TRC5 trial (per 0.014 m3): cement 6.01, fine 16.33, coarse(10mm) 10.88, water 3.4, SP 0.060 kg. RHA replaces cement by weight; water assumed held constant so effective w/c rises at high RHA. No flexural/split tensile tested.",
+      "evidence": "Table 11: RHA 0/5/10/15/20/30% -> 7d 18.67/11.19/8.52/5.33/5.85/4.74; 28d 27.33/15.19/12.07/8.74/9.85/8.07; 45d 27.41/18.52/14.44/10.30/11.63/9.70. Table 3 TRC5 w/c 0.57."
+    },
+    {
+      "paper_id": "2020_08", "source_file": "2020/08_...MILLET_AND_RICE_HUSK_ASH...SCC.pdf",
+      "paper_title": "Experimental Investigation of the Pozzolanic Potentials of Millet and Rice Husk Ash as Mineral Additive in Self-Compacting Concrete",
+      "authors": "Wasiu, Oluwatosin", "country_region": "Nigeria (Ado-Ekiti)", "rha_source_location": "Maiduguri, Nigeria (burnt 650C, 6h)",
+      "material_type": "SCC (M70)", "primary_binder_scm": "OPC+RHA(additive)",
+      "mixes": [
+        {"mix_id": "RHA-SCC (10%)", "rha_pct_cement_replacement": 10, "cement_kg_m3": 603.36, "rha_kg_m3": 64.1, "fine_agg_kg_m3": 857.14, "coarse_agg_kg_m3": 754.25, "other_additives": "Superplasticizer SP430 10.92 kg/m3", "water_cement_ratio": 0.30, "strengths": [{"age": 7, "comp": 49.3}, {"age": 14, "comp": 55.1}, {"age": 21, "comp": 69.5}, {"age": 28, "comp": 72.8, "flexural": 10.4}]},
+        {"mix_id": "NVC control (0%)", "rha_pct_cement_replacement": 0, "cement_kg_m3": null, "rha_kg_m3": 0, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "Normally vibrated concrete (no additive); mix proportions not separately tabulated", "water_cement_ratio": null, "strengths": [{"age": 7, "comp": 39.5}, {"age": 14, "comp": 52.7}, {"age": 21, "comp": 66.1}, {"age": 28, "comp": 72.8}]}
+      ],
+      "value_source": "Table 1 (mix kg/m3), Tables 9 & 10 (comp strength verbatim), text (MoR 10.4)", "output_availability": "tabulated (comp); flexural single value; split tensile figure_only", "data_origin": "primary",
+      "notes": "RHA used as mineral additive at ~10% (64.1 kg/m3; ~9.6% of binder). w/c 0.30 on cement (0.27 on binder). Flexural (MoR) 10.4 N/mm2 at 28d stated in text (same for MHA & RHA). Split tensile only in Fig.7 (not tabulated). Control NVC mix proportions not given separately.",
+      "evidence": "Table 1: cement 603.36, MHA/RHA 64.1, fine 857.14, coarse 754.25, SP430 10.92, water 182.59 kg/m3. Table 9 (RHA): 7/14/21/28d C.S=49.3/55.1/69.5/72.8 MPa. Table 10 (NVC): 39.5/52.7/66.1/72.8. Text: 'MHA and RHA have the same MoR (10.4 N/mm2) at 28 days'."
+    },
+    {
+      "paper_id": "2020_04", "source_file": "2020/04_...Ghanaian_Rice_Husk_Ash...Compressive_Strength.pdf",
+      "paper_title": "Effect of Partial Replacement of OPC with Ghanaian Rice Husk Ash (RHA) on the Compressive Strength of Concrete",
+      "authors": "Botchway, Afrifa, Henaku", "country_region": "Ghana (Kumasi/Takoradi)", "rha_source_location": "Asawaasi, Kumasi, Ashanti Region, Ghana (uncontrolled burning <400C)",
+      "material_type": "Concrete (grades C20/C25/C30/C35)", "primary_binder_scm": "OPC+RHA",
+      "mixes": [
+        {"mix_id": "C20-0%", "grade": "C20", "rha_pct_cement_replacement": 0, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "", "water_cement_ratio": 0.45, "strengths": [{"age": 28, "comp": 21.8}]},
+        {"mix_id": "C20-5%", "grade": "C20", "rha_pct_cement_replacement": 5, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "", "water_cement_ratio": 0.45, "strengths": [{"age": 28, "comp": 22.2}]},
+        {"mix_id": "C25-0%", "grade": "C25", "rha_pct_cement_replacement": 0, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "", "water_cement_ratio": 0.45, "strengths": [{"age": 28, "comp": 30.5}]},
+        {"mix_id": "C25-5%", "grade": "C25", "rha_pct_cement_replacement": 5, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "", "water_cement_ratio": 0.45, "strengths": [{"age": 28, "comp": 29.5}]},
+        {"mix_id": "C30-0%", "grade": "C30", "rha_pct_cement_replacement": 0, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "", "water_cement_ratio": 0.45, "strengths": [{"age": 28, "comp": 28.1}]},
+        {"mix_id": "C35-0%", "grade": "C35", "rha_pct_cement_replacement": 0, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "", "water_cement_ratio": 0.45, "strengths": [{"age": 28, "comp": 32.8}]}
+      ],
+      "value_source": "text (explicit 28d values)", "output_availability": "partial (only some 28d values in text; full RHA0-25% x 3-180d matrix only in Figs 6-9)", "data_origin": "primary",
+      "notes": "RHA 0/5/10/15/20/25% tested for grades C20/C25/C30/C35 at 3/7/14/21/28/56/90/180d, but only the listed 28d control & 5% values are given numerically; rest in figures. w/c 0.45 all mixes. Rapid Hardening PC 42.5; river sand + crushed granite. No kg/m3 proportions (DOE mix). Intro cites Obilade (2014) Nigerian RHA values -> see Cited_sources.",
+      "evidence": "'28 day strength of the control concrete for C20 and C25 were 21.8 and 30.5 N/mm2 ... C30 and C35 ... 28.1 and 32.8'; '5% RHA for C20 ... 21.8 to 22.2 ... C25 30.5 to 29.5'. w/c 0.45."
+    },
+    {
+      "paper_id": "2020_01", "source_file": "2020/01_Rice_Husk_Ash_and_Fly_Ash_Effects...Concrete.pdf",
+      "paper_title": "Rice Husk Ash and Fly Ash Effects on the Mechanical Properties of Concrete",
+      "authors": "Bheel et al.", "country_region": "Pakistan (Hyderabad, Sindh)", "rha_source_location": "Hyderabad, Pakistan (uncontrolled burning)",
+      "material_type": "Concrete (1:2:4)", "primary_binder_scm": "OPC+RHA+FA",
+      "mixes": [
+        {"mix_id": "0%RHA+0%FA", "rha_pct_cement_replacement": 0, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "Fly ash 0%", "water_cement_ratio": 0.55, "strengths": []},
+        {"mix_id": "2.5%RHA+2.5%FA", "rha_pct_cement_replacement": 2.5, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "Fly ash 2.5%", "water_cement_ratio": 0.55, "strengths": []},
+        {"mix_id": "5%RHA+5%FA", "rha_pct_cement_replacement": 5, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "Fly ash 5%", "water_cement_ratio": 0.55, "strengths": []},
+        {"mix_id": "7.5%RHA+7.5%FA", "rha_pct_cement_replacement": 7.5, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "Fly ash 7.5%", "water_cement_ratio": 0.55, "strengths": []},
+        {"mix_id": "10%RHA+10%FA", "rha_pct_cement_replacement": 10, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "Fly ash 10%", "water_cement_ratio": 0.55, "strengths": []}
+      ],
+      "value_source": "none (figures only)", "output_availability": "figure_only", "data_origin": "primary",
+      "notes": "Concrete mix ratio 1:2:4, w/c 0.55, 90 samples, cured 7 & 28d. Compressive & split tensile strengths reported ONLY as % change vs control in Figs 4-5 (no absolute MPa, no kg/m3). Needs figure digitization. RHA & FA each in equal proportion.",
+      "evidence": "'mix proportions of 1:2:4 and 0.55 water/cement ratio ... 5%RHA+5%FA compressive strength enhanced by 16.14% ... split tensile improved 15.20% vs control at 28d'."
+    },
+    {
+      "paper_id": "2020_02", "source_file": "2020/02_Thermal_performance_of_Rice_Husk_Ash_mixed_mortar...pdf",
+      "paper_title": "Thermal performance of rice husk ash mixed mortar in concrete and masonry buildings",
+      "authors": "Selvaranjan, Gamage, De Silva, Attanayaka", "country_region": "Sri Lanka (Moratuwa)", "rha_source_location": "Northwestern Sri Lanka (factory)",
+      "material_type": "Mortar (cement:sand 1:3)", "primary_binder_scm": "OPC; RHA replaces SAND",
+      "mixes": [
+        {"mix_id": "M0", "rha_pct_cement_replacement": null, "rha_pct_sand_replacement": 0, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "RHA 0% (sand replacement)", "water_cement_ratio": 0.50, "strengths": []},
+        {"mix_id": "M50", "rha_pct_cement_replacement": null, "rha_pct_sand_replacement": 50, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "RHA 50% of sand", "water_cement_ratio": 1.96, "strengths": [{"age": 28, "comp": 4.8}]}
+      ],
+      "value_source": "text (one value 4.8 MPa); rest figure_only", "output_availability": "figure_only", "data_origin": "primary",
+      "notes": "IMPORTANT: here RHA replaces SAND (fine aggregate), NOT cement (cement held at ratio 1). RHA 0/10/20/30/50/70/80/100% of sand; w/c varies 0.5->3.06 to keep flow 140mm. Only 50%RHA 28d comp = 4.8 MPa stated; rest in Fig 8. Mortar (no coarse agg). Likely NOT suitable for the cement-replacement feature.",
+      "evidence": "Table 2 mix proportions (RHA replaces sand). 'average compressive strength of specimens with 50% RHA replacement is 4.8 MPa'."
+    },
+    {
+      "paper_id": "2020_09", "source_file": "2020/09_The_Sustainability_of_Cement_Mortar_with_Raw_Sewage_Sludge_and_Rice_Husk_Ash.pdf",
+      "paper_title": "The Sustainability of Cement Mortar with Raw Sewage Sludge and Rice Husk Ash",
+      "authors": "Muwashee", "country_region": "Iraq (Kufa)", "rha_source_location": "Al-Najaf Silo, Iraq (controlled burning 300C, 3h)",
+      "material_type": "Cement mortar (sand/binder 3)", "primary_binder_scm": "OPC+RHA (10%); RSS as water replacement",
+      "mixes": [
+        {"mix_id": "MX9 (10%RHA, water, w/b 0.75)", "rha_pct_cement_replacement": 10, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "None (water mix); RHA 10% of binder; sand/binder=3", "water_cement_ratio": 0.75, "strengths": [{"age": 28, "comp": 11.37}]}
+      ],
+      "value_source": "text (11.37 MPa); rest figure_only", "output_availability": "figure_only", "data_origin": "primary",
+      "notes": "Mortar (no coarse agg). RHA fixed at 10% of binder; variables = RSS/water & sand ratio. Compressive strengths at 7 & 28d mostly in Figs 7-12; only MX9 (10%RHA, water) highest 11.37 MPa given. Mix as ratios only (no kg/m3). Intro cites several RHA strength datasets -> Cited_sources.",
+      "evidence": "'highest strength of 11.37 MPa was obtained for Group V with 10% RHA (MX9)'. Table 2 mix ratios."
+    },
+    {
+      "paper_id": "2020_11", "source_file": "2020/11_Properties_of_Ternary_Cementitious_Concrete...RHA_and_Coconut_Husk_Ash.pdf",
+      "paper_title": "Properties of Ternary Cementitious Concrete Matrix Containing Rice Husk Ash and Coconut Husk Ash",
+      "authors": "Obokparo, Arum", "country_region": "Nigeria (Ekpoma/Edo & Akure/Ondo)", "rha_source_location": "Rice mill, Ekpoma, Edo State, Nigeria (burnt 700C, 6h)",
+      "material_type": "Concrete (ternary OPC/RHA/CHA)", "primary_binder_scm": "OPC+RHA+CHA",
+      "mixes": [
+        {"mix_id": "10% RHA+CHA (ternary)", "rha_pct_cement_replacement": 10, "cement_kg_m3": null, "fine_agg_kg_m3": null, "coarse_agg_kg_m3": null, "other_additives": "Coconut husk ash (CHA) co-blend; total pozzolan replacement 10%", "water_cement_ratio": null, "strengths": [{"age": 56, "comp": 32.9}]}
+      ],
+      "value_source": "text (32.9 N/mm2 max); rest figure_only", "output_availability": "figure_only", "data_origin": "primary",
+      "notes": "Ternary blend; replacement 5/10/15/20% as RHA-only, CHA-only, and RHA+CHA. Compressive strength only in Figs 1-7 except max 32.9 N/mm2 at 56d for 10% ternary. Mix Table 1 gives total masses per batch of cubes (not kg/m3). No flexural/split tensile.",
+      "evidence": "'at 10% replacement the maximum compressive strength of 32.9 N/mm2 was obtained for the ternary blended concrete of OPC/RHA/CHA at 56 days'."
+    }
+  ],
+  "non_rha_agro_ash": [
+    {"paper_id": "2020_06", "paper_title": "Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete", "country_region": "Kenya (Nairobi)", "primary_material": "Rice STRAW ash (+ eggshell ash)", "data_available": "Compressive strength 7/14/28/56/90d for RSA 0-30% (text values); split tensile (figures). w/c 0.5, grade C35.", "key_values": "Control comp 7/14/28/56/90d=27.90/33.00/35.95/36.55/38.70; 5%RSA=32.70/36.70/38.80/40.25/41.30; 10%RSA=33.65/37.10/40.20/41.80/42.65; 15%=28.70/31.60/32.30/33.70/34.70; 20%=28.40/29.55/31.80/32.60/33.45; 25%=24.00/26.20/28.70/31.85/32.80; 30%=10.85/15.25/18.95/20.05/23.10 MPa. +eggshell 10%: 15%RSA 28/56/90d=41.3/42.7/44.85; 20%RSA=33.5/34.7/34.85.", "reason": "Rice straw ash (not rice husk ash); rich tabulated data - fully extractable on request."},
+    {"paper_id": "2020_08-MHA", "paper_title": "Millet Husk Ash variant of 2020_08 SCC", "country_region": "Nigeria (Ado-Ekiti)", "primary_material": "Millet husk ash (MHA) 10% additive", "data_available": "Comp strength 7/14/21/28d=50.77/65.42/71.67/83.9 MPa; MoR 28d=10.4; split tensile figures.", "key_values": "Same base mix as RHA (cement 603.36, fine 857.14, coarse 754.25, water 182.59, SP 10.92 kg/m3).", "reason": "Millet husk ash, not RHA."},
+    {"paper_id": "2020_10", "paper_title": "Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive", "country_region": "Nigeria", "primary_material": "Guinea corn husk ash (GCHA) 0-20%", "data_available": "HPC target 50 MPa; comp, flexural, split tensile at 7-56d (NOT yet extracted in detail).", "key_values": "pending full extraction", "reason": "Guinea corn husk ash, not RHA. Full extraction available on request."},
+    {"paper_id": "2020_13", "paper_title": "Concrete incorporating Wood Waste Ash as a Cementitious Material", "country_region": "(Pakistan/India region)", "primary_material": "Wood waste ash (WWA) 0/5/10/15%", "data_available": "Strength up to 10% optimum (NOT yet extracted in detail).", "key_values": "pending full extraction", "reason": "Wood waste ash, not RHA. Full extraction available on request."}
+  ],
+  "excluded_papers": [
+    {"paper_id": "2020_03", "paper_title": "Rice husk ash and its utilization in soil improvement: An overview", "reason": "Soil stabilization review - not concrete/mortar mix + strength."},
+    {"paper_id": "2020_05", "paper_title": "Geopolymers in construction - recent developments", "reason": "Geopolymer review; no RHA mix/strength dataset."},
+    {"paper_id": "2020_07", "paper_title": "Experimental characterisation of non-encapsulated bio-based concrete with self-healing capacity", "reason": "Bio self-healing concrete (CEM I/III + GGBS); contains no rice husk ash."},
+    {"paper_id": "2020_12", "paper_title": "Effect of Different Types of Rice Husk Ash on Some Geotechnical Properties of Cement-Admixed Soil", "reason": "Soil/geotechnical (UCS of soil), not concrete."},
+    {"paper_id": "2020_14", "paper_title": "Perspectives of the Silicon Dioxide Production from Rice Husk in Kazakhstan: an Overview", "reason": "Silica production overview; no concrete strength data."}
+  ],
+  "cited_sources_to_fetch": [
+    {"from_paper": "2020_04", "citation": "Obilade, I.O. (2014) Use of Rice Husk Ash as Partial Replacement for Cement in Concrete. Int. J. Eng. and Applied Sciences 5, 11-16.", "reason": "Paper cites this for absolute RHA concrete strengths (27.68/29.5 MPa at 28d; 16.88/17.51 at 7d for 5%/control).", "doi": ""},
+    {"from_paper": "2020_09", "citation": "Sudisht Mishra & Deodhar, S. (2012) Effect of Rice Husk Ash on Cement Mortar and Concrete.", "reason": "Cited mortar comp strengths (control 10.39; 7.5% 16.43; 10% 17.44 MPa at 28d).", "doi": ""},
+    {"from_paper": "2020_09", "citation": "Zhang, M-H & Malhotra, V.M. (1996) High-Performance Concrete Incorporating Rice Husk Ash as a Supplementary Cementing Material. ACI Materials Journal 93:629-636.", "reason": "Cited as RHA HPC strength dataset.", "doi": "10.14359/9870"},
+    {"from_paper": "2020_09", "citation": "Siddika, A. et al. (2018) Study on Concrete with Rice Husk Ash. Innovative Infrastructure Solutions 3:1.", "reason": "Cited RHA concrete strength dataset.", "doi": "10.1007/s41062-018-0127-6"}
+  ]
+}
