@@ -1,0 +1,1595 @@
+
+===== PAGE 1 =====
+
+                                                                                                                                                                                                           
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+ 
+10 
+ 
+ 
+  Ecocycles, Vol. 9, No. 3, pp. 10-22 (2023) 
+  DOI: 10.19040/ecocycles.v9i3.335 
+ 
+ 
+ 
+ 
+RESEARCH  ARTICLE 
+ 
+Performance of bituminous paving mixtures containing recycled 
+concrete aggregate, fly ash and rice husk ash: A probabilistic 
+approach 
+Jyoti Prakash Giri1, Mahabir Panda2, Monalisa Priyadarshini3 
+1Assistant Professor, Department of Civil Engineering, Centurion University of Technology & Management, Bhubaneswar, 
+India, 752050, Email: jyotiprakash.giri@cutm.ac.in 
+2Professor, Department of Civil Engineering, National Institute of Technology, Rourkela, Odisha, India, 769008,  
+Email: mpanda@nitrkl.ac.in 
+3Assistant Professor, Department of Civil Engineering, Government College of Engineering Kalahandi, Bhawanipatna, Odisha 
+766002, India, Email: monalisa@gcekbpatna.ac.in. 
+ 
+Corresponding authors: Monalisa Priyadarshini. Email: monalisa@gcekbpatna.ac.in.  
+Jyoti Prakash Giri. Email: jyotiprakash.giri@cutm.ac.in 
+Abstract – Due to the rapid increase in construction activities, the depletion of natural resources is accelerating. Extensive 
+research has focused on finding alternative materials to conserve resources and minimize costs. This study explores the utilization 
+of recycled concrete aggregate (RCA) as a substitute for coarse aggregate, along with waste materials like fly ash (FA) and rice 
+husk ash (RHA) as fillers in bituminous paving mixtures. The aim is to address environmental concerns and waste disposal 
+issues. The research evaluates the performance of different filler types in non-conventional bituminous mixtures using VG 30 
+grade bitumen as a binder, specifically for lower bituminous layers. A typical bitumen concentration of 5% by weight of dense 
+bituminous macadam (DBM) mixtures is chosen based on existing literature. The study assesses various performance 
+characteristics, including Marshall parameters, indirect tensile strength, and moisture susceptibility. A probabilistic approach is 
+employed to determine the most suitable distribution model, focusing on retained stability (RS) as a measure of moisture 
+susceptibility. For this, fifteen distribution functions were considered with three Goodness-of-fit (GOF) tests. To identify the best 
+suitable function, 50 numbers of samples were prepared to find RS with two types of fillers and two types of coarse aggregate. 
+Experimental results indicate that mixtures with natural aggregate exhibit slightly superior performance, but those with RCA 
+meet all the requirements specified in relevant Indian codes and specifications. The probability analysis confirms that the Burr 
+distribution best fits the experimental data, particularly for moisture susceptibility characteristics. 
+Keywords – RCA, Probabilistic approach, Fly ash, Rice husk ash, Retained stability. 
+ 
+Received: July 18, 2023 
+ 
+  
+Accepted: August 27, 2023 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 2 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+11 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 Recycled concrete aggregates 
+Figure 2 Probability of failure concept 
+
+
+===== PAGE 3 =====
+
+                                                                                                                                                                                                           
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+ 
+12 
+ 
+LABORATORY INVESTIGATION 
+MATERIALS 
+ 
+The experimental examination includes a study on the 
+influence of coarse aggregate, bitumen and filler type on the 
+performances of DBM mixtures. In this study, four 
+combinations of mixtures comprising two different types of 
+aggregates (NA and RCA), and two types of fillers (rice husk 
+ash and fly ash) were considered, each mix being made with 
+VG 30 bitumen. These four distinct bituminous mixtures 
+considered in this study were represented as NFA, NRHA, 
+RFA and RRHA. The first letter of the notation represents the 
+coarse aggregate fraction (N- NA and R-RCA) whereas; the 
+succeeding letters represent the filler type (i.e. FA- fly ash and 
+RHA- rice husk ash). The gradation of aggregates of the 
+bituminous mixture considered as per MoRTH (2013) is 
+shown in Figure 4, in which the middle points of the 
+specification ranges concerning a particular sieve size were 
+considered for the preparation of bituminous samples in the 
+present study. The physical properties of all materials used 
+(except FA and RHA) are presented in Tables 1 and 2. The 
+specific gravity for fly ash and rice husk ash was observed in 
+the laboratory to be 2.1 and 1.95 respectively.  
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+For each category of the mixture, the performance 
+characteristics in the form of Marshall parameters, indirect 
+tensile strength and moisture-induced damage characteristics 
+represented in the form of RS as well as TSR were carried 
+out. The details of the experimental program have been 
+shown in Figure 3 in the form of a flowchart. The Marshall 
+test according to ASTM D1559 is an affordable procedure 
+still being followed in many countries as well as in India for 
+the design of bituminous mixtures. A similar procedure was 
+also considered in the present investigation to prepare 
+different bituminous mixtures with different ingredient 
+materials as mentioned earlier at 5% bitumen content for 
+further performance studies, as the same concentration is 
+generally observed to be more or less optimum in DBM 
+bituminous mixtures. Only one bitumen concentration has 
+been chosen in this study to make a comparative study of 
+bituminous mixtures prepared to enable proper assessment of 
+the influence of the use of waste materials in flexible paving 
+mixes at a preliminary level.
+ 
+Properties 
+ 
+IS Specification 
+Properties 
+Recommended 
+value  
+(MoRTH, 2013) 
+NA 
+RCA 
+Impact value (%) 
+(IS 2386-PIV, 
+1963) 
+15 
+26 
+<30 
+Crushing strength (%) 
+14 
+28 
+<30 
+Los-Angeles abrasion (%) 
+21 
+31 
+<40 
+Flakiness index (%) 
+(IS 2386-PI, 
+1963) 
+21 
+22 
+<30 
+Elongation index (%) 
+22 
+24 
+Water absorption (%) 
+(IS 2386-PIII, 
+1963) 
+0.28 
+5.1 
+<2 
+Specific gravity 
+2.68 
+2.38 
+— 
+Stripping (%) 
+(IS 6241, 1971) 
+1.5 
+4.7 
+<5 
+Figure 3 Flow chart of experimental methodology 
+Table 1. Physical properties of RCA and NA used 
+
+
+===== PAGE 4 =====
+
+                                                                                                                                                                                                           
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+ 
+13 
+ 
+ 
+ 
+Figure 4 Gradation curve for DBM mixture 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TESTS PERFORMED  
+ 
+INDIRECT TENSILE STRENGTH (ITS) TEST  
+ 
+The ITS test is taken up in this study according to ASTM 
+D6931, for quantifying the tensile strength characteristics of 
+different HMA mixtures. The ITS test for a specific mixture 
+type was conducted at three different test temperatures such 
+as 15oC, 25oC and 35oC. The normal Marshall specimens 
+were positioned in between two loading strips (Figure 5) 
+under a compressive load in a vertical plane, resulting in a 
+relatively uniform stress perpendicular to the applied loading 
+plane to cause failure of the specimen (Moghaddam et al., 
+2014). The ITS value was determined according to Eq. (1) 
+given below. In this equation P is the maximum failure load 
+(N), H is the thickness of the test specimen (mm) and D 
+represents the diameter of the specimen (mm). 
+ 
+=
+2000×𝑃
+𝜋×𝐷×𝐻
+ 
+MOISTURE SUSCEPTIBILITY CHARACTERISTICS 
+Moisture-induced damage in the bituminous mixture is a 
+major reason for distress in bituminous pavements. The 
+moisture susceptibility or resistance to moisture-induced 
+damage of bituminous mixtures is important to realize the 
+ability of adequate bonding between bituminous binder and  
+aggregate in the presence of moisture and temperature (Lee 
+et al., 2012). To assess the resistance of bituminous mixtures 
+to moisture, a parameter called tensile strength ratio (TSR) is 
+generally used as per AASHTO T283 (2014), and the TSR 
+value is calculated using Eq. (2).   
+ 
+=
+ITS of conditioned specimen
+ITS of unconditioned specimen × 100
+Another way to indirectly assess the resistance to moisture-
+induced damage of bituminous mixture is by retained stability 
+test (RS) as per a specified procedure according to ASTM 
+D1075 (2011). The RS value is determined using Eq. (3). 
+ 
+RS = 
+Stability of conditioned specimens
+Stability of unconditTioned specimens × 100
+ 
+Properties 
+IS Specification 
+Test 
+Observations 
+Suggested 
+value (IS 73, 
+2013) 
+Specific gravity 
+(IS 1202, 1978) 
+1.01 
+> 0.99 
+Penetration (0.1 mm) 
+(IS 1203, 1978) 
+69 
+> 50 
+Ductility (cm) 
+(IS 1205, 1978) 
+87 
+> 75 
+Softening point (°C) 
+49 
+> 47 
+Absolute viscosity 
+(Poise) 
+(IS 1206-PII, 
+1978;  IS 1206-
+PIII, 1978)  
+2645 
+2400-3600 
+Kinematic viscosity 
+(cSt) 
+427  
+> 350 
+Table 2. Physical properties of bitumen used 
+
+
+===== PAGE 5 =====
+
+                                                                                                                                                                                                           
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+ 
+14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+OUTCOME AND INTERPRETATION 
+ 
+MARSHALL CHARACTERISTICS 
+ 
+In Table 3, the Marshall test results were presented and it was 
+found that the mixture made with RCA offers a higher 
+Marshall stability value, but the unit weight was seen to be 
+more for the bituminous mixture than that containing NA as 
+coarse fraction. The higher stability value in the RCA mixture 
+may be because of the rough surface texture resulting in a 
+good bonding between the aggregates in the presence of 
+bitumen. The mixture with RCA has a lower unit weight 
+compared to the mixture prepared with conventional 
+aggregate, which may be due to the presence of cement paste 
+over its surface, as well as its low specific gravity as 
+compared to NA. The mixtures prepared with fly ash as filler 
+material offered improved Marshall parameters as compared 
+to rice husk ash.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+It was observed from Table 3 that, all the bituminous mixtures 
+fulfil the required Marshall criteria according to MoRTH 
+specifications (2013), each prepared with a bitumen content 
+of 5%. 
+ 
+INDIRECT TENSILE STRENGTH 
+ 
+The ITS with test temperature for various samples are 
+presented in Figure 6. From the figure, it is observed that the 
+samples made with natural aggregate as coarse aggregate and 
+fly ash as a filler offer superior performance both at lower and 
+higher 
+test 
+temperatures 
+as 
+compared 
+with 
+other 
+combinations. However, the mixture made with RCA and fly 
+ash resulted in nearly similar values. From this ITS 
+observation, it is also observed that fly ash offered better 
+results as compared with RHA as a filler material. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mix 
+Marshall 
+Stability (kN) 
+Flow 
+value 
+(mm) 
+Unit 
+Weight 
+(gm/cc) 
+Air voids 
+(%) 
+VMA 
+(%) 
+VFB 
+(%) 
+NFA 
+13.1 
+3.35 
+2.483 
+4.7 
+16.8 
+68.6 
+NRHA 
+11.9 
+3.45 
+2.472 
+4.9 
+16.5 
+66.8 
+RFA 
+16.3 
+3.1 
+2.337 
+4.2 
+15.7 
+71 
+RRHA 
+15.3 
+3.25 
+2.328 
+4.5 
+15.5 
+69.7 
+Figure 5 ITS test setup 
+Table 3. Marshall parameters for different bituminous mixtures 
+
+
+===== PAGE 6 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+15 
+ 
+RCA
+NA
+75
+77,5
+80
+82,5
+85
+87,5
+90
+92,5
+95
+RHA
+FA
+Coarse Aggregate
+Type
+Tensile Strength Ratio (%)
+Filler Type
+RCA
+NA
+75
+77,5
+80
+82,5
+85
+87,5
+90
+92,5
+95
+RHA
+FA
+Coarse Aggregate
+Type
+Retained Stability (%)
+Filler Type
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MOISTURE SUSCEPTIBILITY CHARACTERISTICS 
+ 
+The results of moisture susceptibility characteristics in terms 
+of TSR for conventional and non-conventional bituminous 
+mixtures are given in Figure 7. It is understood that specimens 
+with NA as coarse aggregates result in higher TSR as 
+compared with samples prepared with RCA. On the other 
+hand, the RCA specimens offered less TSR value as 
+compared with the NA mixture, though both satisfy the 
+minimum value of TSR value according to MoRTH (2013) 
+(TSR value > 80%).  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Similarly, in the retained stability test, the mixture compacted 
+with NA and fly ash as filler offers better results as compared 
+with specimens containing RCA or rice husk ash as presented 
+in Figure 8. From Figures 7 and 8, it is generally observed 
+that fly ash offers better moisture-induced damage as 
+compared with rice husk ash as filler material, though rice 
+husk ash satisfies the required moisture susceptibility criteria 
+according to Indian specifications. Based on this RS result of 
+RCA, a further 50 numbers of samples were prepared and the 
+statistical analysis using a probabilistic approach. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6 ITS test at various test 
+Figure 7 TSR values for DBM mix 
+Figure 8 RS values for DBM mix 
+
+
+----- TABLE p6#1 -----
+
+(%)
+95
+92,5 Ratio
+90 Aggregate
+87,5 Strength
+85 Type
+82,5
+NA
+Coarse
+80
+Tensile
+77,5 RCA
+75
+RHA FA
+Filler Type | 
+Filler Type | 
+Figure 7 TSR values for DBM mix
+(%)
+95
+92,5 Stability
+Aggregate
+90
+87,5 Type
+Retained
+85
+Coarse
+82,5
+NA
+80
+77,5 RCA
+75
+RHA FA
+Filler Type | 
+
+===== PAGE 7 =====
+
+                                                                                                                                                                                                           
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+ 
+16 
+ 
+Table 4. Statistical parameters of RS data 
+VARIABILITY IN RETAINED STABILITY 
+ 
+As moisture-induced damage is an important parameter to 
+characterize 
+a 
+bituminous mixture, in 
+the 
+present 
+investigation a probability analysis was done to confirm the 
+utility of the waste materials in bituminous pavement 
+construction. For this purpose, fifty numbers of specimens 
+were considered, and corresponding RS results adopting the 
+above-mentioned procedure were noted as shown in Table 4. 
+It is found that, the mean values for RHA and FA as filler in 
+the bituminous mixture containing RCA as a coarse fraction 
+were found to be 81.64 and 82.44, respectively. The other 
+statistical parameters are presented in the same table. 
+Statistical analysis is conducted to identify the variabilities of 
+the observed data with the proposed probability distributions. 
+The analysis was done for fifteen selected probability 
+distribution functions taken in the analysis by considering the 
+statistical parameters as represented in Table 5. The best-fit 
+distribution is formed on the recognition basis by Goodness 
+of Fit (GOF) test results by Kolmogorov-Smirnov (K-S), 
+Kolmogorov-Smirnov-Lilliefors (K-S-L) and  
+Anderson-Darling (A-D) at 5% of significance level by 
+rejecting the remaining. The K-S and K-S-L investigations 
+can explain the difference between the observed cumulative 
+distribution function and the hypothesized cumulative 
+distribution function (Benjamin et al., 1970; Hakim et al., 
+2021). The A-D test is nothing but the modified K-S 
+distribution function. The critical number rests on the size of 
+a sample, and the significance level, and the best-suited fit 
+deliberates as the lower its rank, the higher the statistic of a 
+function [5]. The GOF test results for RHA and FA samples 
+are presented in Table 6. From Table 6 representing the GOF 
+test, it can be noted that the Burr (4P) distribution was found 
+to be most appropriate among all other distributions with a 
+minimum rank for both RHA and FA samples as filler 
+material that can best suit the experimental test results. The 
+Burr distribution is a continuous probability distribution that 
+is often utilized in reliability analysis and survival analysis. It 
+is a flexible distribution that can model a wide range of 
+shapes, including unimodal, U-shaped, and skewed 
+distributions (Lilliefors, 1967).
+ 
+
+
+===== PAGE 8 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+17 
+ 
+𝑓(𝑥) = 
+𝛼𝑘 (𝑥−𝑦
+𝛽)
+𝛼−1
+𝛽(1+ (𝑥−𝑦
+𝛽)
+𝛼
+)𝑘+1
+ (
+𝑥−𝑦
+𝛽)
+𝛼
+)−𝑘
+𝛾< 𝑥< +∞ 
+
+
+===== PAGE 9 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+18 
+ 
+(a) RHA                                                                                               (b) FA 
+(a)
+RS (%)
+83.5
+83
+82.5
+82
+81.5
+81
+80.5
+0.4
+0.36
+0.32
+0.28
+0.24
+0.2
+0.16
+0.12
+0.08
+0.04
+0
+RS (%)
+84
+83.5
+83
+82.5
+82
+81.5
+81
+0.24
+0.22
+0.2
+0.18
+0.16
+0.14
+0.12
+0.1
+0.08
+0.06
+0.04
+0.02
+0
+RS (%)
+83.5
+83
+82.5
+82
+81.5
+81
+80.5
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+RS (%)
+84
+83.5
+83
+82.5
+82
+81.5
+81
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+Probability (Observed)
+1
+0.8
+0.6
+0.4
+0.2
+0
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+Probability (Observedl)
+1
+0.8
+0.6
+0.4
+0.2
+0
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+
+
+----- TABLE p9#1 -----
+
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+
+----- TABLE p9#2 -----
+
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+
+----- TABLE p9#3 -----
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+
+===== PAGE 10 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+19 
+ 
+𝑆 𝑥 = 𝑃 𝑋> 𝑥 = 1 −𝐹(𝑥) 
+The survival function shown in Figure 13, is a plot to describe 
+the investigational values with a function of chances as 
+expressed in Eq (6).   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+ 
+(a)RHA                                                                                                   (b) FA 
+Figure 14 Probability difference plot with Burr distribution 
+RS (%)
+83.5
+83
+82.5
+82
+81.5
+81
+80.5
+83.6
+83.2
+82.8
+82.4
+82
+81.6
+81.2
+80.8
+80.4
+RS (%)
+84
+83.5
+83
+82.5
+82
+81.5
+81
+84
+83.6
+83.2
+82.8
+82.4
+82
+81.6
+81.2
+80.8
+RS(%)
+83.5
+83
+82.5
+82
+81.5
+81
+80.5
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+RS (%)
+84
+83.5
+83
+82.5
+82
+81.5
+81
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+RS (%)
+83.5
+83
+82.5
+82
+81.5
+81
+80.5
+0.16
+0.12
+0.08
+0.04
+0
+-0.04
+-0.08
+-0.12
+-0.16
+RS (%)
+84
+83.5
+83
+82.5
+82
+81.5
+81
+0.16
+0.12
+0.08
+0.04
+0
+-0.04
+-0.08
+-0.12
+-0.16
+Eq. (6) 
+
+
+----- TABLE p10#1 -----
+
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+----- TABLE p10#2 -----
+
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+
+----- TABLE p10#3 -----
+
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+===== PAGE 11 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+20 
+ 
+ 
+     
+(a) RHA                                                                                             (b) FA 
+Figure 15 Hazard function plot with burr distribution 
+ 
+ 
+(a)
+Figure 16 Cumulative hazard function drawn with burr distribution 
+ 
+ 
+Figure 14 shows the probability difference plot that depicts 
+the variance of observed CDF and the ﬁtted CDF value with 
+burr function was less than 0.06 for both RHA and FA 
+samples. In reliability analysis, the two significant parameters 
+used as the hazard function and cumulative hazard function 
+were also drawn for RHA and FA samples, as presented in 
+Figures 15 and 16. The hazard plot shows the tendency in the 
+failure rate as a function of strength. The burr hazard rate is 
+usually an increasing followed by a decreasing function and 
+can be offered a zero approach for a large value of x [28]. 
+Also, it can be seen that the shape of the hazard function 
+highly believes in the data and the selected function of 
+probability. The distribution is developed to represent the RS 
+values of the bituminous mixture concerning the shape of the 
+hazard function effectively. However, this way is not visible 
+in Figure 15 as this ﬁgure was drawn for a variety of x within 
+the limit of the experimental data. 
+ 
+ 
+ 
+CONCLUSION 
+ 
+The current investigation encompassed both experimental 
+work and probabilistic analysis of four distinct formulations 
+of dense bituminous macadam mixtures. These compositions 
+featured two different types of coarse aggregates: natural 
+aggregate and recycled concrete aggregate. In addition, two 
+waste materials, fly ash and rice husk ash, were integrated 
+into the mixtures as a filler. The outcomes of the experimental 
+phase highlighted that the DBM mixture, formulated with 5% 
+bitumen content and utilizing fly ash and rice husk ash, met 
+the criteria set by Indian standards as outlined in the Marshall 
+test. Assessing their 
+resistance 
+to moisture-induced 
+deterioration, it was observed that the DBM mixture 
+containing NA exhibited superior performance in terms of 
+retained stability when compared to the mixture incorporating 
+RCA. However, it's noteworthy that both mixtures fulfilled 
+the minimum requirements stipulated in the relevant 
+specifications. These empirical findings were subsequently 
+reinforced by a statistical probabilistic analysis. The 
+investigation into probability distributions revealed that the 
+RS (%)
+83.5
+83
+82.5
+82
+81.5
+81
+80.5
+2.5
+2
+1.5
+1
+0.5
+0
+RS (%)
+84
+83.5
+83
+82.5
+82
+81.5
+81
+5.5
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+RS (%)
+83.5
+83
+82.5
+82
+81.5
+81
+80.5
+6.4
+5.6
+4.8
+4
+3.2
+2.4
+1.6
+0.8
+0
+RS (%)
+84
+83.5
+83
+82.5
+82
+81.5
+81
+4.8
+4.4
+4
+3.6
+3.2
+2.8
+2.4
+2
+1.6
+1.2
+0.8
+0.4
+0
+
+
+----- TABLE p11#1 -----
+
+2.5
+2
+1.5
+1
+0.5
+0
+80.5 81 81.5 82 82.5 83 83.5
+RS (%) | 5.5
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+81 81.5 82 82.5 83 83.5 84
+RS (%)
+
+----- TABLE p11#2 -----
+
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+----- TABLE p11#3 -----
+
+6.4
+5.6
+4.8
+4
+3.2
+2.4
+1.6
+0.8
+0
+80.5 81 81.5 82 82.5 83 83.5
+RS (%) | 4.8
+4.4
+4
+3.6
+3.2
+2.8
+2.4
+2
+1.6
+1.2
+0.8
+0.4
+0
+81 81.5 82 82.5 83 83.5 84
+RS (%)
+
+----- TABLE p11#4 -----
+
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+===== PAGE 12 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+21 
+ 
+burr distribution yielded the most favourable results in terms 
+of the Goodness of Fit test, with both types of mixtures 
+highlighting the lowest ranks concerning RS values. 
+In light of the combined insights from the experimental and 
+statistical phases, it can be inferred that waste materials, 
+whether employed as fillers or aggregates, hold significant 
+promise as viable substitutes for traditional components in 
+bituminous pavement construction. This substitution not only 
+offers economic advantages, particularly in areas proximate 
+to the available waste materials but also contributes to the 
+conservation of dwindling natural resources, potentially 
+repurposing them for other critical applications. 
+ 
+REFERENCES 
+ 
+ASTM D1559, 1989. Test method for resistance of the plastic 
+flow of bituminous mixtures using Marshall apparatus. 
+American Society for Testing and Materials, West 
+Conshohocken, PA 
+ 
+Ang, A. H. S., and Tang, W. H, 2007. Probability concepts in 
+engineering: Emphasis on applications to civil and 
+environmental engineering. 2nd edition, New York: Wiley. 
+ 
+ASTM D6931, 2012. Indirect tensile (IDT) strength for 
+bituminous mixtures. American Society for Testing and 
+Materials, West Conshohocken, PA 
+ 
+ASTM D1075, 2011. Standard test method for effect of water 
+on compressive strength of compacted bituminous mixtures. 
+American Society for Testing and Materials, West 
+Conshohocken PA. 
+ 
+AASHTO T283, 2014. Standard method of test for resistance 
+of compacted asphalt mixtures to moisture-induced damage. 
+American Association of State Highway and Transportation 
+Officials, Washington DC. 
+ 
+BIS 2386, Part IV, 1963. Methods of test for aggregates for 
+concrete, Bureau of Indian Standards, New Delhi, India. 
+ 
+BIS 2386, Part I, 1963. Methods of test for aggregates for 
+concrete, Bureau of Indian Standards, New Delhi, India. 
+ 
+BIS 2386, Part III, 1963. Methods of test for aggregates for 
+concrete, Bureau of Indian Standards, New Delhi, India. 
+ 
+BIS 6241, 1971. Method of test for determination of stripping 
+value of road aggregates, Bureau of Indian Standards, New 
+Delhi, India. 
+ 
+BIS 1202, 1978. Determination of Specific Gravity. Bureau 
+of Indian Standards, New Delhi, Delhi. 
+ 
+BIS 1203, 1978. Methods for testing tar and bituminous 
+materials: Determination of penetration, Bureau of Indian 
+Standards, New Delhi, India. 
+ 
+BIS 1205, 1978. Methods for testing tar and bituminous 
+materials: Determination of softening point, Bureau of Indian 
+Standards, New Delhi, India. 
+ 
+BIS 1206, Part II, 1978. Methods for testing tar and 
+bituminous materials: Determination of softening point, 
+Bureau of Indian Standards, New Delhi, India 
+ 
+BIS 1206, Part III, 1978. Method for testing tar and bitumen 
+materials: determination of kinematic viscosity. Bureau of 
+Indian Standards, New Delhi, India. 
+ 
+Benjamin, J. R. and Cornell, C. A., 1970. Probability, 
+statistics, and decision for civil engineers, New York, 
+McGraw-Hill. 
+ 
+BIS 73, 2013. Paving bitumen specification (second 
+revision). Bureau of Indian Standards, New Delhi, India 
+ 
+Conte, J.P., 2001. Statistics, probability and reliability. Course 
+University California San Diego Fall 4:68–74. 
+ 
+Giri, J.P., Panda, M. and Sahoo, U.C., 2021. Development and 
+evaluation of some bituminous mixes containing RCA. 
+Journal of Testing and Evaluation, 49(4), pp.2579-2596. 
+DOI: 10.1520/JTE20180824 
+ 
+Hakim, A.R., Fithriani, I. and Novita, M., 2021. Properties of 
+Burr distribution and its application to heavy-tailed survival 
+time data. In Journal of Physics: Conference Series (Vol. 
+1725, No. 1, p. 012016). IOP Publishing.  
+DOI: 10.1088/1742-6596/1725/1/012016 
+ 
+Lee, C.H., Du, J.C. and Shen, D.H., 2012. Evaluation of pre-
+coated recycled concrete aggregate for hot mix asphalt. 
+Construction and Building Materials, 28(1), pp.66-71.  
+DOI: 10.1016/j.conbuildmat.2011.08.025 
+ 
+Lilliefors, H.W., 1967. On the Kolmogorov-Smirnov test for 
+normality with mean and variance unknown. Journal of the 
+American statistical Association, 62(318), pp.399-402. 
+ 
+Melchers, R. E., 1999. Structural reliability analysis and 
+prediction, 2nd edition, Wiley, New York. 
+ 
+MoRTH, 2013. Specifications for road and bridge works, 
+Ministry of Road Transport and Highways, Indian Roads 
+Congress, New Delhi, India. 
+ 
+Moghaddam, T.B., Soltani, M. and Karim, M.R., 2014. 
+Experimental characterization of rutting performance of 
+polyethylene terephthalate modified asphalt mixtures under 
+static and dynamic loads. Construction and Building 
+Materials, 65, pp.487-494.  
+DOI: 10.1016/j.conbuildmat.2014.05.006 
+ 
+Mistry, R. and Kumar, T., 2016. Utilization of rice husk ash 
+in hot mix asphalt concrete as mineral filler replacement. In 
+International Conference on Advanced Materials for Science 
+and Engineering (ICAMSE). 
+ 
+Mistry, R., Karmakar, S. and Kumar Roy, T., 2019. 
+Experimental evaluation of rice husk ash and fly ash as 
+alternative fillers in hot-mix asphalt. Road Materials and 
+Pavement Design, 20(4), pp.979-990.  
+DOI: 10.1080/14680629.2017.1422791 
+
+
+----- TABLE p12#1 -----
+
+burr distribution yielded the most favourable results in terms
+of the Goodness of Fit test, with both types of mixtures
+highlighting the lowest ranks concerning RS values.
+In light of the combined insights from the experimental and
+statistical phases, it can be inferred that waste materials,
+whether employed as fillers or aggregates, hold significant
+promise as viable substitutes for traditional components in
+bituminous pavement construction. This substitution not only
+offers economic advantages, particularly in areas proximate
+to the available waste materials but also contributes to the
+conservation of dwindling natural resources, potentially
+repurposing them for other critical applications.
+REFERENCES
+ASTM D1559, 1989. Test method for resistance of the plastic
+flow of bituminous mixtures using Marshall apparatus.
+American Society for Testing and Materials, West
+Conshohocken, PA
+Ang, A. H. S., and Tang, W. H, 2007. Probability concepts in
+engineering: Emphasis on applications to civil and
+environmental engineering. 2nd edition, New York: Wiley.
+ASTM D6931, 2012. Indirect tensile (IDT) strength for
+bituminous mixtures. American Society for Testing and
+Materials, West Conshohocken, PA
+ASTM D1075, 2011. Standard test method for effect of water
+on compressive strength of compacted bituminous mixtures.
+American Society for Testing and Materials, West
+Conshohocken PA.
+AASHTO T283, 2014. Standard method of test for resistance
+of compacted asphalt mixtures to moisture-induced damage.
+American Association of State Highway and Transportation
+Officials, Washington DC.
+BIS 2386, Part IV, 1963. Methods of test for aggregates for
+concrete, Bureau of Indian Standards, New Delhi, India.
+BIS 2386, Part I, 1963. Methods of test for aggregates for
+concrete, Bureau of Indian Standards, New Delhi, India.
+BIS 2386, Part III, 1963. Methods of test for aggregates for
+concrete, Bureau of Indian Standards, New Delhi, India.
+BIS 6241, 1971. Method of test for determination of stripping
+value of road aggregates, Bureau of Indian Standards, New
+Delhi, India.
+BIS 1202, 1978. Determination of Specific Gravity. Bureau
+of Indian Standards, New Delhi, Delhi.
+BIS 1203, 1978. Methods for testing tar and bituminous
+materials: Determination of penetration, Bureau of Indian
+Standards, New Delhi, India.
+BIS 1205, 1978. Methods for testing tar and bituminous
+materials: Determination of softening point, Bureau of Indian
+Standards, New Delhi, India. |  |  |  |  |  |  |  |  | BIS 1206, Part II, 1978. Methods for testing tar and |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | bituminous materials: Determination of softening point, |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | Bureau of Indian Standards, New Delhi, India |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | BIS 1206, Part III, 1978. Method for testing tar and bitumen |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | materials: determination of kinematic viscosity. Bureau of |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | Indian Standards, New Delhi, India. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | Benjamin, J. R. and Cornell, C. A., 1970. Probability, |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | statistics, and decision for civil engineers, New York, |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | McGraw-Hill. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | BIS 73, 2013. Paving bitumen specification (second |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | revision). Bureau of Indian Standards, New Delhi, India |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ASTM D1559, 1989. Test method for resistance of the plastic |  |  |  |  |  |  |  |  | Conte, J.P., 2001. Statistics, probability and reliability. Course |  |  |  |  |  |  |  |  |  | 
+flow of bituminous mixtures using Marshall apparatus. |  |  |  |  |  |  |  |  | University California San Diego Fall 4:68–74 |  |  |  |  |  |  |  | . |  | 
+American Society for Testing and Materials, West |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Conshohocken, PA |  |  |  |  |  |  |  |  | Giri, J.P., Panda, M. and Sahoo, U.C., 2021. Development and |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | evaluation of some bituminous mixes containing RCA. |  |  |  |  |  |  |  |  |  | 
+Ang, A. H. S., and Tang, W. H, 2007. Probability concepts in |  |  |  |  |  |  |  |  | Journal of Testing and Evaluation, 49(4), pp.2579-2596. |  |  |  |  |  |  |  |  |  | 
+engineering: Emphasis on applications to civil and |  |  |  |  |  |  |  |  | DOI: 10.1520/JTE20180824 |  |  |  |  |  |  |  |  |  | 
+environmental engineering. 2nd edition, New York: Wiley. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | Hakim, A.R., Fithriani, I. and Novita, M., 2021. Properties of |  |  |  |  |  |  |  |  |  | 
+ASTM D6931, 2012. Indirect tensile (IDT) strength for |  |  |  |  |  |  |  |  | Burr distribution and its application to heavy-tailed survival |  |  |  |  |  |  |  |  |  | 
+bituminous mixtures. American Society for Testing and |  |  |  |  |  |  |  |  | time data. In Journal of Physics: Conference Series (Vol. |  |  |  |  |  |  |  |  |  | 
+Materials, West Conshohocken, PA |  |  |  |  |  |  |  |  | 1725, No. 1, p. 012016). IOP Publishing. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | DOI: 10.1088/1742-6596/1725/1/012016 |  |  |  |  |  |  |  |  |  | 
+ASTM D1075, 2011. Standard test method for effect of water |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+on compressive strength of compacted bituminous mixtures. |  |  |  |  |  |  |  |  | Lee, C.H., Du, J.C. and Shen, D.H., 2012. Evaluation of pre- |  |  |  |  |  |  |  |  |  | 
+American Society for Testing and Materials, West |  |  |  |  |  |  |  |  | coated recycled concrete aggregate for hot mix asphalt. |  |  |  |  |  |  |  |  |  | 
+Conshohocken PA. |  |  |  |  |  |  |  |  | Construction and Building Materials, 28(1), pp.66-71. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | DOI: 10.1016/j.conbuildmat.2011.08.025 |  |  |  |  |  |  |  |  |  | 
+AASHTO T283, 2014. Standard method of test for resistance |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+of compacted asphalt mixtures to moisture-induced damage. |  |  |  |  |  |  |  |  | Lilliefors, H.W., 1967. On the Kolmogorov-Smirnov test for |  |  |  |  |  |  |  |  |  | 
+American Association of State Highway and Transportation |  |  |  |  |  |  |  |  | normality with mean and variance unknown. Journal of the |  |  |  |  |  |  |  |  |  | 
+Officials, Washington DC. |  |  |  |  |  |  |  |  | American statistical Association, 62(318), pp.399-402. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+BIS 2386, Part IV, 1963. Methods of test for aggregates for |  |  |  |  |  |  |  |  | Melchers, R. E., 1999. Structural reliability analysis and |  |  |  |  |  |  |  |  |  | 
+concrete, Bureau of Indian Standards, New Delhi, India. |  |  |  |  |  |  |  |  | prediction, 2nd edition, Wiley, New York. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+BIS 2386, Part I, 1963. Methods of test for aggregates for |  |  |  |  |  |  |  |  | MoRTH, 2013. Specifications for road and bridge works, |  |  |  |  |  |  |  |  |  | 
+concrete, Bureau of Indian Standards, New Delhi, India. |  |  |  |  |  |  |  |  | Ministry of Road Transport and Highways, Indian Roads |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | Congress, New Delhi, India. |  |  |  |  |  |  |  |  |  | 
+BIS 2386, Part III, 1963. Methods of test for aggregates for |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+concrete, Bureau of Indian Standards, New Delhi, India. |  |  |  |  |  |  |  |  | Moghaddam, T.B., Soltani, M. and Karim, M.R., 2014. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | Experimental characterization of rutting performance of |  |  |  |  |  |  |  |  |  | 
+BIS 6241, 1971. Method of test for determination of stripping |  |  |  |  |  |  |  |  | polyethylene terephthalate modified asphalt mixtures under |  |  |  |  |  |  |  |  |  | 
+value of road aggregates, Bureau of Indian Standards, New |  |  |  |  |  |  |  |  | static and dynamic loads. Construction and Building |  |  |  |  |  |  |  |  |  | 
+Delhi, India. |  |  |  |  |  |  |  |  | Materials, 65, pp.487-494. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | DOI: 10.1016/j.conbuildmat.2014.05.006 |  |  |  |  |  |  |  |  |  | 
+BIS 1202, 1978. Determination of Specific Gravity. Bureau |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+of Indian Standards, New Delhi, Delhi. |  |  |  |  |  |  |  |  | Mistry, R. and Kumar, T., 2016. Utilization of rice husk ash |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | in hot mix asphalt concrete as mineral filler replacement. In |  |  |  |  |  |  |  |  |  | 
+BIS 1203, 1978. Methods for testing tar and bituminous |  |  |  |  |  |  |  |  | International Conference on Advanced Materials for Science |  |  |  |  |  |  |  |  |  | 
+materials: Determination of penetration, Bureau of Indian |  |  |  |  |  |  |  |  | and Engineering (ICAMSE) |  |  | . |  |  |  |  |  |  | 
+Standards, New Delhi, India. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | Mistry, R., Karmakar, S. and Kumar Roy, T., 2019. |  |  |  |  |  |  |  |  |  | 
+BIS 1205, 1978. Methods for testing tar and bituminous |  |  |  |  |  |  |  |  | Experimental evaluation of rice husk ash and fly ash as |  |  |  |  |  |  |  |  |  | 
+materials: Determination of softening point, Bureau of Indian |  |  |  |  |  |  |  |  | alternative fillers in hot-mix asphalt. Road Materials and |  |  |  |  |  |  |  |  |  | 
+Standards, New Delhi, India. |  |  |  |  |  |  |  |  | Pavement Design, 20(4), pp.979-990. |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  | DOI: 10.1080/14680629.2017.1422791 |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 13 =====
+
+  
+© 2023 The Author(s). Ecocycles © European Ecocycles Society, ISSN 2416-2140                                                       Volume 9, Issue 3 (2023) 
+ 
+22 
+ 
+Showkat, B. and Singh, D., 2022. Perceiving moisture 
+damage of asphalt mixes containing RAP using survival 
+analysis based on Kaplan-Meier estimator and Cox 
+proportional hazards model. Construction and Building 
+Materials, 320, p.126249. 
+DOI: 10.1016/j.conbuildmat.2021.126249 
+ 
+ 
+
+
+----- TABLE p13#1 -----
+
+proportional hazards model. Construction and Building |  | 
+Materials, 320, p.126249. |  | 
+DOI: 10.1016/j.conbuildmat.2021.126249 |  | 
+ |  | 

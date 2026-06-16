@@ -1,0 +1,1449 @@
+
+===== PAGE 1 =====
+
+RESEARCH ARTICLE
+Experimental study on the properties of ultra-
+high-strength geopolymer concrete with
+polypropylene fibers and nano-silica
+Fadi Althoey1, Osama ZaidID2*, Saleh Alsulamy3, Rebeca Martı´nez-Garcı´a4, Jesu´s de
+Prado-Gil4, Mohamed M. ArbiliID5
+1 Department of Civil Engineering, Najran University, Najran, Saudi Arabia, 2 Department of Civil
+Engineering, Swedish College of Engineering and Technology, Wah Cantt, Pakistan, 3 Department of
+Architecture and Planning, College of Engineering, King Khalid University, Abha, Saudi Arabia, 4 Department
+of Mining Technology, Topography, and Structures, University of Leo´n, Campus of Vegazana s/n, Leo´n,
+Spain, 5 Department of Technical Civil Engineering, Erbil Technical Engineering College, Erbil Polytechnic
+University, Erbil, Iraq
+* osama.zaid@scetwah.edu.pk
+Abstract
+Because of the recent progress in materials properties, specifically high-strength concrete,
+further research is needed to evaluate its suitability, understanding, and performance in the
+modern-day world. This research aims to enhance the performance of ultra-high-strength
+geopolymer concrete (UHS-GPC) by adding nano-silica (NS) and polypropylene fibers
+(PPFs). Three 1%, 2%, and 3% different amounts of PPFs and three NS 5%, 10%, and 15%
+were utilized in the samples. Various performance parameters of UHS-GPC were evalu-
+ated, such as fresh property, compressive strength, modulus of elasticity split tensile, flex-
+ural and bonding strength, drying shrinkage, load-displacement test, fracture performance,
+and elevated temperature. The test outcomes showed that by raising the percentage of
+PPFs and NS to the allowable limit, the performance of UHS-GPC can be improved signifi-
+cantly. The most improved performance of UHS-GPC was obtained at 2% polypropylene
+fibers and 10% nano-silica, as the compressive, splitting tensile, flexural. Bond strength was
+improved by 17.07%, 47.1%, 36.52, and 37.58%, and the modulus of elasticity increased by
+31.4% at 56 days. The study showed that the sample with 2% PPFs and 10% NS had excel-
+lent performance in the load-displacement test, drying shrinkage, fracture behavior, and ele-
+vated temperature. At 750˚C elevated temperature, the samples’ strength was reduced
+drastically, but at 250˚C, the modified samples showed good resistance to heat by retaining
+their compressive strength to some degree. The present work showed the suitability of
+PPFs and NS to develop ultra-high-strength geopolymer concrete, which can be used as a
+possible alternate material for Portland cement-based concrete.
+1. Introduction
+Ultra-high-strength concrete is suitable for constructing longer bridges, tall buildings, and
+structures exposed to aggressive conditions [1]. However, the mass of ordinary Portland
+PLOS ONE
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+1 / 31
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+a1111111111
+OPEN ACCESS
+Citation: Althoey F, Zaid O, Alsulamy S, Martı´nez-
+Garcı´a R, de Prado-Gil J, Arbili MM (2023)
+Experimental study on the properties of ultra-high-
+strength geopolymer concrete with polypropylene
+fibers and nano-silica. PLoS ONE 18(4): e0282435.
+https://doi.org/10.1371/journal.pone.0282435
+Editor: Parthiban Kathirvel, SASTRA Deemed
+University, INDIA
+Received: December 17, 2022
+Accepted: February 15, 2023
+Published: April 20, 2023
+Copyright: © 2023 Althoey et al. This is an open
+access article distributed under the terms of the
+Creative Commons Attribution License, which
+permits unrestricted use, distribution, and
+reproduction in any medium, provided the original
+author and source are credited.
+Data Availability Statement: All relevant data are
+within the paper and its Supporting Information
+files.
+Funding: The authors extend their appreciation to
+the Deanship of Scientific Research at King Khalid
+University for funding this work through Small
+Groups Project under grant number RGP.1/116/43,
+awarded to SA and to the Deanship of Scientific
+Research at Najran University for funding this
+work, under the Research Groups Funding
+
+
+===== PAGE 2 =====
+
+cement in ultra-high-strength concrete (UHSC) is usually 800 to 1150 kg/m3 [2], which is
+twice or thrice the proportion of conventional cement in traditional concrete [3–5]; the forma-
+tion of OPC needs a considerable proportion of energy and natural resources [6], which
+makes the immense proportion of CO2 [7]. Making 1 ton of clinker is projected to need 6.5 to
+7 mega-joules of energy and releases nearly [8] 0.90 to 1.0 tons of CO2. The engineers tried to
+reduce the volume of binders and replace additional binder-based materials with ordinary
+Portland cement [9–11]. Yu et al. [12] revealed that HSC was developed with a lowered binder
+volume of 680 kg/m3, which led to a 29% decrease in the release of CO2 to the outer atmo-
+sphere [13]. Compared to ordinary Portland cement, geopolymer is a binder that is mostly
+clinker free and low carbon-based [14]. It can be developed by chemical activation of materials
+that are surplus in alumino-silicates, for instance, granulated blast furnace slag (GBFS) [15],
+meta halloysite [16], wheat straw ash [17], metakaolin (MK) [18, 19] silica fume (SF) [20], and
+these materials can be activated by utilizing solutions such as sulfate, sodium hydroxide, sili-
+cates, etc. Laterite soil can also be a potential material for developing geopolymer material
+strength properties similar to cement-based concrete [21]. GPC has received massive consider-
+ation because of the considerable decrease in the proportion of carbon dioxide outflow and the
+requirement for natural raw materials [22–25]. Contrasting to Portland cement, the
+manufacturing of raw materials doesn’t need a calcination method which leads to a decrease in
+energy consumption [26, 27].it is observed from past studies that geopolymer concrete releases
+five to six times less carbon dioxide than conventional concrete. The current progress in the
+geopolymer concrete domain demands ultra-high-strength geopolymer concrete (UHS-GPC)
+by utilizing geopolymer (GP) as a binding material [28, 29]. Authors in a study [25] displayed
+that the highest bending and compression strength of UHS-GPC with 3% fibers were 13 MPa
+and 181 MPa after curing for 28 days, correspondingly when it was chemically activated with
+solutions of sodium hydroxide and sodium silicate. Toniolo [30] and Ahmed [31] also used
+nano-silica and slag to develop UHS-GPC, attaining compression strength of greater than 145
+MPa. Several research studies have shown that only slag-based geopolymers lead to complica-
+tions such as reduced workability, high shrinkage, fast setting time [32], and loss of strength
+properties during carbonation. Mixing slag and silica fume seem very appropriate compared
+to employing only slag for attaining excellent durability, strength, and new properties of GPC
+[33]. There appears to be significant room for enhancement in these domains of UHS-GPC.
+Mineral admixtures or fillers are supplementary cementitious materials (SCMs) [34] and
+are utilized to reduce the cost, improve the slump value, and harden the characteristics of con-
+crete [35–37]. Wheat straw ash (WSA), silica fume (SF), rice husk ash (RHA), fly-ash (FA) and
+granulated blast furnace slag (GBFS) have been utilized in past research extensively as SCMs
+because of their positive effect on the strength, durability characteristics, cost, and environ-
+ment. The two significant elements of UHS-GPC are nano-silica (NS) and polypropylene
+fibers (PPFs). The inclusion of PPFs enhances ductility and resistance against impact consider-
+ably. Zaid et al. [14] indicated that when the fibers by 4% weight of binder were utilized in geo-
+polymer composites, it had an irrelevant impact on the strength and ductility properties of
+geopolymer concrete. Polypropylene fibers (PPFs) improve concrete’s toughness, ductility,
+and post-cracking behavior [38]. The optimizing and design method to attain the optimal per-
+formance of UHS-GPC with fibers depends on the physical properties of fibers. Furthermore,
+the comparatively higher price of fibers and appropriate control of their mixing in a GPC
+matrix is essential for real-life usage and commercialization of UHS-GPC. NS plays a crucial
+role in HSC throughout its packed densifying effect. Furthermore, research indicated that
+including 10 to 15% NS in ultra-high-strength concrete enhances the freshness of concrete.
+Some past research has shown that introducing NS to GPC improved strength formation.
+However, it reduced the slump value [24, 39]. Das et al. [20] showed that introducing an
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+2 / 31
+program grant code NU/RG/SERC/12/13, awarded
+to FA.
+Competing interests: There are no conflicts of
+interest to declare.
+
+
+===== PAGE 3 =====
+
+appropriate proportion of NS enhanced the strength and fresh characteristics of UHS-GPC. In
+cement-based ultra-high-strength concrete, nano-silica mainly enhances strength and durabil-
+ity due to its nano-size and densifying influence [40, 41]. A past study observed enhancement
+in fresh properties of ultra-high-strength concrete with nano-silica [42]. For GPC, though dif-
+ferent past studies have revealed that the introduction of nano-silica helped in the strength
+gain, the rheological properties were reduced [43–46]. Nematzadah et al. [47] showed that add-
+ing an optimal dose of NS can enhance geopolymer concrete’s strength and fresh properties.
+However, Chithra et al. [48] observed that substituting fly ash with nano-silica in concrete led
+to a reduction in fresh characteristics of GPC. The utilization of nano-silica in fly-ash-based
+GPC was investigated in some of the past studies, though because of the lack of knowledge on
+research related to the strength, ductility, and fracture characteristics of GBFS/SF based GPC
+modified with nano-silica and PPFs are very limited in the literature, GPC is not utilized in the
+construction sector and building codes. Drying shrinkage considerably impacts the durability
+characteristics of concrete [49]. The concrete drops water by the capillary action during dry-
+ing, which causes cracks and shrinkage [50–53]. Authors in a study [54] revealed a consider-
+able decrease in shrinkage when PPFs or steel fibers were employed as strengthening materials
+in concrete. The research concluded that adding more proportion of fibers up to a certain
+amount reduces drying shrinkage.
+1.1 Novelty of present work
+Further research is necessary because of the advancement and challenges related to the GPC,
+particularly the different properties of ultra-high-strength fiber-reinforced geopolymer con-
+crete (UHS-GPC). This research aims to elevate the awareness of UHS-GPC by examining the
+influence of nano-silica (NS) and polypropylene fibers (PPFs) on ultra-high-strength geopoly-
+mer concrete’s strength and fracture characteristics. PPFs were added in 1%, 2%, and 3% by
+the binder’s weight, and NS was added in 5%, 10%, and 15% by the binder’s weight. As per the
+author’s reliable information, no considerable research has been done on the effect of nano-sil-
+ica on the properties of ultra-high-strength geopolymer concrete modified with polypropylene
+fibers by evaluating the flow diameter, compression strength, modulus of elasticity, split tensile
+strength and flexural strength, pullout test, load deflection capacity, drying shrinkage, fracture
+energy, and lastly the elevated temperature of ultra-high-strength fiber-reinforced geopolymer
+concrete, which shows the originality of the current work. The present research will assist in
+growing information on developing ultra-high-strength fiber-reinforced geopolymer concrete
+with excellent properties in different strength characteristics and against elevated
+temperatures.
+2. Raw materials and sample properties
+Table 1 presents the physical and Table 2 shows the chemical properties of silica fume, nano-
+silica, and granulated blast furnace slag. The chemical composition of silica fume, nano-silica,
+and GBFS is obtained from x-ray diffraction (XRD) analysis as presented in Fig 1(A)–1(C).
+The images of silica fume, nano-silica, and GBFS are provided in Fig 2(A)–2(C). Na2SiO3 and
+NaOH were utilized as alkali chemicals. The particle size distribution for the fine and coarse
+aggregate is presented in Fig 3(A) and 3(B). To start, SF, NS, and GBFS were dry mixed for five
+minutes, and then river sand (fine aggregate) was added and further dry mixed for three min-
+utes. The alkaline solutions were then added and mixed for three minutes. The Na2SiO3 and
+NaOH were obtained from the local chemical industry in Islamabad. Polypropylene fibers
+(PPFs), as presented in Fig 2(D), were used to improve the ductility of geopolymer concrete.
+The physical characteristics of PPFs are displayed in Table 3. Fibers were added in 1%, 2%, and
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+3 / 31
+
+
+===== PAGE 4 =====
+
+3%, and nano-silica was introduced in 5%, 10%, and 15%. Complete mix details of all the sam-
+ples are displayed in Table 4. The sample’s terminology was designed to have four groups in
+total. The first is the control samples used for reference, and then for modified samples, the
+term “G” denotes the group. The number after the “G” indicates the group number. Similarly,
+the word “PPFs” and “NS” means polypropylene fibers and nano-silica in each group, and the
+number after the PPFs and NS indicates the percentage of these materials. All the samples
+were formed at ambient temperature.
+3. Test procedures
+Numerous tests were performed in the present research to evaluate the fresh and strength
+properties of polypropylene fibers-reinforced UHS-GPC. The following segments highlight
+the test methods.
+3.1 Fresh property
+The influence of adding fiber on the fresh properties of ultra-high-strength GPC was evaluated
+as flow diameter following BS EN 1015–11 [55]. After mixing the mixtures, it was poured into
+a cone and lifted and spread onto the flow table. The diameter of the pat on two sides at 90
+angles to each other was evaluated. The flow test was performed when mixing was completed
+for every batch of samples, and every mix of samples was tested three times to bring uniformity
+to the testing.
+3.2 Compression strength performance and Modulus of Elasticity (MOE)
+This research determined the compression performance of entire specimens by utilizing MOE
+and compression strength. Cylinders of 6 x 12 inches (length x diameter) were used to deter-
+mine the concrete’s compressive strength following ASTM C 39 [56]. To evaluate MOE,
+6-inch x 12-inch concrete cylinders were used following ASTM C 469 [57]. The rate of loading
+for compression and MOE was 1.5 MPa/sec. To obtain MOE, a steel ring with a strain gauge
+was fitted around the concrete cylinder, and the stress-strain data of specimens were obtained.
+Table 1. Physical characteristics of nano-silica, silica fume, GBFS.
+Physical Property
+Nano-silica
+Silica Fume
+GBFS
+Mean particle size (microns)
+0.20
+37
+16
+Surface area (m2/kg)
+1858
+448
+324
+https://doi.org/10.1371/journal.pone.0282435.t001
+Table 2. Chemical properties of silica fume, GBFS, nano-silica.
+Chemical elements
+Silica Fume
+GBFS
+Nano-Silica
+Silica (SiO2)
+68.87
+31.47
+95.25
+Al2O3
+20.46
+15.62
+-
+MgO
+0.51
+6.72
+0.25
+Fe2O3
+2.61
+0.54
+0.49
+CaO
+1.78
+39.64
+1.62
+K2O
+2.01
+0.71
+0.69
+SO3
+0.39
+2.62
+-
+Na2O
+1.48
+0.29
+0.64
+Loss of ignition
+1.89
+2.39
+1.06
+https://doi.org/10.1371/journal.pone.0282435.t002
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+4 / 31
+
+
+----- TABLE p4#1 -----
+
+Physical Property | Nano-silica | Silica Fume | GBFS
+Mean particle size (microns) | 0.20 | 37 | 16
+Surface area (m2/kg) | 1858 | 448 | 324
+
+----- TABLE p4#2 -----
+
+Chemical elements | Silica Fume | GBFS | Nano-Silica
+Silica (SiO)
+2 | 68.87 | 31.47 | 95.25
+AlO
+2 3 | 20.46 | 15.62 | -
+MgO | 0.51 | 6.72 | 0.25
+FeO
+2 3 | 2.61 | 0.54 | 0.49
+CaO | 1.78 | 39.64 | 1.62
+KO
+2 | 2.01 | 0.71 | 0.69
+SO
+3 | 0.39 | 2.62 | -
+NaO
+2 | 1.48 | 0.29 | 0.64
+Loss of ignition | 1.89 | 2.39 | 1.06
+
+===== PAGE 5 =====
+
+Fig 1. XRD analysis of (a) Silica Fume (SF), (b) Granulated blast furnace slag (GBFS), and (c) Nano-silica (NS).
+https://doi.org/10.1371/journal.pone.0282435.g001
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+5 / 31
+
+
+===== PAGE 6 =====
+
+Compressive strength of HS-GPC was evaluated at 28, 56, and 90 days of age, and MOE was
+assessed at 28 and 56 days of age.
+3.3 Pullout test
+To determine the bond strength of UHS-GPC, a pullout test was carried out following ASTM
+C 900 [58]. Concrete cubes of 6 x 6 x 6 inches were arranged and tried at the curing of 28 and
+56 days. To achieve a smooth sample surface, the top layer of the concrete specimen was
+capped with gypsum to distribute a uniform load. The test setup for the pullout test is pre-
+sented in Fig 4. The bond strength of concrete specimens was evaluated under the pullout test
+using the following Formula (A).
+t ¼
+F
+3:14∗L∗d
+ðAÞ
+Fig 2. Images of (a) Silica Fume (SF), (b) Nano-Silica (NS), (c) Granulated Blast Furnace Slag (GBFS), and (d) Polypropylene Fibers
+(PPFs).
+https://doi.org/10.1371/journal.pone.0282435.g002
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+6 / 31
+
+
+===== PAGE 7 =====
+
+Fig 3. Particle Size Distribution; (a) Fine aggregates, (b) Coarse aggregates.
+https://doi.org/10.1371/journal.pone.0282435.g003
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+7 / 31
+
+
+===== PAGE 8 =====
+
+Here, L is the embedded length of steel reinforcement, F is the force, and d is the steel diam-
+eter in mm.
+3.4 Splitting tensile strength performance
+To evaluate the splitting tensile strength (STS) of all the samples, a universal testing machine
+(UTM) with a limit of 1200 kN. was employed following ASTM C 496 [59]. The rate of loading
+from splitting tensile strength was 0.15 MPa/sec. Concrete samples of 6-inch x 12-inch were
+used to find the STS. Splitting tensile strength was evaluated at 28 days of strength. The split-
+ting tensile strength is evaluated using the following relationship (B).
+fst ¼ 0:63 F
+A
+ðBÞ
+In the above relationship, A is the concrete’s x-section area in mm2, F is the cracking load
+in Newton, and fst is splitting tensile strength.
+3.5 Flexural behavior
+To assess the flexural strength of UHS-GPC, 6 x 6 x 24 inches concrete beams were prepared
+to perform the three-point bending test following ASTM C78 [60]. A universal testing
+machine was also used for this with the assembly of the flexural tests. A linear variable differen-
+tial transducer (LVDT) was installed at the mid-position of the beam soffit. This test’s highest
+loading rate was 0.55 mm/minute, with the highest force of 190 kN. The test setup for flexural
+is presented in Fig 5. The flexural strength was evaluated at curing of 28 days of strength. The
+Table 3. Physical characteristics of polypropylene fibers (PPFs).
+Physical Characteristics
+Result
+Color
+White
+Length (mm)
+20
+Tensile Strength (MPa)
+600 to 650
+Young’s Modulus (GPa)
+4.0
+Density (g/cm3)
+1.1
+https://doi.org/10.1371/journal.pone.0282435.t003
+Table 4. Mix design of materials (kg/m3).
+Mixing ID
+SF
+GBFS
+NS
+SS
+SH
+PPFs
+Fine Aggregate
+Coarse Aggregate
+Water
+Control
+165
+685
+0
+65
+130
+0
+455
+650
+175
+G2-PPFs-1-NS-5
+165
+685
+42.5
+65
+130
+8.5
+455
+650
+175
+G2-PPFs-2-NS-5
+165
+685
+42.5
+65
+130
+17
+455
+650
+175
+G2-PPFs-3-NS-5
+165
+685
+42.5
+65
+130
+25.5
+455
+650
+175
+G3-PPFs-1-NS-10
+165
+685
+85
+65
+130
+8.5
+455
+650
+175
+G3-PPFs-2-NS-10
+165
+685
+85
+65
+130
+17
+455
+650
+175
+G3-PPFs-3-NS-10
+165
+685
+85
+65
+130
+25.5
+455
+650
+175
+G4-PPFs-1-NS-15
+165
+685
+127.5
+65
+130
+8.5
+455
+650
+175
+G4-PPFs-2-NS-15
+165
+685
+127.5
+65
+130
+17
+455
+650
+175
+G4-PPFs-3-NS-15
+165
+685
+127.5
+65
+130
+25.5
+455
+650
+175
+SF–Silica Fume, GBFS–Granulated Blast Furnace Slag, SS–Sodium Silicate, SH–Sodium Hydroxide, PPFs–Polypropylene Fibers
+https://doi.org/10.1371/journal.pone.0282435.t004
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+8 / 31
+
+
+----- TABLE p8#1 -----
+
+Physical Characteristics | Result
+Color | White
+Length (mm) | 20
+Tensile Strength (MPa) | 600 to 650
+Young’s Modulus (GPa) | 4.0
+Density (g/cm3) | 1.1
+
+----- TABLE p8#2 -----
+
+Mixing ID | SF | GBFS | NS | SS | SH | PPFs | Fine Aggregate | Coarse Aggregate | Water
+Control | 165 | 685 | 0 | 65 | 130 | 0 | 455 | 650 | 175
+G2-PPFs-1-NS-5 | 165 | 685 | 42.5 | 65 | 130 | 8.5 | 455 | 650 | 175
+G2-PPFs-2-NS-5 | 165 | 685 | 42.5 | 65 | 130 | 17 | 455 | 650 | 175
+G2-PPFs-3-NS-5 | 165 | 685 | 42.5 | 65 | 130 | 25.5 | 455 | 650 | 175
+G3-PPFs-1-NS-10 | 165 | 685 | 85 | 65 | 130 | 8.5 | 455 | 650 | 175
+G3-PPFs-2-NS-10 | 165 | 685 | 85 | 65 | 130 | 17 | 455 | 650 | 175
+G3-PPFs-3-NS-10 | 165 | 685 | 85 | 65 | 130 | 25.5 | 455 | 650 | 175
+G4-PPFs-1-NS-15 | 165 | 685 | 127.5 | 65 | 130 | 8.5 | 455 | 650 | 175
+G4-PPFs-2-NS-15 | 165 | 685 | 127.5 | 65 | 130 | 17 | 455 | 650 | 175
+G4-PPFs-3-NS-15 | 165 | 685 | 127.5 | 65 | 130 | 25.5 | 455 | 650 | 175
+
+===== PAGE 9 =====
+
+flexural strength of UHS-GPC is evaluated using the following relationship (C).
+Fu ¼
+3∗fL
+ðh   aÞ
+2∗2b
+ðCÞ
+In the above relationship, f is the ultimate highest load in Newton, Fu is the flexural
+strength, h is the sample’s height, L is the clear distance, and a is the notch’s height in the
+3-point bending test.
+To evaluate the ductility of UHS-GPC, 6 x 6 x 24 inches concrete beams were cast per
+ASTM C1609 [61]. A stiff plastic mold was prepared to confine any movements during the
+placement of the fresh mix. Before concrete casting, electrical strain gauges were installed with
+a gauge resistance of 119 ± 0.5 O, and the molds were lubricated properly to de-mold the sam-
+ples conveniently.
+3.6 Drying shrinkage
+This test is carried out to examine the change in the length of hardened concrete. Drying
+shrinkage was performed following ASTM C157 [62] and prismatic molds of 76 x 76 x 285
+Fig 4. Test setup of bond strength.
+https://doi.org/10.1371/journal.pone.0282435.g004
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+9 / 31
+
+
+===== PAGE 10 =====
+
+mm. The test setup for drying shrinkage is presented in Fig 6. The samples were placed at a
+temperature of 24˚C in a temperature-controlled cabinet and under moist conditions follow-
+ing ASTM C511 [63]. The drying shrinkage was assessed for 3, 7, 14, 21, 28, 56, and 90 days of
+age. The change in length was evaluated using the Formula (D) from ASTM C157 [62], and
+the results were depicted in the micro-strain.
+Change in length micro   strian
+ð
+Þ ¼ ðCRDa   CRDbÞ
+G
+∗106
+ðDÞ
+In the above formula, G is the gauge length in mm, CRDa is reading at a specific age in mm,
+and CRDb is the reading after 24 hours of mixing in mm.
+3.7 Fracture energy
+In this test, a servo-controlled hydraulic jack is utilized on the concrete sample suspended on
+the beam. The beam was 400 mm in length with 100 mm in depth. Fracture energy was evalu-
+ated by installing a linear variable differential transducer (LVDT) on the beam subjected to a
+four-point bending test. Its test setup is presented in Fig 7. Fracture energy signifies the energy
+needed to develop a concrete matrix crack, which is evaluated by the suggested RILEM (E).
+Gf ¼ ðWo þ mgssÞ
+A
+ðEÞ
+In the above relationship, Gf is the fracture energy, σs is the displacement, mg is the con-
+crete’s weight, wo is the area under the force vs displacement curve, and A is the area.
+The relationship in (E) evaluated the critical intensity factor.
+K ¼ 3PðmaxÞ∗l
+2∗b∗d2
+∗
+ffiffiffiffiffi
+ao
+p
+∗1:9   3:06 þ 14:48 A2 þ 25A4
+ð
+Þ
+ðFÞ
+Fig 5. Test setup for flexural strength.
+https://doi.org/10.1371/journal.pone.0282435.g005
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+10 / 31
+
+
+===== PAGE 11 =====
+
+In the above relationship (F), l is the sample’s clear span, b is the sample’s width, d is the
+sample’s depth, Pmax is the highest force, A is the ratio between the depth of notch and depth
+of the specimen, ao is sample’s depth of the notch.
+3.8 Elevated temperature
+In this test, concrete samples were exposed to high temperatures, and their effect on concrete
+compressive strength was evaluated. An electric plus gas furnace was employed for this test.
+When the desired heat was attained, the heat temperature was kept the same for 2.5 hours. The
+heating and cooling regime are presented in Fig 8. The concrete samples were exposed to 250˚C,
+500˚C, and 750˚C. The temperature was divided into three phases; the 1st phase shows the start of
+heating the temperature till it reached its desired temperature, 2nd phase shows the desired heat
+was sustained for 2.5 hours, and 3rd phase shows the cooling of the sample after heating it to the
+needed heat. Afterwards, the furnace was let cooled at the rate of 2.5˚C per minute to evade ther-
+mal shock to the concrete samples. When the furnace was thoroughly cooled to ambient tempera-
+ture, the samples were kept in the lab for 24 hours at ambient temperature. Then, the samples
+were tested to evaluate the loss in mass and strength of exposure to high temperatures.
+4. Results and discussion
+4.1 Fresh properties
+The impact of adding PPFs on the fresh property of UHS-GPC is provided in Fig 9. It could be
+observed that the fresh characteristics of UHS-GPC changed significantly with the inclusion of
+Fig 6. Test setup for drying shrinkage.
+https://doi.org/10.1371/journal.pone.0282435.g006
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+11 / 31
+
+
+===== PAGE 12 =====
+
+PPFs. It can be stated that the flow diameter was reduced when the proportion of fibers was
+raised. Furthermore, it should be kept in mind that the inclusion of a high percentage of PPFs,
+like 2% and 3% formed marginally dry mixtures in their fresh condition. Reduction in the flow
+with the incorporation of PPFs can be due to the high surface area of fibers which ingests the
+extra water available for lubricating the mixture. Ahmed et al. [64] revealed that increasing
+polypropylene fibers lead to a harsh mixture which can cause an issue in the strength or dura-
+bility of hardened concrete. Changes in flow diameter were because of a rise in the amount of
+silica and its fast reactivity with the alkali solutions, where additional “SiO2” behaved as nuclei
+for the precipitation of dissolved samples from silica fume the nano-silica. Das et al. [20]
+revealed that adding 10% lime as a substitute for fly ash to develop geopolymer concrete led to
+low workability. The decrease in the workability with adding the lime could be related to the
+increase in calcium in the concrete’s mix and the high dissolution of the monomers because of
+the rise in the alkalinity. The reduced value of concrete’s flowability could be due to raw mate-
+rials’ physical and chemical properties [65]. Mustakim et al. [66] revealed that adding nano-sil-
+ica after its optimal percentage will lead to lower workability; this could be because the nano-
+silica has a high surface area due to which the nano-silica absorbs extra accessible water from
+the mix, which makes the fresh concrete stiff and highly cohesive. Compared to granulated
+blast furnace slag, nano-silica has high reactivity, which could lead to fast agglomeration and
+result in concrete specimens with reduced values of flowability [67].
+4.2 Compressive strength and modulus of elasticity
+Fig 10(A) shows the co-relations between the modulus of elasticity (MOE) and compressive
+strength of UHS-GPC with different proportions of fibers. The MOE and compressive
+Fig 7. Test setup for fracture energy test.
+https://doi.org/10.1371/journal.pone.0282435.g007
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+12 / 31
+
+
+===== PAGE 13 =====
+
+strength enhanced as the number of PPFs was raised. With no PPFs and nano-silica (control
+sample), the uppermost compressive strength at 90 days is 129.1 MPa. When the PPFs were
+1%, the highest compressive strength at 90 days was 137.14 MPa which is a 5.86% improve-
+ment from than control sample. The compressive strength number was improved to 134.5
+MPa, 146.4 MPa, and 155.4 MPa with the 2% PPFs and 10% nano-silica, and this was the high-
+est compressive strength attained with 2% PPFs and 10% nano-silica, which is 16.72%, 17.07%,
+and 16.9% higher strength than samples with no PPFs at 28, 56 and 90 days. At 3% PPFs, the
+compressive strength of all the samples was lesser than those with a similar amount of nano-
+silica; adding more fibers causes the mix to be harsher by absorbing water which ultimately
+reduces the strength [68]. The tendency of strength in development in the samples was identi-
+cal to previous research on fiber-reinforced GPC and ultra-high-strength concrete [69–71]. A
+higher amount of PPFs also decreases the space between fibers, which limits the onset and dis-
+persion of cracks in the matrix. The effect of the addition of PPFs and nano-silica (NS) on the
+MOE of UHS-GPC samples is provided in Fig 10(B). The addition of NS led to a significant
+improvement in the modulus of elasticity. When 5% NS was utilized at 56 days, the highest
+modulus of elasticity was 30.7 GPa, but when 10% NS was added at 56 days, these strength val-
+ues were enhanced by 14.1% and reached 35.75 GPa. But when the NS was increased from 10
+to 15%, the modulus of elasticity reduced compared to other samples with a similar amount of
+PPFs. The samples with 10% NS and 2% PPFs had the highest modulus values of elasticity of
+32 and 35.75 GPa at 28 and 56 days, which is more than 31.2% and 31.4% of the reference spec-
+imen at 28 and 56 days. Similar observations were reported in the literature [72, 73].
+Co-relation analysis was performed between compressive strength and modulus of elasticity
+for 28 and 56 days, as presented in Fig 10(C). From the co-relation analysis, it can be observed
+Fig 8. Heating and Cooling regime of elevated temperature.
+https://doi.org/10.1371/journal.pone.0282435.g008
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+13 / 31
+
+
+===== PAGE 14 =====
+
+that the relation between compressive strength and modulus of elasticity is very linear and
+shows the R2 value of more than 75% for both the relationship, which shows the strong co-rela-
+tion between the compressive strength and modulus of elasticity at 28 and 56 days.
+4.3 Bonding strength
+Fig 11 presents the changes in the bonding strength of samples because of the joint influence
+of nano-silica and polypropylene fibers. It could be said with confidence that bond strength
+improved considerably with adding polypropylene fibers. Furthermore, nano-silica also
+enhanced the UHS-GPC sample’s bond strength. The maximum improvement of bond
+strength was observed to be 14.41 MPa and 17.3 MPa, which is the improvement of 26.47%
+and 37.58% at 28 and 56 days for the sample with 10% nano-silica and 2% PPFs in comparison
+with the reference sample. The effect of PPFs was noted to be more than nano-silica on the
+concrete’s bond strength; this observation was also revealed in past studies. Ali et al. [74]
+showed that fibers improved the fiber’s pullout strength by controlling the propagation of
+cracks in UHS-GPC specimens. The authors also revealed that the level of confinement at the
+fibers-concrete interface improved with adding fibers up to the optimal level, which enhances
+the concrete’s bond strength and friction [27]. The authors in their study attained more than
+25% of bond strength because of the inclusion of fibers. Several studies have examined the
+bond strength between steel rebars and conventional concrete [66, 67]. Still, there was no sig-
+nificant research on the bond strength between steel rebar and ultra-high-strength geopolymer
+concrete modified with nano-silica and PPFs. The present study will showcase the potency of
+nano-silica and PPFs on the bonding strength of UHS-GPC samples. In literature [27, 75], the
+authors revealed that the quality of concrete is a considerable parameter of the bonding
+Fig 9. Impact of fibers and NS on flow diameter of UHS-GPC.
+https://doi.org/10.1371/journal.pone.0282435.g009
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+14 / 31
+
+
+===== PAGE 15 =====
+
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+15 / 31
+
+
+===== PAGE 16 =====
+
+strength and capacity in tensile strain. Because of the matrix’s quality enhancement because of
+the micro-filling impact and pozzolanic behavior of nano-silica [32, 76], the inclusion of nano-
+silica could also improve the pullout capability of concrete structural members [77]. After the
+failure of concrete samples, the steel reinforcement was detached from the control samples,
+while the same steel reinforcement was still attached firmly to the concrete even after failing
+due to the presence of PPFs. The same observation was also noticed in the past study [78], in
+which the authors revealed a 15 to 25% enhancement in resistance against the pullout test
+because of the inclusion of 1 and 2% steel fibers. In another study, Harajli et al. [79] reported
+that samples with 2% fibers improved bond strength up to 60% compared to samples with no
+fibers. Furthermore, the bond strength was enhanced by 4 or 5 times with the inclusion of
+fibers in 3 and 4% [79]. Hence, it could be emphasized that the joint usage of nano-silica and
+PPFs improved the bond strength of concrete samples because of the improved adhesion of
+nano-silica and crack bridging impact of polypropylene fibers.
+4.4 Splitting tensile strength (STS)
+The effect of NS and fibers on STS is displayed in Fig 12(A). As with compressive strength per-
+formance, increasing the PPFs in samples improved the STS of UHS-GPC. When the number
+of PPFs was increased from 1% to 3%, the STS was enhanced from the control sample in every
+variant of the sample. When NS was added, the STS was improved at first but then reduced
+Fig 10. (a) Compressive strength of samples (MPa) at 28, 56, and 90 days. (b) Modulus of elasticity of UHS-GPC
+(GPa) at 28 and 56 days. (c) Co-relation for Compression strength and MOE at the curing of 28 and 56 days.
+https://doi.org/10.1371/journal.pone.0282435.g010
+Fig 11. Bond strength of UHS-GPC at 28 and 56 days.
+https://doi.org/10.1371/journal.pone.0282435.g011
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+16 / 31
+
+
+===== PAGE 17 =====
+
+Fig 12. (a) Splitting tensile strength of UHS-GPC at 56 and 90 days. (b) Polynomial regression analysis to predict splitting tensile analysis
+employing compressive strength (MPa).
+https://doi.org/10.1371/journal.pone.0282435.g012
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+17 / 31
+
+
+===== PAGE 18 =====
+
+when NS was added from 10% to 15%. The lower STS was 9.14 MPa at 56 days for 1% PPFs
+and 15% NS, and at 56 and 90 days, the highest splitting tensile strength was 15.4 MPa and
+17.6 MPa at 10% NS and 2% PPFs which is 44.15% and 47.1% more splitting tensile strength
+than control sample at 56 and 90 days. When the NS is added by 5%, the properties of alkaline
+solutions change, which alters the formation of reaction products and the strength develop-
+ment. As per the previous research, the inclusion of silica fume and slag-based GPC slightly
+enhanced the compression strength but significantly improved the bonding strength between
+the fibers and matrix. It can be noted that with more than 10% nano-silica, the strength was
+reduced, which could be ascribed to surplus unreacted nano-silica, which leads to extreme
+self-hydration in the concrete mixture, leading to the development of cracking and so reduces
+the splitting tensile strength. Similar behavior of geopolymer concrete was reported in past
+studies [80, 81]. To estimate the strength and progress of a co-relation among entire strength
+numbers of compressive and splitting tensile strength, polynomial regression analysis is per-
+formed as depicted in Fig 10 to provide a polynomial relationship. The statistical analysis in
+Fig 12(B) permits estimating the values of splitting tensile strength for a particular specimen
+employing its compression strength values at 56 and 90 days. R2 was noted to be near unity
+and estimated values with more than 80% constancy for split tensile strength, demonstrating
+the accuracy of the test outcomes.
+4.5 Flexural strength
+Fig 13 depicts the flexural strength of ultra-high-strength geopolymer concrete with different
+doses of PPFs and NS. The inclusion of PPFs enhances flexural strength. Flexural strength
+improved from 22.7 MPa to 25.43 MPa with 1 to 2% of PPFs at 90 days. More PPFs could
+Fig 13. Flexural strength of UHS-GPC at 56 and 90 days.
+https://doi.org/10.1371/journal.pone.0282435.g013
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+18 / 31
+
+
+===== PAGE 19 =====
+
+enhance the contact area between the polypropylene fibers and the concrete matrix, thus
+improving the matrix’s capability to sustain the external load [31]. However, the amount of
+nano-silica also considerably influences the FS. The complex behavior of NS is due to a balance
+between the packed microstructure and the altered chemical activator [82]. At 90 days, the
+sample with 2% PPFs and 10% NS has a 36.52% higher flexural strength than other GPC sam-
+ples. Fig 14A and 14B present the concrete samples after the flexural test. It could be noted
+from Fig 14(A), which is control concrete, that after the flexural test, it has large cracks down
+the middle portion of the beam and some minor cracks surrounding the beam. Fig 14(B)
+shows the modified sample (G3-PPFs-2-NS-10) in which there is an average crack in the mid
+portion of the concrete beam. Still, the crack is not propagated down the beam, and there are
+also no minor cracks around the beam which show the improvement of flexural strength in
+Fig 14. Concrete Sample after flexural test, (a) Control sample, (b) Modified Sample (G3-PPFs-2-NS-10).
+https://doi.org/10.1371/journal.pone.0282435.g014
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+19 / 31
+
+
+===== PAGE 20 =====
+
+the modified sample. The higher ultimate flexural strength could be because of the improved
+bonding strength amid PPFs and concrete matrix because of the inclusion of nano-silica [83,
+84]. The test result shows that the joint utilization of PPFs and nano-silica attained excellent
+bending behavior.
+To evaluate the flexural strength and develop a statistical co-relation among entire strength
+numbers of compressive and splitting tensile strength, linear regression analysis is carried out,
+as represented in Fig 15, to provide a statistical relationship. The statistical relationship in
+Fig 15 allows for assessing the flexural strength at 56 and 90 days by using the strength values
+of splitting tensile and compressive strength at 56 and 90 days. Values of R2 were noted to be
+near unity and projected values with the consistency of more than 80% for flexural strength,
+which establishes the correctness of the test outcomes.
+4.6 Load displacement test
+Fig 16 depicts the load-displacement curve of UHS-GPC’s specimens under bending load. At
+the start, a straight slope line was noticed up to the primary crack, and strain relaxation was
+noticed for every sample of UHS-GPC. The load-displacement curve of the control sample
+showed the same response as compared with the modified sample up to its first cracking, but
+when then polypropylene fibers were added. The joint impact of both nano-silica and PPFs
+was examined. It was noted that concrete’s ductility is enhanced by adding nano-silica and
+PPFs up to an optimal dose of 10% nano-silica and 2% PPFs. This optimal mix displayed
+toughness, high residual strength, and lower load relaxations compared to samples without
+PPFs and nano-silica [27, 85]. This test showed that the polypropylene fibers and concrete
+matrix sustained the external load before the crack in the concrete sample. Adding more
+Fig 15. Polynomial regression analysis to predict flexural strength utilizing compressive and split tensile strength (MPa) at 56 and 90 days.
+https://doi.org/10.1371/journal.pone.0282435.g015
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+20 / 31
+
+
+===== PAGE 21 =====
+
+polypropylene fibers stiffens the sample, due to which, at 3% PPFs, the samples have lower
+ductility than samples with 2% PPFs. During the after-crack process, the cracked part is
+entirely tolerated by polypropylene fibers. Thus, the energy utilized during UHS-GPC failure
+enhances the proportion of PPFs, improving the ductility of ultra-high-strength geopolymer
+fiber-reinforced concrete.
+4.7 Drying shrinkage performance of UHS-GPC
+As discussed earlier, a drying shrinkage test was performed on all the concrete samples at 3, 7,
+14, 21, 28, 56, and 90 days of age and then compared with the control concrete to assess the
+improvement in the performance of drying shrinkage. The test outcome after the 56 days was
+the base for determining the drying shrinkage because, after the 56 days, the strain values
+become stable. The test results of drying shrinkage are presented in Fig 17. When compared
+with the control sample at the age of 90 days, the drying shrinkage was decreased by 12.97% at
+2% PPFs and 10% NS, which is very significant. This considerable reduction in micro-strains
+could be ascribed to the absence of moisture loss in modified samples. The reduced drying
+shrinkage of ultra-high-strength geopolymer concrete modified with PPFs and NS is credited
+to the existence of a less interconnected network of the capillary system in the concrete matrix.
+Fig 16. Load displacement curve for all samples.
+https://doi.org/10.1371/journal.pone.0282435.g016
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+21 / 31
+
+
+===== PAGE 22 =====
+
+The drying shrinkage can also be impacted by the stiffness and porosity of aggregates used in
+the concrete. Micro-cracks are restricted by using polypropylene fibers, which confines the
+propagation of harmful agents into the concrete; PPFs also reduce the degree of cracks. At 3%
+PPFs and 15% NS, the drying shrinkage was observed to be increased by 7.05% at 90 days com-
+pared to the sample with 1% PPFs and 10% NS. This can be ascribed to nano-silica behaving
+like an activator in the hydration method, enhancing the degree of hydration and increasing
+drying shrinkage. The study’s drying shrinkage results are consistent with the past literature
+[26, 86–88].
+4.8 Fracture performance of ultra-high-strength geopolymer concrete
+The fracture performance of concrete samples was evaluated utilizing Formula (C), which is
+provided in Fig 18(A). When the polypropylene fibers and nano-silica were added to the sam-
+ples, it was noticed that the fracture energy was enhanced by raising the proportion of both
+polypropylene fibers and nano-silica at some specific level. The positive impact of polypropyl-
+ene fibers was that the PPFs bridge the concrete cracks and help reduce them, averting the
+cracks’ openings. Furthermore, nano-silica could develop bonding strength and improve the
+adhesion between the concrete’s matrix and PPFs. The joint utilization of PPFs and nano-silica
+showed excellent fracture performance for the UHS-GPC samples. Another motive for the
+excellent fracture energy could be ascribed to improvement in the sample’s compression
+Fig 17. Drying shrinkage result of UHS-GPC.
+https://doi.org/10.1371/journal.pone.0282435.g017
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+22 / 31
+
+
+===== PAGE 23 =====
+
+Fig 18. (a) Impact of PPFS and NS on UHS-GPC’s fracture energy, (b) Impact of PPFS and NS on UHS-GPC’s CSIF.
+https://doi.org/10.1371/journal.pone.0282435.g018
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+23 / 31
+
+
+===== PAGE 24 =====
+
+strength having PPFs and nano-silica. In another study, the authors [89] studied the change of
+fracture energy in fly ash GPC specimens. They observed that the fracture energy enhanced as
+the concrete’s compression strength improved. The critical stress intensity factor (CSIF) of
+UHS-GPC specimens was evaluated at 28 days of age utilizing the Formula (F), and the out-
+comes are provided in Fig 18(B). The critical stress intensity factor denotes the intensity of
+stress needed to spread the cracking. Similar outcomes of CSIF were attained for samples hav-
+ing various amounts of PPFs and nano-silica. When the percentage of polypropylene fibers
+and nano-silica in concrete samples were increased to 2% and 10%, respectively, it was
+observed that more stresses were needed to open the present cracking in the concrete sample.
+The improvement in CSIF could be ascribed to the high bonding because of the rise in the
+amount of nano-silica and PPFs up to optimal dose and the higher ability of PPFs to arrest
+cracks.
+4.9 Performance of UHS-GPC against elevated temperature
+Loss in weight and the residual compressive strength of all concrete samples were evaluated
+after their exposure to the specific elevated temperature. The samples were tested after 24
+hours after their exposure to high heat. The results of the loss in weight of concrete samples
+after their exposure to high heat are presented in Fig 19(A). It could be supposed that using
+PPFs lowers weight loss relatively to high heat. Less loss in weight was observed in the sample
+with 2% PPFs and 10% NS due to the balanced amount of fibers. The highest loss in weight
+was observed at 750˚C for all samples. At 750˚C, the modified samples lost weight up to 43%,
+the geopolymer concrete was highly damaged after the high heat impact, and the concrete
+cracking became very wide. Some pieces of concrete were spalled from the rest of the sample,
+as displayed in Fig 19(B). With the temperature rise, dehydration gets higher in the concrete
+matrix, and all the moisture discharges by travelling to the concrete surface, which damages
+the concrete’s microstructure and instigates a loss in the weight of concrete samples. The com-
+pressive strength of concrete samples after their exposure to elevated temperature is shown in
+Fig 20. It was observed that as the temperature was raised, the compressive strength of concrete
+samples reduced. The lowest compression strength observed at 750˚C in modified samples
+Fig 19. (a) Loss in UHS-GPC weight due to elevated temperature, (b) Concrete sample after exposure to elevated temperature.
+https://doi.org/10.1371/journal.pone.0282435.g019
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+24 / 31
+
+
+===== PAGE 25 =====
+
+was 41.7 MPa, which was still slightly stronger than the control concrete at a similar tempera-
+ture. This signifies the suitability of using PPFs and NS in UHS-GPC. The concrete samples
+exposed to 250˚C had better resistance to heat than other temperatures. Heating the concrete
+causes the release of entrapped water or moisture, and this water or moisture has a consider-
+able impact on the geopolymer concrete. It was mentioned in the research literature [90, 91]
+that water or moisture content within concrete specimens softens the binder gel or lowers the
+surface forces amid the gel particles, reducing the strength. Hence, removing water from the
+concrete mix by giving it heat up to 250˚C helps attain good resistance against high heat [92].
+Furthermore, increasing the temperature from 250˚C to 500˚C and 750˚C leads to a significant
+loss in compressive strength. The significant reduction in compressive strength of UHS-GPC
+after 250˚C could be due to the following reasons: (a) the development of micro-cracks in the
+interfacial transition zone amid the polypropylene fibers or aggregates and the concrete’s
+matrix because of the difference in the coefficient of thermal between the components of
+UHS-GPC [93]; (b) decomposition of hydrates and phase-shift due to high heat which causes
+the strength reduction and existences of micro-cracking due to drying of samples [94].
+5. Conclusions
+The impact of PPFs and NS on the strength properties of UHS-GPC are considered and con-
+ferred in the present research. The subsequent conclusions are obtained from the current
+work.
+1. The addition of PPFs decreased the slump value of freshly mixed UHS-GPC samples.
+Fig 20. Compressive strength of UHS-GPC after elevated temperature.
+https://doi.org/10.1371/journal.pone.0282435.g020
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+25 / 31
+
+
+===== PAGE 26 =====
+
+2. The maximum improvement of bond strength was noted to be 14.41 MPa and 17.3 MPa,
+which is the improvement of 26.47% and 37.58% at 28 and 56 days for the sample with 10%
+nano-silica and 2% PPFs.
+3. When the amount of NS was more than 5%, i.e., at 10% NS, a firm bonding characteristic
+was observed among the PPFs and the matrix.
+4. The highest splitting tensile strength was 15.4 MPa and 17.6 MPa at 10% NS and 2% PPFs
+which is 44.15% and 47.1% more splitting tensile strength than the control sample at 56 and
+90 days.
+5. The co-relation analysis showed the accuracy of test results as the values of the R square
+tended to be close to unity.
+6. The inclusion of PPFs enhances flexural strength. The FS improved from 22.7 MPa to 25.43
+MPa with 1 to 2% of PPFs at 90 days.
+7. The load-displacement curve of the reference specimen displayed similar behavior as com-
+pared with the modified sample up to its first cracking. Still, when PPFs and NS were
+added, the load-displacement curve went up, and the sample with 2% PPFs and 10% NS
+had the highest load-carrying capacity against its corresponding load.
+8. When compared with the control sample at the age of 90 days, the drying shrinkage was
+decreased by 12.97% at 2% PPFs and 10% NS, which is very significant.
+9. When the PPFs and NS were added to the concrete, it was noticed that fracture energy was
+enhanced by increasing the polypropylene fibers and nano-silica.
+10. When the percentage of PPFs and NS in concrete was raised to 2% and 10%, it was noted
+that more stresses were needed to open the present cracking in the concrete sample, which
+improved the critical stress intensity factor.
+11. During the elevated temperature test, the concrete lost the minimum weight and compres-
+sive strength at 250˚C and yielded the highest weight and compressive strength at 750˚C.
+Supporting information
+S1 Table.
+(XLSX)
+Author Contributions
+Conceptualization: Osama Zaid.
+Investigation: Osama Zaid.
+Methodology: Fadi Althoey.
+Resources: Saleh Alsulamy.
+Software: Osama Zaid, Jesu´s de Prado-Gil.
+Supervision: Rebeca Martı´nez-Garcı´a.
+Validation: Mohamed M. Arbili.
+Visualization: Osama Zaid.
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+26 / 31
+
+
+===== PAGE 27 =====
+
+Writing – original draft: Osama Zaid.
+Writing – review & editing: Saleh Alsulamy, Jesu´s de Prado-Gil, Mohamed M. Arbili.
+References
+1.
+Mousavinejad SHG, Sammak M (2021) Strength and chloride ion penetration resistance of ultra-high-
+performance fiber reinforced geopolymer concrete. Structures 32:1420–1427. https://doi.org/https://
+doi.org/10.1016/j.istruc.2021.03.112
+2.
+Mermerdaş K, Arbili MM (2015) Explicit formulation of drying and autogenous shrinkage of concretes
+with binary and ternary blends of silica fume and fly ash. Constr Build Mater 94:371–379. https://doi.
+org/https://doi.org/10.1016/j.conbuildmat.2015.07.074
+3.
+Palla R, Karade S, Mishra G, et al (2017) High strength sustainable concrete using silica nanoparticles.
+Constr Build Mater 138:285–295. https://doi.org/10.1016/j.conbuildmat.2017.01.129
+4.
+Bostanci SC (2020) Use of waste marble dust and recycled glass for sustainable concrete production. J
+Clean Prod 251:119785
+5.
+Munir MJ, Kazmi SMS, Wu Y-F (2017) Efficiency of waste marble powder in controlling alkali–silica
+reaction of concrete: A sustainable approach. Constr Build Mater 154:590–599
+6.
+Zaid O, Ahmad J, Siddique MS, et al (2021) A step towards sustainable glass fiber reinforced concrete
+utilizing silica fume and waste coconut shell aggregate. Sci Rep 11:1–14
+7.
+Hamada H, Alattar A, Tayeh B, et al (2022) Sustainable Application of Coal Bottom Ash as Fine Aggre-
+gates in Concrete: A Comprehensive Review. Case Stud Constr Mater 16:e01109. https://doi.org/10.
+1016/j.cscm.2022.e01109
+8.
+Althoey F, Zaid O, de-Prado-Gil J, et al (2022) Impact of sulfate activation of rice husk ash on the perfor-
+mance of high strength steel fiber reinforced recycled aggregate concrete. J Build Eng 54:104610.
+https://doi.org/https://doi.org/10.1016/j.jobe.2022.104610
+9.
+Heriyanto, Pahlevani F, Sahajwalla V (2018) From waste glass to building materials–An innovative sus-
+tainable solution for waste glass. J Clean Prod 191:192–206. https://doi.org/https://doi.org/10.1016/j.
+jclepro.2018.04.214
+10.
+Qaidi S, Isleem H, Azevedo A, Ahmed H (2022) Sustainable utilization of red mud waste (bauxite resi-
+due) and slag for the production of geopolymer composites: A review. Case Stud Constr Mater. https://
+doi.org/10.1016/j.cscm.2022.e00994
+11.
+Ashish DK (2019) Concrete made with waste marble powder and supplementary cementitious material
+for sustainable development. J Clean Prod 211:716–729. https://doi.org/https://doi.org/10.1016/j.
+jclepro.2018.11.245
+12.
+Su Y, Li J, Wu C, et al (2016) Effects of steel fibres on dynamic strength of UHPC. Constr Build Mater
+114:708–718. https://doi.org/https://doi.org/10.1016/j.conbuildmat.2016.04.007
+13.
+Bao X, Tian Y, Yuan L, et al (2019) Development of high performance PCM cement composites for pas-
+sive solar buildings. Energy Build 194:33–45. https://doi.org/https://doi.org/10.1016/j.enbuild.2019.04.
+011
+14.
+Zaid O, Martı´nez-Garcı´a R, Abadel AA, et al (2022) To determine the performance of metakaolin-based
+fiber-reinforced geopolymer concrete with recycled aggregates. Arch Civ Mech Eng 22:114. https://doi.
+org/10.1007/s43452-022-00436-2
+15.
+Abdel-Gawwad HA, Abo-El-Enein SA (2016) A novel method to produce dry geopolymer cement pow-
+der. HBRC J 12:13–24. https://doi.org/https://doi.org/10.1016/j.hbrcj.2014.06.008
+16.
+Kaze CR, Jiofack SBK, Cengiz O¨ , et al (2022) Reactivity and mechanical performance of geopolymer
+binders from metakaolin/meta-halloysite blends. Constr Build Mater 336:127546. https://doi.org/https://
+doi.org/10.1016/j.conbuildmat.2022.127546
+17.
+Althoey F, Zaid O, Alsharari F, et al (2022) Evaluating the impact of nano-silica on characteristics of
+self-compacting geopolymer concrete with waste tire steel fiber. Arch Civ Mech Eng 23:48. https://doi.
+org/10.1007/s43452-022-00587-2
+18.
+Smirnova O, Kazanskaya L, Koplı´k J, et al (2021) Concrete Based on Clinker-Free Cement: Selecting
+the Functional Unit for Environmental Assessment. Sustainability 13:. https://doi.org/10.3390/
+su13010135
+19.
+Smirnova O, Mene´ndez-Pidal I, Alekseev A, et al (2022) Strain Hardening of Polypropylene Microfiber
+Reinforced Composite Based on Alkali-Activated Slag Matrix. Materials (Basel) 15:1607. https://doi.
+org/10.3390/ma15041607 PMID: 35208146
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+27 / 31
+
+
+===== PAGE 28 =====
+
+20.
+Das SK, Mustakim SM, Adesina A, et al (2020) Fresh, strength and microstructure properties of geopo-
+lymer concrete incorporating lime and silica fume as replacement of fly ash. J Build Eng 32:101780.
+https://doi.org/https://doi.org/10.1016/j.jobe.2020.101780
+21.
+Cyriaque Kaze R, Naghizadeh A, Tchadjie L, et al (2022) Lateritic soils based geopolymer materials: A
+review. Constr Build Mater 344:128157. https://doi.org/https://doi.org/10.1016/j.conbuildmat.2022.
+128157
+22.
+Imtiaz L, Rehman S, Memon S, et al (2020) A Review of Recent Developments and Advances in Eco-
+Friendly Geopolymer Concrete. Appl Sci 10:7838. https://doi.org/10.3390/app10217838
+23.
+Lee W-H, Wang J-H, Ding Y-C, Cheng T-W (2019) A study on the characteristics and microstructures
+of GGBS/FA based geopolymer paste and concrete. Constr Build Mater 211:807–813. https://doi.org/
+https://doi.org/10.1016/j.conbuildmat.2019.03.291
+24.
+Zhang P, Gao Z, Wang J, et al (2020) Properties of fresh and hardened fly ash/slag based geopolymer
+concrete: A review. J Clean Prod 270:122389. https://doi.org/https://doi.org/10.1016/j.jclepro.2020.
+122389
+25.
+Arora S, Jangra P, Pham T (2020) Enhanced Properties of High-silica Rice Husk Ash-Based Geopoly-
+mer Paste by Incorporating Fine Basalt Fibers. Constr Build Mater 245:118422. https://doi.org/10.
+1016/j.conbuildmat.2020.118422
+26.
+Qian L-P, Wang Y-S, Alrefaei Y, Dai J-G (2020) Experimental study on full-volume fly ash geopolymer
+mortars: Sintered fly ash versus sand as fine aggregates. J Clean Prod 263:121445. https://doi.org/
+https://doi.org/10.1016/j.jclepro.2020.121445
+27.
+Intarabut D, Sukontasukkul P, Phoo-ngernkham T, et al (2022) Influence of Graphene Oxide Nanoparti-
+cles on Bond-Slip Reponses between Fiber and Geopolymer Mortar. Nanomaterials 12:. https://doi.org/
+10.3390/nano12060943 PMID: 35335757
+28.
+Iqbal H, Khushnood R, Baloch W, et al (2020) Influence of graphite nano/micro platelets on the residual
+performance of high strength concrete exposed to elevated temperature. Constr Build Mater
+253:119029. https://doi.org/10.1016/j.conbuildmat.2020.119029
+29.
+JM A. (2018) Workability, setting time and strength of high-strength concrete containing high volume of
+palm oil fuel ash. Open Civ Eng J 12:
+30.
+Toniolo N, Boccaccini AR (2017) Fly ash-based geopolymers containing added silicate waste. A review.
+Ceram Int 43:14545–14551. https://doi.org/https://doi.org/10.1016/j.ceramint.2017.07.221
+31.
+Ahmed HU, Mohammed AS, Faraj RH, et al (2022) Compressive strength of geopolymer concrete mod-
+ified with nano-silica: Experimental and modeling investigations. Case Stud Constr Mater 16:e01036.
+https://doi.org/https://doi.org/10.1016/j.cscm.2022.e01036
+32.
+Deb PS, Sarker PK, Barbhuiya S (2015) Effects of nano-silica on the strength development of geopoly-
+mer cured at room temperature. Constr Build Mater 101:675–683. https://doi.org/https://doi.org/10.
+1016/j.conbuildmat.2015.10.044
+33.
+Huseien GF, Shah KW (2020) Durability and life cycle evaluation of self-compacting concrete contain-
+ing fly ash as GBFS replacement with alkali activation. Constr Build Mater 235:117458. https://doi.org/
+https://doi.org/10.1016/j.conbuildmat.2019.117458
+34.
+Osama Zaid; Rebeca Martı´nez-Garcı´a; Fahid Aslam(2022) Influence of Wheat Straw Ash as Partial
+Substitute of Cement on Properties of High-Strength Concrete Incorporating Graphene Oxide. J Mater
+Civ Eng. https://doi.org/10.1061/(ASCE)MT.1943-5533.0004415
+35.
+Zaid O, Ahmad J, Siddique MS, Aslam F (2021) Effect of Incorporation of Rice Husk Ash Instead of
+Cement on the Performance of Steel Fibers Reinforced Concrete. Front Mater 8:14–28. https://doi.org/
+doi: 10.3389/fmats.2021.665625
+36.
+Ahmad J, Zaid O, Aslam F, et al (2021) A Study on the Mechanical Characteristics of Glass and Nylon
+Fiber Reinforced Peach Shell Lightweight Concrete. Materials (Basel) 14:21–41. https://doi.org/10.
+3390/ma14164488
+37.
+Aslam F, Zaid O, Althoey F, et al Evaluating the influence of fly ash and waste glass on the characteris-
+tics of coconut fibers reinforced concrete. Struct Concr n/a: https://doi.org/https://doi.org/10.1002/suco.
+202200183
+38.
+Ahmad J, Arbili MM, Majdi A, et al (2022) Performance of concrete reinforced with jute fibers (natural
+fibers): A review. J Eng Fiber Fabr 17:15589250221121872. https://doi.org/10.1177/
+15589250221121871
+39.
+Parveen, Singhal D, Junaid MT, et al (2018) Mechanical and microstructural properties of fly ash based
+geopolymer concrete incorporating alccofine at ambient curing. Constr Build Mater 180:298–307.
+https://doi.org/https://doi.org/10.1016/j.conbuildmat.2018.05.286
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+28 / 31
+
+
+===== PAGE 29 =====
+
+40.
+Atmaca N, Abbas ML, Atmaca A (2017) Effects of nano-silica on the gas permeability, durability and
+mechanical properties of high-strength lightweight concrete. Constr Build Mater 147:17–26. https://doi.
+org/https://doi.org/10.1016/j.conbuildmat.2017.04.156
+41.
+Qing Y, Zenan Z, Deyu K, Rongshen C (2007) Influence of nano-SiO2 addition on properties of hard-
+ened cement paste as compared with silica fume. Constr Build Mater 21:539–545. https://doi.org/
+https://doi.org/10.1016/j.conbuildmat.2005.09.001
+42.
+Senff L, Labrincha JA, Ferreira VM, et al (2009) Effect of nano-silica on rheology and fresh properties of
+cement pastes and mortars. Constr Build Mater 23:2487–2491. https://doi.org/https://doi.org/10.1016/j.
+conbuildmat.2009.02.005
+43.
+Smirnova O (2019) Compatibility of shungisite microfillers with polycarboxylate admixtures in cement
+compositions. ARPN J Eng Appl Sci 14:600–610
+44.
+Smirnova O (2018) Rheologically active microfillers for precast concrete. Int J Civ Eng Technol
+9:1724–1732
+45.
+SO M. (2020) Low-Clinker Cements with Low Water Demand. J Mater Civ Eng 32:6020008. https://doi.
+org/10.1061/(ASCE)MT.1943-5533.0003241
+46.
+Saidova Z, Yakovlev G, Smirnova O, et al (2021) Modification of Cement Matrix with Complex Additive
+Based on Chrysotyl Nanofibers and Carbon Black. Appl Sci 11:6943. https://doi.org/10.3390/
+app11156943
+47.
+M N (2017) Mechanical properties and durability of high-strength concrete containing macro-polymeric
+and polypropylene fibers with nano-silica and silica fume. Constr Build Mater 132:170
+48.
+Chithra S, Senthil Kumar SRR, Chinnaraju K (2016) The effect of Colloidal Nano-silica on workability,
+mechanical and durability properties of High Performance Concrete with Copper slag as partial fine
+aggregate. Constr Build Mater 113:794–804. https://doi.org/https://doi.org/10.1016/j.conbuildmat.
+2016.03.119
+49.
+Althoey F, Zaid O, Arbili MM, et al (2023) Physical, strength, durability and microstructural analysis of
+self-healing concrete: A systematic review. Case Stud Constr Mater 18:e01730. https://doi.org/https://
+doi.org/10.1016/j.cscm.2022.e01730
+50.
+Smirnova O (2018) Technology of increase of nanoscale pores volume in protective cement matrix. Int
+J Civ Eng Technol 9:1991–2000
+51.
+Smirnova O (2018) Development of classification of rheologically active microfillers for disperse sys-
+tems with Portland cement and superplasticizer. Int J Civ Eng Technol 9:1966–1973
+52.
+Yakovlev G, Пок И, Gordina A, et al (2021) Influence of Sulphate Attack on Properties of Modified
+Cement Composites. Appl Sci 11:8509. https://doi.org/10.3390/app11188509
+53.
+Smirnova OM, de Navascue´s I, Mikhailevskii VR, et al (2021) Sound-Absorbing Composites with Rub-
+ber Crumb from Used Tires. Appl Sci 11:. https://doi.org/10.3390/app11167347
+54.
+Punurai W, Kroehong W, Saptamongkol A, Chindaprasirt P (2018) Mechanical properties, micro-
+structure and drying shrinkage of hybrid fly ash-basalt fiber geopolymer paste. Constr Build Mater
+186:62–70
+55.
+British Standards Institute 1999. BS EN 1015–11:, Masonry., 1999. Methods of test for geopolymer
+material (concrete, paste and mortar), fresh strength and other properties. MK BS EN 1015–11
+56.
+ASTM C 39/C 39M-03 (2003) Standard Test Method for Compressive Strength of Cylindrical Concrete
+Specimens
+57.
+ASTM C469–14 (2014) Standard Test Method for Static Modulus of Elasticity and Poisson’s Ratio of
+Concrete in Compression, ASTM International, West Conshohocken, PA, 2014
+58.
+ASTM C900 Standard Test Method for Pullout Strength of Hardened Concrete
+59.
+ASTM C 496/-11 (2011) Standard Test Method for Splitting Tensile Strength of Cylindrical Concrete
+Specimens
+60.
+Standard A (2010) C78. 2010. Stand Test Method Flexural Strength Concr (Using Simple Beam with
+Third-Point Load (ASTM C78-10) West Conshohocken, PA ASTM Int
+61.
+ASTM C1609 ASTM C1609 Concrete Bend Strength Testing
+62.
+ASTM C 157/C 157M-08 (2014) Standard test method for length change of hardened hydraulic-cement
+mortar and concrete
+63.
+ASTM C511 Standard Specification for Mixing Rooms, Moist Cabinets, Moist Rooms, and Water Stor-
+age Tanks Used in the Testing of Hydraulic Cements and Concretes
+64.
+Ahmad J, Aslam F, Zaid O, et al (2021) Self-Fibers Compacting Concrete Properties Reinforced with
+Propylene Fibers. Sci Eng Compos Mater 28:64–72
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+29 / 31
+
+
+===== PAGE 30 =====
+
+65.
+Huseien G, Mohd.Sam AR, Kwok Wei S, Mirza J (2020) Effects of ceramic tile powder waste on proper-
+ties of self-compacted alkali-activated concrete. Constr Build Mater 236:117574. https://doi.org/10.
+1016/j.conbuildmat.2019.117574
+66.
+Mustakim SM, Das SK, Mishra J, et al (2021) Improvement in Fresh, Mechanical and Microstructural
+Properties of Fly Ash- Blast Furnace Slag Based Geopolymer Concrete By Addition of Nano and Micro
+Silica. Silicon 13:2415–2428. https://doi.org/10.1007/s12633-020-00593-0
+67.
+Al-Majidi MH, Lampropoulos A, Cundy A, Meikle S (2016) Development of geopolymer mortar under
+ambient temperature for in situ applications. Constr Build Mater 120:198–211. https://doi.org/https://
+doi.org/10.1016/j.conbuildmat.2016.05.085
+68.
+Nuaklong P, Wongsa A, Boonserm K, et al (2021) Enhancement of mechanical properties of fly ash
+geopolymer containing fine recycled concrete aggregate with micro carbon fiber. J Build Eng
+41:102403. https://doi.org/https://doi.org/10.1016/j.jobe.2021.102403
+69.
+Ronad A, tech Student M (2016) A STUDY ON MECHANICAL PROPERTIES OF GEOPOLYMER
+CONCRETE REINFORCED WITH BASALT FIBER. Int J Res Eng Technol 05:474–478
+70.
+El-Sayed TA, Shaheen YBI (2020) Flexural performance of recycled wheat straw ash-based geopoly-
+mer RC beams and containing recycled steel fiber. Structures 28:1713–1728. https://doi.org/https://
+doi.org/10.1016/j.istruc.2020.10.013
+71.
+Yuan Y, Zhao R, Li R, et al (2020) Frost resistance of fiber-reinforced blended slag and Class F fly ash-
+based geopolymer concrete under the coupling effect of freeze-thaw cycling and axial compressive
+loading. Constr Build Mater 250:118831. https://doi.org/10.1016/j.conbuildmat.2020.118831
+72.
+Noushini A, Hastings M, Castel A, Aslani F (2018) Mechanical and flexural performance of synthetic
+fibre reinforced geopolymer concrete. Constr Build Mater 186:454–475. https://doi.org/https://doi.org/
+10.1016/j.conbuildmat.2018.07.110
+73.
+Maglad AM, Zaid O, Arbili MM, et al (2022) A Study on the Properties of Geopolymer Concrete Modified
+with Nano Graphene Oxide. Buildings 12:. https://doi.org/10.3390/buildings12081066
+74.
+Ali M, Li X, Chouw N (2013) Experimental investigations on bond strength between coconut fibre and
+concrete. Mater Des 44:596–605. https://doi.org/https://doi.org/10.1016/j.matdes.2012.08.038
+75.
+Sierra-Beltran MG, Jonkers HM, Schlangen E (2014) Characterization of sustainable bio-based mortar
+for concrete repair. Constr Build Mater 67:344–352. https://doi.org/https://doi.org/10.1016/j.
+conbuildmat.2014.01.012
+76.
+Mukharjee BB, Barai S V (2014) Influence of Nano-Silica on the properties of recycled aggregate con-
+crete. Constr Build Mater 55:29–37. https://doi.org/https://doi.org/10.1016/j.conbuildmat.2014.01.003
+77.
+Hanif A, Parthasarathy P, Ma H, et al (2017) Properties improvement of fly ash cenosphere modified
+cement pastes using nano silica. Cem Concr Compos 81:35–48. https://doi.org/10.1016/j.
+cemconcomp.2017.04.008
+78.
+Krstulovic-Opara N, Watson KA, LaFave JM (1994) Effect of increased tensile strength and toughness
+on reinforcing-bar bond behavior. Cem Concr Compos 16:129–141. https://doi.org/https://doi.org/10.
+1016/0958-9465(94)90007-8
+79.
+Harajli MH, Salloukh KA (1997) Effect of fibers on development/splice strength of reinforcing bars in ten-
+sion. Aci Mater J 94:317–324
+80.
+Belkowitz J, Belkowitz W, Nawrocki K, Fisher F (2015) Impact of Nanosilica Size and Surface Area on
+Concrete Properties. ACI Mater J 112:. https://doi.org/10.14359/51687397
+81.
+Cevik A, Alzeebaree R, Humur G, et al (2018) Effect of nano-silica on the chemical durability and
+mechanical performance of fly ash based geopolymer concrete. Ceram Int 44:. https://doi.org/10.1016/
+j.ceramint.2018.04.009
+82.
+Jaishankar P, Poovizhi K, Mohan K (2018) Strength and Durability Behaviour of Nano Silica on High
+Performance Concrete. Int J Eng Technol 7:415. https://doi.org/10.14419/ijet.v7i3.12.16118
+83.
+Nuaklong P, Jongvivatsakul P, Pothisiri T, et al (2020) Influence of rice husk ash on mechanical proper-
+ties and fire resistance of recycled aggregate high-calcium fly ash geopolymer concrete. J Clean Prod
+252:119797. https://doi.org/https://doi.org/10.1016/j.jclepro.2019.119797
+84.
+Alvee AR, Malinda R, Akbar AM, et al (2022) Experimental study of the mechanical properties and
+microstructure of geopolymer paste containing nano-silica from agricultural waste and crystalline
+admixtures. Case Stud Constr Mater 16:e00792. https://doi.org/https://doi.org/10.1016/j.cscm.2021.
+e00792
+85.
+Hosen MA, Shammas MI, Shill SK, et al (2021) Investigation of structural characteristics of palm oil clin-
+ker based high-strength lightweight concrete comprising steel fibers. J Mater Res Technol 15:6736–
+6746. https://doi.org/https://doi.org/10.1016/j.jmrt.2021.11.105
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+30 / 31
+
+
+===== PAGE 31 =====
+
+86.
+Hooton D, Stanish K, Prusinski J (2004) The Effect of Ground, Granulated Blast Furnace Slag (Slag
+Cement) on the Drying Shrinkage of Concrete-A Critical Review of the Literature. Am Concr Institute,
+ACI Spec Publ
+87.
+Sagoe-Crentsil K, Brown T, Taylor A (2013) Drying shrinkage and creep performance of geopolymer
+concrete. J Sustain Cem Mater 2:35–42. https://doi.org/10.1080/21650373.2013.764963
+88.
+Haruehansapong S, Pulngern T, Chucheepsakul S (2017) Effect of Nanosilica Particle Size on the
+Water Permeability, Abrasion Resistance, Drying Shrinkage, and Repair Work Properties of Cement
+Mortar Containing Nano-SiO 2. Adv Mater Sci Eng 2017:1–11. https://doi.org/10.1155/2017/4213690
+89.
+Sarker PK, Haque R, Ramgolam K V (2013) Fracture behaviour of heat cured fly ash based geopolymer
+concrete. Mater Des 44:580–586. https://doi.org/https://doi.org/10.1016/j.matdes.2012.08.005
+90.
+Cheng F-P, Kodur V, Wang T (2004) Stress-Strain Curves for High Strength Concrete at Elevated Tem-
+peratures. J Mater Civ Eng 16:. https://doi.org/10.1061/(ASCE)0899-1561(2004)16:1(84)
+91.
+Xu Y, Wong YL, Poon CS, Anson M (2001) Impact of high temperature on PFA concrete. Cem Concr
+Res 31:1065–1073. https://doi.org/https://doi.org/10.1016/S0008-8846(01)00513-0
+92.
+Heap MJ, Lavalle´e Y, Laumann A, et al (2013) The influence of thermal-stressing (up to 1000˚C) on the
+physical, mechanical, and chemical properties of siliceous-aggregate, high-strength concrete. Constr
+Build Mater 42:248–265. https://doi.org/https://doi.org/10.1016/j.conbuildmat.2013.01.020
+93.
+Valencia Saavedra WG, Mejı´a de Gutie´rrez R (2017) Performance of geopolymer concrete composed
+of fly ash after exposure to elevated temperatures. Constr Build Mater 154:229–235. https://doi.org/
+https://doi.org/10.1016/j.conbuildmat.2017.07.208
+94.
+Zhang HY, Kodur V, Wu B, et al (2016) Thermal behavior and mechanical properties of geopolymer
+mortar after exposure to elevated temperatures. Constr Build Mater 109:17–24. https://doi.org/https://
+doi.org/10.1016/j.conbuildmat.2016.01.043
+PLOS ONE
+Study on Properties of ultra-high-strength geopolymer concrete with polypropylene fibers and nano-silica
+PLOS ONE | https://doi.org/10.1371/journal.pone.0282435
+April 20, 2023
+31 / 31

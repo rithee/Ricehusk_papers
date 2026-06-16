@@ -1,0 +1,911 @@
+
+===== PAGE 1 =====
+
+ 
+20  
+Mustansiriyah Journal of Materials Engineering 
+and Sustainability 
+Volume 01, No. 01, 2025, Pages 20-26 
+https://mjmes.uomustansiriyah.edu.iq/  
+Research Article 
+DOI: https://doi.org/10.31272/kqpssf20    
+ISSN: 3079-9899 (Print) 
+ISSN: 3079-9902 (Online) 
+Work of This Research is 
+Licensed under CC BY
+Hybrid Pervious Concrete Incorporating Micro Rice Husk Ash for Improved 
+Mechanical Properties and Ecological Benefits 
+Yasir K. Ibrahim 1*, Ahmed S. Abbas 2, Narmeen Abdalwahhab Abdalqadir 1, Akram Q. Moften1, Soran Abdrahman 
+Ahmad3 
+1 Materials Engineering Department, college of Engineering, Mustansiriyah University, Baghdad, Iraq. 
+2 Almustafa University, College of Engineering, Baghdad, Iraq 
+3 College of Engineering, Sulaimani University, KRG, Iraq 
+*Email: akramqassim1991@uomustansiriyah.edu.iq  
+ 
+ 
+1. Introduction  
+Today’s building industry is facing increasing challenges, 
+impacted by the continuous increase of the global population 
+and calling for original solutions to maintain the sustainability 
+of materials. As concrete is the primary medium of 
+construction, the industry is reliant on cement, which requires 
+a large amount of energy in production and releases large 
+amounts of carbon dioxide. Traditional concrete is impervious 
+and helps to create urban flooding and heat islands by 
+preventing storm and ground water from recharging the water 
+table. Permeable concrete (pervious concrete) is now utilized as 
+a sustainable approach for stormwater management due to its 
+ability to let water penetrate through, via its interconnected 
+voids. However, despite its potential benefits to the 
+environment, permeable concrete possesses a relatively low 
+mechanical strength, particularly compressive strength, 
+attributed to lack of fine aggregates and porous framework [1]. 
+In order to improve this trade-off between permeability and 
+strength by replacement of the PC it has to be investigated for 
+several SCMs. Rice husk ash (RHA), a waste of rice plants, 
+obtained after milling rice, [has also been used as] an eco 
+friendly pozzolan. RHA is an abundant source of amorphous 
+silica and in fine ground form as micro rice husk ash (MRHA) 
+has ability to be a reactive pozzolana material, which reacts 
+with CH during the cement hydration process leading to the 
+formation of extra C-S-H gel [2]. This leads to densification of 
+matrix, and better ITZ and mechanical properties [3]. The 
+innovation of hybrid permeable concrete with MRHA not just 
+possesses the strength enhancing effect, but keeping its 
+permeability to be sufficient. Moreover, use of MRHA has an 
+edge on the environmental issue of agro-waste utilization 
+process, which decreases the extent of landfill and emission of 
+CO₂ during production of the Portland cement [4]. These 
+actions are consistent with the objectives of green construction 
+and the construction industry's principle of the circular 
+economy [5]. It was reported in the earlier works that the partial 
+substitution of RHA up to the level of 10% by weight of cement 
+greatly enhances the compressive and flexural strengths of 
+RCA mixtures and that the porosity is not unduly affected when 
+it is carefully designed [6]. Furthermore, pozzolanic reaction 
+of MRHA also enhances resistance to chloride, decreases water 
+absorption, and improves the durability in severe environmental 
+condition[7]. 
+The impact of using rice husk ash (RHA) instead of cement in 
+the production of lightweight aerated concrete was examined by 
+Ali et al. [8]. Type I Portland cement, fine aggregate, and 
+aluminum powder were used in this study as aerating agents. 
+Aluminum powder was added at 0.5% by weight of binder 
+Article Info 
+ 
+Abstract  
+Received 
+20/05/2025 
+ 
+To improve mechanical qualities and sustainability, this study explores the creation of 
+hybrid pervious concrete that partially substitutes micro-rice husk ash (MRHA) for ordinary 
+Portland cement (OPC). MRHA replacement levels of 0, 5, 10, and 15% by weight of 
+cement were used to create four different concrete mixtures. At 10% MRHA, the 
+compressive strength improved by 16%, from 36.5 MPa (control) to a maximum of 42.3 
+MPa. At 10% MRHA, water permeability dropped from 5.8 × 10⁻⁷ m/s (control) to 4.7 × 
+10⁻⁷ m/s, suggesting better matrix densification. At 15% MRHA, the water absorption 
+decreased by 15.4% from 7.8% to 6.6%. As MRHA has a lower specific gravity, the 
+hardened density at 15% MRHA decreased slightly from 2340 kg/m³ (control) to 2298 
+kg/m³. The results showed that 10% MRHA replacement offers the best results in terms of 
+strength, permeability, durability, and environmental benefits. Thus, MRHA is a viable 
+sustainable material for environment-friendly concrete applications. 
+Revised 
+21/06/2025 
+Accepted 
+24/06/2025 
+Published 
+01/07/2025 
+ 
+Keywords: Cement, Rice husk ash, Permeability, Sustainability. 
+
+
+----- TABLE p1#1 -----
+
+Received 20/05/2025
+Revised 21/06/2025
+Accepted 24/06/2025
+Published 01/07/2025 |  | To improve mechanical qualities and sustainability, this study explores the creation of | 
+ |  | hybrid pervious concrete that partially substitutes micro-rice husk ash (MRHA) for ordinary | 
+ |  | Portland cement (OPC). MRHA replacement levels of 0, 5, 10, and 15% by weight of | 
+ |  | cement were used to create four different concrete mixtures. At 10% MRHA, the | 
+ |  | compressive strength improved by 16%, from 36.5 MPa (control) to a maximum of 42.3 | 
+ |  | MPa. At 10% MRHA, water permeability dropped from 5.8 × 10⁻⁷ m/s (control) to 4.7 × | 
+ |  | 10⁻⁷ m/s, suggesting better matrix densification. At 15% MRHA, the water absorption | 
+ |  | decreased by 15.4% from 7.8% to 6.6%. As MRHA has a lower specific gravity, the | 
+ |  | hardened density at 15% MRHA decreased slightly from 2340 kg/m³ (control) to 2298 | 
+ |  | kg/m³. The results showed that 10% MRHA replacement offers the best results in terms of | 
+ |  | strength, permeability, durability, and environmental benefits. Thus, MRHA is a viable | 
+ |  | sustainable material for environment-friendly concrete applications. | 
+
+===== PAGE 2 =====
+
+Mustansiriyah Journal of Material Engineering and Sustainability, Volume 01, No. 01, 2025, Pages 20-26 
+ 
+21 
+during mixing, and RHA was added at different replacement 
+levels (0, 2.5, 5, 7.5, 10, 12.5, and 15% by weight of cement). 
+The results indicated that adding 10% RHA as a partial 
+replacement for cement in aerated concrete improved the 
+strength and durability of concrete. The test covered physical, 
+mechanical, and durability aspects (such as density, 
+compressive strength, split tensile strength, and flexural 
+strength of concrete cured for 3, 7, 28, and 90 days, as well as 
+corrosion analysis and sulfate attack at 28 days of curing).  
+The chemical makeup of rice husk ash (RHA) and its impact on 
+the properties of concrete were investigated by Abdulazeez et 
+al. [9]. In comparison to the control mix, concrete mixes 
+containing different proportions of RHA as a partial cement 
+replacement (up to 30%) were tested. According to the results, 
+the ideal cement replacement level was 10% RHA, which 
+produced a compressive strength of 26.8 N/mm², which was 
+similar to that of the control concrete (26.9 N/mm²). 
+Consequently, the study concluded that rice husk ash can be 
+used as an effective cement substitute in concrete. Al-Alwan et 
+al. examined the impact of using rice husk ash (RHA) in 
+concrete as a partial cement substitute. [10]. Their research 
+concentrated on the effects of different RHA proportions (0%, 
+7%, and 14%), water-to-cement ratios (0.3, 0.5, and 0.7), and 
+curing times (10, 20, and 30 days) on the strength, durability, 
+and resistance to corrosion of the concrete.The researchers 
+came to the conclusion that employing fine RHA particles 
+effectively lowers chloride ion penetration over time while also 
+greatly increasing flexural, compressive, and tensile strengths. 
+Additionally, they found that higher water-to-cement ratios had 
+a negative impact, which they attributed to the increased 
+porosity of concrete. The use of bagasse ash (BA) and rice husk 
+ash (RHA) as cement substitutes up to 30% was examined by 
+Dhanalakshmi et al. [11]. To increase the strength and 
+durability 
+of 
+high-performance 
+concrete 
+and 
+support 
+sustainable building practices, they discovered that the ideal 
+replacement ratio was 70% cement, 20% RHA, and 10% BA. 
+In this study, the use of micro rice Husk as cementitious 
+material replacement (partial) in the development of hybrid 
+permeable concrete had been focused in improving the 
+mechanical properties, environmental considerations, and 
+urban water management system. The results are anticipated to 
+help develop sustainable pavement systems for sidewalks, 
+parking lots and low volume roads. 
+2. Materials and Methodology 
+The present experimental study investigates the mechanical 
+and durability performance of hybrid permeable concrete with 
+micro rice husk ash (MRHA) as a partial replacement for 
+Ordinary Portland Cement (OPC). It is intended to create a 
+structurally stable and responsive environmental permeable 
+concrete tool with better compressive strength and water 
+management. Portland cement (PC) Type I, according to ASTM 
+C150, was used as the primary hydraulic binder for all concrete 
+mixes. Entry of a constant cementitious content of 300 kg/m3 
+was used to provide consistency and also to enable direct 
+performance comparisons from MRHA to MRHA replacement 
+levels. OPC Type I was chosen for its moderate hydration and 
+stable strength gain to be used as reference material to 
+investigate the pozzolanic effect of MRHA. Micro rice husk ash 
+(MRHA) as a supplementary cementitious material (SCM): It 
+is obtained by controlled burning of rice husk and fine grinding 
+to have larger surface area and increase reactivity. The MRHA 
+used in this research contains a high proportion of an 
+amorphous silica phase meaning it is applicable for pozollan 
+reaction with CH produced as a result of cement hydration. The 
+fly ash was employed as a substitute for cement partially at 5%, 
+10%, and 15% in weight of cement. The replacement interval 
+was selected according to a number of previous studies 
+indicating that the best strength and durability property could 
+be obtained at a certain percentage of MRHA addition. The 
+coarse aggregates were clean well graded crushed stones up to 
+12.5 mm of nominal size and conforming to ASTM C33. Same 
+total dosage of 1200 kg/m³ for all of the mixes was kept to keep 
+the porosity and permeability constant and below values of 
+1400 kg/m³ for porous concretes for load-bearing application 
+including pervious concrete. The mixing water was drinkable 
+water without impurities, provided at a fixed dosage of 150 
+kg/m³; the resulting ,w/cm" varied from 0.50 to 0.60 depending 
+on the MRHA dosage. This interval was chosen such that 
+sufficient hydration was imparted to that system while 
+fulfilling the desired workability permeability parameters. To 
+compensate the reduction in workability which is typically 
+observed 
+with 
+pozzolanic 
+materials 
+like MRHA, 
+a 
+polycarboxylate 
+based 
+HRWRA, 
+also 
+known 
+as 
+superplasticizer, was added at 5 kg/m³ dose. This was done to 
+achieve consistent flowability and compaction in all concrete 
+mixtures, a key issue especially for applications of pervious 
+concrete where even void structure has to be preserved. All the 
+materials used were evaluated for their chemical and physical 
+properties before usage. The MRHA met the requirements as 
+per ASTM C618 for pozzolanic materials with 50% SiO₂ and 
+LOI. Compositional and Physical properties of OPC and 
+MRHA are presented in Tables 1 and 2. The mix proportions 
+for Permeable Concrete with MRHA are presented in Table 3. 
+Pan mixer was used for mixing concrete batches. Dry 
+ingredients were initially mixed for 2 min, and then addition of 
+water plus superplasticizer solution was done gradually. The 
+poured concrete was vibrated to be compact with standard 
+moulds withdrawing. Specimens were cured under water 
+saturated condition for 28 days at 23 ± 2 degree Celsius and test 
+was performed as per ASTM standards for compressive 
+strength and permeability. This model was developed to 
+investigate the influence of MRHA on mechanical indices, 
+helping to identify an MRHA based permeable concrete mix, 
+which can provide both mechanical strength and environmental 
+compatibility. 
+ 
+Table 1. Chemical Composition of Cement and 
+Supplementary Materials. 
+Component SiO₂ 
+(%) 
+Al₂O₃ 
+(%) 
+Fe₂O₃ 
+(%) 
+CaO 
+(%) 
+MgO 
+(%) 
+SO₃ 
+(%) 
+LOI 
+(%) 
+OPC 
+20.5 
+4.9 
+3.1 
+63.2 
+2.5 
+2.8 
+1.8 
+MRHA 
+89.4 
+0.7 
+0.5 
+1.1 
+0.8 
+0.1 
+4.2 
+ 
+ 
+
+
+===== PAGE 3 =====
+
+Mustansiriyah Journal of Material Engineering and Sustainability, Volume 01, No. 01, 2025, Pages 20-26 
+ 
+22 
+Table 2. Physical Properties of Cement and MRHA. 
+Property 
+OPC MRHA 
+Specific Gravity 
+3.15 
+2.10 
+Blaine Fineness (m²/kg) 
+320 
+840 
+Mean Particle Size (µm) 
+10–15 
+<5 
+Color 
+Gray Light gray 
+Max. Aggregate Size (mm) — 
+— 
+Water Absorption (%) 
+— 
+12.5 
+Bulk Density (kg/m³) 
+— 
+390 
+ 
+Table 3. Mix Proportions for Permeable Concrete with 
+MRHA 
+Mix ID 
+Cement 
+(kg/m³) 
+MRHA 
+(% 
+replacement) 
+MRHA 
+(kg/m³) 
+Coarse 
+Aggregate 
+(kg/m³) 
+Water 
+(kg/m³) 
+Superplasticizer 
+(kg/m³) 
+PC-0 
+300 
+0 
+0 
+1200 
+150 
+5 
+PC-
+5MRHA 
+285 
+5 
+15 
+1200 
+150 
+5 
+PC-
+10MRHA 
+270 
+10 
+30 
+1200 
+150 
+5 
+PC-
+15MRHA 
+255 
+15 
+45 
+1200 
+150 
+5 
+2.1. Experimental work 
+By partially substituting Ordinary Portland Cement (OPC) with 
+micro rice husk ash (MRHA), the experimental program sought 
+to determine how the mechanical characteristics, permeability, 
+and water absorption behavior of hybrid permeable concrete 
+were affected. Before being ground with a mechanical grinder 
+to a particle size of approximately 150 µm, the rice husk ash 
+used in this study was burned under controlled conditions for 
+two hours at 600°C. As shown in Table 3, four concrete mix 
+designs were created: one control mix (PC-0) with 0% MRHA, 
+and three modified mixes (PC-5, PC-10, and PC-15) with 
+MRHA added at replacement levels of 5%, 10%, and 15% by 
+weight of cement, respectively. An experimental design was 
+created to determine the ideal replacement percentage of 
+MRHA that would improve the strength and durability 
+characteristics of concrete while preserving sufficient 
+permeability. To completely comprehend the impact of MRHA 
+incorporation, extensive testing of the compressive strength, 
+hardened density, water permeability, and water absorption was 
+performed to assess the performance of permeable concrete 
+mixtures. 
+2.2.1 Compressive Strength 
+Compressive strength tests followed EN 12390-3 and cubes of 
+150 mm 3 150 mm 3 150 mm size were cast. The specimens 
+were removed from the moulds after 24 h and then cured in 
+water at 23 ± 2 °C until the test age. Tests were also placed at 
+28 days of curing age targeting to study the effect of MRHA 
+content on compressive strength of CKD at various ages. The 
+specimens were uniaxially compressed using a calibrated 
+universal testing machine (UTM). Load was applied at a steady 
+rate of 0.5 MPa/sec and without an impact, until the time of 
+failure. Three samples were tested for all mixture proportions 
+(0%, 5%, 10% and 15% MRHA replacement levels) and an 
+average compressive strength was considered for statistical 
+relevance and for reduction of experimental error. The findings 
+were employed to assess the pozzolanic potential of MRHA and 
+its beneficial effect on the strength of permeable concrete 
+systems. 
+2.2.2 Density  
+The hardened density of the concrete mixes was measured 
+according to ASTM C642 to evaluate whether the addition of 
+MRHA imparts on the closeness and mass to volume ratio of 
+the cured concrete. 150 mm × 150 mm × 150 mm cubic 
+specimens were tested. The samples were surface-dried after 28 
+days water curing to remove surface water, and air dried before 
+weighing in air with digital balance (precision, ±0.01g). The 
+volume of each sample was calculated from the measured 
+dimension, and hardened density (kg/m³) was obtained from 
+the following equation. 
+ 
+Density =
+Mass (kg)
+𝑉𝑜𝑙𝑢𝑚𝑒 (𝑚3) …  
+………..(1) 
+ 
+Three specimens were tested for each mixture design (0%, 5%, 
+10%, and 15% MRHA), and average density value was used for 
+calculation. This test sought to establish whether the addition of 
+fine MRHA increases the bulk density of permeable concrete 
+due to increased particle packing and matrix density 
+enhancements. 
+ 
+2.2.3 Water Permeability 
+The water permeability of the hybrid permeable concrete 
+mixes containing MRHA was tested to determine the resistance 
+of material to the flow of water under pressure which is an 
+important property to evaluate long-term durability and the 
+performance in pavement and drainage system. An adapted 
+version of DIN 1048 Part 5 has been used for the test, which is 
+appropriate for the determination of the saturated porous 
+material ST of a concrete in the perfusion under hydraulic 
+gradient. Cylindrical specimens of 150 mm diameter and 300 
+mm height were cast for each dose of MRHA (0%, 5%, 10% 
+and 15%) and cured under water at 23 ± 2°C for 28 days. After 
+the curing process was completed, all the specimens were 
+pressurized with a constant hydrostatic pressure of 5 bar (0.5 
+MPa) for 72 hours in a laboratory permeability cell, which was 
+equipped to ensure constant pressure exerted upon a circular 
+exposed profile. After the completion of test, the specimens 
+were cut longitudinally, and the maximum penetration depth of 
+water along the fracture surface was measured with a graduated 
+ruler with a precision of 1 mm. The average of penetration 
+depths (mm) in three specimens of each mix were calculated 
+and reported as water penetration index. This approach was 
+chosen to approximate the in-service hydraulic environment 
+and to investigate the MRHA influence on the concrete pore 
+structure. The high silica content and the pozzolanic activity of 
+MRHA is anticipated to improve matrix densification, reduce 
+
+
+===== PAGE 4 =====
+
+Mustansiriyah Journal of Material Engineering and Sustainability, Volume 01, No. 01, 2025, Pages 20-26 
+ 
+23 
+the number of interconnected capillary pores, and therefore 
+enhance impermeability. Accordingly, this test is a good 
+manner of measuring the water-seepage level of hybrid 
+permeable concretes. 
+ 
+2.1.4 Water Absorption Reduction 
+Water absorption test under pressure (ASTM C642) Test was 
+carried out to examine the resistance of concrete to moisture 
+penetration. The samples were oven-dried at 105 ± 5°C for 24 
+hours, cooled in a desiccator, and subsequently soaked for 48 
+hours in water. The mass gain was recorded and water uptake 
+(%) was calculated by the following equation: 
+ 
+Absorption(%) = Wsat −Wdry
+Wdry
+𝑥100 
+ 
+Where: 
+Wsat = saturated weight 
+Wdry = oven-dried weight 
+This test helped to understand the applicability of MRHA in 
+modifying pore structure and water repellency. 
+ 
+3. Results and Discussion 
+ 
+3.1 Compressive Strength 
+From the compressive strength results (Table 4 and Figure 1), 
+it may be concluded that with the addition of MRHA, the 
+mechanical properties of hybrid pervious concrete are 
+significantly enhanced. To confirm the reliability of these 
+findings, statistical analysis was performed on the replicate 
+samples. The standard deviation for each mix was within ±1.2 
+MPa, indicating that the observed increases in compressive 
+strength, especially at the 10% MRHA level, are statistically 
+significant and not due to normal variation alone. The control 
+blend, PC-0 (no pozzolanic replacement), developed a 
+compressive strength of 36.5 MPa at 28 days of age. This is 
+consistent with the fact that OPC has its natural limitation in 
+pervious concrete and the structure of the pores is not modified 
+to add secondary binder or to induce other binding phases. 
+When 5% of cement was substituted with MRHA (PC-
+5MRHA), 39.8 MPa, the strength was enhanced, due to the high 
+content of amorphous silica and fine particles of MRHA. 
+MRHA particles act as both a reactive pozzolan and microfiller, 
+which decreases pore volume and generates more calcium 
+silicate hydrate (C–S–H) by secondary reaction of hydration. 
+This is in line with the results of Ganesan et al. (2008) which 
+explained that fine ground rice husk ash addition enhanced the 
+strength by the filler effect and pozzolanic reactivity [12]. The 
+compressive strength was 42.3 MPa at 10% substitution level 
+(PC-10MRHA), which was the highest compressive strength 
+compared with the other mixtures. The high point is reached 
+due to the optimised balance between the cementitious content 
+and the reactivity of the MRHA and a relatively well-packed 
+and chemically reactive matrix. The large specific surface area 
+of MRHA supplies nucleation sites for C–S–H in the case of the 
+latter, which refines the pores structure and greatly densifies 
+the ITZ. Habeeb and Mahmud (2010) also noticed the highest 
+gain of strength at 10% RHA for better pozzolanic reaction and 
+more efficiency particle distribution [13],[14]. However, the 
+15% higher content of MRHA (PC-15MRHA) showed a slight 
+decrease to 41.2 MPa. This small decrease implies that the 
+dilution effect of cement becomes larger than any additional 
+benefit from pozzolanic reaction beyond a certain replacement 
+level. Added MRHA may also induce a lack of CH available 
+for reaction and resulting diminished matrix strength. Wishing 
+for replacement of greater proportions of OPC was reported by 
+some investigators and RHA addition of more than 10 -15 % 
+of was observed to have a detrimental effect on compressive 
+strength due to over-replacement of OPC[15]. Consistent with 
+this finding, this study shows that moderate MRHA contents 
+(approximately 10%) have potential to significantly enhance 
+the mechanical properties of porous concrete. This is in 
+accordance with the literature which states that 10% is the best 
+percentage to achieve strength efficiencies using highly reactive 
+pozzolans such as micro rice husk ash [16],[17].  
+ 
+Table 4. The all test results for hybrid concrete assembled 
+with micro rice husk ash. 
+Mix ID 
+PC-
+0 
+PC-
+5MRHA 
+PC-
+10MRHA 
+PC-
+15MRHA 
+Compressive 
+Strength MPa 
+36.5 
+39.8 
+42.3 
+41.2 
+Density (kg/m³) 
+2340 
+2325 
+2310 
+2298 
+Water Permeability 
+(×10⁻⁷ m/s) 
+5.8 
+5.2 
+4.7 
+4.8 
+Water Absorption 
+(%) 
+7.8 
+7.1 
+6.7 
+6.6 
+Reduction (%) 
+0.0 
+9.0 
+14.1 
+15.4 
+Among all the mixes tested, the 10% MRHA mix performed the 
+best overall, producing the best combination of high strength, 
+low permeability, and reduced water absorption, as shown in 
+Table 4. 
+ 
+ 
+Figure 1. Compressive Strength results of Hybrid Concrete 
+with MRHA. 
+ 
+3.2 Density 
+The hardened density results of hybrid concrete mixtures 
+containing MRHA are given in Table 4 and Figure 2. The 
+values show a tendency of decreasing density with increased 
+contents of MRHA which are in agreement with the physical 
+properties of rice husk ash and its effect on the microstructure 
+of the concrete. The control composition (PC-0), harboring no 
+MRHA, had a density of 2340 kg/m³. This is the typical value 
+
+
+===== PAGE 5 =====
+
+Mustansiriyah Journal of Material Engineering and Sustainability, Volume 01, No. 01, 2025, Pages 20-26 
+ 
+24 
+for plain concrete with ordinary Portland cement (OPC) and 
+normal aggregates. The corresponding densities reduced to 
+2325 kg/m³, 2310 kg/m³ and 2298 kg/m³ as the MRHA 
+replacement level rose up to 5%, 10% and 15% respectively. 
+These relatively small decreases are explained by two main 
+reasons. First, the apparent specific gravity of MRHA (2.10) is 
+very much lower than that of OPC (3.15), leading to direct 
+reduction of mass per unit volume of the cementitious matrix 
+when a portion of the cement is replaced by MRHA[12],[18]. 
+This phenomenon has been widely reported in cases in which 
+lightweight or low density pozzolanic materials are used as 
+partial replacement for Portland cement [19]. Second, MRHA 
+at moderate blending dosages can densify the matrix thanks to 
+pozzolanic reaction and filling effect, but may also cause to a 
+slight increase in entrapped air or internal porosity at higher 
+levels of replacement, e.g. 15%. The reason behind it is 
+probably related to the fineness and the higher water demand of 
+MRHA, which would influence the compaction and the 
+dispersion of the particles under mixing. Habeeb and Mahmud 
+(2010) reported the same behavior, they found that as RHA 
+content was higher than 10% there was a decrease in density, 
+which might have been explained by the greater internal 
+porosity[13]. Although the densities reduced, they are still 
+competitive for structural grade concrete and proved to be an 
+environmentally favorable compromise between weight 
+reduction and mechanical performances. The findings in this 
+study suggest that MRHA is a prospective lightweight binder, 
+at-room hardening, towards environmentally friendly binder, 
+without too much loss in mechanical properties, when blended 
+two or less 10% by mass of cement.  Concrete still satisfies the 
+specifications for structural applications and offers adequate 
+load-bearing capacity for pavements and low-volume roads 
+despite this minor density decrease. 
+ 
+ 
+Figure 2. Density results of Hybrid Concrete with MRHA. 
+ 
+3.3 Water Permeability 
+The water permeability characteristics of the hybrid permeable 
+concrete containing MRHA are given in Table 4 and Figure 3. 
+The results clearly exhibit that permeability decreases as 
+MRHA dosage changes from 0% to 10%, and then slightly 
+increases at replacement level of 15%. These findings reveal the 
+double role of MRHA in the pore structure and the total 
+impermeability of the concrete matrix. The control mix (PC-0) 
+of 0% for pozzolanic replacement has the highest permeability 
+value (5.8 × 10⁻⁷ m/s), which is related to the open and linked 
+capillary pores of the porous concrete systems without matrix 
+densification. In these applications, the low amount of finest 
+reactive material leaves largely empty capillary voids, and thus 
+increased permeability and ability to let water into the material. 
+The permeability decreased markedly to 5.2 × 10⁻⁷ m/s after 
+replacing 5% OPC with MRHA (PC-5MRHA), which is 
+attributed to the pozzolanic reaction of MRHA, consuming 
+calcium hydroxide and producing extra calcium silicate hydrate 
+(C–S–H) that results in increased matrix densification and pore 
+blocking. The microfil1er effect of MRHA due to its superfine 
+particle size is also significantly effective in occluding the 
+capillary pores [20]. The best performance was from the 10% 
+MRHA level (PC-10MRHA) which showed a water 
+permeability minimum of 4.7 × 10⁻⁷ m/s, this proportion is 
+likely to produce an optimum trade-off between the pozzolanic 
+reactivity and the matrix cohesion of the binder. A similar 
+observation was stated by Ganesan et al. (2008) where equal 
+replacement with 10 percentage to RHA yield minimum 
+permeability and higher durability performance. Interestingly, 
+a PC-15MRHA sample experienced a minimal rise of 
+permeability to about 4.8 × 10⁻⁷ m/s, which should be taken as 
+a sign that too high a degree of substitution starts to affect the 
+binding capacity and uniformity of the cementitious matrix, 
+probably a result of a diminished content of calcium hydroxide 
+left for pozzolanic reaction and increased need of water of 
+dispersion. Excessive over-replacement results or can result in 
+insufficient C–S–H formation and increased internal porosity as 
+previously reported by Habeeb and Mahmud (2010) [13]. In 
+summary, by both chemical (pozzolanic) and physical (filler) 
+effect, MRHA addition increases the impermeability of hybrid 
+concrete. The best results are found with 10% substitution, 
+coupled with current studies for permeability reduction and 
+durability improvement using rice husk ash in cementing 
+regime. This demonstrates that the 10% MRHA mix achieves 
+the best balance between permeability and strength, which is 
+essential for guaranteeing both structural performance and 
+efficient storm water management. 
+ 
+ 
+ 
+Figure 3. Water Permeability Results of Hybrid Concrete with 
+MRHA 
+ 
+3.4 Water Absorption 
+The water absorption test results in Table 4 and Figure 4 show 
+a decrease in percentage of absorbed water for all MRHA 
+
+
+===== PAGE 6 =====
+
+Mustansiriyah Journal of Material Engineering and Sustainability, Volume 01, No. 01, 2025, Pages 20-26 
+ 
+25 
+dosages. These findings are important because they 
+demonstrate the material's resistance to moisture attack, which 
+is an important consideration for improvements in durability of 
+concrete, 
+specifically permeable 
+systems. 
+The 
+water 
+absorption was greatest in the control mix (PC-0) and it was on 
+the order of 7.8%, as should be expected in pervious concrete 
+without pozzolanic materials and microstructural densification. 
+This high absorption is due to a relatively open pore structure 
+and no fillers covering capillary pores. For PC-5MRHA, in 
+which MRHA was incorporated at 5%, absorption was lowered 
+to 7.1% due to the decrease by 9.0% over the cystosepiment. 
+Such the enhancement is attributed to micro-filler effect and 
+pozzolanic reactivity of MRHA for not only making the pore 
+structure denser but also improving the binding matrix because 
+of forming additional calcium silicate hydrate (C–S–H) gel[13]. 
+At 10% MRHA (PC-10MRHA) the absorption further 
+decreased to 6.7% showing an additional 14.1% decrease. This 
+dose seems to be the most suitable to enhance moisture 
+resistance since the packing density is increased and the 
+chemical reactivity is highly improved. Ganesan et al. (2008) 
+found a comparable result; 10% RHA replacement causes a 
+considerable reduction of absorption because of the effective 
+closure of water paths in concrete[12]. Fig. 3c reveals that as 
+the MRHA amount increased to 15% (PC-15MRHA) the water 
+uptake decreased further down to 6.6%, achieving an overal 
+>15.4% drop. This indicates that there is still improvement of 
+water resistance with increasing MRHA dosage up to a certain 
+level. But the literature also cautions against too high 
+replacement levels, which may lead to a decrease of 
+workability and dispersion, which in turn may jeopardize 
+compaction and result in pores being bunched together [20]. In 
+the present study, the MRHA seemed to be dispersed enough to 
+maintain a low rate of absorption even at 15%. These results 
+support the advantageous function of MRHA of limiting water 
+absorption and improving moisture resistance notably in 
+pervious concrete systems for which restrictive fluid flow is a 
+key feature of long lasting service. By reducing moisture 
+intrusion and related damage processes, such as corrosion and 
+freeze-thaw cycles, lower water absorption also increases 
+durability. 
+ 
+ 
+ 
+Figure 4. Water Absorption results of Hybrid Concrete with 
+MRHA 
+ 
+ 
+4. Conclusion 
+This study examined the partial substitution of micro-rice husk 
+ash (MRHA) for Ordinary Portland Cement (OPC) in hybrid 
+pervious concrete. 10% was determined to be the ideal 
+replacement level, resulting in a 16% increase in compressive 
+strength (42.3 MPa), decreased permeability (4.7 × 10⁻⁷ m/s), 
+and enhanced density and water absorption properties. These 
+improvements demonstrate that MRHA has the potential to be 
+a practical and sustainable substitute for cement in the 
+production of pervious concrete.  
+Based on the practical implications of the findings, MRHA-
+enhanced pervious concrete can be used successfully in low-
+volume roads, parking lots, sidewalks, and urban pavement 
+systems, where both structural integrity and water drainage are 
+necessary. Utilizing MRHA also helps to value waste, lessens 
+the environmental impact of cement production, and promotes 
+circular economy.  
+Future research is advised to assess the long-term durability of 
+MRHA-based pervious concrete under actual environmental 
+exposure conditions and to investigate its behavior under heavy 
+traffic loads, chemical attacks, and freeze-thaw cycles. It may 
+be possible to improve the performance and expand its 
+applicability in the development of sustainable infrastructure by 
+examining the use of additional agro-waste pozzolanic 
+materials or by mixing MRHA with fibers or nanomaterials. 
+Acknowledgements 
+The authors would like to thank Mustansiriyah University 
+(www.uomustansiriyah.edu.iq) Baghdad – Iraq for its support 
+in the present work. 
+Conflict of interest 
+The authors declare that there are no conflicts of interest 
+regarding the publication of this manuscript. 
+Author Contribution Statement 
+Y.K. Ibrahim, S.A. Ahmad, and A.S. Abbas: proposed the 
+research problem.  
+Y.K. Ibrahim and S.A. Ahmad: developed the theory and 
+performed the computations.  
+Abdalqadir and A.S. Abbas: verified the analytical methods  
+All authors discussed the results and contributed to the final 
+manuscript. 
+AI Declaration Statement 
+The authors confirm that the manuscript has been written 
+without the assistance of generative AI or AI-based writing 
+tools. 
+ 
+ 
+
+
+===== PAGE 7 =====
+
+Mustansiriyah Journal of Material Engineering and Sustainability, Volume 01, No. 01, 2025, Pages 20-26 
+ 
+26 
+References  
+[1] P. Singh, et al. "Review on the Mechanical Properties and 
+Performance of Permeable Concrete." In Advances in 
+Functional and Smart Materials: Select Proceedings of 
+ICFMMP 2021, pp. 341-351. Singapore: Springer Nature 
+Singapore, 2022. http://dx.doi.org/10.1007/978-981-19-4147-
+435. 
+[2] G. Terán-Cuadrado et al., "Current and potential materials 
+for the low-carbon cement production: Life cycle assessment 
+perspective," J. Build. Eng., vol. 96, p. 110528, 2024. 
+https://doi.org/10.1016/j.jobe.2024.110528. 
+[3] Q. Chen et al., "A review of the interfacial transition zones 
+in concrete: Identification, physical characteristics, and 
+mechanical properties," Eng. Fract. Mech., p. 109979, 2024. 
+https://doi.org/10.1016/j.engfracmech.2024.109979. 
+[4] K. P. Mehta, "Reducing the environmental impact of 
+concrete," Concrete Int., vol. 23, no. 10, pp. 61–66, 2001. 
+[5] M. Ghufran et al., "Circular economy in the construction 
+industry: A step towards sustainable development," Buildings, 
+vol. 
+12, 
+no. 
+7, 
+p. 
+1004, 
+2022. 
+https://doi.org/10.3390/buildings12071004 
+[6] S. Ayuba and S. A. Ngabea, "Characteristic Properties of 
+Self-Compacting Concrete (SCC) with Saw Dust Ash (SDA) 
+and Millet Husk Ash (MHA) as Cement Replacement Ternary 
+Blend," FUW Trends Sci. Technol. J., vol. 8, no. 2, pp. 196–
+202, 2023. 
+[7] M. Balapour, A. Ramezanianpour, and E. Hajibandeh, "An 
+investigation on mechanical and durability properties of 
+mortars containing nano and micro RHA," Constr. Build. 
+Mater., 
+vol. 
+132, 
+pp. 
+470–477, 
+2017. 
+http://dx.doi.org/10.1016/j.conbuildmat.2016.12.017. 
+[8] T. Ali, A. Saand, D. K. Bangwar, A. S. Buller, and Z. Ahmed, 
+"Mechanical and durability properties of aerated concrete 
+incorporating rice husk ash (Rha) as partial replacement of 
+cement," 
+Crystals, 
+vol. 
+11, 
+no. 
+6, 
+2021. 
+DOI: 
+10.3390/cryst11060604. 
+[9] A. Shamsudeen Abdulazeez, U. Yunusa, T. Mohammed, and 
+B. Hamza, "Strength Performance of Concrete Produced with 
+Rice Husk Ash as Partial Replacement of Cement," Afr. J. 
+Environ. Sci. Renew. Energy, vol. 5, no. 1, 2022. DOI: 
+10.13140/RG.2.2.13127.27049. 
+[10] A. A. K. Al-Alwan et al., "The impact of using rice husk 
+ash as a replacement material in concrete: An experimental 
+study," J. King Saud Univ. Eng. Sci., vol. 36, no. 4, pp. 249–
+255, 2024. DOI: 10.1016/j.jksues.2022.03.002. 
+[11] A. Dhanalakshmi, J. Jeyaseela, S. Karthika, and A. L. 
+Margret, "An Experimental Study on Concrete with Partial 
+Replacement of Cement by Rice Husk Ash and Bagasse Ash," 
+E3S 
+Web 
+Conf., 
+vol. 
+387, 
+2023. 
+DOI: 
+10.1051/e3sconf/202338703004. 
+[12] K. Ganesan, K. Rajagopal, and K. Thangavel, "Rice husk 
+ash blended cement: Assessment of optimal level of 
+replacement for strength and permeability properties of 
+concrete," Constr. Build. Mater., vol. 22, no. 8, pp. 1675–1683, 
+2008. http://dx.doi.org/10.1016/j.conbuildmat.2007.06.011. 
+[13] G. A. Habeeb and H. B. Mahmud, "Study on properties of 
+rice husk ash and its use as cement replacement material," 
+Mater. 
+Res., 
+vol. 
+13, 
+pp. 
+185–190, 
+2010. 
+http://dx.doi.org/10.1590/S1516-14392010000200011. 
+[14] A. G. Alex, Z. Kemal, T. Gebrehiwet, and S. Getahun, 
+"Effect of α: Phase Nano Al2O3 and Rice Husk Ash in Cement 
+Mortar," Adv. Civ. Eng., 2022. DOI: 10.1155/2022/4335736. 
+[15] D. Chundawat, “Experimental study on partial replacement 
+of cement and clinker with various additives,” Ph.D. 
+dissertation, Dept. of Civil Engineering, JK Lakshmipat Univ., 
+Jaipur, India, 2016. 
+[16] M. Nazeer, K. Kapoor, and P. Singh, "Pervious concrete: a 
+state-of-the-art review," J. Mater. Eng. Struct., vol. 7, 2020. 
+[17] H. Fitriani et al., "Optimizing Compressive Strength 
+Properties of Binary Blended Cement Rice Husk Concrete for 
+Road Pavement," Trends Sci., vol. 19, no. 9, 2022. DOI: 
+10.48048/tis.2022.3972. 
+[18] S. A. Endale, W. Z. Taffese, D. H. Vo, and M. D. Yehualaw, 
+"Rice Husk Ash in Concrete," Sustainability, vol. 15, no. 1, 
+2023. DOI: 10.3390/su15010137. 
+[19] P. K. Mehta and P. Monteiro, Concrete: Microstructure, 
+Properties, and Materials, 3rd ed. New York, NY, USA: 
+McGraw-Hill, 2006. 
+[20] G. R. de Sensale, "Strength development of concrete with 
+rice-husk ash," Cem. Concr. Compos., vol. 28, no. 2, pp. 158–
+160, 
+2006. 
+https://doi.org/10.1016/j.cemconcomp.2005.09.005. 
+ 
+ 

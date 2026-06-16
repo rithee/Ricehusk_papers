@@ -1,0 +1,939 @@
+
+===== PAGE 1 =====
+
+TRENDS IN SCIENCES 2022; 19(9): 3972                      
+ 
+          
+    RESEARCH ARTICLE  
+https://doi.org/10.48048/tis.2022.3972 
+ 
+Optimizing Compressive Strength Properties of Binary Blended 
+Cement Rice Husk Concrete for Road Pavement 
+ 
+Heni Fitriani1,*, Ash Ahmed2, Olonade Kolawole3,  
+Fraser Hyndman2, Yakni Idris1 and Rosidawani1 
+ 
+1Department of Civil Engineering, Universitas Sriwijaya, Palembang, Indonesia 
+2School of the Built Environment & Engineering, Leeds Beckett University, United Kingdom 
+3Department of Civil & Environmental Engineering, University of Lagos, Nigeria 
+ 
+(*Corresponding author’s e-mail: heni.fitriani@unsri.ac.id)  
+ 
+Received: 8 December 2020,   Revised: 28 April 2021,   Accepted: 8 May 2021   
+ 
+ 
+Abstract 
+Different supplementary cementitious materials are often blended with cement to produce 
+sustainable concrete. More often than not, the strength of blended concrete is compromised, if the 
+constituent materials are not carefully selected. In this study, optimization of strength properties of 
+blended cement-rice husk ash (RHA) was carried out to determine the best mix ratio that produced binary 
+blended concrete of high strength. Different mix ratios of cement and RHA were studied at a water 
+cement ratio of 0.4 to produce concrete specimens. RHA was produced by burning 700 ℃ for an hour and 
+its chemical composition was determined using the X-Ray Fluoresce (XRF) technique. RHA produced 
+was used to replace cement at replacement levels of 2.5, 5, 7.5, and 10 %, and was used as binder. The 
+compressive strength of each concrete mix was determined at 7, 28, and 56 days. Approximately 250 
+concrete cubes were tested and the results were subjected to statistical analysis. The results showed that 
+compressive strength and internal structure varied with RHA as a replacement for cement. Optimal 
+strength was achieved for a concrete mixture, prepared at a water: cement: aggregate ratio of 1:1.5:3, 
+respectively, and a RHA replacement ratio of 5 %.  
+Keywords: Pozzolanic reaction, Compressive strength, Microstructure, Strength activity 
+ 
+ 
+Introduction 
+Recently, there has been renewed interest in using bio-materials for construction purposes because 
+they are environmentally friendly and sustainable. Most recent efforts are geared toward limiting the 
+accumulation of greenhouse gases in the atmosphere that cement production significantly contributes to 
+[1]. The production of a tonne of cement releases about 1.2 tonnes of CO2 [2]. Concrete or cement-based 
+materials on their own have the lower embodied energy and less CO2 emission compared to other 
+materials such as steel, aluminum, etc. [3], were it not for the huge quantity of concrete consumed. 
+According to [4] global cement consumption in 2015 was 4.6 Gt/a and is expected to reach about 13.5 
+Gt/a by 2050 [5,6], due to rapid urbanization of many cities in the world, especially in developing 
+countries. This requires provision of adequate infrastructure for their growing populations.  
+In addition to using concrete in building structures, concrete is now widely used in road pavement 
+construction and maintenance. It is preferred over other paving materials because of its high level of 
+performance, high traffic carrying capacity and longevity as seen in most highways and airports, although 
+initial cost may be higher. For this, significant amounts of concrete will be consumed in order for Africa 
+to pave its remaining 96 % unpaved road network [7]. In Indonesia, concrete would be required to 
+maintain 57 % of its paved road network, which is approximately 516, 239 km, and to pave the remaining 
+unpaved road network. Concrete pavement is the material equally preferred for paving high heavy traffic 
+roads such as the Cipularang toll road that connects Jakarta to Bandung [8]. Consequently, more cement 
+will be needed to provide these infrastructure improvements. Because of the need for reducing CO2, 
+alternatives to cement (partially or completely) become more of a necessity than a choice. Supplementary 
+cementitious materials (SCMs) are the most promising strategic approach in this regard. It is reported that 
+replacing about 30 % of global cement consumption with SCMs has the potential to reduce CO2 by an 
+equal amount [9]. The use of fly ash as replacement for cement at different replacement levels with varied 
+
+
+===== PAGE 2 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+2 of 12 
+ 
+water-binder ratios [10]. This paper showed that as the volume of fly ash content went higher above 25 
+%, strength would be reduced. It was concluded that low strength concrete of fly ash content above 25 % 
+replacement for cement could be used. Similarly, cement waste is also used to produce asphaltic concrete 
+for road pavement having comparable strength with normal asphaltic concrete [11], although the cement 
+waste was used in this study as filler rather than as replacement for cement. In addition to the use of 
+industrial waste as SCMs, ashes of from agricultural by-product are also used as replacement for cement. 
+Different researchers have shown that sawdust ash as stabilizing material may be used in place of cement 
+[3], cassava peel ash may be used as filler in asphaltic concrete [12], while sugarcane straw ash may be 
+used as pozzolan in structural concrete [13]. Rice husk ash (RHA) is another promising SCM that has 
+attracted the attention of many researchers. 
+Global rice production is put at 748 million metric tonnes (mmt) annually [14], while about 20 % of 
+rice paddy is husk [15], indicating that rice husk is available at commercial levels and that it is 
+sustainable. Presently, most rice milling industries use rice husk as fuel for their boilers, leaving heaps of 
+ash lying fallow. Studies have shown that RHA contains extremely high reactive silica [16], which makes 
+it a very good pozzolanic material and has potential to replace cement by up to 30 % to produce concrete 
+of comparable properties [17]. RHA concrete is similar to fly ash or slag concrete, both of which are well 
+acceptable for high performance. RHA increased early hydration rate of C3S due to its high specific area 
+[18] and consequently produced denser paste [19]. Similar studies show that presence of RHA in concrete 
+improved later strength [20], enhanced workability, increased durability and provided resistance for alkali 
+silica reaction (ASR) in concrete [21]. In road construction, the use of RHA as stabilizing material for 
+road base construction [22], while used rice husk as aggregate in place of sand for the sub base layer of 
+flexible road pavement [23].  
+ To date, studies utilizing RHA as replacement of cement in concrete have been more of concrete 
+used in building structures with limited reported research work on RHA concrete designed for use in rigid 
+pavement. Nevertheless, there is a recent report, currently in press, on the effect of RHA particle size in 
+mitigating ASR in concrete pavement. This study is limited to a case in Arkansas [24]. In this present 
+study, different concrete mixes containing RHA were optimized with a view to determining the amount of 
+RHA that could be used to replace cement to produce concrete for use in rigid pavement. This study will 
+further create additional value chain for the use of RHA. 
+ 
+Materials and methods 
+Materials 
+Materials used are Portland Composite Cement (PCC) produced by PT Semen Baturaja was used as 
+binder and was obtained from a retail market. Rice husks were obtained from a rice mill at Gasing, South 
+Sumatra and were burnt up to a temperature of 700 ℃ for an hour to obtain ash. Figure 1 shows the 
+sample of the RHA used produced.  
+ 
+ 
+ 
+ 
+Figure 1 Sample of the RHA. 
+ 
+ 
+
+
+===== PAGE 3 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+3 of 12 
+ 
+ 
+Aggregates 
+Local granite of maximum nominal size of 12 mm was used as coarse aggregate, while river sand of 
+maximum nominal size of 3.18 mm was used as fine aggregate. Sand was obtained from River Tanjung 
+Raja, South Sumatra. The physical properties of the aggregates are presented in Table 1, while their 
+particle size distribution curves are shown in Figure 2. 
+ 
+ 
+Table 1 Physical Properties and Grading Coefficients of Aggregates (ASTM 136). 
+Parameters 
+Granite 
+Sand 
+Specific Gravity 
+2.68 
+2.57 
+Water Absorption (%) 
+14.20 
+22.5 
+Bulk Density (kg/m3) 
+1690 
+1520 
+Fineness Modulus 
+5.45 
+4.81 
+ 
+ 
+Water and admixture 
+Potable water was used for mixing the concrete and a Sulphonated Naphthalene polymers-based 
+superplasticizer with the brand name Sika ViscoCrete -5930 [25] was used as water reducing agent to 
+facilitate flow of the concrete mix (Dosage of 150 mL per cubic m (m3) of the concrete sample was used 
+based on the recommendation of the producer. 
+ 
+ 
+ 
+Figure 2 Particle-size distribution of the aggregates (sand and granites). 
+ 
+ 
+Table 2 Particle sizes of sand and granite. 
+Mesh size (mm) 
+Percentage passing (%) 
+ 
+Sand 
+Granite 
+0.15 
+3 
+0 
+0.3 
+17 
+0 
+0.6 
+46 
+0 
+1.18 
+90 
+0 
+2.36 
+98 
+0 
+4.75 
+99 
+10 
+9.5 
+100 
+81 
+12.5 
+100 
+100 
+19 
+100 
+100 
+
+
+===== PAGE 4 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+4 of 12 
+ 
+Mixing and casting of concrete samples      
+The mixes that were used in this study were based on the highways standards which specifies the 
+mix ratios for highways concrete [26]. The concrete mix was batched by weight. Three different mix 
+ratios of concrete specimens were prepared. Normal concrete (0 % RHA) was used as reference, while 
+other concrete samples contained RHA, replacing cement (by weight) at 2.5, 5, 7.5, and 10 % 
+replacement levels. After mixing each concrete specimen, it was poured in a cube mould of size 150 mm 
+in 2 layers with each layer compacted for 10 min on a vibration table. The moulds and their content were 
+covered with polythene for 24 h. Then the concrete cubes were removed from the moulds and cured in 
+water for 7, 28 and 56 (Figure 3). 
+Thirty concrete cubes were produced from each of the 3 concrete mixes. The choice of concrete mix 
+used was based on the common standard mix ratio for concrete pavement in the UK (BS EN 12390). The 
+mix ratio varied with decreasing content of cement. A water binder ratio of 0.4 was used throughout, 
+while SP was applied based on the specification of the manufacturer. The detail of quantities of materials 
+used for each concrete mix per m3 are presented in Table 3. 
+ 
+ 
+ 
+Figure 3 Sample of concrete cubes under curing. 
+ 
+ 
+ 
+ 
+For ease of reference, each concrete sample is coded. For instance, the first mix ratio that contained 
+0 and 2.5 % RHA is represented by M1-0 and M1-2.5, respectively, where “M1” indicates concrete mix 1 
+of mix ratio 1:1.56:1.64 (Binder: Sand: Granite) and “2.5” represents a proportion of RHA in the concrete 
+mix of 2.5 %. The same nomenclature is used for the remaining mix ratios. The mix design adopted was 
+based on what was currently being used in UK for rigid pavement (BS EN 12390).  
+ 
+ 
+Table 3 Mix proportion of the blended Cement-RHA binder per m3 of the mix ratio. 
+ 
+Mix 
+Ratio 
+Mix 
+Notation 
+Proportion of 
+RHA 
+Cement 
+(kg) 
+RHA 
+(kg) 
+Sand 
+(kg) 
+Granite 
+(kg) 
+Water 
+(kg) 
+1:1.56:1.64 
+M1-0 
+0 
+500.00 
+0 
+780 
+820 
+200 
+M1-2.5 
+2.5 
+487.55 
+12.50 
+780 
+820 
+200 
+M1-5 
+5.0 
+475.0 
+25.00 
+780 
+820 
+200 
+M1-7.5 
+7.5 
+462.5 
+37.5 
+780 
+820 
+200 
+M1-10 
+10 
+450 
+50 
+780 
+820 
+200 
+1:1.77:1.88 
+M2-0 
+0 
+450 
+0 
+796.5 
+846 
+180 
+M2-2.5 
+2.5 
+438.75 
+11.25 
+796.5 
+846 
+180 
+M2-5 
+5.0 
+427.5 
+22.5 
+796.5 
+846 
+180 
+M2-7.5 
+7.5 
+416.25 
+33.75 
+796.5 
+846 
+180 
+M2-10 
+10.0 
+405 
+45 
+796.5 
+846 
+180 
+1:2.07:2.17 
+M3-0 
+0 
+400 
+0 
+828 
+868 
+160 
+M3-2.5 
+2.5 
+390 
+10 
+828 
+868 
+160 
+M3-5 
+5.0 
+380 
+20 
+828 
+868 
+160 
+M3-7.5 
+7.5 
+370 
+30 
+828 
+868 
+160 
+M3-10 
+10.0 
+360 
+40 
+828 
+868 
+160 
+
+
+===== PAGE 5 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+5 of 12 
+ 
+Methods 
+         Material characterization 
+The chemical composition as well as physical properties of the cement and that of RHA used were 
+determined. The XRF technique was used to determine oxide composition, while provision provided in 
+British Standard [27] was followed for the determination of specific gravities of cement, RHA and the 
+aggregates. The tests were conducted at the Geology Laboratories, Bandung, Indonesia. Densities of the 
+aggregates were equally determined.  
+ 
+Strength determination 
+At the expiration of each curing age, concrete cubes were removed from the curing tank and were 
+allowed to stay at room temperature for 30 min before they were taken to the crushing machine to 
+determine their crushing force. Compressive strength was then determined using Eq. (1). The average of 3 
+readings was noted as the strength of the concrete sample; 
+ 
+  𝑆𝑆=
+𝐹𝐹
+𝑏𝑏2                                                                                                                                                        (1)                          
+ 
+where: S = Compressive strength (N/mm2), F = crushing force (N), b = size of the cube (mm). 
+ 
+XRD and SEM investigation of concrete samples 
+After determining the strength of the concrete samples as described in the previous section, RHA 
+concrete samples that gave the highest strength along with normal concrete were used as samples for 
+XRD and SEM analysis. This is with a view to determining possible phases that were formed which are 
+responsible for strength development. The procedure described by [28] was followed in preparing the 
+samples and taking SEM images, while the description reported by [29] was adopted for the XRD 
+analysis. 
+ 
+Results and discussion 
+Material properties 
+Table 4 summarizes the oxide composition of RHA and cement used in this study as determined 
+from XRF. CaO and SiO2 are major oxides of the cement, representing about 74 %, while Al2O3 and 
+Fe2O3 were other oxides present at relatively low quantity and making up the remaining composition. It is 
+not surprising that the cement had a high value of loss on ignition (LOI) because it is a composite cement. 
+The higher value of LOI suggested that the additives added to the clinker to make the composite are 
+susceptible to heat on burning and so experienced loss, making the LOI higher. For a normal CEM I 
+cement, the limit of 4.18 is recommended by British Standard EN 196 [30]. The mineral composition of 
+the clinker (% mass) as estimated from Bogue’s equation are 75.99 % (C3S), −12.27 (C2S), 8.48 (C3A) 
+and 7.91 (C4AF) [41]. 
+The C3S (Alite) seemed to dominate the composition and would influence the performance of the 
+cement, while the negative value of C2S (Belite) showed that the cement contained low silica relative to 
+CaO. XRD pattern of the cement (Figure 3) also supported this composition. Hydration of C3S in the 
+clinker is known to be responsible for early strength development [31]. 
+ 
+ 
+Table 4 Chemical composition of the cement and RHA. 
+Material 
+Oxides Composition (%) 
+LOI 
+ 
+SiO2 
+Al2O3 
+Fe2O3 
+CaO 
+MgO 
+Na2O 
+K2O 
+SO3 
+ 
+Cement 
+15.71 
+4.86 
+2.60 
+57.98 
+0.88 
+0.34 
+0.62 
+1.47 
+14.88 
+RHA 
+94.24 
+0.23 
+0.83 
+0.61 
+0.84 
+0.28 
+1.62 
+- 
+0.78 
+ 
+ 
+On the other hand, RHA had substantial silica content (94.24 %), while the combined silica, 
+alumina and ferric was 95.3 % with traces of other oxides. It is interesting to note that RHA seems very 
+stable under heat as shown by its LOI value, indicating that the RHA does not contain organic 
+constituents that are susceptible to heat. The RHA contains silica in quantity adequate for accepting it as a 
+good pozzolanic material ASTM C618-19. Similarly, the silica content found in our RHA is similar to 
+what [32] obtained and about 15 % higher than what [33] reported. To buttress suitability of the RHA as 
+pozzolanic material further, the XRD pattern of the RHA suggested the RHA is amorphous with high 
+
+
+===== PAGE 6 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+6 of 12 
+ 
+broad peaks at 22.2 θ (2Theta angle) and contained some crystalline phases, which are suspected to be 
+quartz (christoablite), having peaks at 2 Theta angle of 22 (Figure 4(a)). But in the case of cement, alite 
+and belite were major compound found with traces of portlandite (Figure 4(a)) the scanning electron 
+microscopic (SEM) pictures of the cement and RHA are presented in Figure 5. It is shown that the 
+cement contained particles that are agglomerated with octahedral shaped particles (Figure 5(a)), while 
+RHA had multilayered particles with some forms of honeycomb structure (Figure 5(b)). 
+   
+ 
+ 
+                                                                                           (a) 
+ 
+ 
+                                                                                          (b) 
+Figure 4 XRD patterns of (a) cement (b) RHA. 
+ 
+ 
+         
+ 
+                                         (a) 
+ 
+ 
+ 
+ 
+ 
+ 
+               (b) 
+ 
+Figure 5 SEM Picture of (a) Cement and (b) RHA. 
+
+
+----- TABLE p6#1 -----
+
+Figure 4 XRD patterns of (a) cement (b) RHA. | 
+ | 
+ | 
+ | 
+(a) (b) | 
+ | 
+Figure 5 SEM Picture of (a) Cement and (b) RHA. | 
+
+===== PAGE 7 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+7 of 12 
+ 
+The RHA particles are less porous as indicated by SEM image and the low value of LOI. This result 
+is in contrary to what [34] reported on the RHA used in their study, which contained high LOI. Several 
+authors have attributed porosity of RHA structure to high value of LOI [35,36].  
+Effect of RHA on the compressive strength 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The compressive strength of each of the mixes M1, M2 and 3 at ages 7, 28 and 56 days are 
+presented in Figures 5 - 7, respectively. There seems to be a common trend in strength pattern for all the 
+mixes as the proportion of RHA increased, with the exception of strength at 56 days. At 7 days, for 
+instance, the strength of concrete specimen M2-0 (Mix 2 without RHA) had the highest strength, which 
+was about 114 and 131 % of the strength of M1-0 and M3-0, respectively (Figure 6). As the RHA was 
+added to the mix, the strength sharply reduced at 2.5 % content of RHA and then rose to the peak at 7.5 % 
+content of RHA for both concrete M2-0 and M3-0. The trend was entirely different for concrete M1 that 
+had gradually increased in strength with an increase in RHA content until it started descending at 7.5 % 
+RHA. As the age of concrete reached 28 days, all the mixes without RHA (M1-0, M2-0 and M3-0) had 
+the same strength pattern with their respective strength at age 7 days, with marginal increase in strength. 
+Compressive strength of M1 - 0 increased from 26.6 to 31.1 N/mm2, representing about a 17 % increase, 
+while strength of M2-0 and M3-0 increased by about 19 and 25 %, respectively (Figure 7). These results 
+showed that the concrete had substantial strength, where their 7-day strength is more 75 % of the 28-day 
+strength. The probable reason for this performance could be attributed to the higher content of C3S of the 
+cement, as discussed in the previous section. Similar trends were observed with the increase in RHA 
+content in the concrete mixes. In this case, the highest strength was recorded for concrete specimen M1 
+and M3 at 5 % RHA content, where the mix M2 had its lowest strength. A further observation of the 
+strength development above 28 days (at 56 days), showed the strength pattern similar to 28-day strength, 
+except for concrete containing lower quantity of RHA of 2.5 % excluding mix M3 (Figure 8). 
+Summarily, the presence of RHA is found to influence the strength of all the concrete mixes. Concretes 
+M1 and M3 seem to have strength comparable to normal concrete strength at all ages when the RHA 
+content was not more than 5 %, while concrete M2 had comparable strength with up to 7.5 % RHA for all 
+the ages. Further increase in RHA content above these values (5 and 7.5 % as the case may be) would 
+lead to decrease in strength. This is because RHA content would have been in excess of what is required 
+to combine with the available lime to form additional cementitious product. Once lime is able to take up 
+the required RHA, the remaining quantity of RHA will be dormant within the concrete matrix and would 
+likely cause reduction in strength [37]. 
+ 
+ 
+Figure 6 Effect of RHA on strength for each mix ratio at age 7 days. 
+ 
+ 
+
+
+===== PAGE 8 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+8 of 12 
+ 
+ 
+ 
+Figure 7 Effect of RHA on strength for each mix ratio at 28 days. 
+ 
+ 
+ 
+ 
+Figure 8 Effect of RHA on strength for each mix ratio at 56 days. 
+ 
+ 
+Interestingly, the strength of concrete M2-7.5 was at par with M1-7.5 at ages 28 and 56 days, 
+despite the fact that concrete M1 had higher strength far above M2 at age 7. What could be deduced from 
+this is that there is more complete pozzolanic reaction in M2-7.5 than in M1-7.5. For practical 
+implication, concrete specimens M1-7.5, M2-7.5 and M3-5 are acceptable for use as concrete road 
+pavement having 28 -day strength higher than 27.5 N/mm2 [38]. 
+ 
+Strength activity index of the RHA concrete 
+From the data presented in Table 5, it is apparent that the presence of RHA affects the Strength 
+Activity Indices of the blended concrete. According to ASTM C618 [39], SAI is a measure of the 
+pozzolanicity of supplementary cementitious material (SCM) and it is a ratio of strength of blended 
+concrete to the strength of normal cement at the same curing age. It is expressed as a percentage. It is seen 
+that except concrete M3-10, all other concrete specimens had SAI higher than the minimum of 75 % 
+specified by ASTM C618-19.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 9 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+9 of 12 
+ 
+Table 5 Strength Activity Index of the Concrete specimens. 
+ 
+ 
+SEM and XRD analysis 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8 shows the microstructure images of concrete samples with 5 % RHA and without RHA (0 
+%) cured in water for 7 days. The choice of these samples was based on the results obtained from the 
+strength, where presence of 5 % RHA seems to produce concrete with higher strength. In the figure, it is 
+shown that the presence of RHA had influence on the formation of hydration products. In the normal 
+concrete (Figures 9(a), 9(c) and 9(d)), round shaped particles were observed, which is an indication of fly 
+ash that was used as constituent of the composite cement. Some fly ash grains seem also to appear 
+hollow. Meanwhile, the FA grains are not prominent in the image of concrete mix M3-0. This was 
+probably due to the relative low content of cement.                                                                                
+ 
+Similar observations were reported in a cement that includes 30 % fly ash [37], however as RHA 
+ash was added to the cement mixture, the effect on the microstructure seems to be significant as the 
+hollow shape of the fly ash is being filled up with RHA making the concrete appeared denser than normal 
+concrete. It is also observed that fly ash grains were less conspicuous in the RHA concrete when 
+compared to normal concrete. This is evidence in of the compressive strength (Figure 6). Other major 
+products formed are calcium hydrate (CSH), portlandite (CH) as well as some traces of ettringite (E). 
+ 
+ 
+  
+ 
+ 
+ 
+    (a)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+           
+     (b) 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+     (c) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       (d) 
+Mix Ratio 
+%RHA 
+Content 
+Strength Activity index (%) 
+Curing Periods (Days) 
+7 
+28 
+56 
+1:1.56:1.64 
+0 
+100.00 
+100.00 
+100.00 
+2.5 
+115.04 
+108.68 
+102.44 
+5 
+115.04 
+111.58 
+105.42 
+7.5 
+111.65 
+100.00 
+98.92 
+10 
+94.74 
+97.11 
+95.12 
+1:1.77:1.88 
+0 
+100.00 
+100.00 
+100.00 
+2.5 
+82.12 
+90.00 
+101.89 
+5 
+83.44 
+86.39 
+91.11 
+7.5 
+85.10 
+90.00 
+99.46 
+10 
+74.50 
+85.00 
+88.68 
+1:2.07:2.17 
+0 
+100.00 
+100.00 
+100.00 
+2.5 
+90.00 
+98.61 
+104.06 
+5 
+100.00 
+106.94 
+112.50 
+7.5 
+101.74 
+86.11 
+88.75 
+10 
+72.61 
+68.75 
+70.31 
+ 
+
+
+===== PAGE 10 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+10 of 12 
+ 
+ 
+                      
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                        
+      (e)                                                                   
+ 
+    (f) 
+ 
+Figure 9 Scanning electron microstructure images of 7-day old concrete of mix: (a) M1-0, (b) M1-5, (c) 
+M2-0, (d) M2-5, (e) M3-0 and (f) M3-5. 
+ 
+ 
+ 
+ 
+Figure 10 XRD patterns 7 - day old concrete of mix: (a) M1-0, b) M1-5, (c) M2-0, (d) M2-5, (e) M3-0 
+and (f) M3 - 5. 
+ 
+ 
+Different phases were identified in the selected hydrated concrete samples containing different 
+amounts of cement and 5 % RHA as shown in the XRD patterns in Figure 10. The normal concrete (M1-
+0, M2-0 and M3-0) tends to have increased peak intensities compared to the corresponding concrete that 
+contained 5 % RHA. This effect suggested that RHA had influence on the peak intensities of the phases, 
+perhaps due to pozzolanic reactions that occurred or the amorphous nature of RHA. Generally, the same 
+phases are identified in all the samples but at different peaks. At about 13 ° (2Theta), mineral albite was 
+identified in only concrete sample M1-0 (the concrete sample that contained the highest quantity of 
+cement 500 kg/m3 without RHA). Albite is known to be a sodium rich mineral, which was in the form of 
+silicate of sodium, calcium and aluminum. It is a strength building mineral. So, it was suspected to be 
+responsible for the early strength of concrete sample M1-0 (Figure 6) compared to other samples. Several 
+other phases were identified that are common to all the samples considered in the study. Nevertheless, 
+RHA concrete samples predominantly contained silicate of sodium, aluminum and calcium. 
+In this study, RHA was used to replace cement in 3 different mixes for producing blended concrete 
+for road pavement, which is applicable in UK and other regions. Strength properties were studied, and 
+XRD and SEM analyses of the concrete samples were performed. The following could be concluded from 
+the study:  
+ 
+1) The strength activity indices of the cement-RHA blended concrete were not less than 80 % in all 
+the mixes, except for M3 - 10 concrete mix.  
+2) Presence of RHA in the mixture contribute to strength development through pozzolanic reaction. 
+ 
+
+
+===== PAGE 11 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+11 of 12 
+ 
+ 
+3) Concrete that contained RHA appeared more dense than normal concrete; hence an optimum of 5 
+% of cement could be replaced with cement to produce concrete of adequate strength for use as rigid 
+pavement.  
+ 
+4) Future study would need to consider performing durability assessment on the adopted mix 
+proportion to be able to generalize the use of the concrete in road pavement. 
+ 
+Acknowledgement  
+The authors would like to express their gratitude to the British Council (UK) and DIKTI Indonesia 
+for funding of this project. 
+ 
+References 
+[1] 
+P Shafigh, HB Mahmud, MZ Jumaat and M Zargar. Agricultural wastes as aggregate in concrete 
+mixtures: A review. Construct. Build. Mater. 2014; 53, 110-7. 
+[2] 
+T Boden, G Marland and RJ Andres. Global, regional, and national fossil-fuel CO2 emissions, 
+Available at: http://cdiac.ornl.gov/trends/emis/overview_ 2014.html, accessed June 2017. 
+[3] 
+R Khan, A Jabbar, I Ahmad, W Khan, AN Khan and J Mirza. Reduction in environmental problems 
+using rice-husk ash in concrete. Construct. Build. Mater. 2012; 30, 360-5. 
+[4] 
+K Carstensen and O Rapf. A blueprint for a climate friendly cement industry. WWF, Nürnberg, 
+Germany, 2008.   
+[5] 
+Cembureau. Cement and concrete: Key facts and figures. Cembureau, Brussels, Belgium, 2016.   
+[6] 
+P Edwards. The rise and potential peak of cement demand in the urbanized world. Available at: 
+http://cornerstonemag.net/the-rise-andpotential-peak-of-cement-demand-in-the-urbanized-world/, 
+accessed June 2016. 
+[7] 
+M Lequien, J Dare, TV Poortvliet and C Smith. Road infrastructure in Africa. Africa Energy 
+Forum, London, 2016. 
+[8] 
+J Jonbi, A Tjahjani, N Tinumbia, AM Pattinaja and SB Haryono. Repair of rigid pavement using 
+micro concrete material. MATEC Web Conf. 2018; 195, 01014. 
+[9] 
+Ecosmart. Environmental impact - cement production and the CO2 challenge, Available at: 
+http://www.ecosmartconcrete.com/enviro_cement.cfm, accessed April 2016. 
+[10] K Murumi and S Gupta. Experimental investigation on viable limit of fly ash utilization in concrete. 
+Jordan J. Civ. Eng. 2019; 13, 235-49. 
+[11] A Abed and S Eyada. The use of cement production waste to improve the properties of hot mix 
+asphalt concrete. Jordan J. Civ. Eng. 2019; 13, 394-404. 
+[12] H Mohammed and KA Olonade. Effect of cassava peel ash a partial replacement of for granite dust 
+in asphaltic concrete. Nigeria J. Eng. 2018; 24, 16-22. 
+[13] M Frías, E Villar-Cociña and E Valencia-Morales. Characterisation of sugar cane straw waste as 
+pozzolanic material for construction: Calcining temperature and kinetic parameters. J. Waste 
+Manag. 2007; 27, 533-8. 
+[14] Food and agriculture organization, Available at: http://www.factfish.com/statistic/cassava%20 
+production%20quantity, accessed January 2017. 
+[15] N Bhanumathidas and PK Mehta. Concrete mixtures made with ternary blended cements containing 
+fly ash and rice-husk ash. Symp. Paper 2001; 199, 379-92. 
+[16] AN Swaminathen and SR Ravi. Use of rice husk ash and metakaolin as pozzolans for concrete: A 
+review. Int. J. Appl. Eng. Res. 2016; 11, 656-64. 
+[17] MH Zhang and VM Malhotra. High-performance concrete incorporating rice husk ash as a 
+supplementary cementing material. ACI Mater. J. 1996; 93, 629-36. 
+[18] Q Feng, HYamamichi, M Shoya and S Sugita. Study on the pozzolanic properties of rice husk ash 
+by hydrochloric acid pretreatment. Cement Concr. Res. 2004; 34, 521-6. 
+[19] GC Isaia, ALG Gastaldini and R Moraes. Physical and pozzolanic action of mineral additions on the 
+mechanical strength of high-performance concrete. Cement Concr. Compos. 2003; 25: 69-76. 
+[20] P Chindaprasirt and S Rukzon. Strength, porosity and corrosion resistance of ternary blend Portland 
+cement, rice husk ash and fly ash mortar. Construct. Build. Mater. 2008; 22, 1601-6. 
+[21] GA Habeeb and MM Fayyadh. Rice husk ash concrete: The effect of RHA average particle size on 
+mechanical properties and drying shrinkage. Aust. J. Basic Appl. Sci. 2009; 3, 1616-22. 
+[22] S Bansal and H Singh. Utilization of rice husk ash in highways. Int. J. Eng. Res. Tech. 2014; 3, 
+1371-5. 
+[23] AH Patil, AR Shirsat, RA Phadke, AA Mohire, GH Junawane, NN Hake and H Lunkad. Use of rice 
+
+
+===== PAGE 12 =====
+
+Trends Sci. 2022; 19(9): 3972  
+ 
+12 of 12 
+ 
+husk in road construction. Civ. Environ. Res. 2014; 6, 1-5. 
+[24] MB Ahsan and Z Hossain. Effect of particle size of rice husk ash (RHA) in mitigating alkali silica 
+reaction (ASR) in concrete pavement. Int. J. Pavement Res. Tech. 2018; 11, 861-6. 
+[25] RK Aboud, HK Awadand SD Mohammed. Fire flame effect on the compressive strength of reactive 
+powder concrete using different methods of cooling. IOP Conf. Ser. Mater. Sci. Eng. 2019; 518, 
+022029. 
+[26] Standards for Highways. Manual of contract documents for highway works. Vol 1. Specification for 
+highway works. Series 1000: Road pavements - concrete materials. Standards for Highways, 2021. 
+[27] BS EN 1097-3. Tests for mechanical and physical properties of aggregates. British Standard 
+Institution, London, 1996. 
+[28] JEOL. A guide to scanning microscope observation. Hightec JEOL, Tokyo, Japan, 2004. 
+[29] Indonesia - roads, paved (% of total roads), Available at: https://tradingeconomics.com/ 
+indonesia/roads-paved-percent -of-total-roads-wb-data.html, accessed June 2020. 
+[30] R Jenkins and RL Snyder. Introduction to x-ray powder diffractometry. Vol CXXXVIII.  John 
+Wiley & Sons, New York, 1996. 
+[31] BS EN 196-2. Methods of testing cement: Chemical analysis of cement. British Standard Institution, 
+London, 1995. 
+[32] M 
+Clark. 
+Clinker 
+C3S 
+paramount, 
+Available 
+at: 
+https://www.cemnet.com/home/tags 
+/blended%20cement, accessed May 2019. 
+[33] British Standard Institution. Chemical analysis of cement. British Standard Institution, London, 
+2020. 
+[34] MB Ahsan and Z Hossain. Supplemental use of rice husk ash (RHA) as a cementitious material in 
+concrete industry. Construct. Build. Mater. 2018; 178, 1-9. 
+[35] AN Givia, SA Rashidb, FNA Azizc and MAM Sallehb. Assessment of the effects of rice husk ash 
+particle size on strength, water permeability and workability of binary blended concrete. Construct.  
+Build. Mater. 2010; 24, 2145-50. 
+[36] KY Foong, UJ Alengaram, MZ Jumaat and KH Mo. Enhancement of the mechanical properties of 
+lightweight oil palm shell concrete using rice husk ash and manufactured sand. J. Zhejiang Univ. 
+Sci. Appl. Phys. Eng. 2015; 16, 59-69. 
+[37] MH Zhang, R Lastra and VM Malhotra. Rice-husk ash paste and concrete: Some aspects of 
+hydration and the microstructure of the interfacial zone between the aggregate and paste. Cement 
+Concr. Res. 1996; 26, 963-77. 
+[38] KN Farooque, M Zaman, E Halim, S Islam, M Hossain, S Islam, YA Mollah and AJ Mahmood. 
+Characterization and utilization of rice husk ash (RHA) from rice mill of Bangladesh. J. Sci. Ind. 
+Res. 2009; 44, 157-62. 
+[39] MN Al-Khalaf and HA Yousif. Use of rice husk ash in concrete. Int. J. Cement Compos. 
+Lightweight Concr. 1984; 6, 241-8. 
+[40] American Association of State Highway and Transportation Officials. AASHTO guide for design of 
+pavement structures. American Association of State Highway and Transportation Officials, 
+Washington DC, 1993. 
+[41] ASTM C618-19. Standard specification for coal fly ash and raw or calcined natural Pozzolan for 
+use in concrete. ASTM International, West Conshohocken, 2019. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

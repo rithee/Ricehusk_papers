@@ -1,0 +1,1760 @@
+
+===== PAGE 1 =====
+
+Cellulose nanocrystals extracted from rice husk
+using the formic/peroxyformic acid process:
+isolation and structural characterization†
+An Nang Vu,
+*ab Long Hoang Nguyen,ab Ha-Chi V. Tran,ab Kimio Yoshimura,d
+Tap Duy Tran,ab Hieu Van Le
+abc and Ngoc-Uyen T. Nguyen
+ab
+Cellulose derived from biomass is a renewable resource with numerous applications. Using formic/
+peroxyformic acid at atmospheric pressure, cellulose nanocrystals (CNC) were isolated from rice husk
+(RH) in this study. This method was an excellent way to get rid of lignin and hemicelluloses from RH. The
+cellulose was subsequently acid hydrolyzed by H2SO4 (64%) for 30 minutes at 45 °C. The chemical and
+microstructure analysis showed that the lignin and hemicellulose contents of raw RH had been
+eliminated, and the crystallinity content of CNC was 67.16%. According to transmission electron
+microscopy (TEM) morphological analysis, CNC measured 19 ± 3.3 nm in diameter, 195 ± 24 nm in
+length, and 10.2 ± 6.8 in aspect ratio. The thermal stability of RH and CNC was also investigated using
+thermogravimetric analysis (TGA). These encouraging ﬁndings demonstrated the potential for reusing RH
+agricultural waste to create CNC and include nanocomposites as a reinforcing material.
+1.
+Introduction
+This century's “bioeconomy” paradigm promotes using renew-
+able materials over non-renewables for economic success and
+environmental sustainability.1 With an annual production of
+approximately 7.50 × 1010 tons, cellulose biopolymer is one of
+the most abundant materials. Cellulose comprises repeated D-
+glucopyranosyl units connected by b-(1-4)-glycoside bonds.2
+Due to the interaction of high molecular weight polymer chains,
+both crystalline and amorphous regions are presented in
+cellulose. Crystalline particles called cellulose nanocrystals
+(CNC) are created when amorphous cellulose is hydrolyzed with
+acid.3 CNC has several notable characteristics, including its low
+cost, lack of toxicity, exceptional thermal stability, optical
+transparency, and biodegradability.4 CNC can be extracted from
+various biomasses and widely used as a polymer composite
+reinforcement because of its excellent thermal and mechanical
+properties, including high elasticity modulus (about 150 GPa),5
+ultralightweight nature (1.6 g cm−3),6 and large specic surface
+area
+(hundreds
+of
+m2
+g−1).7
+CNC
+improves
+several
+biodegradable polymers' physicochemical, thermal, and insu-
+lating characteristics, making them acceptable for many appli-
+cations.8 Furthermore, CNC can be utilized in the production of
+barrier
+lms,9
+shape-memory
+polymers,10
+bio-nano-
+composites,11 drug-delivery materials,12 photonic crystals,13
+biomedical devices,13 laments,14 aerogels,15 hydrogels,16 fuel
+cells,17 and three-dimensional (3D) printing,18 as well as for
+wastewater
+treatment,19
+agricultural
+product
+production,20
+adsorption,21 and cultural heritage materials.22 The surface
+chemistry of cellulose derivatives can be altered for numerous
+additional applications.23
+Current research has focused on extracting CNC from agri-
+cultural byproducts using chemical, mechanical, and enzymatic
+approaches.24,25 Due to the inherent drawbacks associated with
+mechanical techniques, such as their time-consuming nature
+and the need for high pressure and kinetic energy, as well as the
+limitations of enzymatic methods, which are oen tedious and
+reliant
+on
+the
+capabilities
+of
+microorganisms,
+chemical
+methods have emerged as the favored choice for achieving more
+eﬃcient cellulose isolation. These chemical methods can be
+employed independently or with mechanical or enzymatic
+approaches. Several studies have used diverse raw material
+sources, including sugarcane bagasse,26 coconut ber,27 rice
+straw,28 banana plant pseudostems,29 and tea leaf waste.30 The
+rice husk (RH) is a natural ber that develops around the rice
+kernel and is removed during rice production. Prior research
+focused on the high-temperature treatment of RH to extract
+silica31 or the surface treatment of RH for application as
+a reinforcing component in lightweight composites.32
+aFaculty of Materials Science and Technology, University of Science, VNU-HCM,
+700000, Vietnam. E-mail: vnan@hcmus.edu.vn
+bVietnam National University, Ho Chi Minh City, 700000, Vietnam
+cLaboratory of Multifunctional Materials, University of Science, VNU-HCM, 700000,
+Vietnam
+dDepartment of Advanced Functional Materials Research, Takasaki Advanced
+Radiation
+Research
+Institute,
+National
+Institutes
+for
+Quantum
+Science
+and
+Technology (QST), Takasaki, Gunma 370-1292, Japan
+† Electronic
+supplementary
+information
+(ESI)
+available.
+See
+DOI:
+https://doi.org/10.1039/d3sc06206f
+Cite this: RSC Adv., 2024, 14, 2048
+Received 3rd October 2023
+Accepted 22nd December 2023
+DOI: 10.1039/d3ra06724f
+rsc.li/rsc-advances
+2048 | RSC Adv., 2024, 14, 2048–2060
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Advances
+PAPER
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+View Journal | View Issue
+
+
+----- TABLE p1#1 -----
+
+ |  | 
+PA | PER View Article Onlin
+View Journal | View Issue | e
+ |  | 
+
+===== PAGE 2 =====
+
+For the past two decades, in Vietnam, the surface of RH has
+been treated using various chemical methods as a heavy metal
+adsorption material or a ller in the fabrication of composite
+materials.33 The most recent is using RH as a raw material
+source for thermally treating silica or activated charcoal. Viet-
+nam is an agricultural country whose principal food source is
+rice. In 2016, Vietnam's rice production topped 42 million tons,
+with rice residue accounting for 20% of total production. Most
+RHs are torched or discarded. When RHs are burned, an
+enormous amount of ash is formed during carbon metabolism.
+It exists as thin, light granules that might aggravate human
+respiratory disorders.32 Furthermore, bacteria decomposing the
+debris will generate methane gas, which hurts the environment.
+These variables make processing this waste more diﬃcult.
+Therefore, more research is needed on utilizing this abundant
+raw material source.
+RH has four essential parts that make up its structure:
+cellulose (25–35%), hemicellulose (18–21%), lignin (18–21%),
+and silica (15–17%). The rest comprises soluble chemicals and
+water (7–15%).34 As a result, research incorporating rice chaﬀas
+a raw material source for synthesizing CNC is in high demand.
+This research aims to isolate cellulose from Vietnamese RH and
+hydrolyze CNC for reinforced-phase applications in composite
+materials. The isolation of cellulose was achieved via the
+formic/peroxyformic acid method, comprising three principal
+stages: formic acid treatment (HCOOH), peroxyformic acid
+treatment (PFA, a solution of HCOOH and H2O2), and bleaching
+with a solution of NaOH and H2O2. As far as the authors know,
+this is the rst study to describe the delignication of ligno-
+cellulosic biomass and the extraction of cellulose bers from
+RH using a pre-treated process involving formic/peroxyformic
+acid. For decontaminating biomass, sodium chlorite (NaClO2),
+sodium hypochlorite (NaClO), chlorine dioxide (ClO2), chlorine
+(Cl2), and hydrogen peroxide (H2O2) were utilized.35–37 Although
+less eﬀective than alternative bleaching agents, H2O2 is still
+regarded as a greener alternative to chlorinated solutions.38 This
+investigation's unconventional aspect is utilizing an oxidant
+(H2O2) and alkali (NaOH) solution to extract cellulose bers,
+depolymerize lignin and remove hemicellulose. Under specic
+conditions, NaOH, a potent alkaline chemical, can eliminate
+hemicellulose and lignin.39 Bleaching with an alkaline hydrogen
+peroxide solution (pH 8–12) aims to enhance the whiteness of
+the cellulose by dissolving any remaining lignin and hemi-
+cellulose. The hydroperoxide anion (HOO−) in the alkaline
+media oxidized the lignin structure, forming more cellulose-
+rich bers and a lighter color.40
+Furthermore, the literature contains several noteworthy
+reports concerning biomass pre-treatment, which encompass
+acidic and alkaline treatment, pulping, and bleaching.41,42
+Implementing acidic or alkaline pre-treatment methods during
+cellulose
+isolation
+increases
+costs
+for
+corrosion-resistant
+materials
+and
+post-processing
+technologies
+required
+to
+neutralize or eliminate corrosive chemicals. As most inorganic
+acids are highly corrosive and diﬃcult to recover, conventional
+inorganic acid pre-treatment violates the rules of sustainable
+and green chemistry.43 Using vacuum distillation or recrystal-
+lization, organic acids can be easily recycled and are less
+corrosive than inorganic acids.24,44 Another innovation of this
+study is incorporating formic acid, the simplest carboxylic acid
+characterized by its low boiling point (100.8 °C)45 and relatively
+strong acidity. This acid was utilized to dissolve hemicellulose
+partially, cause it to swell, and facilitate lignin migration to the
+RH surface. As a result, the bleaching stage for cellulose isola-
+tion was signicantly enhanced in eﬃciency.
+2.
+Experimental
+The RHs originated in the Cu Chi rice-growing region of Ho Chi
+Minh City. Aer collection, they were rinsed with water, sun-
+dried, and ground into a ne powder. Sodium hydroxide
+(NaOH, 96%), hydrogen peroxide (H2O2, 30%), formic acid
+(HCOOH, 90%), and sulfuric acid (H2SO4, 98%) originate from
+Xilong Scientic Co. China. All are commercial chemicals and
+were used directly.
+2.1.
+Preparation of cellulose
+The sequential process of cellulose isolation from RH involved
+three primary steps: HCOOH acid treatment, peroxyformic acid
+(PFA) treatment, and bleaching using a NaOH/H2O2 mixture.
+Initially, the RH powder was immersed in distilled water, fol-
+lowed by boiling at 100 °C for 2 hours to eliminate impurities.
+Subsequently, the mixture underwent ltration and desiccation
+at 70 °C for 8 hours. The homogenous blending of RH powder
+was treated with a 90% HCOOH solution at a ratio of 1 : 15 (RH
+powder to 90% HCOOH acid volume) at 80 °C. Aer 2 hours, the
+sludge was ltered, rinsed with hot water, and desiccated at 80 °
+C for 6 hours before PFA treatment. A solution of PFA,
+comprising 90% HCOOH, 4% H2O2, and 6% H2O, was added to
+RH powder. For 2 hours, the PFA treatment was kept at 80 °C.
+The ltration method was used to separate the solid product.
+The substance was carefully washed with distilled water until
+the pH reached 6–7. Aer drying for 12 hours at 80 °C, the solid
+product was bleached with a NaOH/H2O2 mixture. Using a 1 M
+NaOH solution, the pH of the suspension was carefully adjusted
+to 11. Aer that, 30% H2O2, equal to 40% of the solid mass in
+the rest, was slowly added. The mixture was then mixed for an
+hour at 80 °C.
+2.2.
+Production of cellulose nanocrystals (CNC)
+To make CNC, RH cellulose was broken down with a 64%
+sulfuric acid solution (1 : 20 ratio of solid mass to acid volume)
+at 45 °C for 30 minutes. The mixture was carefully put into
+a container with 1000 mL of distilled water to nish the process.
+The solution was diluted with water until pH 7 was obtained.
+The resultant mixture was centrifuged at 4000 rpm for 10
+minutes, twice with distilled water and thrice with ethanol.
+Aer drying out at 80 °C until the mass stayed the same,
+a sample of white powder was taken as the result. CNC yield was
+determined using RH starting weight.46
+2.3.
+Characterizations
+2.3.1.
+Fourier transform infrared spectroscopy (FT-IR). The
+chemical structure of unprocessed, acid-treated, PFA-treated,
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Adv., 2024, 14, 2048–2060 | 2049
+Paper
+RSC Advances
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 3 =====
+
+bleached, and CNC extracted from RH was investigated using
+FT-IR. Samples were placed on KBr discs, and a Nicolet 6700
+spectrometer (M/S Thermo Fisher Scientic Instruments, USA)
+was used to record spectral signals with an average of 32 scans,
+4 cm−1 resolution. OMNIC 9.2.86 (Thermo Fisher Scientic,
+Inc., USA) soware was used to smooth the obtained spectra.
+2.3.2.
+X-ray diﬀraction (XRD). XRD was used to reveal the
+structural modications of materials at every stage of treatment.
+XRD (D2 PHASER, Bruker, Germany) spectra with Cu-Ka (l =
+0.15418 nm), 30 kV, and 10 mA were utilized to calculate the
+crystal size and crystallinity fraction. The dried samples were
+put on the quartz base, and scans were taken at a speed of
+0.02° min−1 over a 2q range of 10°–80°. Duplicate XRD analyses
+were performed on each material. The XRD diﬀractograms were
+smoothed and analyzed with Xpert HighScore Plus (PANalytical
+Technologies Pvt. Ltd, Netherlands) soware. The Gauss func-
+tion in OriginPro 9.0.0 (64 bit) (OriginLab Corporation, USA)
+was used to t the curve. The percentage of crystallinity (CrI)
+was calculated using eqn (1) below based on the areas beneath
+the crystalline and amorphous peaks aer baseline correction.47
+CrI (%) = Ac/(Ac + Aa) × 100
+(1)
+where Aa and Ac are the areas under the amorphous and the
+crystalline peaks, respectively.
+Scherrer's eqn (2) was applied to calculate the dimension Dhkl
+of the crystallites parallel to the hkl diﬀracting planes.
+Dhkl = (K × l)/(b1/2 × cos q)
+(2)
+where correction factor K is 0.9, l, q, and b1/2 are the wavelength,
+the diﬀraction angle, and the peak width at half maximum
+intensity, respectively.
+2.3.3.
+Thermal analysis (TGA). TGA was used to compare
+the decomposition characteristics of materials at diﬀerent
+stages of treatment. The temperature stability of each sample
+was measured with a TGA/DTA thermogravimetric analyzer
+(Mettler Toledo Corporation, Schwarzenbach, Switzerland), and
+the results were analyzed with STAR soware (Version 9.3).
+Runs were done by putting between 2 and 4 mg of the sample
+into a 70 mL aluminum cup. Just before the analysis, the cup was
+crimped, and the instrument automatically poked a hole in it.
+The investigation was conducted with a steady nitrogen supply
+of 40 mL min−1 to ensure that the weight loss was caused by
+thermal degradation. The temperature of the sample was ram-
+ped at a constant rate of 10 °C min−1, and weight loss (TGA) or
+heat
+evolved
+(DTA)
+was
+measured
+against
+increasing
+temperature.
+2.3.4.
+Transmission
+electron
+microscopy
+(TEM).
+TEM
+(JEM-1400 F, JEOL Ltd, Tokyo, Japan) observations were carried
+out in duplicate at 100 kV accelerating voltage to study the
+morphology of CNC. Micropipette drops of 1.0 wt% CNC
+suspension were placed on copper grids, dried at ambient
+temperature, and examined using TEM.
+2.3.5.
+Raman spectroscopy analysis. The Raman spectra
+were taken with laser Raman microspectroscopy (XploRA Plus,
+Horiba) at an excited wavelength of 785 nm and a power of 0.5
+mW to prevent the laser heating from aﬀecting the Raman shi
+of the CNC material. The spectrum was obtained by aggregating
+three separate scans of distinct CNC sample regions. All spectral
+changes were done with Origin Pro 9.0.0 (OriginLab, USA).
+2.3.6.
+Solid-state
+13C nuclear magnetic resonance (13C-
+NMR). Solid-state 13C-NMR experiments were performed on
+a Bruker AVANCE 400 spectrometer using cross-polarization,
+high-power proton decoupling, and magic angle spinning (CP/
+MAS). 13C-NMR spectra were obtained at 298 K using a 4 mm
+probe at 100.13 MHz. The CP contact periods were 2 ms, the
+repetition duration was 1 s, and the MAS rotation frequency was
+12 kHz.
+3.
+Results and discussion
+3.1.
+Physical appearance of RH at diﬀerent treatment stages
+According to Fig. 1, the color of RH changed from light brown to
+reddish brown following treatment with acid and PFA and then
+to a clear white following bleaching because of the elimination
+of hemicellulose, lignin, and other non-cellulosic substances.
+RH was subjected to an acidic environment to partially dissolve
+hemicellulose, wax, and pectin. Rest and lignin swelled in the
+acidic environment and migrated toward the surface, facili-
+tating the PFA process. The sample color at this stage was
+a deeper reddish brown than the original because the phenol
+derivatives found in lignin absorb visible light.
+The PFA phase soened the ber by removing a signicant
+portion of hemicellulose and some lignin due to oxidant H2O2.
+Most RH hemicellulose, wax, and pectin have been extracted
+using acid and PFA processing. However, unlike when the ber
+was treated with HCOOH, the lignin stayed outside of it,
+swelled, and migrated to the exterior of the ber, giving the ber
+a deeper color. Therefore, further bleaching is required to
+eliminate lignin and obtain puried cellulose. Cellulose ber is
+a semi-crystalline material made up of solid and amorphous
+parts.
+Consequently, the nal step involves acid hydrolysis, in
+which the acid targets prioritize attacking amorphous regions
+while avoiding crystalline areas. The primary function of acids
+is to liberate hydronium ions (H+) to degrade the glycoside and
+ether bonds in the cellulose molecular chain of the amorphous
+region. Aer acid hydrolysis, colloidal suspensions of CNC were
+homogeneous and stable.
+3.2.
+FTIR
+The chemical composition of materials undergoing various
+chemical treatments has been directly determined using FTIR
+spectroscopy. The FTIR spectra of raw, acid-treated, PFA-
+treated, bleached, and acid hydrolysis RH are shown in Fig. 2.
+The prominent bands found in the FTIR spectra of the various
+treated RH samples are thoroughly summarized in Table S1.†
+The peak in the 3440–3450 cm−1 range attributed to O–H
+stretching vibrations of cellulose molecules was seen in all
+samples. This observation emphasizes the bers' underlying
+hydrophilic nature. The C–H bond's asymmetric stretching
+vibration
+has
+a
+designated
+frequency
+range
+of
+2900–
+2050 | RSC Adv., 2024, 14, 2048–2060
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Advances
+Paper
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 4 =====
+
+2937 cm−1.48 A shoulder at 1740 cm−1 in RH spectra revealed
+acetyl and ester in hemicellulose or carboxylic acid groups in
+ferulic and p-coumaric lignin.49–51
+The hemicellulose components of RH were dissolved when
+exposed to HCOOH and PFA acid at 80 °C. The lignin compo-
+nent became atter and moved closer to the surface. This made
+the 1740 cm−1 peak in the PFA-treated sample more noticeable
+than in the raw RH sample. This peak disappeared from the
+spectra of the bleached and acid hydrolysis samples, indicating
+that the hemicelluloses and lignin in the bers were extracted
+chemically. The perceptible alterations in the location and
+shape of the FTIR peaks demonstrated the observable structural
+alteration.
+The peak found at 1645 cm−1 in all spectra can be assigned
+to the bending vibration of O–H in the adsorbed water on the
+cellulose structure.52,53 The typical C–O stretching vibration of
+lignin and hemicellulose of raw RH was found at 1247 cm−1 51,53
+and was absent from the bleached and acid-hydrolyzed
+samples, indicating the suﬃcient removal of hemicellulose
+lignin components during the chemical treatments. The
+Fig. 1
+RH photographs at various phases of chemical treatment and CNC suspension.
+Fig. 2
+FTIR spectra of RH at distinct chemical treatment stages and CNC.
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Adv., 2024, 14, 2048–2060 | 2051
+Paper
+RSC Advances
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 5 =====
+
+deformation vibration of the C–C bond in the ring and the
+glycoside ether bond (C–O–C) in the b-1,4-glycosidic bond of
+cellulose were assigned to at 1160 cm−1 and 1101 cm−1.54 The
+absorption recorded in all 1024–1047 cm−1 spectra corre-
+sponded to the cellulose component's C–H stretching vibra-
+tion.52 The results revealed that the cellulose molecular
+structure remained unchanged following acid hydrolysis. The
+spectra's signal at 893 cm−1 was linked to the cellulose glucose
+ring's glycosidic linkages.55 This peak was more noticeable aer
+bleaching and acid hydrolysis, indicating that the cellulose
+content had grown due to further extraction steps. The spectral
+values discovered agreed with the available literature.55 The
+FTIR spectra of the bleached and acid hydrolysis samples
+without contaminants were compared to those of the unpro-
+cessed RH based on the discussion and analysis that came
+before them. For example, the RH peaks at 1740 cm−1 and
+1247 cm−1 were no longer present. According to the ndings,
+lignin and hemicellulose were eliminated using chemical
+treatment.56
+3.3.
+XRD
+XRD patterns can be utilized to examine the crystalline struc-
+ture of the untreated and chemically treated cellulose bers, as
+illustrated in Fig. 3. All diﬀractograms showed two peaks, at
+around 22° and 15°, that corresponded to the crystalline
+structure of cellulose I.57 Hydroxyl groups in cellulose can form
+intermolecular and intramolecular bonds, leading to cellulose
+crystalline structures.58 This bonding prevents the movement of
+cellulose chains and makes them align tightly and orderly,
+leading to a propensity for crystallinity. In unprocessed ber,
+these crystalline regions are surrounded by amorphous parts
+like hemicelluloses, lignin, and pectin, making the ber less
+crystalline. The pattern indicated that the crystallinity improved
+due to the eﬀective removal of non-crystalline components
+using a series of chemical treatments.
+The most conservative XRD phase analysis method for
+determining cellulose crystallinity was peak deconvolution.59–61
+As illustrated in Fig. S1,† the peak deconvolution technique was
+used to isolate specic crystalline peaks from the XRD curves to
+determine the crystallinity of the materials manufactured at
+various phases using the XRD spectra. Gaussian, Lorentzian,
+and Voigt functions were typically utilized in deconvolution.61
+All peaks were Gaussian t in this investigation, and the broad
+peaks at about 20 and 40° were assigned to the amorphous
+contribution. In cellulose, an amorphous peak was frequently
+detected in the 2q range of 16–20°.60–62 This study attributed
+a broad peak around 35° to the crystallinity component to
+match experimental data. According to Table 1, the RH treated
+with formic/peroxyformic acid has increased CrI and crystalline
+domain size.
+Acid and PFA treatment disintegrated the amorphous
+hemicelluloses and lignin, dramatically raising CrI from
+22.63% to 39.33%. Bleaching eliminated the remaining amor-
+phous components, producing a maximum CrI of 48.63%. With
+their removal, a considerable number of crystalline domains
+can be realigned. The remaining undeveloped areas were
+sensitive to acid assault and had random orientations. Hydro-
+nium ions (H3O+) can penetrate amorphous regions and
+encourage the hydrolytic breakage of cellulose's glycosidic
+linkages, which releases individual crystallites.61,63–65 A prom-
+inent and strong peak was seen in the XRD pattern aer acid
+hydrolysis, supporting the signicant 67.16% improvement in
+crystallinity. The cellulose isolation methods, the hydrolysis
+process length, the raw materials used in its synthesis, and the
+data assessment strategy signicantly impacted CNC's crystal-
+linity values.66 The high crystallinity of CNC was crucial in
+dening the barrier and mechanical (strength, stiﬀness, and
+rigidity) qualities of biopolymer composites utilized as llers in
+industrial applications.64,67
+3.4.
+TGA analysis
+Thermogravimetric analysis was performed on untreated RH,
+acid-treated, PFA-treated, bleached, and CNC samples to
+examine the degradation characteristics at various preparation
+phases. Fig. 4a depicts the TG curves for sample weight loss at
+25 to 800 °C temperatures. Due to the presence of non-cellulosic
+and cellulosic
+molecules
+with diﬀerent degradation,
+the
+thermal decomposition of unprocessed RH was a multi-stage
+process. The corresponding data for samples in each degrada-
+tion step are summarized in Table 2. Initial weight loss was
+Fig. 3
+XRD pattern of RH at distinct treatment stages.
+Table 1
+CrI and crystalline domain size of RH at diﬀerent stages of
+treatment
+RH stage
+CrI (%)
+Crystalline domain
+size (nm)
+Raw
+22.63
+2.64
+Acid-treated
+32.04
+2.76
+PFA-treated
+39.33
+2.88
+Bleached
+48.63
+3.92
+CNC
+67.16
+3.72
+2052 | RSC Adv., 2024, 14, 2048–2060
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Advances
+Paper
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 6 =====
+
+caused by the evaporation of adsorbed moisture on the surface
+of RH and intermolecular hydrogen-bonded chemisorbed water
+between 70 and 120 °C.68,69 Thermal depolymerization of
+hemicelluloses and the breaking of glycosidic linkages in
+cellulose started the next degradation step at 271 °C.58
+Lignin is more heat stable than cellulose and hemicelluloses
+due to its aromatic backbone. Thus, lignin, the primary
+cementing component, was connected to the third breakdown
+stage. Raw RH's DTG (Fig. 4b) displayed two broad peaks (at
+308 °C and 364 °C), represented the various thermal stabilities
+and fracture temperatures corresponding to the oxygen func-
+tional groups in the lignin structure,70 and a low-intensity peak
+at 425 °C. The acid-treated sample began to degrade at 310 °C
+and peaked at 352 °C. The PFA-treated sample, on the other
+hand, began at a higher temperature and reached its highest
+point at 366 °C. The increase in degradation start temperature
+was related to ame-retardant lignin on the surface. The
+bleached RH DTG curve (Fig. 4b) demonstrated a signicant
+weight loss in the range of 280 and 360 °C, with the maximum
+degradation peak due to the degradation of cellulose being
+observed at 334 °C.
+In contrast to bleached RH, CNC exhibited a signicant
+diﬀerence in decomposition behavior. It was discovered that
+degradation occurred at a lower temperature than bleached RH.
+The reduced thermal stability can be attributed to two factors:
+(1) the substantial surface area of the nanocellulose crystals,
+which increases the surface area exposed to heat,67,71,72 and (2)
+the presence of sulfate groups on the CNC surface, which exert
+a catalytic inuence and decrease the activation energy required
+for cellulose chain degradation.73 Furthermore, the crystalline
+structure of CNC74 and the ame-retardant properties of sulfate
+groups75 may contribute to forming more char residue in
+bleached RH.
+The thermal behaviors of samples when heated between 25 °
+C and 800 °C are shown by the DTA curve in Fig. 5. The endo-
+thermal peak at roughly 100 °C in the raw RH indicated that
+adsorption moisture was evaporating. In addition, the degra-
+dation of RH's hemicellulose, cellulose, and lignin components
+Fig. 4
+TGA (a) and DTG (b) curves of RH at diﬀerent treatment phases.
+Table 2
+Onset temperature (Tonset), weight loss (WL), degradation
+temperature at max weight loss (Tmax), and char yield for RH at
+diﬀerent treatment stages evaluated from TG
+Raw
+Acid treated
+PFA treated
+Bleached
+CNC
+Step I
+To (°C)
+77
+70
+72
+66
+70
+Tmax (°C)
+108
+98
+98
+90
+98
+WL (%)
+6.3
+6.6
+5.6
+7.4
+3.7
+Step II
+To (°C)
+271
+—
+—
+236
+Tmax (°C)
+308
+—
+—
+255
+WL (%)
+18.9
+—
+—
+30.3
+Step III
+To (°C)
+348
+310
+327
+310
+280
+Tmax (°C)
+364
+352
+366
+334
+371
+WL (%)
+33.5
+49.5
+56.5
+59.4
+13.8
+Step IV
+To (°C)
+413
+385
+384
+—
+390
+Tmax (°C)
+425
+402
+430
+—
+428
+WL (%)
+7.1
+3.8
+4.2
+—
+5.8
+Char yield (%) at
+800 °C
+28.7
+23.6
+29.2
+26.2
+46.2
+Fig. 5
+DTA curves of RH at diﬀerent stages of treatment.
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Adv., 2024, 14, 2048–2060 | 2053
+Paper
+RSC Advances
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 7 =====
+
+was linked to two prominent exothermal peaks that overlapped
+between 250 °C and 500 °C.
+The endothermal peak of the acid and PFA-treated samples'
+DTA curves below 150 °C suggested that the samples' adsorbed
+moisture had evaporated, which was in line with the weight loss
+seen in the TGA analysis. TGA and DTA investigations showed
+that two samples had less adsorbed water than raw RH. When
+the hemicellulose components of RH were subjected to HCOOH
+acid and HCOOH/H2O2 acid at 80 °C, they disintegrated. The
+lignin component was attened and moved toward the surface,
+suppressing moisture adsorption capacity due to the hydro-
+phobic property of lignin.
+Based on the DTA results, it can be concluded that the
+formic/peroxyformic
+acid treatment RH underwent endo-
+thermal thermal degradation that occurred at higher tempera-
+tures than untreated RH. Aer the PFA treatment, the RH was
+bleached in a NaOH and H2O2 solution. The breakdown of H2O2
+into H+ and perhydroxyl ions (HO2
+−) was accelerated by the
+presence of NaOH. These ions attacked the double bonds on the
+chain and aromatic ring derivatives in lignin, breaking the outer
+lignin structure and releasing the cellulose component inside
+the RH.
+The DTA analysis of the bleached thermogram revealed an
+endotherm below 150 °C, which can be ascribed to water loss. A
+second endothermic transition, which takes place between
+280 °C and 360 °C, signies the fusion of crystallites and reects
+the characteristic decomposition of cellulose within this
+temperature range.38 DTA investigations also revealed a signi-
+cant diﬀerence in thermal behavior between CNC and bleached
+RH. A broad endothermic range of 280 °C to 360 °C was
+observed for the bleached sample. In contrast, the CNC
+exhibited an abrupt and narrow endotherm beginning at 230 °C
+with a peak at 250 °C. This was probably due to the replacement
+of hydroxyl groups by sulfate groups (O–SO3H) during the
+hydrolysis step. The literature has documented that the sulfate
+groups found in CNC facilitate direct solid-to-gas phase tran-
+sitions in nanocellulose crystals.76,77 This leads to a gradual
+decomposition process preceding the pyrolysis of the primary
+cellulose. The crystalline structure and particle size are drasti-
+cally altered during sulfation, resulting in an earlier fusion
+initiation in CNC than bleached RH. These ndings were rele-
+vant to the TGA analysis.
+3.5.
+Transmission electron microscopy analysis
+TEM observations of the morphology of bleached RH and CNC
+are depicted in Fig. 6. It validated the data showing that RH-
+isolated cellulose nanobrils existed. Long brils with widths
+in the nanometer range (1–10 nm) were portrayed in the
+photograph. The length-to-diameter or aspect ratio substan-
+tially impacts how well nanobers can reinforce materials.
+Aspect ratios for most bers ranged from 120 to 140. This value
+was relatively high compared to cellulose nanobrils isolated
+from other sources, such as wheat straw (90–110)78 or coconut
+shell (60).79 As shown in Fig. 6b, acid treatment successfully
+hydrolyzed and removed the amorphous region in cellulose
+nanobrils, causing a substantial length reduction and hydro-
+lyzed cellulose-generated rod-like structures. CNC, generated
+from RH, had an aspect ratio of 10.2 ± 6.8, a diameter of 19 ±
+3.3 nm, and a length of 195 ± 24 nm. The aspect ratio deter-
+mines how well nanobers can act as reinforcement. CNC's
+more excellent aspect ratio may be employed as a ller for
+reinforcement within the lm to strengthen the biocomposite's
+mechanical properties.80 Similar aspect ratios were reported for
+CNC extracted from grape skin (5–10), rice straw (8.8–10.5),81
+Mengkuang leaves (10–20),82 raw cotton linter (19),83 degreasing
+cotton (12 ± 10), and waste cotton cloth (17 ± 15).84 Roohani
+et al. isolated a CNC with an average width, length, and aspect
+ratio of 14.6 nm, 171 nm, and 11–12.85 According to Chandra
+et al., cellulose nanobers made from areca nut husk bers
+exhibited a high aspect ratio of 120–150 and a 1–10 nm
+diameter.86
+In the current research, the yield of CNC extracted from RH
+ranged between 28% and 30%, more signicant than the yield
+(12%) of CNC extracted from RH in a previous study.87 The
+utilization of various acids and hydrolysis conditions may be
+the cause of the yield diﬀerence. This yield was similar to the
+CNC obtained from okra bers (30%) and Mengkuang leaves
+(28%).82,88 In contrast, the percentage yield of CNC derived from
+RH was lower than that of CNC obtained from areca nut bers
+Fig. 6
+TEM images of (a) bleached RH and (b) CNC.
+2054 | RSC Adv., 2024, 14, 2048–2060
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Advances
+Paper
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 8 =====
+
+(35 ± 0.2%)89 and sugarcane bagasse (66.45%)90 and higher
+than that of CNC obtained from barley straw and husk (12%)91
+and old corrugated container ber (23.98%).92 The cellulose
+source and the isolation conditions have the most signicant
+impact on CNC yield. It is possible that the use of mechanical
+pre-treatment on cellulose, combined with acid hydrolysis
+under precisely controlled conditions, including acid concen-
+tration, hydrolysis time, and temperature, and followed by post-
+treatment procedures, such as homogenization and ultra-
+sonication, will increase the production yield of CNC.93
+3.6.
+Raman analysis
+Due to its high sensitivity to changes in the hydrogen bonding
+environment, Raman spectroscopy was used to detect changes
+in the polymorphic arrangement of cellulose.94 The Raman
+spectra obtained from three separate scans carried out on
+various areas of the CNC sample are shown in Fig. 7a. The
+resulting band pattern resembles those found in earlier
+research.94,95 Bands produced by the vibrations of COC, CH2,
+CH, and OH groups, as well as the likely vibrations of CH–O and
+OH–O hydrogen bonds, predominated in this range between
+250 and 1600 cm−1. The bands that best reected the molecular
+surroundings of the methylene (–CH2) and methine (–CH)
+groups
+were
+1478–1464
+cm−1,
+1376–1337
+cm−1,
+1263–
+1286 cm−1, and 980 cm−1. CH2 scissoring (bending) deforma-
+tions and OH bending deformations at C-6 were principally
+responsible for bands at 1478 cm−1 and 1464 cm−1.96,97 These
+bands revealed details on cellulose's intramolecular and inter-
+molecular bonds' ultrastructure.94
+The glycosidic linkage orientation was sensitive between
+1200 and 1300 cm−1. A weak band at 1286 cm−1 and a strong
+band at 1263 cm−1 were discernible in this area (Fig. 7c). While
+the latter was connected to cellulose II, the former has been
+seen before in bacterial and wood cellulose I. The CH2 group
+vibrations were linked to the bands at 980 cm−1. C–O–C glyco-
+sidic linkage deformations caused the 1121, 1092, and 490 cm−1
+bands. Ring deformations were apparent between 541 and
+1147 cm−1 (Fig. 7b and c). The 435 and 421 cm−1 bands were
+connected to CCC and CCO ring vibrations, respectively. Bands
+at about 435 cm−1 were typical of cellulose I, whereas bands at
+421 cm−1 were unique to cellulose II.98
+Agarwal proved that bands at about 380 cm−1 are related to
+the cellulose crystallinity index.95 Bands at 327 cm−1 and
+580 cm−1, respectively, are other skeletal deformations indica-
+tive of cellulose I (Fig. 7b). The bending vibration of the methine
+group at C-1 or the bending vibration of HCC and HCO at C-6 in
+the pyranose unit were responsible for the broadband between
+840 and 880 cm−1.98
+3.7.
+13C-NMR analysis
+Carbon from cellulose has 13C NMR signals between 60 and
+110 ppm. Fig. 8 depicts the CNC spectrum extracted from RH.
+The peaks at 72.4 ppm and 73.6 ppm were cellulose carbons C-2
+and C-3, respectively. The peak at 75.5 ppm was cellulose carbon
+C-5. The peak represented crystalline cellulose carbon C-4 at
+89.3 ppm, while the peak represented crystalline cellulose
+carbon C-1 at 105.5 ppm.99
+The C-6 peak suggested crystalline cellulose at 65.7 ppm.100
+The NMR spectra showed that most hemicellulose and lignin
+were removed aer chemical processes (acid treatment, PFA
+treatment, bleaching, and hydrolysis). Eliminating C-1 from the
+hemicellulose's (1-4)-D-Xylp-2-O-(4-OMe-dGlcpA) units cause the
+102 ppm peak to be absent.101 Furthermore, the absence of
+representative peaks of hemicellulose and lignin at 21, 56, or
+173 ppm 102 suggested that the chemical treatments removed
+the carbons in lignin's methyl, methoxyl, and carboxylic groups.
+Fig. 7
+Raman spectra of three separate scans of distinct CNC regions (a) and within speciﬁed band regions (b and c).
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Adv., 2024, 14, 2048–2060 | 2055
+Paper
+RSC Advances
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 9 =====
+
+In conclusion, the spectra of CNC elucidated that each peak
+originated from six carbon atoms within the cellulose structure.
+4.
+Conclusion
+Using
+a
+formic/peroxyformic
+procedure,
+we
+successfully
+extracted cellulose from rice husk (RH). The technique above
+successfully eliminated non-cellulose components while also
+inducing swelling and migration of lignin toward the RH's
+surface, minimizing the requirement for recurrent bleaching
+and shortening the bleaching process. To create cellulose
+nanocrystals (CNC), 64% sulfuric acid was used to hydrolyze the
+cellulose. With the CNC, cellulose's crystallinity rose from
+22.63% with the raw RH to 67.16%. The leading cause was the
+isolation and hydrolysis processes, which eliminated amor-
+phous components like hemicellulose, lignin, pectin, and the
+ber structure's loosely organized underdeveloped cellulose
+region. Aer H2SO4 hydrolysis, a rod-like CNC was produced.
+With an aspect ratio of 10.2 ± 6.8, CNC had a diameter and
+length of 19 ± 3.3 nm and 195 ± 24 nm. According to the
+research,
+CNC
+oﬀers
+excellent promise
+for
+using
+nano-
+composite materials as a reinforcing phase.
+Data availability
+Data will be made available on request.
+Author contributions
+An Nang Vu: conceptualization, investigation, writing – original
+drapreparation. Long Hoang Nguyen: formal analysis. Ha-
+Chi V. Tran: formal analysis. Kimio Yoshimura: resources. Tap
+Duy Tran: investigation. Hieu Van Le: writing – review & editing.
+Ngoc-Uyen
+T.
+Nguyen:
+conceptualization,
+validation,
+supervision.
+Conﬂicts of Interest
+The authors report no declarations of interest.
+Acknowledgements
+This research is funded by Vietnam National University Ho Chi
+Minh City (VNU-HCM) under grant number VL2020-18-05. The
+authors are grateful for this nancial support.
+References
+1 S. S. Hassan, G. A. Williams and A. K. Jaiswal, Emerging
+technologies
+for
+the
+pretreatment
+of
+lignocellulosic
+biomass, Bioresour. Technol., 2018, 262, 310–318.
+2 I.
+S.
+Makarov,
+L.
+K.
+Golova,
+G.
+N.
+Bondarenko,
+T. S. Anokhina, E. S. Dmitrieva, I. S. Levin, et al.,
+Structure, Morphology, and Permeability of Cellulose
+Films, Membranes, 2022, 12(3), 297–309.
+3 K. V. Neenu, C. D. Midhun Dominic, P. M. S. Begum,
+J. Parameswaranpillai, B. P. Kanoth, D. A. David, et al.,
+Eﬀect of oxalic acid and sulphuric acid hydrolysis on the
+preparation and properties of pineapple pomace derived
+cellulose
+nanobers
+and
+nanopapers,
+Int.
+J.
+Biol.
+Macromol., 2022, 209, 1745–1759.
+4 P. Bagde and V. Nadanathangam, Mechanical, antibacterial
+and biodegradable properties of starch lm containing
+bacteriocin
+immobilized
+crystalline
+nanocellulose,
+Carbohydr. Polym., 2019, 222, 115021.
+5 C. Amara, A. El Mahdi, R. Medimagh and K. Khwaldia,
+Nanocellulose-based composites for packaging applications,
+Curr. Opin. Green Sustainable Chem., 2021, 31, 100512.
+6 K. Daicho, K. Kobayashi, S. Fujisawa and T. Saito,
+Crystallinity-Independent
+yet
+Modication-Dependent
+True Density of Nanocellulose, Biomacromolecules, 2020,
+21(2), 939–945.
+7 M. Osorio, P. Fern´andez-Morales, P. Gañ´an, R. Zuluaga,
+H. Kerguelen, I. Ortiz, et al., Development of novel three-
+dimensional scaﬀolds based on bacterial nanocellulose
+for tissue engineering and regenerative medicine: Eﬀect of
+processing
+methods,
+pore
+size,
+and
+surface
+area,
+J.
+Biomed. Mater. Res., Part A, 2019, 107(2), 348–359.
+8 L. K. Kian, N. Saba, M. Jawaid and M. T. H. Sultan, A review
+on processing techniques of bast bers nanocellulose and
+its polylactic acid (PLA) nanocomposites, Int. J. Biol.
+Macromol., 2019, 121, 1314–1328.
+9 S. S. Ahankari, A. R. Subhedar, S. S. Bhadauria and
+A. Dufresne, Nanocellulose in food packaging: A review,
+Carbohydr. Polym., 2021, 255, 117479.
+10 L. Cao, J. Huang, J. Fan, Z. Gong, C. Xu and Y. Chen,
+Nanocellulose-A Sustainable and Eﬃcient Nanoller for
+Rubber Nanocomposites: From Reinforcement to Smart
+SoMaterials, Polym. Rev., 2022, 62(3), 549–584.
+11 A. Hachaichi, B. Kouini, L. K. Kian, M. Asim, H. Fouad,
+M.
+Jawaid,
+et
+al.,
+Nanocrystalline
+Cellulose
+from
+Microcrystalline
+Cellulose
+of
+Date
+Palm
+Fibers
+as
+a Promising Candidate for Bio-Nanocomposites: Isolation
+and Characterization, Materials, 2021, 14(18), 5313.
+12 N. Raghav, M. R. Sharma and J. F. Kennedy, Nanocellulose:
+A mini-review on types and use in drug delivery systems,
+Carbohydr. Polym. Technol. Appl., 2021, 2, 100031.
+Fig. 8
+13C NMR spectra of CNC.
+2056 | RSC Adv., 2024, 14, 2048–2060
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Advances
+Paper
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 10 =====
+
+13 J.
+A.
+Kelly,
+A.
+M.
+Shukaliak,
+C.
+C.
+Y.
+Cheung,
+K. E. Shopsowitz, W. Y. Hamad and M. J. MacLachlan,
+Responsive Photonic Hydrogels Based on Nanocrystalline
+Cellulose, Angew. Chem., Int. Ed., 2013, 52(34), 8912–8916.
+14 F. H. Bagis and Setiadi, Nanocellulose lament fabrication
+from Sugarcane Bagasse through wet spinning method, AIP
+Conf. Proc., 2020, 2255(1), 040005.
+15 J. Nemoto, T. Saito and A. Isogai, Simple Freeze-Drying
+Procedure
+for
+Producing
+Nanocellulose
+Aerogel-
+Containing,
+High-Performance
+Air
+Filters,
+ACS
+Appl.
+Mater. Interfaces, 2015, 7(35), 19809–19815.
+16 Y. Qin, J. Mo, Y. Liu, S. Zhang, J. Wang, Q. Fu, et al.,
+Stretchable
+Triboelectric
+Self-Powered
+Sweat
+Sensor
+Fabricated from Self-Healing Nanocellulose Hydrogels,
+Adv. Funct. Mater., 2022, 32(27), 2201846.
+17 T. Bayer, B. V. Cunning, R. Selyanchyn, M. Nishihara,
+S. Fujikawa, K. Sasaki, et al., High Temperature Proton
+Conduction in Nanocellulose Membranes: Paper Fuel
+Cells, Chem. Mater., 2016, 28(13), 4805–4814.
+18 V. C.-F. Li, C. K. Dunn, Z. Zhang, Y. Deng and H. J. Qi, Direct
+Ink Write (DIW) 3D Printed Cellulose Nanocrystal Aerogel
+Structures, Sci. Rep., 2017, 7(1), 8018.
+19 P. Moharrami and E. Motamedi, Application of cellulose
+nanocrystals
+prepared
+from
+agricultural
+wastes
+for
+synthesis
+of
+starch-based
+hydrogel
+nanocomposites:
+Eﬃcient and selective nanoadsorbent for removal of
+cationic dyes from water, Bioresour. Technol., 2020, 313,
+123661.
+20 S.
+Li
+and
+G.
+Chen,
+Agricultural
+waste-derived
+superabsorbent hydrogels: Preparation, performance, and
+socioeconomic impacts, J. Cleaner Prod., 2020, 251, 119669.
+21 C. Sun, J. Ni, C. Zhao, J. Du, C. Zhou, S. Wang, et al.,
+Preparation of a cellulosic adsorbent by functionalization
+with pyridone diacid for removal of Pb(II) and Co(II) from
+aqueous solutions, Cellulose, 2017, 24(12), 5615–5624.
+22 S. A. A. K. M. Hamed and M. L. Hassan, A new mixture of
+hydroxypropyl
+cellulose
+and
+nanocellulose
+for
+wood
+consolidation, J. Cult. Herit., 2019, 35, 140–144.
+23 Y. Liu, Q. Fu, J. Mo, Y. Lu, C. Cai, B. Luo, et al., Chemically
+tailored
+molecular
+surface
+modication
+of
+cellulose
+nanobrils
+for
+manipulating
+the
+charge
+density
+of
+triboelectric
+nanogenerators,
+Nano
+Energy,
+2021,
+89,
+106369.
+24 H. Du, M. Parit, M. Wu, X. Che, Y. Wang, M. Zhang, et al.,
+Sustainable
+valorization
+of
+paper
+mill
+sludge
+into
+cellulose nanobrils and cellulose nanopaper, J. Hazard.
+Mater., 2020, 400, 123106.
+25 V. K. Thakur, A. S. Singha and M. K. Thakur, Natural
+Cellulosic
+Polymers
+as
+Potential
+Reinforcement
+in
+Composites: Physicochemical and Mechanical Studies,
+Adv. Polym. Technol., 2013, 32(S1), E427.
+26 Y.-H. Feng, T.-Y. Cheng, W.-G. Yang, P.-T. Ma, H.-Z. He,
+X.-C. Yin, et al., Characteristics and environmentally
+friendly extraction of cellulose nanobrils from sugarcane
+bagasse, Ind. Crops Prod., 2018, 111, 285–291.
+27 D. Magalh˜aes do Nascimento, J. Almeida, S. Vale, R. Leit˜ao,
+C. Muniz and M. Figueirˆedo, A comprehensive approach for
+obtaining cellulose nanocrystal from coconut ber. Part I:
+Proposition of technological pathways, Ind. Crops Prod.,
+2016, 93, 66–75.
+28 P. Lu and Y.-L. Hsieh, Preparation and characterization of
+cellulose nanocrystals from rice straw, Carbohydr. Polym.,
+2012, 87(1), 564–573.
+29 S. Mueller, C. Weder and E. J. Foster, Isolation of cellulose
+nanocrystals from pseudostems of banana plants, RSC Adv.,
+2014, 4(2), 907–915.
+30 N. H. A. Rahman, N. A. Ibrahim, B. W. Chieng and
+N.
+A.
+Rahman,
+Extraction
+and
+Characterization
+of
+Cellulose Nanocrystals from Tea Leaves Waste Fiber,
+Polymers, 2017, 9(11), 588–598.
+31 S. Rungrodnimitchai, W. Phokhanusai and N. Sungkhaho,
+Preparation
+of
+silica
+gel
+from
+rice
+husk
+ash using
+microwave heating, J. Met., Mater. Miner., 2017, 19(2), 45–
+50.
+32 N. Yuzer, Z. Cinar, F. Akoz, H. Biricik, Y. Yalcin Gurkan,
+N. Kabay, et al., Inuence of raw rice husk addition on
+structure and properties of concrete, Constr. Build. Mater.,
+2013, 44, 54–62.
+33 C. N. H. Thuc and H. H. Thuc, Synthesis of silica
+nanoparticles
+from
+Vietnamese
+rice
+husk
+by
+sol–gel
+method, Nanoscale Res. Lett., 2013, 8(1), 58.
+34 M. Jackson, The alkali treatment of straws, Anim. Feed Sci.
+Technol., 1977, 2(2), 105–130.
+35 E. S. Abdel-Halim, Simple and economic bleaching process
+for cotton fabric, Carbohydr. Polym., 2012, 88(4), 1233–1238.
+36 J. Chandra, N. George and S. K. Narayanankutty, Isolation
+and
+characterization
+of
+cellulose
+nanobrils
+from
+arecanut husk bre, Carbohydr. Polym., 2016, 142, 158–166.
+37 Y. W. Chen, H. V. Lee, J. C. Juan and S.-M. Phang,
+Production of new cellulose nanomaterial from red algae
+marine biomass Gelidium elegans, Carbohydr. Polym.,
+2016, 151, 1210–1219.
+38 S. M. L. Rosa, N. Rehman, M. I. G. de Miranda,
+S. M. B. Nachtigall and C. I. D. Bica, Chlorine-free
+extraction
+of
+cellulose
+from
+rice
+husk
+and
+whisker
+isolation, Carbohydr. Polym., 2012, 87(2), 1131–1138.
+39 N. E. Fitriana, A. Suwanto, T. H. Jatmiko, S. Mursiti and
+D. J. Prasetyo, Cellulose extraction from sugar palm
+(Arenga
+pinnata)
+bre
+by
+alkaline
+and
+peroxide
+treatments, IOP Conf. Ser. Earth Environ. Sci., 2020, 462(1),
+012053.
+40 I. W. Arnata, F. Fahma, N. Richana and T. C. Sunarti,
+Cellulose Production from Sago Frond with Alkaline
+Delignication and Bleaching on Various Types of Bleach
+Agents, Orient. J. Chem., 2019, 35, 8–19.
+41 R. G. Candido and A. R. Gonçalves, Evaluation of two
+diﬀerent
+applications
+for
+cellulose
+isolated
+from
+sugarcane bagasse in a biorenery concept, Ind. Crops
+Prod., 2019, 142, 111616.
+42 X. Liu, Y. Li, C. M. Ewulonu, J. Ralph, F. Xu, Q. Zhang, et al.,
+Mild Alkaline Pretreatment for Isolation of Native-Like
+Lignin
+and
+Lignin-Containing
+Cellulose
+Nanobers
+(LCNF) from Crop Waste, ACS Sustain. Chem. Eng., 2019,
+7(16), 14135–14142.
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Adv., 2024, 14, 2048–2060 | 2057
+Paper
+RSC Advances
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 11 =====
+
+43 H. Ji, Z. Xiang, H. Qi, T. Han, A. Pranovich and T. Song,
+Strategy
+towards
+one-step
+preparation
+of
+carboxylic
+cellulose nanocrystals and nanobrils with high yield,
+carboxylation
+and
+highly
+stable
+dispersibility
+using
+innocuous citric acid, Green Chem., 2019, 21(8), 1956–1964.
+44 C. Huang, W. Lin, C. Lai, X. Li, Y. Jin and Q. Yong, Coupling
+the post-extraction process to remove residual lignin and
+alter
+the
+recalcitrant
+structures
+for
+improving
+the
+enzymatic
+digestibility
+of
+acid-pretreated
+bamboo
+residues, Bioresour. Technol., 2019, 285, 121355.
+45 B. Li, W. Xu, D. Kronlund, A. M¨a¨att¨anen, J. Liu, J.-H. Sm˚att,
+et al., Cellulose nanocrystals prepared via formic acid
+hydrolysis
+followed
+by
+TEMPO-mediated
+oxidation,
+Carbohydr. Polym., 2015, 133, 605–612.
+46 M. S. Islam, N. Kao, S. N. Bhattacharya, R. Gupta and
+P.
+K.
+Bhattacharjee,
+Eﬀect
+of
+low
+pressure
+alkaline
+delignication
+process
+on
+the
+production
+of
+nanocrystalline cellulose from rice husk, J. Taiwan Inst.
+Chem. Eng., 2017, 80, 820–834.
+47 R. M. Dos Santos, W. P. F. Neto, H. A. Silv´erio, D. F. Martins,
+N. O. Dantas and D. Pasquini, Cellulose nanocrystals from
+pineapple leaf, a new approach for the reuse of this agro-
+waste, Ind. Crops Prod., 2013, 50, 707–714.
+48 A. A. Oun and J.-W. Rhim, Preparation and characterization
+of sodium carboxymethyl cellulose/cotton linter cellulose
+nanobril composite lms, Carbohydr. Polym., 2015, 127,
+101–109.
+49 F. Jiang and Y.-L. Hsieh, Cellulose nanocrystal isolation
+from tomato peels and assembled nanobers, Carbohydr.
+Polym., 2015, 122, 60–68.
+50 E. H. Qua, P. R. Hornsby, H. S. S. Sharma and G. Lyons,
+Preparation and characterisation of cellulose nanobres,
+J. Mater. Sci., 2011, 46(18), 6029–6045.
+51 J.
+Lamaming,
+R.
+Hashim,
+C.
+P.
+Leh,
+O.
+Sulaiman,
+T. Sugimoto and M. Nasir, Isolation and characterization
+of cellulose nanocrystals from parenchyma and vascular
+bundle of oil palm trunk (Elaeis guineensis), Carbohydr.
+Polym., 2015, 134, 534–540.
+52 J. Li, S. Zhang, B. Gao, A. Yang, Z. Wang, Y. Xia, et al.,
+Characteristics
+and
+deoxy-liquefaction
+of
+cellulose
+extracted from cotton stalk, Fuel, 2016, 166, 196–202.
+53 G. Mondragon, S. Fernandes, A. Retegi, C. Peña, I. Algar,
+A. Eceiza, et al., A common strategy to extracting cellulose
+nanoentities from diﬀerent plants, Ind. Crops Prod., 2014,
+55, 140–148.
+54 E. Robles, I. Urruzola, J. Labidi and L. Serrano, Surface-
+modied nano-cellulose as reinforcement in poly(lactic
+acid) to conform new composites, Ind. Crops Prod., 2015,
+71, 44–53.
+55 Q. Lu, W. Lin, L. Tang, S. Wang, X. Chen and B. Huang, A
+mechanochemical approach to manufacturing bamboo
+cellulose nanocrystals, J. Mater. Sci., 2015, 50(2), 611–619.
+56 Z. Wang, Z. Yao, J. Zhou, M. He, Q. Jiang, S. Li, et al.,
+Isolation and characterization of cellulose nanocrystals
+from pueraria root residue, Int. J. Biol. Macromol., 2019,
+129, 1081–1089.
+57 Y. Nishiyama, Structure and properties of the cellulose
+microbril, J. Wood Sci., 2009, 55(4), 241–249.
+58 C. J. Chirayil, J. Joy, L. Mathew, M. Mozetic, J. Koetz and
+S. Thomas, Isolation and characterization of cellulose
+nanobrils from Helicteres isora plant, Ind. Crops Prod.,
+2014, 59, 27–34.
+59 C. J. Garvey, I. H. Parker and G. P. Simon, On the
+Interpretation of X-Ray Diﬀraction Powder Patterns in
+Terms
+of
+the
+Nanostructure
+of
+Cellulose
+I
+Fibres,
+Macromol. Chem. Phys., 2005, 206(15), 1568–1575.
+60 L. Xing, J. Gu, W. Zhang, D. Tu and C. Hu, Cellulose I and II
+nanocrystals produced by sulfuric acid hydrolysis of Tetra
+pak cellulose I, Carbohydr. Polym., 2018, 192, 184–192.
+61 S. Park, J. O. Baker, M. E. Himmel, P. A. Parilla and
+D. K. Johnson, Cellulose crystallinity index: measurement
+techniques and their impact on interpreting cellulase
+performance, Biotechnol. Biofuels, 2010, 3, 1–10.
+62 A.
+D.
+French
+and
+M.
+Santiago
+Cintr´on,
+Cellulose
+polymorphy, crystallite size, and the Segal Crystallinity
+Index, Cellulose, 2013, 20(1), 583–588.
+63 M. M. de Souza Lima and R. Borsali, Rodlike Cellulose
+Microcrystals:
+Structure,
+Properties,
+and
+Applications,
+Macromol. Rapid Commun., 2004, 25(7), 771–787.
+64 S. Collazo-Bigliardi, R. Ortega-Toro and A. Chiralt Boix,
+Isolation
+and
+characterisation
+of
+microcrystalline
+cellulose and cellulose nanocrystals from coﬀee husk and
+comparative study with rice husk, Carbohydr. Polym.,
+2018, 191, 205–215.
+65 H. Doh, M. H. Lee and W. S. Whiteside, Physicochemical
+characteristics of cellulose nanocrystals isolated from
+seaweed biomass, Food Hydrocolloids, 2020, 102, 105542.
+66 H.
+Vieyra,
+U.
+Figueroa-L´opez,
+A.
+Guevara-Morales,
+B.
+Vergara-Porras,
+E.
+San
+Mart´ın-Mart´ınez
+and
+M.
+´A.
+Aguilar-Mendez,
+Optimized
+Monitoring
+of
+Production of Cellulose Nanowhiskers from Opuntia cus-
+indica (Nopal Cactus), Int. J. Polym. Sci., 2015, 2015, 871345.
+67 S. Naduparambath, T. V. Jinitha, V. Shaniba, M. P. Sreejith,
+A.
+K.
+Balan
+and
+E.
+Purushothaman,
+Isolation
+and
+characterisation of cellulose nanocrystals from sago seed
+shells, Carbohydr. Polym., 2018, 180, 13–20.
+68 H. Dai, S. Ou, Y. Huang and H. Huang, Utilization of
+pineapple peel for production of nanocellulose and lm
+application, Cellulose, 2018, 25(3), 1743–1756.
+69 O. Prakash, M. Naik, R. Katiyar, S. Naik, D. Kumar, D. Maji,
+et al., Novel process for isolation of major bio-polymers
+from
+Mentha
+arvensis
+distilled
+biomass
+and
+saccharication of the isolated cellulose to glucose, Ind.
+Crops Prod., 2018, 119, 1–8.
+70 M. Brebu and C. Vasile, Thermal degradation of lignin—
+a review, Cellul. Chem. Technol., 2010, 44(9), 353.
+71 F. Hemmati, S. M. Jafari, M. Kashaninejad and M. Barani
+Motlagh,
+Synthesis
+and
+characterization
+of
+cellulose
+nanocrystals
+derived
+from
+walnut
+shell
+agricultural
+residues, Int. J. Biol. Macromol., 2018, 120, 1216–1224.
+72 A. Y. Meliko˘glu, S. E. Bilek and S. Cesur, Optimum alkaline
+treatment parameters for the extraction of cellulose and
+2058 | RSC Adv., 2024, 14, 2048–2060
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Advances
+Paper
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 12 =====
+
+production of cellulose nanocrystals from apple pomace,
+Carbohydr. Polym., 2019, 215, 330–337.
+73 E. de Morais Teixeira, A. C. Corrˆea, A. Manzoli, F. de Lima
+Leite, C. R. de Oliveira and L. H. C. Mattoso, Cellulose
+nanobers from white and naturally colored cotton bers,
+Cellulose, 2010, 17(3), 595–606.
+74 J. George, K. V. Ramana, A. S. Bawa and Siddaramaiah,
+Bacterial cellulose nanocrystals exhibiting high thermal
+stability and their polymer nanocomposites, Int. J. Biol.
+Macromol., 2011, 48(1), 50–57.
+75 M. Roman and W. T. Winter, Eﬀect of Sulfate Groups from
+Sulfuric Acid Hydrolysis on the Thermal Degradation
+Behavior of Bacterial Cellulose, Biomacromolecules, 2004,
+5(5), 1671–1677.
+76 P. Lu and Y.-L. Hsieh, Preparation and properties of
+cellulose
+nanocrystals:
+rods,
+spheres,
+and
+network,
+Carbohydr. Polym., 2010, 82(2), 329–336.
+77 N. Wang, E. Ding and R. Cheng, Thermal degradation
+behaviors of spherical cellulose nanocrystals with sulfate
+groups, Polymer, 2007, 48(12), 3486–3493.
+78 A. Alemdar and M. Sain, Isolation and characterization of
+nanobers from agricultural residues – Wheat straw and
+soy hulls, Bioresour. Technol., 2008, 99(6), 1664–1671.
+79 M. F. Rosa, E. S. Medeiros, J. A. Malmonge, K. S. Gregorski,
+D. F. Wood, L. H. C. Mattoso, et al., Cellulose nanowhiskers
+from coconut husk bers: Eﬀect of preparation conditions
+on their thermal and morphological behavior, Carbohydr.
+Polym., 2010, 81(1), 83–92.
+80 M. El Achaby, N. El Miri, A. Aboulkas, M. Zahouily, E. Bilal,
+A. Barakat, et al., Processing and properties of eco-friendly
+bio-nanocomposite lms lled with cellulose nanocrystals
+from sugarcane bagasse, Int. J. Biol. Macromol., 2017, 96,
+340–352.
+81 Y.-L. Hsieh, Cellulose nanocrystals and self-assembled
+nanostructures from cotton, rice straw and grape skin:
+a source perspective, J. Mater. Sci., 2013, 48(22), 7837–7846.
+82 R. M. Sheltami, I. Abdullah, I. Ahmad, A. Dufresne and
+H. Kargarzadeh, Extraction of cellulose nanocrystals from
+mengkuang
+leaves
+(Pandanus
+tectorius),
+Carbohydr.
+Polym., 2012, 88(2), 772–779.
+83 J. P. S. Morais, M. d. F. Rosa, M. d. s. M. de Souza Filho,
+L.
+D.
+Nascimento,
+D.
+M.
+do
+Nascimento
+and
+A.
+R.
+Cassales,
+Extraction
+and
+characterization
+of
+nanocellulose
+structures
+from
+raw
+cotton
+linter,
+Carbohydr. Polym., 2013, 91(1), 229–235.
+84 Z. Wang, Z. Yao, J. Zhou and Y. Zhang, Reuse of waste
+cotton cloth for the extraction of cellulose nanocrystals,
+Carbohydr. Polym., 2017, 157, 945–952.
+85 M. Roohani, Y. Habibi, N. M. Belgacem, G. Ebrahim,
+A.
+N.
+Karimi
+and
+A.
+Dufresne,
+Cellulose
+whiskers
+reinforced polyvinyl alcohol copolymers nanocomposites,
+Eur. Polym. J., 2008, 44(8), 2489–2498.
+86 C. S. Chandra, N. George and S. K. Narayanankutty,
+Isolation and characterization of cellulose nanobrils
+from arecanut husk bre, Carbohydr. Polym., 2016, 142,
+158–166.
+87 D. Barana, A. Salanti, M. Orlandi, D. S. Ali and L. Zoia,
+Biorenery process for the simultaneous recovery of
+lignin, hemicelluloses, cellulose nanocrystals and silica
+from rice husk and Arundo donax, Ind. Crops Prod., 2016,
+86, 31–39.
+88 E.
+Fortunati,
+D.
+Puglia,
+M.
+Monti,
+C.
+Santulli,
+M.
+Maniruzzaman
+and
+J.
+M.
+Kenny,
+Cellulose
+nanocrystals
+extracted
+from
+okra
+bers
+in
+PVA
+nanocomposites, J. Appl. Polym. Sci., 2013, 128(5), 3220–
+3230.
+89 S. Ramesh and P. Radhakrishnan, Areca nut ber nano
+crystals,
+clay
+nano
+particles
+and
+PVA
+blended
+bionanocomposite material for active packaging of food,
+Appl. Nanosci., 2022, 12(3), 295–307.
+90 C. Verma, M. Chhajed, P. Gupta, S. Roy and P. K. Maji,
+Isolation of cellulose nanocrystals from diﬀerent waste
+bio-mass
+collating
+their
+liquid
+crystal
+ordering
+with
+morphological exploration, Int. J. Biol. Macromol., 2021,
+175, 242–253.
+91 E. Fortunati, P. Benincasa, G. M. Balestra, F. Luzi,
+A. Mazzaglia, D. Del Buono, et al., Revalorization of barley
+straw and husk as precursors for cellulose nanocrystals
+extraction and their eﬀect on PVA_CH nanocomposites,
+Ind. Crops Prod., 2016, 92, 201–217.
+92 Y. Tang, X. Shen, J. Zhang, D. Guo, F. Kong and N. Zhang,
+Extraction of cellulose nano-crystals from old corrugated
+container ber using phosphoric acid and enzymatic
+hydrolysis
+followed by sonication, Carbohydr. Polym.,
+2015, 125, 360–366.
+93 Y. Li, H. Zhu, M. Xu, Z. Zhuang, M. Xu and H. Dai, High
+Yield Preparation Method of Thermally Stable Cellulose
+Nanobers, BioResources, 2014, 9(2), 1986–1997.
+94 Q.
+Li
+and
+S.
+Renneckar,
+Supramolecular
+Structure
+Characterization
+of
+Molecularly
+Thin
+Cellulose
+I
+Nanoparticles, Biomacromolecules, 2011, 12(3), 650–659.
+95 U. P. Agarwal, 1064 nm FT-Raman spectroscopy for
+investigations of plant cell walls and other biomass
+materials, Front. Plant Sci., 2014, 5, 490.
+96 R. H. Atalla and D. L. VanderHart, Studies on the structure
+of cellulose using Raman spectroscopy and solid state 13C
+NMR, Cellulose and Wood: Chemistry and Technology,
+Proceedings of the Tenth Cellulose Conference, ed. C.
+Schuerch, John Wiley and Sons, New York, 1989.
+97 J. H. Wiley and R. H. Atalla, Band assignments in the raman
+spectra of celluloses, Carbohydr. Res., 1987, 160, 113–129.
+98 K. Schenzel and S. Fischer, NIR FT Raman spectroscopy-
+a rapid analytical tool for detecting the transformation of
+cellulose polymorphs, Cellulose, 2001, 8, 49–57.
+99 H. Wikberg and S. Liisa Maunu, Characterisation of
+thermally modied hard- and sowoods by 13C CPMAS
+NMR, Carbohydr. Polym., 2004, 58(4), 461–466.
+100 C.
+Vivian
+Abiaziem,
+A.
+Bassey
+Williams,
+A.
+Ibijoke
+Inegbenebor,
+C.
+Theresa
+Onwordi,
+C.
+Osereme
+Ehi-
+Eromosele
+and
+L.
+Felicia
+Petrik,
+Preparation
+and
+Characterisation of Cellulose Nanocrystal from Sugarcane
+Peels by XRD, SEM and CP/MAS 13C NMR, J. Phys.: Conf.
+Ser., 2019, 1299(1), 012123.
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Adv., 2024, 14, 2048–2060 | 2059
+Paper
+RSC Advances
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online
+
+
+===== PAGE 13 =====
+
+101 J.-L. Wen, L.-P. Xiao, Y.-C. Sun, S.-N. Sun, F. Xu, R.-C. Sun,
+et al., Comparative study of alkali-soluble hemicelluloses
+isolated from bamboo (Bambusa rigida), Carbohydr. Res.,
+2011, 346(1), 111–120.
+102 A. Idström, S. Schantz, J. Sundberg, B. F. Chmelka,
+P. Gatenholm and L. Nordstierna, 13C NMR assignments
+of
+regenerated
+cellulose
+from
+solid-state
+2D
+NMR
+spectroscopy, Carbohydr. Polym., 2016, 151, 480–487.
+2060 | RSC Adv., 2024, 14, 2048–2060
+© 2024 The Author(s). Published by the Royal Society of Chemistry
+RSC Advances
+Paper
+Open Access Article. Published on 09 January 2024. Downloaded on 6/15/2026 11:06:39 AM. 
+This article is licensed under a Creative Commons Attribution-NonCommercial 3.0 Unported Licence.
+View Article Online

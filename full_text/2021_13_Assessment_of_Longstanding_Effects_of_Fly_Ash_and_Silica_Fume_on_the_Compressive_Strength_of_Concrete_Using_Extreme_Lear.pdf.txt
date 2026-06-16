@@ -1,0 +1,4402 @@
+
+===== PAGE 1 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Assessment of Longstanding Effects of Fly
+Ash and Silica Fume on the Compressive
+Strength of Concrete Using Extreme
+Learning Machine and Artificial Neural
+Network
+Mahdi SHARIATI 1,∗, Danial Jahed ARMAGHANI 2, Manoj KHANDELWAL 3,
+Jian ZHOU 4, Majid KHORAMI 5
+1Faculty of Civil Engineering, University of Tabriz, Tabriz, Iran.
+2Department of Civil Engineering, Faculty of Engineering, University of Malaya, 50603, Kuala
+Lumpur, Malaysia.
+3School of Engineering, Information Technology and Physical Sciences, Federation University
+Australia, Ballarat, Australia.
+4School of Resources and Safety Engineering, Central South University, Changsha 410083, China.
+5Department of Mechanical Engineering, Politecnico di Milano, 20156 Milan, Italy.
+*Corresponding Author: Mahdi SHARIATI (Email: shariati@tabrizu.ac.ir)
+(Received: 14-Nov-2020; accepted: 18-Feb-2021; published: 31-Mar-2021)
+DOI: http://dx.doi.org/10.25073/jaec.202151.308
+Abstract. Compressive Strength (CS) is an im-
+portant mechanical feature of concrete taken as
+an essential factor in construction. The current
+study has investigated the eﬀect of ﬂy ash and
+silica fume replacement content on the strength
+of concrete through Artiﬁcial Neural Networks
+(ANNs) and Extreme Learning Machine (ELM).
+In this study, diﬀerent ratio of ﬂy ash with
+(out) extra quantity of silica fume have been
+tested. Water cement (w/c) ratio varies during
+the test. Eight input parameters including To-
+tal Cementitious Material (TCM), Silica Fume
+(SF) replacement ratio, coarse aggregate (ca),
+ﬂy ash (FA) replacement ratio, Sewage Sludge
+Ash (ssa) as combination of cement and ﬁne ag-
+gregate replacement, water cement ratio, High
+Ratio Water Reducing Agent (HRWRA) and Age
+of Samples (AS) and one output parameter as
+the CS of concrete have been investigated through
+ANN and ELM. Up to now, numerous exper-
+imental studies have been used to analyze the
+compressive strength of concrete while retroﬁtted
+with ﬂy ash or silica fume, however, the nov-
+elty of this study is in its use of AI models
+(ELM, ANN). The models have been developed
+and their outcomes were compared through six
+statistical indicators (MAE, RMSE, RRMSE,
+WI, RMAE and R2). Subsequently, both meth-
+ods were shown as reliable tools for assessing
+the inﬂuence of cementitious material on com-
+pressive strength of concrete, however, ANN re-
+markably was better than ELM. As a result, FA
+showed less contribution to the strength of con-
+crete at short times, but much at later ages. As
+a result, the enhanced inﬂuence of low amount of
+SF on CS was not signiﬁcant. Adding ﬂy ash has
+reduced the compressive strength in short term,
+but increased the compressive strength in long-
+term. Adding silica fume raises the strength in
+short term, but decreases the strength in long
+term.
+50
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+===== PAGE 2 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Keywords
+Compressive strength, concrete, replace-
+ment material, extreme learning machine,
+artiﬁcial neural network.
+1.
+Introduction
+There are some demerits of cement produc-
+tion, such as using energy, high raw materi-
+als and heat. The production of cement makes
+air pollution by releasing gaseous emissions and
+huge solid waste materials. Cement manufactur-
+ing is complicated and high cost requiring high
+diﬀerent amount and properties of materials,
+fuel sources such as fuel oil, tiers, natural gas,
+petroleum coke, coal, and pyro-processing tech-
+niques, such as preheating, recirculation and wet
+and dry kiln. Though, the cement production in-
+dustry has made essential advances in decreasing
+CO2 emissions in its procedures, more improve-
+ment is conﬁned, since CO2 production is inher-
+ent to the main processing of calcinating lime-
+stone [1].
+Respectively, using aggregate could
+bring many beneﬁts as low cost, Eco-friendly,
+Versatile and durable.
+Also, aggregate is sig-
+niﬁcant for strength, dimensional stability, ther-
+mal - elastic properties of concrete and volume
+stability. Cement is more likely to be aﬀected
+by shrinkage, however, aggregates could reduce
+the shrinkage level and prevent cracking. The
+compressive aggregate strength is another signif-
+icant parameter in selection of aggregate. Com-
+paring the normal concrete strength with the
+strength of concrete exposed by aggregates, the
+later sounds stronger than the conventional con-
+crete.
+Using aggregates in concrete assist the
+conserving of raw materials, reduction of carbon
+dioxide emissions and ﬁnally lower environmen-
+tal pollution beside bringing more sustainabil-
+ity in construction [2]. Among all, silica fume
+(SF) and ﬂy ash are the two supplementary ce-
+mentitious aggregates with pozzolanic charac-
+teristics (Demirboga et al., 2001; Bilodeau and
+Malhotra, 2000) carrying economical, ecologi-
+cal and technical beneﬁts [3, 4].
+SF is a by-
+product of producing ferrosilicon alloys or sili-
+con metal due to is its physical and chemical
+properties as a very reactive pozzolan (Khedr
+and AbouZaid 1(94)) [5]. By using silica fume
+in concrete in Canada, it was considered as
+a cement replacement in normal strength con-
+crete in order to gain a favorite 28-day CS [2].
+Some studies have researched the improvement
+of CS in hardened concrete through SF (Ira-
+vani, 1996; Khedr and Abou-Zeid, 1994; Atis¸
+et al., 2005; Toutanji and Bayasi, 1999; Khatri
+and Sirivivatnanon, 1995; Sabir, 1995; Detwiler
+and Mehta, 1989; Mazloom et al., 2004; Xie et
+al., 1995; Cetin and Carrasquillo, 1998; Gold-
+man and Bentur, 1993; Hooton, 1993; Zhou et
+al., 1995; Yogendran et al., 1987) [5-19]. On the
+other hands, SF is able to advance the physical
+and chemical properties while transforming the
+microstructure of concrete and mightily increase
+the strength and reduce the permeability (Elahi
+et al., 2010) [20]. SF could improve the abrasion
+resistance and durability of concrete (Malhotra
+and Mehta, 1996; Dotto et al., 2004; Behnood
+and Ziari, 2008; Laplante et al., 1991) [21-23],
+improving the resistance of concrete against sul-
+fate attack and acid (Türker et al., 1997; Aköz et
+al., 1995, 1999) [24-26] and improving the bond
+between the aggregate and the paste (Khatri et
+al., 1997; Al-Khaja, 1994; Alexander and Magee,
+1999) [10, 27, 28]. These all make SF the most
+available mineral mixture for high-strength con-
+crete (Poon et al., 2006) [29].
+Fly ash is also a waste material derived from
+the combustion of pulverized coal in electricity
+generating plants Fly ash particles are gener-
+ally solid glassy spheres, from grey to tan to
+reddish brown and range in size from 2 µm to
+10 µm.
+Fly ash is the unburned residue car-
+ried away from the burning zone in the boiler
+by the ﬂue gases and then gathered by electro-
+static or mechanical separators [31-33]. It com-
+prises mostly aluminum oxide (Al2O3), iron ox-
+ide (Fe2O3) and silicon dioxide (SiO2) [34]. De-
+spite the common use of ﬂy ash over 50 years,
+there are conﬁnements over its usage in concrete
+due to unknown characteristics of ﬂy ash in con-
+crete [35, 36] which is highly based on the type
+of applied coal, temperature of ﬁre, air fuel ra-
+tio, the combustion condition and collector setup
+[37-40]. In this case, some generalized process-
+ing is made in surface area, morphology, den-
+sity, distribution of particle size, hydraulic con-
+ductivity or permeability of ﬂy ash [41]. Gen-
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+51
+
+
+===== PAGE 3 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Tab. 1: The properties of silica fume and cement (Fuat
+Ko¨ksal, Fatih Altun, et al., 2008) [30].
+Composition(%)
+Cement
+Silica
+fume
+Chemical
+composi-
+tion
+SiO2
+19.12
+81.35
+Al2O3
+5.63
+4.48
+Fe2O3
+2.39
+1.42
+CaO
+63.17
+0.80
+MgO
+2.75
+1.47
+SO3
+2.74
+1.34
+Na2O
+K2O
+1.00
+Insoluble material
+0.49
+Loss on ignition
+2.33
+3.4
+Physical properties
+Speciﬁc gravity
+3.09
+2.23
+Speciﬁc
+surface
+(cm2/g)
+3114
+erally, ﬂy ash comprises two classes as ﬂy ash
+Class C and ﬂy ash Class F. Fly ash from class C
+typically is made from the combustion of sub-
+bituminous coal or younger lignite, however, ﬂy
+ash class F is made from the burning of older an-
+thracite and harder bituminous coal. The major
+alteration between the two classes is the amount
+of alumina, silica, iron, and calcium content.
+Class F ﬂy ash consist of less than 10% CaO
+and minimum Al2O3 + Fe2O3 + SiO2 content
+of 70%, whereas Class C ﬂy ash consist of more
+than 20% CaO and minimum Fe2O3 + Al2O3
++ SiO2 content of 50% [32, 42]. Kearsley and
+Wainwright (2001) have investigated the inﬂu-
+ence of ﬂy ash on CS of concrete, ﬁnding that
+CS is highly depending on the ﬂy ash dry density
+[43]. It was also found that the high replacement
+ratio of ﬂy ash instead of cement couldn’t signif-
+icantly impact the concrete’s strength in long
+term (Kearsley and Wainwright, 2001). In an-
+other study by Behnood and Golafshani (2018),
+ANN is used with Multi-Objective Grey Wolves
+(HANNMOGW) method to predict the CS of
+silica fume concrete, resulting a linear increment
+in the CS of silica fume concrete when the silica
+fume to binder ratio is raised from 0 to approx-
+imate 30%. Also, the CS of silica fume concrete
+is signiﬁcantly aﬀected by the maximum aggre-
+gate size [44]. Pala et al. (2007) has tested the
+inﬂuence of silica fume and ﬂy ash replacement
+on the concrete’s strength cured for a long time
+by neural networks (NNs) with various water ce-
+ment ratio, with(out) the extra low SF content
+and low & high FA volume, in which the en-
+hancement impact of low SF content on CS was
+not signiﬁcant. Thus, FA was contributed low at
+early ages, but much at later ages to the strength
+of concrete, also showing NNs as a reliable tool
+to assess the impact of cementitious material on
+the CS of concrete [45].
+Artiﬁcial Intelligence (AI) is commonly ap-
+plied to estimate and predict CS and other me-
+chanical features of concrete mixes (Golafshani
+and Behnood, 2018a, 2018b; Erdal, 2013; Ha et
+al., 2017; Behnood et al., 2017, 2015b, 2015c;
+Cheng et al., 2014; Golafshani and Ashour,
+2016) [51-59]. Table 3 shows some samples of
+the methods that was previously applied to es-
+timate the CS of various concrete types.
+ANN (as an artiﬁcial intelligence) is com-
+monly applied for predicting diﬀerent proper-
+ties of concrete mixtures by solving very rigor-
+ous problems through the interconnected com-
+puting elements.
+ANN process resembles the
+brain network including many simple computa-
+tional parameters arranged in layers.
+A con-
+crete designed by ANN is expected to have op-
+timal water and cement that should bring more
+durability and likely better ecological and eco-
+nomic impacts [63]. Neural networks (NN) could
+“learn” and “correlate” the large datasets gained
+from simulations and tests. A trained NN per-
+forms as an analytical tool for the qualiﬁed prog-
+noses of real outcomes, showing highly accurate
+scores in their predictions. Asteris and Mokos
+(2019) have used ANN to predict the CS of con-
+crete with ultrasonic pulse velocity. Thus, ANN
+showed the capability to approximate the CS
+of concrete [73]. ELM is also a new model to
+train ANN while demonstrating good general-
+ization performance and fast learning speed in
+many regression usages. Al-Shamiri et al (2019)
+has used ELM for predicting the CS of high
+strength concrete (HSC) [74]. The performance
+of developed ELM has been compared to that
+of ANN trained.
+The simulation results have
+shown ELM as a strong potential for the predic-
+52
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+----- TABLE p3#1 -----
+
+Composition(%) | Cement | Silica
+fume
+Chemical composi-
+tion |  | 
+SiO
+2 | 19.12 | 81.35
+Al O
+2 3 | 5.63 | 4.48
+Fe O
+2 3 | 2.39 | 1.42
+CaO | 63.17 | 0.80
+MgO | 2.75 | 1.47
+SO
+3 | 2.74 | 1.34
+Na O
+2 |  | 
+K O
+2 | 1.00 | 
+Insoluble material | 0.49 | 
+Loss on ignition | 2.33 | 3.4
+ |  | 
+Physical properties |  | 
+Specific gravity | 3.09 | 2.23
+Specific surface
+(cm2/g) | 3114 | 
+
+===== PAGE 4 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Tab. 2: Physical properties of Fly Ash [46].
+Property
+Maher
+&
+Bal-
+aguru
+(1993) [47]
+Mitash N
+(2007) [48]
+Huang et al
+(1995) [49]
+Muhardi et al
+(2010) [50]
+Speciﬁc gravity
+2.54
+1.9-2.55
+2.06
+2.3
+Moisture content
+13.60%
+0.53%
+19.75%
+Fineness
+13.80%
+in
+No. 325
+0.6 - 0.001 mm
+LOI
+7.5
+Maximum dry density
+1.65 g/cm3
+0.9-1.6 g/cm3
+1.53 g/cm3cc
+Uniformity coeﬃcient
+2.5
+3.1-10.7
+Liquid limit
+16.8
+Permeability
+0.9x10−5 cm/s
+10−5-10−3 cm/s
+4.87x10−7
+cm/s
+Angle of internal
+friction
+30◦- 40◦
+23◦-41◦
+Cohesion
+Negligible
+3-34 kPa
+Compression index
+0.05-0.4
+0.15
+Coeﬃcient of consoli-
+dation
+0.1-0.5
+m2/year
+Tab. 3: AI methods applied to predict the CS of diﬀerent concrete types [44].
+Concrete type
+AI models
+Normal concrete
+Artiﬁcial Neural Network (ANN) (Uddin et al., 2017), Evolu-
+tionary
+ANN (Nikoo et al., 2015) [60, 61]
+High-performance concrete
+ANN (Atici, 2011; Prasad et al., 2009; Yeh, 1998) [62-64], Mul-
+tiple Additive Regression Tree (MART) (Chou et al., 2011)
+[65], bagging regression trees (Chou et al., 2011) [65], M5P tree
+model (Behnood et al., 2017; Deepa et al., 2010) [55, 66], Multi-
+variate regression analysis (Atici, 2011) [62], Genetic operation
+tree (Yeh and Lien, 2009) [64], Decision tree (Erdal, 2013) [53],
+Evolutionary
+ANN (Bui et al., 2018) [67]
+Fly ash concrete
+ANN (Topçu and Sarıdemir, 2008) [68], Fuzzy logic models
+(Topçu and Sarıdemir, 2008) [68], Fuzzy polynomial neural net-
+works (Fazel Zarandi et al., 2008) [69]
+Ground
+granulated
+blast
+furnace slag concrete
+ANN (Bilim et al., 2009) [70]
+Recycled aggregate concrete
+ANN (Naderpour et al., 2018) [71], Genetic programming
+(Velay-Lizancos et al., 2017) [72], M5P tree model (Behnood
+et al., 2015a) [56]
+Self-compacting concrete
+ANN (Prasad et al., 2009) [63]
+tion of the CS of high strength concrete (HSC).
+In another study, Yaseena et al (2013) has used
+M5 Tree, MARS, ELM, and SVR learning mod-
+els to predict the CS of lightweight foamed con-
+crete that the results showed ELM more accu-
+rate than pother four models [75]. The current
+study, by use of AI models has attempted to pro-
+vide a precise analysis in predicting the compres-
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+53
+
+
+----- TABLE p4#1 -----
+
+Property | Maher & Bal-
+aguru
+(1993) [47] | Mitash N
+(2007) [48] | Huang et al
+(1995) [49] | Muhardi et al
+(2010) [50]
+Specific gravity | 2.54 | 1.9-2.55 | 2.06 | 2.3
+Moisture content | 13.60% |  | 0.53% | 19.75%
+Fineness |  |  | 13.80% in
+No. 325 | 0.6 - 0.001 mm
+LOI |  |  | 7.5 | 
+Maximum dry density | 1.65 g/cm3 | 0.9-1.6 g/cm3 |  | 1.53 g/cm3cc
+Uniformity coefficient | 2.5 | 3.1-10.7 |  | 
+Liquid limit | 16.8 |  |  | 
+Permeability | 0.9x10−5 cm/s | 10−5-10−3 cm/s |  | 4.87x10−7
+cm/s
+Angle of internal
+friction |  | 30◦- 40◦ |  | 23◦-41◦
+Cohesion |  | Negligible |  | 3-34 kPa
+Compression index |  | 0.05-0.4 |  | 0.15
+Coefficient of consoli-
+dation |  |  |  | 0.1-0.5
+m2/year
+
+----- TABLE p4#2 -----
+
+Concrete type | AI models
+Normal concrete | Artificial Neural Network (ANN) (Uddin et al., 2017), Evolu-
+tionary
+ANN (Nikoo et al., 2015) [60, 61]
+High-performance concrete | ANN (Atici, 2011; Prasad et al., 2009; Yeh, 1998) [62-64], Mul-
+tiple Additive Regression Tree (MART) (Chou et al., 2011)
+[65], bagging regression trees (Chou et al., 2011) [65], M5P tree
+model (Behnood et al., 2017; Deepa et al., 2010) [55, 66], Multi-
+variate regression analysis (Atici, 2011) [62], Genetic operation
+tree (Yeh and Lien, 2009) [64], Decision tree (Erdal, 2013) [53],
+Evolutionary
+ANN (Bui et al., 2018) [67]
+Fly ash concrete | ANN (Topçu and Sarıdemir, 2008) [68], Fuzzy logic models
+(Topçu and Sarıdemir, 2008) [68], Fuzzy polynomial neural net-
+works (Fazel Zarandi et al., 2008) [69]
+Ground granulated blast
+furnace slag concrete | ANN (Bilim et al., 2009) [70]
+Recycled aggregate concrete | ANN (Naderpour et al., 2018) [71], Genetic programming
+(Velay-Lizancos et al., 2017) [72], M5P tree model (Behnood
+et al., 2015a) [56]
+Self-compacting concrete | ANN (Prasad et al., 2009) [63]
+
+===== PAGE 5 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+sive strength of concrete while exposed by ﬂy ash
+and silica fume. Many studies have analyzed the
+addition of aggregates to concrete, however, us-
+ing AI models is rarely seen. Accordingly, this
+research has attempted to provide a precise and
+accurate analysis to the case.
+This study has
+used ANN and ELM align with the objective of
+this study in terms of using AI models to pre-
+dict the compressive behavior of concrete while
+adding aggregates. In the following, the models
+have been developed and their results were illus-
+trated in diagrams. Comparing this study with
+the original one that data was derived from is
+in methodology. While the original paper only
+used one AI model (neural network), the current
+study has used two AI models for the same anal-
+ysis of adding ﬂy ash and silica fume to concrete.
+Problem Statement and Objective
+Regarding the concrete content (chemical ad-
+mixtures, water, supplementary cementitious
+materials, ﬁne and coarse aggregates, cement
+and ﬁbers), one big problem is to achieve and
+maintain the speciﬁed CS in concrete design.
+Due to the low knowledge in terms of the tests
+between concrete strength and its constituents,
+ﬁnding the reliable and novel machine learning
+methods and soft computing to gain those re-
+lationships has been provoked [75]. Having to
+try all the diﬀerent quantities and testing each
+one’s performance takes enormous time, eﬀort,
+cost and might with less accuracy (experimen-
+tal error). To capture a 28-day design CS with
+proper workability, the technical personnel have
+to highly attempt for several mix percentages
+that takes long time, raising the wastage of ma-
+terial and cost of concrete production. Signiﬁ-
+cantly, in case of concrete test failures after so
+long waiting, there might be highly diﬃcult to
+adjust another test as before.
+On the other
+hand, for improving the strength and sustain-
+ability of concrete, using aggregates, such as sil-
+ica fume, ﬂy ash and slag are highly applied
+from the last few decades. In this case, there
+are many models for prediction and estimating
+the strength of concrete well before 28 days as
+Abrahams Law [76].
+However, in reality, the
+relationship between the strength of concrete
+and its constituent’s material is highly nonlin-
+ear and Abrahams Law model is failed satisfac-
+torily to compute this complicated relationship
+and falling short to generalize the unseen data.
+Unlike Abrahams Law, AI was proved as reliable
+and accurate tool in learning rigorous patterns,
+besides saving time and money. Among AI al-
+gorithms, ANN is broadly suggested to predict
+the strength of concrete through the use of back
+propagation (BP) network. Adding that BP fails
+from the local minima that is led to the insta-
+bility in the developed model. The convergence
+to local minima is due to the optimization ob-
+jective of ANN that is naturally multimodal. It
+is due to the fact that various training data sets
+generate various models aﬀecting the capability
+of that model in generalizing to previously un-
+seen data. It could be a conﬁnement to ANN
+reported in the related studies particularly in
+medical estimation and predictions [77]. Though
+there might be a solution to this by aggregating
+the outputs of few models developed from the
+training data as “boosting”, “bagging” or stack-
+ing predictors, this brings more computations
+and some uncertainty [78, 79]. The use of non-
+tuned machine learning model e.g. ELM could
+bring high progress in multidisciplinary of en-
+gineering and science ﬁelds in past few years.
+This is due to its superiority on standard ANN
+algorithms, such as the randomly initiated hid-
+den neurons without the need for iterative tun-
+ing process for free parameters or connections
+between hidden and output layers. ELM as a
+relatively new learning method for feedforward
+NNs, unlike conventional NNs, the hidden biases
+and input weights are randomly initialized and
+remain ﬁxed across the learning process plus the
+analytically determination of output weights, all
+bring to ELM a good generalized performance
+and fast learning speed [74]. Ultimately, ELM
+is highly proﬁcient in gaining a global optimum
+while following global approximating capabil-
+ity of single layer feed-forward network. Also,
+ELM is superior because of its generalized per-
+formance in estimating problems in various ﬁelds
+than the conventional models as ANNs or SVMs.
+On the other hand, ANN is better than the mul-
+tiple regression ones, particularly in decreasing
+the scatter of predictions in concrete mixture.
+ANN has been widely used in predicting the
+self-compacting concrete (SCC), CS of conven-
+tional concrete and high performance concrete
+(HPC). Then, ANN is able to predict the CS of
+54
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+===== PAGE 6 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+ﬂowable concrete in an appropriate admixture of
+concrete.
+2.
+Methodology
+The data of this research was originally obtained
+from the study of “Appraisal of long-term eﬀects
+of ﬂy ash and silica fume on CS of concrete by
+neural networks” including 144 various concrete
+mixtures. Water cement (w/c) ratio was diﬀered
+during the test comprising the high and low FA
+content and with(out) extra small SF content.
+Accordingly, 24 various mixtures with 144 vari-
+ous samples have been collected from a previous
+study. The concrete of samples was cured for 3,
+7, 28, 56 and 180 days (Appendix 1) (Tab. 4)
+[45].
+2.1.
+Statistical data
+Table 4 shows the input and output parameters
+used in this investigation. including silica fume
+replacement ratio (SF), total cementitious mate-
+rial (TCM), coarse aggregate (ca), water content
+(W), ﬂy ash replacement ratio (FA), ﬁne aggre-
+gate (ssa), age of samples (AS), high rate wa-
+ter reducing agent (HRWRA) and one output
+parameter as compressive strength of concrete
+(fc).
+Tab. 4: Input - output parameters in database.
+Inputs
+Parameters description
+input 1
+FA (%)
+input 2
+SF (%)
+input 3
+TCM (kg/m3)
+input 4
+ssa (kg/m3)
+input 5
+ca (kg/m3)
+input 6
+W (lt/m3)
+input 7
+HRWRA (lt/m3)
+input 8
+Age (days)
+output
+fc (MPa)
+2.2.
+Artiﬁcial Neural Network
+(ANN)
+ANN, a common multilayer algorithm, is derived
+by the biological NN of humans/animals [80, 81].
+Through the mechanism of layers, ANN could
+solve adequate complications for estimating tar-
+gets in multi-dimensional space of problems [79,
+82]. Multilayer perceptron (MLP) is a practi-
+cal and simple class of feed forward ANN [83,
+84]. one MLP includes one input layer, one hid-
+den layer and one output layer [85]. Input layer
+takes the predictive data and transfers them to
+the available neurons in the next (hidden) layer.
+In the Input layer, biases are added, weights are
+multiplied and a net value is calculated [86], [87]
+as Eq. (1):
+Net =
+n
+X
+i=1
+wijxi + bj
+(1)
+xi = nodal variables in previous layer
+n = all nodal variable’ numbers received from
+the previous layer
+wij & bj = the weights and biases of network in
+the current layer
+In order to decrease the net values’ diversity,
+an activation function is used to the net, then y
+as output signal was reported [88]. The tangent
+hyperbolic function is regarded as the highest
+reliable activation performances as Eq. (2):
+y = f (Net) =
+2
+1 + e−2.Net −1
+(2)
+This process is performed on each layer of MLP
+until the output signals of the last layer (pre-
+dicted values) are reported.
+Later, the diﬀer-
+ential of the observed variables (error) and pre-
+dicted ones have been computed.
+Ultimately,
+one optimized algorithm is used to decline the
+error variable by modifying the assigned biases
+and weights through MLP. This training pro-
+cedure can be performed through diverse algo-
+rithms, however, due to the high speed of con-
+vergence and high accuracy of backpropagation
+algorithms, ANN is more preferable in this study
+[89]. Fig. 1 indicates the scheme of an ANN.
+2.3.
+Extreme Learning Machine
+(ELM)
+Huang et al. proposed ELM to tune the single
+layer feed forward NN (SLFNN) architectures
+[90]. ELM is derived from the notion that an
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+55
+
+
+----- TABLE p6#1 -----
+
+Inputs | Parameters description
+input 1
+input 2
+input 3
+input 4
+input 5
+input 6
+input 7
+input 8
+output | FA (%)
+SF (%)
+TCM (kg/m3)
+ssa (kg/m3)
+ca (kg/m3)
+W (lt/m3)
+HRWRA (lt/m3)
+Age (days)
+fc (MPa)
+
+===== PAGE 7 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Fig. 1: ANN structure.
+SLFNN with random biases and weights is able
+to predict any continuous function at any com-
+pact input set [91, 92]. Three phases are worked
+in ELM development as: 1) generation of one
+SLFNN, 2) randomly selection of weights and
+biases of network and 3) estimation of output
+weights by inverting the hidden layer output ma-
+trix [74, 93]. For a dataset including m dimen-
+sional target vectors, n dimensional input vec-
+tors and N training samples, one SLFNN with
+L hidden nodes could be computed as Eq. (3)
+[94, 95]:
+L
+X
+i=1
+βiG (wi.xj + bi) = oj
+j = 1, 2, 3, . . . , N
+(3)
+G = the activation performance (all the NN
+based activation functions could be applied here
+as well)
+wi = [wi1, wi2, . . . , win]T = weight vector con-
+necting ith input neurons to hidden neuron
+xj = [xj1, xj1, . . . , xjm]T = input vector
+βi = [βi1, βi2, . . . , βim]T = weight vector con-
+necting output neurons to hidden neurons
+bi = [bi1, bi2, . . . , bim]T = bias vector
+oj = [oj1, oj1, . . . , ojm]T = output vector
+Supposing that an SLFNN with
+L hid-
+den neurons and activation function G could
+compute the targets (tj) with 0 error,
+i.e.
+PL
+j=1 ∥oj −tj∥= 0, Eq. (3) can be modiﬁed to
+Eq. (4):
+L
+X
+i=1
+βiG (wi.xj + bi) = tj
+j = 1, 2, 3, . . . , N
+(4)
+tj = [tj1, tj2, . . . , tjm]T = target vector
+Also, this N equations could be compactly
+written as:
+Hβ = T
+(5)
+in which:
+H =
+
+
+G (w1 + x1 + b1)
+. . .
+G (wL.x1 + bL)
+...
+. . .
+...
+G (w1 + xN + b1)
+. . .
+G (wL.xN + bL)
+
+
+N×L
+(6)
+and,
+β =
+
+
+βT
+1
+...
+βT
+L
+
+
+L×m
+and T =
+
+
+tT
+1
+...
+tT
+N
+
+
+N×m
+(7)
+The output weights are gained if the minimal
+diﬀerential between the right side (target vari-
+ables) and the left side (predicted variables) of
+Eq. (5) is occurred e.g. min ∥Hβ-T∥. Based on
+the mathematical theories, it was proved that
+when the output weight is as follows, the mini-
+mal error between the target variables and pre-
+dicted variables occurs:
+bβ = H†T
+(8)
+bβ = output weight vector
+H† = Moor-Penrose generalized inverse matrix
+T = target vector
+As noted, no optimization process is involved
+in ELM, then the human inferences and the
+training time are reduced eﬃciently. The com-
+ponents of ELM are shown in Fig. 2.
+3.
+Results and Discussions
+For evaluating and testing the models’ perfor-
+mance used in this research, 70% of the data is
+randomly separated and assigned to training sec-
+tion, and 30% data is used to testing phase. As
+56
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+===== PAGE 8 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Fig. 2: ELM structure.
+a measurement parameter, statistical model per-
+formance indicators comprising mean absolute
+error (MAE), root mean square (RMSE), rela-
+tive root mean squared error (RRMSE), Will-
+mott’s index (WI), relative mean absolute er-
+ror (RMAE) and determination coeﬃcient (R2)
+were applied.
+R2 =
+hPN
+i=1
+ Oi −O
+
+.
+ Pi −P
+i2
+PN
+i=1 (Oi −O). PN
+i=1 (Pi −P)
+(9)
+RMSE =
+v
+u
+u
+t
+N
+X
+i=1
+1
+N (Oi −Pi)2
+(10)
+MAE = 1
+N
+N
+X
+i=1
+|Oi −Pi|
+(11)
+RRMSE = RMSE
+O
+.100
+(12)
+RMAE = MAE
+O
+.100
+(13)
+WI = 1 −
+"
+PN
+i=1 (Oi −Pi)2
+PN
+i=1
+ Pi −O
+ +
+Oi −O
+2
+#
+(14)
+N = the number of testing r training samples
+Oi = observed values in sample i
+Pi = predicted values in sample i
+O = the mean observed variables
+P = the predicted values
+For comparing the models, all codes are writ-
+ten in MATLAB without using external toolbox
+or compiler. Afterwards, codes were computed
+a processor (Intel(R) Core (TM) i5-8250U CPU
+1.60 GHz 1.80 GHz and 8.0 GB RAM).
+Developing of Models
+1)
+ANN Development
+The performance of ANN obviously is based on
+the layout and model’s architecture, say the neu-
+rons’ number and the hidden layers’ number
+used in each layer. An error and trail processing
+was performed to gain the desired performance
+in order to ﬁnd the appropriate ANN architec-
+ture. Altered architectures with diﬀerent neu-
+rons and hidden layers have been made while
+each model was run 3 times with 800 epochs.
+This is because in AI models generally and ANN
+particularly, data are selected randomly in test
+and train phases (70% train, 30% test), so prob-
+ably the neurons that are going to predict the
+output could provide a good prediction (or not).
+For reducing the probability of randomness and
+avoiding the adverse eﬀect on our output, data is
+run three times, then the average of three times
+is selected as the output.
+In Tabs.
+5 and 6,
+the RMSE values show the average of the data
+after three runs.
+In this research, Levenberg-
+Marquardt (LMA) was applied to deﬁne the
+bias and weight of ANN neurons due to its fast
+performance in achieving optimal performance
+among BP algorithms. Finally, the mean value
+of RMSE was achieved to indicate the perfor-
+mance of models and their comparison. Table 5
+shows the RMSE variables (single-layer) of ANN
+in trial and error processing that was modiﬁed
+for each layer and neurons number.
+Figure 3
+shows the RMSE output of ANN with the neu-
+rons 1, 2, 3, . . . 10 as single-layer in testing and
+training phases. According to Tab. 6 and Fig. 4,
+there are 6 neurons in the ﬁrst layer and 4 neu-
+rons in the second layer with the RMES values
+of 1.534524 and 2.208552 in training and test-
+ing phase, respectively. Since there weren’t good
+results in the RMSE values of the single-layer,
+then the second layer was used and provided
+good results. Though few models with altered
+combinations of layers and neurons gain lower
+RMSE variable in training phase, they are not
+able to gain this performance in testing phase.
+Figure 4 shows the both layers (single and two-
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+57
+
+
+===== PAGE 9 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+layer) in ANN model while the ﬁrst layer has 6
+neurons and the second layer has 4 neurons. It
+is noted that when the RMSE of test was in-
+creasing, it is not good for accurate prediction,
+so adding neuron was stopped in testing phase
+and the least amount was taken as the best re-
+sult. Thereafter, adding neuron in the second
+layer was stopped and point x (Fig. 4) with 6
+neurons in the ﬁrst layer and 4 neurons in the
+second layer is accepted as the best RMSE point
+and the best ANN performance in the second
+layer. As a result, ANN couldn’t represent good
+performance in the ﬁrst layer (single-layer), how-
+ever, it showed its best performance in the sec-
+ond layer (two-layer). Considering the innova-
+tion of using ANN, data was initially analyzed in
+the ﬁrst layer and the output was obtained (Fig.
+3). Later, the same process was performed in
+the second layer (Fig. 4), showing the best per-
+formance of ANN in the second layer (point x).
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+RMSE 
+Neurons 
+train
+test
+Fig. 3: The graphical picture of single-layer of ANN in
+training and testing phase.
+ANN Results:
+Following Tab. 5, the monolayer arrangement
+of neurons is tested and the results is depicted
+in Fig. 3 in training and testing phases.
+Table 6 shows the two-layer arrangement
+along the training and testing results.
+Figure
+4 shows the best (lowest) RMSE in testing and
+training phases.
+Fig. 4: Two-layer ANN and the best RMSE point in
+testing phase.
+Tab. 5: RMSE variables of ANN in trial and error pro-
+cessing (Single-layer).
+First layer
+train
+test
+1
+9.707343
+10.32235
+2
+3.604467
+4.535212
+3
+3.14094
+4.549322
+4
+2.254623
+4.288685
+5
+2.702086
+3.828284
+6
+1.725994
+5.894069
+7
+1.328079
+5.666384
+8
+1.008558
+10.68123
+9
+0.866963
+7.406495
+10
+0.613574
+15.97062
+Tab. 6: The RMSE values of ANN in two layers in
+training and testing phases (Full date is in ap-
+pendix 2).
+First
+layer
+neuron
+Second
+layer
+neuron
+Train
+Test
+2
+4
+1.389969
+6.713467
+3
+4
+0.644357
+6.445502
+4
+4
+0.563873
+10.68091
+5
+4
+0.95852
+10.96912
+6
+4
+1.534524
+2.208552
+7
+4
+0.914569
+7.634039
+8
+4
+1.287565
+4.734597
+9
+4
+1.163599
+9.779257
+10
+4
+0.38738
+19.30937
+1
+5
+1.148456
+293.8489
+58
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+----- TABLE p9#1 -----
+
+First layer | train | test
+1 | 9.707343 | 10.32235
+2 | 3.604467 | 4.535212
+3 | 3.14094 | 4.549322
+4 | 2.254623 | 4.288685
+5 | 2.702086 | 3.828284
+6 | 1.725994 | 5.894069
+7 | 1.328079 | 5.666384
+8 | 1.008558 | 10.68123
+9 | 0.866963 | 7.406495
+10 | 0.613574 | 15.97062
+
+----- TABLE p9#2 -----
+
+First
+layer
+neuron | Second
+layer
+neuron | Train | Test
+2 | 4 | 1.389969 | 6.713467
+3 | 4 | 0.644357 | 6.445502
+4 | 4 | 0.563873 | 10.68091
+5 | 4 | 0.95852 | 10.96912
+6 | 4 | 1.534524 | 2.208552
+7 | 4 | 0.914569 | 7.634039
+8 | 4 | 1.287565 | 4.734597
+9 | 4 | 1.163599 | 9.779257
+10 | 4 | 0.38738 | 19.30937
+1 | 5 | 1.148456 | 293.8489
+
+===== PAGE 10 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+ 
+ 
+ 
+Results of the AI models for 
+concrete data set in training 
+phase 
+Error Distribution 
+Observed Error Values 
+ 
+Comparison of observed and predicted compressive strength for ANN 
+Fig. 5: ANN model training outputs.
+ 
+ 
+ 
+Results of the AI models for 
+concrete data set in testing phase 
+Error Distribution 
+Observed Error Values 
+ 
+Comparison of observed and predicted compressive strength for ANN 
+Fig. 6: ANN model testing outputs.
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+59
+
+
+----- TABLE p10#1 -----
+
+ |  |  |  |  |  | 
+ | Results of the AI models for
+concrete data set in training
+phase | Error Distribution |  | Observed Error Values | Observed Error Values | 
+ |  |  |  |  |  | 
+ | Comparison of observed and predicted compressive strength for ANN |  |  |  |  | 
+
+----- TABLE p10#2 -----
+
+ |  |  |  |  | 
+ | Results of the AI models for | Error Distribution |  | Observed Error Values | 
+ | concrete data set in testing phase |  |  |  | 
+ |  |  |  |  | 
+ | Comparison of observed and predicted compressive strength for ANN |  |  |  | 
+
+===== PAGE 11 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+2)
+ELM Development
+Unlike ANN, ELM deals with single layer feed
+forward neural network (SLFNN) architectures.
+There is no need to deﬁne the hidden layers’
+number, then SLFNN was determined and leads
+to the network architecture parameter specify-
+ing. A trial and error process (such as ANN)
+has been carried out to specify the number of
+ELM neurons. Subsequently, ELM performance
+is tested by the RMSE index during the train-
+ing and testing steps in this trial and error pro-
+cess. Table 7 shows the RMSE of ELM model in
+trial and error process with their corresponding
+variables as one layer. By adding the neurons’
+amount, it is not good for accurate prediction, so
+67 neurons were stabled. Since ELM is involved
+with only one layer, considering all the RMSE
+values in this layer, the architecture with 67
+neurons and the RMSE value of 4.6025 in test-
+ing phase is accepted as the best performance of
+ELM. Figure 7 shows the RMSE output of ELM
+with the neurons of 50, 52, 54,. . . 80 as one hid-
+den layer in testing and training phases. Consid-
+ering the innovation of ELM, based on diﬀerent
+neurons, output was obtained (Fig. 7), show-
+ing that the architecture of 67 was the best per-
+formance of single layer ELM. In terms of cost
+for both models, ANN designing takes more cost
+and accuracy due to its layers than ELM with
+one layer.
+0
+2
+4
+6
+8
+10
+12
+50 52 54 56 58 60 62 64 66 68 70 72 74 76 78 80
+RMSE 
+Neurons 
+train
+test
+Fig. 7: The graphical picture of ELM in testing and
+training phase.
+Table 7 shows the RMSE values in training
+and testing results for the number of neurons in
+ELM model.
+After analyzing the involved parameters in
+ANN and ELM, both were run and their func-
+tion in term of previously performance metrics
+Tab. 7: RMSE values in trial and error process.
+Nu.
+Train
+Test
+50
+3.190231
+5.891087
+51
+2.862159
+7.968922
+52
+3.059752
+6.831718
+53
+3.156456
+6.729685
+54
+3.079353
+6.174658
+55
+2.683887
+7.74737
+56
+3.263969
+7.945308
+57
+3.342795
+10.44598
+58
+2.957656
+7.148689
+59
+3.287528
+6.978607
+60
+3.346792
+9.39127
+61
+3.311584
+9.591771
+62
+2.893009
+5.514078
+63
+2.898763
+6.528791
+64
+3.255487
+10.79586
+65
+3.245989
+9.12994
+66
+3.39783
+8.878136
+67
+3.0196
+4.6025
+68
+3.134022
+8.09941
+69
+3.030526
+6.468871
+70
+3.435698
+8.604487
+71
+3.295331
+10.10774
+72
+2.822732
+9.719424
+73
+3.11962
+5.681063
+74
+2.899568
+4.8361
+75
+2.629813
+6.058653
+76
+2.933741
+6.851958
+77
+3.281796
+6.47999
+78
+3.145036
+9.556516
+79
+3.043555
+7.876588
+80
+2.740894
+8.654041
+have been assessed in training and testing phases
+of the two models (Table 8, 9).
+Comparing
+the ANN and ELM performance, the values of
+RMSE and R2 (RSQR) is compared in testing
+phase. Obviously, the best RMSE value is the
+one that is near to 0. Accordingly, by comparing
+the RMSE of ANN (2.2086) and ELM (4.6025),
+it is proved that the RMSE of ANN is near to
+0, then the best performance metrics belong to
+ANN than ELM in predicting the CS of concrete
+in adding silica fume and ﬂy ash. On the other
+hand, the more R2 (RSQR) value is near to 1,
+the more it is acceptable. In this case, the R2
+values of both ANN (0.9905) and ELM (0.9616)
+60
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+----- TABLE p11#1 -----
+
+Nu. | Train | Test
+50 | 3.190231 | 5.891087
+51 | 2.862159 | 7.968922
+52 | 3.059752 | 6.831718
+53 | 3.156456 | 6.729685
+54 | 3.079353 | 6.174658
+55 | 2.683887 | 7.74737
+56 | 3.263969 | 7.945308
+57 | 3.342795 | 10.44598
+58 | 2.957656 | 7.148689
+59 | 3.287528 | 6.978607
+60 | 3.346792 | 9.39127
+61 | 3.311584 | 9.591771
+62 | 2.893009 | 5.514078
+63 | 2.898763 | 6.528791
+64 | 3.255487 | 10.79586
+65 | 3.245989 | 9.12994
+66 | 3.39783 | 8.878136
+67 | 3.0196 | 4.6025
+68 | 3.134022 | 8.09941
+69 | 3.030526 | 6.468871
+70 | 3.435698 | 8.604487
+71 | 3.295331 | 10.10774
+72 | 2.822732 | 9.719424
+73 | 3.11962 | 5.681063
+74 | 2.899568 | 4.8361
+75 | 2.629813 | 6.058653
+76 | 2.933741 | 6.851958
+77 | 3.281796 | 6.47999
+78 | 3.145036 | 9.556516
+79 | 3.043555 | 7.876588
+80 | 2.740894 | 8.654041
+
+===== PAGE 12 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+ 
+ 
+Results of the AI models for concrete 
+data set in training phase 
+Error Distribution 
+Observed Error Values 
+Comparison of observed and predicted compressive strength for ELM Train Data 
+Fig. 8: ELM model training outputs.
+ 
+ 
+Results of the AI models for 
+concrete data set in testing phase 
+Error Distribution 
+Observed Error Values 
+ 
+Comparison of observed and predicted compressive strength for ELM Test Data 
+Fig. 9: ELM model testing outputs.
+are compared and since the value of ANN is near
+to 1, then the best performance metrics belong
+to ANN in approximating the CS of concrete in
+adding silica fume and ﬂy ash. As a result, ANN
+represented superior performance in this study.
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+61
+
+
+----- TABLE p12#1 -----
+
+ |  | 
+ |  | 
+ |  | 
+Results of the AI models for concrete | Error Distribution | Observed Error Values
+data set in training phase |  | 
+ |  | 
+ |  | 
+ |  | 
+Comparison of observed and predicted compressive strength for ELM Train Data |  | 
+
+----- TABLE p12#2 -----
+
+ |  | 
+ |  | 
+Results of the AI models for |  | 
+concrete data set in testing phase | Error Distribution | Observed Error Values
+ |  | 
+ |  | 
+Comparison of observed and predicted compressive strength for ELM Test Data |  | 
+ |  | 
+ |  | 
+
+===== PAGE 13 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Tab. 8: Comparing the training phase results between ANN model and ELM model.
+Training phase
+AI Models
+R2
+RMSE
+MAE
+RRMSE
+RMA
+WI
+ANN
+0.9959
+1.5345
+1.1377
+2.6523
+1.9663
+0.9990
+ELM
+0.9842
+3.0196
+2.3337
+5.2191
+4.0335
+0.9960
+Tab. 9: Comparing the testing phase results between ANN model and ELM model.
+Testing phase
+AI Models
+R2
+RMSE
+MAE
+RRMSE
+RMA
+WI
+ANN
+0.9905
+2.2086
+1.7252
+4.1092
+3.2098
+0.9976
+ELM
+0.9616
+4.6025
+3.5945
+8.3895
+6.5521
+0.9896
+4.
+Conclusion
+Predicting the CS of concrete is an important
+challenge in construction industry.
+In reality,
+calculating the concrete strength in traditional
+testing method takes time, cost, error in per-
+centages and lack of accuracy. Accordingly, the
+CS of concrete has been analyzed while adding
+silica fume and ﬂy ash through AI algorithms
+as ANN and ELM [13]. Collecting data set was
+from the appraisal of long-term inﬂuences of sil-
+ica fume and ﬂy ash on the CS of concrete by
+NNs including 144 various concrete mixtures.
+Water cement (w/c) ratio was diﬀered during
+the test comprising the high and low FA content
+and with(out) extra small SF content. The con-
+crete of samples was cured for 3, 7, 28, 56 and
+180 days. To achieve the best performance of
+the models, a trial and error method has been
+performed to gain the optimum values of free
+parameters. Due to inadequate outcome in the
+1th layer with 6 neurons in ANN, the 2nd layer
+was used comprising 4 neurons (second layer),
+then the best performance of ANN is observed in
+the second layer with 4 neurons. Alternatively,
+due to SLFNN architecture of ELM, there was
+only one hidden layer in ELM and the best ar-
+chitecture was seen with 67 neurons as the best
+ELM performance. After analyzing the RMSE
+and R2 (RSQR) values of both models derived
+from the training and testing phases of the two
+models, it resulted that ANN could remarkably
+show better performance than ELM. Since the
+best RMSE should be equal or near to 0, then
+the RMSE of ANN (2.2086) is close to 0, how-
+ever, the RMSE of ELM (4.6025) is far from
+0. As a result, ANN could perform better than
+ELM in estimating and predicting the CS of con-
+crete while adding silica fume and ﬂy ash. On
+the other hands, by comparing the two values
+of R2 (RSQR) in ANN and ELM, the R2 value
+of ANN (0.9905) and ELM (0.9616) should be
+equal or close to 1 (as the best R2 value) in order
+to be nominated as an accurate model for pre-
+dicting the CS of concrete in this study. There-
+fore, while the R2 value of ELM is far from 1,
+the R2 value of ANN is close to 1, then ANN is
+accounted as the best model in predicting and
+estimating the CS of concrete while adding silica
+fume and ﬂy ash. Consequently, ANN was supe-
+rior to ELM in accurately approximating the CS
+of concrete. Also, it was found that ﬂy ash had
+less contribution to the compressive strength of
+concrete at early ages, however, had great con-
+tribution at later ages. It can also be concluded
+that the enhancement eﬀect of low content of
+SF on compressive strength was not signiﬁcant.
+On the other hand, adding ﬂy ash has decreased
+the early compressive strength, but raised the
+compressive strength in the long-term. Adding
+silica fume raises the strength in short term, but
+decreases the strength in long term. Comparing
+the results of this study with the original one,
+going through the R2 value of the original one
+(0.9990) in testing phase and the R2 value of
+this study is 0.9905 in testing in ANN model.
+Therefore, both studies could represent the same
+accuracy with the least diﬀerential percentages.
+62
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+----- TABLE p13#1 -----
+
+Training phase |  |  |  |  |  | 
+AI Models | R2 | RMSE | MAE | RRMSE | RMA | WI
+ANN | 0.9959 | 1.5345 | 1.1377 | 2.6523 | 1.9663 | 0.9990
+ELM | 0.9842 | 3.0196 | 2.3337 | 5.2191 | 4.0335 | 0.9960
+
+----- TABLE p13#2 -----
+
+Testing phase |  |  |  |  |  | 
+AI Models | R2 | RMSE | MAE | RRMSE | RMA | WI
+ANN | 0.9905 | 2.2086 | 1.7252 | 4.1092 | 3.2098 | 0.9976
+ELM | 0.9616 | 4.6025 | 3.5945 | 8.3895 | 6.5521 | 0.9896
+
+===== PAGE 14 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+References
+[1] Yazdani, N., Filsaime, M., & Islam, S.
+(2008). Accelerated curing of silica-fume
+concrete. Journal of materials in civil en-
+gineering, 20(8), 521-529.
+[2] Jain, A., & Pawade, P. (2015). Charac-
+teristics of silica fume concrete. Interna-
+tional Journal of Computer Applications,
+975, 8887.
+[3] Demirboğa,
+R.,
+Örüng,
+İ.,
+& Gül,
+R.
+(2001). Eﬀects of expanded perlite aggre-
+gate and mineral admixtures on the com-
+pressive strength of low-density concretes.
+Cement and Concrete Research, 31(11),
+1627-1632.
+[4] Bilodeau, A., & Malhotra, V.M. (2000).
+High-volume ﬂy ash system: concrete solu-
+tion for sustainable development. Materials
+Journal, 97(1), 41-48.
+[5] Khedr, S.A., & Abou-Zeid, M.N. (1994).
+Characteristics
+of
+silica-fume
+concrete.
+Journal of Materials in Civil Engineering,
+6(3), 357-375.
+[6] Atiş, C., et al. (2005). Inﬂuence of dry
+and wet curing conditions on compressive
+strength of silica fume concrete. Building
+and environment, 40(12), 1678-1683.
+[7] Toutanji, H.A., & Bayasi, Z. (1999). Ef-
+fect of curing procedures on properties of
+silica fume concrete. Cement and Concrete
+research, 29(4), 497-501.
+[8] Khatri, R., Sirivivatnanon, V., & Gross, W.
+(1995). Eﬀect of diﬀerent supplementary ce-
+mentitious materials on mechanical proper-
+ties of high performance concrete. Cement
+and Concrete Research, 25(1), 209-220.
+[9] Sabir, B. (1995). High-strength condensed
+silica fume concrete. Magazine of Concrete
+Research, 47(172), 219-226.
+[10] Khatri, R., Sirivivatnanon, V., & Kin yu,
+L. (1997). Eﬀect of curing on water per-
+meability of concretes prepared with nor-
+mal Portland cement and with slag and
+silica fume. Magazine of concrete research,
+49(180), 167-172.
+[11] Iravani, S. (1996). Mechanical properties of
+high-performance concrete. Materials Jour-
+nal, 93(5), 416-426.
+[12] Detwiler,
+R.J.,
+& Mehta,
+P.K. (1989).
+Chemical and physical eﬀects of silica fume
+on the mechanical behavior of concrete.
+Materials Journal, 86(6), 609-614.
+[13] Mazloom,
+M.,
+Ramezanianpour,
+A.,
+&
+Brooks, J. (2004). Eﬀect of silica fume on
+mechanical properties of high-strength con-
+crete. Cement and Concrete Composites,
+26(4), 347-357.
+[14] Xie,
+J.,
+Elwi,
+A.,
+&
+MacGregor,
+J.
+(1995). Mechanical properties of three high-
+strength concretes containing silica fume.
+Materials Journal, 92(2), 135-145.
+[15] Cetin, A., & Carrasquillo, R.L. (1998).
+High-performance concrete:
+inﬂuence of
+coarse aggregates on mechanical properties.
+Materials Journal, 95(3), 252-261.
+[16] Goldman, A., & Bentur, A. (1993). The
+inﬂuence of microﬁllers on enhancement of
+concrete strength. Cement and concrete re-
+search, 23(4), 962-972.
+[17] Hooton, R. (1993). Inﬂuence of silica fume
+replacement of cement on physical proper-
+ties and resistance to sulfate attack, freez-
+ing and thawing, and alkali-silica reactivity.
+Materials Journal, 90(2), 143-151.
+[18] Zhou, F., Barr, B., & Lydon, F. (1995).
+Fracture properties of high strength con-
+crete with varying silica fume content and
+aggregates. Cement and concrete research,
+25(3), 543-552.
+[19] Yogendran, V., et al. (1987). Silica fume in
+high-strength concrete. Materials Journal,
+84(2), 124-129.
+[20] Elahi, A., et al. (2010). Mechanical and
+durability properties of high performance
+concretes containing supplementary cemen-
+titious materials. Construction and Build-
+ing Materials, 24(3), 292-299.
+[21] Malhotra, V., & Mehta, P. (1996). Puz-
+zolanic and cementitious materials, Ad-
+vances in Concrete Technology, Edit. Gor-
+don and Brach Publishers.
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+63
+
+
+===== PAGE 15 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+[22] Dotto, J., et al. (2004). Inﬂuence of silica
+fume addition on concretes physical proper-
+ties and on corrosion behaviour of reinforce-
+ment bars. cement and concrete composites,
+26(1), 31-39.
+[23] Behnood, A., & Ziari, H. (2008). Eﬀects of
+silica fume addition and water to cement ra-
+tio on the properties of high-strength con-
+crete after exposure to high temperatures.
+Cement and Concrete Composites, 30(2),
+106-112.
+[24] Türker, F., et al. (1997). Eﬀects of magne-
+sium sulfate concentration on the sulfate re-
+sistance of mortars with and without silica
+fume. Cement and concrete research, 27(2),
+205-214.
+[25] Aköz, F., et al. (1995). Eﬀects of sodium
+sulfate concentration on the sulfate resis-
+tance of mortars with and without silica
+fume. Cement and concrete research, 25(6),
+1360-1368.
+[26] Aköz, F., et al. (1999). Eﬀects of raised tem-
+perature of sulfate solutions on the sulfate
+resistance of mortars with and without sil-
+ica fume. Cement and Concrete Research,
+29(4), 537-544.
+[27] Al-Khaja,
+W.A.,
+(1994). Strength and
+time-dependent deformations of silica fume
+concrete for use in Bahrain. Construction
+and Building Materials, 8(3), 169-172.
+[28] Alexander, M., & Magee, B. (1999). Dura-
+bility performance of concrete containing
+condensed silica fume. Cement and concrete
+research, 29(6), 917-922.
+[29] Poon, C.-S., Kou, S., & Lam, L. (2006).
+Compressive strength, chloride diﬀusivity
+and pore structure of high performance
+metakaolin and silica fume concrete. Con-
+struction and building materials, 20(10),
+858-865.
+[30] Köksal, F., et al. (2008). Combined eﬀect of
+silica fume and steel ﬁber on the mechan-
+ical properties of high strength concretes.
+Construction and building materials, 22(8),
+1874-1880.
+[31] Raﬁeizonooz, M., et al. (2016). Investiga-
+tion of coal bottom ash and ﬂy ash in con-
+crete as replacement for sand and cement.
+Construction and Building Materials, 116,
+15-24.
+[32] Thomas, M. (2007). Optimizing the use of
+ﬂy ash in concrete. Vol. 5420: Portland Ce-
+ment Association Skokie, IL.
+[33] Naik, T.R., & Singh, S. (1993). Fly ash gen-
+eration and utilization. Recent Trend in Fly
+Ash Utilization.
+[34] Abubakar,
+A.U.,
+&
+Baharudin,
+K.S.
+(2012). Potential use of Malaysian thermal
+power plants coal bottom ash in construc-
+tion. International Journal of Sustainable
+Construction Engineering and Technology,
+3(2), 25-37.
+[35] Hsu, S., Chi, M., & Huang, R. (2018). Ef-
+fect of ﬁneness and replacement ratio of
+ground ﬂy ash on properties of blended
+cement mortar. Construction and Building
+Materials, 176, 250-258.
+[36] Chindaprasirt, P., Jaturapitakkul, C., &
+Sinsiri, T. (2007). Eﬀect of ﬂy ash ﬁne-
+ness on microstructure of blended cement
+paste. Construction and Building Materi-
+als, 21(7), 1534-1541.
+[37] Yao, Z., et al. (2015). A comprehensive re-
+view on the applications of coal ﬂy ash.
+Earth-Science Reviews, 141, 105-121.
+[38] Naik, T.R., & Singh, S.S. (1998). Fly
+ash generation and utilization-an overview.
+Published in the book titled" Recent Trend
+in Fly Ash Utilization", Ministry of Envi-
+ronment and Forests, Government of India.
+[39] Pandey, S. (2014). Coal ﬂy ash: Some as-
+pects of characterization and environmental
+impacts. Journal of Environmental Science,
+Computer Science and Engineering & Tech-
+nology, 3, 921-937.
+[40] Khankhaje, E., et al. (2016). On blended
+cement and geopolymer concretes contain-
+ing palm oil fuel ash. Materials & Design,
+89, 385-398.
+64
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+===== PAGE 16 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+[41] Openshaw, S. (1992). Utilization of coal
+ﬂy ash. Master’s thesis, Florida Univ.,
+Gainesville, FL (United States).
+[42] Ahmaruzzaman, M. (2010). A review on the
+utilization of ﬂy ash. Progress in energy and
+combustion science, 36(3), 327-363.
+[43] Kearsley, E., & Wainwright, P. (2001). The
+eﬀect of high ﬂy ash content on the com-
+pressive strength of foamed concrete. Ce-
+ment and concrete research, 31(1), 105-112.
+[44] Behnood, A., & Golafshani, E.M. (2018).
+Predicting the compressive strength of sil-
+ica fume concrete using hybrid artiﬁcial
+neural network with multi-objective grey
+wolves. Journal of cleaner production, 202,
+54-64.
+[45] Pala, M., et al. (2007). Appraisal of long-
+term eﬀects of ﬂy ash and silica fume on
+compressive strength of concrete by neural
+networks. Construction and Building Mate-
+rials, 21(2), 384-394.
+[46] Gamage, N., et al. (2011). Overview of dif-
+ferent types of ﬂy ash and their use as a
+building and construction material.
+[47] Maher, M., & Balaguru, P. (1993). Proper-
+ties of ﬂowable high-volume ﬂy ash-cement
+composite. Journal of materials in civil en-
+gineering, 5(2), 212-225.
+[48] Mitash, N. (2007). Utility bonanza from
+dust. Envist Newsletter, 2(6), 575-579.
+[49] Huang, R., Chang, J., & Yeih, W. (1995).
+Engineering properties and application of
+cement-based ﬂy ash blocks. Journal of Ma-
+rine Science and Technology, 3(1).
+[50] Marto, A., et al. (2010). Engineering char-
+acteristics of Tanjung Bin coal ash. Elec-
+tronic Journal of Geotechnical Engineering,
+15, 1117-1129.
+[51] Golafshani, E.M., & Behnood, A. (2018).
+Application of soft computing methods for
+predicting the elastic modulus of recycled
+aggregate concrete. Journal of cleaner pro-
+duction, 176, 1163-1176.
+[52] Golafshani, E.M., & A.Behnood, (2018).
+Automatic regression methods for formula-
+tion of elastic modulus of recycled aggre-
+gate concrete. Applied Soft Computing, 64,
+377-400.
+[53] Erdal, H.I. (2013). Two-level and hybrid en-
+sembles of decision trees for high perfor-
+mance concrete compressive strength pre-
+diction. Engineering Applications of Artiﬁ-
+cial Intelligence, 26(7), 1689-1697.
+[54] Chiew,
+F.H.,
+et
+al.
+(2017).
+A
+Fuzzy
+Adaptive Resonance Theory-Based Model
+for Mix Proportion Estimation of High-
+Performance
+Concrete.
+Computer-Aided
+Civil
+and
+Infrastructure
+Engineering,
+32(9), 772-786.
+[55] Behnood, A., et al. (2017). Prediction of the
+compressive strength of normal and high-
+performance concretes using M5P model
+tree algorithm. Construction and Building
+Materials, 142, 199-207.
+[56] Behnood, A., Olek, J., & Glinicki, M.A.
+(2015). Predicting modulus elasticity of re-
+cycled aggregate concrete using M5’ model
+tree algorithm. Construction and Building
+Materials, 94, 137-147.
+[57] Behnood, A., Verian, K.P., & Gharehveran,
+M.M. (2015). Evaluation of the splitting
+tensile strength in plain and steel ﬁber-
+reinforced concrete based on the compres-
+sive strength. Construction and Building
+Materials, 98, 519-529.
+[58] Cheng, M.-Y., Firdausi, P.M., & Prayogo,
+D. (2014). High-performance concrete com-
+pressive strength prediction using Genetic
+Weighted Pyramid Operation Tree (GW-
+POT). Engineering Applications of Artiﬁ-
+cial Intelligence, 29, 104-113.
+[59] Golafshani, E.M., & Ashour, A. (2016).
+Prediction of self-compacting concrete elas-
+tic modulus using two symbolic regression
+techniques. Automation in Construction,
+64, 7-19.
+[60] Uddin, M.T., et al. (2017). Eﬀects of max-
+imum size of brick aggregate on properties
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+65
+
+
+===== PAGE 17 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+of concrete. Construction and Building Ma-
+terials, 134, 713-726.
+[61] Nikoo, M., Moghadam, F.T., & Sadowski,
+Ł. (2015). Prediction of concrete compres-
+sive strength by evolutionary artiﬁcial neu-
+ral networks. Advances in Materials Science
+and Engineering.
+[62] Atici, U. (2011). Prediction of the strength
+of mineral admixture concrete using multi-
+variable regression analysis and an artiﬁcial
+neural network. Expert Systems with appli-
+cations, 38(8), 9609-9618.
+[63] Prasad, B.R., Eskandari, H., & Reddy, B.V.
+(2009). Prediction of compressive strength
+of SCC and HPC with high volume ﬂy ash
+using ANN. Construction and Building Ma-
+terials, 23(1), 117-128.
+[64] Yeh, I.-C., & Lien, L.-C. (2009). Knowledge
+discovery of concrete material using genetic
+operation trees. Expert Systems with Appli-
+cations, 36(3), 5807-5812.
+[65] Chou, J.-S., et al. (2011). Optimizing the
+prediction accuracy of concrete compressive
+strength based on a comparison of data-
+mining techniques. Journal of Computing
+in Civil Engineering, 25(3), 242-253.
+[66] Deepa, C., SathiyaKumari, K., & Sudha,
+V.P. (2010). Prediction of the compressive
+strength of high performance concrete mix
+using tree based modeling. International
+Journal of Computer Applications, 6(5),
+18-24.
+[67] Bui, D.-K., et al. (2018). A modiﬁed ﬁreﬂy
+algorithm-artiﬁcial neural network expert
+system for predicting compressive and ten-
+sile strength of high-performance concrete.
+Construction and Building Materials, 180,
+320-333.
+[68] Topcu, I.B., & Sarıdemir, M. (2008). Pre-
+diction of compressive strength of concrete
+containing ﬂy ash using artiﬁcial neural net-
+works and fuzzy logic. Computational Ma-
+terials Science, 41(3), 305-311.
+[69] Zarandi, M.F., et al. (2008). Fuzzy polyno-
+mial neural networks for approximation of
+the compressive strength of concrete. Ap-
+plied Soft Computing, 8(1), 488-498.
+[70] Bilim, C., et al. (2009). Predicting the com-
+pressive strength of ground granulated blast
+furnace slag concrete using artiﬁcial neu-
+ral network. Advances in Engineering Soft-
+ware, 40(5), 334-340.
+[71] Naderpour, H., Raﬁean, A.H., & Fakhar-
+ian, P. (2018). Compressive strength pre-
+diction of environmentally friendly concrete
+using artiﬁcial neural networks. Journal of
+Building Engineering, 16, 213-219.
+[72] Velay-Lizancos, M., et al. (2017). Analyti-
+cal and genetic programming model of com-
+pressive strength of eco concretes by NDT
+according to curing temperature. Construc-
+tion and Building Materials, 144, 195-206.
+[73] Asteris, P.G., & Mokos, V.G. (2019). Con-
+crete compressive strength using artiﬁcial
+neural networks. Neural Computing and
+Applications, 1-20.
+[74] Al-Shamiri, A.K., et al. (2019). Modeling
+the compressive strength of high-strength
+concrete:
+An extreme learning approach.
+Construction and Building Materials, 208,
+204-219.
+[75] Yaseen, Z.M., et al. (2018). Predicting
+compressive strength of lightweight foamed
+concrete using extreme learning machine
+model. Advances in Engineering Software,
+115, 112-125.
+[76] Akande, K.O., et al. (2014). Performance
+comparison of SVM and ANN in predict-
+ing compressive strength of concrete. IOSR
+Journal of Computer Engineering, 16(5),
+88-94.
+[77] Chithra, S., et al. (2016). A comparative
+study on the compressive strength predic-
+tion models for High Performance Concrete
+containing nano silica and copper slag us-
+ing regression analysis and Artiﬁcial Neural
+Networks. Construction and Building Mate-
+rials, 114, 528-535.
+[78] Sarıdemir, M. (2010). Genetic program-
+ming approach for prediction of compres-
+sive strength of concretes containing rice
+66
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+===== PAGE 18 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+husk ash. Construction and Building Ma-
+terials, 24(10), 1911-1919.
+[79] Öztaş, A., et al. (2006). Predicting the
+compressive strength and slump of high
+strength concrete using neural network.
+Construction and building materials, 20(9),
+769-775.
+[80] Jahed Armaghani, D., et al. (2017). Uniax-
+ial compressive strength prediction through
+a new technique based on gene expression
+programming. Neural Computing and Ap-
+plications, 30(11), 3523-3532.
+[81] Abdelkader, B., El-Hadj, K., & Karim, E.
+(2010). Eﬃciency of granulated blast fur-
+nace slag replacement of cement according
+to the equivalent binder concept. Cement
+and Concrete Composites, 32(3), 226-231.
+[82] Faradonbeh, R.S., et al. (2018). Develop-
+ment of GP and GEP models to estimate
+an environmental issue induced by blasting
+operation. Environ Monit Assess, 190(6),
+351.
+[83] Saad, S., & Malik, H. (2018). Gene expres-
+sion programming (GEP) based intelligent
+model for high performance concrete com-
+prehensive strength analysis. Journal of In-
+telligent & Fuzzy Systems, 1-16.
+[84] Priddy, K.L., & Keller, P.E. (2005). Artiﬁ-
+cial neural networks: an introduction. SPIE
+press.
+[85] Amiri, M., et al. (2016). A new combination
+of artiﬁcial neural network and K-nearest
+neighbors models to predict blast-induced
+ground vibration and air-overpressure. En-
+gineering with Computers, 32(4), 631-644.
+[86] Salas, D.A., et al. (2016). Environmental
+impacts, life cycle assessment and potential
+improvement measures for cement produc-
+tion: a literature review. Journal of Cleaner
+Production, 113, 114-122.
+[87] Moosazadeh, S., et al. (2018). Prediction
+of building damage induced by tunnelling
+through an optimized artiﬁcial neural net-
+work. Engineering with Computers, 1-13.
+[88] Moré,
+J.J.
+(1978).
+The
+Levenberg-
+Marquardt algorithm: implementation and
+theory, in Numerical analysis. Springer,
+105-116.
+[89] Li, J., et al. (2012). Brief introduction of
+back propagation (BP) neural network al-
+gorithm and its improvement, in Advances
+in computer science and information engi-
+neering. Springer, 553-558.
+[90] Huang, G.-B., Zhu, Q.-Y., & Siew, C.-K.
+(2006). Extreme learning machine: theory
+and applications. Neurocomputing, 70(1),
+489-501.
+[91] Huang, G.-B., (2003). Learning capability
+and storage capacity of two-hidden-layer
+feedforward networks. IEEE Transactions
+on Neural Networks, 14(2), 274-281.
+[92] Haji Agha Mohammad Zarbaf, S.E., et
+al. (2017). Stay Cable Tension Estima-
+tion of Cable-Stayed Bridges Using Ge-
+netic Algorithm and Particle Swarm Op-
+timization. Journal of Bridge Engineering,
+22(10), 05017008.
+[93] Shariati, M., et al. (2019). Moment-rotation
+estimation of steel rack connection using ex-
+treme learning machine. Steel and Compos-
+ite Structures, 31(5), 427-435.
+[94] Huang, G.-B., Zhu, Q.-Y., & Siew, C.-K.
+(2006). Extreme learning machine: theory
+and applications. Neurocomputing, 70(1-3),
+489-501.
+[95] El Debs, A.L.H., et al. (2005). Optimization
+of cross section of reinforced concrete beam
+using experimental design.
+About Authors
+Mahdi SHARIATI obtained his Ph.D. degree
+from the University of Malaya in 2013.
+Now,
+Mahdi is a research fellow at the Institute of
+Research and Development, Duy Tan Univer-
+sity, Viet Nam. He has published over 100 ISI
+papers in prestigious journals. Also, he has two
+patents about novel C-shaped shear connectors
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+67
+
+
+===== PAGE 19 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+in steel-concrete composite structures and En-
+hanced steel-concrete composite ﬂoor systems
+using V-shaped angle shear connectors.
+The
+research interests of Mahdi are Shear Connec-
+tor, Concrete Technology, Artiﬁcial Intelligence,
+Optimization Algorithms and Building Infor-
+mation Modelling.
+Currently, he is serving as
+the Editor of Journal of Advanced Engineering
+and Computation (JAEC). Besides, he is the
+Reviewer of over 30 well-known journals.
+Danial
+Jahed
+ARMAGHANI
+is
+cur-
+rently working as a senior lecturer in the
+Faculty of Engineering, University of Malaya,
+Malaysia. He received his postdoc from Amirk-
+abir University of Technology, Tehran, Iran and
+his Ph.D. degree, in Civil Geotechnics, from
+Universiti Teknologi Malaysia, Malaysia.
+His
+area of research is tunnelling, rock mechan-
+ics, piling technology, blasting environmental
+issues,
+applying
+artiﬁcial
+intelligence,
+and
+optimization
+algorithms
+in
+civil-geotechnics.
+Dr.
+Danial published more than 150 papers
+in well-established ISI and Scopus journals,
+national, and international conferences.
+Dr.
+Danial is also a recognized reviewer in the area
+of rock mechanics and geotechnical engineering.
+Manoj
+KHANDELWAL
+is
+a
+Program
+Coordinator of mining engineering at Federa-
+tion University and is an Australian Endeavour
+Fellow and also a member of the Australasian
+Institute of Mining and Metallurgy, Society
+for Mining, Metallurgy and Exploration, USA,
+and Mining Engineers Association of India. Dr
+Khandelwal has more than a decade of research
+and academic teaching experience in Australia
+and India. Dr Khandelwal has been recognized
+as a leading expert in ‘Mining Geomechanics’
+and ‘Rock Blasting’.
+So far, Dr Khandelwal
+has published more than 125 research papers in
+diﬀerent reputed journals with high impact fac-
+tors and reputable conference proceedings. He
+is also the author of a book. He has successfully
+completed several research and consultancy
+research projects in his area of interest. He has
+been awarded a number of prestigious national
+and international awards.
+Dr Khandelwal is
+a member of the editorial board of several
+international journals published from various
+continents.
+Jian ZHOU received the Ph.D. degree from
+the School of Resources and Safety Engineering,
+Central South University, Changsha, China,
+in 2015. From 2013 to 2014, he was a Visitor
+scholar with the McGill University, Montreal,
+Canada. His current research interests in pre-
+diction and control of mining and geotechnical
+engineering hazards using machine learning
+methods, including rockburst in deep hardrock
+mining and high-stress conditions, pillar and
+stope stability analysis, blast vibration, slope
+stability analysis. He is currently an Associate
+Professor with the School of Resource and
+Safety Engineering, Central South University.
+He is a member of ISRM and invited to serve
+as the Editor or Editorial Board Member of
+International Journal of Mining Science and
+Technology, Advances in Civil Engineering, Ap-
+plied Sciences, Metaheuristic Computing and
+Applications. He has authored over 100 papers
+published in related international journals. He
+has served as a Reviewer of over 40 journals.
+Majid
+KHORAMI
+is a Ph.D candidate
+in Politecnic University of Valencia-Spain. Cur-
+rently, he is working as an associate professor in
+the Faculty of Architecture and Urbanism, UTE
+University in Ecuador with more than a decade
+of research and academic teaching experience.
+His area of research is Ultra-High Performance
+Fibre Concrete (UHPFRC), applying artiﬁcial
+intelligence, concrete technology and sustain-
+able construction. He has authored/co-authored
+over 50 papers published in well-known interna-
+tional journals and reviewer over 5 journals.
+68
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+===== PAGE 20 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+Appendix
+Details of mix proportions and their CS variables
+Tab. 10: Details of mix proportions and their CS variables
+S. number
+FA
+(%)
+SF
+(%)
+TCM
+(kg/m3)
+ssa
+(kg/m3)
+ca
+(kg/m3)
+W
+(lt/m3)
+HRWRA
+(lt/m3)
+Age
+(days)
+fc
+(MPa)
+1
+0
+0
+500
+724
+1086
+150
+7.5
+3
+64.9
+2
+0
+0
+500
+724
+1086
+150
+7.5
+7
+75.5
+3
+0
+0
+500
+724
+1086
+150
+7.5
+28
+86.8
+4
+0
+0
+500
+724
+1086
+150
+7.5
+56
+87.2
+5
+0
+0
+500
+724
+1086
+150
+7.5
+90
+95.7
+6
+0
+0
+500
+724
+1086
+150
+7.5
+180
+97.7
+7
+15
+0
+500
+700
+1086
+150
+7.5
+3
+52.1
+8
+15
+0
+500
+700
+1086
+150
+7.5
+7
+66.4
+9
+15
+0
+500
+700
+1086
+150
+7.5
+28
+86
+10
+15
+0
+500
+700
+1086
+150
+7.5
+56
+94.8
+11
+15
+0
+500
+700
+1086
+150
+7.5
+90
+99.6
+12
+15
+0
+500
+700
+1086
+150
+7.5
+180
+106.3
+13
+25
+0
+500
+683
+1086
+150
+9.25
+3
+48
+14
+25
+0
+500
+683
+1086
+150
+9.25
+7
+65.7
+15
+25
+0
+500
+683
+1086
+150
+9.25
+28
+85.4
+16
+25
+0
+500
+683
+1086
+150
+9.25
+56
+90.4
+17
+25
+0
+500
+683
+1086
+150
+9.25
+90
+95.4
+18
+25
+0
+500
+683
+1086
+150
+9.25
+180
+107.8
+19
+45
+0
+500
+650
+1086
+150
+10.5
+3
+34.1
+20
+45
+0
+500
+650
+1086
+150
+10.5
+7
+49.2
+21
+45
+0
+500
+650
+1086
+150
+10.5
+28
+71.8
+22
+45
+0
+500
+650
+1086
+150
+10.5
+56
+85.4
+23
+45
+0
+500
+650
+1086
+150
+10.5
+90
+87.7
+24
+45
+0
+500
+650
+1086
+150
+10.5
+180
+97.7
+25
+55
+0
+500
+634
+1086
+150
+13
+3
+22.3
+26
+55
+0
+500
+634
+1086
+150
+13
+7
+36.4
+27
+55
+0
+500
+634
+1086
+150
+13
+28
+57.4
+28
+55
+0
+500
+634
+1086
+150
+13
+56
+66.6
+29
+55
+0
+500
+634
+1086
+150
+13
+90
+72.8
+30
+55
+0
+500
+634
+1086
+150
+13
+180
+79.9
+31
+0
+5
+500
+719
+1086
+150
+8
+3
+58.3
+32
+0
+5
+500
+719
+1086
+150
+8
+7
+75.5
+33
+0
+5
+500
+719
+1086
+150
+8
+28
+87.8
+34
+0
+5
+500
+719
+1086
+150
+8
+56
+93.1
+35
+0
+5
+500
+719
+1086
+150
+8
+90
+93.6
+36
+0
+5
+500
+719
+1086
+150
+8
+180
+99.3
+37
+20
+5
+500
+686
+1086
+150
+9.25
+3
+46.3
+38
+20
+5
+500
+686
+1086
+150
+9.25
+7
+65.6
+39
+20
+5
+500
+686
+1086
+150
+9.25
+28
+78.5
+40
+20
+5
+500
+686
+1086
+150
+9.25
+56
+85.8
+(continued on next page)
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+69
+
+
+----- TABLE p20#1 -----
+
+S. number | FA
+(%) | SF
+(%) | TCM
+(kg/m3) | ssa
+(kg/m3) | ca
+(kg/m3) | W
+(lt/m3) | HRWRA
+(lt/m3) | Age
+(days) | fc
+(MPa)
+1 | 0 | 0 | 500 | 724 | 1086 | 150 | 7.5 | 3 | 64.9
+2 | 0 | 0 | 500 | 724 | 1086 | 150 | 7.5 | 7 | 75.5
+3 | 0 | 0 | 500 | 724 | 1086 | 150 | 7.5 | 28 | 86.8
+4 | 0 | 0 | 500 | 724 | 1086 | 150 | 7.5 | 56 | 87.2
+5 | 0 | 0 | 500 | 724 | 1086 | 150 | 7.5 | 90 | 95.7
+6 | 0 | 0 | 500 | 724 | 1086 | 150 | 7.5 | 180 | 97.7
+7 | 15 | 0 | 500 | 700 | 1086 | 150 | 7.5 | 3 | 52.1
+8 | 15 | 0 | 500 | 700 | 1086 | 150 | 7.5 | 7 | 66.4
+9 | 15 | 0 | 500 | 700 | 1086 | 150 | 7.5 | 28 | 86
+10 | 15 | 0 | 500 | 700 | 1086 | 150 | 7.5 | 56 | 94.8
+11 | 15 | 0 | 500 | 700 | 1086 | 150 | 7.5 | 90 | 99.6
+12 | 15 | 0 | 500 | 700 | 1086 | 150 | 7.5 | 180 | 106.3
+13 | 25 | 0 | 500 | 683 | 1086 | 150 | 9.25 | 3 | 48
+14 | 25 | 0 | 500 | 683 | 1086 | 150 | 9.25 | 7 | 65.7
+15 | 25 | 0 | 500 | 683 | 1086 | 150 | 9.25 | 28 | 85.4
+16 | 25 | 0 | 500 | 683 | 1086 | 150 | 9.25 | 56 | 90.4
+17 | 25 | 0 | 500 | 683 | 1086 | 150 | 9.25 | 90 | 95.4
+18 | 25 | 0 | 500 | 683 | 1086 | 150 | 9.25 | 180 | 107.8
+19 | 45 | 0 | 500 | 650 | 1086 | 150 | 10.5 | 3 | 34.1
+20 | 45 | 0 | 500 | 650 | 1086 | 150 | 10.5 | 7 | 49.2
+21 | 45 | 0 | 500 | 650 | 1086 | 150 | 10.5 | 28 | 71.8
+22 | 45 | 0 | 500 | 650 | 1086 | 150 | 10.5 | 56 | 85.4
+23 | 45 | 0 | 500 | 650 | 1086 | 150 | 10.5 | 90 | 87.7
+24 | 45 | 0 | 500 | 650 | 1086 | 150 | 10.5 | 180 | 97.7
+25 | 55 | 0 | 500 | 634 | 1086 | 150 | 13 | 3 | 22.3
+26 | 55 | 0 | 500 | 634 | 1086 | 150 | 13 | 7 | 36.4
+27 | 55 | 0 | 500 | 634 | 1086 | 150 | 13 | 28 | 57.4
+28 | 55 | 0 | 500 | 634 | 1086 | 150 | 13 | 56 | 66.6
+29 | 55 | 0 | 500 | 634 | 1086 | 150 | 13 | 90 | 72.8
+30 | 55 | 0 | 500 | 634 | 1086 | 150 | 13 | 180 | 79.9
+31 | 0 | 5 | 500 | 719 | 1086 | 150 | 8 | 3 | 58.3
+32 | 0 | 5 | 500 | 719 | 1086 | 150 | 8 | 7 | 75.5
+33 | 0 | 5 | 500 | 719 | 1086 | 150 | 8 | 28 | 87.8
+34 | 0 | 5 | 500 | 719 | 1086 | 150 | 8 | 56 | 93.1
+35 | 0 | 5 | 500 | 719 | 1086 | 150 | 8 | 90 | 93.6
+36 | 0 | 5 | 500 | 719 | 1086 | 150 | 8 | 180 | 99.3
+37 | 20 | 5 | 500 | 686 | 1086 | 150 | 9.25 | 3 | 46.3
+38 | 20 | 5 | 500 | 686 | 1086 | 150 | 9.25 | 7 | 65.6
+39 | 20 | 5 | 500 | 686 | 1086 | 150 | 9.25 | 28 | 78.5
+40 | 20 | 5 | 500 | 686 | 1086 | 150 | 9.25 | 56 | 85.8
+
+===== PAGE 21 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+(continued from previous page)
+S. number
+FA
+(%)
+SF
+(%)
+TCM
+(kg/m3)
+ssa
+(kg/m3)
+ca
+(kg/m3)
+W
+(lt/m3)
+HRWRA
+(lt/m3)
+Age
+(days)
+fc
+(MPa)
+41
+20
+5
+500
+686
+1086
+150
+9.25
+90
+90.3
+42
+20
+5
+500
+686
+1086
+150
+9.25
+180
+95.9
+43
+40
+5
+500
+654
+1086
+150
+11
+3
+30.5
+44
+40
+5
+500
+654
+1086
+150
+11
+7
+48.6
+45
+40
+5
+500
+654
+1086
+150
+11
+28
+71.1
+46
+40
+5
+500
+654
+1086
+150
+11
+56
+80
+47
+40
+5
+500
+654
+1086
+150
+11
+90
+83.4
+48
+40
+5
+500
+654
+1086
+150
+11
+180
+88.3
+49
+0
+0
+400
+710
+1157
+160
+4
+3
+35
+50
+0
+0
+400
+710
+1157
+160
+4
+7
+48.4
+51
+0
+0
+400
+710
+1157
+160
+4
+28
+60.7
+52
+0
+0
+400
+710
+1157
+160
+4
+56
+67.1
+53
+0
+0
+400
+710
+1157
+160
+4
+90
+70.5
+54
+0
+0
+400
+710
+1157
+160
+4
+180
+70.6
+55
+15
+0
+400
+690
+1157
+160
+4.4
+3
+29.3
+56
+15
+0
+400
+690
+1157
+160
+4.4
+7
+39.9
+57
+15
+0
+400
+690
+1157
+160
+4.4
+28
+56
+58
+15
+0
+400
+690
+1157
+160
+4.4
+56
+63.4
+59
+15
+0
+400
+690
+1157
+160
+4.4
+90
+68.5
+60
+15
+0
+400
+690
+1157
+160
+4.4
+180
+72.1
+61
+25
+0
+400
+660
+1157
+160
+4.8
+3
+24.7
+62
+25
+0
+400
+660
+1157
+160
+4.8
+7
+33.7
+63
+25
+0
+400
+660
+1157
+160
+4.8
+28
+49.3
+64
+25
+0
+400
+660
+1157
+160
+4.8
+56
+60.8
+65
+25
+0
+400
+660
+1157
+160
+4.8
+90
+66.2
+66
+25
+0
+400
+660
+1157
+160
+4.8
+180
+70.2
+67
+45
+0
+400
+634
+1157
+160
+5.2
+3
+14.5
+68
+45
+0
+400
+634
+1157
+160
+5.2
+7
+20.3
+69
+45
+0
+400
+634
+1157
+160
+5.2
+28
+43.9
+70
+45
+0
+400
+634
+1157
+160
+5.2
+56
+54.1
+71
+45
+0
+400
+634
+1157
+160
+5.2
+90
+61.2
+72
+45
+0
+400
+634
+1157
+160
+5.2
+180
+63.7
+73
+55
+0
+400
+621
+1157
+160
+5.5
+3
+13.6
+74
+55
+0
+400
+621
+1157
+160
+5.5
+7
+19.8
+75
+55
+0
+400
+621
+1157
+160
+5.5
+28
+37.3
+76
+55
+0
+400
+621
+1157
+160
+5.5
+56
+47.1
+77
+55
+0
+400
+621
+1157
+160
+5.5
+90
+52.9
+78
+55
+0
+400
+621
+1157
+160
+5.5
+180
+63.2
+79
+0
+5
+400
+688
+1157
+160
+5.5
+3
+37.3
+80
+0
+5
+400
+688
+1157
+160
+5.5
+7
+53
+81
+0
+5
+400
+688
+1157
+160
+5.5
+28
+69.4
+82
+0
+5
+400
+688
+1157
+160
+5.5
+56
+72.1
+83
+0
+5
+400
+688
+1157
+160
+5.5
+90
+73.7
+84
+0
+5
+400
+688
+1157
+160
+5.5
+180
+74.5
+85
+20
+5
+400
+662
+1157
+160
+5.5
+3
+28.9
+(continued on next page)
+70
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+----- TABLE p21#1 -----
+
+S. number | FA
+(%) | SF
+(%) | TCM
+(kg/m3) | ssa
+(kg/m3) | ca
+(kg/m3) | W
+(lt/m3) | HRWRA
+(lt/m3) | Age
+(days) | fc
+(MPa)
+41 | 20 | 5 | 500 | 686 | 1086 | 150 | 9.25 | 90 | 90.3
+42 | 20 | 5 | 500 | 686 | 1086 | 150 | 9.25 | 180 | 95.9
+43 | 40 | 5 | 500 | 654 | 1086 | 150 | 11 | 3 | 30.5
+44 | 40 | 5 | 500 | 654 | 1086 | 150 | 11 | 7 | 48.6
+45 | 40 | 5 | 500 | 654 | 1086 | 150 | 11 | 28 | 71.1
+46 | 40 | 5 | 500 | 654 | 1086 | 150 | 11 | 56 | 80
+47 | 40 | 5 | 500 | 654 | 1086 | 150 | 11 | 90 | 83.4
+48 | 40 | 5 | 500 | 654 | 1086 | 150 | 11 | 180 | 88.3
+49 | 0 | 0 | 400 | 710 | 1157 | 160 | 4 | 3 | 35
+50 | 0 | 0 | 400 | 710 | 1157 | 160 | 4 | 7 | 48.4
+51 | 0 | 0 | 400 | 710 | 1157 | 160 | 4 | 28 | 60.7
+52 | 0 | 0 | 400 | 710 | 1157 | 160 | 4 | 56 | 67.1
+53 | 0 | 0 | 400 | 710 | 1157 | 160 | 4 | 90 | 70.5
+54 | 0 | 0 | 400 | 710 | 1157 | 160 | 4 | 180 | 70.6
+55 | 15 | 0 | 400 | 690 | 1157 | 160 | 4.4 | 3 | 29.3
+56 | 15 | 0 | 400 | 690 | 1157 | 160 | 4.4 | 7 | 39.9
+57 | 15 | 0 | 400 | 690 | 1157 | 160 | 4.4 | 28 | 56
+58 | 15 | 0 | 400 | 690 | 1157 | 160 | 4.4 | 56 | 63.4
+59 | 15 | 0 | 400 | 690 | 1157 | 160 | 4.4 | 90 | 68.5
+60 | 15 | 0 | 400 | 690 | 1157 | 160 | 4.4 | 180 | 72.1
+61 | 25 | 0 | 400 | 660 | 1157 | 160 | 4.8 | 3 | 24.7
+62 | 25 | 0 | 400 | 660 | 1157 | 160 | 4.8 | 7 | 33.7
+63 | 25 | 0 | 400 | 660 | 1157 | 160 | 4.8 | 28 | 49.3
+64 | 25 | 0 | 400 | 660 | 1157 | 160 | 4.8 | 56 | 60.8
+65 | 25 | 0 | 400 | 660 | 1157 | 160 | 4.8 | 90 | 66.2
+66 | 25 | 0 | 400 | 660 | 1157 | 160 | 4.8 | 180 | 70.2
+67 | 45 | 0 | 400 | 634 | 1157 | 160 | 5.2 | 3 | 14.5
+68 | 45 | 0 | 400 | 634 | 1157 | 160 | 5.2 | 7 | 20.3
+69 | 45 | 0 | 400 | 634 | 1157 | 160 | 5.2 | 28 | 43.9
+70 | 45 | 0 | 400 | 634 | 1157 | 160 | 5.2 | 56 | 54.1
+71 | 45 | 0 | 400 | 634 | 1157 | 160 | 5.2 | 90 | 61.2
+72 | 45 | 0 | 400 | 634 | 1157 | 160 | 5.2 | 180 | 63.7
+73 | 55 | 0 | 400 | 621 | 1157 | 160 | 5.5 | 3 | 13.6
+74 | 55 | 0 | 400 | 621 | 1157 | 160 | 5.5 | 7 | 19.8
+75 | 55 | 0 | 400 | 621 | 1157 | 160 | 5.5 | 28 | 37.3
+76 | 55 | 0 | 400 | 621 | 1157 | 160 | 5.5 | 56 | 47.1
+77 | 55 | 0 | 400 | 621 | 1157 | 160 | 5.5 | 90 | 52.9
+78 | 55 | 0 | 400 | 621 | 1157 | 160 | 5.5 | 180 | 63.2
+79 | 0 | 5 | 400 | 688 | 1157 | 160 | 5.5 | 3 | 37.3
+80 | 0 | 5 | 400 | 688 | 1157 | 160 | 5.5 | 7 | 53
+81 | 0 | 5 | 400 | 688 | 1157 | 160 | 5.5 | 28 | 69.4
+82 | 0 | 5 | 400 | 688 | 1157 | 160 | 5.5 | 56 | 72.1
+83 | 0 | 5 | 400 | 688 | 1157 | 160 | 5.5 | 90 | 73.7
+84 | 0 | 5 | 400 | 688 | 1157 | 160 | 5.5 | 180 | 74.5
+85 | 20 | 5 | 400 | 662 | 1157 | 160 | 5.5 | 3 | 28.9
+
+===== PAGE 22 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+(continued from previous page)
+S. number
+FA
+(%)
+SF
+(%)
+TCM
+(kg/m3)
+ssa
+(kg/m3)
+ca
+(kg/m3)
+W
+(lt/m3)
+HRWRA
+(lt/m3)
+Age
+(days)
+fc
+(MPa)
+86
+20
+5
+400
+662
+1157
+160
+5.5
+7
+42.1
+87
+20
+5
+400
+662
+1157
+160
+5.5
+28
+62.3
+88
+20
+5
+400
+662
+1157
+160
+5.5
+56
+69.9
+89
+20
+5
+400
+662
+1157
+160
+5.5
+90
+72.4
+90
+20
+5
+400
+662
+1157
+160
+5.5
+180
+76
+91
+40
+5
+400
+636
+1157
+160
+6
+3
+14.5
+92
+40
+5
+400
+636
+1157
+160
+6
+7
+20.5
+93
+40
+5
+400
+636
+1157
+160
+6
+28
+44.6
+94
+40
+5
+400
+636
+1157
+160
+6
+56
+55.3
+95
+40
+5
+400
+636
+1157
+160
+6
+90
+59.1
+96
+40
+5
+400
+636
+1157
+160
+6
+180
+68.4
+97
+0
+0
+410
+609
+1132
+205
+0
+3
+26.1
+98
+0
+0
+410
+609
+1132
+205
+0
+7
+36.9
+99
+0
+0
+410
+609
+1132
+205
+0
+28
+50.8
+100
+0
+0
+410
+609
+1132
+205
+0
+56
+57.1
+101
+0
+0
+410
+609
+1132
+205
+0
+90
+58.1
+102
+0
+0
+410
+609
+1132
+205
+0
+180
+60.6
+103
+15
+0
+410
+589
+1132
+205
+0
+3
+23.3
+104
+15
+0
+410
+589
+1132
+205
+0
+7
+32.3
+105
+15
+0
+410
+589
+1132
+205
+0
+28
+48.9
+106
+15
+0
+410
+589
+1132
+205
+0
+56
+55.7
+107
+15
+0
+410
+589
+1132
+205
+0
+90
+62.6
+108
+15
+0
+410
+589
+1132
+205
+0
+180
+64.8
+109
+25
+0
+410
+576
+1132
+205
+0
+3
+18.4
+110
+25
+0
+410
+576
+1132
+205
+0
+7
+26.2
+111
+25
+0
+410
+576
+1132
+205
+0
+28
+41.7
+112
+25
+0
+410
+576
+1132
+205
+0
+56
+49.1
+113
+25
+0
+410
+576
+1132
+205
+0
+90
+53.7
+114
+25
+0
+410
+576
+1132
+205
+0
+180
+57.9
+115
+45
+0
+410
+549
+1132
+205
+0
+3
+13.4
+116
+45
+0
+410
+549
+1132
+205
+0
+7
+18.4
+117
+45
+0
+410
+549
+1132
+205
+0
+28
+35.6
+118
+45
+0
+410
+549
+1132
+205
+0
+56
+47
+119
+45
+0
+410
+549
+1132
+205
+0
+90
+54.1
+120
+45
+0
+410
+549
+1132
+205
+0
+180
+56.6
+121
+55
+0
+410
+536
+1132
+205
+0
+3
+7.8
+122
+55
+0
+410
+536
+1132
+205
+0
+7
+11.3
+123
+55
+0
+410
+536
+1132
+205
+0
+28
+24
+124
+55
+0
+410
+536
+1132
+205
+0
+56
+33.7
+125
+55
+0
+410
+536
+1132
+205
+0
+90
+41.4
+126
+55
+0
+410
+536
+1132
+205
+0
+180
+48.4
+127
+0
+5
+410
+605
+1132
+205
+0
+3
+27.4
+128
+0
+5
+410
+605
+1132
+205
+0
+7
+39.2
+129
+0
+5
+410
+605
+1132
+205
+0
+28
+57.3
+130
+0
+5
+410
+605
+1132
+205
+0
+56
+59.6
+(continued on next page)
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+71
+
+
+----- TABLE p22#1 -----
+
+S. number | FA
+(%) | SF
+(%) | TCM
+(kg/m3) | ssa
+(kg/m3) | ca
+(kg/m3) | W
+(lt/m3) | HRWRA
+(lt/m3) | Age
+(days) | fc
+(MPa)
+86 | 20 | 5 | 400 | 662 | 1157 | 160 | 5.5 | 7 | 42.1
+87 | 20 | 5 | 400 | 662 | 1157 | 160 | 5.5 | 28 | 62.3
+88 | 20 | 5 | 400 | 662 | 1157 | 160 | 5.5 | 56 | 69.9
+89 | 20 | 5 | 400 | 662 | 1157 | 160 | 5.5 | 90 | 72.4
+90 | 20 | 5 | 400 | 662 | 1157 | 160 | 5.5 | 180 | 76
+91 | 40 | 5 | 400 | 636 | 1157 | 160 | 6 | 3 | 14.5
+92 | 40 | 5 | 400 | 636 | 1157 | 160 | 6 | 7 | 20.5
+93 | 40 | 5 | 400 | 636 | 1157 | 160 | 6 | 28 | 44.6
+94 | 40 | 5 | 400 | 636 | 1157 | 160 | 6 | 56 | 55.3
+95 | 40 | 5 | 400 | 636 | 1157 | 160 | 6 | 90 | 59.1
+96 | 40 | 5 | 400 | 636 | 1157 | 160 | 6 | 180 | 68.4
+97 | 0 | 0 | 410 | 609 | 1132 | 205 | 0 | 3 | 26.1
+98 | 0 | 0 | 410 | 609 | 1132 | 205 | 0 | 7 | 36.9
+99 | 0 | 0 | 410 | 609 | 1132 | 205 | 0 | 28 | 50.8
+100 | 0 | 0 | 410 | 609 | 1132 | 205 | 0 | 56 | 57.1
+101 | 0 | 0 | 410 | 609 | 1132 | 205 | 0 | 90 | 58.1
+102 | 0 | 0 | 410 | 609 | 1132 | 205 | 0 | 180 | 60.6
+103 | 15 | 0 | 410 | 589 | 1132 | 205 | 0 | 3 | 23.3
+104 | 15 | 0 | 410 | 589 | 1132 | 205 | 0 | 7 | 32.3
+105 | 15 | 0 | 410 | 589 | 1132 | 205 | 0 | 28 | 48.9
+106 | 15 | 0 | 410 | 589 | 1132 | 205 | 0 | 56 | 55.7
+107 | 15 | 0 | 410 | 589 | 1132 | 205 | 0 | 90 | 62.6
+108 | 15 | 0 | 410 | 589 | 1132 | 205 | 0 | 180 | 64.8
+109 | 25 | 0 | 410 | 576 | 1132 | 205 | 0 | 3 | 18.4
+110 | 25 | 0 | 410 | 576 | 1132 | 205 | 0 | 7 | 26.2
+111 | 25 | 0 | 410 | 576 | 1132 | 205 | 0 | 28 | 41.7
+112 | 25 | 0 | 410 | 576 | 1132 | 205 | 0 | 56 | 49.1
+113 | 25 | 0 | 410 | 576 | 1132 | 205 | 0 | 90 | 53.7
+114 | 25 | 0 | 410 | 576 | 1132 | 205 | 0 | 180 | 57.9
+115 | 45 | 0 | 410 | 549 | 1132 | 205 | 0 | 3 | 13.4
+116 | 45 | 0 | 410 | 549 | 1132 | 205 | 0 | 7 | 18.4
+117 | 45 | 0 | 410 | 549 | 1132 | 205 | 0 | 28 | 35.6
+118 | 45 | 0 | 410 | 549 | 1132 | 205 | 0 | 56 | 47
+119 | 45 | 0 | 410 | 549 | 1132 | 205 | 0 | 90 | 54.1
+120 | 45 | 0 | 410 | 549 | 1132 | 205 | 0 | 180 | 56.6
+121 | 55 | 0 | 410 | 536 | 1132 | 205 | 0 | 3 | 7.8
+122 | 55 | 0 | 410 | 536 | 1132 | 205 | 0 | 7 | 11.3
+123 | 55 | 0 | 410 | 536 | 1132 | 205 | 0 | 28 | 24
+124 | 55 | 0 | 410 | 536 | 1132 | 205 | 0 | 56 | 33.7
+125 | 55 | 0 | 410 | 536 | 1132 | 205 | 0 | 90 | 41.4
+126 | 55 | 0 | 410 | 536 | 1132 | 205 | 0 | 180 | 48.4
+127 | 0 | 5 | 410 | 605 | 1132 | 205 | 0 | 3 | 27.4
+128 | 0 | 5 | 410 | 605 | 1132 | 205 | 0 | 7 | 39.2
+129 | 0 | 5 | 410 | 605 | 1132 | 205 | 0 | 28 | 57.3
+130 | 0 | 5 | 410 | 605 | 1132 | 205 | 0 | 56 | 59.6
+
+===== PAGE 23 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+(continued from previous page)
+S. number
+FA
+(%)
+SF
+(%)
+TCM
+(kg/m3)
+ssa
+(kg/m3)
+ca
+(kg/m3)
+W
+(lt/m3)
+HRWRA
+(lt/m3)
+Age
+(days)
+fc
+(MPa)
+131
+0
+5
+410
+605
+1132
+205
+0
+90
+67.3
+132
+0
+5
+410
+605
+1132
+205
+0
+180
+66.3
+133
+20
+5
+410
+578
+1132
+205
+0
+3
+20.1
+134
+20
+5
+410
+578
+1132
+205
+0
+7
+30.6
+135
+20
+5
+410
+578
+1132
+205
+0
+28
+52.9
+136
+20
+5
+410
+578
+1132
+205
+0
+56
+60.7
+137
+20
+5
+410
+578
+1132
+205
+0
+90
+63.7
+138
+20
+5
+410
+578
+1132
+205
+0
+180
+68
+139
+40
+5
+410
+552
+1132
+205
+0
+3
+11.4
+140
+40
+5
+410
+552
+1132
+205
+0
+7
+11.68
+141
+40
+5
+410
+552
+1132
+205
+0
+28
+38.7
+142
+40
+5
+410
+552
+1132
+205
+0
+56
+45.9
+143
+40
+5
+410
+552
+1132
+205
+0
+90
+48.7
+144
+40
+5
+410
+552
+1132
+205
+0
+180
+58.4
+Tab. 11:
+The RMSE values of ANN in training and testing phases (two-layer layer) (all data)
+First
+layer
+neuron
+Second
+layer
+neuron
+Train
+Test
+1
+1
+11.4671
+15.89856
+2
+1
+8.077351
+7.891446
+3
+1
+7.949106
+8.088699
+4
+1
+5.949252
+6.512514
+5
+1
+8.717519
+9.439658
+6
+1
+5.882827
+17.44543
+7
+1
+10.86265
+21.58667
+8
+1
+3.519971
+4.203522
+9
+1
+3.480376
+4.148538
+10
+1
+7.612163
+8.888949
+1
+2
+3.988789
+5.743801
+2
+2
+7.023603
+8.62837
+3
+2
+8.757661
+9.98464
+4
+2
+4.429534
+6.819625
+5
+2
+3.244493
+4.099803
+6
+2
+3.02195
+4.548377
+7
+2
+2.413124
+3.971144
+8
+2
+1.794021
+5.661613
+9
+2
+2.04402
+3.212584
+10
+2
+3.205188
+13.00973
+1
+3
+1.59428
+7.433624
+2
+3
+2.605283
+4.077756
+3
+3
+2.422984
+5.601764
+4
+3
+1.486778
+2.595376
+5
+3
+1.597706
+4.780559
+(continued on next page)
+72
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+
+
+----- TABLE p23#1 -----
+
+S. number | FA
+(%) | SF
+(%) | TCM
+(kg/m3) | ssa
+(kg/m3) | ca
+(kg/m3) | W
+(lt/m3) | HRWRA
+(lt/m3) | Age
+(days) | fc
+(MPa)
+131 | 0 | 5 | 410 | 605 | 1132 | 205 | 0 | 90 | 67.3
+132 | 0 | 5 | 410 | 605 | 1132 | 205 | 0 | 180 | 66.3
+133 | 20 | 5 | 410 | 578 | 1132 | 205 | 0 | 3 | 20.1
+134 | 20 | 5 | 410 | 578 | 1132 | 205 | 0 | 7 | 30.6
+135 | 20 | 5 | 410 | 578 | 1132 | 205 | 0 | 28 | 52.9
+136 | 20 | 5 | 410 | 578 | 1132 | 205 | 0 | 56 | 60.7
+137 | 20 | 5 | 410 | 578 | 1132 | 205 | 0 | 90 | 63.7
+138 | 20 | 5 | 410 | 578 | 1132 | 205 | 0 | 180 | 68
+139 | 40 | 5 | 410 | 552 | 1132 | 205 | 0 | 3 | 11.4
+140 | 40 | 5 | 410 | 552 | 1132 | 205 | 0 | 7 | 11.68
+141 | 40 | 5 | 410 | 552 | 1132 | 205 | 0 | 28 | 38.7
+142 | 40 | 5 | 410 | 552 | 1132 | 205 | 0 | 56 | 45.9
+143 | 40 | 5 | 410 | 552 | 1132 | 205 | 0 | 90 | 48.7
+144 | 40 | 5 | 410 | 552 | 1132 | 205 | 0 | 180 | 58.4
+
+----- TABLE p23#2 -----
+
+First
+layer
+neuron | Second
+layer
+neuron | Train | Test
+1 | 1 | 11.4671 | 15.89856
+2 | 1 | 8.077351 | 7.891446
+3 | 1 | 7.949106 | 8.088699
+4 | 1 | 5.949252 | 6.512514
+5 | 1 | 8.717519 | 9.439658
+6 | 1 | 5.882827 | 17.44543
+7 | 1 | 10.86265 | 21.58667
+8 | 1 | 3.519971 | 4.203522
+9 | 1 | 3.480376 | 4.148538
+10 | 1 | 7.612163 | 8.888949
+1 | 2 | 3.988789 | 5.743801
+2 | 2 | 7.023603 | 8.62837
+3 | 2 | 8.757661 | 9.98464
+4 | 2 | 4.429534 | 6.819625
+5 | 2 | 3.244493 | 4.099803
+6 | 2 | 3.02195 | 4.548377
+7 | 2 | 2.413124 | 3.971144
+8 | 2 | 1.794021 | 5.661613
+9 | 2 | 2.04402 | 3.212584
+10 | 2 | 3.205188 | 13.00973
+1 | 3 | 1.59428 | 7.433624
+2 | 3 | 2.605283 | 4.077756
+3 | 3 | 2.422984 | 5.601764
+4 | 3 | 1.486778 | 2.595376
+5 | 3 | 1.597706 | 4.780559
+
+===== PAGE 24 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+(continued from previous page)
+ﬁrst
+layer
+neuron
+second
+layer
+neuron
+train
+test
+6
+3
+0.95611
+5.570873
+7
+3
+1.042316
+4.965718
+8
+3
+0.708144
+14.35391
+9
+3
+1.539122
+3.558423
+10
+3
+2.61746
+6.872141
+1
+4
+1.847486
+6.735188
+2
+4
+1.389969
+6.713467
+3
+4
+0.644357
+6.445502
+4
+4
+0.563873
+10.68091
+5
+4
+0.95852
+10.96912
+6
+4
+1.534524
+2.208552
+7
+4
+0.914569
+7.634039
+8
+4
+1.287565
+4.734597
+9
+4
+1.163599
+9.779257
+10
+4
+0.38738
+19.30937
+1
+5
+1.148456
+293.8489
+2
+5
+0.264395
+17.6362
+3
+5
+1.106133
+3.357923
+4
+5
+8.895453
+10.03507
+5
+5
+0.619114
+7.448675
+6
+5
+0.281349
+7.574561
+7
+5
+0.235413
+9.081563
+8
+5
+0.158538
+44.88652
+9
+5
+9.53E-07
+6.451442
+10
+5
+1.313994
+3.45978
+1
+6
+1.082255
+13.1393
+2
+6
+0.396487
+9.661204
+3
+6
+0.060666
+8.296369
+4
+6
+0.047403
+13.88591
+5
+6
+2.49E-07
+9.379142
+6
+6
+2.70E-09
+14.28784
+7
+6
+1.095173
+5.670521
+8
+6
+0.224708
+12.72747
+9
+6
+0.004833
+5.593437
+10
+6
+2.09E-08
+8.372776
+1
+7
+0.107252
+30.53993
+2
+7
+5.90E-10
+9.585075
+3
+7
+4.15E-09
+9.668321
+4
+7
+0.551107
+7.367329
+5
+7
+0.259927
+5.803591
+6
+7
+0.053599
+6.389661
+7
+7
+1.08E-06
+8.827009
+8
+7
+1.08E-10
+5.963369
+9
+7
+6.19E-10
+25.21877
+(continued on next page)
+© 2021 Journal of Advanced Engineering and Computation (JAEC)
+73
+
+
+----- TABLE p24#1 -----
+
+first
+layer
+neuron | second
+layer
+neuron | train | test
+6 | 3 | 0.95611 | 5.570873
+7 | 3 | 1.042316 | 4.965718
+8 | 3 | 0.708144 | 14.35391
+9 | 3 | 1.539122 | 3.558423
+10 | 3 | 2.61746 | 6.872141
+1 | 4 | 1.847486 | 6.735188
+2 | 4 | 1.389969 | 6.713467
+3 | 4 | 0.644357 | 6.445502
+4 | 4 | 0.563873 | 10.68091
+5 | 4 | 0.95852 | 10.96912
+6 | 4 | 1.534524 | 2.208552
+7 | 4 | 0.914569 | 7.634039
+8 | 4 | 1.287565 | 4.734597
+9 | 4 | 1.163599 | 9.779257
+10 | 4 | 0.38738 | 19.30937
+1 | 5 | 1.148456 | 293.8489
+2 | 5 | 0.264395 | 17.6362
+3 | 5 | 1.106133 | 3.357923
+4 | 5 | 8.895453 | 10.03507
+5 | 5 | 0.619114 | 7.448675
+6 | 5 | 0.281349 | 7.574561
+7 | 5 | 0.235413 | 9.081563
+8 | 5 | 0.158538 | 44.88652
+9 | 5 | 9.53E-07 | 6.451442
+10 | 5 | 1.313994 | 3.45978
+1 | 6 | 1.082255 | 13.1393
+2 | 6 | 0.396487 | 9.661204
+3 | 6 | 0.060666 | 8.296369
+4 | 6 | 0.047403 | 13.88591
+5 | 6 | 2.49E-07 | 9.379142
+6 | 6 | 2.70E-09 | 14.28784
+7 | 6 | 1.095173 | 5.670521
+8 | 6 | 0.224708 | 12.72747
+9 | 6 | 0.004833 | 5.593437
+10 | 6 | 2.09E-08 | 8.372776
+1 | 7 | 0.107252 | 30.53993
+2 | 7 | 5.90E-10 | 9.585075
+3 | 7 | 4.15E-09 | 9.668321
+4 | 7 | 0.551107 | 7.367329
+5 | 7 | 0.259927 | 5.803591
+6 | 7 | 0.053599 | 6.389661
+7 | 7 | 1.08E-06 | 8.827009
+8 | 7 | 1.08E-10 | 5.963369
+9 | 7 | 6.19E-10 | 25.21877
+
+===== PAGE 25 =====
+
+VOLUME: 5 | ISSUE: 1 | 2021 | June
+(continued from previous page)
+ﬁrst
+layer
+neuron
+second
+layer
+neuron
+train
+test
+10
+7
+1.27E-08
+5.772461
+74
+"This is an Open Access article distributed under the terms of the Creative Commons Attribution License,
+which permits unrestricted use, distribution, and reproduction in any medium provided the original work is
+properly cited (CC BY 4.0)."
+
+
+----- TABLE p25#1 -----
+
+first
+layer
+neuron | second
+layer
+neuron | train | test
+10 | 7 | 1.27E-08 | 5.772461

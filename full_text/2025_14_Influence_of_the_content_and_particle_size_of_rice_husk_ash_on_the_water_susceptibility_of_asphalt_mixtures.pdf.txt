@@ -1,0 +1,769 @@
+
+===== PAGE 1 =====
+
+SCIÉNDO INGENIUM 
+ 
+ 
+           
+     
+ISSN 3084-7788 (En línea) Scién. inge. 21(2): 69-79, (2025) 
+Fecha de envío: 14-05-2025  Fecha de aceptación: 20-06-2025 
+Fecha de publicación: 28-07-2025 
+ 
+Influence of the content and particle size of rice husk ash on the water 
+susceptibility of asphalt mixtures 
+ Daniel Martínez-Cerna 1, * 
+; Cinthya Alvarado 2 
+ 
+ 
+ 
+1 Facultad de Ingeniería, Universidad Nacional de Trujillo, Av. Juan Pablo II s/n – Ciudad Universitaria, Trujillo, Perú.  
+2 Departamento de Ingeniería Civil, Arquitectura y Urbanismo, Universidad Nacional de Trujillo, Av. Juan Pablo II s/n – 
+Ciudad Universitaria, Trujillo, Perú.  
+ 
+ 
+* Autor correspondiente: dmartinezc@unitru.edu.pe (D. Martínez-Cerna)                 DOI: 10.17268/scien.inge.2025.02.05 
+ABSTRACT 
+This study investigates how rice husk ash (RHA) content and particle size influence the water susceptibility 
+of asphalt mixes. A two-factor experiment was conducted, varying RHA proportions (2.5%, 5.0%, and 7.5%) 
+and particle sizes (149, 74, and 53 µm). The RHA, sourced from agro-industrial wastes in Trujillo, Peru, was 
+previously analyzed by, scanning electron microscopy (SEM) showed irregular, porous, and angular particles, 
+typical of ashes produced at moderate temperatures, which enhance binder interaction and internal friction. 
+The ash analysis also identified crystalline phases like cristobalite and quartz, suggesting chemical reactivity. 
+Coarse and fine aggregates met Peruvian standards for durability and wear resistance. The optimal asphalt 
+cement content was 4.39%, balancing cohesion, stability, and air voids. The experimental results indicate that 
+adding 5.0% RHA, especially with particle sizes smaller than 53 µm, significantly improves the mixture's 
+resistance to moisture damage. This not only enhances the longevity of pavements but also promotes sustain-
+ability by incorporating waste materials into road construction. The incorporation of RHA not only improves 
+the technical performance of asphalt mixtures, but also represents an environmentally beneficial strategy by 
+reusing an abundant agricultural waste, reducing the environmental impact and promoting a circular economy. 
+Keywords: asphalt mixtures; water susceptibility; rice husk ash; stability; TSR Test. 
+1. INTRODUCTION 
+The incorporation of rice husk ash (RHA) into asphalt mixes has received much attention as a sustainable and 
+environmentally friendly alternative to traditional fillers. RHA, a by-product of rice husk combustion, offers 
+a promising solution to reduce the environmental impact and carbon footprint of asphalt production while 
+improving the mechanical properties of mixes. 
+Currently, climate change and global warming are a global concern, generating debates in both the public and 
+scientific spheres. In this context, the road pavement industry recognizes the importance of adopting more 
+sustainable alternatives in the design and production of asphalt mixtures (Valdés-Vidal et al., 2020). 
+The use of RHA in asphalt mixtures contributes to resource conservation by reducing the demand for natural 
+aggregates and mineral filler materials. This procedure helps preserve natural resources for future generations 
+and reduces the environmental impact associated with mining and quarrying activities (Jwaida et al., 2024) 
+(Mistry et al., 2023). Furthermore, RHA is a cost-effective alternative to traditional fillers, as it is obtained 
+from waste materials that are readily available and economical. The use of RHA in asphalt mixtures can gen-
+erate significant cost savings in pavement construction, making it an attractive option for sustainable infra-
+structure development (Mistry et al., 2023; Maha et al., 2022). 
+Asphalt pavement derived from nonrenewable crude oil (Lim et al., 2024) has been widely used in road engi-
+neering because of its favorable properties, such as flexibility, skid resistance, stress dissipation capacity, and 
+noise and dust reduction (Guo et al., 2020; Hussein et al., 2023). However, over time, exposure to vehicular 
+traffic and weather conditions, such as frequent rains, causes pavement wear, generating unevenness, pot-
+holes, and material detachment. In addition, poor drainage prevents the evacuation of moisture, which con-
+tributes to localized saturation of the pavement and favors the formation of potholes and the loosening of 
+asphalt (Kim & Le, 2023; Sarkar & Elseifi, 2023). 
+Traditional pothole repair techniques, such interim fixes and cold patching, are frequently ephemeral because 
+they break down in bad weather and with repeated traffic loads. Therefore, in order to guarantee more sus-
+
+
+===== PAGE 2 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+70 
+ 
+tainable road maintenance, it is imperative to create materials with enhanced moisture resistance and durabil-
+ity (Lee & Le, 2024). 
+A key element in this context is the asphalt mix, a material composed of asphalt as a binder, aggregates, and 
+voids (Hayder et al., 2018). Asphalt, obtained by distilling petroleum, is an essential component in the con-
+struction of roads, highways, and airports (Bastidas-Martínez et al., 2024), as the performance of asphalt mix-
+tures depends to a large extent on the bitumen used (Sajadi et al., 2025). However, asphalt is a material that is 
+sensitive to temperature, and variations in temperature can have a significant impact on its viscoelastic char-
+acteristics (Liu et al., 2023). 
+Recent advances in asphalt pavements include the incorporation of polymers to improve performance, reduce 
+rutting, reduce susceptibility to water, and mitigate cracking (Kosma et al., 2017; Zhu et al., 2023; Vargas & 
+Hanandeh, 2022). These polymers are thicker than regular asphalt binders and stick better to the materials 
+used in the pavement, leading to thicker layers that resist damage from air and help the asphalt last longer 
+(Bassheet & Latief, 2025; Ye & Zhao, 2023). 
+The susceptibility of asphalt pavements to moisture degradation is being investigated by researchers world-
+wide (Valentin et al., 2021). This degradation increases the development of ruts, fractures, and potholes by 
+decreasing the pavement's stiffness and load-bearing capacity (Jweihan et al., 2023; Zarroodi et al., 2023). 
+Water leaking into the pavement surface affects the adhesion between the aggregates and the binder, which 
+eventually leads to asphalt loosening. 
+The cohesiveness and adherence of the asphalt mixture's particles must be sufficiently enough to keep them 
+from separating when water is present in order for it to be moisture-resistant (Peyman, 2016). According to 
+Cao et al. (2023), the asphalt binder's acid number has a significant role in the mixture's cohesiveness, and 
+moisture damage often happens more around bigger aggregate particles than around the filler (Antunes et al., 
+2015). Beginning with a negative pressure brought on by vehicle loads, this phenomenon causes pumping, 
+which gradually erodes the asphalt-aggregate interface and speeds up their dissociation. Asphalt mixes' me-
+chanical and physical qualities deteriorate due to the spread of microcracks and weakness at contact areas, 
+which can result in water damage and other issues on the pavement surface. Failures in asphalt cohesiveness 
+and adherence to aggregates may result from such deterioration (Adwar & Albayati, 2024). 
+Because acidity is frequently associated with SiO₂ content, using mineral fillers might reduce the sensitivity 
+of asphalt mixtures to temperature and moisture fluctuations, particularly if the fillers aren't very acidic (Val-
+entin et al., 2021). The performance of the pavement is also influenced by the particular gravity, size, porosi-
+ty, texture, shape, and particle size distribution of the filler. Performance of pavement is also influenced by 
+the size, texture, shape, porosity, specific gravity, and particle size distribution of the filler (Zangooeinia et al., 
+2023). 
+To guarantee the mixture's impermeability, a sufficient quantity of compacted bitumen must be present (Ali-
+reza & Rezvan, 2021). 
+Li et al. (2020) found that biomaterials such as rice husk ash had both hydrophobic and hydrophilic compo-
+nents that alter the chemical characteristics of asphalt binder. Moreover, these biomaterials enhance the rigid-
+ity of the binder and augment adhesion with aggregates. Shenyang et al. (2021) discovered that the quantit y 
+of SiO₂ in aggregates and their roughness significantly influence the water retention capacity of the asphalt-
+aggregate system. 
+Ash from rice husk combustion is a residue generated as a result of the incineration of this agricultural by -
+product (Kumar et al., 2022). Husks, which constitute the external coating of the rice grain and are obtained 
+during the milling process, represent the total weight of the grain (Hidayat et al., 2023). Globally, its genera-
+tion is considerable, given that about 20% of world rice production—which exceeds 545 million metric tons 
+per year—corresponds to this residue (Chilaka et al., 2022). Due to its substantial caloric value of around 
+3281.6 kcal per kilogram, rice husk has emerged as an alternative energy source, particularly in thermal ap-
+plications such as brick production (Liou et al., 2023).  The material is processed at controlled temperatures 
+between 700 and 900 °C to produce RHA (Zangooeinia et al., 2023).  At these temperatures, organic compo-
+nents like cellulose, hemicellulose, and lignin are nearly entirely decomposed, resulting in a silica -rich ash 
+with characteristics applicable in several industrial sectors. 
+In the specific case of Peru, the Ministry of Agrarian Development and Irrigation of Peru (2024) has identi-
+fied the region of La Libertad as one of the most important in terms of agroindustrial production. There, rice 
+is positioned as the second most important crop in terms of harvested area, reaching 30 thousand hectares and 
+generating close to 300 thousand tons of product annually. However, despite this high production volume, the 
+management of the resulting husk remains inefficient. A minority of it is used as fuel in industries such as the 
+
+
+===== PAGE 3 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+71 
+ 
+brick industry, while most of it is burned near the milling centers without taking advantage of its energy val-
+ue or its potential as a reusable input. 
+There are several advantages of using agro-industrial and industrial waste, including rice husk ash, to make 
+asphalt mixtures (Trevizan et al., 2023). These include preserving natural resources, lessening the influence 
+on the environment (Camargo-Perez et al., 2024; Raj et al., 2022), and cutting down on building expenses 
+and the carbon footprint (Ram & Ramakrishna, 2022) Accordingly, it was shown that while adding rice husk 
+ash reduces indirect tensile strength, it increases Marshall stiffness. Additionally, higher dynamic modulus 
+and creep values were noted. However, the mechanism of action of these additions remains unclear or insuf-
+ficiently studied, which limits their application. Therefore, we need to further analyze their microstructure 
+and performance characteristics (Zhu et al., 2024). 
+By lowering expenses and encouraging a more environmentally friendly approach, the utilization of industri-
+al waste materials, such as rice husk ash, not only improves the qualities of bitumen and asphalt but also pro-
+duces financial gains (Zangooeinia et al., 2023). 
+The indirect tensile strength ratio (TSR), which gauges the mixture's resistance to moisture damage, was one 
+of the most pertinent tests used in this investigation to assess the moisture resistance of asphalt mixes. An 
+increase in TSR values indicates lower sensitivity to moisture and higher stability of the asphalt to water 
+damage. The likelihood that the asphalt binder will disintegrate in the presence of moisture was also assessed 
+using other useful tests, such as water immersion tests and Marshall stability (retained stability index). These 
+tests make it possible to evaluate the quality of the adhesion from the beginning of the process (Al-Saffar, 
+2024). 
+In order to enhance pavement design for better performance in inclement weather, the primary objective of 
+this study is to determine how the quantity and size of rice husk ash impact the amount of water that asphalt 
+mixes can absorb. Along with determining the ideal proportion of asphalt cement in the mixture, the study 
+aims to describe the physical and chemical characteristics of the ash employed. As a consequence, the out-
+comes will not only further our understanding of civil engineering but also offer useful recommendations for 
+the use of sustainable and alternative materials in the building of road infrastructure. 
+2. METHODOLOGY 
+ 
+2.1 Object of study 
+ 
+The target universe were asphalt mixes, while the sample universe corresponds to asphalt mixes with rice 
+husk ash as a filler. The sample consists of an asphalt mix destined for roads in the province of Trujillo, in 
+the Department of La Libertad, Peru, for which briquettes with a diameter of 101.6 mm and a height of 63.5 
+mm were prepared, adjusted to the optimum percentage of asphalt cement. 
+ 
+2.2 Research design 
+ 
+were prepared, ensuring the repeatability and reliability of the results in the water susceptibility tests. This 
+study used an experimental methodology with a two-factor factorial design. The amount of rice husk ash 
+(RHA) and its particle size were modified to examine their impact on water susceptibility. The independent 
+variables were evaluated at three levels (2.5%, 5.0%, and 7.5% RHA; 149, 74, and 53 µm particle size), re-
+sulting in a total of nine experimental combinations. For each combination, three replicates plus three pat-
+terns were produced, giving a total of 30 briquettes compacted using the Marshall method. This replication 
+ensured the reliability of the results and allowed statistical analysis to be applied to validate the differences 
+observed. 
+ 
+2.3 Study variables 
+The present research had 3 variables (two independent variables and 1 dependent variable). The independent 
+variables were the amount of RHA, with three levels (2.5%, 5.0%, and 7.5%), and the particle size, with val-
+ues of 149, 74, and 53 µm. We evaluated the susceptibility to water, the dependent variable, based on the 
+different levels of the independent variables. 
+ 
+ 
+
+
+===== PAGE 4 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+72 
+ 
+2.4 Experimental procedure  
+ 
+The experimental procedure began with the acquisition and preparation of the materials. Coarse and fine ag-
+gregates were obtained from the Bauner S.A. quarry in Trujillo, Peru; rice husk ash from the Ceramirex brick 
+production plant in Trujillo, Peru; and asphalt cement from Chemimax S.A. in Lima, Peru.  
+RHA was analyzed by X-ray diffraction (XRD) to identify its crystalline structure. The aggregates were ex-
+amined using tests for particle size, wear resistance, weight and water absorption, plasticity limits, sand 
+quality, resistance to sulfates, soluble salts, broken surfaces, flat and long particles, and the methylene blue 
+test. After that, the mix design was improved using a formula from the Asphalt Institute to find the best 
+amount of asphalt cement, which was changed based on briquette tests to get the right void ratio. The asphalt 
+mix was made by drying and sorting the aggregates, heating them with the asphalt to certain temperatures for 
+mixing and compacting, and then shaping the compacted samples using the Marshall hammer.  
+In the stage for testing water susceptibility, the specimens were divided into dry and conditioned groups; the 
+conditioned group went through a process of vacuum saturation, freezing, thawing, and heating to simulate 
+moisture damage.  Finally, the indirect tension test was done to check how strong the specimens were and to 
+find out the stress-to-retained-stress ratio (TSR), which helped assess how well the asphalt mixture handles 
+water. For a better understanding of the procedure, see Figure 1, which presents a summary of the experi-
+mental procedure. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Graphical summary of the experimental procedure 
+3. RESULTS AND DISCUSSIONS 
+3.1 Research design 
+ 
+were prepared, ensuring the repeatability and reliability of the results in the water susceptibility tests. This 
+study used an experimental methodology with a two-factor factorial design. The amount of rice husk ash 
+(RHA) and its particle size were modified to examine their impact on water susceptibility. The independent 
+variables were evaluated at three levels (2.5%, 5.0%, and 7.5% RHA; 149, 74, and 53 µm particle size), re-
+sulting in a total of nine experimental combinations. For each combination, three replicates plus three pat-
+terns were produced, giving a total of 30 briquettes compacted using the Marshall method. This replication 
+ensured the reliability of the results and allowed statistical analysis to be applied to validate the differences 
+observed. 
+ 
+Table 1. Semiquantitative chemical analysis  
+ 
+The X-ray fluorescence (XRF) characterization used in this work is based on the data reported by Alvarado et al. (2023). 
+ 
+ 
+Chemical 
+Compound  
+SiO2 
+Al2O3 
+CaO 
+SO3 
+Fe2O3 
+MgO 
+Na2O 
+K2O 
+P2O5 
+Cl 
+TiO2 
+SrO 
+MnO 
+LOI 
+% 
+61.13 
+6.89 
+0.62 
+1.19 
+1.44 
+0.53 
+0.37 
+1.72 
+0.37 
+0.15 
+0.28 
+0.01 
+0.08 
+25.2 
+
+
+===== PAGE 5 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+73 
+ 
+The morphology of rice husk ash (RHA) was analyzed by scanning electron microscopy (SEM), observed at 
+a magnification of 2500×, with an accelerating voltage of 20 kV and a field of view of 83.0 µm (Figure 2). 
+The image shows particles with irregular shapes, angular edges and rough surfaces, with a heterogeneous size 
+distribution. This morphology is typical of partially amorphous ashes obtained by combustion at moderate 
+temperatures without atmospheric control, as in brick kilns. The porous and angular texture of the particles 
+favors interaction with the asphalt binder, which can improve adhesion, increase internal friction and, conse-
+quently, contribute to greater structural stability of the mixture, in addition to reducing susceptibility to mois-
+ture damage. 
+ 
+Figure 2. Microstructure of RHA studied at 2500× 
+Figure 3 shows the results of the X-ray diffraction (XRD) analysis of the RHA, which identified cristobalite 
+(C) and quartz (Q) as the main crystal types, indicated by strong peaks at certain angles, suggesting that part 
+of the material was exposed to high temperatures during combustion. However, this finding seems contradic-
+tory in light of the high loss on ignition value (25.2%), which indicates the presence of organic material and 
+suggests that not all of the mass reached sufficiently high temperatures uniformly. This duality is common in 
+combustion processes with poor thermal control, such as brick kilns, where both crystalline phases and a sig-
+nificant amorphous fraction with high pozzolanic potential are formed. The X-ray diffractogram of RHA 
+indicates the presence of dominant crystalline phases, specifically cristobalite and quartz, identified by dif-
+fraction peaks at 2θ ≈ 21.9° and 2θ ≈ 26.6°, respectively. The formation of cristobalite confirms that the sam-
+ple underwent high temperatures during calcination, aligning with the transformation of silica to this phase at 
+elevated temperatures. Conversely, quartz, indicated by the peak at 2θ ≈ 26.6°, is characteristic of the silica 
+phase typically found in calcined plant-derived materials (Muhammad et al., 2019). The low-angle region 
+confirms the presence of an amorphous fraction in the sample, which is common in ashes subjected to con-
+trolled combustion without achieving full crystallinity. This amorphous fraction exhibits high pozzolanic 
+reactivity, enhancing the potential of RHA as a cementitious material. 
+ 
+Figure 3. XRD diffractogram of RHA 
+
+
+===== PAGE 6 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+74 
+ 
+The particle sizes of the RHA were obtained by dry mechanical sieving, using laboratory sieves with stand-
+ard ASTM mesh openings (No. 100, 200, and 270), corresponding to 149, 74, and 53 µm, respectively. This 
+particle size classification allowed the specific effect of each fraction on the water susceptibility of the as-
+phalt mixtures to be evaluated. 
+3.2 Aggregate characterization  
+The results of the tests conducted on coarse and fine aggregates to assess their characteristics in accordance 
+with defined criteria are presented in Table 2.  All tests meet the established criteria, thereby underscoring the 
+material's appropriateness for incorporation into asphalt mixtures. The strength and durability of the finished 
+mix are influenced by the quality of the coarse and fine aggregates, thus the results of assessing their me-
+chanical and physical characteristics in accordance with Ministry of Transport and Communications of Peru 
+(2013) regulations are crucial.   
+For coarse and fine aggregates, the durability test using magnesium sulfate yielded results of 6.47 percent and 
+11.62 percent, respectively, both falling within the 18 percent limit, indicating a good resistance of the aggre-
+gates against disintegration by the action of aggressive agents.  In pavements exposed to unfavorable weather 
+conditions, this outcome is crucial for preventing premature failures.  The coarse aggregate's Los Angeles 
+abrasion value of 20% is less than the permitted limit of 40%, indicating its high wear resistance, which 
+keeps the mix stable and lessens surface damage from heavy traffic. 
+The content of flat and elongated particles was 6.5%, complying with the maximum 10% requirement. This 
+measurement is relevant since particles of unfavorable geometry can negatively affect the workability and 
+compaction of the mix, while a good distribution and shape of the particles improve the density, which con-
+tributes to greater strength and durability of the pavement.  
+The percentage of fractured faces, 0.23%, is much lower than the limit of 1.7%, showing that the aggregate 
+has a shape that helps it stick to the asphalt binder; this feature enhances the mix's internal strength and its 
+ability to withstand pressure and sliding from vehicles. 
+The total soluble salts in the coarse aggregate were 0.35% and in the fine aggregate were 0.23%, both below 
+the 0.5% limit, which is important to stop internal reactions that could weaken the pavement; having low 
+soluble salts helps prevent issues like efflorescence or damage from harmful chemical reactions.  
+For water absorption, the coarse and fine aggregates had values of 0.44% and 0.46%, respectively, both un-
+der the 0.5% limit, indicating that the aggregates can absorb water in a controlled way, which helps avoid 
+moisture problems in the mix that could weaken it when exposed to water for a long time. 
+Conversely, the sand equivalent, which is 88.10%, exceeds the minimum requirement of 60%. This indicates 
+that the mix is lacking in detrimental fine material, such as clays, which could potentially compromise its 
+cohesion and adhesion.   
+Furthermore, the methylene blue test result of 3.7 % is below the 8% limit, indicating that the asphalt mix is 
+both durable and strong due to the low quantity of harmful clay and the high level of cleanliness.   Ultimately, 
+the plasticity index was determined to be "NP" (non-plastic), which is advantageous due to the potential for 
+excessive plasticity to compromise the mix's capacity to withstand repeated pressure. 
+ 
+Table 2. Aggregate characteristics 
+ 
+TEST 
+COARSE 
+AGGREGATE 
+FINE 
+AGGREGATE 
+REQUIREMENT 
+OBSERVATION 
+Magnesium sulfate durability 
+6.47 
+11.62 
+18 % máx. 
+Complies 
+Abrasion angels 
+20 
+- 
+40 % máx. 
+Complies 
+Flat and elongated particles 
+6.5 
+- 
+10 % máx. 
+Complies 
+Fractured faces 
+0.23 
+- 
+1,7 % 
+Complies 
+Total soluble salts 
+0.35 
+0.23 
+0.5 % máx. 
+Complies 
+Absorption 
+0.44 
+0.46 
+0.5 máx. 
+Complies 
+Sand equivalent 
+- 
+88.10 
+60 
+Complies 
+Methylene blue 
+- 
+3.7 
+8 % máx. 
+Complies 
+Plasticity index 
+- 
+NP 
+4 % máx. 
+Complies 
+3.3 Determination of the optimum asphalt cement percentage  
+The inverse relationship between the percentage of asphalt cement and the percentage of air cavities in the 
+asphalt mix is illustrated in Figure 4.  
+
+
+===== PAGE 7 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+75 
+ 
+As the asphalt cement content increases, the percentage of air voids decreases, which is essential to ensure a 
+compact, well-cohesive mix. This adequate void level helps reduce permeability and minimizes exudation 
+problems, improving the pavement's fatigue resistance, stability, and durability, which is key to prolonging 
+the service life of the pavement in service conditions.  
+ 
+Determining the optimal amount of asphalt cement is crucial to ensure the right performance of the asphalt 
+mix, as it affects its mechanical qualities and durability.   
+This study employed the trend equation derived from the relationship between asphalt cement content and air 
+voids: y = -3.2857x + 18.438, as illustrated in Figure 3. By substituting y = 4%, we derived an optimal value 
+of 4.39% asphalt cement.  This number generates a composition with an optimal distribution of voids, miti-
+gating problems such as water infiltration and oil seepage, while ensuring effective adhesion of components, 
+hence enhancing the pavement's durability, stability, and longevity.  
+An appropriate asphalt cement percentage facilitates adequate compaction, diminishing the likelihood of ruts 
+and water damage; however, an excessive or insufficient percentage may compromise the pavement's 
+lifespan by permitting moisture or air ingress, accelerating its deterioration. 
+ The standard mix consisted of 44.02% coarse aggregate (gravel), 55.98% fine aggregate (sand), and 4.39% 
+asphalt cement, corresponding to the previously determined optimum percentage. No additional mineral filler 
+was incorporated into this base mix. In the modified mixtures, rice husk ash (RHA) was added as a supple-
+mentary material in proportions of 2.5%, 5.0%, and 7.5%, based on the total weight of the mixture. This ad-
+dition did not replace any component but was considered an additional percentage of the standard mixture. 
+The void volume in the mineral aggregate (VMA) of the standard mixture was 13.35%, with a void volume 
+filled with asphalt (VFA) of 72.33%. In the mixtures with RHA added, the VMA varied between 12% and 
+17%, while the VFA ranged between 72% and 80%, which shows that the incorporation of ash altered the 
+internal structure of the mixture, affecting asphalt retention and compaction density in a manner dependent 
+on the content and particle size used. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4. Percentage of air voids as a function of asphalt cement content. 
+3.4 Susceptibility to water 
+Figure 5 illustrates the variation in water sensitivity of asphalt mixtures with varying proportions of RHA 
+(2.5%, 5.0%, and 7.5%) and particle sizes (150, 75, and 53 µm), in relation to a standard reference value. The 
+horizontal axis denotes the quantity of RHA added, whilst the vertical axis signifies the degree of water sus-
+ceptibility, expressed as a percentage. As particle size diminishes, water susceptibility escalates across all 
+studied quantities of RHA, reaching a maximum at a particle size of 53 µm. In contrast, as the quantity of 
+RHA increases, water susceptibility escalates, reaching a maximum at 5% RHA across all studied particle 
+sizes. This evidence indicates that the size of the particles and the amount of RHA added affect how asphalt 
+mixtures react to water, which is important for making them last longer in wet conditions. 
+This data indicates that increasing water susceptibility is advantageous until it attains an optimal level (5.0% 
+
+
+===== PAGE 8 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+76 
+ 
+RHA), beyond which additional modifications may cease to benefit the mixture.  Moreover, it is noted that 
+smaller particle sizes, such as 53 µm, exhibit greater susceptibility to water than bigger sizes, indicating that 
+finer particles enhance the mixture's responsiveness to water. 
+The pattern illustrated in the figure can be comprehended by examining the impact of RHA particle size on 
+the asphalt mixture; smaller particles, such as those measuring 53 µm, possess a larger surface area. The in-
+creased surface area facilitates superior integration of RHA particles with asphalt cement and promotes uni-
+form interaction with aggregates, resulting in a more robust bond that reduces water entry. RHA enhances 
+this susceptibility owing to its distinctive physical and chemical characteristics. When amalgamated with 
+asphalt cement, the ash can create a denser and less permeable structure, so enhancing the cohesion of the 
+asphalt mixture and augmenting its water resistance.  The dimensions of the ash particles are critical; diminu-
+tive RHA particles integrate more efficiently into the interstices between the aggregates.  The filling effect, 
+along with the development of supplementary bonds between the cement and ash, improves material adhe-
+sion and decreases water absorption, thus rendering the mixture more robust and less susceptible to moisture 
+damage. 
+However, when the RHA content goes above 5.0%, the mixture becomes less dense and compact because too 
+many particles create more gaps (segregations), allowing more water to be absorbed, which makes it more 
+vulnerable. This phenomenon happens because having too much RHA creates more spaces for water to get in 
+or makes the mixture less firm, reducing its ability to resist moisture. 
+When comparing our results with those of Mahto et al. (2024), which similarly utilized rice husk ash, it is 
+evident that in both investigations, the RHA improves the properties of the mixture, notably its cohesion and 
+moisture resistance.  In this work, we see that the particle size of RHA significantly influences its behavior, 
+with smaller particles, such as those measuring 53 µm, being more susceptible to water due to their larger 
+surface area, which enhances their integration with asphalt cement and adhesion.  This study demonstrates a 
+more pronounced effect of RHA particle size, indicating that smaller particles, such as those measuring 53 
+µm, are more influenced by water due to their increased surface area, which facilitates superior integration 
+with asphalt cement and enhances adhesion.  Conversely, the research conducted by Deb et al. (2023) 
+demonstrates that the use of rice husk ash markedly enhances the characteristics of asphalt mixtures, resulting 
+in improved mechanical properties.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5. Water susceptibility of asphalt mixtures as a function of RHA content and particle size. 
+4. CONCLUSIONS 
+This study confirmed that rice husk ash (RHA), derived from agro-industrial waste, can be effectively used as 
+an additive in asphalt mixtures. It was observed that both the quantity and size of RHA particles directly in-
+fluence moisture resistance. In particular, the addition of 5% ash with a size of 53 µm offered the best results, 
+improving the internal cohesion of the mixture and increasing its resistance to water damage. The mixtures 
+modified with RHA showed variations in their volumetric properties: the VMA ranged between 12% and 
+17%, and the VFA between 72% and 80%, compared to the values of the standard mixture (VMA of 13.35% 
+and VFA of 72.33%). These changes reflect how ash interacts with asphalt cement and aggregates, promoting 
+better binder distribution and greater compaction when fine particles are used. In addition to the technical 
+contribution, the use of RHA also represents an environmentally responsible option. Taking advantage of this 
+
+
+===== PAGE 9 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+77 
+ 
+agricultural waste helps reduce the use of traditional materials and supports more sustainable practices in 
+road construction. In contexts where the aim is to improve pavement durability and reduce environmental 
+impact, RHA appears as a practical, economical alternative that is aligned with the principles of the circular 
+economy. 
+BIBLIOGRAPHICAL REFERENCES 
+ 
+Adwar, N. N., & Albayati, A. H. (2024). Enhancing Moisture Damage Resistance in Asphalt Concrete: The 
+Role of Mix Variables, Hydrated Lime and Nanomaterials. Infrastructures, 9(10), 173–173. 
+https://doi.org/10.3390/infrastructures9100173  
+Alireza A., & Rezvan B. (2021). Evaluation of the Influence of Antistripping Agents on Water Sensitivity of 
+the Stone Matrix Asphalt Mixture Modified by Recycled Ground Tire Rubber and Waste Polyethylene 
+Terephthalate. 
+Advances 
+in 
+Materials 
+Science 
+and 
+Engineering, 
+2021, 
+1–18. 
+https://doi.org/10.1155/2021/8029702  
+Al-Saffar, Z. H., Mohamed H., & Oleiwi A., S.  (2024). Exploring the Efficacy of Amine-Free Anti-Stripping 
+Agent 
+in 
+Improving 
+Asphalt 
+Characteristics. 
+Infrastructures, 
+9(2), 
+25. 
+https://doi.org/10.3390/infrastructures9020025  
+Alvarado, C., Martínez-Cerna, D., & Hernán Alvarado-Quintana. (2023). Geopolymer Made from Kaolin, 
+Diatomite, and Rice Husk Ash for Ceiling Thermal Insulation. Buildings, 14(1), 112 –112. 
+https://doi.org/10.3390/buildings14010112  
+Antunes, V., Freire, A. C., Quaresma, L., & R. Micaelo. (2015). Effect of the chemical composition of fillers 
+in 
+the 
+filler–bitumen 
+interaction. 
+Construction 
+and 
+Building 
+Materials, 
+104, 
+85–91. 
+https://doi.org/10.1016/j.conbuildmat.2015.12.042 
+Bassheet, S. & Latief, R. (2025) Impact of Using Polyethylene Polymer on Properties of Hot Asphalt Mixture 
+by Conducting Semi-Wet and Dry Mixing Process. International Journal of Engineering. Transactions 
+B: Applications, 38(5). https://doi.org/10.5829/ije.2025.38.05b.13 
+Bastidas-Martínez, J. G., Ruge, J. C., & Herrera Cano, C. E. (2024). Mechanical performance of an asphalt 
+stabilized base with natural asphalt, hydrated lime and Portland cement. Construction and Building Ma-
+terials, 446, 137938. https://doi.org/10.1016/j.conbuildmat.2024.137938  
+Camargo-Pérez, R., Moreno-Navarro, F., Alvarez, A. E., Walubita, L. F., & Fuentes, L. (2024). Influence of 
+recycled rice husk ash filler on the mechanical performance of asphalt mixtures: A mortar scale analy-
+sis. 
+Construction 
+and 
+Building 
+Materials, 
+414, 
+134832–134832. 
+https://doi.org/10.1016/j.conbuildmat.2023.134832  
+Cao, S., Li, P., Nan, X., Yi, Z., & Sun, M. (2023). Optimization of Aggregate Characteristic Parameters for 
+Asphalt Binder—Aggregate System under Moisture Susceptibility Condition Based on Random Forest 
+Analysis Model. Applied Sciences, 13(8), 4732–4732. https://doi.org/10.3390/app13084732  
+Chilaka, C., Kunnoth, B., Sridhar, Rao, P. V., Surampalli, R. Y., Zhang, T. C., & Puspendu B. (2022). Ef-
+fects of Different Parameters and Co-digestion Options on Anaerobic Digestion of Parboiled Rice Mill 
+Wastewater: a Review. BioEnergy Research, 17(2), 1191–1207. https://doi.org/10.1007/s12155-022-
+10522-1 
+Deb, P., Singh, &  Kh. Lakshman. (2023). Effect of Curing on Failure Characteristics of Cold Mix Asphalt 
+Containing Different Fillers. Iranian Journal of Science and Technology, Transactions of Civil Engi-
+neering, 47(4), 2467–2483. https://doi.org/10.1007/s40996-023-01035-8  
+Guo, F., Li, R., Lu, S., Bi, Y., & He, H. (2020). Evaluation of the Effect of Fiber Type, Length, and Content 
+on Asphalt Properties and Asphalt Mixture Performance. Materials, 13(7), 1556–1556. 
+https://doi.org/10.3390/ma13071556 
+Hayder K., Ruddock, F., & Atherton, W. (2018). A laboratory study of high-performance cold mix asphalt 
+mixtures reinforced with natural and synthetic fibres. Construction and Building Materials, 172, 166–
+175. https://doi.org/10.1016/j.conbuildmat.2018.03.252  
+Hidayat, R., A., Nissa, R. C., Sukamto, Nuraini, L., Nurtanto, M., & Ramadhani, W. S. (2023). Analysis of 
+rice husk biochar characteristics under different pyrolysis temperature. IOP Conference Series: Earth 
+and Environmental Science, 1201(1), 012095. https://doi.org/10.1088/1755-1315/1201/1/012095 
+Hussein, F. K., Ismael, M. Q., & Ghasan F. (2023). Rock Wool Fiber-Reinforced and Recycled Concrete 
+Aggregate-Imbued Hot Asphalt Mixtures: Design and Moisture Susceptibility Evaluation. Journal of 
+Composites Science, 7(10), 428–428. https://doi.org/10.3390/jcs7100428  
+Jwaida, Z., Quraishy, Q. A. A., Almuhanna, R. R. A., Dulaimi, A., Bernardo, L. F. A., & Andrade, J. M. de 
+A. (2024). The Use of Waste Fillers in Asphalt Mixtures: A Comprehensive Review.CivilEng. 
+https://doi.org/10.3390/civileng5040042 
+
+
+===== PAGE 10 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+78 
+ 
+Jweihan, Y. S., Al-Kheetan, M. J., & Rabi, M. (2023). Empirical Model for the Retained Stability Index of 
+Asphalt Mixtures Using Hybrid Machine Learning Approach. Applied System Innovation, 6(5), 93–93. 
+https://doi.org/10.3390/asi6050093 
+Kim, K., & Le, M. (2023). Feasibility of Pellet Material Incorporating Anti-Stripping Emulsifier and Slaked 
+Lime for Pothole Restoration. Buildings, 13(5), 1305–1305. https://doi.org/10.3390/buildings13051305  
+Kosma, V., Suren H., Diamanti, E., Ajay D., & Giannelis, E. P. (2017). Bitumen nanocomposites with im-
+proved 
+performance. 
+Construction 
+and 
+Building 
+Materials, 
+160, 
+30–38. 
+https://doi.org/10.1016/j.conbuildmat.2017.11.024  
+Kumar D., S., Adediran, A., Rodrigue Kaze, C., Mohammed Mustakim, S., & Leklou, N. (2022). Production, 
+characteristics, and utilization of rice husk ash in alkali activated materials: An overview of fresh and 
+hardened 
+state 
+properties. 
+Construction 
+and 
+Building 
+Materials, 
+345, 
+128341. 
+https://doi.org/10.1016/j.conbuildmat.2022.128341 
+Lee, S.-Y., & Le, M. (2024). Advanced Asphalt Mixtures for Tropical Climates Incorporating Pellet-Type 
+Slaked 
+Lime 
+and 
+Epoxy 
+Resin. 
+Journal 
+of 
+Composites 
+Science, 
+8(11), 
+442–442. 
+https://doi.org/10.3390/jcs8110442  
+Lim, S. M., He, M., Hao, G., Ng, T. C. A., & Ong, G. P. (2024). Recyclability potential of waste plastic-
+modified asphalt concrete with consideration to its environmental impact. Construction and Building 
+Materials, 439, 137299. https://doi.org/10.1016/j.conbuildmat.2024.137299 
+Liou, T.-H., Tseng, Y.-K., Zhang, T.-Y., Liu, Z.-S., & Chen, J.-Y. (2023). Rice husk char as a sustainable 
+material for the preparation of graphene oxide-supported biocarbons with mesoporous structure: A 
+characterization and adsorption study. Fuel, 344, 128042. https://doi.org/10.1016/j.fuel.2023.128042 
+Liu, S., Zhang, G., Gao, A., Niu, Q., Xie, S., Xu, B., & Pan, B. (2023). Study on the Performance of Phase-
+Change 
+Self-Regulating 
+Permeable 
+Asphalt 
+Pavement. 
+Buildings, 
+13(11), 
+2699–2699. 
+https://doi.org/10.3390/buildings13112699  
+Maha, M. R. A., Idham, M. K., Hainin, M. R., Naqibah, S. N., & Amirah, N. A. (2022). Application of Al-
+ternative Filler in Asphalt Mixture: An Overview from Indonesia Perspective.IOP Conference Series: 
+Earth and Environmental Science. https://doi.org/10.1088/1755-1315/971/1/012005 
+Mahto, S. K., Raju, N. K., & Nirala, S. K. (2024). Assessment of moisture susceptibility and stripping effect 
+in 
+wax 
+based 
+warm 
+mix 
+asphalt. 
+Innovative 
+Infrastructure 
+Solutions, 
+9(12). 
+https://doi.org/10.1007/s41062-024-01793-y 
+Ministry of Agrarian Development and Irrigation of Peru (2024). Perfil Productivo Agropecuario de La Li-
+bertad. Ministerio de Desarrollo Agrario y Riego. 
+Ministry of transport and communications of Peru (2013). Manual of materials testing.  
+Mistry, R., Roy, T. K., Aldagari, S., & Fini, E. H. (2023). Replacing Lime with Rice Husk Ash to Reduce 
+Carbon Footprint of Bituminous Mixtures.C. https://doi.org/10.3390/c9020037 
+Muhammad N., Syed H., Khan S., Khan, K., & Bibi, T. (2019). Pozzolanic Reactivity and the Influence of 
+Rice Husk Ash on Early-Age Autogenous Shrinkage of Concrete. Frontiers in Materials, 6. 
+https://doi.org/10.3389/fmats.2019.00150    
+Peyman M. (2016). Effect of zycotherm on moisture susceptibility of Warm Mix Asphalt mixtures prepared 
+with different aggregate types and gradations. Construction and Building Materials, 116, 403–412. 
+https://doi.org/10.1016/j.conbuildmat.2016.04.143  
+Raj, A., Sivakumar, M., & R. Anjaneyulu. (2022). Investigation of Curing and Strength Characteristics of 
+Cold-Mix Asphalt with Rice Husk Ash–Activated Fillers. Journal of Transportation Engineering Part 
+B Pavements, 148(4). https://doi.org/10.1061/jpeodx.0000408  
+Ram K., & Ramakrishna G. (2022). Performance evaluation of sustainable materials in roller compacted con-
+crete pavements: a state of art review. Journal of Building Pathology and Rehabilitation, 7(1). 
+https://doi.org/10.1007/s41024-022-00212-y 
+Sajadi, S. R., G. Shafabakhsh, & H. Divandari. (2025). Improving the Rutting Resistance of Bitumen and 
+Asphalt Mixtures using Polyurethane/Carbon Nanotube Composites. International Journal of Engineer-
+ing, 38(7), 1447–1461. https://doi.org/10.5829/ije.2025.38.07a.02  
+Sarkar, A., & Elseifi, M. A. (2023). Experimental evaluation of asphalt mixtures with emerging additives 
+against cracking and moisture damage. Journal 
+of 
+Road 
+Engineering, 3(4), 336–349. 
+https://doi.org/10.1016/j.jreng.2023.07.001  
+Shenyang, A. Mohammed-Noor K., H, Waleed J., N, & Abd Al-Hamza, M. (2021). Durability and Aging 
+Characteristics of Sustainable Paving Mixture. International Journal of Engineering. Transactions B: 
+Applications, 34(8). https://doi.org/10.5829/ije.2021.34.08b.07  
+Trevizan P., Rosa, F. D., & Korf, E. P. (2023). Durability, Long-Term, and Environmental Evaluation of 
+Alkali-Activated Alternative Soluble Silica Source for Recycled Asphalt Pavement Stabiliza-
+tion. Journal of Materials in Civil Engineering, 36(2). https://doi.org/10.1061/jmcee7.mteng-16168 
+
+
+===== PAGE 11 =====
+
+Martínez- Cerna, D.; Alvarado, C., Sciéndo ingenium, v. 21, n. 2, pp. 69 – 79, 2025. 
+79 
+ 
+Valdés-Vidal, Calabi-Floody, Sanchez-Alonso, Díaz, & Fonseca, (2020). Highway trial sections: Perfor-
+mance evaluation of warm mix asphalt and recycled warm mix asphalt. Construction and Building Ma-
+terials, 262, 120069–120069. https://doi.org/10.1016/j.conbuildmat.2020.120069  
+Valentin, J., J. Trejbal, V. Nežerka, T. Valentová, & Faltus, M. (2021). Characterization of quarry dusts and 
+industrial by-products as potential substitutes for traditional fillers and their impact on water susceptibil-
+ity 
+of 
+asphalt 
+concrete. 
+Construction 
+and 
+Building 
+Materials, 
+301, 
+124294–124294. 
+https://doi.org/10.1016/j.conbuildmat.2021.124294  
+Vargas, C., & Hanandeh, A. E. (2022). Features Importance and Their Impacts on the Properties of Asphalt 
+Mixture Modified with Plastic Waste: A Machine Learning Modeling Approach. International Journal 
+of Pavement Research and Technology, 16(6), 1555–1582. https://doi.org/10.1007/s42947-022-00213-7  
+Ye, Z., & Zhao, Y. (2023). Polyolefin Elastomer Modified Asphalt: Performance Characterization and Modi-
+fication Mechanism. Buildings, 13(5), 1291–1291. https://doi.org/10.3390/buildings13051291 
+Zangooeinia, P., Moazami, D., Bilondi, M. P., & Zaresefat, M. (2023). Improvement of pavement engineer-
+ing properties with calcium carbide residue (CCR) as filler in Stone Mastic Asphalt. Results in Engi-
+neering, 20, 101501. https://doi.org/10.1016/j.rineng.2023.101501   
+Zarroodi, R., Hashjin, N. G., Faraji, M., & Payami, M. (2023). The investigation of surface free energy com-
+ponents and moisture sensitivity damage of asphalt mixes modified with carbon black using the sessile 
+drop method. SN Applied Sciences, 5(11). https://doi.org/10.1007/s42452-023-05513-6  
+Zhu, C., Zhang, H., Wang, Z., Guo, X., & Li, J. (2024). Microstructure and road performance of emulsified 
+asphalt cold recycled mixture containing waste additives and/or cement. Construction and Building Ma-
+terials, 448, 138199. https://doi.org/10.1016/j.conbuildmat.2024.138199  
+Zhu, J., Saberian, M., Li, J., Yaghoubi, E., & Rahman, M. T. (2023). Sustainable use of COVID-19 discarded 
+face masks to improve the performance of stone mastic asphalt. Construction and Building Mate-
+rials, 398, 132524–132524. https://doi.org/10.1016/j.conbuildmat.2023.132524  
+ 
+  

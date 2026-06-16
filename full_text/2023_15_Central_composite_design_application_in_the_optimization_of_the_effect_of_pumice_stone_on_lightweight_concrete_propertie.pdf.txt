@@ -1,0 +1,994 @@
+
+===== PAGE 1 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+Available online 24 February 2023
+2214-5095/© 2023 The Authors.
+Published by Elsevier Ltd.
+This is an open access article under the CC BY-NC-ND license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Central composite design application in the optimization of the 
+effect of pumice stone on lightweight concrete properties 
+using RSM 
+Mujahid Ali a,b,*, Abhinav Kumar c, A. Yvaz d, Bashir Salah e 
+a Department of Transport Systems, Traffic Engineering and Logistics, Faculty of Transport and Aviation Engineering, Silesian University of 
+Technology, Krasi´nskiego 8 Street, 40-019 Katowice, Poland 
+b Department of Civil Engineering, Faculty of Engineering, Universiti Malaya, Kuala Lumpur 50603, Malaysia 
+c Department of Nuclear and Renewable Energy, Ural Federal University Named After the First President of Russia, Boris Yeltsin, 19 Mira Street, 
+620002 Ekaterinburg, Russia 
+d World-Class Research Center “Advanced Digital Technologies”, State Marine Technical University, Saint Petersburg 190121 Russia 
+e Department of Industrial Engineering, College of Engineering, King Saud University, P.O. Box 800, Riyadh 11421, Saudi Arabia   
+A R T I C L E  I N F O   
+Keywords: 
+Lightweight aggregate concrete 
+Compressive strength 
+Split tensile strength 
+Pumice stone 
+Response surface methodology 
+Central composite design application 
+A B S T R A C T   
+Among other lightweight aggregates, one choice is pumice stone (PS), which can replace coarse 
+aggregates in concrete. In this study, the natural coarse aggregates are replaced by various per­
+centages of PS in concrete to examine its physical and mechanical properties. Experiments are 
+designed to prepare mixtures (by varying ratios of PS) using response surface methodology 
+(RSM). Slump and compaction factor tests are used to investigate the fresh properties, such as the 
+workability of concrete. In contrast, the hardened concrete properties are determined using 
+compressive strength (CS), flexural strength (FS), and split tensile strength (STS). The experi­
+mental, optimization and validation of the model results show that up to 30% of the PS can be 
+replaced in the lightweight aggregate concrete for 7 – 56 curing days in which the CS is greater 
+than 15 MPa, STS is 7–12% of the CS, and FS is 9 – 11% of the CS. Therefore, the optimum CS for 
+the current study ranges from 17 to 20 MPa, in which the STS is 9.39 – 10.54% of the CS, and FS 
+ranges from 17.49% to 21.12% of the CS. The quadratic model was proposed, and the ANOVA and 
+model fitness was produced through RSM, with the coefficient of determination (R2) above 0.99 
+(99%) for all three responses representing the high importance of the suggested model. Besides, 
+the difference among the R2 and adjusted R2 was negligible, and the P-Value for CS, STS, and FS 
+was below 0.05 (<0.0001), indicating the model’s high relevance. RSM was used to improve the 
+model, which was then verified in further lab trials.   
+1. Introduction 
+The use for construction materials demand is increased due to infrastructure development worldwide. Natural coarse and fine 
+aggregates are the main constituents of construction and building materials. Due to its versatile concrete applications, rapid 
+* Corresponding author at: Department of Transport Systems, Traffic Engineering and Logistics, Faculty of Transport and Aviation Engineering, 
+Silesian University of Technology, Krasi´nskiego 8 Street, 40-019 Katowice, Poland. 
+E-mail address: mujahid_19001704@utp.edu.my (M. Ali).  
+Contents lists available at ScienceDirect 
+Case Studies in Construction Materials 
+journal homepage: www.elsevier.com/locate/cscm 
+https://doi.org/10.1016/j.cscm.2023.e01958 
+Received 2 January 2023; Received in revised form 9 February 2023; Accepted 23 February 2023   
+
+
+===== PAGE 2 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+2
+urbanization, and industrialization, it is the material of choice for mankind. Portland Cement, coarse and fine aggregate are the three 
+main forms of modern concrete that have a specific role in the concrete mix design and are mostly generated from natural resources. 
+Due to rapid infrastructure and development, concrete is used in abundance, degrading natural resources. Therefore, the researchers 
+are now looking forward to reducing the use of natural coarse aggregates by replacing them at varying percentages [1,2] or fully [3] in 
+concrete with different other abundant nature aggregates such as pumice stone [4]. 
+In recent and past studies, several industrial wastes are utilized in the concrete as a cement replacement, such as ash from timber 
+[5], fly ash [6], glass polishing power [7], wood fiber waste [8], rice husk ash [9], limestone powder [10], demolition materials [11], 
+calcium carbonate residues [12], and ceramic powder wastes [13]. However, some waste is used as a natural fine aggregate 
+replacement, such as waste foundry sand [14], recycled glass [15], plastic [16], and rubber [17]. Besides, E-plastic waste [1], recycled 
+concrete aggregate and ceramic waste [18], wood waste [19], and agro-waste [2] are used as a replacement for pure grainy aggregate 
+in the concrete mix design and investigate the concrete properties. Regardless of the waste mentioned above, materials and industrial 
+by-product waste, Lightweight Aggregate Pumice Stone (PS) are also highlighted in the literature as a replacement of pure coarse 
+aggregate in concrete. 
+Several studies are conducted on PS worldwide as a natural coarse aggregate replacement to investigate the strength properties, 
+economic, and environmental benefits. Regarding the economic benefits, its vary from country to country. For instance, M. Saltan and 
+F. Selcan Fındık (2004) conducted a study on the use of PS in flexible pavement and conclude the cost of 4.500$ per unit length for 
+Turkey [20]. Besides, other researchers concluded ranging between $4 - $10 whereas natural stones are usually between $10 - $15. 
+Using PS as a preferential substitute for natural coarse aggregate can provide environmental as well as economic benefits by suc­
+cessfully utilizing waste resources that are available in abundant [21]. 
+ACI 213R-87, 1998 defines lightweight structural concrete as concrete containing a density among 1350 and 1900 kg/m3 and 
+minimum strength properties of 17 MPa. Over the last twenty years, there has been a significant increase in the understanding and 
+implementation of high-strength, lightweight concrete based on artificial lightweight particles [22–24]. Pumice is a volcanic 
+sponge-like substance formed by abruptly freezing magma and catching millions of microscopic air bubbles [25,26]. Pumice aggre­
+gates are widespread on the edges of volcanic regions, notably in the Mediterranean region, the majority of Indonesia and Turkey, and 
+the Rocky Mountains of the United States [27]. However, modest research has proven that structural concrete with strength properties 
+up to 25 MPa may be manufactured with sufficient economic advantages [28–30]. 
+Idi et al., and Sultan et al., also concluded that pumice stones have produced a slightly lower compressive strength associated with 
+standard concrete meaning that there is a demand intended for additional materials to maintain the compressive strength at a lighter 
+weight [21,31]. However, up to 50% replacement, the concrete incorporating PS can achieve 25 MPa strength and can be used for 
+structural purposes whereas, beyond 50% replacement can be used for non-structural purposes. When lightweight construction 
+concrete with a pumice stone is employed to build and maintain civil structural components, the advantages of lower total self-weight, 
+fire resistance can be attained, decreased natural resource depletion (economic advantages), and improved sound insulation and heat 
+[23]. Some researchers used the pumice stone as a fine aggregate replacement in mortar to evaluate the shrinkage (micro-cracks) in a 
+mortar [32–35]. Liu et al. investigate the effect of pumices with varying water absorption rates used to substitute river sand by 10–30% 
+on the qualities of the created Ultra-High Performance Concrete (UHPC). They discovered that using pre-wetting pumice (particle size 
+distribution of 0.6–1.25 mm) may greatly minimize autogenous shrinkage of UHPC and improve the interfacial transition zone (ITZ) 
+skeleton among UHPC paste and hydrous pumice while maintaining engineering properties [36]. 
+Karthika et al. used pumice stone in concrete as a coarse aggregate at a varying replacement ratio to evaluate the strength per­
+formance. They concluded that by using 50% of pumice lightweight aggregate concrete (PLWAC), the optimum CS, STS, and FS can be 
+achieved and reduces the self-weight and absorbs more water due to the pores, which reduce the strength properties that can be used 
+for non-load bearing walls, partition walls, and earthquake resistance structures [37]. Besides, Zhang and Gjvorv focus on the strength 
+controlling factor of high-strength lightweight concrete (HSLWC) to investigate the mechanical properties by using five different types 
+of lightweight aggregates. They concluded that the STS/CS ratio is lower for HSLWC than HSNWC. The elastic modulus varies from 
+17.8 to 25.9 MPa and is much lower than HSNWC [38]. T. Parhizkar et.al. investigated the structural cost, dead load reduction, 
+foundation size, and reinforcement by using a pumice stone to partially replace coarse aggregate [39]. B. Devi Pravallika and K. 
+Venkateswara Rao recommended improving the durability and strength attributes of M40 concrete by substituting coarse aggregate 
+(0%, 10%, 20%, 30%, 40%, and 50%) with a natural lightweight aggregate pumice stone [40]. C. Krishnaveni and K. Guru Kesav 
+Kumar investigated the use of pumice stone as a partial aggregate substitute in cement concrete [41]. Several studies have been 
+conducted on the waste replacement, by-product, and replacement of natural resources over other abundantly available natural re­
+sources to evaluate fresh, mechanical, and microstructural properties [42–48]. 
+Response surface modeling (RSM) is a collection of computational and scientific methods that are used to examine the interplay of 
+several exogenous variables and the response variable (s) of a physical system. Central Composite Design (CCD) is used in the design 
+expert software to design and optimize the experiments. After getting the mix design from the RSM – CCD, the designed experiments 
+are performed. The experimental values are used as input parameters for the linear regression to build the statistical model. The curing 
+days and percentage replacement are used as input parameters, and the strength properties such as CS, STS, and FS were set as response 
+variables. Several researchers used RSM for their experimental design and optimization in recent studies. For instance, Zahid et al. used 
+RSM to predict the engineering properties of geopolymer composite by replacing it with Ordinary Portland Cement (OPC). Ali et al. 
+used the design and statistical modeling of concrete incorporating Waste Foundry Sand (WFS) as a sand replacement to evaluate the 
+strength properties [49]. Khan et al. used the partial substitution of OPC by silica fume and irradiated waste polyethylene terephthalate 
+in various quantities to evaluate the impact on semi-flexible payment [16,50]. Moreover, Al Salaheen et al. used response surface 
+methods to estimate and optimize mortar compressive strength by using heat-treated fly oil shale ash as an effective supplemental 
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 3 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+3
+cementitious material [51]. Fediuk and Ali summarized several articles in their editorial article that used RSM for statistical analysis, 
+experimental design, and optimization [52]. Memon et al. investigate the morphological, physicochemical, and rheological properties 
+of bitumen-containing petroleum sludge using RSM [53]. 
+Based on the recent and relevant literature, it is vital to examine the influence of natural coarse aggregate as a partial and full 
+replacement in concrete with PS to evaluate the mechanical and physical properties incorporating lightweight aggregate PS. Despite 
+the availability of research papers on the replacement of lightweight aggregate incorporating PS in ordinary concrete mixes, opti­
+mization, and statistical modeling of the concrete mixture have not been carried out. As a result, the current work attempts to fill such 
+gaps in the existing literature by investigating the physical and mechanical characteristics of lightweight aggregate PS as a coarse 
+aggregate substitute in concrete using the experimental design matrix provided by RSM’s CCD feature. Besides, statistical tools (RSM) 
+are designed to optimize the experimental and concrete mix design. Lastly, using pre-defined design criteria, multi-objective design 
+optimization was used to determine the of PS and number of curing days for optimum slump and mechanical characteristics. Addi­
+tional experiments were conducted to validate the optimal results. 
+2. Methods and materials 
+This section contains experimental information used to examine the physical and mechanical characteristics of lightweight 
+Fig. 1. Methodology Flow Chart.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 4 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+4
+concrete including pumice stone. The total amount and composition of fine aggregate, coarse aggregate, and pumice aggregates as a 
+coarse aggregate replacement from 0% to 100% (0%, 10%, 20%, 30%, 50%, 75%, 100%), and cementitious materials, as well as air 
+contents, are material variables. These materials are described in detail. The flowchart shown in Fig. 1 illustrates the research 
+methodology flowchart. 
+This study employed Ordinary Portland Cement of Type-1 (OPC, Type-1) in accordance with the American Society of Testing and 
+Materials (ASTM) Part C-150 ASTM-C-150 standard [54] in the concrete mix design. In addition, before using it in the concrete mix 
+design, it is vital to investigate the basic properties of the material. Therefore, the cement consistency and specific gravity (SG) are 
+evaluated as per ASTM C-188 and recorded as 25.9% and 3.09. As per the standards, the standard consistency of cement ranges 25-and 
+35%, whereas the SG is 3–3.16; however, both the consistency and the SG are within the ASTM standards’ limits. Furthermore, the 
+Vicat needle apparatus is used, as per ASTM C191–19 [55], to examine OPC’s final and initial setting time. As a result, OPC’s final and 
+initial setting time is achieved at 230 min and 55 min. In contrast, the standard limits are 30 min (minimum) and 600 min (maximum) 
+for the OPC to achieve its initial and final setting time. The physical and chemical composition of OPC is shown in Table 1. The most 
+Table 1 
+Physical and Chemical Composition of OPC.  
+Chemical composition of OPC 
+Physical Properties of OPC 
+Constituent 
+Value (%) 
+Standards (%) 
+Constituents 
+Observed 
+Typical 
+CaO  
+62.90 
+60–68% 
+SG 
+3.09 
+3–3.15 
+SiO2  
+23.10 
+16–24% 
+SS 
+322 m2/kg 
+329 m2/kg 
+Al2O3  
+4.90 
+3–8% 
+Consistency 
+25.9% 
+21–20% 
+Fe2O3  
+3.30 
+0.49–6.01% 
+Initial Timing 
+55 min 
+> 30 
+SO3  
+1.80 
+0.99–3.01% 
+Final Timing 
+230 min 
+< 600 
+MgO  
+1.79 
+0.12–3.99%    
+K2O  
+1.05 
+0.50–1.01%    
+Na2O  
+0.31 
+< 1%    
+LOI  
+0.66 
+< 1%     
+Fig. 2. Percentage passing of NFA with LL and UL as per ASTM C-33.  
+Fig. 3. PS and CA with LL and UL of ASTM C-33.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 5 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+5
+contributing composition is CaO and SiO2 in the OPC chemical composition, which is 86% in total. The current research on concrete 
+mix design employs locally accessible fine aggregate. Therefore, the particle size distribution or fineness modulus of natural fine 
+aggregate (NFA) is estimated via sieve analysis. As per the ASTM C-136–06/C-33 M [56], the lower limit (LL) and the upper limit (UL) 
+of the standard are compared with the percentage passing of NFA, as shown in Fig. 2. The fineness modulus of the NFA was found to be 
+within the ASTM UL and LL, indicating high NFA quality; nevertheless, in some cases, it was close to UL, while in others, it was found to 
+be contrary. 
+In the current investigation, a coarse aggregate of locally available crushed angular maximum size retained 3/8 size is chosen as a 
+coarse aggregate in the concrete mix design. Sieve analysis for coarse aggregates is performed in the laboratory using an electric sieve 
+shaker, according to ASTM C136–14 [57]. Fig. 3 depicts the ASTM gradation curves and the ASTM UL and LL of the ASTM. 
+Pumice is a light-colored porous igneous rock created through explosive volcanic eruptions when molten lava containing many gas 
+bubbles is hurled into the air. When it cools, it hardens into pumice. Pumice stone (PS) has numerous physical properties. It became an 
+extraordinarily light rock due to the many permeable bubbles/holes inside it. With an average porosity of 90%, PS are lightweight and 
+initially float in water [58]. The density of pumice varies according to the thickness of the solid substance between the bubbles. It’s 
+used in various industrial and consumer products as a lightweight concrete aggregate, landscaping material, and abrasive [59]. The PS 
+was gathered from one of the US apparel industries that are located in Lahore city of Pakistan as shown in Fig. 4. 
+The chemical and physical properties of PS are depicted in Table 2. The chemical composition of pumice varies depending on the 
+deposit, but it is mostly composed of aluminum oxide, silicon dioxide (amorphous aluminum silicate), and residue volumes of 
+additional oxides. The pumice stone has the largest SiO2 content compared to the other constituents, and it is a mixture of Si, Al, Ca, 
+Mg, and Fe oxides [60]. The primary constituents, such as SiO2, Al2O3, and Na2O, constitute 87.78% of the total, while the remaining 
+constituents provide 12.22%. 
+To assess the physical and mechanical qualities of concrete using a PS, its partially and completely replaced coarse aggregate at 
+varying percentages in the concrete mix design. For the experimental design, approximately 350 kg of PS were gathered from the US 
+apparel business in Lahore, Pakistan. Before using PS in the concrete mix design, the PSD of PS have been evaluated using an electronic 
+sieve shaker. Fig. 3 depicts the sieve analysis of PS, coarse aggregate, and ASTM UL and LL. 
+According to ASTM standards, the CS, STS, and FS are evaluated after 7 days, 28 days, and 56 days of curing using a 0.45 water- 
+cement ratio and 1:1.5:3 ratio. Therefore, the specimens are cast and kept for 7–56 days in the water tank to test the characteristics on 
+7–56 days along with varying percentages of PS as a coarse aggregate substitute. 
+2.1. Experimental design based on RSM 
+RSM is a powerful statistical method to design, analyze, optimize, and validate experimental results. Most often, it is used in the 
+concrete industry for the experimental design with fluctuating proportions of waste replacement as a natural resource to find out the 
+association among the manipulated variable and response variables. For the experimental design of the current study, Central 
+Fig. 4. Pumice stone.  
+Table 2 
+Chemical and physical properties of PS.  
+Physical composition 
+Chemical composition 
+Constituents 
+Value 
+Constituents 
+wt% 
+Slurry pH  
+6.0 
+SiO2  
+68.3 
+pH  
+5.0 
+Al2O3  
+14.59 
+rp (˚A)  
+2.0 
+Fe2O3  
+2.58 
+Moisture (%)  
+1.0 
+Na2O  
+4.890 
+Bulk density (g/cm3)  
+0.85 
+K2O  
+3.62 
+Vp (cm3/g)  
+0.09 
+CaO  
+1.96 
+SBET (m2/g)  
+32 
+MgO  
+1.09    
+MnO  
+0.219    
+TiO2  
+0.14    
+LOI  
+2.61  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 6 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+6
+Composite Design (CCD) technique tool was used in the Design Expert software version 11.1.0 as it provides outstanding competencies 
+for designing an idyllic experiment on a mixture or combination of factors, components, and processes. Primarily, the researchers 
+provide the input and the output variables to the design expert RSM to generate the experimental design, so in the current study, the 
+percentage replacement of PS as a coarse aggregate and curing days (7, 28, and 56 days) were used as input variables and the response 
+variables was the strength properties of concrete such as CS, STS, and FS. Ali et al., 2022 use the CCD tool of RSM in Design Expert 
+software to investigate the strength properties of concrete incorporating waste foundry sand as a fine aggregate replacement [49]. The 
+top and lower ranges for such input parameters were set at 0–100 for % PS replacement and 7–56 days for curing. Table 3 depicts the 
+range parameters that are used in CCD for the statistical analysis and experimental design. 
+Based on model relevance, quadratic polynomials, and linear models were offered to anticipate the mechanical characteristics of 
+concrete. To forecast the responses, a 2nd-degree polynomial equation was utilized, and the generalized equation for the anticipated 
+model used is provided in Eq. 1.  
+Y = C + A1(X1) + A2(X2) + A3(X1
+2) + A4(X2
+2) + A1(X1 * X2)                                                                                                            
+(1) 
+Whereas Y represents the response variables that are CS, STS, and FS. Besides, X1 and X2 show the manipulated variable, for example, 
+curing days and percentage replacement of PS, whereas C is the constant intercept, and A1 and A2 are the equation’s coefficients. 
+2.2. Concrete mix design 
+The PS was substituted as a coarse aggregate with varying percentages of 0%, 10%, 20%, 30%, 50%, 75%, and 100%, producing a 
+total of seven different mixtures. Depending on the trials, a sum of 189 specimens being produced and prepared in twenty-one (21) 
+cylinders for CS on seven days, with three samples created for 0%, 10%, 20%, 30%, 50%, 75%, and 100% (to take the average value for 
+the specific specimen to avoid human and experimental errors) which makes a total of twenty-one cylinders. The same procedure was 
+followed for 28 and 56 days of curing. To test the FS and STS of lightweight concrete using PS, twenty-one cylinders were produced and 
+arranged for the same proportion and amount of curing days. The cylinder mold size utilized for concrete casting was 6" x 12" for the CS 
+and STS, and 150 × 150×500 mm for the FS. Fig. 5(a) depicts the casting and coding of the cylinder, whereas Fig. 5(b) shows the 
+curing of a cylinder containing PS. 
+2.3. Compressive strength (CS) 
+CS tests on concrete specimens should be performed using a universal testing machine (UTM) to evaluate the load-carrying 
+capability under compression. The bottom and top sides of the column specimen are sealed with plaster of Paris with a depth of 12 
+millimeters to adequately disperse the stress. A steel plate with a 9"x9" cross-sectional area is also put just on the upper portion of the 
+column sample to ensure consistent load distribution. The specimen is positioned among the jars such that the filled face approaches 
+the testing equipment. Vertical loads are applied at a constant rate till failure happens, and the highest load reading at the failure stage 
+is reported. The CS test is performed using the ASTM C39 standard test procedure [61]. 
+2.4. Split tensile strength (STS) 
+As mentioned earlier, a total of 63 samples were cast for the STS at varying percentages ranging from 0% to 100% and curing days 
+ranging from 7 to 56 days. The cylinder dimension was the same as used for the CS. The STS is mostly calculated and recorded as 7 – 
+Table 3 
+Input Ranges Parameters for the CCD.  
+Input Variables 
+Lower Limit 
+Upper Limit 
+Pumice Stone (% ratio) 
+0% 
+100% 
+Curing days 
+7 days 
+56 days  
+Fig. 5. (a) casting and coding of the cylinder, (b) curing of a cylinder containing PS.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 7 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+7
+15% of the CS, even though it’s an essential concrete parameter. Based on recent and past studies, the normal tensile strength of 
+concrete is recorded ranging from 300 to 700 PSI (2 – 5 MPa), meaning that it is roughly 10% of the CS of concrete. Besides, the 
+standard test method of ASTM C496 is used to perform the STS [62]. 
+2.5. Flexural strength (FS) 
+Although several specimens and the curing days for the FS of concrete are similar to STS and CS, the beam’s measurements differed. 
+The prism beam was used to produce the samples for the FS with a dimension of 150 × 150×500 mm. As per modern and previous 
+research, the normal FS for conventional concrete ranges from 3 to 5 MPa. The FS is carried out with the standard test method of ASTM 
+C293 [63]. 
+2.6. Water absorption 
+The water absorption is determined based on ASTM C 642–97. Water absorption of natural concrete specimens is lower compared 
+to that of lightweight aggregate concrete (PS) samples. The high moisture content of lightweight aggregates at SSD circumstances 
+causes a greater water/cement proportion in the transition zone (among paste and aggregates), resulting in enhanced permeability of 
+the concretes. 
+2.7. Fresh concrete workability 
+The properly/improperly mixing batch can be accessed through the consistency and workability of concrete. The slump test is used 
+to determine the consistency of fresh concrete components before they harden. Slump value and compaction factors are events that 
+may be used to assess the workability of fresh concrete and, as a result, the speed with which concrete moves. 
+3. Results and discussion 
+This segment presents the experimental results obtained in the laboratory and through analytical analysis of RSM for the STS, FS, 
+and CS. The drying days and percentage replacement were used as input variables in the RSM to predict CS, STS, and FS, in which each 
+response variable is independently investigated. The optimization process of the RSM investigates the association among the drying 
+days and PS percentage on the concrete strength properties, which contains multiple regression analyses. Several plots, for instance, 
+actual vs. predicted, box-cox plots, normal plots of residuals, counter graphs, and 3D graphs were generated through RSM for each of 
+the response variables. Besides, the regression analysis table, ANOVA, and equations are developed for each of the response variables 
+Table 4 
+Slump values of lightweight aggregate concrete incorporating PS.  
+Percentage Replacement 
+Slump Value (mm) 
+Control mix/Normal concrete (0%)  
+132 
+PS – 10%  
+102 
+PS – 20%  
+95 
+PS – 30%  
+79 
+PS – 50%  
+55 
+PS – 75%  
+40 
+PS – 100%  
+28  
+Fig. 6. Slump results at varying percentages of PS.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 8 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+8
+and are discussed below. 
+3.1. Slump cone test 
+A slump cone test determines the fresh properties of lightweight aggregate concrete incorporating PS. The slump cone test is a 
+popular method for determining the consistency of concrete. The experimental results show that the slump values decrease by 
+increasing the percentage of the PS in lightweight aggregate concrete as natural coarse aggregate. The decrease in the slump values is 
+maybe due to the regular shape and size of the PS. The wetter the mix, the higher will be the slump values [64]. Due to the proper shape 
+of PS, the air voids or air entrained are properly filled up which causes in reduction of slump values. The highest slump value is found 
+on the 10% replacement of the PS. Table 4 and Fig. 6 depict the slump values obtained at varying replacement percentages. The 
+coefficient of determination (R2) is 0.984 showing a 98.4% correlation between the slump values and percentage replacement. 
+3.2. Water absorption 
+The water absorption assessment is used to determine how much water the concrete absorbs. This test is performed to determine 
+the permeability of concrete. The absorption rate of the PS-containing concrete is greater than that of the control mix with 0% PS 
+substitution as a natural coarse aggregate. However, there is a variation in the absorption of the concrete containing PS at varying 
+percentages due to their internal properties. The highest water absorption was found at 50% replacement of the PS in concrete. 
+Karthika et al. concluded that the highest water absorption was found at 50% PLWAC, and beyond that, it was decreased [37], whereas 
+Kale et al. investigated that the increase of PS in concrete caused a rise in water absorption of concrete due to its pores [65]. The fall 
+and rise in the water absorption of concrete incorporating PS are due to the microstructure properties of the PS. The aggregate used in 
+the current study is in wet conditions with surface moisture of 3.5%. Furthermore, the moisture level of the aggregate must be assessed 
+earlier to mixing because it influences the quantity of mixed water necessary to attain the requisite water/cementitious materials ratio 
+[66]. 
+Fig. 7. (a) loading in UTM (b) crushing cylinders during the CS containing PS.  
+Fig. 8. Experimental results of CS containing PS at varying percentages and curing days.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 9 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+9
+3.3. Compressive strength (CS) 
+As discussed earlier, several samples at a varying percentage of PS as a full and partial substitute of natural coarse aggregate is 
+prepared to evaluate the CS of concrete incorporating lightweight aggregate PS on 7–56 days of drying. Fig. 7(a) depicts the CS of 
+concrete samples while loading, where Fig. 7(b) shows the crushing cylinders during the CS containing PS at varying percentages and 
+curing days. The experimental results of the CS are shown in Fig. 8. After the analytical results that are generated through RSM are 
+compared with the experimental results, extra experiments were conducted to optimize and validate the model for the CS with specific 
+PS ratio and curing days. 
+The experimental results show that by increasing the ratio of the PS in the concrete as a natural coarse aggregate replacement, the 
+CS steadily decreases. However, up to 30% replacement, the CS for 7–56 days is within the ranges of lightweight weight aggregate 
+strength which is 15 MPa. Lightweight structural concrete, according to Wu et al., is described as concrete having an oven-dry density 
+among 1600 and 2000 kg/m3 and a CS greater than 15 MPa [67]. As a result, this study meets the standards for lightweight structural 
+concrete, which is congruent with the definition published by CEB/RILEM [68]. On the other side, the control mix concrete is higher 
+Fig. 9. Distribution of Data for CS; (A) Normal Plot of Residuals; ( B) Predicted vs. Residuals; (C) Run vs. Predicted; (D) Residuals vs. Actual.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 10 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+10
+than the lightweight aggregate incorporating PS as a full and partial replacement for all 7–56 days. 
+The CS on 7 days of curing with 10%, 20%, and 30% replacement are 17.9 MPa, 16.25 MPa, and 14.8 MPa, respectively, which falls 
+in the definition of lightweight aggregate concrete. On the other side, Hedjazi concluded that to be considered lightweight structural 
+concrete (SLWC), the minimum 28-day compressive strength is 17 MPa [69]. Therefore, the concrete CS for 28 days of curing and 10%, 
+20%, and 30% replacement of PS are higher than 17 MPa, which can be considered SLWC. Besides, the CS of control mix concrete on 
+28 days must be greater than 17 MPa, which in the current study is 21.35 MPa. Therefore, the current study concluded that up to 30% 
+of the PS can be replaced by natural coarse aggregate in the lightweight concrete aggregate for 7–56 days of drying and can be used as 
+SLWC. Beyond 30% replacement, it is suitable to be used for the partition walls and non-load bearing walls, which reduce the overall 
+self-weight of the structure. It is well-known that the CS increases by increasing the curing days, and optimum strength (95%) can be 
+achieved on 28 days of curing. The current study proves that the CS on 56 days was higher than the rest of the curing days for all 
+varying percentages. 
+The current study evaluated the correlation between the multiple inputs and output parameters using RSM. Curing days and 
+percentage replacement were treated as input variables, whereas strength properties such as STS, FS, and CS were the output pa­
+rameters in RSM. Several plots, for instance, residuals vs. predicted, residuals vs. the run, predicated vs. actual, 3D graphs, normal plots 
+of residuals, and contour graphs. 
+Fig. 9 (A) depicts the normal plots of residuals where (B) Predicted vs. Residuals; (C) Run vs. Predicted; and (D) Residuals vs. 
+Actual, which shows the data are distributed normally through the straight line between the points. The closer the point to the line 
+shows the normal distribution of the data, whereas far is the opposite. As a consequence of the results, it is clear that the model is 
+adequate for the purpose and be able to be employed to determine the optimal extraction parameters. The model’s projected values are 
+generated in design expert software using the prediction equation, while the real values are achieved through experiment runs. 
+Table 5 shows the ANOVA and statistics of fit analysis for the STS, FS, and CS. Several terms such as standard deviation, mean, 
+coefficient of determination (R2), Predicted R2, Model F, and P-values, Adjusted R2 are generated through RSM for the STS, FS, and CS. 
+R2 and P-value of the model is the most important factor in accessing the model. For the current study, the R2 values for the CS are 
+noticed as 0.9923, suggesting that it defines 99.23% of the change and is statistically substantial. However, it is 0.9913 (99.13%) for 
+the STS and 0.9935 (99.35%) for the FS. Recent and past studies concluded that an R2 of 0.80 and above is acceptable for the cor­
+relation between the variables [70–72]. The model’s significance can also be seen from the variation among the adjusted R2 and R2. 
+The smaller the difference between the values reveals the superior significance of the model, which is very minimal for the current 
+study for all the response variables. 
+The P-value should be less than 0.05 to claim the significance of the model. However, the current study P-value for all the response 
+variables is less than 0.05, in which CS, STS, and FS show less than even 0.0001, indicating the superior significance of the model. 
+Furthermore, the model is tested for significance in terms of R2, Adjusted R2, and P-values, which show significance in every aspect; 
+therefore, in the remarks, the model is significant. 
+The current study also develops coded equations for the STS, FS, and CS from RSM. The generalized quadratic polynomial Eq. 2 
+predicts the response value (i.e., Dynamic Modulus). 
+Table 5 
+ANOVA and fit statistics.  
+Responses 
+Compressive strength (MPa) 
+Split tensile strength (MPa) 
+Flexural strength (MPa) 
+Standard Deviation 
+0.4482 
+0.0443 
+0.0627 
+Mean 
+16.16 
+1.62 
+3.36 
+R2 
+0.9923 
+0.9913 
+0.9935 
+Adjusted R2 
+0.9906 
+0.9893 
+0.9920 
+Predicted R2 
+0.9882 
+0.9864 
+0.9891 
+Adequate Precision 
+80.2801 
+70.9810 
+89.1417 
+Model F-value 
+569.69 
+499.71 
+670.53 
+Model p-value 
+< 0.0001 
+< 0.0001 
+< 0.0001 
+Proposed/Suggested Model 
+Quadratic 
+Quadratic 
+Quadratic 
+Model Remarks 
+Significant 
+Significant 
+Significant  
+Table 6 
+Coefficients of the predicted equation.  
+Coefficients of Equation 
+Response 
+Compressive strength (MPa) 
+Split tensile strength (MPa) 
+Flexural strength (MPa) 
+Constant 
+C 
++ 18.4345 
++ 1.9452 
++ 2.9147 
+PS 
+A1 
+-0.1871 
+-0.0195 
+-0.0197 
+CA 
+A2 
++ 0.1276 
++ 0.0128 
++ 0.0381 
+PS x CA 
+A3 
++ 0.00005 
++ 0.00001 
+-0.000005 
+PS2 
+A4 
++ 0.0007 
++ 0.00008 
++ 0.00008 
+CA2 
+A5 
+-0.0004 
+-0.0001 
+-0.00013  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 11 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+11
+Y = C + A1(X1) + A2(X2) + A3(X1 ∗X2) + A4
+(
+X1
+2)
++ A5
+(
+X2
+2)
+(2)  
+Where Y= Predicted responses (CS, STS, and FS), X1 and X2 = Independent variables pumice stone (PS) and curing age (CA)), 
+C= interception constant, A1 and A2 = Linear coefficients, A3 = Interaction coefficient, and A4 and A5 = Quadratic coefficients. 
+The above equation can be rewritten as Eq. 3; while considering the dependent and independent variables used in the current study. 
+CS
+/
+STS
+/
+FS = C + A1(PS) + A2(CA) + A3(PS ∗CA) + A4
+(
+PS2)
++ A5
+(
+CA2)
+(3)  
+Where STS, FS, and CS are used for split tensile, flexural strength, and compressive, PS for pumice stone, and CA for curing age. Table 6 
+depicts the coefficients of equations corresponding to the response variables. 
+After including the values of the constant, A1 – A5, the final equation for the CS, STS, and FS is developed. Eq. 4 shows the 
+compressive strength, whereas Eqs. 5 and 6 shows the split tensile and flexural strength generated from RSM using the quadratic 
+model. The negative and positive term signs of the equation indicate the antagonistic and synergistic influence of external factors on 
+the outcome in statistical analysis. From Eqs. 4 – 6, it can be seen that the PS synergistically affect the STS, FS, and CS of lightweight 
+aggregate concrete. 
+CS = +18.4345 −0.1871(PS) + 0.1276(CA) + 0.00005(PS ∗CA) + 0.0007
+(
+PS2)
+−0.0004
+(
+CA2)
+(4)  
+STS = +1.9452 −0.0195(PS) + 0.0128(CA) + 0.00001(PS ∗CA) + 0.00008
+(
+PS2)
+−0.0001
+(
+CA2)
+(5)  
+FS = +2.9147 −0.0197(PS) + 0.0381(CA) + 0.000005(PS ∗CA) + 0.00008
+(
+PS2)
+−0.00013
+(
+CA2)
+(6) 
+Fig. 10. (A) Contour and (B) 3D Graph for the CS of concrete incorporating PS.  
+Fig. 11. (a) placement of concrete cylinder in UTM (b) crushed cylinder during the STS.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 12 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+12
+In the design expert software, the interaction between the CS, curing ages, and PS as a coarse aggregate replacement is shown in the 
+form of contour and 3D graphs, as indicated in Fig. 10 (A) and (B). In the 3D graph, the curing days are represented in the x-axis, the CS 
+is denoted in the y-direction, whereas the replacement of PS is represented in the z-axis; however, it was the opposite in the contour 
+graphs as shown in Fig. 10 (A). It can be seen from the graphs that the CS is increasing by increasing the curing age but decreasing with 
+an increment of the ratio of PS as a coarse aggregate replacement. For example, the maximum CS was obtained on 56 curing days with 
+0% replacement which is 23.97 MPa; however, up to 30% replacement and all curing days, the CS of lightweight weight aggregate 
+concrete incorporating PS were within the standard limits that in 17 MPa. 
+Fig. 12. Experimental results of STS containing PS at varying percentages and curing days.  
+Fig. 13. Correlation between CS and STS a) 7-days b) 28-days c) 56-days.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 13 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+13
+3.4. Split tensile strength (STS) 
+The STS of concrete including PS as a coarse aggregate substitute are experimentally assessed at different percentages and curing 
+days. RSM was applied to the experimental data to find the correlation between the variables and compare the analytical results with 
+the experimental results. Fig. 11 (a) shows the placement of the concrete cylinder in UTM, whereas (b) illustrates the crushed cylinder 
+during the STS. Moreover, Fig. 12 depicts the experimental results of STS of concrete containing PS at varying percentages and drying 
+days. Although STS is a main strength property of concrete, it depicts just 7–15% of its CS in the case of conventional concrete. By 
+increasing the lightweight aggregate PS ratio, the experimental findings reveal a progressive reduction in the STS of concrete during all 
+7 days, 28 days, and 56 days of curing. The control mix design for all the curing days is higher than the percentages substitute of PS as 
+natural coarse aggregate replacement. 
+The STS on 7 days of curing with a 10%, 20%, 30%, and 50% replacement were recorded as 1.893 MPa, 1.674 MPa, 1.539 MPa, 
+and 1.237 MPa that were 10.57%, 10.30%, 10.39%, and 11.14% of the CS of LWAC incorporating PS. However, on the 28 curing days, 
+2.076 MPa, 1.941 MPa, 1.776 MPa, and 1.433 MPa were recorded, which were 10.19%, 10.27%, 10.20%, and 10.34% of the CS of 
+LWAC. Besides, in the case of 56 curing days of the CS of LWAC. Besides, in the case of 56 curing days, the STS were recorded as 
+Fig. 14. Distribution of Data for STS; (A) Normal Plot of Residuals; ( B) Predicted vs. Residuals; (C) Run vs. Predicted; (D) Actual vs. Residuals.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 14 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+14
+2.18 MPa, 2.045 MPa, 1.88 MPa, and 1.537 MPa, which were 9.48%, 9.53%, 9.38%, and 9.33% of the CS of LWAC. Recent studies 
+show that STS is 7–12% of the CS in conventional concrete [73,74]. Therefore, the current study concluded that the effect of light­
+weight aggregate concrete incorporating PS on STS is within the percentages (7–12%) of the CS for all the STS for 7 days, 28 days, and 
+56 days of curing with varying percentage replacement. Moreover, a linear relationship was found among the curing days, percentage 
+replacement, and STS. 
+The statistical correlation between the CS and STS is shown in Fig. 13 in which Fig. 13 (a) and (b) represent the correlation for 7 
+days and 28 days, while (c) for 56 days. There is a strong correlation between the CS and STS for all the curing days with a coefficient of 
+determination (R2) values greater than 0.97 (97%) and having a linear second-degree polynomial expression. 
+Like CS, several graphs are generated through RSM for the STS to study the correlation between the variables, as shown in Fig. 14. 
+The normal distribution of the data can be accessed from the points around the straight line. In the normal plot of distribution, as 
+indicated in Fig. 14 (A), the points are close to the straight line validating that the data is normally distributed. However, compared to 
+the depicted Residuals vs. Predicted as shown in (B) and (C) Predicted vs. Run, the Residuals vs. Actual are close to the straight line 
+representing that the data generated from the runs are more likely to the data obtained from the laboratory experiments as revealed in 
+Fig. 14 (D). 
+To graphically represent the influence of PS and curing age on the STS of lightweight aggregate concrete, the contour and 3D graphs 
+are produced through RSM. Fig. 15 depicts the correlation between the curing days, PS, and STS in which (A) represents the contour 
+graph, whereas (B) illustrates the 3D view of the lightweight aggregate concrete containing PS as a natural coarse aggregate substitute. 
+The statistics show that increasing the percentage replacement of PS as a natural coarse aggregate replacement reduces the STS. 
+However, the STS rises as the number of cure days grow from 7 to 56 days. The highest STS is attained on 56 days of drying with 0% and 
+10% replacement of PS. Moreover, with up to 30% of PS as a natural coarse aggregate, the concrete achieves the standard STS for all 
+7–56 days of drying. 
+Fig. 15. Correlation between PS, curing age, and STS; (A) Contour graph; (B) 3D view.  
+Fig. 16. Experimental results of FS containing PS at varying percentages and curing days.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 15 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+15
+3.5. Flexural strength (FS) 
+As per the ASTM C293, the FS of lightweight aggregate concrete including PS as a natural coarse aggregate substitute for 7–56 days 
+of drying was investigated [63]. Compared to the concrete’s STS, the FS of the concrete is essential. Fig. 16 depicts the experimental 
+results of FS containing PS at varying percentages and curing days. Although the number of specimens and the curing days for the FS of 
+concrete are similar to STS and CS, the beam’s dimension varied. The prism beam was used to produce the samples for the FS with a 
+dimension of 150 × 150×500 mm. 
+As the proportion of the PS rises, the strength properties decrease; however, up to 30% substitute, the CS, STS, and FS for 7–56 days 
+are within the ranges of LWA strength. The strength properties have a direct relationship with the curing days, increase in curing days 
+can increase the strength properties. The highest was recorded on 56 days, which means that replacing the PS as natural coarse 
+aggregate improves the FS but the opposite in CS. The FS on 7–56 days of drying with a 10%, 20%, 30%, 50%, 75%, and 100% 
+replacement are within and greater than the standard limits for conventional concrete. Banawair et al., write a review on the strength 
+properties of LWAC and show the relationship among FS and CS, where they concluded that the ratio of FS to CS is 11.6–13.5% 
+whereas, the medium and high strength LWAC is typically within the range among 9–11% of the compressive strength [74]. 
+In the current study, the ratio between CS and FS ranges from 16.65% to 25.03% for 7 days of curing and 18.63–26.38% on 28 days. 
+However, for the 56 days of curing, it ranges from 19.46% to 26.76%. Therefore, this study concludes that the ratio of the CS to FS is 
+increased by rising the proportion substitution of PS in the LWAC, whereas FS is the opposite. Lakshman et al., and Minapu et al., also 
+achieved that the FS of concrete increases by increasing the replacement of natural aggregate with PS [75,76]. 
+Fig. 17 depicts the statistical correlation among the FS and CS of lightweight aggregate concrete containing PS. The correlation of 
+7–56 days is indicated in Fig. 12 (a), (b), and (c). A strong correlation between the FS and CS of lightweight aggregate concrete 
+including PS was found with an R2 above 0.99 (99%) between the variables. 
+Same as CS and STS, the normality of the data is tested for the FS using RSM, and produced several graphs that show the normality 
+of the data distribution for the FS as shown in Fig. 18. The normal plot of residuals, as presented in Fig. 18 (A), depicts that the points 
+are in line with the straight line representing the high normality of the data. Besides, the predicted values produced from the design 
+Fig. 17. Correlation between CS and FS a) 7-days b) 28-days c) 56-days.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 16 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+16
+software and normally distributed with the actual values obtained from the laboratory experiments forming a straight line, as shown in 
+Fig. 18 (D). Moreover, Fig. 18 (B) and (C) show the Predicted vs. Residuals and Run vs. Predicted for the FS of concrete incorporating 
+PS as natural coarse aggregate replacement. 
+Both the contour and 3D graphs are produced for the FS of concrete using RSM to investigate the correlation between the input 
+(curing ages and percentage replacement of PS) and output (FS) variables as shown in Fig. 19. The FS increased by raising the drying 
+days from 7 to 56 days; however, it was the opposite with the PS. Up to 30% replacement of PS for all curing days, the FS of LWAC 
+containing PS as a natural coarse aggregate substitute follows the standard limits of 9 – 11% of the CS. The ratio of the CS to FS is 
+increased by rising the proportion substitute of PS in the LWAC for all curing days. 
+4. Model optimization and validation 
+Using the Design Expert 11.0 Program (Stat-Ease Inc., Minneapolis, USA), an optimization strategy was used to identify the best 
+value of STS, FS, and CS for various ratios and curing days. During the optimization of the model, the targeted range (7 – 56 days of 
+Fig. 18. Distribution of Data for STS; (A) Normal Plot of Residuals; ( B) Predicted vs. Residuals; (C) Run vs. Predicted; (D) Actual vs. Residuals.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 17 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+17
+curing) and ratio (0 – 100% replacement) were determined, as shown in Table 3 above (input parameters for the CCD). Table 7 depicts 
+the optimum combination for each curing day and percentage replacement. The optimum PS for 7 days of curing is shown in Fig. 20 
+(A), which depicts that with 16.5% replacement on 7 days of curing, the CS of 16.42 MPa, STS of 1.73 MPa, and FS of 2.87 MPa can be 
+achieved that are validated with the additional experiments. 
+On the other side, the optimum PS for 28 days of curing corresponding to CS, STS, and FS are shown in Fig. 20 (B), which depicts 
+that with 23.064% replacement on 28 days of curing, the CS of 17.8 MPa, STS of 1.82 MPa, and FS of 3.47 MPa. Besides, as shown in 
+Fig. 20 (C) and Table 7, the optimum PS is 29.335% for 56 curing days corresponding to CS, STS, and FS is 19.576 MPa for CS, 
+1.84 MPa for the STS, and 4.136 MPa for the FS. 
+The optimization and validation of the model results also show that up to 30% of the PS can be replaced for 7 – 56 curing days in 
+which the CS is greater than 15 MPa, STS is 7–12% of the CS, and FS is 9 – 11% of the CS. Therefore, the optimum CS for the current 
+study ranges from 17 to 20 MPa in which the STS is 9.39 – 10.54% of the CS and FS ranges from 17.49% to 21.12% of the CS. 
+5. Conclusion 
+The current study aims to replace the lightweight aggregate PS at a varying percentage as natural coarse aggregate to evaluate the 
+strength properties of concrete incorporating PS at 7, 28, and 56 curing days. The statistical analysis and optimization of the RSM were 
+used for the experimental design to design and execute the experiments based on the proposed run from RSM by adjusting the upper 
+and lower boundaries of the drying days and PS percentage replacement as input parameters. The output parameters of the RSM were 
+the strength properties such as STS, FS, and CS. After the laboratory experiments, the data is entered into RSM to generate a statistical 
+equation, ANOVA, predicted vs. actual, contour, and 3D graphs for all the curing days and all the outputs, such as STS, FS, and CS. 
+Below is a summary of the current study that is concluded as follows.  
+• There is a slight variation in the fresh properties of lightweight aggregate concrete incorporating PS. As the percentage of the PS 
+increase, the slump values decreases. The slump cone test findings show that pumice lightweight aggregate concrete with 10% 
+replacement has higher workability than the other replacement percentages. However, there is an increase and decrease in the 
+water absorption properties of concrete containing PS due to the microstructure and internal properties of PS. In the current study, 
+the highest water absorption was found on 50% replacement which is in line with the Kartika et al. studies. 
+• In terms of mechanical properties, the control mix with 0% replacement shows a high CS, STS, and FS than the rest of the per­
+centages for all the curing days. However, this study concluded that concrete with up to 30% replacement of lightweight aggregate 
+Fig. 19. Correlation between PS, curing age, and FS; (A) Contour graph; (B) 3D view.  
+Table 7 
+Optimum Combination for each age curing.  
+Pumice Stone (%) 
+Curing (Days) 
+CS (MPa) 
+STS (MPa) 
+FS (MPa) 
+16.505  
+7  
+16.42  
+1.73  
+2.873 
+23.064  
+28  
+17.8  
+1.819  
+3.47 
+29.335  
+56  
+19.576  
+1.84  
+4.136  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 18 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+18
+PS could be used for structural purposes as the strength properties were higher than the standard limits of lightweight aggregate 
+concrete, that is 15 MPa.  
+• According to the literature, the CS of lightweight aggregate concrete should be greater than 15 MPa in 7 days. However, in the 
+current study, the CS on 7 days with 10%, 20%, and 30% replacement of PS were greater than 15 MPa and ranged from 17.9 to 
+14.9 MPa. Besides, the CS on 28 days of curing should be above 17 MPa for the conventional lightweight aggregate concrete, which 
+is 20.37 – 17.41 MPa on 28 days and is found to be 22.99 – 20.33 MPa on 56 days of curing in the current study.  
+• In terms of STS, the STS is 8 – 12% of the CS, which in the current study ranges from 9% to 11% and was in the standard limits; 
+however, it was found to be less than the control mix with 0% replacement of PS as a coarse aggregate replacement. Besides, the 
+ratio of FS to CS is 9 – 11%; whereas the current study concluded 16.65 – 26.76%. Therefore, in the current study, the ratio between 
+CS and FS ranges from 16.65% to 25.03% for 7 days of curing and 18.63–26.38% on 28 days. However, for the 56 days of curing, it 
+ranges from 19.46% to 26.76%.  
+• The coefficient of variation (R2) for all models was larger than 0.99 (99%), indicating the model has a high significance. 
+Furthermore, an indicator of the model’s relevance is that the difference among adjusted R2 and R2 is quite negligible, indicating 
+that the model is highly significant.  
+• Finally, model validation was carried out by optimizing the model in RSM. The model validation revealed that up to 30% of the PS 
+could be replaced for 7 – 56 curing days in which the CS is greater than 15 MPa, STS is 7–12% of the CS, and FS is 9 – 11% of the CS. 
+Therefore, the optimum CS for the current study ranges from 17 to 20 MPa in which the STS is 9.39 – 10.54% of the CS, and FS 
+ranges from 17.49% to 21.12% of the CS. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. 
+Fig. 20. The optimum percentage of PS for (A) 7-days (B) 28-days (C) 56-days.  
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 19 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+19
+Data Availability 
+Data will be made available on request. 
+Acknowledgments 
+The authors would like to thank King Saud University, Riyadh, Saudi Arabia, for researchers supporting project number 
+RSP2023R145. 
+References 
+[1] B.T.A. Manjunath, Partial replacement of E-plastic waste as coarse-aggregate in concrete, Procedia Environ. Sci. vol. 35 (2016) 731–739, https://doi.org/ 
+10.1016/j.proenv.2016.07.079. 
+[2] J.K. Prusty, S.K. Patro, Properties of fresh and hardened concrete using agro-waste as partial replacement of coarse aggregate – a review, Constr. Build. Mater. 
+vol. 82 (2015) 101–113, https://doi.org/10.1016/j.conbuildmat.2015.02.063. 
+[3] M.J. Islam, M.S. Meherier, A.K.M.R. Islam, Effects of waste PET as coarse aggregate on the fresh and harden properties of concrete, Constr. Build. Mater. vol. 125 
+(2016) 946–951, https://doi.org/10.1016/j.conbuildmat.2016.08.128. 
+[4] B. Bahoria, D. Parbat, P. Naganaik, Replacement of natural sand in concrete by waste products: a state of art, J. Environ. Res. Dev. vol. 7 (4A) (2013) 1651. 
+[5] A.U. Elinwa, Y.A. Mahmood, Ash from timber waste as cement replacement material, Cem. Concr. Compos. vol. 24 (2) (2002) 219–222, https://doi.org/ 
+10.1016/S0958-9465(01)00039-7. 
+[6] S. Chowdhury, M. Mishra, O. Suganya, The incorporation of wood waste ash as a partial cement replacement material for making structural grade concrete: an 
+overview, Ain Shams Eng. J. vol. 6 (2) (2015) 429–437, https://doi.org/10.1016/j.asej.2014.11.005. 
+[7] A.R.G. de Azevedo, M.T. Marvila, M. Ali, M.I. Khan, F. Masood, C.M.F. Vieira, Effect of the addition and processing of glass polishing waste on the durability of 
+geopolymeric mortars, Case Stud. Constr. Mater. vol. 15 (2021), e00662, https://doi.org/10.1016/j.cscm.2021.e00662. 
+[8] M. Usman, et al., Eco-friendly self-compacting cement pastes incorporating wood waste as cement replacement: a feasibility study, J. Clean. Prod. vol. 190 
+(2018) 679–688, https://doi.org/10.1016/j.jclepro.2018.04.186. 
+[9] J. Torkaman, A. Ashori, A. Sadr Momtazi, Using wood fiber waste, rice husk ash, and limestone powder waste as cement replacement materials for lightweight 
+concrete blocks, Constr. Build. Mater. vol. 50 (2014) 432–436, https://doi.org/10.1016/j.conbuildmat.2013.09.044. 
+[10] S. Hesami, A. Modarres, M. Soltaninejad, H. Madani, Mechanical properties of roller compacted concrete pavement containing coal waste and limestone powder 
+as partial replacements of cement, Constr. Build. Mater. vol. 111 (2016) 625–636, https://doi.org/10.1016/j.conbuildmat.2016.02.116. 
+[11] A.A. Alani, et al., Demolition waste potential for completely cement-free binders, Materials vol. 15 (17) (2022) 6018 ([Online]. Available), 〈https://www.mdpi. 
+com/1996-1944/15/17/6018〉. 
+[12] E.D. Barreto, et al., Clay ceramic waste as pozzolan constituent in cement for structural concrete, Materials vol. 14 (11) (2021), https://doi.org/10.3390/ 
+ma14112917. 
+[13] M. Samadi, et al., Properties of mortar containing ceramic powder waste as cement replacement, J. Teknol. vol. 77 (12) (2015). 
+[14] B. Bhardwaj, P. Kumar, Waste foundry sand in concrete: a review, Constr. Build. Mater. vol. 156 (2017) 661–674, https://doi.org/10.1016/j. 
+conbuildmat.2017.09.010. 
+[15] B. Taha, G. Nounu, Utilizing waste recycled glass as sand/cement replacement in concrete, J. Mater. Civ. Eng. vol. 21 (12) (2009) 709–721, https://doi.org/ 
+10.1061/(ASCE)0899-1561(2009)21:12(709). 
+[16] M. Imran Khan, et al., Investigating the mechanical properties and fuel spillage resistance of semi-flexible pavement surfacing containing irradiated waste PET 
+based grouts, Constr. Build. Mater. vol. 304 (2021), 124641, https://doi.org/10.1016/j.conbuildmat.2021.124641. 
+[17] Z.C. Steyn, A.J. Babafemi, H. Fataar, R. Combrinck, Concrete containing waste recycled glass, plastic and rubber as sand replacement, Constr. Build. Mater. vol. 
+269 (2021), 121242, https://doi.org/10.1016/j.conbuildmat.2020.121242. 
+[18] F.S. Khalid, N.B. Azmi, K.A.S.M. Sumandi, P.N. Mazenan, Mechanical properties of concrete containing recycled concrete aggregate (RCA) and ceramic waste as 
+coarse aggregate replacement, in: in AIP Conference Proceedings, vol. 1891, AIP Publishing LLC, 2017. 
+[19] T.S. Thandavamoorthy, Wood waste as coarse aggregate in the production of concrete, Eur. J. Environ. Civ. Eng. vol. 20 (2) (2016) 125–141, https://doi.org/ 
+10.1080/19648189.2015.1016631. 
+[20] M. Saltan, F.Selcan Fındık, Stabilization of subbase layer materials with waste pumice in flexible pavement, Build. Environ. vol. 43 (4) (2008) 415–421, https:// 
+doi.org/10.1016/j.buildenv.2007.01.007. 
+[21] M.A. Sultan, A. Gaus, R. Hakim, Review of the flexural strength of lightweight concrete beam using pumice stone as of substitution partial coarse aggregate, 
+GEOMATE J. vol. 21 (85) (2021) 154–159. 
+[22] J.J. Shideler, Lightweight-aggregate concrete for structural use, J. Proc. vol. 54 (10) (1957) 299–328. 
+[23] G.C. Hoff, Fire resistance of high-strength concretes for offshore concrete platforms, Spec. Publ. vol. 163 (1996) 53–88. 
+[24] A. Nafees, et al., Modeling of mechanical properties of silica fume-based green concrete using machine learning techniques, Polymers vol. 14 (1) (2022) 30. 
+[25] T. Gjerde, Structural lightweight-aggregate concrete (LWA-concrete) for marine and offshore applications, Nor. Contract. (1982). 
+[26] S. Room, M. Ali, M.A. Alam, U. Khan, S. Ammad, S. Saad, Assessment of lightweight aggregate concrete using textile washing stone, 2021 Third Int. Sustain. 
+Resil. Conf.: Clim. Change (2021) 327–333, https://doi.org/10.1109/IEEECONF53624.2021.9668076. 
+[27] M. Ali, F. Masood, M.I. Khan, M. Azeem, M. Qasim, F.N. Ali, Evaluation of flexible pavement distresses - a case study of Northern Bypass Peshawar, Pakistan, 15- 
+16 Nov. 2021, 2021 Third Int. Sustain. Resil. Conf.: Clim. Change (2021) 399–404, https://doi.org/10.1109/IEEECONF53624.2021.9668173. 
+[28] L. XIAOPENG, "Structural lightweight concrete with pumice aggregate," 2005. 
+[29] K.M.A. Hossain, Properties of volcanic pumice based cement and lightweight concrete, Cem. Concr. Res. vol. 34 (2) (2004) 283–291. 
+[30] M. Ali, S. Abbas, A.R.G. de Azevedo, M.T. Marvila, M.I. Khan, W. Rafiq, Experimental and analytical investigation on the confinement behavior of low strength 
+concrete under axial compression, Structures vol. 36 (2022) 303–313, https://doi.org/10.1016/j.istruc.2021.12.038. 
+[31] M.A. Idi, A.S. Abdulazeez, S. Usman, T. Justin, Strength properties of concrete using pumice aggregate as partial replacement of coarse aggregate, Int. J. Eng. 
+Appl. Sci. Technol. vol. 4 (11) (2020) 519–525. 
+[32] M. Ali, et al., Investigating optimal confinement behaviour of low-strength concrete through quantitative and analytical approaches, Materials vol. 14 (16) 
+(2021), https://doi.org/10.3390/ma14164675. 
+[33] M. Ali, S. Abbas, M.I. Khan, M.A. Gad, S. Ammad, A. Khan, "Experimental Validation of Mander’s Model for Low Strength Confined Concrete Under Axial 
+Compression," in 2020 Second International Sustainability and Resilience Conference: Technology and Innovation in Building Designs(51154), Sakheer, Bahrain, 11–12 
+Nov. 2020 2020, pp. 1–6, doi: https://doi.org/10.1109/IEEECONF51154.2020.9319950. 
+[34] V. Lesovik, et al., Four-component high-strength polymineral binders, Constr. Build. Mater. vol. 316 (2022), 125934, https://doi.org/10.1016/j. 
+conbuildmat.2021.125934. 
+[35] V. Lesovik, A. Tolstoy, R. Fediuk, M. Amran, M. Ali, A.R.G. de Azevedo, Improving the performances of a mortar for 3D printing by mineral modifiers, Buildings 
+vol. 12 (8) (2022) 1181 ([Online]. Available), 〈https://www.mdpi.com/2075-5309/12/8/1181〉. 
+[36] K. Liu, et al., Optimization of autogenous shrinkage and microstructure for ultra-high performance concrete (UHPC) based on appropriate application of porous 
+pumice, Constr. Build. Mater. vol. 214 (2019) 369–381, https://doi.org/10.1016/j.conbuildmat.2019.04.089. 
+M. Ali et al.                                                                                                                                                                                                             
+
+
+===== PAGE 20 =====
+
+Case Studies in Construction Materials 18 (2023) e01958
+20
+[37] R.B. Karthika, V. Vidyapriya, K.V. Nandhini Sri, K. Merlin Grace Beaula, R. Harini, M. Sriram, Experimental study on lightweight concrete using pumice 
+aggregate, /01/01/ 2021, Mater. Today.: Proc. vol. 43 (2021) 1606–1613, https://doi.org/10.1016/j.matpr.2020.09.762. 
+[38] M.H. Zhang, O.E. Gjvorv, Mechanical properties of high-strength lightweight concrete, Mater. J. vol. 88 (3) (1991) 240–247. 
+[39] T. Parhizkar, M. Najimi, A.R. Pourkhorshidi, Application of pumice aggregate in structural lightweight concrete 2012. 
+[40] B.D. Pravallika, K.V. Rao, The study on strength properties of light weight concrete using light weight aggregate, Int. J. Sci. Res. vol. 5 (6) (2016) 1735–1739. 
+[41] G. Venkateswararao, P.R. Kishore, A. Kumar, M. Yadav, Experimental Study on Strength Properties of Light Weight High Strength Fibre Reinforced Concrete 
+With Partial Replacement of Coarse Aggregate With Pumice Stone. 
+[42] M. Wang, X. Yang, W. Wang, Establishing a 3D aggregates database from X-ray CT scans of bulk concrete, Constr. Build. Mater. vol. 315 (2022), 125740, 
+https://doi.org/10.1016/j.conbuildmat.2021.125740. 
+[43] Z. Dong, W. Quan, X. Ma, X. Li, J. Zhou, Asymptotic homogenization of effective thermal-elastic properties of concrete considering its three-dimensional 
+mesostructure, Comput. Struct. vol. 279 (2023), 106970, https://doi.org/10.1016/j.compstruc.2022.106970. 
+[44] H. Huang, M. Li, Y. Yuan, H. Bai, Experimental research on the seismic performance of precast concrete frame with replaceable artificial controllable plastic 
+hinges, J. Struct. Eng. vol. 149 (1) (2023), 04022222, https://doi.org/10.1061/JSENDH.STENG-11648. 
+[45] H. Huang, Y. Yao, C. Liang, Y. Ye, Experimental study on cyclic performance of steel-hollow core partially encased composite spliced frame beam, /12/01/ 
+2022, Soil Dyn. Earthq. Eng. vol. 163 (2022), 107499, https://doi.org/10.1016/j.soildyn.2022.107499. 
+[46] Y. Huang, W. Zhang, X. Liu, Assessment of diagonal macrocrack-induced debonding mechanisms in FRP-strengthened RC beams, J. Compos. Constr. vol. 26 (5) 
+(2022), 04022056, https://doi.org/10.1061/(ASCE)CC.1943-5614.0001255. 
+[47] C. Zhang, H. Khorshidi, E. Najafi, M. Ghasemi, Fresh, mechanical and microstructural properties of alkali-activated composites incorporating nanomaterials: a 
+comprehensive review, J. Clean. Prod. vol. 384 (2023), 135390, https://doi.org/10.1016/j.jclepro.2022.135390. 
+[48] W. Zhang, S. Kang, Y. Huang, X. Liu, Behavior of reinforced concrete beams without stirrups and strengthened with basalt fiber–reinforced polymer sheets, /04/ 
+01 2023, J. Compos. Constr. vol. 27 (2) (2023), 04023007, https://doi.org/10.1061/JCCOF2.CCENG-4082. 
+[49] M. Ali, et al., Central composite design application in the optimization of the effect of waste foundry sand on concrete properties using RSM, /12/01/ 2022, 
+Structures vol. 46 (2022) 1581–1594, https://doi.org/10.1016/j.istruc.2022.11.013. 
+[50] M.I. Khan, et al., Cementitious grouts for semi-flexible pavement surfaces - a review, Materials vol. 15 (15) (2022) 5466 ([Online]. Available), 〈https://www. 
+mdpi.com/1996-1944/15/15/5466〉. 
+[51] M. Al Salaheen, et al., Modelling and optimization for mortar compressive strength incorporating heat-treated fly oil shale ash as an effective supplementary 
+cementitious material using response surface methodology, Materials vol. 15 (19) (2022) 6538. 
+[52] R. Fediuk, M. Ali, Recyclable materials for ecofriendly technology, Materials vol. 15 (20) (2022) 7133 ([Online]. Available), 〈https://www.mdpi.com/1996- 
+1944/15/20/7133〉. 
+[53] A.M. Memon, et al., Physicochemical, rheological and morphological properties of bitumen incorporating petroleum sludge, /08/23/ 2021, Constr. Build. 
+Mater. vol. 297 (2021), 123738, https://doi.org/10.1016/j.conbuildmat.2021.123738. 
+[54] ASTM Standard Specification for Portland Cement, ASTM-C150/C150M, American Society for Testing and Materials, 2020. 
+[55] Standard Test Methods for Time of Setting of Hydraulic Cement by Vicat Needle., ASTM-C191–19, 2019. 
+[56] Standard Test Method for Relative Density (Specific Gravity) and Absorption of Fine Aggregate, ASTM-C128–15, American Society for Testing and Materials, 
+2015. 
+[57] Standard Test Method for Sieve Analysis of Fine and Coarse Aggregates., ASTM-C136/C136M-19, 2019. 
+[58] A.M. Rashad, An overview of pumice stone as a cementitious material – the best manual for civil engineer, /02/01 2021, Silicon vol. 13 (2) (2021) 551–572, 
+https://doi.org/10.1007/s12633-020-00469-3. 
+[59] A.I.M. Ismail, O.I. El-Shafey, M.H.A. Amr, M.S. El-Maghraby, Pumice characteristics and their utilization on the synthesis of mesoporous minerals and on the 
+removal of heavy metals, 259379-259379, ( Eng. ), Int Sch. Res Not. vol. 2014 (2014), https://doi.org/10.1155/2014/259379. 
+[60] M. Malakootian, M. Moosazadeh, N. Yousefi, A. Fatehizadeh, Fluoride removal from aqueous solution by pumice: case study on Kuhbonan water, Afr. J. 
+Environ. Sci. Technol. vol. 5 (4) (2011) 299–306. 
+[61] Standard test method for the compressive strength of concrete cylinder, ASTM-C39/C39M, 2020. 
+[62] Standard Test Method for Splitting Tensile Strength of Cylindrical Concrete Specimens, A. C496, West Conshohocken, PA, USA, 2017. 
+[63] Standard Test Methd for Flexural Strength of Concrete (Using Simple Beam With Center-Point Loading), A. C293/C293M—16, American Society for Testing and 
+Material: West Conshohocken, PA, USA, 2015. 
+[64] L. Gündüz, The effects of pumice aggregate/cement ratios on the low-strength concrete properties, /05/01/ 2008, Constr. Build. Mater. vol. 22 (5) (2008) 
+721–728, https://doi.org/10.1016/j.conbuildmat.2007.01.030. 
+[65] M.O. KALE, H. ÇA˘GLAR, A. ÇA˘GLAR, A.C. APAY, S. Ç˙IMEN, Improving of lightweight concrete properties produced with pumice aggregate of nevs¸ehir region 
+with fly ash substitution, Acad. Platf. -J. Eng. Sci. vol. 9 (2) (2021) 302–308. 
+[66] P. Lehner, P. Koneˇcný, P. Ghosh, Variation of durability and strength parameters of pumice based mixtures, Materials vol. 14 (13) (2021) 3674 ([Online]. 
+Available), 〈https://www.mdpi.com/1996-1944/14/13/3674〉. 
+[67] T. Wu, X. Yang, H. Wei, X. Liu, Mechanical properties and microstructure of lightweight aggregate concrete with and without fibers, /02/28/ 2019, Constr. 
+Build. Mater. vol. 199 (2019) 526–539, https://doi.org/10.1016/j.conbuildmat.2018.12.037. 
+[68] R. Committee, "Functional Classification of Lightweight Concrete. Recommendation LC 2 11," ed: Rilem Paris, 1978. 
+[69] S. Hedjazi, "Compressive strength of lightweight concrete," Compressive Strength of Concrete, pp. 1–8. 
+[70] M. Ali, D.B.E. Dharmowijoyo, A.R.G. de Azevedo, R. Fediuk, H. Ahmad, B. Salah, Time-use and spatio-temporal variables influence on physical activity 
+intensity, physical and social health of travelers, Sustainability vol. 13 (21) (2021) 12226, https://doi.org/10.3390/su132112226. 
+[71] M. Ali, et al., The influence of COVID-19-induced daily activities on health parameters—a case study in Malaysia, Sustainability vol. 13 (2021) 7465, https:// 
+doi.org/10.3390/su13137465. 
+[72] M. Ali, et al., Assessment of local earthen bricks in perspective of physical and mechanical properties using geographical information system in Peshawar, 
+Pakistan, December, 1, Structures vol. 28 (2020) 2549–2561, https://doi.org/10.1016/j.istruc.2020.10.075. 
+[73] D.T.C. Lee, T.S. Lee, The effect of aggregate condition during mixing on the mechanical properties of oil palm shell (OPS) concrete, MATEC Web Conf. vol. 87 
+(2017) 01019 (EDP Sciences). 
+[74] A. Singh, A. Kumar, S. Singh, H. Singh, Study of partial replacement of fine aggregate by iron slag, Int. J. Adv. Res. vol. 4 (7) (2016) 687–702. 
+[75] A. Lakshman, H.B. Devi, M. Dominic, Influence of lightweight aggregates on various properties of concrete, Int. J. Eng. Res. Tech. vol. 8 (2) (2019) 82–85. 
+[76] L.K. Minapu, M. Ratnam, U. Rangaraju, Experimental study on light weight aggregate concrete with pumice stone, silica fume and fly ash as a partial 
+replacement of coarse aggregate, Int. J. Innov. Res. Sci., Eng. Technol. vol. 3 (12) (2014) 18130–18138. 
+M. Ali et al.                                                                                                                                                                                                             

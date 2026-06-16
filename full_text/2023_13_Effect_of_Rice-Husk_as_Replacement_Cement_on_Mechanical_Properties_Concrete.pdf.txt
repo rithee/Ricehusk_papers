@@ -1,0 +1,782 @@
+
+===== PAGE 1 =====
+
+Journal of Mechanical Engineering 
+Vol 20(2), 91-104, 2023 
+ 
+_________________ 
+ISSN 1823-5514, eISSN 2550-164X 
+© 2023 College of Engineering, 
+Universiti Teknologi MARA (UiTM), Malaysia. 
+ 
+Received for review: 2022-08-10 
+Accepted for publication: 2023-03-06 
+Published: 2023-04-15 
+https://doi.org/10.24191/jmeche.v20i2.22056 
+Effect of Rice-Husk as Replacement 
+Cement on Mechanical Properties 
+Concrete 
+ 
+ 
+Mohd Najmudin Helmi Abu Bakar, Sakhiah Abdul Kudus*,  
+Nur Kamaliah Mustaffa, Adiza Jamadin 
+School of Civil Engineering, College of Engineering,  
+Universiti Teknologi MARA, 40450 Shah Alam, Selangor, MALAYSIA  
+*sakhiah@uitm.edu.my 
+ 
+Hasan Ali Abbas  
+Department of Building and Construction Techniques Engineering,  
+Madenat Alelem University College, 10006, Baghdad, IRAQ 
+ 
+Rohana Hassan  
+Institute for Infrastructure Engineering and Sustainable Management 
+(IIESM), Universiti Teknologi MARA, MALAYSIA 
+  
+Nadia Kamaruddin 
+Faculty of Architecture, Planning and Surveying,  
+Universiti Teknologi MARA, 40450 Shah Alam, Selangor, MALAYSIA 
+ 
+ 
+ABSTRACT 
+ 
+The cost of producing concrete has increased, and its effects on the natural 
+environment have become apparent. The ideal solution is to use agro-waste 
+material instead of cement in concrete. This research aims to determine how 
+well RHA works as a cement substitute. At increments of 5%, 10%, and 15%, 
+rice husk was applied in substitute of cement. Compressive and flexural tests 
+were performed on a 100 mm x 100 mm x 100 mm cube and 100 mm x 100 mm 
+x 500 mm prisms with varying percentages of RHA substitution. Findings show 
+that the highest control sample has a compressive strength of 49.83 MPa while 
+t The compressive strength began to drop at 5% RHA substitution. The 
+compressive strength decreased as the percentage of RHA used increased from 
+10% to 15%. The flexural strength data shows that the 10% RHA has a 
+maximum of 4.90 MPa. The lowest value is 3.85 MPa, and it is only seen from 
+5% of RHA. Thus, it can be inferred that an RHA replacement level of 5% in 
+cement yields a tremendous increase in compressive strength. 
+
+
+===== PAGE 2 =====
+
+Abu Bakar et al. 
+92 
+Keywords: Rice Husk Ash; Mechanical Properties; Compressive Strength; 
+Flexural Strength; Green Concrete 
+ 
+ 
+Introduction  
+ 
+Cement, fine and coarse aggregate, and water are the most expensive of the 
+concrete's standard components. This has led to a recent hike in the cost of 
+concrete, a necessary used construction material. As the building industry 
+expanded in Malaysia, so did the demand for cement, which in turn fueled the 
+growth of infrastructure development in the country. 
+Due to its functions as a binder, cement is the primary component used 
+in the production of concrete. Cement manufacturing is consequently resource-
+intensive, costly, and environmentally damaging [1]. Worth to mention that 
+Ordinary Portland Cement (OPC) is the most common kind used in the major 
+construction sector. Unfortunately, the main primary constituent of cement is 
+limestone which is a non-renewable resource. Hence, cement production is 
+highly-priced, uses a lot of energy, and depletes natural resources [2]. It is a 
+great concern to the environment as long-running, extensive mining will 
+eventually cause depleted sources of limestones. In addition, the cement is 
+made up of components such as silica, alumina, and magnesia as well as iron 
+oxide. Besides, the negative impact of this kind of cement is also degradative 
+to the environment due to the high emission of carbon dioxide. It was estimated 
+that around 7% of the world's carbon dioxide output emanates from the cement 
+industry [3]. 
+Auspiciously, developments in concrete technology are making it 
+possible to lessen carbon dioxide emissions caused by the production of 
+cement and to substitute industry and agricultural waste for concrete in 
+construction projects. Since a few decades, cement-replacement materials like 
+fly ash and powdered granulated blastfurnace slag have been routinely used to 
+reduce the amount of cement used [4]. Pursuant to previous studies, rice husk 
+can be burned to create rice husk ash (RHA). The physical and chemical 
+composition of RHA is following the standards for mineral admixtures for it 
+to perform as the substitute [5]. Based on earlier research, evidence suggests 
+that the mechanical properties of concrete can be enhanced by adding RHA in 
+the right proportions. Regarding the manufacture of concrete, because of its 
+high content of silica, RHA is regarded as a highly reactive pozzolanic material 
+[6]. Therefore, rice husk is one of the potential answers to the problem of 
+mitigating the depletion of limestone. 
+The production of harvestable goods in agriculture results in the 
+generation of a significant volume of waste. Straws, bagasse, and husks are the 
+three most common types of biomass products that come from plants or crops. 
+Burning agricultural waste in the open field is a typical method of disposal for 
+farmers. Ashes have the potential to spread into neighbouring areas, which can 
+
+
+===== PAGE 3 =====
+
+Effect of RHA as replacement cement on mechanical properties concrete 
+ 
+93 
+lead to environmental and landfill problems. On the other hand, the practise of 
+dumping rice husks in landfills can occupy a substantial amount of space and 
+is a major contributor to environmental damage [2]. 
+Ash from burning rice hulls for energy production is a common 
+agricultural byproduct known as rice husk ash (RHA) [7]. Another way to 
+produce RHA is to employ boilers, where the paddy can be directly burned or 
+gasified to produce the fuel [8]. Both methods have the potential to extract 
+RHA from paddy. When compared to other agricultural wastes that can be used 
+in the building sector, rice husk has shown the best performance as a 
+supplemental cementitious material (SCM) due to the high silica content of the 
+ash [9]. 
+Production of a rice paddy in Malaysia increased from 3 million tonnes 
+in 2015 to 4.6 million tonnes in 2018 and 6.1 million tonnes in 2020 [10]. 
+Agricultural waste may be easily obtained due to global production on a huge 
+scale, making it a cost-effective alternative to more conventional building 
+materials. The waste can be used in place of traditional materials because it is 
+abundantly produced all over the world and hence easy to acquire. The rice 
+husk, which originates from the outermost layer of paddy grain, however, will 
+be dumped or burned, which will add to existing disposal problems and 
+environmental worries [11]. Therefore, using rice husk in replacement of 
+concrete might be one step toward finding a solution that addresses the issue. 
+This aids the country by reducing waste disposal costs and protecting the 
+environment. 
+One of the distinguishing features of this material is its high 
+concentration of amorphous silica, which, when combined with portlandite in 
+cement, can lead to the creation of a pozzolanic phase. In addition, RHA could 
+be utilised to enhance the bond between different concrete mixtures by filling 
+in the spaces between the cement particles [12]. By infiltrating voids between 
+cement grains, RHA is capable to strengthen bonds in various concrete 
+combinations [13]. The overall performance characteristics of the cementitious 
+product are enhanced through the use of this pozzolanic method at later ages. 
+On the other hand, RHA is used to replace cement partially, a considerable 
+reduction will be made to the amount of CO2 annually discharged into the 
+environment [14]. Another approach for cutting costs on cement and lime is 
+making use of RHA to cut down on the overall quantity of binders that are 
+needed for a variety of construction projects. RHA-blended concrete has been 
+reported to have lower air permeability and chloride penetration, lower 
+alkalisilica expansion, and higher sulphate and acid resistance, among other 
+qualities [14]. 
+Moreover, when compared to the other types of ashes that were tested, 
+the RHA concrete had the highest normalised compressive strength. The prior 
+research indicates that a replacement level of 10-20% RHA in concrete is 
+optimal [15]. However, RHA concrete was found to have normalised 
+compressive strengths that were nearly 1.2 times higher than those of the 
+
+
+===== PAGE 4 =====
+
+Abu Bakar et al. 
+94 
+control concrete. This is because elevating the proportion of amorphous silica 
+in the RHA formula significantly improved both pozzolanic performance and 
+concrete properties. 
+In the study, rice husk waste at 5, 10, or 15%  were used to supplant 
+portland concrete for compressive and flexural consistency. The objective of 
+this research is to provide information on the utilization of RHA as a 
+supplementary cementing material for producing green concrete. Additionally, 
+to the effects of the percentage of RHA as cement replacement and water-
+cementitious materials ratio on the mechanical properties investigated, the 
+properties of the RHA concrete were also compared with those of the control 
+portland cement concrete and the concrete containing silica fume. The 
+outcome of this study benefit in the field of green concrete.  
+ 
+ 
+Experimental Work 
+ 
+Concrete mix design commonly uses form of dimensions or ratios such as 
+1:2:4, respectively representing the proportions of cement, fine aggregates, and 
+coarse aggregates. The ratio is either determined by weight or volume. 
+Although in terms of its simplicity of expression, this concrete mix design 
+system has an advantage. However, it will cause a disruption when describing 
+the effect of the mixing measurement on the concrete features. This is related 
+to the importance in defining the amount of cement needed to cast a given 
+concrete size. Thus, using the typical mix concrete layout sheet to measure the 
+concrete mixing percentage is the most ideal way to specify mixing parameters 
+for each individual material engaged in concrete mixing in terms of volume. 
+Moreover, by measuring specifically the mixing percentages required for 
+concrete mixing, the waste of materials typically occurring will be minimized. 
+ 
+Material preparation 
+Cement 
+For this experiment, four different series of RHA replacement concrete were 
+constructed: a control series, and RHA replacements of 5%, 10%, and 15%. 
+The cement that was used throughout this experiment was acquired from 
+Tasek Cement, which fulfills the requirements outlined in MS EN 197-1:2007 
+[16]. These tests were conducted with a 42.5-strength class of Ordinary 
+Portland Cement (OPC). The Tasek Cement is obtained from concrete 
+laboratory, UiTM Shah Alam. 
+ 
+Rice husk ash 
+Rice husk ash is generated by burning rice husk in a regulated manner. Having 
+a high SiO2 concentration after being properly burned, it can be applied as an 
+additive in concrete. During the hydration process, calcium hydroxide crystals 
+form in concrete, and the amorphous silica in RHA reacts favourably with 
+
+
+===== PAGE 5 =====
+
+Effect of RHA as replacement cement on mechanical properties concrete 
+ 
+95 
+these crystals. The C-S-H gel that is created as a by-product of the 
+concrete hydration can be implemented to fill the porous structure. This is 
+possible since the gel's viscosity is lower than that of water. Rice husk ash is 
+operated as an alternative to cement in concrete.  
+The rice husk is obtained from a local source of rice paddy. Then, the 
+rice husk is dried and placed in the furnace until it changes into ash. The ash 
+are collected from the furnace and grounded until achieving a specific size is 
+needed. 
+ 
+Aggregate 
+Suitable selection of optimum coarse aggregate size is essential in concrete 
+mix design as it affects concrete strength. In addition, the coarse aggregate 
+should be cleaned and free of chemicals that can lead to concrete degradation. 
+Crushed stones are typically coarse aggregates used for concrete mixing. The 
+material that can be sieved through a 4.75 mm screen contains fine aggregates. 
+Quarry coarse aggregates with a nominal size of 10 mm were selected for this 
+study. Coarse aggregates is obtained from Kajang rock quarry and fine 
+aggregate obtained from concrete laboratory, UiTM Shah Alam. 
+ 
+Superplasticizers 
+A chemical addition from the MasterGlenium Sky 8333 group was 
+incorporated into the concrete mixing process to decrease the water-cement 
+ratio, enhance the concrete’s formability, and strengthen its strength. 
+MasterGlenium Sky 8333 obtained from online purchase bmd.asia.  
+ 
+Design mix 
+There were four different RHA mixture ratios created. The concrete mixtures 
+used in the casting process include a control mixture and variations with 5, 10, 
+and 15% RHA, respectively. Table 1 outlines the relative amounts of RHA and 
+materials incorporated into the concrete mix. Upon continuing to the casting 
+process, the fresh concrete is then tested to assess its workability using the 
+slump test. In addition, the vibrating table is being used to vibrate the mould 
+to ensure that the concrete is evenly compacted while minimizing the air void 
+produced in the concrete. 
+Hence, OPC was utilised with a constant water-cement ratio of 0.54. 
+This study consisted of 36 total samples, consisting of 36 different prism sizes 
+(100 mm x 100 mm x 500 mm) and 36 different cube specimens (100 mm x 
+100 mm x 100 mm). For further works, the tests comprised both a compressive 
+and a flexural measure of the strength. The slump test was carried out to 
+provide data supporting the applicability of fresh concrete. Curing times in 
+water ranged from 7 days to 14 days to 28 days for each specimen.  
+ 
+ 
+
+
+===== PAGE 6 =====
+
+Abu Bakar et al. 
+96 
+Table 1: Different percentages of rice husk ash with the material 
+ 
+Mixture 
+Cement 
+(kg/m3) 
+RHA 
+(kg/m3) 
+Fine 
+aggregate 
+(kg/m3) 
+Coarse 
+aggregate 
+(kg/m3) 
+Water 
+(kg/m3) 
+SP (1% of 
+cement 
+weight) (ml) 
+Control  
+16.13 
+0.00 
+33.05 
+40.38 
+8.72 
+168.00 
+5% RHA 
+15.33 
+0.81 
+31.47 
+38.45 
+8.31 
+147.00 
+10% RHA 
+14.52 
+1.61 
+31.47 
+38.45 
+8.31 
+147.00 
+15% RHA 
+13.71 
+2.42 
+31.47 
+38.45 
+8.31 
+136.50 
+ 
+Experimental apparatus and procedure 
+Compressive test on the specimen 
+A component or structure's compressive strength is its capacity to resist 
+cracking or surface deformation under stress. The concrete shrinks under 
+compression and expands under strain. Additionally, compressive strength 
+testing relies heavily on load rate. The observed strength increases with 
+increasing loading rates. Slow loading rates have been suggested to initiate 
+more subcritical cracking or to bring about the emergence of creep that 
+modifies the amount of strain at a given load. Insight regarding concrete 
+characteristics can be gained through this assessment. By conducting this 
+check, it will be possible to ascertain whether or not the concreting activities 
+have been performed correctly. This evaluation was carried out following the 
+standards laid out in BS EN 12390-3:2019 [17]. 
+Cube test uses 100 x 100 x 100 mm mould relying on the aggregate size 
+used. The concrete is poured into the mould in three separate levels; after each 
+addition, the table vibrates to compact the concrete. Cement pastes 
+were applied to the top of the cubes and spread evenly to create a flat, level 
+surface. After twenty-four hours, the cubes were taken from the moulds, and 
+the curing tank was loaded to begin the curing process. The cubes are 
+evaluated with a compression machine after 7, 14, and 28 days of curing, and 
+thus were tested at the proper angles to the casted position. The load 
+was imposed incrementally from this point on until the cube broke. When 
+calculating the compressive strength of concrete, the failure load from the test 
+must be divided by the cube's surface area. Figure 1 depicted the process of 
+compressive test.  
+ 
+Flexural test on the specimen 
+Flexural strength, which can also be referred to as modulus of rupture, is the 
+ability of a concrete to resist deformation as a result of bending. This test 
+method covers the determination of the flexural strength of concrete by the use 
+of a simple prism with four-point loading. The maximum flexural loads were 
+determined using the UTM-1000 at the Concrete Laboratory, UiTM Shah 
+Alam, Selangor. Remove the prism from the curing prosses for 7,14 and 28 
+
+
+===== PAGE 7 =====
+
+Effect of RHA as replacement cement on mechanical properties concrete 
+ 
+97 
+days from water tank and test while they are still wet. For this test, will be 
+tested using 3 specimens each. Based on the peak load, the peak flexural stress 
+within the prism is calculated. The significance of using 3 specimens for each 
+period is to obtain the average flexural strength values The standard that has 
+been use can fullfill the requirement Figure 2. 
+ 
+ 
+ 
+ 
+Figure 1: The specimen after compressive test 
+ 
+Two-point loads, 100 mm apart, are applied to the third points along the 
+span of a simply supported concrete prism. In accordance with BS EN 12390-
+5, the load is steadily raised at a rate of 0.5 mm/min until flexural failure 
+occurs. Prism size of 100 mm x 100 mm x 500 mm was used in this study. 
+Figure 3 depicted the process of Flexural strength test. 
+ 
+ 
+ 
+Figure 2: Arrangement of loading of test specimen (BS EN 12390-5) [18] 
+Concrete 
+Specimen 
+
+
+===== PAGE 8 =====
+
+Abu Bakar et al. 
+98 
+ 
+ 
+Figure 3: The specimen before flexural test 
+ 
+ 
+Results and Analysis 
+ 
+Figure 4 displays the changes in compressive strength that took place 7, 14, 
+and 28 days after the RHA was replaced. During 7 days all RHA mixed 
+concrete compressive strength is very low compared to control concrete. This 
+might be due to the silica and the reduction of calcium hydroxide in the 
+concrete mix not being able to enhance the concrete strength. These results 
+indicate that the higher rate hydration process for normal mixed concrete 
+compared to the concrete that contained pozzolanic material RHA starts at a 
+later age and becomes significant when a considerable amount of Ca(OH)2 is 
+produced as a hydration product of cement. RHA reacts with cement hydration 
+product Ca(OH)2 to produce a secondary C-S-H gel. It happens because of the 
+effect of the pozzolanic reaction which usually manifests at a later stage [19]- 
+[20]. At 28 days, the strength of the control concrete reaches 49.82 MPa. After 
+28 days, the strength was 35.15 MPa when RHA was used for 5% 
+replenishment. It was discovered that the optimal value of RHA significantly 
+lowers the strength of concrete.  
+Prism 
+Specimen 
+Loading 
+Roller 
+Supporting 
+Roller 
+
+
+----- TABLE p8#1 -----
+
+Loading
+Roller | 
+
+----- TABLE p8#2 -----
+
+Prism
+Specimen | 
+
+----- TABLE p8#3 -----
+
+Supporting
+Roller | 
+
+===== PAGE 9 =====
+
+Effect of RHA as replacement cement on mechanical properties concrete 
+ 
+99 
+The result shows that the compressive strength of RHA concrete 
+reduced as the percentage of RHA replacement increased and the concrete did 
+not significantly influence the later age strengths. Results by [21] are in line 
+with the present study, indicating that large amounts of RHA have an adverse 
+effect and reduced the strength of concrete. This might be due to the lower 
+calcium hydroxide content that has been reduced with the replacement of RHA 
+in the mixes. Nevertheless, the strength of concrete with the replacement of 
+cement by up to 15% RHA manage to attain the target strength of 30 MPa.  
+Meanwhile research [22] found that there is reduction in compressive 
+strength at earlier ages with the increasing RHA content in concrete. In 
+addition, superplasticizer (SP) improves the compressive strength of concrete 
+with 5% and 10% cement replacement by RHA. SP is used to develop concrete 
+with high early strength. It shows that the effect of SP can help to increase the 
+compressive strength of the concrete. Thus, the increase in SP dosage parallel 
+with the increment of RHA content contributed to the development strength in 
+concrete. Hence the overall result of the compressive strength of concrete 
+shows the different values from one another as the different dosages of SP are 
+used as well RHA content. 
+ 
+ 
+ 
+Figure 4: Compressive strength of concrete at 7, 14 and 28 days 
+ 
+Figure 5 displays the flexural strength at the age of 7, 14 and 28 days 
+for different mix proportions. Flexural strength at 7 days of curing due to 
+pozzolanic and filler effects of 5%, 10% and 15% RHA concrete is less 
+significant than the hydration effect of control concrete. However, at 28 days 
+of curing 10%, 15% RHA gained additional flexural strength than control 
+40.80
+45.86
+49.83
+25.98
+29.64
+35.15
+24.60
+28.75
+33.00
+23.23
+26.76
+31.50
+7
+14
+28
+Compressive strength of concrete 
+(MPa)
+Days
+Control
+5%RHA
+10%RHA
+15%RHA
+
+
+===== PAGE 10 =====
+
+Abu Bakar et al. 
+100 
+concrete due to pozzolanic reaction. Meanwhile, the lowest flexural strength 
+was for 5% RHA concrete with a value of 3.85 MPa less significant at later 
+ages when compared to the hydration effect of control concrete 
+When 10% RHA is used as a replacement for the OPC, the concrete 
+gains a maximum strength of 4.90 MPa. In comparison to the standard concrete 
+specimen, the value represents a 6% increase in strength.The 10% RHA has 
+the highest strength because due to the higher specific area of the RHA which 
+accelerated the pozzolanic reaction of reactive SiO2 in RHA with CaOH to 
+produce more C-S-H gel. Decrease portlandite content of the matrix can lead 
+to the improvement of the pore structure of the concrete matrix, which is due 
+to the high pozzolanic and compatibility of RHA with cement. RHA made 
+concrete pore structure finer, and hence, reduced the volume of large pores and 
+also showed a reduction in the total porosity in the concrete. RHA also acts as 
+filler causing the foamed concrete to become denser while retaining its unique 
+low density. The gel produced then fills up all possible voids in the sample and 
+it will increase the flexural strength of the sample. 
+ 
+ 
+ 
+Figure 5: Flexural strength of concrete at 7, 14 and 28 days 
+ 
+When the amount of RHA in concrete increases by more than 10% 
+relative to its replacement with cement, the strength of the concrete decreases. 
+This reveals that the RHA's behaviour has been altered due to the presence of 
+excessive silica in the bonding and material. Based on the overall result of 
+flexural strength test of the concrete, the result shows an increase. The concrete 
+that contains higher percentage of RHA, increased gradually compared to the 
+percentage of control concrete. However, all the result of flexural strength of 
+the replacement concrete has a higher value compare to control sample. It 
+3.98
+4.44
+4.61
+3.75
+3.80
+3.85
+3.65
+4.51
+4.90
+2.65
+4.50
+4.70
+7
+14
+28
+Flexural strength of concrete (MPa)
+Days
+Control
+5%RHA
+10%RHA
+15%RHA
+
+
+===== PAGE 11 =====
+
+Effect of RHA as replacement cement on mechanical properties concrete 
+ 
+101 
+proven that RHA can be use to replace cement and help the concrete to improve 
+the strength.  
+Previous research [23] stated that the flexural strength of concrete 
+specimens containing ordinary RHA is comparable to that of control mix 
+specimens, while concrete containing RHA has much higher strength. Partial 
+replacement with RHA improves flexural properties and durability by creating 
+strong bonding that allows concrete to distribute loading during bending 
+deflection. A study by [24] showed that optimal flexural strength can be 
+achieved with 10% replacement of RHA. However, the same study also found 
+that using 15% replacement of RHA resulted in a gradual decrease in flexural 
+strength. 
+The pozzolanic products produced by RHA help to improve the bonding 
+between cement mortar and aggregate. As the percentage of RHA replacement 
+increases, there is a gradual increase in the flexural strength of rice husk ash 
+concrete up to nearly 10% replacement, after which it decreases. 
+ 
+ 
+Conclusions 
+ 
+The following are some of the significant conclusions that can be drawn from 
+this study: 
+• 
+The results of a test to determine the material's compressive strength 
+have been collected and appropriately tabulated. Research indicates that 
+a concrete mixture containing 5% RHA adds the most to the average 
+compressive stress, at 35.15 MPa. 
+• 
+The concrete's compressive strength exceeded that of mixes made 
+without RHA. This implies that the RHA qualities do not assist in 
+enhancing the blended cement concrete's compressive strength. 
+• 
+The compressive strength of concrete was significantly impacted by the 
+RHA used. The compressive strength of concrete drops from 5% to 10% 
+and 15% after RHA replacement. After 28 days, 5% RHA concrete 
+reportedly has a 23% lower compressive strength than control concrete. 
+• 
+While compared to the strength of control concrete after 28 days, the 
+flexural strength of 10% RHA concrete exhibited a 6% increase in its 
+strength. 
+• 
+The percentage of RHA that should be added that yields the best result 
+in this investigation is 5%. The findings of the compressive strength test 
+show that on day 28, the RHA addition of 5% yields the highest 
+strength. In contrast, adding 10% or 15% RHA is not recommended due 
+to subpar results in terms of strength. Thus, it is more appropriate to 
+incorporate 5% RHA into concrete mixes. 
+• 
+This study will benefit mostly the material researcher that agricultural 
+waste can be used as replacement cement in concrete. The researcher 
+
+
+===== PAGE 12 =====
+
+Abu Bakar et al. 
+102 
+can get information on using RHA as replacement cement and 
+superplasticizer in concrete mixing that can be used in their research. 
+Researchers can know about agricultural waste, which is RHA has 
+many advantages in the construction industry. Researchers can use this 
+study as a baseline and reference to other researchers. 
+ 
+ 
+Contributions of Authors 
+ 
+The authors confirm the equal contribution in each part of this work. All 
+authors reviewed and approved the final version of this work. 
+ 
+ 
+Funding 
+ 
+This work was supported by the Grant Lestari Universiti Teknologi MARA 
+600-RMC/MYRA 5/3/LESTARI(053/2020).  
+ 
+ 
+Conflict of Interests 
+ 
+All authors declare that they have no conflicts of interest. 
+ 
+ 
+Acknowledgement  
+ 
+The authors wish to acknowledge the College of Engineering, Universiti 
+Teknologi MARA and Universiti Teknologi MARA for supporting this 
+research via research grant 600-RMC/MYRA 5/3/LESTARI (053/2020). 
+ 
+ 
+References  
+ 
+[1] R. Khan, A. Jabbar, I. Ahmad, W. Khan, A. N. Khan, and J. Mirza, 
+“Reduction in environmental problems using rice-husk ash in concrete”, 
+Construction and Building Materials, vol. 30, pp. 360–365, 2012, 
+https://doi.10.1016/j.conbuildmat.2011.11.028 
+[2] H. M. Owaid, R. B. Hamid, and M. R. Taha, “A review of sustainable 
+supplementary cementitious materials as an alternative to all-portland 
+cement mortar and concrete”, Australian Journal of Basic and Applied 
+Sciences, vol. 6, no. 9, pp. 287–303, 2012. 
+[3] B. S. Thomas, “Green concrete partially comprised of rice husk ash as a 
+supplementary cementitious material – A comprehensive review”, 
+
+
+===== PAGE 13 =====
+
+Effect of RHA as replacement cement on mechanical properties concrete 
+ 
+103 
+Renewable and Sustainable Energy Reviews, vol. 82, pp. 3913–3923, 
+2018, https://doi.org/10.1016/j.rser.2017.10.081 
+[4] L. S. Wee, O. C. Lian, and M. R. M. Zain, “Mechanical properties of 
+engineered cementitious composites using local ingredients”, Journal of 
+Mechanical Engineering, vol. 16, no. 2, pp. 145–157, 2019. 
+https://doi.org/10.24191/jmeche.v16i2.15332 
+[5] C. Fapohunda, B. Akinbile, and A. Shittu, “Structure and properties of 
+mortar and concrete with rice husk ash as partial replacement of ordinary 
+Portland cement – A review”, International Journal of Sustainable Built 
+Environment, 
+vol. 
+6, 
+no. 
+2, 
+pp. 
+675–692, 
+2017. 
+https://doi.10.1016/j.ijsbe.2017.07.004 
+[6] M. Jamil, A. B. M. A. Kaish, S. N. Raman, and M. F. M. Zain, “Pozzolanic 
+contribution of rice husk ash in cementitious system”, Construction and 
+Building 
+Materials, 
+vol. 
+47, 
+pp. 
+588–593, 
+2013. 
+https://doi.10.1016/j.conbuildmat.2013.05.088 
+[7] M. Amran, R. Fediuk, G. Murali, N. Vatin, M. Karelina, T. Ozbakkaloglu, 
+R.S. Krishna, A.K. Sahoo, S.K. Das, J. Mishra, “Rice husk ash‐based 
+concrete composites: A critical review of their properties and 
+applications”, 
+Crystals, 
+vol. 
+11, 
+no. 
+2, 
+pp. 
+1–33, 
+2021. 
+https://doi.10.3390/cryst11020168 
+[8] L. Prasittisopin and D. Trejo, “Effects of Mixing Time and Revolution 
+Count on Characteristics of Blended Cement Containing Rice Husk Ash”, 
+Journal of Materials in Civil Engineering, vol. 30, no. 1, pp. 04017262, 
+2018, https://doi.10.1061/(asce)mt.1943-5533.0002133 
+[9] M. Harihanandh and K. Rajashekhar, “Study on durability of concrete by 
+using rice husk as partial replacement of cement”, Materials Today: 
+Proceedings, 
+vol. 
+52, 
+pp. 
+1794–1799, 
+2022, 
+https://doi.10.1016/j.matpr.2021.11.448 
+[10] S. C. Paul, P. B. K. Mbewe, S. Y. Kong and B. Šavija, “Agricultural solid 
+waste as source of supplementary cementitious materials in developing 
+countries”, 
+Materials, 
+vol. 
+12, 
+no. 
+7, 
+pp. 
+1-20, 
+2019, 
+https://doi.10.3390/ma12071112 
+[11] M. Hanif Khan, H Zhu, M. Ali Sikandar, B. Zamin, M. Ahmad and M. 
+Muayad Sabri, “Effects of Various Mineral Admixtures and Fibrillated 
+Polypropylene Fibers on the Properties of Engineered Cementitious 
+Composite (ECC) Based Mortars”, Based Mortars. Materials (Basel), vol. 
+15, no. 8, pp. 1-21, 2022, https://doi.org/10.3390/ma15082880 
+[12] V. Charitha, V. S. Athira, V. Jittin, A. Bahurudeen and P. Nanthagopalan, 
+“Use of different agro-waste ashes in concrete for effective upcycling of 
+locally available resources”, Construction and Building Materials, vol. 
+285, pp. 122851, 2021, https://doi.10.1016/j.conbuildmat.2021.122851. 
+[13] K. Rajashekhar Reddy, M. Harihanandh and K. Murali, “Strength 
+performance of high-grade concrete using rice husk ash (RHA) as cement 
+
+
+===== PAGE 14 =====
+
+Abu Bakar et al. 
+104 
+replacement material”, Materials Today: Proceedings, vol. 46, pp. 8822–
+8825, 2021, https://doi.10.1016/j.matpr.2021.04.332 
+[14] A. Gholizadeh-Vayghan, S. Nasiri and P. Ghassemi, “Optimization of the 
+Strength Activity of Rice Husk Ash in Cementitious Mixtures”, Journal 
+of Materials in Civil Engineering, vol. 33, no. 8, pp. 1–9, 2021, 
+https://doi.10.1061/(asce)mt.1943-5533.0003838 
+[15] I. Khan, T. Xu, M.S.H. Khan, A. Castel and R.I. Gilbert, “Effect of 
+Various Supplementary Cementitious Materials on Early-Age Concrete 
+Cracking”, American Society of Civil Engineers, vol. 32, no. 4, pp. 1–9, 
+2020, https://doi.10.1061/(ASCE)MT.1943-5533.0003120 
+[16] MS EN 197-1:2014 “Cement - Part 1: Composition, specifications and 
+confority criteria for common cements”, Malaysian Standard, pp 1-6. 
+[17] BS EN 12390-3:2019 “Part 3: Compressive strength of test specimens”, 
+British Standard, pp 1-18. 
+[18] BS EN 12390-5:2009 “Testing hardened concrete Flexural strength of test 
+specimens”, British Standard, pp 1-14.  
+[19] H. Chao-Lung, B. Le Anh-Tuan and C. Chun-Tsun, Effect of rice husk 
+ash on the strength and durability characteristics of concrete, Construction 
+and Building Materials, vol. 25, no. 9, pp. 3768–3772, 2011, https://doi. 
+10.1016/j.conbuildmat.2011.04.009 
+[20] S. A. Kudus, N. K. Mustaffa and S. Shahidan, “Influence of Palm Oil Fuel 
+Ash on Mechanical Properties of Ultra-High-Performance Concrete”, 
+International Journal of Sustainable Construction Engineering and 
+Technology, 
+vol 
+13, 
+no. 
+4, 
+pp. 
+44-53, 
+2022. 
+, 
+https://doi.org/10.30880/ijscet.2022.13.04.005 
+[21] C. L Hwang and O. S. Wu, “Properties of cement paste containing rice 
+husk ash”, American Concrete Institute, ACI Special Publication, vol. 
+114, pp. 733–762, 1989. 
+[22] V. Ramasamy, “Compressive strength and durability properties of Rice 
+Husk Ash concrete”, KSCE Journal of Civil Engineering, vol 16, no. 1, 
+pp. 93–102, 2012, https://doi.org/10.1007/s12205-012-0779-2 
+[23] K. Kartini,, H.B. Mahmud, and M.S. Hamidah. "Strength properties of 
+Grade 30 rice husk ash concrete", 31st conference on our world in 
+concrete & structures, pp. 16-17, 2006.  
+[24] N.K Krishna, S. Sandeep, and K.M. Mini. "Study on concrete with partial 
+replacement of cement by rice husk ash", IOP conference series: 
+materials science and engineering, vol. 149, no. 1, pp. 012109, 2016, 
+https://doi.org/10.1088/1757-899X/149/1/012109 
+
+
+----- TABLE p14#1 -----
+
+N.K Krishna, S. Sandeep, and K.M. Mini. "Study on concrete with partial |  | 
+replacement of cement by rice husk ash", IOP conference series: |  | 
+materials science and engineering, vol. 149, no. 1, pp. 012109, 2016, |  | 
+https://doi.org/ | 10.1088/1757-899X/149/1/012109 | 

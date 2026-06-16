@@ -1,0 +1,2704 @@
+
+===== PAGE 1 =====
+
+ 
+e-ISSN 2687-2129 
+jiciviltech, 2025, 7(2), 185-207 
+*1Corresponding author 
+ 
+To cite this article 
+Srormalah, M., and Ekincioğlu, Ö. (2025). Blended Use of Corn Cob and Rice Husk Ashes in Sustainable 
+Mortar Production. Journal of Innovations in Civil Engineering and Technology (JICIVILTECH), 7(2), 185-207. 
+https://doi.org/10.60093/jiciviltech.1789979 
+Research Article 
+Blended Use of Corn Cob and Rice Husk Ashes in 
+Sustainable Mortar Production 
+ 
+1Mohamad SRORMALAH, *2Özgür EKİNCİOĞLU 
+ 
+1İstanbul Teknik Üniversitesi, Fen Bilimleri Enstitüsü, Yapı Mühendisliği Anabilim Dalı, İstanbul, Türkiye, 
+srormalah21@itu.edu.tr, ORCID ID: https://orcid.org/0009-0007-5069-0344  
+2İstanbul Teknik Üniversitesi, İnşaat Fakültesi, İnşaat Mühendisliği Bölümü, İstanbul, Türkiye, 
+ekincioglu@itu.edu.tr, ORCID ID:  https://orcid.org/0000-0003-1861-9007  
+ 
+            
+   Recieved:  24.09.2025; 
+ 
+ 
+ 
+Accepted: 01.12.2025 
+ 
+Abstract 
+The use of agricultural and industrial by-products in sustainable material production 
+has become an increasingly attractive strategy for waste management with growing 
+environmental awareness about the possible adverse effects of waste materials. 
+Therefore, the partial replacement of cement by mass with corn cob ash (CCA) and 
+rice husk ash (RHA) to develop sustainable mortar composites was investigated in 
+this study. A three-phase experimental program was conducted, including (i) 
+pozzolanic activity assessment, (ii) optimization of CCA–RHA mix ratio, and (iii) 
+evaluation of mechanical and durability properties at various blended replacement 
+levels (5–20% by mass). Key tests such as compressive and flexural strength, XRD, 
+TGA, and SEM showed enhanced cementitious performance with 5–10% cement 
+replacement. RHA accelerated early pozzolanic reactions, while CCA contributed to 
+long-term durability. Microstructural analyses indicated reduced calcium hydroxide 
+(CH) content and increased calcium silicate hydrate (C-S-H) formation. Results show 
+that blended agricultural ashes offer effective SCM potential and contribute to 
+sustainability by utilizing waste materials. 
+ 
+Keywords: Supplementary Cementitious Materials (SCM), Agricultural Waste, Corn Cob 
+Ash, Rice Husk Ash, Pozzolanic Activity 
+
+
+===== PAGE 2 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+186 
+Sürdürülebilir Harç Üretiminde Mısır Koçanı ve Pirinç 
+Kabuğu Küllerinin Birlikte Kullanımı  
+ 
+ 
+ 
+ 
+ 
+ 
+Öz 
+Atık malzemelerin çevre üzerindeki olumsuz etkilerine dair artan farkındalık, 
+tarımsal ve endüstriyel yan ürünlerin sürdürülebilir malzeme üretiminde 
+değerlendirilmesini atık yönetimi açısından giderek daha önemli bir strateji haline 
+getirmiştir. Bu çalışmada, mısır koçanı külü (CCA) ve pirinç kabuğu külü (RHA) 
+çimento ile ağırlıkça kısmi olarak ikame edilerek sürdürülebilir harç üretimi 
+geliştirilmesi araştırılmıştır. Üç aşamalı deneysel yaklaşım kapsamında (i) puzolanik 
+aktivite değerlendirmesi, (ii) CCA–RHA karışım oranının optimizasyonu ve (iii) 
+mekanik ve dayanıklılık performanslarının farklı çimento ikame oranlarında 
+(ağırlıkça 5–20%) incelenmesi gerçekleştirilmiştir. Basınç ve eğilme dayanımı testleri, 
+XRD, TGA ve SEM analizleri ile yapılan değerlendirmelerde, 5–10% çimento ikame 
+oranlarının en uygun performansı sağladığı görülmüştür. RHA erken yaşta 
+puzolanik reaksiyonları hızlandırırken, CCA uzun vadeli dayanıklılığa katkı 
+sağlamıştır. Mikroyapı analizleri, kalsiyum hidroksit (CH) içeriğinde azalma ve 
+kalsiyum silikat hidrat (C-S-H) oluşumunda artış olduğunu göstermiştir. Bulgular, 
+bitkisel kökenli atık küllerinin puzolanik potansiyele sahip olduğunu ve atık 
+malzemelerin değerlendirilmesi yoluyla sürdürülebilirliğe katkı sunduğunu 
+desteklemektedir. 
+ 
+Anahtar Kelimeler: İkincil Bağlayıcı malzeme (SCM), Tarımsal Atık, Mısır Koçanı Külü, 
+Pirinç Kabuğu Külü, Puzolanik Aktivite 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 3 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+187 
+1. Introduction 
+ 
+Cement production remains one of the 
+most 
+carbon-intensive 
+industrial 
+processes worldwide, responsible for 
+approximately 
+5-8% 
+of 
+global 
+anthropogenic 
+CO₂ 
+emissions 
+(Ekincioğlu et al., 2013), and more 
+recently reported as 6% based on 
+updated global inventories (Tiseo, 2025). 
+Its environmental footprint extends 
+beyond 
+greenhouse 
+gas 
+emissions, 
+encompassing 
+particulate 
+pollution, 
+resource 
+depletion, 
+and 
+significant 
+energy consumption. In response to 
+these 
+challenges, 
+research 
+into 
+supplementary cementitious materials 
+(SCMs) has intensified, aiming to reduce 
+Portland 
+cement 
+usage 
+while 
+maintaining 
+or 
+enhancing 
+the 
+mechanical and durability performance 
+of cementitious systems. 
+ 
+SCMs come from many sources and are 
+grouped into different categories. Early 
+studies evaluated the efficacy of natural 
+pozzolans—such 
+as 
+volcanic 
+ash, 
+diatomaceous earth, and pumice—for 
+their silica-rich composition and long-
+term durability enhancement. With 
+industrialization, by-products like fly 
+ash (FA), ground granulated blast 
+furnace slag (GGBFS), and silica fume 
+(SF) gained importance due to their high 
+reactivity and resource optimization 
+opportunities, especially in large-scale 
+applications. These materials react with 
+calcium 
+hydroxide 
+(CH) 
+through 
+secondary hydration reactions, forming 
+additional calcium silicate hydrate (C-S-
+H) gel, which contributes to denser 
+microstructures and improved long-
+term properties. 
+ 
+Meanwhile, the utilization of waste 
+materials as SCMs has emerged as a 
+promising 
+way 
+for 
+sustainable 
+construction practices, offering both 
+environmental benefits and enhanced 
+performance 
+characteristics. 
+More 
+recently, the use of agricultural waste-
+based SCMs has gained attention, 
+particularly 
+for 
+their 
+role 
+in 
+sustainability, waste valorization, and 
+local 
+material 
+sourcing. 
+Notable 
+examples include rice husk ash (RHA), 
+corn cob ash (CCA), wheat straw ash 
+(WSA), and bagasse ash (BA). Among 
+them, RHA has been extensively studied 
+due to its high amorphous silica content 
+(often exceeding 80%) and its ability to 
+react rapidly when properly calcined 
+and milled. Prior investigations (e.g., 
+Bahri et al., 2019; Le et al., 2014; Noori et 
+al., 2023; Jayaraman et al., 2023) report 
+consistent enhancements in compressive 
+and flexural strength, durability, and 
+alkali-silica reaction (ASR) resistance at 
+replacement levels of 10–15%. 
+ 
+In contrast to RHA, corn cob ash (CCA) 
+remains relatively less studied. Its 
+chemical 
+reactivity 
+and 
+pozzolanic 
+potential depend strongly on calcination 
+conditions, 
+particle 
+fineness, 
+and 
+agricultural origin. Previous studies 
+have demonstrated moderate silica 
+content 
+and 
+delayed 
+strength 
+development (Kamau et al., 2016; 
+Abubakar et al., 2016), with significant 
+improvements observed only when 
+CCA is calcined at approximately 700 °C 
+and finely ground. Under optimal 
+conditions, its pozzolanic activity index 
+(PAI) (referred to as the strength activity 
+index (SAI) 
+in 
+ASTM 
+C311) 
+can 
+
+
+===== PAGE 4 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+188 
+approach 
+the 
+minimum 
+threshold 
+required for classification as an SCM. 
+Replacement levels between 5% and 15% 
+provide 28-day compressive strengths 
+comparable to or exceeding control 
+mixes, with a 10% replacement offering 
+optimal strength gains and improved 
+ductility. 
+Nevertheless, 
+when 
+used 
+alone, CCA may adversely affect early-
+age strength and workability due to its 
+relatively low reactivity and high alkali 
+content; moreover, dosages above 15% 
+lead 
+to 
+increased 
+water 
+demand, 
+extended setting times, and, in excess of 
+20%, often require prolonged curing to 
+achieve design strength (Adebisi et al., 
+2019). 
+ 
+While both RHA and CCA have 
+individually 
+demonstrated 
+SCM 
+viability, their combined use remains 
+largely 
+unexplored. 
+Most 
+previous 
+investigations have examined rice husk 
+ash (RHA) and corn cob ash (CCA) as 
+supplementary cementitious materials 
+independently, 
+leaving 
+limited 
+understanding of how their combined 
+utilization might balance early- and 
+later-age reactivity while mitigating 
+challenges such as alkali–silica reaction 
+and early-age strength reduction. 
+ 
+A few studies (Kumari et al., 2018; 
+Olaniyi, 2022) suggest that blending 
+these ashes could yield synergistic 
+effects in binder design, leveraging 
+RHA’s early-age reactivity and CCA’s 
+long-term 
+strength 
+contribution. 
+However, 
+prior 
+research 
+lacks 
+standardized 
+experimental 
+comparisons, optimization of blend 
+ratios, 
+and 
+the 
+comprehensive 
+evaluation of mechanical, durability, 
+and microstructural performance. This 
+study aims to address that gap through 
+a 
+comprehensive 
+three-phase 
+experimental program.  
+ 
+Phase I evaluates the pozzolanic activity 
+indices of RHA and CCA across varying 
+calcination 
+temperatures. 
+Phase 
+II 
+investigates multiple RHA:CCA blend 
+ratios to determine the most favorable 
+combination 
+for 
+mechanical 
+performance. Phase III applies this 
+optimum 
+blend 
+to 
+mortars 
+with 
+replacement levels of 5%, 10%, 15%, and 
+20%, assessing fresh state properties 
+(workability, 
+air 
+content), 
+strength 
+development, 
+durability 
+(ASR 
+expansion, capillary absorption), and 
+microstructural changes through XRD, 
+TGA, and SEM analyses. 
+ 
+By improving our understanding of 
+blended agricultural waste pozzolans, 
+this study aims to contribute to the 
+development of cementitious systems 
+that are low in carbon and efficient in 
+resource use, contributing to global 
+sustainability efforts. 
+ 
+2. Materials and Methods 
+ 
+This study investigates the pozzolanic 
+performance of corn cob ash (CCA) and 
+rice husk ash (RHA) in mortar systems 
+through a three-phase experimental 
+program. 
+All 
+procedures 
+were 
+conducted in accordance with relevant 
+ASTM and EN standards. 
+ 
+2.1. Ordinary Portland Cement (OPC) 
+ 
+The cement used was CEM I 42.5N type 
+Portland cement, classified according to 
+
+
+===== PAGE 5 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+189 
+BS EN 197-1, and its density was 
+measured as 3.09 g/cm3. 
+ 
+2.2. Fine Aggregate 
+ 
+Natural sand used in the mixtures was 
+obtained from the Sakarya River and 
+sieved through a 2 mm sieve to eliminate 
+oversized particles before mixing. The 
+density was determined as 2.66 g/cm³, 
+and particle size distribution conformed 
+to the grading requirements specified in 
+BS EN 196-1. 
+ 
+2.3. Superplasticizer 
+ 
+To compensate for the increased water 
+demand of pozzolanic materials, a 
+polycarboxylate-based superplasticizer 
+(MasterGlenium 51) was used at dosages 
+up to 2% by cement weight, in 
+accordance with BS EN 934-2. The 
+density of the used superplasticizer was 
+measured as 1.1 g/cm³.  
+ 
+2.4. Rice Husk Ash (RHA) 
+ 
+RHA was commercially obtained from 
+Erdoğanlar Gıda San. ve Tic. Ltd. Şti., 
+having been previously calcined via 
+industrial processes.  Before use, the ash 
+was oven-dried and ground in a ball mill 
+to achieve a fineness below 160 µm, 
+suitable for mortar production. The 
+RHA used in the study is shown in 
+Figure 1, and its density was measured 
+as 2.57 g/cm3. 
+ 
+2.5. Corn Cob Ash (CCA) 
+ 
+CCA was used after burning and 
+grinding entirely in the laboratory. Corn 
+cobs collected from Sakarya Province as 
+agricultural 
+waste 
+material 
+were 
+calcined at four different temperatures 
+(400°C, 500°C, 600°C, and 700°C) for 2 
+hours in a muffle furnace to determine 
+the optimum burning condition. Then, 
+the obtained ash was rapidly cooled with 
+water to promote the formation of an 
+amorphous structure. After cooling, 
+samples were oven-dried at 150°C for 48 
+hours and subsequently ground using a 
+ball mill to obtain particles finer than 160 
+µm. The used CCA is shown in Figure 2, 
+and its density was measured as 2.40 
+g/cm3. 
+ 
+ 
+Figure 1. Rice husk ash used in the 
+study. 
+ 
+ 
+ 
+Figure 2. Corn cob ash after burning and 
+grinding. 
+ 
+2.6. Chemical Characterization 
+ 
+The chemical compositions of OPC, 
+RHA, and CCA were determined by X-
+
+
+===== PAGE 6 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+190 
+ray fluorescence (XRF) analysis, and the 
+oxide contents are presented in Table 1. 
+ 
+The high SiO₂ content in RHA (84.88%) 
+and moderate levels in CCA (25.17%) 
+suggest differing pozzolanic potentials. 
+The combined content of SiO₂, Al₂O₃, 
+and Fe₂O₃ (S+A+F) exceeds 85% for 
+RHA, 
+indicating 
+strong 
+pozzolanic 
+activity, while CCA shows a value 
+slightly higher than 30%, suggesting 
+limited standalone reactivity. However, 
+Olafisu et al. (2018) reported that the 
+S+A+F content of CCA tends to increase 
+with higher calcination temperatures, 
+supporting its potential when thermally 
+optimized. This supports the hypothesis 
+that RHA promotes early calcium 
+silicate hydrate (C–S–H) formation, 
+while CCA contributes to later-age 
+hydrates, although at a slower rate. 
+ 
+Although the raw CCA shows a 
+relatively 
+high 
+loss 
+on 
+ignition 
+(LOI=11.29%), this is expected due to 
+residual organics and moisture. LOI 
+values 
+are 
+known 
+to 
+decrease 
+significantly 
+upon 
+incineration 
+at 
+elevated temperatures, which enhances 
+the 
+ash’s 
+reactivity 
+and 
+stability. 
+Therefore, CCA in this study was 
+considered as a supplementary material 
+only after calcination, particularly in 
+blended systems with RHA, where it 
+may contribute to long-term matrix 
+refinement and promote sustainable 
+material utilization.  
+ 
+Low CaO levels in both ashes (1.05% in 
+RHA, 2.45% in CCA) confirm their non-
+cementitious nature, reinforcing their 
+role as supplementary cementitious 
+materials. The high K₂O content in CCA 
+(39.70%) may influence alkali–silica 
+reaction (ASR) risk, while low SO₃ levels 
+in both ashes minimize concerns about 
+sulfate-related expansion. 
+ 
+These compositional characteristics form 
+the basis for selecting and interpreting 
+subsequent tests, including SAI, ASR, 
+capillary absorption, 
+microstructural 
+analysis, and mechanical strengths. 
+ 
+Table 1. Major oxides of raw materials 
+determined by XRF analysis. 
+Compound OPC (%) RHA (%) CCA (%) 
+SiO₂ 
+16.83 
+84.88 
+25.17 
+Al₂O₃ 
+3.84 
+0.22 
+3.20 
+Fe₂O₃ 
+3.70 
+0.28 
+2.10 
+MgO 
+1.06 
+0.52 
+3.88 
+CaO 
+64.51 
+1.05 
+2.45 
+Na₂O 
+0.32 
+0.55 
+0.45 
+K₂O 
+1.10 
+3.60 
+39.70 
+TiO₂ 
+0.25 
+0.31 
+1.49 
+P₂O₅ 
+0.20 
+0.86 
+5.70 
+Cr₂O₃ 
+0.12 
+<0.01 
+<0.01 
+SO₃ 
+4.73 
+0.31 
+1.49 
+LOI 
+3.07 
+7.30 
+11.29 
+ 
+2.7. Experimental Design Overview 
+ 
+The 
+experimental 
+program 
+was 
+conducted in three distinct phases, and 
+Figure 3 provides an overview of the 
+experimental methodology and key 
+steps. 
+ 
+2.7.1. Phase I – Evaluation of Pozzolanic 
+Activity Index (PAI) 
+ 
+In this phase, 20% of cement was 
+replaced with either RHA or CCA 
+calcined 
+at 
+different 
+temperatures. 
+
+
+===== PAGE 7 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+191 
+Compressive strength development at 7 
+and 28 days was assessed, and PAI 
+values were calculated by comparing the 
+test results with reference samples. A 
+minimum PAI of 0.75 was adopted as the 
+acceptance threshold, in accordance 
+with BS EN 450-1 and ASTM C618. 
+ 
+ 
+ 
+Figure 3. Overview of the experimental methodology. 
+ 
+2.7.2. Phase II –Optimization of RHA 
+and CCA Blend Ratio 
+ 
+In the second phase of the investigation, 
+the 
+focus 
+shifted 
+from 
+individual 
+evaluation to exploring the combined 
+effect of CCA and RHA. For this 
+purpose, CCA with the highest PAI 
+(calcined at 700°C) was blended with 
+RHA at varying internal ratios while 
+maintaining a total binder replacement 
+level of 20%. Mix designs included 
+0C20R, 5C15R, 10C10R, 15C5R, and 
+20C0R. Here, “C” and “R” represent 
+CCA and RHA, respectively, and the 
+preceding 
+numbers 
+indicate 
+their 
+replacement percentages. The water-to-
+binder ratio was fixed at 0.50. Mortar 
+prisms (40×40×160 mm) were tested for 
+flexural strength via three-point bending 
+at 7 and 28 days in accordance with BS 
+EN 196-1. Compressive strength was 
+measured on the broken halves of 
+mortars after flexural testing. All flexural 
+and 
+compressive 
+strength 
+values 
+represent the average of three specimens 
+per mix design, tested to ensure 
+consistency and reduce variability in 
+reported results. 
+ 
+2.7.3. Phase III – Effect of Total 
+Replacement Level Using Optimal 
+Blend  
+ 
+In the final phase, the optimal blend ratio 
+identified in phase II (75% CCA + 25% 
+RHA) was used to evaluate the effect of 
+varying total binder replacement levels: 
+5%, 10%, 15%, and 20%. Mixtures were 
+coded as M5 to M20, corresponding to 
+the total replacement percentage.  For 
+example, in M5, 5% of cement was 
+replaced 
+with 
+the 
+optimal 
+blend, 
+comprising 3.75% CCA and 1.25% RHA. 
+The mix designs for the third phase are 
+shown in Table 2.  
+ 
+Fresh-state tests included workability 
+(BS EN 1015-3) and air content (ASTM 
+C185). 
+Hardened-state 
+assessments 
+
+
+===== PAGE 8 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+192 
+involved 
+flexural 
+and 
+compressive 
+strength (BS EN 196-1), capillary water 
+absorption (ASTM C1585, BS EN 1015-
+18), and ASR expansion (ASTM C1567).
+ 
+Table 2. Mix design for phase III (optimum replacement percentages). 
+Materials 
+and ratios 
+ Density 
+(g/cm3) 
+M0 
+(REF) 
+M5 
+M10 
+M15 
+M20 
+Water 
+1 
+225 
+225 
+225 
+225 
+225 
+Sand 
+2.66 
+1350 
+1350 
+1350 
+1350 
+1350 
+OPC 
+3.14 
+450 
+427.5 
+405 
+382.5 
+360 
+CCA 
+2.47 
+0 
+16.9 
+33.75 
+50.6 
+67.5 
+RHA 
+2.57 
+0 
+5.6 
+11.25 
+16.9 
+22.5 
+S.P. 
+1.09 
+6 
+6 
+6 
+6 
+6 
+W/B 
+ 
+0.5 
+0.5 
+0.5 
+0.5 
+0.5 
+Poz/Binder 
+ 
+0 
+0.05 
+0.1 
+0.15 
+0.2 
+ 
+2.8. Microstructural Analysis 
+ 
+Microstructural 
+characterization 
+employed the following methods to 
+investigate 
+the 
+pozzolanic 
+reaction 
+mechanisms, 
+including 
+calcium 
+hydroxide (CH) consumption, calcium 
+silicate hydrate (C-S-H) formation, and 
+quartz formation as a function of 
+increasing cement replacement with 
+CCA and RHA.  
+ 
+2.8.1. X-ray Diffraction (XRD) 
+ 
+Five mortar mixtures (M0, M5, M10, 
+M15, and M20) were analyzed at the 
+Prof. Dr. Adnan Tekin Material Sciences 
+and 
+Production 
+Technologies 
+Application Research Center (ATUM) at 
+Istanbul 
+Technical 
+University. 
+Specimens were ground to powder, and 
+the diffraction data were collected in the 
+10–60° 2θ range, where the most 
+resolved 
+peaks 
+were 
+observed. 
+Quantitative 
+phase 
+analyses 
+were 
+performed using computer software 
+(Malvern Panalytical ver. 5.2) to assess 
+the evolution of hydration products. 
+ 
+2.8.2. 
+Thermogravimetric 
+Analysis 
+(TGA) 
+ 
+Thermogravimetric analysis (TGA) was 
+performed on the same five mixtures 
+(M0-M20) to quantify calcium hydroxide 
+content through decomposition profiles. 
+The samples were ground to a fine 
+powder and placed in ceramic crucibles. 
+Heating was performed from room 
+temperature to 650 °C at a rate of 10 
+°C/min under static air conditions. 
+Weight loss between 400–600°C was 
+used to estimate CH decomposition, 
+providing insight into the extent of 
+pozzolanic reaction. 
+ 
+2.8.3. Scanning Electron Microscopy 
+(SEM) 
+ 
+SEM imaging was carried out at the 
+Membrane Technologies Application-
+Research Center (MEM-TEK), Istanbul 
+Technical University, for five mixtures 
+
+
+===== PAGE 9 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+193 
+(M0-M20). 
+Mortar 
+specimens 
+were 
+crushed into approximately 1 cm * 1 cm 
+fragments, and at least four pieces from 
+each mixture were prepared. In the 
+provided SEM figures, magnification 
+ratios of 50 µm and 100 µm are used, 
+enabling 
+detailed 
+observation 
+of 
+morphological features such as C-S-H 
+gel formation, reduction in CH crystals, 
+and changes in pore structure at 
+different scales. These observations 
+supported the quantitative findings 
+obtained from XRD and TGA analyses. 
+All SEM evaluations were performed on 
+specimens aged approximately 60 days, 
+allowing the visualization of mature 
+hydration 
+products 
+and 
+long-term 
+microstructural development. 
+ 
+3. Results and Discussion 
+ 
+3.1. Results of Phase I – Evaluation of 
+Pozzolanic Activity Index (PAI) 
+ 
+The pozzolanic performance of as-
+received RHA and CCA, calcined at four 
+different temperatures (400°C, 500°C, 
+600°C, 700°C), was evaluated based on 
+compressive strength measurements of 
+mortars at 7 and 28 days. Each modified 
+mix 
+contained 
+20% 
+pozzolanic 
+replacement by weight of OPC. The 
+reference mortar (100% OPC was used as 
+binder) served as the control specimen 
+for calculating PAI values. The results 
+are presented in Table 3, showing the 
+compressive 
+strength 
+and 
+corresponding PAI values at both curing 
+ages. 
+ 
+The data clearly show that, all CCA-
+based mixes exhibited relatively low PAI 
+values, particularly at early ages, with 
+most failing below the ASTM C618 
+minimum 
+threshold 
+of 
+0.75. 
+This 
+indicates limited pozzolanic activity of 
+CCA, especially during the initial 
+hydration period. Among the CCA 
+variants, only the sample calcined at 
+700°C 
+(CCA700) 
+approached 
+the 
+threshold at both 7 and 28 days (PAI = 
+0.75 and 0.76, respectively), suggesting 
+improved reactivity due to increased 
+amorphous silica content and reduced 
+residual organics. This trend aligns with 
+findings 
+by 
+Olaleye 
+(2022), 
+who 
+demonstrated that corncob ash calcined 
+at 700°C can serve as a viable pozzolanic 
+material 
+in 
+concrete 
+applications. 
+Additional support is provided by 
+Olafusi 
+et 
+al. 
+(2018), 
+whose 
+characterization of CCA calcined at 
+approximately 625–650°C confirmed its 
+compliance with ASTM C618 criteria 
+and its suitability as a cementitious 
+additive. 
+ 
+In contrast, RHA exhibited higher PAI 
+values (0.89 at 7 days and 0.83 at 28 
+days), 
+confirming 
+its 
+superior 
+pozzolanic performance, particularly at 
+early ages. This behavior is attributed to 
+its highly reactive amorphous silica 
+phase 
+and 
+fine 
+particle 
+size, as 
+supported by Siddika et al. (2020), who 
+reported that ash fineness and the 
+presence 
+of 
+amorphous 
+silica 
+significantly accelerate early C–S–H 
+formation and CH consumption, thereby 
+enhancing pozzolanic reactivity. 
+ 
+These 
+findings 
+highlight 
+the 
+temperature- and age-dependent nature 
+of CCA’s reactivity and support the 
+selection 
+of 
+CCA700 
+for 
+further 
+investigation in Phase II. Although 
+
+
+===== PAGE 10 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+194 
+mechanical tests were limited to 7 and 28 
+days, the observed trends suggest 
+evolving pozzolanic behavior over time. 
+The results also confirm the high 
+pozzolanic 
+potential 
+of 
+RHA, 
+particularly at early ages.  
+ 
+ 
+ 
+Table 3. Compressive strength and pozzolanic activity index of RHA and CCA-based 
+mortars. 
+Sample 
+Calcination 
+Temp (°C) 
+7-Day Comp. 
+Strength (MPa) 
+28-Day Comp. 
+Strength (MPa) 
+PAI  
+(7-Day) 
+PAI  
+(28-Day) 
+REF 
+— 
+44.6 
+59.7 
+1.00 
+1.00 
+RHA 
+Industrial 
+39.7 
+49.4 
+0.89 
+0.83 
+CCA400 
+400 
+22.0 
+33.3 
+0.49 
+0.56 
+CCA500 
+500 
+24.9 
+38.3 
+0.56 
+0.64 
+CCA600 
+600 
+26.2 
+40.1 
+0.59 
+0.67 
+CCA700 
+700 
+33.3 
+45.2 
+0.75 
+0.76 
+3.2. Results of Phase II – Optimization 
+of RHA/CCA Blend Ratio 
+ 
+In Phase II, the total replacement level 
+was fixed at 20% by mass, by varying the 
+internal ratio between RHA and CCA: 
+0C20R, 5C15R, 10C10R, 15C5R, and 
+20C0R. The objective was to determine 
+the 
+blend 
+that 
+offered 
+the 
+best 
+mechanical 
+performance 
+while 
+maintaining acceptable workability. The 
+reference mix (M0), consisting entirely of 
+OPC as binder, was included for 
+comparison under an identical water-to-
+binder ratio (w/b = 0.50). The mechanical 
+performance results are summarized in 
+Table 4, showing the flexural and 
+compressive strength results at 7 and 28 
+days for all mixes. 
+ 
+As shown in Table 4, all modified mixes 
+exhibited lower strength values than the 
+reference (M0), reflecting the expected 
+impact of partial replacement of OPC. 
+Among the alternatives, 0C20R and 
+15C5R yielded the highest compressive 
+strength at 28 days (49.4 MPa and 49.2 
+MPa, respectively), with 15C5R also 
+demonstrating 
+consistent 
+early-age 
+performance. Notably, the 20C0R mix, 
+containing only CCA, exhibited the 
+lowest strength values at both ages, 
+suggesting that increasing CCA content 
+beyond 15% may adversely affect 
+mechanical performance.  
+ 
+Flexural strength results followed a 
+similar trend. At 28 days, the blended 
+mixes containing both RHA and CCA—
+namely 5C15R, 10C10R, and 15C5R—
+achieved flexural strengths of 8.3, 8.2, 
+and 
+8.1 
+MPa, 
+respectively, 
+corresponding to 77%, 76%, and 75% of 
+the reference value. In contrast, the 
+20C0R mix reached only 6.4 MPa (59% of 
+M0), indicating that RHA plays a key 
+role 
+in 
+enhancing 
+the 
+mechanical 
+synergy of blended pozzolanic systems. 
+ 
+
+
+===== PAGE 11 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+195 
+Table 4. Mechanical properties of mortars with varying CCA/RHA blend ratios. 
+Mix 
+Code 
+CCA 
+(%) 
+RHA 
+(%) 
+7-Day Flex. 
+St. (MPa) 
+7-Day Comp. 
+Str. (Mpa) 
+28-Day Flex. 
+St.  (MPa) 
+28-Day Comp. 
+Str.  (MPa) 
+M0 
+0 
+0 
+9.2 
+46.0 
+10.8 
+59.7 
+0C20R 
+0 
+20 
+7.3 
+39.7 
+8.5 
+49.4 
+5C15R 
+5 
+15 
+7.1 
+38.4 
+8.3 
+46.5 
+10C10R 
+10 
+10 
+6.9 
+39.2 
+8.2 
+48.0 
+15C5R 
+15 
+5 
+6.9 
+39.6 
+8.1 
+49.2 
+20C0R 
+20 
+0 
+5.6 
+33.3 
+6.4 
+45.2 
+Moreover, 
+early-age 
+compressive 
+strength data revealed that RHA-
+containing mixes (5C15R, 10C10R, and 
+15C5R) reached 83–86% of the reference 
+(M0) strength at 7 days, whereas the 
+CCA-only mix (20C0R) achieved just 
+73%. This suggests that RHA contributes 
+to accelerated hydration and early 
+strength development, likely due to its 
+high amorphous silica content and fine 
+particle size. These results suggest that 
+formulations 
+with 
+moderate 
+RHA 
+content and controlled CCA inclusion 
+can sustain mechanical integrity when 
+properly proportioned. 
+ 
+Although the differences in 28-day 
+compressive strength among the top-
+performing mixes (0C20R, 10C10R, and 
+15C5R) were relatively small—within a 
+range of 1.4 MPa—the 15C5R mix was 
+selected for subsequent investigation. 
+While the 10C10R blend also showed 
+promising results, 15C5R demonstrated 
+a more favorable balance between early-
+age strength and long-term performance 
+indicators. Additionally, this blend 
+allowed for a higher proportion of CCA, 
+which is less studied in the literature. 
+Therefore, the composition, comprising 
+75% CCA and 25% RHA within the 
+replacement fraction, was considered 
+optimal for Phase III, where the impact 
+of total binder replacement percentage 
+on both fresh and hardened properties 
+was systematically evaluated. 
+ 
+3.3. Results of Phase III – Replacement 
+Percentage Study of Optimal Blend 
+ 
+In phase III, the 15C5R blend, previously 
+identified in Phase II as mechanically 
+optimal, was investigated at four total 
+replacement levels: 5%, 10%, 15%, and 
+20%. A reference mix (M0), containing 
+100% OPC, served as the control 
+mixture. All mixtures were prepared 
+with a constant water-to-binder ratio of 
+0.50 to ensure comparability across tests. 
+ 
+3.3.1. Fresh-State Properties 
+ 
+Workability was assessed via flow table 
+tests in accordance with BS EN 1015-3, 
+while 
+air 
+content 
+was 
+measured 
+following ASTM C185. The results are 
+presented in Figure 4. 
+ 
+A consistent trend of decreasing flow 
+diameter was observed with increasing 
+replacement levels, indicating a gradual 
+reduction in workability. This decline is 
+
+
+===== PAGE 12 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+196 
+primarily attributed to the incorporation 
+of pozzolanic materials—particularly 
+rice husk ash (RHA)—which possess 
+high silica content and extremely fine 
+particle 
+size. 
+These 
+characteristics 
+increase the surface area available for 
+water absorption, thereby elevating 
+water demand and reducing flowability.
+ 
+ 
+Figure 4. Relation between air content and workability. 
+ 
+ Singh (2019) reported that the high 
+surface area and fineness of RHA 
+significantly increase water demand, 
+leading to reduced workability. He 
+recommended the use of chemical 
+admixtures—such as superplasticizers—
+to 
+restore 
+acceptable 
+flow. 
+More 
+recently, 
+Abellan-García 
+(2023) 
+investigated the fresh properties of 
+concrete containing RHA and likewise 
+attributed the reduction in workability 
+to RHA’s high silica content and 
+absorptive 
+nature. 
+These 
+outcomes 
+demonstrate the consistent trend of 
+reduced flow as replacement levels rise.  
+ 
+In the present study, a polycarboxylate-
+based superplasticizer was employed to 
+mitigate the increased water demand. As 
+a result, flow diameters ranging from 16 
+cm to 20 cm were achieved at all 
+replacement levels. These values fall 
+well within the acceptable range for 
+mortar applications, indicating that all 
+mixtures 
+retained 
+satisfactory 
+workability throughout production. 
+Conversely, air content exhibited a 
+steady increase with rising replacement 
+percentages. This phenomenon is likely 
+due to the irregular morphology and 
+porous nature of RHA and CCA 
+particles, which promote air entrapment 
+during mixing. As shown in Figure 4, an 
+inverse relationship between air content 
+and workability is evident, aligning with 
+established 
+principles 
+in 
+concrete 
+technology: increased air content tends 
+to disrupt the flowability of the mixture, 
+thereby reducing its workability. 
+ 
+To improve workability in mixtures 
+containing agricultural ashes, several 
+2,00
+1,97
+2,17
+2,28
+2,73
+2,69
+2,79
+2,81
+2,84
+2,92
+20
+20
+20
+20
+19
+19
+17
+17
+16
+16
+0
+5
+10
+15
+20
+25
+0,00
+0,50
+1,00
+1,50
+2,00
+2,50
+3,00
+7 days 28 days 7 days 28 days 7 days 28 days 7 days 28 days 7 days 28 days
+M0
+M5
+M10
+M15
+M20
+Flow diameter (cm)
+Air content %
+Air content %
+Flow diameter (cm)
+
+
+===== PAGE 13 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+197 
+practical strategies may be considered. 
+In this study, a polycarboxylate-based 
+superplasticizer was used to mitigate the 
+elevated water demand associated with 
+the fine and absorptive nature of RHA. 
+The use of blended RHA–CCA systems 
+also helped maintain acceptable flow, 
+likely due to differences in particle 
+morphology and packing behavior, even 
+though both ashes were sieved to the 
+same 
+nominal 
+size 
+before 
+use. 
+Additional 
+approaches—such 
+as 
+adjusting 
+the 
+water-to-binder 
+ratio 
+within practical limits or applying pre-
+treatment 
+methods 
+to 
+reduce 
+ash 
+porosity—may 
+further 
+enhance 
+consistency during mixing. 
+ 
+3.3.2. Mechanical Strength 
+ 
+Flexural 
+and 
+compressive 
+strength 
+results at 7 and 28 days are shown in 
+Table 5. 
+ 
+Table 5. Strength development of mortars with increasing replacement ratios. 
+Mix 
+Code 
+Replacement 
+(%) 
+7-Day Flex. 
+St.  (MPa) 
+28-Day Flex. 
+St.  (MPa) 
+7-Day Comp. 
+Str.  (MPa) 
+28-Day Comp. 
+Str.  (MPa) 
+M0 
+0 
+9.2 
+10.9 
+51.0 
+61.6 
+M5 
+5 
+8.4 
+10.1 
+50.1 
+59.8 
+M10 
+10 
+7.5 
+9.9 
+46.6 
+56.6 
+M15 
+15 
+7.3 
+8.7 
+44.7 
+52.2 
+M20 
+20 
+6.9 
+8.1 
+39.6 
+49.2 
+At 28 days, all modified mixes retained 
+between 
+80% 
+and 
+97% 
+of 
+the 
+compressive strength of M0, with M5 
+exhibiting the closest performance to the 
+reference mix.  Although a gradual 
+decline in strength was observed with 
+increasing 
+replacement 
+ratios, 
+the 
+reductions remained within acceptable 
+engineering limits. Notably, even the 
+M20 mix, which incorporated the 
+highest replacement level, achieved a 
+compressive strength of 49.2 MPa—
+approximately 80% of the reference 
+value 
+(61.6 
+MPa) 
+—indicating 
+its 
+potential suitability for general-purpose 
+mortar applications.  
+ 
+Flexural strength followed a similar 
+downward trend. The reduction in 
+strength is primarily attributed to the 
+dilution of cementitious content and the 
+relatively moderate pozzolanic activity 
+of CCA. However, the presence of RHA 
+appears to mitigate early-age strength 
+loss, likely due to its high amorphous 
+silica content and micro-filler effect, 
+which enhances particle packing and 
+contributes to early hydration.  
+ 
+These findings suggest that up to 10–
+15% 
+replacement 
+levels 
+can 
+be 
+implemented 
+without 
+significantly 
+compromising mechanical performance, 
+especially when RHA is included in the 
+blend to offset the limitations of CCA. 
+ 
+ 
+ 
+
+
+===== PAGE 14 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+198 
+3.3.3. Durability Indicators 
+ 
+Two 
+key 
+durability 
+metrics 
+were 
+assessed: the coefficient of capillary 
+water 
+absorption, 
+measured 
+in 
+accordance with BS EN 1015-18, and 
+alkali-silica reaction (ASR) expansion at 
+14 days, evaluated following ASTM 
+C1567. The results are summarized in 
+Table 6. 
+ 
+Table 6. Durability performance of mortars. 
+Mix 
+Code 
+Replacement 
+(%) 
+Coef. of Water Absorption 
+(kg/m²·min⁰·⁵) 
+ASR Expansion at 14 
+days (%) 
+M0 
+0 
+0.053 
+0.34 
+M5 
+5 
+0.057 
+0.33 
+M10 
+10 
+0.067 
+0.32 
+M15 
+15 
+0.063 
+0.30 
+M20 
+20 
+0.080 
+0.28 
+ 
+Capillary 
+water 
+absorption 
+values 
+showed a gradual increase with higher 
+replacement 
+levels, 
+rising 
+from 
+0.053 kg/m²·min⁰·⁵ in the control mix 
+(M0) 
+to 
+0.080 kg/m²·min⁰·⁵ 
+at 
+20% 
+replacement. This trend suggests that 
+the incorporation of CCA and RHA may 
+lead to a more porous matrix, likely due 
+to the reduced cement content and 
+incomplete hydration.  
+ 
+ASR 
+expansion 
+values 
+decreased 
+modestly with increasing replacement, 
+from 0.34% in the control mix to 0.28% at 
+20% replacement. Although these values 
+remain 
+above 
+the 
+ASTM 
+C1567 
+threshold 
+of 
+0.10% 
+for 
+harmless 
+behavior, the downward trend suggests 
+a partial mitigation effect. This reduction 
+is primarily attributed to the high silica 
+content and pozzolanic activity of RHA, 
+which consumes calcium hydroxide and 
+contributes 
+to 
+the 
+formation 
+of 
+additional calcium-silicate-hydrate (C-S-
+H), thereby densifying the matrix and 
+limiting alkali mobility. Additionally, 
+the alkali-binding potential of properly 
+calcined CCA may have contributed 
+secondarily, 
+depending 
+on 
+its 
+combustion 
+conditions 
+and 
+mineralogical composition.  
+ 
+The combined presence of RHA and 
+CCA appears to provide a synergistic 
+effect that partially suppresses ASR-
+related expansion, while both ashes can 
+contribute a micro-filler effect that 
+enhances 
+matrix 
+densification.  
+Nevertheless, 
+increased 
+capillary 
+absorption 
+at 
+higher 
+replacements 
+indicates potential durability problems. 
+To ensure the robustness of these 
+findings, 
+future 
+studies 
+should 
+incorporate detailed statistical analysis 
+alongside extended durability testing—
+such as long-term ASR monitoring, 
+chloride penetration resistance, and 
+freeze–thaw 
+cycling—to 
+validate 
+performance under field conditions and 
+refine optimal replacement levels for 
+practical applications.  
+ 
+
+
+===== PAGE 15 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+199 
+3.4. Microstructural Analysis 
+ 
+Microstructural 
+evaluations 
+were 
+performed on all mortar samples from 
+Phase III, namely M0, M5, M10, M15, 
+and M20. These analyses (XRD, TGA, 
+SEM) were conducted to test the 
+hypothesis that rice husk ash (RHA), due 
+to its high amorphous silica content, 
+would accelerate early calcium silicate 
+hydrate (C–S–H) nucleation, while corn 
+cob ash (CCA), with its slower reactivity, 
+would contribute to later-age hydrate 
+formation. Accordingly, XRD and TGA 
+were used to monitor crystalline phase 
+evolution 
+and 
+quantify 
+calcium 
+hydroxide (CH) consumption, while 
+SEM 
+provided visual evidence of 
+morphological refinement and C-S-H gel 
+development. Together, these methods 
+clarify the mechanisms behind the 
+observed trends in durability and 
+mechanical performance. 
+ 
+3.4.1. X-ray Diffraction (XRD) 
+ 
+X-ray diffraction of mortars (M0 to M20) 
+from 10 to 60◦ 2θ are given in Figure 5. 
+The aim was to follow crystalline phase 
+evolution (portlandite, quartz, alite, 
+belite, ettringite, calcite) and to infer 
+amorphous C–S–H development from 
+changes in crystalline peak intensities 
+and 
+background 
+intensity. 
+Major 
+crystalline peaks detected in all samples: 
+portlandite at ≈18°, 34.5°, 47.5°, and 48.5° 
+2θ; quartz at ≈20.9°, 26.9°, and 43.5° 2θ; 
+alite near ≈29° 2θ (see patterns in Figure 
+5). No new crystalline phases appeared 
+with 
+RHA–CCA 
+replacement; 
+the 
+principal variation among mixes was in 
+relative peak intensities rather than 
+presence/absence of phases. 
+  
+ 
+ 
+ 
+ 
+Figure 5. X-ray diffraction for different mortars from 10 to 60◦ 2θ. 
+ 
+Alite
+CH
+Quartz
+Alite
+Quartz
+Quartz
+CH Quartz
+CH
+0
+5000
+10000
+15000
+20000
+25000
+10
+20
+30
+40
+50
+60
+Intensity
+M0
+M5
+M10
+M15
+M20
+
+
+----- TABLE p15#1 -----
+
+ | Quartz
+A | lite |  | 
+ |  | Alite |  | 
+ |  |  |  | 
+CH | Quartz | Quartz | Quartz | 
+ |  | CH |  | CH
+
+===== PAGE 16 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+200 
+Figure 6 and Figure 7 show the 
+portlandite (Ca(OH)2) and quartz (SiO2) 
+percentages 
+in 
+various 
+mortar 
+specimens according to quantitative 
+analysis of the XRD test. CH peak 
+intensities decreased as the replacement 
+increased, 
+indicating 
+a 
+progressive 
+consumption of free Ca(OH)₂ through 
+pozzolanic reactions. Semi-quantitative 
+XRD 
+values 
+derived 
+from 
+peak 
+integration are shown in Figure 6: M0 
+(13.3%), M5 (8.3%), M10 (6.7%), M15 
+(8.7%), M20 (7.9%). The strongest CH 
+depletion 
+occurs 
+at 
+low–moderate 
+replacements (M5–M10), consistent with 
+active RHA-driven pozzolanic reaction. 
+The partial rebound at M15 is likely due 
+to sampling heterogeneity or incomplete 
+reaction of less-reactive CCA particles.
+ 
+ 
+Figure 6. Portlandite (Ca(OH)2) percent in mortars. 
+ 
+ 
+Figure 7. Quartz (SiO2) percent in mortars. 
+ 
+13,3
+8,3
+6,7
+8,7
+7,9
+0
+2
+4
+6
+8
+10
+12
+14
+M0
+M5
+M10
+M15
+M20
+Percentage %
+29,6
+43,6
+37,1
+36,9
+44,1
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+M0
+M5
+M10
+M15
+M20
+Percentage %
+
+
+----- TABLE p16#1 -----
+
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  | 6,7 |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+
+----- TABLE p16#2 -----
+
+ |  |  | 37,1 |  |  |  |  | 
+ |  |  | 36,9 |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+
+===== PAGE 17 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+201 
+The crystalline quartz fraction increased 
+with replacement: M0: 29.6%, M5: 43.6%, 
+M10: 37.1%, M15: 36.9%, M20: 44.1% as 
+can be seen in Figure 7. The rise in quartz 
+represents the larger contribution of 
+crystalline or slowly reactive silica from 
+RHA/CCA in 
+the 
+binder 
+fraction. 
+Increased quartz does not impede 
+pozzolanic activity but signals that a 
+portion of silica remains crystalline/inert 
+at the examined curing age. 
+ 
+Although phases such as C–S–H and 
+ettringite are largely amorphous and 
+thus not directly detectable via XRD, the 
+observed 
+changes 
+in 
+crystalline 
+components indirectly support their 
+formation. A modest increase in calcite 
+(CaCO3) reflections was also observed, 
+consistent with partial carbonation of 
+residual 
+CH 
+or 
+transformation 
+of 
+secondary hydration products during 
+curing/handling. 
+ 
+These findings are consistent with the 
+microstructural and thermal analyses 
+presented in later sections, collectively 
+confirming the pozzolanic activity and 
+its contribution to matrix densification. 
+ 
+3.4.2. 
+Thermogravimetric 
+Analysis 
+(TGA) 
+ 
+The TGA results are presented in Figure 
+8, and CH quantification is plotted in 
+Figure 9. CH was calculated following 
+the method proposed by Aliabdo et al. 
+(2016), based on the mass loss between 
+400–600 °C using Equation 1, where WT 
+is 
+the 
+overall 
+weight 
+reduction 
+percentage between 400 and 600°C, WCH 
+is the molecular weight of CH (74 g/mol), 
+and WW is the molecular weight of water 
+(18 g/mol).  
+𝐶𝐻 (%) = 𝑊𝑇∗(𝑊𝐶𝐻
+𝑊𝑊
+) 
+(1) 
+ 
+Figure 8. Correlation between the temperature and weight loss. 
+ 
+
+
+===== PAGE 18 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+202 
+ 
+Figure 9. Calcium hydroxide (CH) content in different replacement percentages. 
+ 
+As shown in Figure 9, CH content 
+exhibited a generally decreasing trend 
+with increasing replacement levels, 
+consistent with the expected pozzolanic 
+behavior of CCA and RHA. The control 
+mixture (M0) showed the highest CH 
+content (11.80%), while all modified 
+mixtures demonstrated varying degrees 
+of reduction. These results suggest that 
+while the pozzolanic reaction generally 
+leads to CH reduction, the rate and 
+extent of this reaction may vary 
+depending 
+on 
+the 
+replacement 
+percentage and the interaction between 
+CCA and RHA. The observed CH 
+depletion supports the XRD findings, 
+which indicated diminished portlandite 
+peaks in mixtures with higher additive 
+content. This correlation reinforces the 
+role 
+of 
+pozzolanic 
+materials 
+in 
+promoting secondary C–S–H formation 
+and enhancing the cementitious matrix. 
+ 
+Although M5 and M15 yielded slightly 
+lower CH values than expected relative 
+to M10 and M20, these variations remain 
+within a plausible range and do not 
+disrupt the overall downward trend. 
+Such fluctuations may be attributed to 
+sample 
+heterogeneity 
+or 
+localized 
+differences 
+in 
+ash 
+reactivity, 
+or 
+incomplete hydration at the time of 
+testing. Nevertheless, the results confirm 
+the 
+broader 
+interpretation 
+of 
+the 
+pozzolanic effectiveness of the RHA-
+CCA blend and its contribution to matrix 
+densification. 
+ 
+3.4.3. Scanning Electron Microscopy 
+(SEM) 
+ 
+The SEM analyses revealed progressive 
+microstructural refinement across the 
+mortar mixtures with increasing levels 
+of CCA and RHA replacement. The 
+control specimen (M0), shown in Figure 
+10, exhibited a porous matrix dominated 
+by 
+large, 
+well-defined 
+calcium 
+hydroxide 
+(CH) 
+crystals, 
+often 
+accompanied by microcracks and voids. 
+These 
+features 
+suggest 
+limited 
+pozzolanic 
+activity 
+and 
+potential 
+vulnerability to long-term durability 
+loss. 
+ 
+11,80
+8,06
+10,28
+8,06
+9,13
+0,00
+2,00
+4,00
+6,00
+8,00
+10,00
+12,00
+14,00
+M0
+M5
+M10
+M15
+M20
+CH %
+
+
+----- TABLE p18#1 -----
+
+ |  |  |  |  |  |  |  | 
+ | 8,06 |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  | 
+
+===== PAGE 19 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+203 
+ 
+Figure 10. SEM images of the control 
+specimen (M0). 
+ 
+ 
+Figure 11. SEM images of M5. 
+ 
+ 
+Figure 12. SEM images of M10. 
+ 
+ 
+Figure 13. SEM images of M15. 
+ 
+ 
+Figure 14. SEM images of M20. 
+ 
+In contrast, the modified mixtures 
+demonstrated enhanced morphological 
+characteristics: 
+• 
+M5 (Figure 11) showed a slight 
+increase in calcium-silicate-hydrate 
+(C–S–H) gel formation, though CH 
+crystals and microcracks remained 
+visible. 
+This 
+suggests 
+that 
+pozzolanic reactions had initiated 
+but were not yet sufficient to 
+significantly densify the matrix. 
+• 
+M10 
+(Figure 
+12) 
+presented 
+a 
+noticeably denser structure with 
+reduced CH content and more 
+cohesive C–S–H gel networks. The 
+absence of visible cracks suggests 
+improved internal bonding and 
+microstructural stability. 
+• 
+M15 (Figure 13) exhibited further 
+suppression of CH crystals and 
+increased continuity in the C–S–H 
+phase. The matrix appeared more 
+compact, 
+reflecting 
+ongoing 
+secondary hydration and enhanced 
+particle integration. 
+• 
+M20 (Figure 14) displayed the most 
+refined morphology, with near-
+complete elimination of CH crystals 
+and extensive C–S–H coverage. 
+Although some porosity persisted, 
+the overall structure was markedly 
+homogeneous and tightly bonded. 
+ 
+
+
+===== PAGE 20 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+204 
+These morphological trends align with 
+the quantitative findings from XRD and 
+TGA analyses, confirming the sustained 
+pozzolanic activity and reduction in free 
+lime content over time. While early-age 
+mechanical 
+strength 
+showed 
+a 
+decreasing trend with higher SCM 
+content, the SEM observations suggest a 
+promising 
+trajectory 
+for 
+long-term 
+durability and matrix densification. The 
+dual contribution of CCA and RHA 
+appears 
+to 
+foster 
+a 
+synergistic 
+refinement 
+of 
+the 
+microstructure, 
+particularly 
+at 
+higher 
+replacement 
+levels. 
+ 
+4. Conclusions 
+ 
+The mechanical and microstructural 
+performance 
+of 
+cement 
+mortars 
+incorporating corn cob ash (CCA) and 
+rice husk ash (RHA) as blended 
+supplementary cementitious materials 
+(SCMs) was investigated in this study. A 
+three-phase experimental program was 
+conducted to assess pozzolanic activity, 
+optimize blend ratios, and evaluate 
+performance across varying replacement 
+levels. Based on the findings, the 
+following conclusions can be drawn: 
+• 
+Pozzolanic 
+Reactivity: 
+RHA 
+exhibited high pozzolanic activity 
+due to its amorphous silica content 
+and 
+industrial-grade 
+fineness, 
+contributing to early-age strength 
+and 
+matrix 
+densification. 
+CCA 
+showed limited reactivity at lower 
+calcination 
+temperatures 
+but 
+reached 
+acceptable 
+pozzolanic 
+activity index (PAI) values when 
+calcined at 700 °C, justifying its 
+inclusion in blended systems. 
+• 
+Blend Optimization: The 15C5R 
+blend (75% CCA + 25% RHA within 
+the 
+replacement 
+fraction) 
+demonstrated the most balanced 
+mechanical performance, combining 
+early-age strength retention with 
+long-term durability. This blend was 
+selected for further evaluation in 
+Phase III. 
+• 
+Mechanical Performance: Mortars 
+with 5–10% total binder replacement 
+using the optimal blend retained 92–
+97% 
+of 
+the 
+reference 
+(M0) 
+compressive strength at 28 days. 
+Even at 20% replacement, the mix 
+achieved 49.2 MPa, indicating its 
+suitability 
+for 
+general-purpose 
+applications. 
+Flexural 
+strength 
+followed a similar trend, with 
+moderate 
+reductions 
+remaining 
+within 
+acceptable 
+engineering 
+limits. 
+• 
+Durability 
+Indicators: 
+Capillary 
+water absorption increased with 
+higher replacement levels, reflecting 
+a more porous matrix due to 
+reduced cement content. However, 
+ASR expansion values decreased 
+from 0.34% to 0.28%, suggesting 
+partial 
+mitigation 
+through 
+the 
+combined chemical and physical 
+effects of RHA and CCA. While this 
+reduction suggests improved alkali 
+binding matrix densification, the 
+expansions still remain above the 
+acceptable 
+threshold 
+of 
+0.10%. 
+Therefore, the blended ashes show 
+promise for durability enhancement, 
+but further long-term studies are 
+recommended. 
+• 
+Microstructural Evolution: XRD, 
+TGA, and SEM analyses confirmed 
+progressive consumption of calcium 
+
+
+===== PAGE 21 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+205 
+hydroxide 
+(CH) 
+and 
+increased 
+formation of calcium silicate hydrate 
+(C–S–H) with rising SCM content. 
+SEM images revealed enhanced 
+morphological 
+characteristics, 
+including reduced CH crystals, 
+improved C–S–H continuity, and 
+refined pore structure—particularly 
+in M15 and M20 mixtures. 
+• 
+Sustainability Implications: The 
+use of agricultural waste ashes not 
+only 
+reduces 
+Portland 
+cement 
+consumption and associated CO₂ 
+emissions but also promotes waste 
+valorization 
+and 
+local 
+resource 
+utilization. 
+The 
+synergistic 
+interaction between RHA and CCA 
+can be a good solution for eco-
+efficient binder design, especially in 
+regions with abundant biomass 
+waste. 
+ 
+In 
+conclusion, 
+blended 
+systems 
+incorporating 
+RHA 
+and 
+CCA—
+especially at 5–10% replacement levels—
+can 
+deliver 
+satisfactory 
+mechanical 
+performance 
+and 
+partial 
+durability 
+improvement while contributing to 
+sustainable 
+construction 
+practices.  
+Future 
+research 
+should 
+focus 
+on 
+enhancing 
+mix 
+optimization 
+and 
+durability through controlled particle 
+grading, calcination parameters, and the 
+use of chemical admixtures. In addition, 
+long-term field exposure studies, life-
+cycle assessments, and comparative 
+evaluations with other agricultural ashes 
+are recommended to validate real-world 
+performance 
+and 
+broaden 
+the 
+applicability of these waste-derived 
+binders. 
+ 
+ 
+Declaration of Ethical Standards  
+ 
+The authors declare that they comply with all 
+ethical standards. 
+ 
+Credit Authorship Contribution Statement  
+ 
+Author 1: Research, Methodology / Study design, 
+Writing – original draft, Data curation  
+Author 
+2: 
+Conceptualization, 
+Methodology, 
+Supervision, 
+Project 
+administration, 
+Funding 
+acquisition, 
+Visualization, 
+Writing – review and editing  
+ 
+Declaration of Competitive Interests  
+ 
+The authors have no conflict of interest to declare 
+regarding the content of this article. 
+ 
+Data Availability  
+ 
+All data generated or analyzed during this study 
+are included in this published article. Data will be 
+made available if deemed necessary. 
+ 
+Acknowledgement 
+This research was supported by the Scientific 
+Research Projects Department of Istanbul 
+Technical University (ITU) with Project 
+Number 
+MYL-2023-45062. 
+The 
+authors 
+gratefully acknowledge ITU for its support. 
+ 
+5. References 
+ 
+Abellan-García, J. (2023). Effect of rice husk 
+ash as partial replacement of ordinary 
+Portland 
+cement 
+in 
+ultra-high-
+performance glass concrete. European 
+Journal 
+of 
+Environmental 
+and 
+Civil 
+Engineering, 
+28(3), 
+661–683. 
+https://doi.org/10.1080/19648189.2023.221
+9722 
+Abubakar, A., Mohammed, A., Duna, S., & 
+Samson, D. (2016). Mechanical properties 
+of concrete containing corn cob ash. 
+International Journal of Scientific Research 
+and Engineering Studies (IJSRES), 3(6), 47-
+51. 
+
+
+===== PAGE 22 =====
+
+Srormalah, M. & Ekincioğlu, Ö., 2025 
+ 
+206 
+Adebisi, O., Taiwo, A. M., Julius, O. B., & 
+Ebenezer, A. (2019). Partial replacement of 
+cement with corn cob ash – a review. 
+Retrieved September 13, 2025, from 
+https://www.globalscientificjournal.com/
+researchpaper/PARTIAL_REPLACEME
+NT_OF_CEMENT_WITH_CORN_COB_
+ASH_A_REVIEW.pdf 
+Aliabdo, A. A., Abd Elmoaty, A. E. M., & 
+Aboshama, A. Y. (2016). Utilization of 
+waste glass powder in the production of 
+cement and concrete. Construction and 
+Building 
+Materials, 
+124, 
+866–877. 
+https://doi.org/10.1016/j.conbuildmat.201
+6.08.016 
+ASTM International. (2020). ASTM C185: 
+Standard test method for air content of 
+hydraulic 
+cement 
+mortar. 
+West 
+Conshohocken, PA: ASTM International. 
+ASTM International. (2020). ASTM C1585: 
+Standard test method for measurement of 
+rate of absorption of water by hydraulic-
+cement concretes. West Conshohocken, 
+PA: ASTM International. 
+ASTM International. (2022). ASTM C618: 
+Standard specification for coal fly ash and 
+raw or calcined natural pozzolan for use 
+in concrete. West Conshohocken, PA: 
+ASTM International. 
+ASTM International. (2025). ASTM C311: 
+Standard test methods for sampling and 
+testing coal ash or natural pozzolans for 
+use in concrete. West Conshohocken, PA: 
+ASTM International. 
+ASTM International. (2025). ASTM C1567: 
+Standard test method for determining the 
+potential 
+alkali-silica 
+reactivity 
+of 
+combinations of cementitious materials 
+and aggregate (accelerated mortar-bar 
+method). 
+West 
+Conshohocken, 
+PA: 
+ASTM International. 
+Bahri, S., Mahmud, H. B., Shafigh, P., & 
+Majuar, 
+E. 
+(2019). 
+Mechanical 
+and 
+durability properties of high strength 
+high performance concrete incorporating 
+rice husk ash. IOP Conference Series: 
+Materials Science and Engineering, 536, 
+012028. 
+https://doi.org/10.1088/1757-
+899X/536/1/012028 
+British Standards Institution. (1999). BS EN 
+1015-3: Methods of test for mortar for 
+masonry – Part 3: Determination of 
+consistence of fresh mortar (by flow 
+table). London: BSI. 
+British Standards Institution. (2002). BS EN 
+1015-18: Methods of test for mortar for 
+masonry – Part 18: Determination of 
+water absorption coefficient due to 
+capillary action of hardened mortar. 
+London: BSI. 
+British Standards Institution. (2011). BS EN 
+197-1: Cement – Part 1: Composition, 
+specifications and conformity criteria for 
+common cements. London: BSI. 
+British Standards Institution. (2012). BS EN 
+450-1: Fly ash for concrete – Part 1: 
+Definition, specifications and conformity 
+criteria. London: BSI. 
+British Standards Institution. (2012). BS EN 
+934-2: Admixtures for concrete, mortar 
+and grout – Part 2: Concrete admixtures – 
+Definitions, requirements, conformity 
+and marking. London: BSI. 
+British Standards Institution. (2016). BS EN 
+196-1: Methods of testing cement – Part 1: 
+Determination of strength. London: BSI. 
+Ekincioglu, O., Gurgun, A.P., Engin, Y., 
+Tarhan, M., Kumbaracibasi, S., (2013). 
+Approaches 
+for 
+sustainable 
+cement 
+production- A case study from Turkey, 
+Energy 
+and 
+Buildings, 
+66, 
+136-142. 
+https://doi.org/10.1016/j.enbuild.2013.07.
+006 
+Ghosh, 
+S. 
+(Ed.). 
+(2018). 
+Sustainable 
+construction 
+materials. 
+Amsterdam: 
+Elsevier. 
+Jayaraman, A., Vasudevan, M., Aravind, R., 
+Keerthika, M., & Hari Prakash, J. (2023). 
+Optimization of partial replacement of 
+cement by silica fume and rice husk ash 
+for sustainable concrete. Materials Today: 
+Proceedings. 
+https://doi.org/10.1016/j.matpr.2023.05.59
+8 
+
+
+===== PAGE 23 =====
+
+Blended Use of Corn Cob and Rice Husk Ashes in Sustainable Mortar Production 
+207 
+Kamau, J., Ahmed, A. Hirst, P., & Kangwa, J., 
+(2016). Suitability of corncob ash as a 
+supplementary cementitious material. 
+International Journal of Materials Science 
+and 
+Engineering, 
+4(4), 
+215-228. 
+https://doi.org/10.17706/ijmse.2016.4.4.21
+5-228 
+Kumari, S., Chander, D., & Walia, R. (2018). 
+Durability and strength analysis of 
+concrete by partial replacement of cement 
+with corn cob ash and rice husk ash. 
+International Journal of Research in Advent 
+Technology, 6(7), 1593-1601.  
+Le, H. T., Nguyen, S. T., & Ludwig, H. M. 
+(2014). A study on high performance fine-
+grained concrete containing rice husk 
+ash. International Journal of Concrete 
+Structures and Materials, 8(4), 301–307. 
+https://doi.org/10.1007/s40069-014-0078-z 
+Mehta, P. K., & Monteiro, P. J. M. (2014). 
+Concrete: Microstructure, properties, and 
+materials (4th ed.). New York: McGraw-
+Hill Education. 
+Noori, A. N., Salman, H. K., Numan, H. A., & 
+Al-Dlaemee, S. A. H. (2023). Effect of 
+Iraqi’s rice husk ash on the mechanical 
+properties 
+of 
+cement 
+mortar: 
+An 
+experimental 
+investigation. 
+AIP 
+Conference Proceedings, 2787(1), 080042.  
+https://doi.org/10.1063/5.0149200 
+Olafusi, O. S., Kupolati, W. K., Sadiku, E. R., 
+Snyman, J., and Ndambuki, J. M. (2018). 
+Characterization of corncob ash (CCA) as 
+a 
+pozzolanic 
+material. 
+International 
+Journal of Civil Engineering and Technology 
+(IJCIET), 9(12), 1016-1024. 
+Olaleye, O. T. (2022). Performance of corncob 
+ash pozzolan in concrete samples. Quest 
+Journals: Journal of Architecture and Civil 
+Engineering, 7(12), 15–20. ISSN (Online): 
+2321-8193. 
+Olaniyi, A. (2022). Strength characteristics of 
+rice husk and corn cob ash blended 
+cement 
+concrete. 
+Sustainability 
+in 
+Environment, 
+7(1), 
+102-110. 
+https://doi.org/10.22158/se.v7n1p102 
+Siddika, A., Mamun, M. A., Alyousef, R., and 
+Mohammadhosseini, H. (2021). State-of-
+the-art-review on rice husk ash: A 
+supplementary cementitious material in 
+concrete. Journal of King Saud University – 
+Engineering 
+Sciences, 
+32(5), 
+294-307. 
+https://doi.org/10.1016/j.jksues.2020.10.00
+6 
+Siddique, 
+R., 
+& 
+Khan, 
+M. 
+I. 
+(2011). 
+Supplementary 
+cementing 
+materials. 
+Dordrecht: Springer. 
+Singh, B. (2018). Rice husk ash. In R. Siddique 
+& 
+M. 
+I. 
+Khan 
+(Eds.), 
+Waste 
+and 
+supplementary cementitious materials in 
+concrete: characterization, properties and 
+applications (pp. 417–460). Amsterdam: 
+Elsevier. https://doi.org/10.1016/B978-0-
+08-102156-9.00013-4 
+Tiseo, I. (2025). Cement industry emissions 
+worldwide – Statistics & Facts. Statista. 
+Retrieved 
+October 
+26, 
+2025, 
+from 
+https://www.statista.com/topics/11056/ce
+ment-industry-emissions-worldwide/ 
+ 
+ 
+ 

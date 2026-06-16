@@ -1,0 +1,2272 @@
+
+===== PAGE 1 =====
+
+eprints@whiterose.ac.uk
+https://eprints.whiterose.ac.uk
+Universities of Leeds, Sheffield and York
+Deposited via The University of Leeds.
+White Rose Research Online URL for this paper:
+https://eprints.whiterose.ac.uk/id/eprint/164189/
+Version: Accepted Version
+Article:
+Nawaz, M, Heitor, A and Sivakumar, M (2020) Geopolymers in construction - Recent 
+developments. Construction and Building Materials, 260. 120472. ISSN: 0950-0618 
+https://doi.org/10.1016/j.conbuildmat.2020.120472
+© 2020, Elsevier Ltd. This manuscript version is made available under the CC-BY-NC-ND 
+4.0 license http://creativecommons.org/licenses/by-nc-nd/4.0/.
+Reuse 
+This article is distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivs 
+(CC BY-NC-ND) licence. This licence only allows you to download this work and share it with others as long 
+as you credit the authors, but you can’t change the article in any way or use it commercially. More 
+information and the full terms of the licence here: https://creativecommons.org/licenses/ 
+Takedown 
+If you consider content in White Rose Research Online to be in breach of UK law, please notify us by 
+emailing eprints@whiterose.ac.uk including the URL of the record and the reason for the withdrawal request. 
+
+
+===== PAGE 2 =====
+
+1 
+ 
+Geopolymers in construction - Recent developments 
+ 
+ 
+ 
+Mohsin Nawaz 
+MSc Eng 
+PhD Candidate, School of Civil, Mining and Environmental Engineering, Faculty of 
+Engineering and Information Sciences, University of Wollongong, Wollongong, NSW 2522, 
+Australia 
+ 
+Ana Heitor† 
+LicEng(Lisbon), MEng (Kyoto), PhD (Wollongong), MIAust 
+School of Civil Engineeing, University of Leeds, Leeds, UK 
+Formerly Centre for Geomechanics and Railway Engineering, School of Civil, 
+Mining and Environmental Engineering, University of Wollongong, Wollongong, NSW 
+2522, Australia 
+ 
+ 
+Muttucumaru Sivakumar 
+BSc Eng Hons (SLanka), MEng (AIT),  PhD (Newcastle), FIEAust 
+Associate Professor, Centre for Coastal Resevoir Research, School of Civil, Mining 
+and Environmental Engineering, University of Wollongong, Wollongong, NSW 2522, 
+Australia 
+ 
+ 
+ 
+ 
+†Author for correspondence: 
+Ana Heitor 
+School of Civil Engineering, 
+University of Leeds, 
+Leeds, 
+UNITED KINGDOM 
+Ph: +44 7849282475 
+Email: a.heitor@leeds.ac.uk 
+ 
+To be submitted to: Construction and Building Materials 
+Number of words (excluding abstract and references): 18223 
+Number of Tables: 2 
+Number of Figures: 16 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 3 =====
+
+2 
+ 
+Abstract 
+ 
+Geopolymers are inorganic materials that result from the alkali activation of aluminosilicates. 
+The aluminosilicates source materials can either occur naturally (e.g. kaolin, metakaolin, rice 
+husk ash, volcanic rock powders) or produced by industrial processes (e.g. fly-ash, blast 
+furnace slag). While the potential application of geopolymers as construction materials (e.g. 
+concrete manufacturing and soil stabilization) has been studied in the past, their widespread 
+use has been limited. This is mainly because the technology is still relatively new and research 
+in this field is still emerging. However, the use of geopolymers in lieu of conventional binders 
+(e.g. cement and lime) has substantial environmental advantages particularly in terms of the 
+energy expended for their production and greenhouse gas emissions. The current trend to 
+enhance sustainability practices in the construction industry has recently driven research in this 
+area. This paper aims to offer a comprehensive overview of past studies on geopolymers 
+synthesised from various precursors, the factors affecting geopolymerisation process, their 
+microstructural characteristics as well as mechanical, chemical, thermal and environmental 
+properties of geopolymers. Further, recent developments associated with the use of 
+geopolymers as construction materials in civil engineering applications have also been 
+discussed. Research findings show that geopolymers can achieve comparable or superior 
+performance to conventional binders and/or concrete in terms of shear strength and durability 
+but with a reduced environmental footprint. 
+ 
+ 
+ 
+Keywords: geopolymers, construction material, concrete manufacturing, soil stabilization, 
+sustainability 
+ 
+ 
+ 
+
+
+===== PAGE 4 =====
+
+3 
+ 
+1.  
+Introduction 
+ 
+Over the years, lime and cement have been the preferred binding agents adopted in the 
+civil engineering industry. Indeed, they are widely used for the preparation of concrete mixes 
+as well as stabilization of various types of soils. They facilitate the bonding of aggregate 
+particles through hydration and pozzolanic reactions, thus increasing the strength, shrinkage 
+and enhancing permeability characteristics. However, the processes associated with the 
+production of these materials are very energy intensive and lead to the emission of large 
+quantities of greenhouse gases, especially carbon dioxide (CO2). [1]. For instance, 
+approximately 0.9 tonne of CO2 is released in the production of one tonne of cement [2]. 
+Furthermore, the mining of the raw material sources, e.g. quarried rock, used in the production 
+of these binders is not environmentally attractive or sustainable. Therefore, alternative binders 
+based on more sustainable materials are preferred in lieu of conventional cementitious binders, 
+e.g. geopolymers. In addition, as the geopolymer raw materials are often waste by-products 
+from other industrial processes (e.g. fly ash, blast furnace slag); their use promotes more 
+sustainable practices in the construction industry both in terms of cost (reduction up to 30%) 
+and greenhouse emissions (reductions up to 80%) [3]. Past studies report that geopolymers 
+based on metakaolin, fly ash and other materials have contributed to the increase in 
+compressive strength, improvement of hydraulic and thermal properties, acid resistance and 
+sulphate corrosion resistance of concrete as well as soil mixtures. Compressive strengths more 
+than 65 MPa have been reported by alkali activation of class F fly ash using sodium hydroxide 
+(12 M) and sodium silicate solutions by curing at 85°C for 24 hours [4]. This paper aims to 
+showcase the most common uses of geopolymers in the civil engineering industry. First, a 
+review on the mechanism of geopolymerization process is presented and then results of past 
+studies having different geopolymer base materials and examples of civil engineering 
+
+
+===== PAGE 5 =====
+
+4 
+ 
+applications are described.  
+ 
+ 
+2.  
+Geopolymer Synthesis 
+ 
+The geopolymers are synthesized as a result of a chemical reaction between solid 
+aluminosilicate compounds and a highly concentrated alkali hydroxide or silicate solution [5]. 
+The aluminosilicate compounds may occur naturally in the form of kaolin, metakaolin or may 
+be obtained from industrial wastes sources such as fly ash and slag, deriving from coal fired 
+power plants and the steel making industry (e.g. blast furnace slag), respectively. 
+The dissolution of the aluminosilicate source material by hydrolysis due to alkaline 
+activator produces aluminate and silicate species, and is generally explained as the mechanism 
+responsible for transformation of the aluminosilicate particles during geopolymerization [1]. 
+After dissolution the species are incorporated into the aqueous phase that reacts with silicates 
+in the activator solution. The amorphous aluminosilicates are dissolved rapidly at high pH 
+concentrations resulting in highly saturated aluminosilicate solution. This results in the 
+formation of a gel like structure and due to condensation, large networks are formed by 
+oligomers in the aqueous stage. This process results in the release of water which helps in the 
+formation of a hydrated gel. This gel structure is termed as bi-phasic, with the aluminosilicate 
+binder and water as the two phases. The conversion time between the aqueous supersaturated 
+aluminosilicate solution to gel depends on the source material composition, activator solution 
+concentration and synthesis conditions. After gelation process, the system keeps on rearranging 
+as the linkages of the gel network enhance, resulting in the three-dimensional aluminosilicate 
+network commonly known as geopolymers. A schematic summary of this process is depicted 
+in Fig. 1. Nucleation phase of the aluminosilicate material and formation of polymeric species, 
+
+
+===== PAGE 6 =====
+
+5 
+ 
+is primarily dependent on thermodynamic and kinetic parameters (e.g. synthesis conditions 
+such as temperature and mixing) and explains the two first steps proposed by Glukhovsky 
+(1959). Growth is the phase during which the nuclei reach a critical size and crystals begin to 
+mature. These processes of development and reorganization of aluminosilicate bonds 
+determine the microstructure characteristics and pore size and distribution of the material, 
+which are crucial in determining many physical and chemical properties of geopolymeric 
+materials  [1]. 
+From a chemical reaction standpoint, when an alkali hydroxide such as sodium 
+hydroxide (NaOH) or potassium hydroxide (KOH) is exposed to the aluminosilicate 
+compound, it results in the dissolution and hydrolysis of aluminum and silicon, as follows, 
+Al2O3 + 3H2O + 2OH-               2[Al(OH)4]-   
+ 
+ 
+ 
+ 
+ 
+(1) 
+SiO2 + 2OH-               [SiO2(OH)2]2-  
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+The alkali aluminosilicate reaction is followed by the formation of a gel, which continues to 
+rearrange and reorganize its amorphous 3-D structure. Thus, the system has multiple gel 
+phases. The final stage is hardening in which the whole system is polymerized and becomes a 
+solidified mass.  
+The physical, chemical, mechanical, hydraulic and thermal properties of the geopolymers 
+greatly depend on the raw material from which they have been derived [6] . There are two main 
+categories that can be used to distinguish geopolymers, i.e. the elementary units of polymeric 
+chains and origin of geopolymers base material. Three main classes of polymeric chains may 
+be defined, as follows: 
+− PSDS Si-O-Al-O-Si-O-Si-O - poly(sialate-disiloxo), 
+− PSS Si-O-Al-O-Si-O - poly(sialate-siloxo), 
+− PS Si-O-Al-O – polysialate. 
+
+
+===== PAGE 7 =====
+
+6 
+ 
+The main base materials of geopolymers (i.e. pozzolanic aluminosilicate material) for instance 
+are: fly ash, metakaolin, various types of rocks, volcanic agglomerates, silicas, and fossil 
+materials. 
+ 
+ 
+3. 
+Nanoparticle precursor source materials 
+ 
+ 
+Various materials such as fly ash, silica fume, rice husk ash, red mud, ground granulated 
+blast furnace slag among others have been found effective in the production of geopolymers 
+[7]. Several nanoparticles when added can contribute in enhancing the structural properties of 
+geopolymer concrete and mortars [8]. Jindal et al. (2020) have reviewed the effect of different 
+nanomaterials such as nanosilica (NS), nanotitania (NT), nanoalumina (NA), nano clay and 
+carbon nanotubes. It was reported that their usage can significantly improve mechanical and 
+durability properties of geopolymers [9].  
+Nanosilica is widely used in preparation of geopolymer concrete. Nano particles of silicon 
+dioxide (SiO2) result in densification of concrete mix, therefore enhancing the strength and 
+durability of the materials. Phoo-ngernkham et al. (2014) have reported a higher compressive 
+strength of 51.8 MPa with 2% addition of nano-SiO2 to high calcium fly-ash based 
+geopolymers. Percentages higher than that resulted in a decrease in strength values due to 
+excessive presence of nanoparticles resulting in a less dense structure [10]. Gao et al. (2015) 
+also found the addition of 2% nanosilica to be the optimum amount for fly-ash/slag based 
+geopolymer concrete. It enhanced the pore microstructure and densification of the geopolymer 
+concrete [11]. Wang et al. (2019) have recently verified this trend as well where they replaced 
+the slag with nanosilica (0.5-3%) and found that the maximum compressive strength (54 MPa) 
+was achieved at 2% and decreased beyond it [12]. 
+
+
+===== PAGE 8 =====
+
+7 
+ 
+Alomayri (2019) carried a detailed experimental investigation on the addition of nanoalumina 
+to fly-ash based geopolymer mortars. The maximum compressive strength (30 MPa) was 
+achieved at 2% addition of nanoalumina. The nanoalumina accelerated the geopolymerisation 
+reaction resulting in a denser geopolymeric gel [13]. It was observed that just like nanosilica, 
+nanoalumina also has notable effects on mechanical properties of geopolymer. 
+Duan et al. (2016) studied the effect of addition of nanotitania (TiO2) in varying percentages 
+of 1, 3 and 5% on geopolymer concrete specimens prepared by fluidized bed fly-ash. The 
+compressive strengths were proportional to the increase in nanotitania content. However, the 
+increase was rapid up to 28 days as compared to later ages of 56 and 90 days. The increase in 
+strength was witnessed due to enhanced geopolymerisation reactions due to addition of 
+nanotitania thus resulting in densification of the microstructure [14].  
+Abbasi et al. (2016) have reported that the usage of carbon nanotubes (CNT) improves 
+microstructural characteristics of geopolymer mixes. Multiwall carbon nanotubes were added 
+in metakaolin based geopolymer at 0, 0.5 and 1% concentration. It was found that the 
+compressive strengths and flexural strength of the geopolymer specimens were increased by 
+32% and 28% respectively. Thus, it was concluded that carbon nanotubes were found helpful 
+in developing homogenous bonding and reducing the development of micro cracks [15]. 
+Rovnanik et al. (2016) also utilised multiwall carbon nanotubes to enhance the fracture 
+resistance properties of fly-ash based geopolymer. The quantity varied from 0.05 to 0.2% by 
+mass of fly-ash. It was found from the fracture tests that the optimum value for improved 
+mechanical characteristics was 0.15% of carbon nanotubes [16]. 
+The research in the usage of nanoparticles in geopolymer preparation is very limited and thus 
+possesses a wide scope for future work. The usage of nanosilica, nanotitatnia and carbon 
+nanotubes with a variety of other geopolymer precursors can contribute in utilisation of several 
+
+
+===== PAGE 9 =====
+
+8 
+ 
+waste by-products thus producing environment friendly materials, which can find applications 
+in the construction industry. 
+ 
+ 
+4. Microstructure and properties 
+ 
+4.1 
+Microstructure and composition 
+ 
+The characteristics of geopolymers derived from various sources may have similarities 
+but their physical, chemical and mechanical properties may differ to a large amount depending 
+upon the type of raw material being used. Therefore, it is important to study the precursor 
+materials along with their reaction behaviour with the activator solution at microstructural 
+level. Fig. 2 illustrates the typical microstructure of two geopolymers obtained using the same 
+alkali activation solution (8M sodium hydroxide, NaOH) and two different precursor materials, 
+i.e. metakaolin (Fig. 2a) and class F fly ash (Fig 2b) reported by Duxson et al. (2007). It can be 
+observed that the microstructures developed during geopolymerization process are very 
+different. The metakaolin particles are sharp and have jagged surfaces thus resulting in greater 
+interlocking and more dense gel formation. In contrast, as the fly ash particles are round and 
+the gelation tends to coat the fly ash particle thus causing a more effective pore reduction and 
+compact matrix. 
+ 
+Pore structure characteristics along with the permeability of alkali-activated materials 
+are crucial parameters that affect their durability and usage as a construction material. Water 
+percolation usually results in chloride and sulphate ion attacks especially in marine 
+environments and can cause deterioration of concrete structures. The pore size distribution, 
+pore shape and pore volume are key players influencing the permeability and ion carrying 
+
+
+===== PAGE 10 =====
+
+9 
+ 
+capacity of a material [17].  Mercury intrusion porosimetry and scanning electron microscopy 
+techniques have been used in literature for the investigation of pore structure of various 
+geopolymer precursors [17, 18]. 
+ 
+Ma et al. (2013) studied the pore characteristics of fly ash and found that the alkali 
+activated fly ash specimens that had larger silica content represented a homogeneous matrix 
+gel structure thus resulting in a pore size ranging from 0.1 to 1 µm. The samples with lower 
+silica content showed limited gel formations and the pore sizes ranged from 0.1 to 10 µm. The 
+increased silica content was related with a denser microstructure thus resulting in lower water 
+permeability [17].  
+ 
+In a microstructure evaluation research carried out by Izquierdo et al. (2009), different 
+samples of fly ash from coal-fired power plants across the Europe were mixed with blast 
+furnace slag and used a potassium hydroxide solution for alkali activation. It was found that 
+the microstructure of the samples consisted of a homogenous geopolymer gel matrix, a dense 
+packing of fly ash and slag particles along with some minor interstitial porosity. Silica was 
+reported to be an abundant constituent of geopolymer matrices and the samples with larger 
+silica content showed higher densification and lower porosity levels, and associated  reduction 
+in pore size and increase in compressive strength [19]. 
+ 
+The use of fibers in developing environment friendly geopolymer composites for 
+construction has also been investigated in recent years. Cellulose fibers have been utilized for 
+reinforcing various polyester and epoxy matrices. The major benefits include cost 
+effectiveness, ease in availability, higher compressive strength and low toxicity [20]. Woven 
+cotton fabrics have been reported in enhancing the properties of geopolymers used in 
+construction. For instance, Alomayri et al. (2014) utilized cotton fabrics (with various fiber 
+percentages) in fly ash geopolymer mortars prepared by activation of fly ash by a mixture of 
+8M sodium hydroxide and sodium silicate solutions. It was found that the composite material 
+
+
+===== PAGE 11 =====
+
+10 
+ 
+had improved flexural strength, modulus of flexure and impact strength. The microstructure 
+analysis revealed that there was a good amount of penetration of geopolymer mortar into the 
+cotton fabric weave which resulted in enhanced bonding between the fiber bundle and 
+geopolymer matrix thus leading to higher flexural strengths [21]. 
+ 
+It is a well-known fact that sulphate ions from natural or wastewater streams contribute 
+to deterioration of Ordinary Portland Cement (OPC) based construction materials. The sulphate 
+ions cause stress, expansion and thus result in strength loss. Geopolymers have been found to 
+be more resistant against sulphate attacks. The mineralogy and microstructure of geopolymer 
+materials is very different from Ordinary Portland Cement and thus contributes towards better 
+strength and durability. Baščarević et al. (2015) studied the sulphate attack behavior of fly ash 
+based geopolymers obtained from two coal-fired power plants in Serbia. The mineralogical 
+composition of Kolubara fly ash revealed higher content of Quartz some of which remain 
+unreacted during geopolymerization and resulted in lower compressive strengths. The 
+specimens prepared were immersed in sodium sulphate (50g/L) solution for 365 days. A small 
+decrease in mechanical strength (up to 10%) of Svilajnac fly ash geopolymer was witnessed 
+after 365 days whereas the strength of Kolubara fly ash geopolymer was decreased at 28 days 
+which however increased till 365 days. This was reported to be due to the higher porosity of 
+Kolubara fly ash geopolymer which resulted in continuing alkaline reaction in the presence of 
+sulphate solution [22]. 
+ 
+Schmucker et al. (2005) studied the microstructure of a sodium polysialate siloxo 
+geopolymer. The geopolymer samples were prepared by the alkaline activation of kaolinite 
+with sodium hydroxide and sodium silicate solution. The sample had a silica to alumina 
+(SiO2:Al2O3) ratio of 3.3, a sodium oxide to silica (Na2O:SiO2) ratio of 0.25 and water to 
+sodium oxide (H2O:Na2O) ratio of 10. The stiff geopolymer paste was moulded in a cylindrical 
+mould, sealed with a plastic film and air dried at ambient temperature for 60 minutes and then 
+
+
+===== PAGE 12 =====
+
+11 
+ 
+cured at 65°C for 90 minutes. The plastic seal was removed and the sample was air dried at 
+65°C for another 60 minutes. The scanning electron microscope (SEM) micrographs revealed 
+some areas of inhomogeneity within the aluminosilicate matrix. There were unreacted relicts 
+of kaolinite, which were identified, in the energy dispersive spectroscopy (EDS) analysis as 
+areas with atomic ratio between silica and alumina to be 1:1. Some other grains contained only 
+silicon, which were termed to be the quartz grains that tend to survive high alkaline 
+environment in geopolymerization [23].  
+ 
+ 
+4.2      Curing and Aging effect on microstructure and properties 
+ 
+The dissolution of aluminosilicate material and the formation of geopolymer gels is 
+highly accelerated as the temperature is raised [1]. The strength gain at an early age is 
+sometimes slow due to the lack of calcium content in various precursors and may result in a 
+larger setting time of geopolymers [24]. In these conditions, methods that can accelerate the 
+curing process or modify the chemical reactions, such as heat curing and addition of high 
+calcium additives such as blast furnace slag respectively, are vital to achieve high early age 
+strength [25]. 
+Traditionally, oven curing at temperatures 60-120°C have been reported to enhance the 
+early age strength. Chindaprasirt et al. (2007) studied geopolymer mortars prepared using 
+Class-C fly ash, sodium hydroxide (NaOH) activating solution of 10, 15 and 20M 
+concentrations. The sodium silicate to sodium hydroxide (Na2SiO3/NaOH) ratios used were 
+0.67, 1.0, 1.5 and 3. The specimens were oven cured at 30, 45, 60, 75 and 90°C for 1, 2, 3 and 
+4 days. The compressive strength of samples was observed to increase with increase in curing 
+time. At elevated temperatures (i.e. 60°C), curing for longer duration resulted in a decrease in 
+
+
+===== PAGE 13 =====
+
+12 
+ 
+the unconfined compressive strength (UCS) as shown in the Fig. 3 (a). Furthermore, Fig. 3(b) 
+shows that in this study, the optimum temperature was found to be 75°C, after which the UCS 
+decreased sharply. Similarly, other studies have reported a decrease in the compressive strength 
+at elevated curing temperatures for other precursor materials and alkali activators. For instance, 
+Fig. 4 shows a reduction of UCS for a slag mixed with sugar cane bagasse based geopolymers 
+[26] cured at 65°C. This behaviour is likely associated with the formation of microfissures 
+derived from the drying shrinkage process at high temperatures thus causing strength reduction 
+compared to specimens cured at ambient temperature conditions. Similar observations have 
+also been reported for geopolymers based on meta-kaolin precursor (Mo et al., 2014). 
+Interestingly while the aluminosilicate source material is substantially different, the optimal 
+curing temperature for which a larger compressive strength is achieved is around the same 
+value as in the class F based geopolymers (60-70 oC). It is noteworthy that other studies on fly 
+ash based geopolymers mortars (de Vargas et al. 2011) reported a similar behaviour for smaller 
+Na2O/SiO2 (N/S) molar ratios (i.e. 0.2) but a different trend, i.e. increase in compressive 
+strength with temperatures up to 80 oC for specimens prepared at N/S of 0.3 and 0.4.  
+Shin et al. (2019) studied the effect of curing temperature on the compressive strengths 
+of geopolymer concrete (GPC). Sodium hydroxide (12M) and sodium silicate solutions were 
+used as an alkali activator for fly ash and ground granulated blast furnace slag (GGBFS). The 
+curing temperatures selected were 20, 35. 45, 60, 80 °C, and the curing durations were selected 
+as 3, 9, 15 and 24 hours. Eleven different combinations of minimum and maximum curing 
+temperatures as well as curing durations were investigated. In general, it was found that the 
+compressive strengths of the specimens increased as the maximum curing temperature was 
+increased. The highest compressive strengths were of the samples subjected to maximum 
+curing temperature and for the longest duration. For most of the samples, there was no 
+noticeable increase in the compressive strength after 28 days of curing.  It was concluded that 
+
+
+===== PAGE 14 =====
+
+13 
+ 
+the combined effect of maximum temperature (Tmax) and maximum duration (tmax) for majority 
+of the samples was found to have a key effect on early strength of GPC. A similar compressive 
+strength could be achieved at a lower tmax and higher Tmax [27]. 
+Different curing conditions especially in the early period of geopolymer formation are 
+one of the key factors affecting the compressive strengths and other mechanical properties of 
+geopolymers. Mo et al. (2014) investigated the relationship between curing conditions and 
+process of geopolymerisation. Metakaolin samples were activated by a mixture of sodium 
+hydroxide and sodium silicate solutions and casted into 20 mm cubical moulds. The samples 
+were then cured at 20, 40, 60, 80 and 100°C. Impedance analysis was used to investigate the 
+geopolymerisation process; studying the electrical conductivity of the samples at different 
+curing temperatures and relating it with the different phases of geopolymerisation. It was found 
+that the electrical conductivity of the slurries increased with the increase in curing temperatures 
+especially when the metakaolin particles were still in the dissolution phase. After a certain 
+peak, decreasing trend was witnessed owing to the fact that the particles were rearranging into 
+a polymerised gel. It was concluded that the curing temperatures had an inverse relation with 
+the initial and final setting time of geopolymer slurries as temperature elevation resulted in 
+accelerated polycondensation of metakaolin. The raise in curing temperatures resulted in 
+increased compressive strengths as the process of gel formation was rapid and the pore sizes 
+were reduced. This is valid up to an optimum temperature (in this case, 60 °C) beyond which 
+the setting is so rapid that it prevents the transformation into dense and compact structure of 
+geopolymer mortars [28].  
+Kubba et al. (2018) however reported a decrease in geopolymer mortar strengths with 
+elevated temperatures. They blended a mixture of fly ash, ground granulated blast furnace slag 
+and palm oil fuel ash in different proportions. The materials were activated with different 
+alkaline solutions i.e. sodium hydroxide (8M), sodium silicate and a mixture of sodium silicate 
+
+
+===== PAGE 15 =====
+
+14 
+ 
+and sodium hydroxide solution in a ratio of 3:1. The geopolymer mortars thus formed were 
+cured at 27, 60 and 90 °C curing temperatures. The strength values were determined at 1, 7 and 
+28 days. It was found that for all the sample mixes, the compressive strengths of the geopolymer 
+mortars were reduced with increasing curing temperatures. The main reason highlighted was 
+the formation of C-S-H linkages with coarser microstructure that led to increased porosity and 
+cracks. The strength values increased till 28 days due to continuing geopolymerisation 
+reactions [29]. 
+A recent study proposed by Dong et al. (2017) suggested the use of a solar curing 
+method  which aims to reduce the cost and carbon emissions associated with the manufacturing 
+process of high strength geopolymer concrete, compared to conventional high temperature 
+oven curing [30]. The samples were prepared with a binder that constituted of 50% fly ash and 
+50% ground granulated blast furnace slag (GGBFS). A 12M sodium hydroxide (NaOH) 
+solution mixed with sodium silicate solution in a ratio of 1:2.5 was used as an alkali activator. 
+The control specimens were cured in ambient conditions and two solar curing methods were 
+developed. In the solar curing grey (SCG) method, the specimen cylinders are painted with a 
+shade of grey corresponding to 40% black on a grey-scale chart. In solar curing black (SCB) 
+method, the specimen cylinders are covered with a layer of bubble wrap with the bottom surface 
+painted black, and the bubble side is placed facing the sun to create the greenhouse effect. The 
+cylinders were cured for 1, 3, 7, 14 and 28 days. The ambient temperature was kept at 21°C 
+while the temperatures for solar curing grey (SCG) and solar curing black (SCB) remained in 
+the 40°C to 60°C and 60°C to 80°C range, respectively. Solar curing had a positive impact on 
+the compressive strength gaining and it should be noted that the temperature range achieved 
+through solar curing is comparable to optimal range of oven curing. Fig. 5 shows a comparison 
+between the three different methods performance with curing time in terms of UCS. It can be 
+observed that within a day, solar curing grey (SCG) and solar curing black (SCB) specimens 
+
+
+===== PAGE 16 =====
+
+15 
+ 
+showed an increase of 70.2% and 93.3% in compressive strength compared to the control 
+specimens, respectively.  
+Furthermore, Fig. 5 also illustrates that the geopolymer develops a major portion of its 
+strength gain (more than 70%) in the first seven days showing only a slight increase in UCS 
+with aging there onwards regardless of the method of curing adopted. For instance, the strength 
+gain for the SCB specimens is almost 87 MPa in the first 7days, whereas a marginal increase 
+of 5% (5MPa) is recorded for specimens aged to 28 days (92MPa). These observations are also 
+consistent with an earlier study on binary binder geopolymer (metakaolin and silica fume) by 
+Yaseri et al. (2017) that also reported rapid increase in UCS at early age and a insigniﬁcant 
+increase with curing time [31]. Vargas et al., 2011 also reported a similar behaviour but noted 
+that the long term strength gain (28 to 180 days) is also influenced by the nitrate to bisulphide 
+(N/S) molar ratio, i.e. a greater gain was observed for specimens having a larger N/S molar 
+ratio. 
+ 
+ 
+4.3       Mechanical properties in terms of alkali solutions concentration, silicon to aluminium 
+(Si/Al) and silicon dioxide to aluminium oxide (SiO2/Al2O3) molar ratios 
+ 
+The evaluation of the mechanical strength of geopolymers is vital in view of its 
+application in the construction industry. The reason for strength gain is primarily attributed to 
+the formation of gel structure and its densification with time as well as the reduction in pore 
+size [1, 32-34]. This in turn is influenced by the concentration of alkali solutions as well as 
+silicon to aluminium (Si/Al) molar ratios. 
+Geopolymers derived from different aluminosilicate precursors with varying concentrations of 
+activators have been known to produce different compressive strengths. For instance, Top and 
+
+
+===== PAGE 17 =====
+
+16 
+ 
+Vapur (2018) reported 28 day compressive strengths up to 50 MPa using fly ash as the 
+geopolymer source material as shown in the Fig. 6.   
+ 
+It is evident from data reported in past studies that the concentration of alkaline 
+activator plays a major role in the reactivity, pore structure, aluminiosilicate gel formation and 
+thus various mechanical and chemical properties of resulting geopolymers. [35-39]. A 
+concentrated alkaline solution (high pH) is required for the dissolution of aluminosilicate 
+source materials.[38, 40-42]. 
+ 
+The effect of concentration of alkaline activator was investigated by Gorhan and Kurklu 
+(2014). A fly ash based geopolymer mortar was prepared by activating it with a solution of 
+sodium hydroxide at different molar concentrations i.e. 3, 6 and 9M along with sodium silicate 
+solution. The mixes were cured at 65°C and 85°C for 24 hours. It was found that the optimum 
+concentration for the activator solution was 6M as the highest compressive strength was 
+achieved from this, both at 65°C (21.3 MPa) and 85°C (22 MPa). It was found that at a lower 
+concentration of activator solution, the dissolution of fly ash is very limited whereas at very 
+high alkali concentrations, in earlier stages of reactions, the dissolved species precipitate 
+rapidly and thus the polycondensation process is hindered [42]. 
+ 
+In a study carried out by Nath and Kumar (2019), class F fly ash was activated using 
+sodium hydroxide solutions with 6, 8 and 10M concentrations. It was found that as the 
+concentration of alkaline solution increased, the activation energy of the geopolymerization 
+reaction also increased because of higher extent of dissolution as well more reactant available 
+to complete the process of geopolymerisation [43]. 
+The effect of concentration of alkali activators on compressive strength characteristics 
+of ground granulated blast furnace slag and natural pozzolan based geopolymers were studied 
+by Nadoushan and Ramezanianpour (2016). The precursors were activated by 6, 8 and 10 M 
+concentrations of sodium hydroxide as well as potassium hydroxide solutions. After blending 
+
+
+===== PAGE 18 =====
+
+17 
+ 
+for a couple of minutes, sodium silicate solution was mixed in order to form a geopolymer 
+paste. The samples were sealed in plastic bags and cured at ambient conditions. The samples 
+were tested for compressive strength evaluation at 7, 14, 21, 28 and 91 days. It was noted that 
+the optimum concentration of the alkaline solution was 8M while 6M and 10M solutions gave 
+lower strength values. At lower concentration of alklaine solution, the dissolution process was 
+found to be very limited. Further, 10M activator solution resulted in precipitation of dissolved 
+species and thus inhibited complete geopolymerisation [44]. 
+Williamson and Juenger (2016) studied the role of activating solution concentration on 
+the behaviour of fly ash based geopolymer concrete. Alkali activated fly ash mortar cubes 
+(50mmx50mmx50mm) were prepared using 4, 6, 7, 8, 9, 10 and 11M concentration sodium 
+hydroxide solutions. The samples were cured at 60°C for one day and then kept at 38°C till the 
+time of testing at 7 and 28 days. It was observed that the specimens prepared using 8M 
+concentration solution showed the highest compressive strengths for both 7 days (32 MPa) and 
+28 days (38 MPa). The trend was found to be consistent with the literature [36, 45]. It was 
+concluded that the increase in compressive strengths with increasing concentration of alkaline 
+solutions was a result of enhanced dissolution of aluminosilicate glassy phases at higher pH 
+values [1, 45-47]. However, the decrease in compressive strengths beyond optimum 
+concentration of alkaline solution was  due to the increased viscosity of activator solution and 
+unreacted silica and alumina in the geopolymer mix [46, 48, 49]. 
+Lahoti et al. (2018) studied different mixes of metakaolin and silica fume as a 
+geopolymer source material at varying silicon to aluminium (Si/Al) ratios ranging from 1.03 
+to 2 and compressive strengths up to 62 MPa were attained for curing at ambient conditions. 
+In a study carried out by Lizcano et al. (2012), metakaolin (53% SiO2, 43.8%Al2O3 and 
+3% impurities) was used as a source material for production of geopolymers. The alkaline 
+activator solutions were prepared by dissolution of sodium and potassium hydroxide in 
+
+
+===== PAGE 19 =====
+
+18 
+ 
+deionised water and then mixing silicon dioxide (SiO2) in them with a 24 hours stirring. The 
+Si/Al ratios of the solutions were kept at 1.25, 1.5, 2.0 and 2.5. The solutions were mixed with 
+metakaolin and samples were cured at 80°C for 24 and 48 hours. The samples were kept at 
+ambient conditions for one day prior to testing. It was found that the Young’s modulus of the 
+mixes increased up to a Si/Al ratio of 2.0 beyond which it had started decreasing. This could 
+be due to the increase in the density of the samples with increasing Si/Al ratio. The compressive 
+strengths increased ranging from 32 to 37 MPa for the samples having Si/Al ratio of 1.5 after 
+which a decrease was witnessed. Increase in the Si/Al ratio with higher concentrations of 
+silicates resulted in the increased viscosity of solutions thus contributing to inhomogeneous 
+mixing, more percentage of unreacted metakaolin as well as higher porous microstructures thus 
+resulting in lower mechanical strength. [50]. 
+He et al. (2016) studied the geopolymerisation behaviour of metakaolin samples 
+activated by potassium silicate solutions along with fused silica powder. The Si/Al ratios were 
+kept at 2.0, 2.5, 3.0, 3.5 and 4.0. The geopolymer samples prepared after mixing were cured at 
+70°C for 48 hrs and then further cured for 24 hrs after demoulding. It was seen that the Young’s 
+modulus for the samples increased from 36 to 92 MPa as the Si/Al ratios increased from 2.0 to 
+4.0. This was reported to be a result of more developed Si-O-Si bonds as well as increase in 
+the densification of microstructure  [51]. 
+In a study carried out by Asif et al. (2015), the effect of Si/Al ratios was investigated 
+for fly ash based geopolymers to be used for coating applications. Sodium hydroxide (12M) 
+and sodium silicate solutions were used as alkaline activators for fly ash. The samples were 
+prepared with 1.85, 2.0, 2.5 and 3.0 Si/Al ratios. The compressive strengths of all the samples 
+were investigated after ambient curing for 28 days. It was observed that the strength of samples 
+increased till Si/Al ratio 2.0 after which a drop was noted for the sample with ratios 2.5 and 
+3.0. It was seen that the samples with 1.85 Si/Al ratio had a dense but porous microstructure 
+
+
+===== PAGE 20 =====
+
+19 
+ 
+therefore resulting in lower strengths. Mixes with Si/Al ratio 2.0 exhibited highest strength as 
+the pores and cracks were minimised. In Si/Al ratios higher than 2.0, the higher quantity of 
+unreacted silica was witnessed along with non-uniformity of mixes due to higher viscosity of 
+activating solution [52]. 
+Timakul et al. (2015) have also investigated the effect of Si/Al ratios on class C fly ash 
+based geopolymers. Sodium hydroxide (5M) mixed with sodium silicate solutions were used 
+for activation. The Si/Al ratios were kept to be 2.6, 2.65, 2.8 and 3.0. The samples prepared 
+were cured at 75°C for a duration ranging from 24 to 96 hours. The samples were then further 
+cured for 28 days at room temperature. The compressive strengths for all the samples ranged 
+from 22 MPa to 40MPa with the samples having the Si/Al ratios 2.65 exhibiting the highest 
+strength for all the curing durations. It was evident from the SEM images that these mixes had 
+higher densification and less porosity. As the Si/Al ratio was increased further, the unreacted 
+silica, higher porosity and early crack formation resulted in lower strengths of the geopolymer 
+mixes  [53]. 
+In a research carried out by He et al. (2013) on red mud (RM) and rice-husk ash (RHA) 
+based geopolymers, it was reported that the effect of Si/Al ratios was significant on the strength 
+characterisation of the industrial waste material. The RHA/RM ratios were varied ranging from 
+0.3, 0.4, 0.5 and 0.6 in order to achieve different Si/Al ratios. The corresponding Si/Al ratios 
+were 1.68, 2.24, 2.80 and 3.35. The activating solution used was sodium hydroxide with 
+varying alkalinity (2, 4 and 6M) while the ambient curing duration ranged from 14 to 49 days. 
+It was observed that the compressive strength and ductility of the mixes increased as the Si/Al 
+ratios increased from 1.68 to 2.80. This was reported to be a result of improved Si-O-Si bonding 
+as well as enhanced ductility with the increase of RHA. These characteristics decreased 
+however for the mix with Si/Al ratio 3.35 for the reason that other synthesis parameters 
+
+
+===== PAGE 21 =====
+
+20 
+ 
+influenced the mechanical properties such as large particle size of RHA and more percentage 
+of unreacted RHA in the mixture [54]. 
+The effect of Si/Al ratios on the compressive strength of water treatment residue and 
+rice husk ash based geopolymers has been studied by Waijarean et al. (2014). Finely ground 
+water treatment residue (45µm retaining) was mixed with rice husk ash (45µm retaining) in 
+different proportions so as to give Si/Al ratios 2.0, 3.0, 4.0 and 5.0. The mixtures were then 
+activated by sodium hydroxide solution in order to achieve geopolymerisation. The samples 
+were cured at ambient conditions, stored in plastic bags until testing at 3, 7, 28 and 60 days. It 
+was seen that the geopolymer with Si/Al ratio 2.0 showed the highest compressive strength 
+(almost 19 MPa) whereas the values decreased as the ratios were increased. It was reported that 
+the geopolymer mixes with higher Si/Al ratios exhibited unreacted aluminosilicate materials 
+along with the formation of glass-like phase resulting in weaker gel bonds [55]. 
+Thokchom et al. (2012) studied the strength and microstructural characteristics of low 
+calcium fly ash based geopolymer pastes formed by the activation of sodium hydroxide 
+solutions.  Different mixes were prepared with Si/Al ratios 1.7, 1.9 and 2.2. The pastes were 
+then moulded and cured at a temperature of 85°C for 24 hours. After 7 days, the specimens 
+were subjected to elevated temperatures of 300, 600 and 900°C for 2 hrs and then tested for 
+compressive strength evaluation. Three unexposed specimens were tested for initial strength 
+reference purposes. It was observed that the specimens having Si/Al ratio 2.2 retained 63% of 
+the compressive strength even after being exposed at 900°C. The lowest residual strength 
+(about 50%) was possessed by the sample with least Si/Al ratio i.e. 1.7. It was reported that the 
+loss of strength at lower Si/Al ratios at elevated temperatures was due to weaker Si-O-Si bonds 
+as well as shrinkage and microstructure disruption of the specimens [56]. 
+Zhang et al. (2011) worked on the geopolymerization of mine tailings and their usage 
+as a construction material. Class F fly ash was used to adjust the Si/Al ratio of highly reactive 
+
+
+===== PAGE 22 =====
+
+21 
+ 
+copper mine tailings. The Si/Al ratios in the formed mixes ranged from 1.89 to 7.78. Sodium 
+hydroxide solutions (5, 10 and 15M) were used as the alkaline activating solution. It was found 
+that the unconfined compressive strengths were the highest (up to 22MPa) for Si/Al ratios 1.89 
+for all the concentrations of sodium hydroxide. Higher ratios led to unreacted aluminosilicate 
+source thus resulting in weaker geopolymeric bonds [57]. 
+In general, it was found that the Si/Al ratio ranges between 1 to 3 for enhanced 
+geopolymerisation depending upon the source material [58-63]. Hence it is essential to 
+determine the optimum Si/Al ratio for any particular source material in order to achieve desired 
+characteristics. 
+A recent study reported the effect of different binder to solution ratio (B/S) and different 
+Si/Al molar ratio in the synthesis of binary binder (metakaolin and silica fume) based 
+geopolymer paste on their workability, setting and compressive strength  [31]. It was reported 
+a decrease in setting time as the B/S ratio and Si/Al ratio increase. Furthermore, an increase in 
+Si/Al ratio at constant B/S ratio resulted in better workability and reduction of flow time. An 
+increase of B/S ratio improves compressive strength, however when the B/S is high (e.g. >1.6), 
+larger Si/Al molar ratios may not necessarily contribute to an increase in strength, as there is 
+an increased unreacted silicate oligomers in the system. The results of this study indicate that 
+for maximum compressive strength an optimal combination of B/S and Si/Al molar ratios needs 
+to be investigated. 
+ 
+ 
+4.4 
+Chemical properties 
+ 
+The geopolymers possess various characteristics such as enhanced chemical resistance 
+against sulphate and chloride attacks [32, 64, 65] and thus gain their importance over ordinary 
+
+
+===== PAGE 23 =====
+
+22 
+ 
+Portland cement (OPC) concrete in many cases. 
+In highly aggressive aqueous environments, the physical and chemical degradation of 
+ordinary Portland cement (OPC) concrete structures may hinder their applications [66]. In such 
+conditions, where external sulphate attack due to exposure to sea water or waste water and acid 
+attacks (occurring naturally or as a result of anthropogenic activities) are likely to happen, 
+geopolymers can prove to be an important alternative (Kwasny et al., 2018). In fact, previous 
+studies reported that low calcium geopolymers show high acid resistance [67, 68]. There are 
+different parameters in the mix-design of geopolymers that can influence their acid resistance 
+characteristics. The pore size distribution of the binder matrix is influenced by the alkali ion of 
+the activator solution [67]. The particle size distribution of the dry binder is affected by the 
+addition of micro or nano-silica as it enhances the packing density of the solid particles thus 
+improving the microstructure in the hardening phase and it alters the chemical composition by 
+increasing the silicon dioxide (SiO2) content [69]. The dissolved silicate content in the activator 
+solution influences the crystallisation of the reactants and may impact the chemical properties 
+as well. The calcium oxide (CaO) percentage of the binder seems to be the most important 
+parameter as during a sulphate attack, gypsum is formed due to precipitation of calcium [68]. 
+The gypsum apparently blocks the pores thus preventing the material from further corrosion 
+[70]. 
+Kwasny et al. (2018) compared the sulphate and acid resistance properties of ordinary 
+Portland cement (OPC) and lithomarge based geopolymer mortars. It was reported that the 
+calcined lithomarge geopolymer binder’s exhibit compressive strengths exceeding 50MPa. In 
+this study, two geopolymer mortars (GPM) and two Portland cement mortars (PCM) mixes 
+were prepared. The samples were cured for 21 days at approximately constant temperature of 
+21°C. The samples were immersed in 0.352 mol/L solutions of sodium sulphate and 
+magnesium sulphate for 52 weeks to investigate the sulphate attack resistance as well as kept 
+
+
+===== PAGE 24 =====
+
+23 
+ 
+in different 0.52mol/L sulphuric acid and hydrochloric acid solutions for 8 weeks to investigate 
+acid attack resistance. It was found that the GPM samples showed no evidence of cracking, 
+expansion or discolouration as a result of sulphate solution attack. On the other side, PCM 
+samples had micro-cracking along with lateral and longitudinal expansion. The GPM samples 
+showed better resistance in sulphuric and hydrochloric acid environments as exhibited by lower 
+surface deterioration and lower mass loss. This is shown in the Fig. 7. The main mechanism 
+behind GPM deterioration was dealumination of the geopolymer microstructure [71]. As 
+compared to the hydrochloric acid solutions, the sulphuric acid solutions caused higher surface 
+deterioration, mass loss and microstructural deformation.  
+In a study carried out by Bakharev (2005), fly ash obtained from Gladstone in Australia 
+was used as a source material to synthesize geopolymers. The activating solutions used were 
+sodium silicate, sodium hydroxide and a mixture of sodium hydroxide and potassium 
+hydroxide. The concentration of sodium in each solution was kept constant at 8% whereas the 
+solution to binder ratio was kept at 0.3. The samples prepared were cured for 24 hours at room 
+temperature, then heat cured at 95°C for 24 hours and then again cooled at room temperature 
+for 48 hours prior to testing. For testing the resistance of geopolymers against sulphate attack, 
+the solutions used were 5% sodium sulphate, 5 % magnesium sulphate and a mixture of 5% 
+sodium sulphate and 5% magnesium sulphate. The compressive strength of the samples was 
+tested at 0, 30, 60, 90, 120 and 150 days of immersion into the sulphate solutions. For 
+comparison purposes, samples of Ordinary Portland Cement and Ordinary Portland cement 
+partially replaced by 20% fly ash were also prepared. It was observed that the geopolymer 
+samples had no visual changes even after months of immersion in the sulphate solutions. The 
+surface was as smooth as it was when prepared and no deposition was reported. The weight 
+gains in the geopolymer samples (0.4-2.1%) were very less as compared to OPC samples 
+(9.1%). The Ordinary Portland Cement as well as Ordinary Portland Cement plus fly ash 
+
+
+===== PAGE 25 =====
+
+24 
+ 
+samples showed some appearance changes in the magnesium sulphate solution where they 
+were covered by a 1 mm thick white layer. Cracking around the corners was observed in the 
+samples immersed in sodium sulphate while marked deterioration was witnessed in the sodium 
+plus magnesium sulphate solution. The compressive strength for the geopolymer samples 
+fluctuated with time and some decreases as well as increases were observed for different 
+activated fly ash samples in all sulphate solutions. However, Ordinary Portland Cement as well 
+as Ordinary Portland Cement plus fly ash samples showed a drastic decrease in compressive 
+strength of 35 and 19% respectively. The reason reported was the nature and characteristics of 
+the aluminosilicate polymeric gel which prevented the geopolymer samples from deterioration 
+even at higher concentrations of sulphate solutions. Further, it was concluded that the 
+fluctuation in the compressive strengths of geopolymer samples depended on the activator used 
+in sample preparation as well as type and concentration of cation in the sulphate media [72]. 
+Concrete structures when exposed to marine environments can deteriorate due to 
+aggressive wave action, chemical attack in the form of chlorides and sulphates in seawater and 
+various other climatic agents. Reddy et al. (2013) have investigated the behaviour of low 
+calcium fly ash based geopolymer concrete in corrosive marine environment. ASTM Type I 
+Portland cement was used to prepare concrete samples as a control mix whereas the 
+geopolymer concrete specimens were prepared by completely replacing the cement with 
+ASTM Class-F fly ash. The alkaline solutions used were a mixture of sodium hydroxide and 
+sodium silicate solutions. 8M and 14M sodium hydroxide solutions were used in the 
+preparation of the alkaline activator. The cylinders and reinforced beams using rebars were 
+kept in the moulds for 4 and 5 days respectively. Then oven cured at 60°C for 24 hours and 
+then cured at ambient temperature up to 28 days. The corrosion technique used was an 
+accelerated laboratory electrochemical method. The samples were immersed in a saline 
+solution and the chemical action was simulated by inducing different intensities of corrosion 
+
+
+===== PAGE 26 =====
+
+25 
+ 
+into the reinforcement using direct potential. The 28 days compressive strengths achieved for 
+the oven cured samples were 39.9 MPa (8M) and 60.2 MPa (14M) whereas the ambient cured 
+samples showed 33 MPa. Further, the geopolymer samples did not exhibit total destruction 
+upon failure, thus representing toughness of the geopolymer paste. The corrosion current for 
+the geopolymer samples decreased for approximately 80 hours and then remained constant 
+whereas for the cement samples it decreased in the first 15 hours and then increased until 300 
+hours of the test. Further, in the mass loss measurement analysis, it was observed that after 
+accelerated corrosion, the mass of the reinforcement in OPC samples decreased by 51-72%. 
+However, the bars in the geopolymer concrete mixes showed 0% mass losses. Hence, it was 
+suggested that geopolymer concrete mixes show a more stable behaviour in corrosive 
+environments and could be more suitable for use in marine conditions [73]. 
+Sturm et al. (2018) studied the acid resistance behaviour of alkali activated materials. 
+In this study, three different type of silica starting materials, a micro silica, a silica produced 
+by thermal treatment of chlorosilane production residues and flue gas neutralisation, and rice 
+husk ash were used to prepare mortars. The sodium aluminate (NaAlO2) was used as a solid 
+activator. Ground granulated blast furnace slag (GGBFS) was used in some specimens to 
+enhance the calcium content of the mixture. 
+The microstructure analysis of the specimens showed that the water immersed 
+specimens possessed a glass-like microstructure indicating the geopolymer gel. However, the 
+acid immersed specimens exhibited debris-like structure which are thought to be precipitated 
+silica gel [65]. The microstructures of geopolymers became more porous upon acid attacks 
+however, in this case the precipitated silica gel supported the corroded layer to some extent 
+thus preventing the inner regions from acid attack to some degree, as it can be observed from 
+the Fig.8. 
+ 
+
+
+===== PAGE 27 =====
+
+26 
+ 
+ 
+4.5 
+Thermal properties 
+ 
+Geopolymers also possess enhanced thermal resistance property. In a fire scenario, a 
+good geopolymer building material needs to possess strong chemical stability, resistance to 
+deformation as well as strength endurance [32]. Geopolymers such as metakaolin and fly ash 
+tend to have good fire resistances even at temperatures up to 1000°C [74-76]. When 
+geopolymers are exposed to elevated temperatures, shrinkage occurs as a result of evaporation 
+of water from the structure [77]. 
+Thermal resistance properties for Ordinary Portland cement binders are low especially 
+at temperatures beyond 600°C [78]. A research carried out on hard coal fly ash geopolymer 
+revealed high compressive strength and low shrinkage at temperatures up to 1000°C. 8M 
+sodium hydroxide solution was used as an activator whereas the fly ash was partially replaced 
+in fractions (0-20%) with pure calcium hydroxide powder. The samples casted were kept at 
+40°C for 3 days and then stored over water for another 21 days at room temperature. The 
+samples were heat treated at 600, 800 and 1000°C at a rate of 5°C per minute and kept there 
+for 60 minutes after which compressive strength tests were carried out. The temperature 
+resistance was determined through dilation tests up to a temperature of 1,100 °C using the 
+Linseis-dilatometer L75. A constant stress of 0.05 MPa was kept on the sample to determine 
+creep under compression. It was found through the quantitative phase analysis by Rietveld 
+refinement that the samples having 8% calcium hydroxide possessed maximum amount of 
+nepheline at 800°C and feldspar at 1000°C which contributed to its high 28 day compressive 
+strength (39 MPa) and low shrinkage (1.7%). The aluminosilicate bonds and calcium silicate 
+hydrate linkages contributed to the overall strength and stability of the fly ash based 
+geopolymer binder even at such high temperatures [78]. 
+
+
+===== PAGE 28 =====
+
+27 
+ 
+In a study carried out by Samal et al. (2017), metakaolin was used as the source material 
+for geopolymer preparation. The samples were treated at various temperatures beginning from 
+room temperature, 200°C, 400°C, 600°C, 800°C and then 1000°C.  
+It was observed through scanning electron microscope (SEM) images that micro-cracks 
+appeared on the surface at 200°C. At 400°C, the metakaolin geopolymer began to swell along 
+with the enhancement of cracks thus dividing the surface into pockets. Significant thermal 
+expansion lead to the development of more vivid swell pockets at 600°C. The expansion was 
+more prominent at 800°C while the matrix began to melt at 1000°C as shown in the Fig. 9. 
+Hence, it was concluded that the micro-crack development, expansion and swelling behaviour 
+may lead to spalling of the geopolymer. During thermal expansion, the increased porosity 
+resulted in a cage-like structure which caused loss of mass and spalling [74]. 
+Rickard et al. (2011) conducted a research on the thermal properties of fly ash based 
+geopolymers where the source material was obtained from three power plants; Collie power 
+station (Western Australia), Eraring power station (New South Wales) and Tarong power 
+station (Queensland) in Australia. The fly ash had different chemical compositions owing to 
+the fact that their characteristics would vary depending on the coal source and burning 
+conditions. X-ray fluorescence tests revealed the percentages of silica (SiO2) and alumina 
+(Al2O3) for all the fly ashes i.e. Collie (SiO2 51.4%, Al2O3 26.9%), Eraring (SiO2 65.5%, Al2O3 
+23%) and Tarong (SiO2 73.7%, Al2O3 22.4%). Different geopolymer samples were synthesized 
+where the main compositional variable, Silicon to Aluminium ratio (Si/Al), was varied between 
+2 and 3. The mechanical strength of the geopolymers was tested at room temperature as well 
+as after exposure to 1000°C. It was seen that the Collie fly ash geopolymer exhibited highest 
+28 days compressive strength (128 MPa) at room temperature as compared to Eraring (31 MPa) 
+and Tarong (26 MPa). This was due to different geopolymerisation levels of the different 
+mixes. Better conversion of amorphous aluminosilicates into geopolymer gel led to stronger 
+
+
+===== PAGE 29 =====
+
+28 
+ 
+bonds thus contributing to higher strength. Further, the low Si/Al ratio samples showed higher 
+compressive strengths as compared to the other ones. However, in case of post fire-exposure 
+strengths, it was observed that higher Si/Al ratios led to better compressive strengths as for 
+Eraring and Tarong fly ash based geopolymers. Sintering of aluminosilicates of geopolymers 
+and unreacted fly ash is reported to be a reason for the inter-particle connectivity thus resulting 
+in higher strengths. It was suggested that fly ash based geopolymers become brittle after firing 
+[79]. 
+In another detailed study conducted by Lahoti et al. (2018), metakaolin, one of the most 
+common model precursor was employed for the study of thermal behaviour of geopolymers 
+owing to good mechanical and fire resistance properties. The study illustrated that the fire 
+resistance should be investigated at micro, meso and macro scales. The micro-scale thermal 
+resistance indicates micro-structural chemical stability of the material when subjected to high 
+temperatures. The meso-scale thermal resistance refers to the ability of the material to resist 
+cracking and volumetric changes. The macro-scale thermal stability is the strength endurance 
+or the ability of the material to maintain its compressive strength at elevated temperatures. The 
+samples prepared in different mix designs were cured for 7 days under ambient conditions and 
+then were subjected to 300°C and 900°C. The compressive strength reduced after exposure to 
+high temperature as shown in the Fig. 10, however the samples maintained structural integrity.  
+It was concluded that all metakaolin geopolymer samples experienced reduction in 
+compressive strengths after exposure to 300°C. The geopolymer mixes exhibited good 
+chemical stability at micro-scale but revealed poor volume stability at meso-scale and low 
+residual strength at macro-scale against 900°C exposure [32]. 
+ 
+ 
+ 
+
+
+===== PAGE 30 =====
+
+29 
+ 
+4.6 
+Durability properties 
+ 
+ 
+Past studies have adopted various performance parameters such as abrasion resistance, 
+frost resistance, shrinkage resistance, carbonation resistance and reported that geopolymer 
+concrete compares favourably  to Ordinary Portland Cement (OPC) concrete in terms of  
+durability properties [80, 81]. 
+As the geopolymer concrete can be used as a patching material, the evaluation of abrasion 
+resistance properties is critical [82].  For instance, Ganesan et al. (2015) studied the abrasion 
+resistance of OPC  and fly-ash based geopolymer concretes as well as steel fibre reinforced 
+concrete. The study revealed that weight loss values for  geopolymer concrete were less 
+(0.24%) compared to conventional OPC concrete and steel fibre reinforced concrete (0.33%) 
+[83]. 
+Nuaklong et al. (2016) have reported that the geopolymer concrete with natural aggregates 
+exhibit lower values of abrasion weight loss by nearly 20% as compared to recycled aggregates 
+[84]. In a study carried out by Wongsa et al. (2016), it was found that geopolymer concrete 
+with natural aggregates shows less than 50% abrasion weight loss values in comparison with 
+geopolymer concrete using bottom ash as aggregate [85]. Moreover, the addition of various 
+fibres can also improve the abrasion resistance properties of geopolymer concretes. Ganesan 
+et al. (2015) reported that the abrasion weight loss for geopolymer concrete specimens 
+reinforced using steel fibre was much less (0.12%) than that of geopolymer concrete (0.24%)  
+[83]. The research carried by Celik et al. (2018) shows that addition of polyvinyl alcohol (PVA) 
+fibres and basalt fibre can improve the mechanical and abrasion resistance properties of 
+geopolymer composites [86]. Hence it was found in the past researches that geopolymer 
+concrete has performed better in terms of abrasion resistance as compared to OPC concrete. 
+
+
+===== PAGE 31 =====
+
+30 
+ 
+An important parameter in the evaluation of durability characteristics of concrete is the frost 
+resistance especially for  underwater structures applications or in locations where the 
+temperatures are very low. The frost resistance is assessed by the weight loss percentage and 
+change in the dynamic modulus of elasticity after freezing-thawing cycles. While the study of 
+frost resistance is relatively well established for OPC concrete, results for geopolymer concrete 
+are limited. Wang et al. (2010) reported that the weight loss for OPC concrete and geopolymer 
+concrete remain the same up to 100 freezing-thawing cycles. However, from 100 to 200 cycles 
+it increases drastically for OPC concrete whereas no change is observed for geopolymer 
+concrete, thus exhibiting better durability characteristics [82]. Yuan et al. (2020) have reported 
+enhanced frost resistance characteristics of Class F fly-ash and slag based geopolymers 
+reinforced by polypropylene (PP) fibre, polyvinyl alcohol (PVA) fibre and steel (S) fibre under 
+a coupled effect of 20 MPa compressive stress and 125 freezing cycles. The propagation of 
+micro-cracks was suppressed and water penetration depth was reduced for the fibre reinforced 
+geopolymer concrete specimens [87]. Pilehvar et al. (2019) studied the frost resistance 
+behaviour of OPC concrete and fly-ash/slag based geopolymer concrete specimens containing 
+micro-encapsulated phase change materials (MPCM). It was found that compressive strength 
+for OPC specimens was greatly reduced (44 MPa) as compared to geopolymer concrete (74 
+MPa) samples after being exposed to 28 freeze-thaw cycles [88].  
+Another major factor in the assessment of durability properties of construction materials is the 
+drying shrinkage, which is the difference between autogenous and total shrinkage. The loss of 
+moisture during the hydration process as well temperature changes during hardening of 
+concrete contribute to drying shrinkage. Olivia and Nikraz (2012) results revealed that drying 
+shrinkage properties of fly-ash based geopolymer concrete compares favourably with OPC 
+concrete specimens [89]. Albitar et al. (2015) investigated the strength characteristics of 
+granulated lead smelter slag (GLSS) and fly-ash based geopolymer concrete specimens. It was 
+
+
+===== PAGE 32 =====
+
+31 
+ 
+found that specimens containing larger proportions of GLSS contributed to a reduction of 
+drying shrinkage in the fly-ash based geopolymer concrete [90]. Gunasekera et al. (2019) 
+studied drying shrinkage properties for fly-ash based geopolymer concrete from various 
+sources and similarly lower drying shrinkage was observed for geopolymer concrete [91]. 
+Muttashar et al. (2018) studied geopolymer concrete specimens having spent garnet as sand 
+replacement. The drying shrinkage of the geopolymer specimens having garnet was smaller 
+than those prepared with sand [92]. Humad et al. (2019) reported that higher fly-ash contents 
+in geopolymer concrete reduced drying shrinkage and substantially lowered autogenous 
+shrinkage whereas the usage of alkali activators having lower alkali moduli could increase the 
+autogenous shrinkage [93]. 
+Carbonation resistance is an important performance parameter for concrete applications. For 
+geopolymer concretes, accelerated carbonation method is adopted to assess its durability. 
+Huang et al. (2018) assessed the carbonization rate from ion migration perspective and reported 
+that fly-ash based geopolymer concrete showed higher carbonation resistance as compared to 
+geopolymer concrete [94]. Li and Li (2018) presented a modified rate of carbonation model for 
+fly-ash and blast furnace slag based geopolymer concrete. It was found that higher blast furnace 
+slag content enhanced the carbonation resistance. Further, as the curing temperatures reached 
+from 20 °C to 60 °C the carbonation depth was reduced by almost one third, thus proving that 
+heat curing resulted in improved carbonation resistance [95]. Apart from binder types and 
+curing temperatures, alkaline activators and type of aggregates can also affect the carbonation 
+resistance properties of concrete. Pasupathy et al. (2016) investigated the carbonation depth 
+and pH values of fly-ash and slag based geopolymer concrete slabs. The slabs had been exposed 
+to outdoor environment for eight years. The introduction of sodium silicate as alkaline activator 
+component exhibited negative effects on the carbonation resistance [96]. Muttashar et al. 
+(2018) found that garnet as a replacement for sand in slag based geopolymer concretes reduced 
+
+
+===== PAGE 33 =====
+
+32 
+ 
+carbonation depth. The carbonation depth decreased from 12.8mm to 6.4mm as the garnet 
+percentage in concrete specimens was increased from 0% to 100% [92]. 
+Finally, based on the results of numerous past studies on the durability characteristics it is clear 
+that geopolymer concrete performance is much superior compared to OPC concrete. 
+ 
+ 
+4.7 
+Environmental impact evaluation 
+ 
+Ordinary Portland cement and concrete are used globally in the construction industry 
+but have major negative environmental impacts [97, 98]. In a report documented by Andrew 
+(2018) of Centre for International Climate Research Oslo (CICERO) Norway, approximately 
+4 billion tonnes of cement were produced in 2016 globally [99]. Nearly 50 billion tonnes of 
+concrete are produced annually all over the world. The cement industry contributes to about 
+10% of the total greenhouse gas emissions globally and utilises 1.5 billion Gigajoules (GJ) of 
+energy annually. One tonne of cement produces about 900 kg of CO2-e and consumes about 5 
+GJ of energy thus making it highly energy intensive [2]. It was found from previous researches 
+that greener cements prepared by geopolymerization reduce the greenhouse gas (GHG) 
+emissions by almost one half [100]. 
+Nguyen et al. (2018) used the life cycle assessment (LCA) technique for evaluating the 
+environmental impact from feedstock extraction to the manufacturing of the cementitious 
+binders [101]. The production costs such as transportation, energy, material and capital costs 
+were also analysed. Five different type of materials were incorporated into study, namely 
+Ordinary Portland Cement (OPC), fly ash cement, slag cement, metakaolin based geopolymer 
+and high limestone alkali activated slag cement (HLAASC). The cost of production of all the 
+cements was taken as the sum of feedstock, transportation, process and capital costs. The 
+
+
+===== PAGE 34 =====
+
+33 
+ 
+feedstock cost of fly ash was estimated between $40-80/tonne. Slag costs about $60-100/tonne. 
+The transportation costs and greenhouse gas emissions of various modes was determined as 
+shown in the Table 1. 
+The most drastic differences are seen in comparing the GHG emissions and primary 
+energy at the processing stage of all the binders as shown in the Fig 11 and 12. Thus, the LCA 
+models that calculated the energy requirements and GHG emissions along with the cost 
+analysis concluded that the slag cement, fly ash cement, HLAASC and metakaolin geopolymer 
+reduce the life cycle GHG production as compared to OPC. The prices are highly competitive 
+to OPC where these source materials are easily available.  
+Mc Lellan et al. (2011) have reported similar results in a comparative study focussing 
+on the feedstock extraction as well as production impacts of various fly ash based geopolymer 
+mixes as compared to Ordinary Portland Concrete. In typical geopolymer mixes, greenhouse 
+gas emissions have found to be significantly reduced (271-425 kg CO2 eq. per tonne) as 
+compared to OPC products (760 kg CO2 eq. per tonne). This study validated the previous 
+findings as there was up to 94% decrease in emissions as well as 72% decrease in production 
+costs. One of the major contributors towards the emissions for geopolymer mixes was caustic 
+soda. Optimizing the amount of the alkali activator could help in reducing the carbon impacts 
+of geopolymers. Hence, it was concluded that there was a huge potential in the emission and 
+cost reductions depending upon the particular formulation of geopolymer mixes and extraction 
+sources [102].  
+Habert et al. (2011) conducted an environmental evaluation of geopolymer based 
+concrete production using Life Cycle Assessment (LCA) methodology. They confirmed the 
+negative trend towards the global warming impact but found the geopolymers to be responsible 
+for increase in other environmental impact parameters. For instance, the human toxicity was 
+reported to be 105.4 kg 1,4-DB eq. (dichlorobenzene equivalent) in comparison to 18.9 kg 1,4-
+
+
+===== PAGE 35 =====
+
+34 
+ 
+DB eq. for OPC concrete. Freshwater eco-toxicity in case of OPC concrete was 2.52 kg 1,4-
+DB eq. whereas rose up to 27.01 kg 1,4-DB eq. for geopolymer concrete. The reason for the 
+higher human toxicity impacts was mainly sodium silicate solution required for the 
+geopolymerisation of alumino-silicate source materials. It was concluded that fly ash and 
+granulated blast furnace slag based geopolymer concretes have lesser environmental impacts 
+as they are activated using low quantities of sodium silicate solution. The mix design for 
+geopolymer concrete should be taken into account so as to optimise the Si/Al ratio in order to 
+minimise the usage of sodium silicate solution [103]. 
+Robayo-Salazar et al. (2017) also found similar observations while investigating the 
+eco-efficiency of alkali activated cements based on red clay brick wastes. The global warming 
+potential of these hybrid cement pastes was studied which led to the conclusion that OPC 
+content along with the amount of alkaline activator is responsible for increase in carbon 
+emissions. Sodium silicate though a major contributor towards strength releases 0.926 kg CO2 
+eq. per kg and its use should be minimised in order to reduce greenhouse emissions. [104]. 
+In another study by Petrillo et al. (2016), an environmental evaluation has been made 
+between geopolymeric and OPC masonry blocks. The Life Cycle Assessment (LCA) approach 
+has been utilised to assess the environmental impacts. The life cycle stages considered were 
+material acquisition, processing and transport. The materials used to make geopolymeric blocks 
+were recycled clay and blast furnace slag as precursors while 5M NaOH and sodium silicate 
+solution was used as an alkali activator. The OPC blocks were prepared using Type II cement 
+along with fine and coarse aggregates. A comparison of the characterization phases of both the 
+block units is given in the Table 2. The geopolymeric study reveals negative values mostly that 
+indicates savings. The positive values on the other hand show a burden on the environment 
+[105]. It can be seen that the acidification or eutrophication impacts of the geopolymer blocks 
+are far less as compared to the OPC ones. This means that the nutrients (especially phosphorus 
+
+
+===== PAGE 36 =====
+
+35 
+ 
+and nitrogen) in the geopolymer blocks will not be leached out in the water bodies in high 
+concentrations. Therefore, they will not promote excessive growth of plants and algae, which 
+could cause oxygen depletion of the water body. Similarly, the quantification of the burden of 
+mortality from carcinogenic contents (in terms of disability-adjusted life years) in geopolymer 
+paving blocks is nearly halved as compared to OPC blocks. Another major difference can be 
+witnessed in terms of the disease burden attributable to human health owing to the climate 
+change. The impact of geopolymer blocks on water and vector borne diseases as well as the 
+risk of natural disasters due to global climate change is negative as compared to OPC pavers. 
+Further, the geopolymer blocks do not result in the release of harmful compounds (such as 
+chlorofluorocarbons) which could result in the depletion of ozone layer and contribute to 
+climate change and health hazards associated with it. Also, the human and marine toxicity 
+levels indicate a negative trend thus, not contributing to eco-life damages.  
+Hence it can be easily said that the geopolymers have a positive impact on the 
+environment as compared to the conventional ordinary Portland cement (OPC). Their usage 
+can definitely contribute towards a cleaner and sustainable construction practice. 
+Fahim Huseien et al. (2017) studied the usage of geopolymer mortars as an efficient 
+and sustainable repair materials. Various mixes of fly ash, metakaolin and blast furnace slag 
+were used for the geopolymer concrete production. The temperature requirements for 
+calcination of geopolymers was found to be half of that needed for the decarbonation of lime. 
+This could easily lead to 50-60% reduction in the carbon dioxide emissions as compared to 
+OPC concrete [106]. 
+Apart from the carbon footprint investigations, another important aspect that needs a 
+thorough study is the leaching behaviour of geopolymers. Tigue et al. (2018) studied the 
+leaching characteristics of geopolymer prepared by alkali activation of a mixture of coal fly 
+ash (23%) and soil (67%) with sodium hydroxide (5%) and sodium silicate (5%) solution. High 
+
+
+===== PAGE 37 =====
+
+36 
+ 
+leachability was witnessed for aluminium (Al), sodium (Na), calcium (Ca), silicon (Si) and 
+iron (Fe). Initial higher contents of Al (120 ppm), Na (18721 ppm) and Si (18 ppm) are due to 
+their higher initial content in the raw material as well as the alkaline activator. After 5 cycles it 
+was found that the Na had leached about 19% owing to the excessive alkali content in the 
+mixture. However, the lower solubility of Fe and traces of heavy metals such as arsenic (As) 
+and chromium (Cr) showed their incorporation in the geopolymeric gel [107]. 
+In a research carried out by Bai et al. (2019), a metakaolin based geopolymer was 
+prepared using several industrial wastes such as fly ash, steel furnace slag and brake pad waste. 
+All the wastes were grounded in a Los Angeles abrasion tester and the fines lesser than 75µm 
+in size were mixed with metakaolin for the preparation of geopolymers in various 
+compositions. The metakaolin was partially replaced (10, 20 and 30%) with the waste powder 
+and activated by sodium silicate and sodium hydroxide solution. The heavy metal content in 
+the waste materials was of grave concern and was therefore tested for leaching characteristics. 
+It was found that the amount of heavy metals (Sr, Cr and Ba) leached into the solution from 
+geopolymer was way less than the solid waste  [108]. This was in agreement with the findings 
+of previous researchers that geopolymerization of heavy metals resulted in a decreased mobility 
+of heavy metal ions [62, 109-114]. 
+ 
+ 
+5. 
+Applications in Civil Engineering 
+ 
+The properties of geopolymers such as high compressive strength, better acid and 
+thermal resistance, low carbon emissions, low energy requirements for processing etc. have 
+justified their usage in civil engineering in comparison with conventional cementitious 
+materials like cement and lime. 
+
+
+===== PAGE 38 =====
+
+37 
+ 
+ 
+5.1 
+ Geopolymers in soil stabilization applications 
+ 
+The use of geopolymers in soil stabilization has become a feasible practice especially 
+on project sites where the engineers are encountered with soft or weak soil strata [115]. These 
+soils lack the strength to support structural loads during construction or throughout the service 
+life. Cristelo et al. (2011) have found various calcium based geopolymers such as fly ash slurry 
+to be very effective in stabilization of deep soil strata through grouting process. In a study 
+carried out by Zhang et al. (2013), alkali activated metakaolin was used to treat lean clay in 
+order to investigate the feasibility of the geopolymers for the purpose of soil stabilization. The 
+results of unconfined compressive strength (UCS) tests showed that 28 days strength of 
+metakaolin (15%) stabilized soil was 4 MPa as compared to 3.5 MPa of the cement (5%) 
+stabilized soil and 0.5 MPa of unstabilised soil as shown in Fig. 13. 
+The soils stabilized with metakaolin showed more ductile behavior [3]. The metakaolin 
+stabilized soils exhibited low shrinkage behavior (0.5%) especially at 11% metakaolin 
+concentration.  
+In a similar research carried out by Cristelo et al. (2011), Class F fly ash (low in Ca 
+content) was used along with an alkali activator solution of sodium silicate plus sodium 
+hydroxide [116]. The sodium hydroxide (NaOH) solution was prepared in 10, 12.5 and 15 
+molar concentrations. The short term strength of 15 molar solution was higher although the 
+12.5 molar samples showed higher 90 and 365 days’ strength. The 15 molar solutions were 
+sometimes too viscous to handle and crystallised at lower temperatures.  Further, owing to the 
+economic reasons, the  12.5 molar solutions seemed to be the best option [116]. 
+
+
+===== PAGE 39 =====
+
+38 
+ 
+It was concluded that the use of alkali activated geopolymers in jet grouting is 
+favourable for soil stabilization and comparable to traditional cementitious grouts but the 
+strength gaining aspects need to be explored further. 
+Zhen Liu et al. (2016) investigated the usage of fly ash in stabilizing loess soil strata. 
+Loess is a type of loose soil which consists mainly of wind transported silt and clay particles 
+[117]. It is found in many parts of the world especially, Central America, Brazil, Central Asia, 
+Europe etc. The soil is primarily made of quartz particles. It was found that alkali activated fly 
+ash binder could bond the soil particles through the formation of alumino silicate gel matrix. 
+The scanning electron microscope (SEM) images and X-ray diffraction (XRD) analyses 
+showed that the microstructure got compacted as the fly ash/loess ratio increased thus 
+confirming the stabilization process as shown in Fig. 14. 
+Murmu et al. (2020) investigated the potential of fly-ash based geopolymer in 
+stabilisation of black cotton soils for subgrade applications. The fly-ash content varied from 5 
+to 20% whereas the molarity of sodium hydroxide solution was kept at 5M. The 28 day 
+unconfined compressive strengths increased from 1.2 MPa to 2.7 MPa as the fly-ash content 
+was increased from 5 to 20%. The resilient modulus (MR) ranged from 132 to 160 MPa for 5 
+to 20% fly-ash specimens as compared to the untreated black cotton soils which exhibited the 
+value of 30 MPa. The results indicated that the geopolymer mix developed can be effectively 
+employed for stabilising weak subgrade soils for transport infrastructure applications. [118] 
+Hanegbi et al. (2020) studied the use of metakaolin geopolymer for the stabilisation and 
+dust control of a semi-arid loess soil. The soil specimens were replaced with metakaolin up to 
+30%. And then activated by sodium silicate and sodium hydroxide solution. The soil mixtures 
+prepared were tested in wind tunnels for dust emission at 6.5 and 9.5 m/s velocities. The PM10 
+(particulate matter 10µm or less) values for geopolymerised mix remained around 0.02 mg/m3 
+and thus the application resulted in no dust emission. These results demonstrate that the 
+
+
+===== PAGE 40 =====
+
+39 
+ 
+geopolymerisation technique can be adopted successfully to improve stabilisation of loess 
+soils. [119] 
+ 
+5.2 
+ Geopolymer concrete applications 
+ 
+The utilization of geopolymer concrete in construction is increasingly adopted by the 
+construction industry owing to the drawbacks of conventional concrete and the numerous 
+inherent benefits of geopolymers [64, 120]. They come in various forms such as high volume 
+fly ash concrete, ultra-high performance concrete (containing admixtures), lightweight 
+concrete etc. The geopolymer concrete offers various benefits over traditional cement based 
+concrete such as high strength, increased durability, improved workability, reduced 
+permeability and reduction of plastic shrinkage cracking etc. [120] 
+In a study carried out by Laskar and Talukdar (2017), 21 different samples of ultra-fine 
+ground granulated blast furnace slag (UGGBS) concrete were prepared in various proportions. 
+The fly ash content varied from 0 to 50 percent of the binding agent. Sodium hydroxide (NaOH) 
+was used as an alkali activator ranging from 8M to 14M solutions. It was found that the 
+geopolymer concrete is good at developing initial strength at a very high rate. Its 1 day strength 
+was equal to almost 60% of its 28 days strength [121]. The addition of fly ash on the other hand 
+contributed to betterment in workability of concrete mix but higher percentages (more than 
+40% of binding agent) reduced the compressive strength. 
+In a similar research carried by Deb et al. (2014), Class F fly ash was used as a main 
+binding agent along with partial replacement of fly ash in this study. The alkaline activator 
+used was a mixture of sodium hydroxide (14M) and sodium silicate solution. The sodium 
+silicate to sodium hydroxide ratio (R) was varied from 1.5 to 2.5. The slag content (S) ranged 
+from 0 to 20%. After compaction, the samples were cured in ambient conditions around 20°C 
+
+
+===== PAGE 41 =====
+
+40 
+ 
+and 75% relative humidity. The compressive strength of the concrete samples was increased 
+with increasing percentage of slag. However it was decreased when the sodium silicate to 
+sodium hydroxide ratio was increased [122]. This can be seen from the following Fig. 15. 
+Top and Vapur (2018) have also reported using fly ash as the main material for 
+geopolymer concrete production and have achieved 28 days compressive strength up to 50 
+MPa as shown in the Fig. 16. 
+Lee et al. (2019) conducted a study on fly ash and ground granulated blast furnace slag 
+geopolymer concrete. Geopolymer mortars were prepared with 30% slag and 70% fly ash. The 
+geopolymer mixes were activated by sodium silicate and sodium hydroxide solution. For the 
+preparation of geopolymer concrete, the ground granulated blast furnace slag and fly ash were 
+mixed in a 1:1 ratio. After thorough blending, activator sodium hydroxide solutions with 
+concentrations 2, 3, 4, 5 and 6M were mixed whereas the geopolymer:sand:gravel ratios were 
+kept at 1:2.5:2.4. The cylindrical samples were cured both indoors (sealed in plastic and cured 
+at room temperatures) and outdoors on a roof top. The compressive strength tests were 
+performed at 14, 28, 56, 90, 180 and 270 days. It was found that the outdoor curing resulted in 
+a decrease in the compressive strength for various samples owing to drying and shrinkage as 
+compared to the ones sealed in plastic bags and stored indoors. Further it was observed that the 
+strength of the geopolymer concrete was enhanced as the curing days were increased [123]. 
+The conclusions drawn were in agreement to the findings in literature [124-128]. 
+In a project report published by Wagners Australia, Glasby et al. (2015) have 
+documented a large-scale commercial application of geopolymer concrete at the Brisbane West 
+Wellcamp airport (BWWA), Australia where approximately 40,000 cubic meters of fly ash 
+based geopolymer concrete was supplied by Wagners for the construction of 435 mm thick 
+heavy duty pavements in the northern end of runway, aircraft turning areas, taxiway on the 
+
+
+===== PAGE 42 =====
+
+41 
+ 
+western side as well as hangars on the eastern side of the runway. The airport is fully functional 
+with commercial flights being operated by Qantas Link since November, 2014. 
+ 
+ 
+5.3 
+Coastal or Marine applications 
+ 
+Geopolymer concrete can be considered as a suitable option for marine construction 
+primarily because of low permeability and its superior durability characteristics. The dense 
+microstructure of geopolymer concrete results in a low permeability that inhibit the penetration 
+of sea water [129]. Ismail et al. (2013) have reported that the aluminosilicate geopolymeric 
+gels are chemically stable in sea water and can provide a sustainable alternative solution for 
+marine structures. [130].  
+Mahmood et al. (2020) investigated the use of fly-ash and steel furnace slag aggregate 
+based high density geopolymer for coastal protection structures. Compressive strengths up to 
+37 MPa were achieved and a size reduction (30 to 40%) for breakwater structures was proposed 
+without compromising the structural performance of the material. This resulted in a reduction 
+in material requirements as well as overall carbon footprint [131]. Fan et al. (2018) have also 
+reported enhanced properties of fly-ash based geopolymer mortars when exposed to different 
+aggressive environments such as seawater and acidic environments. [132].  
+ 
+ 
+5.4 
+Self-cleaning concrete applications for inhibiting microbial attack  
+ 
+Self-cleaning concrete can be employed for cleaner and greener construction. The self-
+cleaning characteristics of geopolymer concrete can contribute to enhanced building aesthetics 
+
+
+===== PAGE 43 =====
+
+42 
+ 
+[8]. Zailan et al. (2016) reviewed the properties of self-cleaning geopolymer concrete and 
+explained that the photocatalytic materials such as titania (TiO2) and zinc oxide (ZnO) are 
+effective. Self-cleaning geopolymer concrete having photocatalysts can decompose organic 
+matter in the presence of ultraviolet (UV) radiations. The addition of above materials contribute 
+to the formation of stronger geopolymer links and thus increases its compressive strength [133]. 
+Strini et al. (2016) also found that geopolymers containing titania (TiO2) can assist in the 
+process associated with  the degradation of nitric oxide (NO) [134].  
+In addition, the higher alkalinity values (pH 10-12) of geopolymer concrete inhibits 
+microbial activity on the surface. However, as the geopolymer concrete ages, the pH decreases 
+and it drops to levels below 9, the surface degradation due to microbial attack begins. Adak et 
+al. (2015) found that the microbial colonies cause biodeterioration that lead to surface damage. 
+Silver nano particles have been found to possess anti-bacterial properties and silver silica 
+modified geopolymer mortar proves to be more efficient than OPC mortars in applications in 
+CO2 rich environments [135].  
+ 
+ 
+5.5 
+Mortars applications 
+ 
+Geopolymer mortars have properties similar to natural rocks such as granite and marble. 
+They can find applications in building conservation practices where cultural heritage is restored 
+for future generations. Due to their enhanced durability characteristics especially in harsh 
+environments, geopolymers can be employed as an alternative to conventional cement mortars 
+in building restoration. Allali et al. (2016) reported that a metakaolin based geopolymer having 
+calcium carbonate (CaCO3) and calcium hydroxide (Ca(OH)2) can be used as mortar for 
+restoration of historical buildings [136].  
+
+
+===== PAGE 44 =====
+
+43 
+ 
+Zeobond (2012) reports the use of a commercial geopolymer concrete ready-mix with 
+steel reinforment for slabs and footpaths in Melbourne (Australia). Zeobond (2012) and Rocla 
+(2011) have produced and tested according to relevant Australian standards various precast 
+pipes, railway sleepers, pavers and have installed them in several construction projects across 
+the state. 
+ 
+ 
+5.6 
+Fire resistance applications 
+ 
+Jiang et al. (2020) carried a comparative experimental study on the fire resistant 
+properties of geopolymer concrete and OPC concrete specimens. Class C fly-ash was activated 
+using sodium hydroxide and sodium silicate solutions and the specimens prepared were 
+exposed to temperatures up to 1200 °C. The OPC specimens showed severe cracking for 
+temperatures exceeding 800 °C. In contrast, the geopolymer concrete specimens exhibited very 
+few visible cracks and no spalling even at these high temperatures. In addition, the residual 
+compressive strength of geopolymer concrete was higher (54 MPa) than OPC concrete 
+specimens (49 MPa). Based on these findings, geopolymer concrete is better suited for  
+applications where fire resistance and structural performance is critical, e.g. buildings [137]. 
+ 
+ 
+5.7 
+Insulation of buildings 
+ 
+Zou et al. (2020) carried an experimental investigation on sawdust and metakaolin 
+based geopolymer and found it to be an effective insulation material for buildings. The samples 
+with water to biomass ratio up to 2 were found to exhibit low heat conductivity (0.118-0.125 
+
+
+===== PAGE 45 =====
+
+44 
+ 
+W/m.K) and potentially were suitable to have a practical application in building insulations 
+[138]. 
+ 
+ 
+5.8 
+Manufacturing of ceramic products 
+ 
+Azevedo et al. (2020) explored the use ceramic waste as a geopolymer precursor 
+material for producing ceramic roof tiles. Unused clay brick waste known as grog was 
+employed along with sand, potassium hydroxide and sodium silicate powder. The pozzolanic 
+activity index was above 6 MPa which showed it to be compatible with other ceramic materials 
+obtained by conventional firing process. Thus, the ceramic waste could be used as a sustainable 
+material for the production of roof tiles  [139]. 
+ 
+ 
+ 
+6. 
+Conclusions 
+ 
+The geopolymers, both in their natural and inorganic form have suitable characteristic 
+to enhance their application in construction practices. The most common applications are 
+typically in soil stabilization and in the concrete industry. While numerous studies have been 
+conducted to establish the use of geopolymer technology more widely (e.g. in coastal 
+infrastructures), there are a number of aspects that need further research in order to exploit the 
+precursor materials to their full potential. Future research in this field will enhance the 
+commercial and industrial success of these materials as an environmentally friendly solution 
+to various issues caused at present due to conventional materials such as cement and lime. For 
+
+
+===== PAGE 46 =====
+
+45 
+ 
+instance some issues are proposed below for future work. 
+(1) Inherently, to control the production and to improve the performances of 
+geopolymer, the reaction mechanisms in terms of thermodynamics, kinetics, intermediate 
+states structures, and the degrees to which the –Si-O-Al are oligomerized and polymerized. 
+This is vital to enhance the geopolymer performance to support the decision to include 
+additional elements or additives. 
+(2) Most of geopolymer pastes, mortars and concretes are brittle and prone to cracking. 
+Such behavior not only imposes constraints in applications, but also affects the long-term 
+durability. Investigation of potential additives and adjustment of alkali molar ratios is required 
+to establish a geopolymer that displays strain-hardening behaviour.  
+ (3) There are also emerging applications for geopolymers materials in the removal of 
+toxic metals adsorption and immobilization and carbon dioxide (CO2) sequestration. However, 
+recent studies show that the performance is still unsatisfactory and research on the recipes 
+component is required. In addition, new applications of fly ash-based geopolymer with biomass 
+can be developed as a class of novel lightweight fireproof materials. 
+ 
+Finally, the geopolymers would definitely prove to be economical and sustainable materials in 
+civil engineering industry. 
+ 
+ 
+7. 
+Acknowledgments 
+ 
+Financial assistance provided by the Higher Education Commission (Pakistan) for the first 
+author is gratefully appreciated.  
+ 
+ 
+
+
+===== PAGE 47 =====
+
+46 
+ 
+Abbreviations and nomenclature 
+ 
+OPC
+Ordinary Portland Cement 
+GPM
+Geopolymer mortars
+PCM
+Portland cement mortars
+SEM 
+Scanning electron microscope
+EDS
+Energy dispersive spectroscopy
+XRD
+X-ray diffraction
+GGBFS
+Ground granulated blast furnace slag
+UCS
+Unconfined compressive strength
+SCG
+Solar curing grey
+SCB
+Solar curing black
+NaOH
+Sodium hydroxide
+Na2SiO3
+Sodium silicate
+CSH
+Calcium silicate hydrate
+HLAASC
+High limestone alkali activated slag cement
+GHG
+Greenhouse gas
+LCA
+Life cycle assessment
+PVA
+Polyvinyl alcohol
+N/S
+Nitrate to bisulphide
+RM
+Red mud
+DB eq.
+Dichlorobenzene equivalent
+ 
+ 
+ 
+ 
+
+
+----- TABLE p47#1 -----
+
+OPC | Ordinary Portland Cement
+GPM | Geopolymer mortars
+PCM | Portland cement mortars
+SEM | Scanning electron microscope
+EDS | Energy dispersive spectroscopy
+XRD | X-ray diffraction
+GGBFS | Ground granulated blast furnace slag
+UCS | Unconfined compressive strength
+SCG | Solar curing grey
+SCB | Solar curing black
+NaOH | Sodium hydroxide
+Na SiO
+2 3 | Sodium silicate
+CSH | Calcium silicate hydrate
+HLAASC | High limestone alkali activated slag cement
+GHG | Greenhouse gas
+LCA | Life cycle assessment
+PVA | Polyvinyl alcohol
+N/S | Nitrate to bisulphide
+RM | Red mud
+DB eq. | Dichlorobenzene equivalent
+
+===== PAGE 48 =====
+
+47 
+ 
+References  
+[1] P. Duxson, A. Fernández-Jiménez, J.L. Provis, G.C. Lukey, A. Palomo, J.S.J. Van Deventer, 
+Geopolymer technology: The current state of the art, Journal of Materials Science 42(9) (2007) 
+2917-2933. 
+[2] F.N. Stafford, F. Raupp-Pereira, J.A. Labrincha, D. Hotza, Life cycle assessment of the 
+production of cement: A Brazilian case study, Journal of Cleaner Production 137 (2016) 1293-
+1299. 
+[3] M. Zhang, H. Guo, T. El-Korchi, G. Zhang, M. Tao, Experimental feasibility study of 
+geopolymer as the next-generation soil stabilizer, Construction and Building Materials 47 
+(2013) 1468-1478. 
+[4] A. Palomo, M.W. Grutzeck, M.T. Blanco, Alkali-activated fly ashes: A cement for the 
+future, Cement and Concrete Research 29(8) (1999) 1323-1329. 
+[5] J. Davidovits, Geopolymers and geopolymeric materials, Journal of thermal analysis 35(2) 
+(1989) 429-441. 
+[6] Y.J. Du, B.W. Yu, K. Liu, N.J. Jiang, M.D. Liu, Physical, hydraulic, and mechanical 
+properties of clayey soil stabilized by lightweight alkali-activated slag geopolymer, Journal of 
+Materials in Civil Engineering 29(2) (2017). 
+[7] Y.H.M. Amran, R. Alyousef, H. Alabduljabbar, M. El-Zeadani, Clean production and 
+properties of geopolymer concrete; A review, Journal of Cleaner Production 251 (2020) 
+119679. 
+[8] N.B. Singh, B. Middendorf, Geopolymers as an alternative to Portland cement: An 
+overview, Construction and Building Materials 237 (2020) 117455. 
+[9] B.B. Jindal, R. Sharma, The effect of nanomaterials on properties of geopolymers derived 
+from industrial by-products: A state-of-the-art review, Construction and Building Materials 252 
+(2020) 119028. 
+[10] T. Phoo-ngernkham, P. Chindaprasirt, V. Sata, S. Hanjitsuwan, S. Hatanaka, The effect of 
+adding nano-SiO2 and nano-Al2O3 on properties of high calcium fly ash geopolymer cured at 
+ambient temperature, Materials & Design 55 (2014) 58-65. 
+[11] X. Gao, Q.L. Yu, H.J.H. Brouwers, Characterization of alkali activated slag–fly ash blends 
+containing nano-silica, Construction and Building Materials 98 (2015) 397-406. 
+[12] J. Wang, P. Du, Z. Zhou, D. Xu, N. Xie, X. Cheng, Effect of nano-silica on hydration, 
+microstructure of alkali-activated slag, Construction and Building Materials 220 (2019) 110-
+118. 
+[13] T. Alomayri, Experimental study of the microstructural and mechanical properties of 
+geopolymer paste with nano material (Al2O3), Journal of Building Engineering 25 (2019) 
+100788. 
+[14] P. Duan, C. Yan, W. Luo, W. Zhou, Effects of adding nano-TiO2 on compressive strength, 
+drying shrinkage, carbonation and microstructure of fluidized bed fly ash based geopolymer 
+paste, Construction and Building Materials 106 (2016) 115-125. 
+[15] S.M. Abbasi, H. Ahmadi, G. Khalaj, B. Ghasemi, Microstructure and mechanical 
+properties of a metakaolinite-based geopolymer nanocomposite reinforced with carbon 
+nanotubes, Ceramics International 42(14) (2016) 15171-15176. 
+[16] P. Rovnaník, H. Šimonová, L. Topolář, P. Schmid, Z. Keršner, Effect of Carbon Nanotubes 
+on the Mechanical Fracture Properties of Fly Ash Geopolymer, Procedia Engineering 151 
+(2016) 321-328. 
+[17] Y. Ma, J. Hu, G. Ye, The pore structure and permeability of alkali activated fly ash, Fuel 
+104 (2013) 771-780. 
+[18] Sindhunata, J.S.J. van Deventer, G.C. Lukey, H. Xu, Effect of Curing Temperature and 
+Silicate Concentration on Fly-Ash-Based Geopolymerization, Industrial & Engineering 
+
+
+===== PAGE 49 =====
+
+48 
+ 
+Chemistry Research 45(10) (2006) 3559-3568. 
+[19] M. Izquierdo, X. Querol, J. Davidovits, D. Antenucci, H. Nugteren, C. Fernández-Pereira, 
+Coal fly ash-slag-based geopolymers: Microstructure and metal leaching, Journal of Hazardous 
+Materials 166(1) (2009) 561-566. 
+[20] M. Alzeer, K. MacKenzie, Synthesis and mechanical properties of novel composites of 
+inorganic polymers (geopolymers) with unidirectional natural flax fibres (phormium tenax), 
+Applied Clay Science 75-76 (2013) 148-152. 
+[21] T. Alomayri, F.U.A. Shaikh, I.M. Low, Synthesis and mechanical properties of cotton 
+fabric reinforced geopolymer composites, Composites Part B: Engineering 60 (2014) 36-42. 
+[22] Z. Baščarević, M. Komljenović, Z. Miladinović, V. Nikolić, N. Marjanović, R. Petrović, 
+Impact of sodium sulfate solution on mechanical properties and structure of fly ash based 
+geopolymers, Materials and Structures 48(3) (2015) 683-697. 
+[23] M. Schmücker, K.J.D. MacKenzie, Microstructure of sodium polysialate siloxo 
+geopolymer, Ceramics International 31(3) (2005) 433-437. 
+[24] Y.-K. Cho, S.-W. Yoo, S.-H. Jung, K.-M. Lee, S.-J. Kwon, Effect of Na2O content, 
+SiO2/Na2O molar ratio, and curing conditions on the compressive strength of FA-based 
+geopolymer, Construction and Building Materials 145 (2017) 253-260. 
+[25] P. Chindaprasirt, T. Chareerat, S. Hatanaka, T. Cao, High-Strength Geopolymer Using Fine 
+High-Calcium Fly Ash, Journal of Materials in Civil Engineering 23(3) (2011) 264-270. 
+[26] S. Deepika, G. Anand, A. Bahurudeen, M. Santhanam, Construction Products with 
+Sugarcane Bagasse Ash Binder, Journal of Materials in Civil Engineering 29(10) (2017) 
+04017189. 
+[27] S. Shin, G. Goh, C. Lee, Predictions of compressive strength of GPC blended with GGBFS 
+developed at varying temperatures, Construction and Building Materials 206 (2019) 1-9. 
+[28] B.-h. Mo, H. Zhu, X.-m. Cui, Y. He, S.-y. Gong, Effect of curing temperature on 
+geopolymerization of metakaolin-based geopolymers, Applied Clay Science 99 (2014) 144-
+148. 
+[29] Z. Kubba, G. Fahim Huseien, A.R.M. Sam, K.W. Shah, M.A. Asaad, M. Ismail, M.M. 
+Tahir, J. Mirza, Impact of curing temperatures and alkaline activators on compressive strength 
+and porosity of ternary blended geopolymer mortars, Case Studies in Construction Materials 9 
+(2018) e00205. 
+[30] M. Dong, W. Feng, M. Elchalakani, G. Li, A. Karrech, E.F. May, Development of a High 
+Strength Geopolymer by Novel Solar Curing, Ceramics International 43(14) (2017) 11233-
+11243. 
+[31] S. Yaseri, G. Hajiaghaei, F. Mohammadi, M. Mahdikhani, R. Farokhzad, The role of 
+synthesis parameters on the workability, setting and strength properties of binary binder based 
+geopolymer paste, Construction and Building Materials 157 (2017) 534-545. 
+[32] M. Lahoti, K.K. Wong, E.-H. Yang, K.H. Tan, Effects of Si/Al molar ratio on strength 
+endurance and volume stability of metakaolin geopolymers subject to elevated temperature, 
+Ceramics International 44(5) (2018) 5726-5734. 
+[33] P. Nath, P.K. Sarker, Flexural strength and elastic modulus of ambient-cured blended low-
+calcium fly ash geopolymer concrete, Construction and Building Materials 130 (2017) 22-31. 
+[34] H. Xu, J.S.J. Van Deventer, The geopolymerisation of alumino-silicate minerals, 
+International Journal of Mineral Processing 59(3) (2000) 247-266. 
+[35] C. Ruiz-Santaquiteria, J. Skibsted, A. Fernández-Jiménez, A. Palomo, Alkaline 
+solution/binder ratio as a determining factor in the alkaline activation of aluminosilicates, 
+Cement and Concrete Research 42(9) (2012) 1242-1251. 
+[36] E.D. Rodríguez, S.A. Bernal, J.L. Provis, J. Paya, J.M. Monzo, M.V. Borrachero, Effect 
+of nanosilica-based activators on the performance of an alkali-activated fly ash binder, Cement 
+and Concrete Composites 35(1) (2013) 1-11. 
+
+
+===== PAGE 50 =====
+
+49 
+ 
+[37] A.M. Rashad, S.R. Zeedan, The effect of activator concentration on the residual strength 
+of alkali-activated fly ash pastes subjected to thermal load, Construction and Building Materials 
+25(7) (2011) 3098-3107. 
+[38] Y. Ma, J. Hu, G. Ye, The effect of activating solution on the mechanical strength, reaction 
+rate, mineralogy, and microstructure of alkali-activated fly ash, Journal of Materials Science 
+47(11) (2012) 4568-4578. 
+[39] A. Fernández-Jiménez, A. Palomo, Composition and microstructure of alkali activated fly 
+ash binder: Effect of the activator, Cement and Concrete Research 35(10) (2005) 1984-1992. 
+[40] U. Rattanasak, P. Chindaprasirt, Influence of NaOH solution on the synthesis of fly ash 
+geopolymer, Minerals Engineering 22(12) (2009) 1073-1078. 
+[41] D. Panias, I.P. Giannopoulou, T. Perraki, Effect of synthesis parameters on the mechanical 
+properties of fly ash-based geopolymers, Colloids and Surfaces A: Physicochemical and 
+Engineering Aspects 301(1-3) (2007) 246-254. 
+[42] G. Görhan, G. Kürklü, The influence of the NaOH solution on the properties of the fly 
+ash-based geopolymer mortar cured at different temperatures, Composites Part B: Engineering 
+58 (2014) 371-377. 
+[43] S.K. Nath, S. Kumar, Role of alkali concentration on reaction kinetics of fly ash 
+geopolymerization, Journal of Non-Crystalline Solids 505 (2019) 241-251. 
+[44] M. Jafari Nadoushan, A.A. Ramezanianpour, The effect of type and concentration of 
+activators on flowability and compressive strength of natural pozzolan and slag-based 
+geopolymers, Construction and Building Materials 111 (2016) 337-347. 
+[45] M.M.A. Abdullah, H. Kamarudin, H. Mohammed, I. Khairul Nizar, A.R. Rafiza, Y. Zarina, 
+The relationship of NaOH molarity, Na2SiO3/NaOH ratio, fly ash/alkaline activator ratio, and 
+curing temperature to the strength of fly ash-based geopolymer, Advanced Materials Research, 
+2011, pp. 1475-1482. 
+[46] D. Hardjito, C.C. Cheak, C.H.L. Ing, Strength and setting times of low calcium fly ash-
+based geopolymer mortar, Modern Applied Science 2(4) (2008) 3-11. 
+[47] A. Kazemian, A. Gholizadeh Vayghan, F. Rajabipour, Quantitative assessment of 
+parameters that affect strength development in alkali activated fly ash binders, Construction 
+and Building Materials 93 (2015) 869-876. 
+[48] T. Williamson, M.C.G. Juenger, The role of activating solution concentration on alkali–
+silica reaction in alkali-activated fly ash concrete, Cement and Concrete Research 83 (2016) 
+124-130. 
+[49] V.F.F. Barbosa, K.J.D. MacKenzie, C. Thaumaturgo, Synthesis and characterisation of 
+materials based on inorganic polymers of alumina and silica: Sodium polysialate polymers, 
+International Journal of Inorganic Materials 2(4) (2000) 309-317. 
+[50] M. Lizcano, H.S. Kim, S. Basu, M. Radovic, Mechanical properties of sodium and 
+potassium activated metakaolin-based geopolymers, Journal of Materials Science 47(6) (2012) 
+2607-2616. 
+[51] P. He, M. Wang, S. Fu, D. Jia, S. Yan, J. Yuan, J. Xu, P. Wang, Y. Zhou, Effects of Si/Al 
+ratio on the structure and properties of metakaolin based geopolymer, Ceramics International 
+42(13) (2016) 14416-14422. 
+[52] A. Asif, Z. Man, K.A. Mohd Azizli, M.F. Nuruddin, L. Ismail, The Effect of Si/Al Ratio 
+and Sodium Silicate on the Mechanical Properties of Fly Ash Based Geopolymer for Coating, 
+Materials Science Forum 803 (2015) 355-361. 
+[53] P. Timakul, K. Thanaphatwetphisit, P. Aungkavattana, Effect of Silica to Alumina Ratio 
+on the Compressive Strength of Class C Fly Ash-Based Geopolymers, Key Engineering 
+Materials 659 (2015) 80-84. 
+[54] J. He, Y. Jie, J. Zhang, Y. Yu, G. Zhang, Synthesis and characterization of red mud and 
+rice husk ash-based geopolymer composites, Cement and Concrete Composites 37 (2013) 108-
+
+
+===== PAGE 51 =====
+
+50 
+ 
+118. 
+[55] N. Waijarean, S. Asavapisit, K. Sombatsompop, K.J.D. MacKenzie, The Effect of the Si/Al 
+Ratio on the Properties of Water Treatment Residue (WTR)-Based Geopolymers, Key 
+Engineering Materials 608 (2014) 289-294. 
+[56] S. Thokchom, K.K. Mandal, S. Ghosh, Effect of Si/Al Ratio on Performance of Fly Ash 
+Geopolymers at Elevated Temperature, Arabian Journal for Science and Engineering 37(4) 
+(2012) 977-989. 
+[57] L. Zhang, S. Ahmari, J. Zhang, Synthesis and characterization of fly ash modified mine 
+tailings-based geopolymers, Construction and Building Materials 25(9) (2011) 3773-3781. 
+[58] J. Davidovits, Geopolymers - Inorganic polymeric new materials, Journal of Thermal 
+Analysis 37(8) (1991) 1633-1656. 
+[59] H. Xu, J.S.J. Van Deventer, Effect of source materials on geopolymerization, Industrial 
+and Engineering Chemistry Research 42(8) (2003) 1698-1706. 
+[60] T.W. Cheng, J.P. Chiu, Fire-resistant geopolymer produce by granulated blast furnace slag, 
+Minerals Engineering 16(3) (2003) 205-210. 
+[61] P. Duxson, J.L. Provis, G.C. Lukey, S.W. Mallicoat, W.M. Kriven, J.S.J. Van Deventer, 
+Understanding the relationship between geopolymer composition, microstructure and 
+mechanical properties, Colloids and Surfaces A: Physicochemical and Engineering Aspects 
+269(1-3) (2005) 47-58. 
+[62] L. Zheng, W. Wang, Y. Shi, The effects of alkaline dosage and Si/Al ratio on the 
+immobilization of heavy metals in municipal solid waste incineration fly ash-based 
+geopolymer, Chemosphere 79(6) (2010) 665-671. 
+[63] P.D. Silva, K. Sagoe-Crenstil, V. Sirivivatnanon, Kinetics of geopolymerization: Role of 
+Al2O3 and SiO2, Cement and Concrete Research 37(4) (2007) 512-518. 
+[64] S. Top, H. Vapur, Effect of basaltic pumice aggregate addition on the material properties 
+of fly ash based lightweight geopolymer concrete, Journal of Molecular Structure 1163 (2018) 
+10-17. 
+[65] P. Sturm, G.J.G. Gluth, C. Jäger, H.J.H. Brouwers, H.C. Kühne, Sulfuric acid resistance 
+of one-part alkali-activated mortars, Cement and Concrete Research 109 (2018) 54-63. 
+[66] P.A.M. Basheer, S.E. Chidiact, A.E. Long, Predictive models for deterioration of concrete 
+structures, Construction and Building Materials 10(1) (1996) 27-37. 
+[67] T. Bakharev, Resistance of geopolymer materials to acid attack, Cement and Concrete 
+Research 35(4) (2005) 658-670. 
+[68] V. Sata, A. Sathonsaowaphak, P. Chindaprasirt, Resistance of lignite bottom ash 
+geopolymer mortar to sulfate and sulfuric acid attack, Cement and Concrete Composites 34(5) 
+(2012) 700-708. 
+[69] P.S. Deb, P.K. Sarker, S. Barbhuiya, Sorptivity and acid resistance of ambient-cured 
+geopolymer mortars containing nano-silica, Cement and Concrete Composites 72 (2016) 235-
+245. 
+[70] A. Allahverdi, Sulfuric acid attack on hardened paste of geopolymer cements part 1. 
+Mechanism of corrosion at relatively high concentrations, Ceramics (Praha) 49(4) (2005) 225-
+229. 
+[71] J. Kwasny, T.A. Aiken, M.N. Soutsos, J.A. McIntosh, D.J. Cleland, Sulfate and acid 
+resistance of lithomarge-based geopolymer mortars, Construction and Building Materials 166 
+(2018) 537-553. 
+[72] T. Bakharev, Durability of geopolymer materials in sodium and magnesium sulfate 
+solutions, Cement and Concrete Research 35(6) (2005) 1233-1246. 
+[73] D.V. Reddy, J.-B. Edouard, K. Sobhan, Durability of Fly Ash&#x2013;Based Geopolymer 
+Structural Concrete in the Marine Environment, Journal of Materials in Civil Engineering 25(6) 
+(2013) 781-787. 
+
+
+===== PAGE 52 =====
+
+51 
+ 
+[74] S. Samal, N.P. Thanh, B. Marvalova, I. Petrikova, Thermal Characterization of 
+Metakaolin-Based Geopolymer, JOM 69(12) (2017) 2480-2484. 
+[75] Z. Pan, Z. Tao, Y.-F. Cao, R. Wuhrer, Measurement and prediction of thermal properties 
+of alkali-activated fly ash/slag binders at elevated temperatures, Materials and Structures 51(4) 
+(2018) 108. 
+[76] F. Colangelo, G. Roviello, L. Ricciotti, V. Ferrándiz-Mas, F. Messina, C. Ferone, O. 
+Tarallo, R. Cioffi, C.R. Cheeseman, Mechanical and thermal properties of lightweight 
+geopolymer composites, Cement and Concrete Composites 86 (2018) 266-272. 
+[77] X.Y. Zhuang, L. Chen, S. Komarneni, C.H. Zhou, D.S. Tong, H.M. Yang, W.H. Yu, H. 
+Wang, Fly ash-based geopolymer: clean production, properties and applications, Journal of 
+Cleaner Production 125 (2016) 253-267. 
+[78] K. Dombrowski, A. Buchwald, M. Weil, The influence of calcium content on the structure 
+and thermal performance of fly ash based geopolymers, Journal of Materials Science 42(9) 
+(2007) 3033-3043. 
+[79] W.D.A. Rickard, R. Williams, J. Temuujin, A. van Riessen, Assessing the suitability of 
+three Australian fly ashes as an aluminosilicate source for geopolymers in high temperature 
+applications, Materials Science and Engineering: A 528(9) (2011) 3390-3397. 
+[80] M. Albitar, M.S. Mohamed Ali, P. Visintin, M. Drechsler, Durability evaluation of 
+geopolymer and conventional concretes, Construction and Building Materials 136 (2017) 374-
+385. 
+[81] A. Karthik, K. Sudalaimani, C.T. Vijayakumar, Durability study on coal fly ash-blast 
+furnace slag geopolymer concretes with bio-additives, Ceramics International 43(15) (2017) 
+11935-11943. 
+[82] P. Zhang, K. Wang, Q. Li, J. Wang, Y. Ling, Fabrication and engineering properties of 
+concretes based on geopolymers/alkali-activated binders - A review, Journal of Cleaner 
+Production 258 (2020) 120896. 
+[83] N. Ganesan, R. Abraham, S. Deepa Raj, Durability characteristics of steel fibre reinforced 
+geopolymer concrete, Construction and Building Materials 93 (2015) 471-476. 
+[84] P. Nuaklong, V. Sata, P. Chindaprasirt, Influence of recycled aggregate on fly ash 
+geopolymer concrete properties, Journal of Cleaner Production 112 (2016) 2300-2307. 
+[85] A. Wongsa, Y. Zaetang, V. Sata, P. Chindaprasirt, Properties of lightweight fly ash 
+geopolymer concrete containing bottom ash as aggregates, Construction and Building 
+Materials 111 (2016) 637-643. 
+[86] A. Celik, K. Yilmaz, O. Canpolat, M.M. Al-mashhadani, Y. Aygörmez, M. Uysal, High-
+temperature behavior and mechanical characteristics of boron waste additive metakaolin based 
+geopolymer composites reinforced with synthetic fibers, Construction and Building Materials 
+187 (2018) 1190-1203. 
+[87] Y. Yuan, R. Zhao, R. Li, Y. Wang, Z. Cheng, F. Li, Z. John Ma, Frost resistance of fiber-
+reinforced blended slag and Class F fly ash-based geopolymer concrete under the coupling 
+effect of freeze-thaw cycling and axial compressive loading, Construction and Building 
+Materials 250 (2020) 118831. 
+[88] S. Pilehvar, A.M. Szczotok, J.F. Rodríguez, L. Valentini, M. Lanzón, R. Pamies, A.-L. 
+Kjøniksen, Effect of freeze-thaw cycles on the mechanical behavior of geopolymer concrete 
+and Portland cement concrete containing micro-encapsulated phase change materials, 
+Construction and Building Materials 200 (2019) 94-103. 
+[89] M. Olivia, H. Nikraz, Properties of fly ash geopolymer concrete designed by Taguchi 
+method, Materials & Design (1980-2015) 36 (2012) 191-198. 
+[90] M. Albitar, M.S. Mohamed Ali, P. Visintin, M. Drechsler, Effect of granulated lead smelter 
+slag on strength of fly ash-based geopolymer concrete, Construction and Building Materials 83 
+(2015) 128-135. 
+
+
+===== PAGE 53 =====
+
+52 
+ 
+[91] S.S. Chamila Gunasekera, W.L. David, Creep and Drying Shrinkage of Different Fly-Ash-
+Based Geopolymers, ACI Materials Journal 116(1). 
+[92] H.L. Muttashar, M.A.M. Ariffin, M.N. Hussein, M.W. Hussin, S.B. Ishaq, Self-
+compacting geopolymer concrete with spend garnet as sand replacement, Journal of Building 
+Engineering 15 (2018) 85-94. 
+[93] A.M. Humad, A. Kothari, J.L. Provis, A. Cwirzen, The Effect of Blast Furnace Slag/Fly 
+Ash Ratio on Setting, Strength, and Shrinkage of Alkali-Activated Pastes and Concretes, 
+Frontiers in Materials 6(9) (2019). 
+[94] G. Huang, Y. Ji, J. Li, Z. Hou, C. Jin, Use of slaked lime and Portland cement to improve 
+the resistance of MSWI bottom ash-GBFS geopolymer concrete against carbonation, 
+Construction and Building Materials 166 (2018) 290-300. 
+[95] Z. Li, S. Li, Carbonation resistance of fly ash and blast furnace slag based geopolymer 
+concrete, Construction and Building Materials 163 (2018) 668-680. 
+[96] K. Pasupathy, M. Berndt, A. Castel, J. Sanjayan, R. Pathmanathan, Carbonation of a 
+blended slag-fly ash geopolymer concrete in field conditions after 8years, Construction and 
+Building Materials 125 (2016) 661-669. 
+[97] D.N. Huntzinger, T.D. Eatmon, A life-cycle assessment of Portland cement manufacturing: 
+comparing the traditional process with alternative technologies, Journal of Cleaner Production 
+17(7) (2009) 668-675. 
+[98] L. Assi, K. Carter, E. Deaver, R. Anay, P. Ziehl, Sustainable concrete: Building a greener 
+future, Journal of Cleaner Production 198 (2018) 1641-1651. 
+[99] R.M. Andrew, Global CO2 emissions from cement production, 1928–2017, Earth Syst. 
+Sci. Data 10(4) (2018) 2213-2239. 
+[100] J. Vargas, A. Halog, Effective carbon emission reductions from using upgraded fly ash 
+in the cement industry, Journal of Cleaner Production 103 (2015) 948-959. 
+[101] L. Nguyen, A.J. Moseson, Y. Farnam, S. Spatari, Effects of composition and 
+transportation logistics on environmental, energy and cost metrics for the production of 
+alternative cementitious binders, Journal of Cleaner Production 185 (2018) 628-645. 
+[102] B.C. McLellan, R.P. Williams, J. Lay, A. van Riessen, G.D. Corder, Costs and carbon 
+emissions for geopolymer pastes in comparison to ordinary portland cement, Journal of Cleaner 
+Production 19(9) (2011) 1080-1090. 
+[103] G. Habert, J.B. d’Espinose de Lacaillerie, N. Roussel, An environmental evaluation of 
+geopolymer based concrete production: reviewing current research trends, Journal of Cleaner 
+Production 19(11) (2011) 1229-1238. 
+[104] R.A. Robayo-Salazar, J.M. Mejía-Arcila, R. Mejía de Gutiérrez, Eco-efficient alkali-
+activated cement based on red clay brick wastes suitable for the manufacturing of building 
+materials, Journal of Cleaner Production 166 (2017) 242-252. 
+[105] A. Petrillo, R. Cioffi, F.D. Felice, F. Colangelo, C. Borrelli, An environmental evaluation: 
+A comparison between geopolymer and OPC concrete paving blocks manufacturing process in 
+italy, Environmental Progress & Sustainable Energy 35(6) (2016) 1699-1708. 
+[106] G. Fahim Huseien, J. Mirza, M. Ismail, S.K. Ghoshal, A. Abdulameer Hussein, 
+Geopolymer mortars as sustainable repair material: A comprehensive review, Renewable and 
+Sustainable Energy Reviews 80 (2017) 54-74. 
+[107] A.A.S. Tigue, R.A.J. Malenab, J.R. Dungca, D.E.C. Yu, M.A.B. Promentilla, Chemical 
+Stability and Leaching Behavior of One-Part Geopolymer from Soil and Coal Fly Ash 
+Mixtures, Minerals 8(9) (2018) 411. 
+[108] T. Bai, Z. Song, H. Wang, Y. Wu, W. Huang, Performance evaluation of metakaolin 
+geopolymer modified by different solid wastes, Journal of Cleaner Production 226 (2019) 114-
+121. 
+[109] R.A.A. Boca Santa, C. Soares, H.G. Riella, Geopolymers with a high percentage of 
+
+
+===== PAGE 54 =====
+
+53 
+ 
+bottom ash for solidification/immobilization of different toxic metals, Journal of Hazardous 
+Materials 318 (2016) 145-153. 
+[110] Z. Ji, Y. Pei, Bibliographic and visualized analysis of geopolymer research and its 
+application in heavy metal immobilization: A review, Journal of Environmental Management 
+231 (2019) 256-267. 
+[111] B.I. El-Eswed, R.I. Yousef, M. Alshaaer, I. Hamadneh, S.I. Al-Gharabli, F. Khalili, 
+Stabilization/solidification of heavy metals in kaolin/zeolite based geopolymers, International 
+Journal of Mineral Processing 137 (2015) 34-42. 
+[112] B. Guo, D. Pan, B. Liu, A.A. Volinsky, M. Fincan, J. Du, S. Zhang, Immobilization 
+mechanism of Pb in fly ash-based geopolymer, Construction and Building Materials 134 (2017) 
+123-130. 
+[113] M.S. Al-Harahsheh, K. Al Zboon, L. Al-Makhadmeh, M. Hararah, M. Mahasneh, Fly ash 
+based geopolymer for heavy metal removal: A case study on copper removal, Journal of 
+Environmental Chemical Engineering 3(3) (2015) 1669-1677. 
+[114] W.Y. Xia, Y.S. Feng, F. Jin, L.M. Zhang, Y.J. Du, Stabilization and solidification of a 
+heavy metal contaminated site soil using a hydroxyapatite based binder, Construction and 
+Building Materials 156 (2017) 199-207. 
+[115] C. Phetchuay, S. Horpibulsuk, A. Arulrajah, C. Suksiripattanapong, A. Udomchai, 
+Strength development in soft marine clay stabilized by fly ash and calcium carbide residue 
+based geopolymer, Applied Clay Science 127-128 (2016) 134-142. 
+[116] N. Cristelo, S. Glendinning, A.T. Pinto, Deep soft soil improvement by alkaline 
+activation, Proc Inst Civ Eng-Gr 164(2) (2011) 73-82. 
+[117] Z. Liu, C.S. Cai, F. Liu, F. Fan, Feasibility study of loess stabilization with fly ash-based 
+geopolymer, Journal of Materials in Civil Engineering 28(5) (2016). 
+[118] A.L. Murmu, N. Dhole, A. Patel, Stabilisation of black cotton soil for subgrade 
+application using fly ash geopolymer, Road Materials and Pavement Design 21(3) (2020) 867-
+885. 
+[119] N. Hanegbi, I. Katra, A Clay-Based Geopolymer in Loess Soil Stabilization, Applied 
+Sciences 10(7) (2020) 2608. 
+[120] K.M. Liew, A.O. Sojobi, L.W. Zhang, Green concrete: Prospects and challenges, 
+Construction and Building Materials 156 (2017) 1063-1095. 
+[121] S.M. Laskar, S. Talukdar, Preparation and tests for workability, compressive and bond 
+strength of ultra-fine slag based geopolymer as concrete repairing agent, Construction and 
+Building Materials 154 (2017) 176-190. 
+[122] P.S. Deb, P. Nath, P.K. Sarker, The effects of ground granulated blast-furnace slag 
+blending with fly ash and activator content on the workability and strength properties of 
+geopolymer concrete cured at ambient temperature, Materials & Design (1980-2015) 62 (2014) 
+32-39. 
+[123] W.-H. Lee, J.-H. Wang, Y.-C. Ding, T.-W. Cheng, A study on the characteristics and 
+microstructures of GGBS/FA based geopolymer paste and concrete, Construction and Building 
+Materials 211 (2019) 807-813. 
+[124] D. Hardjito, S.E. Wallah, D.M.J. Sumajouw, B.V. Rangan, Fly ash-based geopolymer 
+concrete, Australian Journal of Structural Engineering 6(1) (2005) 77-86. 
+[125] D. Khale, R. Chaudhary, Mechanism of geopolymerization and factors influencing its 
+development: A review, Journal of Materials Science 42(3) (2007) 729-746. 
+[126] P.S. Deb, P. Nath, P.K. Sarker, Drying shrinkage of slag blended fly ash geopolymer 
+concrete cured at room temperature, Procedia Engineering, 2015, pp. 594-600. 
+[127] A. Hutagi, R.B. Khadiranaikar, The Effects of GGBFS on Strength Properties of 
+Geopolymer Concrete Cured at Ambient Temperature, Springer Singapore, Singapore, 2019, 
+pp. 369-380. 
+
+
+===== PAGE 55 =====
+
+54 
+ 
+[128] A. Rajarajeswari, G. Dhinakaran, Compressive strength of GGBFS based GPC under 
+thermal curing, Construction and Building Materials 126 (2016) 552-559. 
+[129] A. Hassan, M. Arif, M. Shariq, A review of properties and behaviour of reinforced 
+geopolymer concrete structural elements- A clean technology option for sustainable 
+development, Journal of Cleaner Production 245 (2020) 118762. 
+[130] I. Ismail, S.A. Bernal, J.L. Provis, S. Hamdan, J.S.J. van Deventer, Microstructural 
+changes in alkali activated fly ash/slag geopolymers with sulfate exposure, Materials and 
+Structures 46(3) (2013) 361-373. 
+[131] A.H. Mahmood, S.J. Foster, A. Castel, Development of high-density geopolymer 
+concrete with steel furnace slag aggregate for coastal protection structures, Construction and 
+Building Materials 248 (2020) 118681. 
+[132] F. Fan, Z. Liu, G. Xu, H. Peng, C.S. Cai, Mechanical and thermal properties of fly ash 
+based geopolymers, Construction and Building Materials 160 (2018) 66-81. 
+[133] S.N. Zailan, N. Mahmed, M.M.A.B. Abdullah, A.V. Sandu, Self-cleaning geopolymer 
+concrete - A review, IOP Conference Series: Materials Science and Engineering 133 (2016) 
+012026. 
+[134] A. Strini, G. Roviello, L. Ricciotti, C. Ferone, F. Messina, L. Schiavi, D. Corsaro, R. 
+Cioffi, TiO2-Based Photocatalytic Geopolymers for Nitric Oxide Degradation, Materials 9(7) 
+(2016) 513. 
+[135] D. Adak, M. Sarkar, M. Maiti, A. Tamang, S. Mandal, B. Chattopadhyay, Anti-microbial 
+efficiency of nano silver–silica modified geopolymer mortar for eco-friendly green 
+construction technology, RSC Advances 5(79) (2015) 64037-64045. 
+[136] F. Allali, E. Joussein, N.I. Kandri, S. Rossignol, The influence of calcium content on the 
+performance of metakaolin-based geomaterials applied in mortars restoration, Materials & 
+Design 103 (2016) 1-9. 
+[137] X. Jiang, R. Xiao, M. Zhang, W. Hu, Y. Bai, B. Huang, A laboratory investigation of steel 
+to fly ash-based geopolymer paste bonding behavior after exposure to elevated temperatures, 
+Construction and Building Materials 254 (2020) 119267. 
+[138] S. Zou, H. Li, S. Wang, R. Jiang, J. Zou, X. Zhang, L. Liu, G. Zhang, Experimental 
+research on an innovative sawdust biomass-based insulation material for buildings, Journal of 
+Cleaner Production 260 (2020) 121029. 
+[139] A.R.G. Azevedo, C.M.F. Vieira, W.M. Ferreira, K.C.P. Faria, L.G. Pedroti, B.C. Mendes, 
+Potential use of ceramic waste as precursor in the geopolymerization reaction for the 
+production of ceramic roof tiles, Journal of Building Engineering 29 (2020) 101156. 
+[140] P. Chindaprasirt, T. Chareerat, V. Sirivivatnanon, Workability and strength of coarse high 
+calcium fly ash geopolymer, Cement and Concrete Composites 29(3) (2007) 224-229. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 56 =====
+
+55 
+ 
+List of Tables 
+Table 1. GHG emissions and cost comparison of various transportation modes 
+Table 2. Comparison of characterization phases of geopolymeric and OPC blocks 
+ 
+ 
+ 
+
+
+===== PAGE 57 =====
+
+56 
+ 
+Table 1. GHG emissions and cost comparison of various transportation modes 
+ 
+ 
+Table 2. Comparison of characterization phases of geopolymeric and OPC blocks 
+Notes: PDF is Potentially disappeared fraction, DALY is Disability-adjusted life year, DB is 
+Dichlorobenzene, MJ is Mega joules, CFC is Chlorofluorocarbon 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Mode 
+GHG Emissions 
+Primary Energy 
+Transportation Cost 
+(kg.CO2 
+equivalent/tonne-km)
+(MJ/tonne-km) 
+(USD/tonne-km) 
+Barge
+0.016
+0.21 
+0.0028 
+Train
+0.028
+0.39 
+0.018
+Truck
+0.052
+0.73 
+0.17
+Impact Category 
+Units 
+OPC Blocks 
+Geopolymer Blocks 
+Acidification
+PDFm2yr
+0.302
+-17.034
+Carcinogens
+DALY
+2.50E-07
+1.24E-07
+Climate change
+DALY
+1.43E-06
+-5.95E-05
+Human toxicity
+kg 1,4-DB eq
+2.335
+-5.679
+Marine toxicity
+kg 1,4-DB eq
+863.434
+-830.01
+Fossil fuels
+MJ surplus
+12.931
+-565.528
+Ozone layer depletion
+kg CFC-11 eq
+1.054E-06
+-3.665E-05
+
+
+----- TABLE p57#1 -----
+
+Mode | GHG Emissions | Primary Energy | Transportation Cost
+ | (kg.CO
+2
+equivalent/tonne-km) | (MJ/tonne-km) | (USD/tonne-km)
+Barge | 0.016 | 0.21 | 0.0028
+Train | 0.028 | 0.39 | 0.018
+Truck | 0.052 | 0.73 | 0.17
+
+----- TABLE p57#2 -----
+
+Impact Category | Units | OPC Blocks | Geopolymer Blocks
+Acidification | PDFm2yr | 0.302 | -17.034
+Carcinogens | DALY | 2.50E-07 | 1.24E-07
+Climate change | DALY | 1.43E-06 | -5.95E-05
+Human toxicity | kg 1,4-DB eq | 2.335 | -5.679
+Marine toxicity | kg 1,4-DB eq | 863.434 | -830.01
+Fossil fuels | MJ surplus | 12.931 | -565.528
+Ozone layer depletion | kg CFC-11 eq | 1.054E-06 | -3.665E-05
+
+===== PAGE 58 =====
+
+57 
+ 
+List of Figures 
+Fig. 1. Flowchart for geopolymerization mechanism 
+Fig. 2. Scanning electron microscope (SEM) images of (a) Metakaolin and (b) class F Fly ash 
+activated by 8M NaOH [1] reproduced with permission. 
+Fig. 3. Variation in strength gaining with (a) time of heat curing at 60°C and (b) curing 
+temperature (data from [140]). 
+Fig. 4. Effect of heat curing on unconfined compressive strength (data from [26]). 
+Fig. 5. Unconfined compressive strength variation with respect to different curing 
+techniques (data from [30]). 
+Fig. 6. Variation in unconfined compressive strength of fly ash geopolymer with varying 
+activator concentration (data from [64]). 
+Fig. 7. Visual images showing acid resistance behavior of GPM and PCM 
+Samples (after [71] reproduced with permission) 
+Fig. 8. Scanning electron microscope (SEM) images showing microstructures of water and acid 
+immersed geopolymer samples (after [65] reproduced with permission) 
+Fig. 9. Scanning electron microscope (SEM) images of geopolymer matrices at different 
+elevated temperatures (after [74] reproduced with permission) 
+Fig. 10. Unconfined compressive strength of samples with varying Si/Al ratios when exposed 
+to different temperatures (data from [32]). 
+Fig 11.  Primary energy profile at processing stage of various cementitious binders (data from 
+[101]). 
+Fig. 12.  Greenhouse gas (GHG) emission profile at processing stage of various cementitious 
+binders (data from [101]) 
+Fig. 13. Graph showing 28 day compressive strength of metakaolin and cement 
+samples (data from [3]). 
+Fig. 14. Scanning electron microscope (SEM) images of geopolymer stabilized loess(after  
+[117] reproduced with permission) 
+Fig. 15. Variation in unconfined compressive strength of geopolymer concrete w.r.t. slag 
+content and solution ratios (data from [122]). 
+Fig. 16. Unconfined compressive strength variation of geopolymer concrete at different 
+activator concentrations (data from [64]). 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 59 =====
+
+58 
+ 
+
+
+===== PAGE 60 =====
+
+59 
+ 
+
+
+===== PAGE 61 =====
+
+60 
+ 
+
+
+===== PAGE 62 =====
+
+61 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 63 =====
+
+62 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 64 =====
+
+63 
+ 
+
+
+===== PAGE 65 =====
+
+64 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 66 =====
+
+65 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 67 =====
+
+66 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 68 =====
+
+67 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 69 =====
+
+68 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 70 =====
+
+69 
+ 
+
+
+===== PAGE 71 =====
+
+70 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 72 =====
+
+71 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 73 =====
+
+72 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 74 =====
+
+73 
+ 
+ 

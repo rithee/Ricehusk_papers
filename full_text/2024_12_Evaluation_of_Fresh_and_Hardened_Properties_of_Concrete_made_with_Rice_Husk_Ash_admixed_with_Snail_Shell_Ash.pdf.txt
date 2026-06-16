@@ -1,0 +1,1149 @@
+
+===== PAGE 1 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17532 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+Evaluation of Fresh and Hardened Properties of 
+Concrete made with Rice Husk Ash admixed 
+with Snail Shell Ash 
+ 
+Abdulaziz Alhassan 
+Department of Civil Engineering, Faculty of Engineering, Bayero University Kano, Kano, Nigeria 
+fandanar@gmail.com 
+ 
+Musa Adamu 
+Engineering Management Department, College of Engineering, Prince Sultan University, Riyadh, Saudi 
+Arabia 
+madamu@psu.edu.sa (corresponding author) 
+ 
+Aaron Aboshio 
+Department of Civil Engineering, Faculty of Engineering, Bayero University Kano, Kano, Nigeria 
+aaboshio.civ@buk.edu.ng (corresponding author) 
+ 
+Yasser E. Ibrahim 
+Engineering Management Department, College of Engineering, Prince Sultan University, Riyadh, Saudi 
+Arabia 
+ymansour@psu.edu.sa 
+Received: 8 August 2024 | Revised: 1 September 2024 | Accepted: 4 September 2024 
+Licensed under a CC-BY 4.0 license | Copyright (c) by the authors | DOI: https://doi.org/10.48084/etasr.8673 
+ABSTRACT 
+The objective of this study is to evaluate the properties of concrete incorporating Rice Husk Ash (RHA) 
+and Snail Shell Ash (SSA) as partial replacements for cement. Cement production is a significant emission 
+source of CO2, necessitating environmentally friendly alternatives. This research examines the combined 
+impact of these ashes on concrete performance. RHA and SSA were employed as Supplementary 
+Cementitious Materials (SCM) to partially replace Portland cement. The replacement levels were: RHA at 
+0%, 5%, 7.5%, 10%, 12.5%, and 15% and SSA at 0%, 15%, 17.5%, 20%, 22.5%, and 25% by weight. A 
+response surface methodology was employed to design the experiments, resulting in 18 experimental runs 
+or mixes. A number of experiments were conducted, including slump, compressive strength, flexural 
+strength, splitting tensile strength, and water absorption tests. The results demonstrated that the 
+workability of the fresh concrete decreased with the addition of ashes. However, the RHA-SSA concrete 
+exhibited enhanced strengths and durability. The optimal mix, M11, which contained 15% RHA and 15% 
+SSA, exhibited the highest strength values at both 28 and 90 days. The RHA-SSA concrete displayed 
+reduced porosity, with M10 (15% RHA, 25% SSA) demonstrating the lowest water absorption (5.1%) 
+compared to 13.1% for the control mix. These findings substantiate the use of RHA-SSA concrete as a 
+sustainable alternative in construction, addressing both environmental and performance-related concerns. 
+Keywords-cement; CO2; rice husk ash; snail shell ash; concrete  
+I. 
+INTRODUCTION  
+Carbon dioxide emissions from industrial activities, 
+particularly those associated with Portland cement production, 
+have a significant impact on the environment [1-3]. Ordinary 
+Portland cement is a substantial contributor to the CO₂ 
+emissions, accounting for approximately 7-8% of the global 
+emissions on an annual basis [4-6]. The production of one 
+kilogram of Portland cement results in the release of an 
+equivalent amount of CO₂ [7]. In order to mitigate these 
+emissions and reduce the high cost of Portland cement [8, 9], 
+researchers are exploring alternative materials with pozzolanic 
+or cementitious properties that could be used to replace 
+Portland cement in concrete. The hydration reaction of Portland 
+cement produces ettringite, Calcium Silicate Hydrate (C-S-H), 
+and portlandite [10, 11]. The formation of C-S-H enhances the 
+
+
+===== PAGE 2 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17533 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+mechanical properties of concrete. The reaction of pozzolans 
+with portlandite results in the formation of new binding 
+products. However, only approximately 22% of free portlandite 
+reacts with pozzolans to generate secondary C-S-H, with some 
+forming 
+additional 
+ettringite 
+[12, 
+13]. 
+Research 
+has 
+concentrated on the usage of waste and pozzolanic materials, 
+including fly ash, silica fume, blast furnace slag, metakaolin, 
+RHA, SHA, cow bone ash, and sawdust ash, in concrete. These 
+materials are cost-effective and have an impact on the 
+mechanical properties of concrete [7, 14, 15]. Rice husk, a 
+copious agro-waste product, yields approximately 40 kg of ash 
+per ton of paddy rice [16, 17]. RHA is classified as a class F 
+pozzolan according to ASTM C618 [18]. It contains a 
+minimum of 70% silicon dioxide, aluminum oxide, and iron 
+oxide. The optimal cement replacement ratio with RHA is 
+approximately 10% by weight, which has been demonstrated to 
+enhance the strength of concrete [19, 20]. RHA, an agricultural 
+waste product, was discovered to contain a considerable 
+quantity of silica, rendering it an excellent substitute for cement 
+in the production of geopolymer and concrete [21]. 
+Calcined at 800°C, SSA, which is rich in calcium oxide, 
+accelerates cement hydration, thereby providing additional 
+portlandite for C-S-H formation [22, 23]. Given a calcium 
+oxide content of approximately 50%, SSA is an appropriate 
+SCM, with an optimal replacement rate of around 10%. 
+However, up to 15% can enhance the properties of concrete 
+[24-26]. To enhance the mechanical properties of concrete 
+while reducing its cost, numerous studies were performed on 
+the combination of cement, RHA, and SSA in the production of 
+concrete. Furthermore, authors in [27] discovered that 
+incorporating 15% RHA as an admixture into concrete, in 
+comparison to the standard M30 concrete with a constant 
+water-to-cement 
+ratio 
+of 
+0.45, 
+resulted 
+in 
+enhanced 
+compressive, tensile, and flexural strength at 28 days, along 
+with augmented ultimate load for reinforced beams. Authors in 
+[28] investigated the use of RHA to partially replace cement in 
+lightweight, aerated concrete. Their findings indicated that 10% 
+RHA significantly enhanced the strength and durability 
+properties of the concrete, including density, compressive, split 
+tensile, and flexural strength, as well as resistance to corrosion 
+and sulfate attack at various curing periods (3, 7, 28, and 90 
+days). Additionally, the incorporation of aluminum powder 
+(0.5% of binder weight) was observed to facilitate aeration. 
+Authors in [29] examined the potential of snail shell waste as a 
+means of enhancing concrete. The replacement of 6% of the 
+cement with snail shell powder resulted in a 12% increase in 
+compressive strength, an 8% increase in axial strength, and a 
+9% increase in bending tensile strength. The axial tensile 
+strength increased by 11%, and the elastic modulus increased 
+by 8%. The results of the microstructure analysis validated 
+these enhancements, indicating that a dosage of 6% is the 
+optimal level for achieving effective improvement. Authors in 
+[30], examined the corrosion resistance of SSA in marine 
+settings indicating that SSA-cement blends, with replacement 
+levels ranging from 0% to 50%, enhanced corrosion resistance 
+and strength at critical levels from 20% to 30% SSA. This 
+suggests that SSA could be a viable substitute for natural 
+limestone in cement production, potentially improving concrete 
+performance 
+in 
+marine 
+environments 
+while 
+reducing 
+dependence on natural resources. In a related study, Authors in 
+[31] evaluated the use of snail shell powder in cement mortar, 
+replacing cement by up to 35% in 5% increments. The optimal 
+usage level was determined to be 30%, which led to enhanced 
+durability. X-ray diffraction (XRD) was employed to ascertain 
+the composition, while mechanical property and durability tests 
+were conducted to evaluate the material's performance. A 
+microstructural analysis revealed the presence of C-S-H gel 
+formations in both mortar types. Authors in [32] explored the 
+potential of SSA as a partial cement replacement in concrete. 
+They analyzed the effects of varying SSA levels (0%, 5%, 
+10%, 15%, and 20%) in a 1:2:4 concrete mix with a water-
+cement ratio of 0.5. The findings of the study indicate that 
+concrete incorporating SSA can be used for structural 
+applications with SSA levels below 20%. 
+It is noteworthy that cement has the greatest impact on the 
+cost and quality of concrete. Furthermore, cement is the most 
+environmentally detrimental material used in concrete 
+production, resulting in the emission of considerable quantities 
+of CO₂ into the surrounding environment. Therefore, one 
+method of mitigating these consequences is by reducing the 
+usage of cement. This can be accomplished by incorporating 
+materials (in finely powdered form) that contain pozzolanic 
+and/or cementitious substances to partially substitute for 
+cement in concrete. RHA has been found to possess high 
+pozzolanic properties (SiO₂), yet its incorporation as a SCM in 
+concrete does not significantly enhance the material's 
+properties. In contrast, SSA contains a high calcium (CaO) 
+content. It is therefore anticipated that the use of blends of 
+RHA and SSA will significantly promote the pozzolanic and 
+hydration reactions in concrete through the combined effects of 
+SiO₂ and CaO. While the benefits of RHA and SSA have been 
+well documented, their combined effect in concrete remains 
+relatively unexplored. This research project examines the 
+mechanical and durability properties of concrete using RHA 
+and SSA as partial cement replacements, with the objective of 
+determining the optimal substitution rate through the testing of 
+various proportions. The objective of this study is to develop a 
+sustainable and high-performance concrete that exploits the 
+properties of RHA and SSA. 
+II. 
+MATERIALS AND METHOD 
+A. Materials 
+The research employed ordinary Portland cement (Dangote 
+3X Cement, grade 42.5N) sourced from Dangote Cement PLC 
+in Nigeria. This cement met the ASTM C150 [33] standards. 
+RHA was procured from a rice mill in Dakace, Zaria, Kaduna 
+State. It was produced via controlled burning at 650°C, in 
+accordance with the methodology outlined by authors in [34, 
+35], and then sieved through a 75 μm mesh. SSA was procured 
+from Owo, Ondo State, subjected to calcination at 800°C for an 
+hour and a half, and then sieved in a manner consistent with the 
+aforementioned procedure. The oxide compositions were 
+analyzed using X-ray Fluorescence (XRF) at the Dangote 
+Cement Factory Obajana, following the methodology described 
+by authors in [36], with specific gravities determined according 
+to the provisions of BS-EN-12620 [37], as described in Table I. 
+The crushed granite used in the study was procured from a 
+conventional quarry site operated by Abduljalil Hajaig and 
+
+
+===== PAGE 3 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17534 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+Sons Ltd. The coarse aggregate has a nominal diameter of 
+20mm and complies with the specifications set forth in BS 882 
+[38]. The specific gravity of the coarse aggregate was 
+determined to be 2.68 in accordance with the standards set 
+forth in BS-EN-12620 [37]. The fine aggregate was procured 
+from the River Challawa in Kano state, and its physical 
+characteristics were found to align with the specifications 
+outlined in BS 882 [38]. The results of the sieve analysis, as 
+shown in Figure 1, indicate that the fine aggregate falls within 
+Zone 2. 
+TABLE I.  
+PROPERTIES OF BINDER 
+Chemical composition (%)
+Cement
+RHA 
+SSA 
+CaO 
+59.6 
+0.68 
+53.03 
+SiO2 
+20.62 
+79.94 
+0.79 
+Al2O3 
+6.01 
+1.15 
+0.09 
+Fe2O3 
+3.22 
+0.68 
+0.32 
+SO3 
+2.46 
+− 
+0.19 
+K2O 
+0.71 
+0.17 
+0.07 
+MgO 
+3.65 
+0.44 
+− 
+Cl 
+0.98 
+− 
+0.034 
+P2O5 
+0.117 
+− 
+− 
+TiO2 
+0.209 
+2.91 
+− 
+Cr2O3 
+0.001 
+− 
+− 
+Mn2O3
+0.036
+0.345
+0.02
+ZnO
+−
+−
+−
+Loss of Ignition 
+3.2 
+11.81 
+36.89 
+SiO2+Al2O3+Fe2O3 
+29.85 
+81.77 
+1.2 
+Specific Gravity 
+3.16 
+2.1 
+3.01 
+ 
+ 
+Fig. 1.  
+Particle size distribution of aggregates. 
+B. Mix Proportioning and Samples Preparation 
+The mix design was developed in accordance with the DOE 
+method for grade 30 concrete, with the objective of achieving a 
+mean strength of 38.25 N/mm² and a 1:1.8:2.9 mix ratio for 
+cement, sand, and coarse aggregate. Additionally, an adjusted 
+water-binder ratio of 0.6 was incorporated to ensure 
+workability (30 mm-60 mm). The Response Surface 
+Methodology (RSM) in Design Expert 13 software was 
+employed to optimize the mix proportions for RHA and SSA 
+concrete. The User-Designed option yielded 17 experimental 
+runs or mixes, in addition to the control mix, with RHA at 0%, 
+5%, 7.5%, 10%, 12.5%, and 15% by weight of cement, and 
+SSA at 0%, 15%, 17.5%, 20%, 22.5%, and 25% by weight of 
+cement. The parameters measured were compressive strength, 
+flexural strength, splitting tensile strength, and water 
+absorption. The optimized mix proportions, as evidenced in 
+Table II, were employed to assess the effects and interactions 
+of RHA and SSA in concrete. The contents of the cement, 
+RHA, and SSA were varied, while the coarse aggregate, fine 
+aggregate, and water contents remained constant across the 
+mixes. The constituents of the RHA-SSA concrete mixture 
+were measured by weight in accordance with the designed 
+experimental runs or mixes generated using RSM, which 
+incorporated SCMs in accordance with the specified 
+specifications. The mixing process was conducted manually 
+with a shovel and tray, in accordance with the guidelines set 
+forth in BS EN 206 [39]. Mechanical strength and durability 
+tests were conducted on specimens prepared in the laboratory. 
+These included compressive strength tests on 100mm cubes, 
+flexural strength tests on 100 mm x 500 mm prisms, splitting 
+tensile strength tests on 100 mm x 200 mm cylinders, and 
+water absorption tests on 100 mm cubes. Immediately 
+following the testing of each mixture, concrete specimens were 
+cast. To facilitate the removal of the concrete after setting, the 
+molds were lubricated. The concrete was compacted in three 
+stages to reduce the number of voids. Following the casting 
+process, the samples were left to stand for a period of 24 hours 
+prior to demolding and labeling. The specimens were 
+submerged in curing tanks at a temperature of (27 ± 2) °C for 
+durations of 3, 7, 28, 56, and 90 days, with the exception of the 
+water absorption specimens, which were cured for 28 days. 
+TABLE II.  
+MIX PROPORTIONS 
+Mix ID. 
+Variables (%)
+Constituent materials in kg/m3
+RHA 
+SSA 
+Cement
+F.A
+C.A 
+Water
+RHA
+SSA 
+M1 
+0 
+0 
+382 
+705 1,103
+210 
+0 
+0 
+M2 
+7.5 
+20 
+279.95 705 1,103
+221.6
+28.65
+76.4 
+M3 
+12.5 
+17.5 
+297.40 705 1,103
+234 
+35.25
+49.35
+M4
+10
+22.5
+257.85
+705 1,103
+221.6
+38.2
+85.95
+M5
+10
+20
+267.40
+705 1,103
+225.4
+38.2
+76.4
+M6 
+10 
+17.5 
+294.45 705 1,103
+229.2
+38.2 
+49.35
+M7 
+5 
+15 
+251.60 705 1,103
+217.7
+19.1 
+57.3 
+M8 
+5 
+25 
+267.40 705 1,103
+210 
+19.1 
+95.50
+M9 
+12.5 
+22.5 
+248.30 705 1,103
+229.2
+47.75
+85.95
+M10 
+15 
+25 
+229.20 705 1,103
+233.0
+57.30
+95.50
+M11
+15
+15
+367.4
+705 1,103
+244.5
+57.30
+57.3
+M12 
+10 
+15 
+286.5 
+705 1,103
+233.0
+38.2 
+57.3 
+M13 
+12.5 
+20 
+257.85 705 1,103
+233.0
+47.75
+76.4 
+M14 
+7.5 
+22.5 
+263.40 705 1,103
+213.9
+28.65
+85.95
+M15 
+15 
+20 
+244.3 
+705 1,103
+236.8
+57.30
+76.40
+M16 
+5 
+20 
+282.50 705 1,103
+210 
+19.1 
+76.40
+M17 
+10 
+25 
+244.30 705 1,103
+217.7
+38.2 
+95.50
+M18 
+7.5 
+17.5 
+304 
+705 1,103
+221.6
+28.65
+49.35
+ 
+C. Test Methods 
+A slump test was performed on the reference and other 
+mixtures in accordance with the BS EN 12350-8 [40] standard, 
+to evaluate the impact of RHA-SSA on concrete workability. 
+The density of the concrete mixture was evaluated in 
+accordance with the standards set forth in BS EN 12390-7 
+(2009). The compressive strength was evaluated at 3, 7, 28, 56, 
+
+
+----- TABLE p3#1 -----
+
+Chemical composition (%) | Cement | RHA | SSA
+CaO | 59.6 | 0.68 | 53.03
+SiO
+2 | 20.62 | 79.94 | 0.79
+AlO
+2 3 | 6.01 | 1.15 | 0.09
+FeO
+2 3 | 3.22 | 0.68 | 0.32
+SO
+3 | 2.46 | − | 0.19
+KO
+2 | 0.71 | 0.17 | 0.07
+MgO | 3.65 | 0.44 | −
+Cl | 0.98 | − | 0.034
+PO
+2 5 | 0.117 | − | −
+TiO
+2 | 0.209 | 2.91 | −
+CrO
+2 3 | 0.001 | − | −
+MnO
+2 3 | 0.036 | 0.345 | 0.02
+ZnO | − | − | −
+Loss of Ignition | 3.2 | 11.81 | 36.89
+SiO+AlO+FeO
+2 2 3 2 3 | 29.85 | 81.77 | 1.2
+Specific Gravity | 3.16 | 2.1 | 3.01
+
+----- TABLE p3#2 -----
+
+Mix ID. | Variables (%) |  | Constituent materials in kg/m3 |  |  |  |  | 
+ | RHA | SSA | Cement | F.A | C.A | Water | RHA | SSA
+M1 | 0 | 0 | 382 | 705 | 1,103 | 210 | 0 | 0
+M2 | 7.5 | 20 | 279.95 | 705 | 1,103 | 221.6 | 28.65 | 76.4
+M3 | 12.5 | 17.5 | 297.40 | 705 | 1,103 | 234 | 35.25 | 49.35
+M4 | 10 | 22.5 | 257.85 | 705 | 1,103 | 221.6 | 38.2 | 85.95
+M5 | 10 | 20 | 267.40 | 705 | 1,103 | 225.4 | 38.2 | 76.4
+M6 | 10 | 17.5 | 294.45 | 705 | 1,103 | 229.2 | 38.2 | 49.35
+M7 | 5 | 15 | 251.60 | 705 | 1,103 | 217.7 | 19.1 | 57.3
+M8 | 5 | 25 | 267.40 | 705 | 1,103 | 210 | 19.1 | 95.50
+M9 | 12.5 | 22.5 | 248.30 | 705 | 1,103 | 229.2 | 47.75 | 85.95
+M10 | 15 | 25 | 229.20 | 705 | 1,103 | 233.0 | 57.30 | 95.50
+M11 | 15 | 15 | 367.4 | 705 | 1,103 | 244.5 | 57.30 | 57.3
+M12 | 10 | 15 | 286.5 | 705 | 1,103 | 233.0 | 38.2 | 57.3
+M13 | 12.5 | 20 | 257.85 | 705 | 1,103 | 233.0 | 47.75 | 76.4
+M14 | 7.5 | 22.5 | 263.40 | 705 | 1,103 | 213.9 | 28.65 | 85.95
+M15 | 15 | 20 | 244.3 | 705 | 1,103 | 236.8 | 57.30 | 76.40
+M16 | 5 | 20 | 282.50 | 705 | 1,103 | 210 | 19.1 | 76.40
+M17 | 10 | 25 | 244.30 | 705 | 1,103 | 217.7 | 38.2 | 95.50
+M18 | 7.5 | 17.5 | 304 | 705 | 1,103 | 221.6 | 28.65 | 49.35
+
+===== PAGE 4 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17535 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+and 90 days by employing a 100 mm x 100 mm x 100 mm 
+cube in accordance with the BS EN 12390-3 [41] standard. The 
+assessment of flexural strength was performed in accordance 
+with the BS EN 12390-5 standard [42], using a simple prism of 
+100 mm x 100 mm x 500 mm in size and employing two-point 
+flexural loading at 3, 7, 28, 56, and 90 days. The splitting 
+tensile strength test was executed on 100 mm x 200 mm 
+cylinders in accordance with the specifications outlined in BS 
+EN 12390-6 [43]. The water absorption test was conducted in 
+compliance with the standards set forth in BS 1881-122 [44], 
+using 100 mm cubes that were subjected to a 28-day curing 
+period. 
+III. 
+RESULTS AND DISCUSSION 
+A. Workability 
+The outcome of the workability properties evaluated via the 
+slump cone test is presented in Figure 2. The workability of 
+fresh concrete is reduced with the addition of RHA-SSA 
+content. The slump values exhibited a range from 22 mm to 52 
+mm across the various mixtures, with Mix M1 reaching 52 mm 
+and Mix M10, comprising 60% cement, 15% RHA, and 25% 
+SSA, registering the lowest at 22 mm, below the design range 
+of 30 mm to 60 mm. An increase in SSA content is associated 
+with a reduction in the workability of RHA-SSA concrete. This 
+indicates that the blending of RHA and SSA has a considerable 
+impact on the workability of concrete, which is likely due to 
+the decreased fluidity resulting from the high-water demand. 
+This observation is consistent with the findings of previous 
+studies [34, 45], which indicated comparable effects of 
+supplementary materials on slump values in concrete.  
+Furthermore, the reduction in workability may be attributed to 
+a reduction in the density of the mixture as the proportion of 
+RHA-SSA increases [46], as well as a reduction in its fineness 
+modulus in comparison to that of cement. The data indicate that 
+mixes with higher proportions of RHA and SSA tend to exhibit 
+lower slump values, which is indicative of reduced workability. 
+ 
+ 
+Fig. 2.  
+Slump test results. 
+B. Hardened Density 
+The concrete mix densities, as shown in Figure 3, exhibited 
+a range from 2,652 kg/m³ to 2,810 kg/m³. The control mix M1 
+exhibited the highest density, while the mix M10 (comprising 
+15% RHA and 25% SSA) demonstrated the lowest. The 
+observed variations can be attributed to the specific gravities of 
+the cement, RHA (2.1), and SSA (3.01), which impact the mass 
+per unit volume. The incorporation of greater proportions of 
+RHA resulted in a reduction in density. This finding is 
+consistent with the results reported by authors in [47], which 
+showed a reduction in density with an increase in the 
+proportion of RHA and cow dung. Similarly, authors in [48] 
+reported a decline in density in RHA concrete with an increase 
+in the proportion of RHA. 
+ 
+ 
+Fig. 3.  
+Hardened density results. 
+C. Compressive Strength 
+The results of the compressive strength tests are presented 
+in Figure 4. The early curing ages demonstrate a reduction in 
+Compressive Strength (CS) in ternary RHA-SSA mixtures 
+relative to the control concrete, which can be attributed to a 
+delayed pozzolanic reaction or high cement replacement (20%-
+40%). Authors in [49, 50], concluded that the addition of 
+excessive ash results in a reduction in the strength of concrete. 
+The CS of the concrete specimens exhibited an increase over 
+the curing periods, with values ranging from 8.2 N/mm² to 46.0 
+N/mm² at 90 days. By day 28, mixes M2 (7.5% RHA and 20% 
+SSA), M3 (12.5% RHA and 17.5% SSA), M5 (10% RHA and 
+20% SSA), and M6 (10% RHA and 17.5% SSA) exhibited the 
+highest compressive strength. The target CS of 30 N/mm² was 
+attained by the following mixes: M5 (5% SSA), M7 (5% RHA 
+and 15% SSA), M11 (15% RHA and 15% SSA), M12 (10% 
+RHA and 20% SSA), M13 (12.5% RHA and 20% SSA), and 
+M15 (15% RHA and 20% SSA). Among the mixtures, M5 
+exhibited the lowest (CS of 30.3 N/mm² with a 30% 
+replacement. The highest CS of 35.8 N/mm² was observed for 
+M11, which contained 15% RHA and 15% SSA. The target 
+strength at 28 days was not attained by the following mixes: 
+M4, M8, M9, M14, M16, M17, and M18. Mixes containing 
+10% to 15% RHA and 15% to 20% SSA demonstrated superior 
+performance compared to those with lower RHA and higher 
+SSA content. This trend is noteworthy, with the exception of 
+instances where combined RHA and SSA percentages were 
+below 30%. The enhanced performance can be attributed to the 
+higher concentration of amorphous silica reacting with calcium 
+hydroxide (C-H), forming secondary Calcium Silicate Hydrate 
+
+
+===== PAGE 5 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17536 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+(C-S-H), which is a crucial phase in the development of 
+strength. An increase in compressive strength from 30.5 N/mm² 
+to 46.2 N/mm² was observed between 56 and 90 days in RHA-
+SSA concrete, which is likely due to the further formation of 
+calcium silicate hydrate from the reactions between calcium 
+oxide, silica, and water present in the blended concrete. Figure 
+5 illustrates the CS for RHA-SSA mixes, expressed as 
+percentage changes relative to the control (M1). In comparison 
+to M1, M11 exhibits a 2.87%, 4.46%, and 3.82% enhancement 
+in compressive strength at 28, 56, and 90 days, respectively. 
+The enhancement is attributed to an elevated pozzolanic 
+reaction and the ashes' filling capacity [51, 52]. 
+ 
+ 
+Fig. 4.  
+Compressive Strength vs Age of Curing. 
+ 
+Fig. 5.  
+The rate of RHA concrete compressive strength enhancement 
+compared to the control (M1). 
+D. Flexural Strength 
+The capacity of concrete to withstand bending stresses is 
+largely contingent upon its Flexural Strength (FS).  Figure 6 
+portrays the observed FS values at various curing ages (3, 7, 
+28, 56, and 90 days).  The FS assessments vary significantly 
+across the eighteen mixes for each curing age, indicating that 
+the incorporation of RHA and SSA in varying proportions can 
+have a considerable impact on the strength of concrete. As 
+shown in Figure 6, an increase in SSA is associated with a 
+reduction in the FS values. There is a noticeable increase in FS 
+along with an increase in the curing age, which is consistent 
+with the typical concrete behavior, as observed in previous 
+studies [50, 53]. The FS values ranged from 0.89 N/mm² to 
+1.49 N/mm² at three days to/and from 4.11 N/mm² to 5.68 
+N/mm² at 90 days. Across all curing ages, Mixes M6, M7, 
+M11, and M12 consistently demonstrated higher FS values, 
+while Mixes M8, M9, and M10 exhibited lower FS values. It is 
+noteworthy that a considerable increase in flexural strength was 
+observed between the 7th and 28th days. At 90 days, the RHA-
+SSA concrete exhibited robust long-term potential, although 
+the early FS values were comparatively lower than those of the 
+control mix M1. The incorporation of RHA and SSA was 
+found to enhance the FS of concrete [19, 54]. These findings 
+are consistent with the typical FS values for grade 30 concrete 
+with additional cementitious materials [34, 52, 55, 56]. The 
+early-stage hydration of the normal mixed concrete was 
+observed to be higher than that of the RHA-SSA blends. 
+However, significant hydration of the blended concrete 
+occurred at a later stage, facilitated by the production of 
+calcium hydroxide. The primary and secondary hydration 
+processes led to the formation of C-S-H gel, which contributed 
+to the overall strength of the material. Nevertheless, the 
+incorporation of a greater quantity of RHA-SSA resulted in a 
+reduction in the cement content, which in turn constrained the 
+early-stage strength development. At 28 and 90 days, M11 
+(15% RHA, 15% SSA) exhibited elevated FS values of 4.67 
+N/mm² and 5.68 N/mm², respectively, signifying increases of 
+2.64% and 4.03% in comparison to the control mix, as 
+displayed in Figure 7. The optimal FS was achieved with 15% 
+RHA and 15% SSA replacement, although 10% RHA and 15% 
+SSA replacements exhibited a slight decrease in strength 
+relative to the control mix. 
+ 
+ 
+Fig. 6.  
+Flexural strength vs age of curing. 
+E. Splitting Tensile Strength 
+The mean Splitting Tensile Strength (STS) for each of the 
+eighteen RHA-SSA mixtures was recorded and presented in 
+Figure 8. The STS values reflected the trends observed in the 
+compressive strength, with values ranging from 0.79 N/mm² to 
+5.26 N/mm² across all curing ages (3, 7, 28, 56, and 90 days). 
+M11 exhibited the highest STS of 5.26 N/mm², with increases 
+of 2.87%, 4.46%, and 3.82% compared to M1 at 28, 56, and 90 
+
+
+===== PAGE 6 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17537 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+days, respectively. The earliest strength gains were observed in 
+mixes M5, M6, M7, M11, and M12, while M10, M14, M15, 
+and M17 exhibited comparatively lower early values. At 28 
+days and beyond, mixes M11, M12, M7, and M6 consistently 
+demonstrate elevated STS, whereas mixes M10, M14, M15, 
+and M17 remain below the level of the control mix (M1). 
+Mixes M11 and M12 exhibit elevated STS values throughout 
+the curing period, indicative of robust performance. As shown 
+in Figure 9, a higher SSA content is associated with a reduction 
+in STS, as evidenced by M10 (15% RHA, 25% SSA). 
+ 
+ 
+Fig. 7.  
+The rate of RHA concrete Flexural strength enhancement 
+compared to the control (M1). 
+ 
+Fig. 8.  
+Splitting tensile strength vs age of curing. 
+Conversely, M11 exhibited the highest STS, which can be 
+attributed to the optimal availability of silica and calcium 
+hydroxide. Authors in [57] observed that the initial void filling 
+by supplementary materials enhances tensile strength, while 
+excessive filling diminishes it. Therefore, an increase in the 
+SSA content results in a reduction in STS. 
+ 
+ 
+Fig. 9.  
+The rate of RHA concrete tensile splitting strength enhancement 
+compared to the control (M1). 
+F. Water Absorption 
+The percentage of water absorption for the various RHA-
+SSA concrete mixtures (M1-M18) over the 28-day curing 
+period exhibited a range from 5.1% to 13.1% ?, as illustrated in 
+Figure 10. The RHA-SSA blends resulted in lower water 
+absorption than the control mix, M1. It is noteworthy that the 
+concrete mix containing 15% RHA and 25% SSA exhibited the 
+lowest water absorption, at 5.1%. The incorporation of RHA 
+and SSA into concrete results in a reduction in the water 
+absorption due to the highly porous nature of these particles, 
+which possess a substantial surface area. This effectively fills 
+the gaps between the cement particles. This results in a denser 
+microstructure and decreased permeability [58]. Moreover, the 
+pozzolanic reaction between RHA and Calcium Hydroxide 
+(CH) from cement hydration and the reaction of CaO from 
+SSA with water form additional C-S-H gel, which further 
+densifies the concrete matrix, reduces capillary porosity [59]. 
+These combined effects demonstrate the efficacy of RHA and 
+SSA in enhancing the water resistance properties of concrete. 
+ 
+Fig. 10.  
+Water absorption results. 
+
+
+===== PAGE 7 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17538 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+IV. 
+CONCLUSIONS 
+This study examined the effects of using Rice Husk Ash 
+(RHA) and Snail Shell Ash (SSA) as partial substitutes for 
+cement in concrete on both the fresh and hardened properties of 
+sustainable concrete. Based on the findings of the experimental 
+work and the subsequent analysis of the results, the following 
+conclusions were drawn: 
+ Both RHA and SSA and their mixture as a cement 
+replacement material in concrete retard the setting of 
+concrete by increasing both the initial and final setting of 
+concrete. Therefore, blending RHA and SSA in concrete is 
+beneficial especially when delayed setting is required, such 
+as in hot weather concrete or prolonged placement. 
+ Blending RHA and SSA as cement substitutes in concrete 
+reduced the consistency (workability) and density of the 
+concrete. The lowest slump value of 22 mm in the mix 
+series was obtained by blending 15% RHA and 25% SSA 
+as cement replacements. The density of the concrete 
+containing blends of RHA and SSA falls within the range 
+of normal weight concrete and can be therefore used for 
+general purpose applications. 
+ Blending of RHA and SSA as partial replacement of 
+cement resulted in the reduction of compressive strength, 
+splitting tensile strength, and flexural strength of concrete at 
+all ages of curing. Thus, all concrete mixes containing 
+different levels of RHA-SSA blends achieved the design 
+strength of 30 MPa at 56 and 90 days. 
+ The optimum dosages of 15% RHA and 15% as cement 
+replacement in the concrete have the highest strengths of 
+46.2 MPa, 5.26 MPa, and 5.26 MPa for compressive 
+strength, flexural strength, and splitting tensile strength at 
+90 days, respectively. 
+ The incorporation of RHA and SSA as partial substitutes 
+for cement resulted in a notable reduction in porosity, as 
+evidenced by the results of the water absorption test. The 
+combination of 15% RHA and 25% SSA yielded the 
+optimal and lowest water absorption rate of 5.1%. It can be 
+thus concluded that blends of RHA and SSA have the 
+potential to enhance the durability performance of concrete.  
+ RHA and SSA derived from agricultural by-products have 
+the potential to be used as pozzolanic materials in concrete, 
+thereby partially substituting cement for the purposes of 
+enhanced waste management, environmental sustainability, 
+and the reduction of CO2 emissions associated with cement 
+production. 
+ACKNOWLEDGMENT 
+The authors wish to acknowledge the Structures and 
+Materials Research Lab, Bayero University Kano, Nigeria for 
+their realistic support. The authors would also like to thank the 
+Structures and Materials Research Laboratory of Prince Sultan 
+University for their viable support. The authors would like to 
+thank Prince Sultan University for paying the article processing 
+charges of this publication. 
+ 
+REFERENCES 
+[1] T. A. Boden, G. Marland, and R. J. Andres, "Global, Regional, and 
+National Fossil-Fuel CO2 Emissions (1751 - 2014) (V. 2017)," 
+Environmental System Science Data Infrastructure for a Virtual 
+Ecosystem 
+(ESS-DIVE), 
+USA, 
+Dataset 
+1389331, 
+Jul. 
+1999, 
+https://doi.org/10.3334/CDIAC/00001_V2017. 
+[2] A. Saand, T. Ali, M. A. Keerio, and D. K. Bangwar, "Experimental 
+Study on the Use of Rice Husk Ash as Partial Cement Replacement in 
+Aerated Concrete," Engineering, Technology & Applied Science 
+Research, vol. 9, no. 4, pp. 4534–4537, Aug. 2019, https://doi.org/ 
+10.48084/etasr.2903. 
+[3] N. Bheel, M. A. Jokhio, J. A. Abbasi, H. B. Lashari, M. I. Qureshi, and 
+A. S. Qureshi, "Rice Husk Ash and Fly Ash Effects on the Mechanical 
+Properties of Concrete," Engineering, Technology & Applied Science 
+Research, vol. 10, no. 2, pp. 5402–5405, Apr. 2020, https://doi.org/ 
+10.48084/etasr.3363. 
+[4] S. Badur and R. Chaudhary, "Utilization of hazardous wastes and by-
+products as a green concrete material through S/S process: A review," 
+Reviews on Advanced Materials Science (RAMS), vol. 17, pp. 42–61, 
+Mar. 2008. 
+[5] P. K. Mehta and P. J. M. Monteiro, Concrete: Microstructure, 
+Properties, and Materials, 4th Edition. New York, NY, USA: McGraw-
+Hill Education, 2014. 
+[6] M. N. Abdullah, F. Mustapha, N. ‘Izzati Yusof, T. Khan, and T. A. 
+Sebaey, "Thermal Properties and Drying Shrinkage Performance of 
+Palm Kernel Shell Ash and Rice Husk Ash-Based Geopolymer 
+Concrete," Materials, vol. 17, no. 6, Jan. 2024, Art. no. 1298, 
+https://doi.org/10.3390/ma17061298. 
+[7] R. Bolla, M. K. Ratnam, and R. Raju, "Experimental Studies on 
+Concrete with Rice Husk Ash as a Partial Replacement of Cement Using 
+Magnesium Sulphate Solution," International Journal for Innovative 
+Research in Science and Technology, vol. 1, no. 7, pp. 333–340, Dec. 
+2015. 
+[8] E. Aprianti, P. Shafigh, S. Bahri, and J. N. Farahani, "Supplementary 
+cementitious materials origin from agricultural wastes – A review," 
+Construction and Building Materials, vol. 74, pp. 176–187, Jan. 2015, 
+https://doi.org/10.1016/j.conbuildmat.2014.10.010. 
+[9] H. K. Venkatanarayanan and P. R. Rangaraju, "Material characterization 
+studies on low-and high-carbon rice husk ash and their performance in 
+Portland cement mixtures," Advances in Civil Engineering Materials, 
+vol. 2, no. 1, pp. 266–287, May 2013, https://doi.org/10.1520/ 
+ACEM20120056. 
+[10] P. C. Hewlett, Lea’s Chemistry of Cement and Concrete, 4th ed. 
+Butterworth-Heinemann, 1998. 
+[11] M. Adamu, B. S. Mohammed, and M. Shahir Liew, "Mechanical 
+properties and performance of high volume fly ash roller compacted 
+concrete containing crumb rubber and nano silica," Construction and 
+Building Materials, vol. 171, pp. 521–538, May 2018, https://doi.org/ 
+10.1016/j.conbuildmat.2018.03.138. 
+[12] L. Dembovska, D. Bajare, I. Pundiene, and L. Vitola, "Effect of 
+Pozzolanic Additives on the Strength Development of High Performance 
+Concrete," Procedia Engineering, vol. 172, pp. 202–210, Jan. 2017, 
+https://doi.org/10.1016/j.proeng.2017.02.050. 
+[13] N. Toropovs, D. Bajare, G. Šahmenko, L. Krage, and A. Korjakins, "The 
+Formation of Microstructure in High Strength Concrete Containing 
+Micro and Nanosilica," Key Engineering Materials, vol. 604, pp. 83–86, 
+Mar. 2014, https://doi.org/10.4028/www.scientific.net/KEM.604.83. 
+[14] M. S. Imbabi, C. Carrigan, and S. McKenna, "Trends and developments 
+in green cement and concrete technology," International Journal of 
+Sustainable Built Environment, vol. 1, no. 2, pp. 194–216, Dec. 2012, 
+https://doi.org/10.1016/j.ijsbe.2013.05.001. 
+[15] S. H. Channa, S. A. Mangi, N. Bheel, F. A. Soomro, and S. H. Khahro, 
+"Short-term analysis on the combined use of sugarcane bagasse ash and 
+rice husk ash as supplementary cementitious material in concrete 
+production," Environmental Science and Pollution Research, vol. 29, no. 
+3, pp. 3555–3564, Jan. 2022, https://doi.org/10.1007/s11356-021-15877-
+0. 
+
+
+===== PAGE 8 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17539 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+[16] A. Jhatial, W. Goh, K. H. Mo, S. Sohu, and I. Ali, "Green and 
+Sustainable Concrete – The Potential Utilization of Rice Husk Ash and 
+Egg Shells," Civil Engineering Journal, vol. 5, Jan. 2019, Art. no. 74, 
+https://doi.org/10.28991/cej-2019-03091226. 
+[17] T. K. Naiya, A. K. Bhattacharya, S. Mandal, and S. K. Das, "The 
+sorption of lead(II) ions on rice husk ash," Journal of Hazardous 
+Materials, 
+vol. 
+163, 
+no. 
+2, 
+pp. 
+1254–1264, 
+Apr. 
+2009, 
+https://doi.org/10.1016/j.jhazmat.2008.07.119. 
+[18] ASTM, Standard Specification for Coal Ash and Raw or Calcined 
+Natural Pozzolan for Use in Concrete. West Conshohocken, PA, USA: 
+ASTM International, 2023. 
+[19] Naveen, S. Bansal, and Y. Antil, "Effect of rice husk on compressive 
+strength of concrete," International Journal on Emerging Technologies, 
+vol. 6, no. 1, pp. 144–150, 2015. 
+[20] S. Khoso, S. Abbasi, T. Ali, Z. Soomro, M. Naqash, and A. A. Ansari, 
+"The Effect of Water-Binder Ratio and RHA on the Mechanical 
+Performance of Sustainable Concrete," Engineering, Technology and 
+Applied Science Research, vol. 12, pp. 8520–8524, Jun. 2022, 
+https://doi.org/10.48084/etasr.4791. 
+[21] M. N. Abdullah et al., "Effect of Different Pre-Treatment on the 
+Microstructure and Intumescent Properties of Rice Husk Ash-Based 
+Geopolymer Hybrid Coating," Polymers, vol. 14, no. 11, Jan. 2022, Art. 
+no. 2252, https://doi.org/10.3390/polym14112252. 
+[22] S. Kaewdaeng, P. Sintuya, and R. Nirunsin, "Biodiesel production using 
+calcium oxide from river snail shell ash as catalyst," Energy Procedia, 
+vol. 138, pp. 937–942, Oct. 2017, https://doi.org/10.1016/j.egypro.2017. 
+10.057. 
+[23] E. Sunday and T. Magu, "Determination of some metal contents in ashed 
+and unashed snail shell powders," World News of Natural Sciences, vol. 
+7, pp. 37–41, Feb. 2017. 
+[24] A. P. Adewuyi, S. Franklin, and K. Ibrahim, "Utilization of Mollusc 
+Shells for Concrete Production for Sustainable Environment," 
+International Journal of Scientific and Engineering Research, vol. 6, pp. 
+201–208, Sep. 2015. 
+[25] H. A. Funsho, Y. Kehinde Mudi, and E. G. Kefas, "Optimization of 
+Quicklime Production from Snail Shell using Factorial Analysis 
+Method," International Journal of Innovative Science, Engineering & 
+Technology, vol. 5, no. 11, pp. 19–35, Nov. 2018. 
+[26] T. Y. Sai and M. S. Rao, "An experimental study on strength properties 
+of concrete by partially replacing cement with snail shell ash," 
+International Journal of Innovations in Engineering and Technology 
+(IJIET), vol. 7, no. 4, pp. 312–322, Dec. 2016. 
+[27] R. B. Depaa, V. Priyadarshini, A. Hemamalinie, J. Francis Xavier, and 
+K. Surendrababu, "Assessment of strength properties of concrete made 
+with rice husk ash," Materials Today: Proceedings, vol. 45, pp. 6724–
+6727, Jan. 2021, https://doi.org/10.1016/j.matpr.2020.12.605. 
+[28] T. Ali, A. Saand, D. K. Bangwar, A. S. Buller, and Z. Ahmed, 
+"Mechanical 
+and 
+Durability 
+Properties 
+of 
+Aerated 
+Concrete 
+Incorporating Rice Husk Ash (RHA) as Partial Replacement of Cement," 
+Crystals, vol. 11, no. 6, Jun. 2021, Art. no. 604, https://doi.org/ 
+10.3390/cryst11060604. 
+[29] S. A. Stel’makh et al., "Nanomodified Concrete with Enhanced 
+Characteristics Based on River Snail Shell Powder," Applied Sciences, 
+vol. 12, no. 15, Jan. 2022, Art. no. 7839, https://doi.org/10.3390/ 
+app12157839. 
+[30] M. Raghav, S. Karthick, T. Park, and H.-S. Lee, "Assessment of 
+Corrosion Performance of Steel Rebar in Snail Shell Ash Blended 
+Cements under Marine Environments," Materials, vol. 14, no. 23, Jan. 
+2021, Art. no. 7286, https://doi.org/10.3390/ma14237286. 
+[31] S. Alla and S. Asadi, "Experimental Investigation of Snail Shell-Based 
+Cement Mortar: Mechanical Strength, Durability and Microstructure," 
+Research Square, vol. 9, no. 4, pp. 51–70, Oct. 2021, https://doi.org/ 
+10.21203/rs.3.rs-993265/v1. 
+[32] A. J. Adeala and J. O. Olaoye, "Structural properties of snail shell ash 
+concrete (SSAC)," Journal of Emerging Technologies and Innovative 
+Research (JETIR), vol. 6, no. 12, pp. 24–31, Dec. 2019. 
+[33] ASTM, 
+Standard 
+Specification 
+for 
+Portland 
+Cement. 
+West 
+Conshohocken, PA, USA: ASTM International, 2019. 
+[34] A. Aboshio, E. N. Ogork, and D. A. Balami, "Rice Husk Ash as 
+Admixture in Concrete," Journal of Engineering Technology, vol. 4, no. 
+2, pp. 95–101, Mar. 2009. 
+[35] S. K. Das, A. Adediran, C. R. Kaze, S. M. Mustakim, and N. Leklou, 
+"Production, characteristics, and utilization of rice husk ash in alkali 
+activated materials: An overview of fresh and hardened state properties," 
+Construction and Building Materials, vol. 345, Aug. 2022, Art. no. 
+128341, https://doi.org/10.1016/j.conbuildmat.2022.128341. 
+[36] B. Beckhoff, B. Kanngießer, N. Langhoff, R. Wedell, and H. Wolff, 
+Eds., Handbook of Practical X-Ray Fluorescence Analysis, 2006th 
+edition. Springer, 2006. 
+[37] BS-EN-12620, Aggregates for concrete. 2013. 
+[38] BS 882, Specification for aggregates from natural sources for concrete. 
+1992. 
+[39] BS EN 206, Concrete. Specification, performance, production and 
+conformity. 2013. 
+[40] BS EN 12350-8, Testing fresh concrete - Self-compacting concrete. 
+Slump-flow test. London, UK:, 2019. 
+[41] BS EN 12390-3, Testing hardened concrete - Compressive strength of 
+test specimens. 2019. 
+[42] BS EN 12390-5, Testing hardened concrete - Flexural strength of test 
+specimens. 2019. 
+[43] BS EN 12390-6, Testing hardened concrete. Tensile splitting strength of 
+test specimens. 2023. 
+[44] UK: BS 1881-122, Water Absorption Test For Concrete. 2011. 
+[45] A. Avasthi and K. C. Khare, "Water Requirement of Concrete with 
+Mineral Admixtures," International Journal for Research in Applied 
+Science and Engineering Technology, vol. 9, no. VI, pp. 4573–4577, 
+Jun. 2021, https://doi.org/10.22214/ijraset.2021.36021. 
+[46] E. N. Ogork and T. S. Ibrahim, "Properties of cement paste and concrete 
+containing calcium carbide waste as additive," Nigerian Journal of 
+Technology, vol. 36, no. 1, pp. 26–31, 2017, https://doi.org/10.4314/ 
+njt.361.1209. 
+[47] P. K. Sahu and N. Patel, "Combined Effect of Cow Dung Ash and Rice 
+Husk Ash on Mechanical Performance of Concrete," International 
+Journal for Research in Applied Science and Engineering Technology, 
+vol. 11, no. 5, pp. 1439–1445, May 2023, https://doi.org/10.22214/ 
+ijraset.2023.51785. 
+[48] G. A. Habeeb and H. B. Mahmud, "Study on properties of rice husk ash 
+and its use as cement replacement material," Materials Research, vol. 
+13, 
+pp. 
+185–190, 
+Jun. 
+2010, 
+https://doi.org/10.1590/S1516-
+14392010000200011. 
+[49] H. Chao-Lung, B. L. Anh-Tuan, and C. Chun-Tsun, "Effect of rice husk 
+ash on the strength and durability characteristics of concrete," 
+Construction and Building Materials, vol. 25, no. 9, pp. 3768–3772, 
+Sep. 2011, https://doi.org/10.1016/j.conbuildmat.2011.04.009. 
+[50] K. Kartini, M. Mahmud, and M. S. Hamidah, "Strength properties of 
+Grade 30 rice husk ash concrete," in 31st Conference on Our World in 
+Concrete and Structures, Singapore, Aug. 2006. 
+[51] K. A. Olonade, H. Fitriani, and O. T. Kola, "Regression models for 
+compressive strength of concrete under different curing conditions," 
+MATEC Web of Conferences, vol. 101, 2017, Art. no. 05013, 
+https://doi.org/10.1051/matecconf/201710105013. 
+[52] M. Najmudin et al., "Effect of Rice-Husk as Replacement Cement on 
+Mechanical Properties Concrete," Journal of Mechanical Engineering, 
+vol. 20, pp. 91–104, Apr. 2023, https://doi.org/10.24191/jmeche. 
+v20i2.22056. 
+[53] M. M. Hossain, M. R. Karim, M. Hasan, M. K. Hossain, and M. F. M. 
+Zain, "Durability of mortar and concrete made up of pozzolans as a 
+partial replacement of cement: A review," Construction and Building 
+Materials, vol. 116, pp. 128–140, Jul. 2016, https://doi.org/10.1016/ 
+j.conbuildmat.2016.04.147. 
+[54] R. K. Sandhu and R. Siddique, "Influence of rice husk ash (RHA) on the 
+properties of self-compacting concrete: A review," Construction and 
+Building Materials, vol. 153, pp. 751–764, Oct. 2017, https://doi.org/ 
+10.1016/j.conbuildmat.2017.07.165. 
+
+
+===== PAGE 9 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 14, No. 5, 2024, 17532-17540 
+17540 
+ 
+ 
+www.etasr.com 
+Alhassan et al.: Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash … 
+ 
+[55] R. Siddique, K. Singh, Kunal, M. Singh, V. Corinaldesi, and A. Rajor, 
+"Properties of bacterial rice husk ash concrete," Construction and 
+Building Materials, vol. 121, pp. 112–119, Sep. 2016, https://doi.org/ 
+10.1016/j.conbuildmat.2016.05.146. 
+[56] N. M. S. Hasan et al., "Integration of Rice Husk Ash as Supplementary 
+Cementitious Material in the Production of Sustainable High-Strength 
+Concrete," Materials, vol. 15, no. 22, Nov. 2022, Art. no. 8171, 
+https://doi.org/10.3390/ma15228171. 
+[57] S. Bhanja and B. Sengupta, "Influence of silica fume on the tensile 
+strength of concrete," Cement and Concrete Research, vol. 35, no. 4, pp. 
+743–747, Apr. 2005, https://doi.org/10.1016/j.cemconres.2004.05.024. 
+[58] F. G. da Silva, J. B. L. Liborio, and P. Helene, "Improvement of physical 
+and chemical properties of concrete with Brazilian silica rice husk 
+(SRH)," Revista Ingeniería de Construcción, vol. 23, no. 1, pp. 18–25, 
+Apr. 2008, https://doi.org/10.4067/S0718-50732008000100002. 
+[59] M. N. Amin, S. Hissan, K. Shahzada, K. Khan, and T. Bibi, "Pozzolanic 
+Reactivity and the Influence of Rice Husk Ash on Early-Age 
+Autogenous Shrinkage of Concrete," Frontiers in Materials, vol. 6, Jul. 
+2019, Art. no. 150, https://doi.org/10.3389/fmats.2019.00150. 

@@ -1,0 +1,695 @@
+
+===== PAGE 1 =====
+
+ 
+Improving Soil Properties for Construction Usage with Fly Ash 
+and Rice Husk Ash  
+Abhishek Saxena1, Priyanka Gupta2*, B Rajalakshmi3, Mahesh Kanojiya4, Praveen5, Lalit Kumar Tyagi6, Muntather 
+Almusawi7 
+ 
+1Department of Mechanical Engineering, ABES Engineering College, Ghaziabad-201009, UP, India 
+2Institute of Aeronautical Engineering, Dundigal, Hyderabad, India 
+3Department of Computer Science, New Horizon College of Engineering, Bangalore, india 
+4Department of Mechanical Engineering, Nagpur Institute of Technology, Nagpur, India 
+5Lloyd Institute of Engineering & Technology, Knowledge Park II, Greater Noida, Uttar Pradesh 201306 
+6Lloyd Institute of Management and Technology, Greater Noida, Uttar Pradesh, India-201306 
+7The Islamic university, Najaf, Iraq 
+*Corresponding author: Priyanka_gupta@iare.ac.in 
+ 
+Abstract.  Changes made to any soil property with the goal of improving the soil's engineering performance 
+are collectively referred to as soil improvement. This might include enhancing groundwater conditions, 
+decreasing compressibility, minimising permeability, or strengthening the structure's structural integrity. 
+Soil enhancement might be a short-term solution to make building easier or a long-term strategy to improve 
+the finished structure's performance over time. Expansive soils, especially black cotton soil, pose serious 
+problems for the building sector because of their negative swelling and shrinking characteristics. The 
+purpose of this study is to better understand how stabilizing substances like fly ash and rice husk ash (RHA) 
+might help address these issues and enhance the qualities of soil suitable for building. To evaluate the 
+efficacy of RHA and fly ash as swell reduction layers and to improve unconfined compressive strength 
+(UCS) in highway construction, the materials will be added to natural soil in different percentages (RHA: 
+0%, 15%, and 30%; fly ash: 10%, 20%, and 30%). Nine different combinations were tested using UCS after 
+the quantities were established using the Taguchi optimization approach. The results suggest that adding 
+these waste items can greatly strengthen the soil, and that certain combinations work best for stabilizing the 
+soil. The study highlights how soils in construction can be addressed by utilizing sustainable resources like 
+fly ash and RHA. 
+Keywords-:  Stabilization, Soil, FA, RHA, Regression Analysis.
+1 Introduction 
+A standard procedure for almost every road development is soil stabilisation. In general, mechanical stabilisation and 
+chemical stabilisation are the two categories into which all forms of soil stabilisation can be divided. A soil's grading can 
+be altered in mechanical stabilisation by combining it with other soil types that have varying grades. Compacted soil mass 
+can be obtained by doing this. Conversely, chemical stabilisation refers to the alteration of soil characteristics by the 
+incorporation of chemically active substances. Understanding the characteristics of the materials in the combination and 
+the result after mixing is crucial for soil stabilisation. Furthermore, it's critical to ascertain the material's performance 
+following stabilisation. Their nature to be plastic and compressible contributes to their tendency to swell when wet and 
+contract upon drying. Certain clays are particularly problematic due to their significant volume changes with moisture 
+fluctuations, which is a highly undesirable trait. Under sustained loads, cohesive soils can exhibit gradual deformation, 
+known as creep, particularly when the shear stress levels are near the soil's shear strength, leading to potential sliding 
+incidents [2]. Additionally, clays are known to exert substantial lateral pressures and typically have low values of resilient 
+modulus, making them unsuitable as foundation materials. Soil stabilization addresses these issues by enhancing or 
+preserving soil stability, thereby improving its engineering properties. This process is crucial for the development of 
+robust foundations for buildings and bridges, in addition to for toll road improvement. Replacing volatile soil with extra 
+appropriate material is frequently impractical and highly-priced, increasing normal challenge costs [3]. Consequently, 
+enhancing the properties of the prevailing soil for infrastructure initiatives is a greater viable solution.  
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+ 
+ 
+© The Authors, published by EDP Sciences. This is an open access article distributed under  the terms of the Creative
+Commons Attribution License 4.0 (https://creativecommons.org/licenses/by/4.0/). 
+
+
+===== PAGE 2 =====
+
+Numerous studies had been carried out to explore the usage of waste substances for soil enhancement, which not best 
+improves soil overall performance but additionally promotes environmental sustainability by way of repurposing waste 
+in optimistic programs. The study conducted in [2] investigates the enhancement of expansive soil's properties using rice 
+husk ash (RHA) and fly ash for potential application in highway construction. Strength assessments on clay remoulded 
+with RHA and fly ash aimed to determine the mixture's effectiveness as a swelling reduction layer. A fee evaluation 
+evaluating stabilized and unsterilized sub-base preparations found out that 25% fly ash and 12% RHA supplied surest soil 
+enhancement, whilst a 15% fly ash content became deemed appropriate for swell reduction layers [2].  Another study 
+sought to improve black cotton soil's performance by incorporating fly ash (5% to 25%) and RHA (10% to 30%) into the 
+soil, with evaluations conducted after a curing period of 28 days [4]. The maximum favourable effects have been found 
+at 12% FA and 9% RHA. Additional studies on the stabilisation of BCS with fly ash (5% to 15%) and RHA (3% to 15%) 
+found out decreases in plasticity index and specific gravity while enhancing CBR and UCS [6]. 
+In a consideration investigating the software of Rice Husk Ash and lime for stabilising clayey soil, it became found that 
+10% RHA and 20% lime significantly increased soil energy and reduced the PI, indicating the technique's excellent ability 
+[5]. Much like this, including lime and RHA to clayey soil caused a lower inside the maximum dry density and an upward 
+thrust in an appropriate water content, specifically after a 28-day curing time frame. This helped to determine the 
+appropriate admixture ratio for greater strength over an extended curing period. Given that approximately 21.4% of the 
+country's geographical area consists of expansive soils, the review emphasizes cost-effective stabilization with RHA and 
+fly ash at various proportions (e.g., 5%, 10%, 15%, 20%) to improve soil properties and reduce costs [7]. 
+Adjusting soil properties with locally available waste materials like RHA and fly ash has been shown to affect clay soil's 
+compressibility, with optimal material percentages discussed for soil improvement [8]. Stabilizing black cotton soil with 
+fly ash and RHA-based geopolymer was found to substantially enhance soil strength and reduce swelling and shrinkage, 
+offering a sustainable alternative to traditional stabilizers [9]. Both FA and RHA were observed to decrease liquid limit, 
+plasticity index, and free swell index, while improving the coefficient of permeability and reducing swelling pressure in 
+expansive clay, contingent upon the additive content [10]. Finally, the application of RHA and lime sludge for clay 
+stabilization in civil engineering projects was reviewed, suggesting that a mixture of 10% RHA and 15% lime sludge can 
+effectively stabilize clay [11]. The table 1 describes the work of various researchers on composition of materials and their 
+respective outcomes. 
+Table 1: Comparative analysis of literature survey 
+Study 
+Reference 
+Materials 
+Used 
+Soil Type 
+Optimal 
+Content 
+Effects on Soil 
+Properties 
+Application Area 
+[2] 
+RHA and 
+Fly Ash 
+Expansive 
+Soil 
+25% Fly Ash, 
+12% RHA 
+Enhanced subgrade soil, 
+effective swell reduction 
+Highway 
+construction swell 
+reduction layer 
+[3] 
+Fly Ash and 
+RHA 
+Black 
+Cotton Soil 
+5% to 25% Fly 
+Ash, 10% to 30% 
+RHA 
+Improved soil 
+performance after 28 
+days 
+Black cotton soil 
+performance 
+improvement 
+[4] 
+FA and 
+RHA 
+Black 
+Cotton Soil 
+12% FA, 9% 
+RHA 
+Reduced plasticity index 
+and specific gravity, 
+increased CBR and UCS 
+Black cotton soil 
+stabilization 
+[5] 
+RHA and 
+Lime 
+Clayey Soil 
+10% RHA, 20% 
+Lime 
+Improved soil strength, 
+reduced plasticity index 
+Clayey soil 
+stabilization 
+[7] 
+RHA and 
+Fly Ash 
+Expansive 
+Soil 
+5%, 10%, 15%, 
+20% proportions 
+Improved soil properties, 
+cost reduction 
+General soil 
+stabilization 
+[11] 
+RHA and 
+Lime Sludge 
+Clay 
+10% RHA, 15% 
+Lime Sludge 
+Effective stabilization of 
+clay 
+Clay stabilization in 
+civil engineering 
+ 
+The survey reveals that the output strength, tensile strength and plasticity are the factors contributing to the efficiency of 
+polymer-based concrete which can be analysed using Taguchi methods [12]. The mechanical characteristics help in 
+achieving the best possible composition of any substances [14]. The input parameters need to be so adjusted that the final 
+product meets both technical requirements as well as environmental requirements [15]. The paper show cased how 
+ANOVA and regression equations can be useful in achieving these outcomes based on loading conditions [16]. 
+2. Materials and Methods 
+2.1 Materials 
+One of the byproducts of milling rice is rice husk ash (or RHA) which is environmentally beneficial substitute for the 
+ultimate disposal is to employ it as a soil stabiliser as shown in Fig. 1. RHA is not self-cementitious, so in order to produce 
+cements and increase the strength of the soil, it is also a hydraulic binder, such as lime, needs to be applied. Approximately 
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+2
+
+
+----- TABLE p2#1 -----
+
+Study
+Reference | Materials
+Used | Soil Type | Optimal
+Content | Effects on Soil
+Properties | Application Area
+[2] | RHA and
+Fly Ash | Expansive
+Soil | 25% Fly Ash,
+12% RHA | Enhanced subgrade soil,
+effective swell reduction | Highway
+construction swell
+reduction layer
+[3] | Fly Ash and
+RHA | Black
+Cotton Soil | 5% to 25% Fly
+Ash, 10% to 30%
+RHA | Improved soil
+performance after 28
+days | Black cotton soil
+performance
+improvement
+[4] | FA and
+RHA | Black
+Cotton Soil | 12% FA, 9%
+RHA | Reduced plasticity index
+and specific gravity,
+increased CBR and UCS | Black cotton soil
+stabilization
+[5] | RHA and
+Lime | Clayey Soil | 10% RHA, 20%
+Lime | Improved soil strength,
+reduced plasticity index | Clayey soil
+stabilization
+[7] | RHA and
+Fly Ash | Expansive
+Soil | 5%, 10%, 15%,
+20% proportions | Improved soil properties,
+cost reduction | General soil
+stabilization
+[11] | RHA and
+Lime Sludge | Clay | 10% RHA, 15%
+Lime Sludge | Effective stabilization of
+clay | Clay stabilization in
+civil engineering
+
+===== PAGE 3 =====
+
+78% of the weight of the paddy grains is collected as rice, broken rice, and bran throughout the milling process [17]. Husk 
+is derived from the remaining 22% of the weight of paddy. In order to produce steam for the parboiling procedure, this 
+husk is employed as fuel in different mills. Approximately 75% of this husk's weight is made up of organic volatile matter, 
+while the other 25% is turned into ash also referred to as rice husk ash throughout the burning process. Between 85% and 
+90% of this RHA is made up of amorphous silica. In many regions of the world, particularly in developing nations, rice 
+husk is produced as a major agricultural byproduct by the rice processing industry. Only 20% of the 500 million tonnes 
+of rice husk that are burned worldwide each year are converted to rice hull acid (RHA).  
+ 
+ 
+Fig. 1: (a) Rice Husk ash (b) Rice Husk 
+RHA is still not usefully applied, and it is typically disposed of in landfills or into streams, polluting the air, water, and 
+soil. Utilising industrial and biogenic waste as supplemental cementing substance has become an essential component of 
+the concrete building process due to increasing concerns regarding the environment and the need for preserving both 
+resources and energy [18]. RHA is composed of no crystalline SiO2 with high particular Surface area as well as high 
+pozzolanic reactivity. Because pozzolanos are finer than cement particles, they can fill the spaces between them to create 
+a finer porous structure, which increases strength. RHA is used during the manufacturing of concrete in two ways: first, 
+as a Portland cement alternative to lower the cost of concrete as well as produce low-cost structural components; and 
+second, as an additive to produce concrete with superior strength.  
+The permanent physical and chemical modification of soils to improve their physical characteristics is known as soil 
+stabilization. Many chemical additions, such as fly ash as shown in Fig. 2, can be used to do this, presented that appropriate 
+design and testing are carried out. The finely divided waste known as fly ash is carried out of the chamber of combustion 
+by exhaust gases after coal has been ground and burned. Plants that generate steam and electricity using coal also produce 
+fly ash. Usually, the boiler's combustion chamber is filled with crushed coal and air, which instantly ignites to produce 
+heat and a molten mineral deposit [19]. Heat is extracted from the boiler via boiler tubes, which cools the flue gas and 
+causes the molten mineral residue to solidify into ash. The more lightweight small ash particles, called fly ash, stay 
+suspended within the exhaust gas, while the coarser ash particles, called bottom ash or slag, sink to the bottom of the 
+chamber of combustion.  
+ 
+Fig. 2: Fly ash for soil stabilization 
+According to ASTM, both dry and wet sieving should be used to verify the fly ash's granularity. The proportion of fly ash 
+remaining on a 45-micron sieve after a sample is sieved through it is used to determine the fineness of the material [20-
+24]. The Lech atelier technique and the Blaine Specific Surface approach are further techniques for measuring fineness. 
+Fly ash has varying specific gravities; sub-bituminous ash has a low specific gravity of 1.90 and bituminous ash has a 
+high specific gravity of 2.96. The fly ash has a particle size that varies between 10 to 100 microns because it is a very tiny 
+substance. Its form is typically spherical.  
+2.2 Method 
+The Taguchi method is a Japanese engineering technique that aims to reduce noise and variance in order to improve the 
+quality of processes and products [25-29]. It includes designing tolerances, parameters, and systems. To determine 
+essential parameters, optimize the setting of parameters, and establish acceptable limits, the method makes use of 
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+3
+
+
+===== PAGE 4 =====
+
+statistical tools. It minimizes the susceptibility of the product to changes, enhancing quality, cutting expenses, and raising 
+customer satisfaction.  Engineering uses a variety of experimentation techniques to reduce trial runs and get dependable 
+findings. These consist of the Taguchi method, the factorial approach, and the classical plan. For complicated processes 
+without an analytical model, the classical plan is employed; for technically proven processes, the factorial technique 
+minimizes work [20]. The Taguchi approach reduces the effect of noise changes on performance by establishing a strong 
+link between performance and controllable variables. Taguchi specifies the signal to noise (S/N) ratio—which may be 
+expressed as follows—as the measure of quality features. 
+𝑆𝑁
+⁄
+= −10 log((
+1
+𝑛) ∑1
+𝑦2)   ; For higher is better. 
+ 
+Fig. 3: Steps involved in Taguchi Method 
+The Taguchi technique is a way to stabilize black cotton soil by maximizing the effects of fly ash and RHA together. Fig. 
+3 shows the steps involved in the Taguchi method, it entails setting an objective, figuring out the levels and contributing 
+elements, choosing an orthogonal array, running experiments, evaluating the response variable, assessing the outcomes, 
+choosing the best combination, and validating the findings. The objective is to increase compressive strength. Soil samples 
+are used for experiments, and the response variable is observed and recorded. Next, the best combination is identified, 
+and validated by the combination. 
+3. Experimental Procedure 
+In an effort to assess the efficacy of Rice Husk Ash (RHA) and Fly Ash as soil stabilizers, they were incorporated into 
+natural soil in various proportions. Fly Ash was added in increments of 10%, 20%, and 30%, while RHA was mixed in at 
+0%, 15%, and 30%. The specific mix ratios were determined using the Taguchi optimization technique within the Minitab 
+Software, which produced an L-9 orthogonal array as shown in Table 2, outlining the outcomes of the Taguchi Design of 
+Experiments (DOE). Based on the Taguchi analysis, nine samples labelled S1 to S9 were systematically prepared, 
+following which their unconfined compressive strength was measured. Subsequent regression analysis was conducted to 
+verify whether the identified optimized values indeed represented the most effective proportioning for soil stabilization. 
+Table 2: Design of experiment for sample preparation 
+Sample 
+RHA (%) 
+Fly Ash (%) 
+UCS (MPa) 
+S1 
+0 
+10 
+5.8 
+S2 
+0 
+20 
+6.2 
+S3 
+0 
+30 
+6.5 
+S4 
+15 
+10 
+7.2 
+S5 
+15 
+20 
+7.6 
+S6 
+15 
+30 
+8.2 
+S7 
+30 
+10 
+7.5 
+S8 
+30 
+20 
+7.6 
+S9 
+30 
+30 
+7.3 
+ 
+Defining the 
+problem
+Identifying 
+noise factors 
+Selecting 
+response 
+variables 
+Selection of 
+factrs and 
+their levels 
+Selecting of 
+the 
+orthogonal 
+array
+Conducting 
+the matrix 
+experiments
+Assessment of 
+the data and 
+prediction of 
+optimum level 
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+4
+
+
+----- TABLE p4#1 -----
+
+Sample | RHA (%) | Fly Ash (%) | UCS (MPa)
+S1 | 0 | 10 | 5.8
+S2 | 0 | 20 | 6.2
+S3 | 0 | 30 | 6.5
+S4 | 15 | 10 | 7.2
+S5 | 15 | 20 | 7.6
+S6 | 15 | 30 | 8.2
+S7 | 30 | 10 | 7.5
+S8 | 30 | 20 | 7.6
+S9 | 30 | 30 | 7.3
+
+===== PAGE 5 =====
+
+ 
+Fig. 4: Uncompressed strengths of prepared samples  
+The results of an experiment evaluating the impact of varying percentages of Rice Husk Ash (RHA) and Fly Ash on the 
+Unconfined Compressive Strength (UCS) of soil samples shown in fig. 4. Samples S1 to S3, with no RHA, show a 
+progressive increase in UCS as the percentage of Fly Ash increases from 10% to 30%, indicating that Fly Ash alone can 
+enhance soil strength. Samples S4 to S6, which include 15% RHA, exhibit a further increase in strength across all Fly 
+Ash proportions, with the highest UCS of 8.2 MPa at 30% Fly Ash. In contrast, samples S7 to S9 with 30% RHA display 
+a peak UCS of 7.6 MPa at 20% Fly Ash, but a decrease in strength at 30% Fly Ash, suggesting an optimal RHA and Fly 
+Ash combination exists for maximizing soil strength. 
+4 Regression Analysis 
+Regression analysis produces the regression equation, which is a crucial product that is utilized to forecast and 
+comprehend the relationship between variables. In this study regression analysis is conducted for both RHA and Fly Ash. 
+Regression analysis gives three residual plots, which support the hypothesis that the residuals are regularly distributed. 
+By plotting the residuals against a hypothetical normal distribution, the "Normal Probability Plot" illustrates normality. 
+Plotting the residuals versus fitted values, or "Versus Fits" plot, indicates consistent variance. The residuals' independence 
+is evaluated in relation to the sequence of data collection using the "Versus Order" graph. The "UCS" response variable 
+seems to have been modeled in a way that upholds the normality criteria. However, this evaluation is basically an estimate 
+that utilizes no experiments or measurements. 
+ 
+4.1 Regression Equation for RHA 
+The formula uses three distinct levels of rice husk ash (RHA) to predict unconfined compressive strength (UCS). It is a 
+linear model. When all RHA factors are at their baseline level, the intercept is "7.100". "-0.933", "0.567", and "0.367" are 
+the coefficients that indicate the anticipated variation in UCS in relation to the RHA baseline. Positive coefficients for 
+"rha_15" and "rha_30" show an increase in UCS, whereas negative coefficients for "rha_0" suggest a decreasing trend.  
+UCS 
+= 
+7.100 - 0.933 rha_0 + 0.567 rha_15 + 0.367 rha_30 
+ 
+(a) 
+ 
+(b) 
+5.8
+6.2
+6.5
+7.2
+7.6
+8.2
+7.5
+7.6
+7.3
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+S1
+S2
+S3
+S4
+S5
+S6
+S7
+S8
+S9
+UCS (MPA)
+SAMPLES
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+5
+
+
+----- TABLE p5#1 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 6 =====
+
+ 
+(c) 
+Fig. 5: Plots for RHA (a) Normal Probability plot for UCS (b) Versus fit for UCS (c) Versus Orders for UCS 
+The figure 5 (a) describes the normal probability distribution plot for UCS when RHA is used in different percentages. 
+The residuals are distributed close to the line The figure 5 (b) shows the residul vs fits graphs where there is uniform 
+distribution accros the zero line. The figure 5 (c) is the reisdual vs order plot for the UCS with RHA which depicts that 
+the distirbution is random and therefore the data is reasonable. 
+4.2 Regression Equation for Fly Ash 
+Unconfined Compressive Strength (UCS) is predicted by the equation, which is a linear regression model, depending on 
+the amount of flyash injected to the material. When there is no fly ash added or when all fly ash factors are at their 
+reference level, the intercept shows the predicted value of UCS. The predicted change in UCS for every rise in flyash 
+percentage is shown by the coefficients for each flyash term. For instance, adding 10% flyash results in a 0.267-unit 
+decrease in UCS, 20% flyash in a 0.033-unit rise, and 30% flyash in a 0.233-unit increase. With this model, UCS 
+predictions determined by flyash percentages are feasible. 
+UCS 
+= 
+7.100 - 0.267 flyash_10 + 0.033 flyash_20 + 0.233 flyash_30 
+ 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+Fig. 6: Plots for Fly Ash (a) Normal Probability plot for UCS (b) Versus fit for UCS (c) Versus Orders for UCS 
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+6
+
+
+===== PAGE 7 =====
+
+The figure 6 (a) describes the normal probability distribution plot for UCS when fly ash is used in different percentages. 
+The residuals are distributed close to the line. The figure 6 (b) shows the residul vs fits graphs where there is uniform 
+distribution accros the zero line. The figure 6 (c) is the reisdual vs order plot for the UCS which depicts that the distirbution 
+is random and therefore the data is reasonable. 
+ 
+(a) 
+ 
+(b) 
+Fig. 7: Plots for means and S./N ratio (a) Main Effect plot of RHA and Fly Ash for Means (b) Main Effect plot of RHA 
+and Fly Ash for signal to noise ratio 
+This study investigates the effects of fly ash and rice husk ash on signal-to-noise (S/N) ratios and unconfined compressive 
+strength (UCS). The first plot in Fig. 7(a) demonstrates how RHA rises UCS at first, reaching a peak at 15%, and then 
+falls at 30%. The fly ash trend in the second plot in Fig. 7(b) is linear, with greater percentages indicating a positive 
+correlation. While fly ash consistently improves S/N ratios and UCS, the data indicate that there is an optimal amount of 
+RHA for boosting UCS. This shows that large quantities of fly ash usually result in better power and standard 
+outcomes. 
+5 Conclusion 
+Research on the stabilization of expansive soils the use of fly ash and rice husk ash has proven promise for enhancing the 
+difficult soils' engineering traits. The outcomes display a wonderful trend of stronger soil following the addition of fly 
+ash and RHA, it also indicates that these materials can alleviate the bad effects of moisture on expansive soils. 
+  
+a) In order to increase soil power, a mixture of 15% RHA to 30% fly ash determined to be the only adequate, 
+demonstrating the capacity of these waste products to provide extra sturdy and solid building foundations. 
+Regression analysis showed the effectiveness of the results and highlighted the methodological approach that 
+the Taguchi optimization method presented in figuring out the top-rated blend ratios. 
+b) A mixture of 15% RHA and 30% fly ash is suitable for substantial foundations for systems. The regression 
+technique substantiates the efficacy of the effects. The Taguchi optimization technique offers a methodical 
+method to determine a appropriate aggregate of RHA and fly ash. 
+c) Making use of fly ash and rice husk ash to stabilize soils this study proves that mixing fly ash and rice husk ash 
+with soils improves the engineering features of soils. These additions lower the effect of moisture content 
+material via stabilizing the soil. 
+References 
+[1] Murmu, Anant Lal, and A. Patel. "Studies on the properties of fly ash–rice husk ash-based geopolymer for use 
+in black cotton soils." International Journal of Geosynthetics and Ground Engineering 6 (2020): 1-14. 
+[2] Swarna, K. S. V., Vinayagam, A., Ananth, M. B. J., Kumar, P. V., Veerasamy, V., & Radhakrishnan, P. (2022). 
+A KNN based random subspace ensemble classifier for detection and discrimination of high impedance fault in 
+PV integrated power network. Measurement, 187, 110333. 
+[3] Singhai, Anil Kumar, and Sudhanshu Shekhar Singh. "Laboratory study on soil stabilization using fly ash and 
+rice husk ash." International Journal of Research in Engineering and Technology 3.11 (2014). 
+[4] Manohar, T., Prashantha, S. C., Nagaswarupa, H. P., Naik, R., Nagabhushana, H., Anantharaju, K. S., ... & 
+Premkumar, H. B. (2017). White light emitting lanthanum aluminate nanophosphor: near ultra violet excited 
+photoluminescence and photometric characteristics. Journal of Luminescence, 190, 279-288. 
+[5] Kumar, Ashish, Ravindra Singh Rana, Rajesh Purohit, Anurag Namdev, and Kuldeep K. Saxena. "Optimization 
+of dry sliding wear behavior of Si3N4 and Gr reinforced Al–Zn–Mg–Cu composites using taguchi method." 
+Journal of Materials Research and Technology 19 (2022): 4793-4803. 
+[6] Fattah, M. Y., Rahil, F. H., & Al-Soudany, K. Y. (2013). Improvement of clayey soil characteristics using rice 
+husk ash. Journal of Civil Engineering and Urbanism, 3(1), 12-18. 
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+7
+
+
+===== PAGE 8 =====
+
+[7] Pushpakumara, B. H. J., and W. S. W. Mendis. "Suitability of Rice Husk Ash (RHA) with lime as a soil stabilizer 
+in geotechnical applications." International Journal of Geo-Engineering 13.1 (2022): 4. 
+[8] Subrahmanyam, M. S., Lee Lih Cheran, and Lee So Cheran. "Use of rice husk ash for soil stabilization." (1981). 
+[9] Vattimalla, Vishal, and Rajesh Sandela. "A COMPARATIVE STUDY OF SOIL STABILIZATION USING 
+FLY ASH AND RICE HUSK ASH." engineering construction 8.7 (2021). 
+[10] Mohammed, Kahtan A., Kareema M. Ziadan, Alaa S. Al-Kabbi, Kuldeep K. Saxena, Rahman S. Zabibah, Ali 
+Jawad Alrubaie, and Jalal Hasan Mohammed. "Optical, morphological, electrical properties and white light 
+photoresponse of CdSe nanoparticles." Advances in Materials and Processing Technologies 8, sup4 (2022): 
+2289-2298. 
+[11] Brooks, R. M. (2009). Soil stabilization with flyash and rice husk ash. International journal of research and 
+reviews in applied sciences, 1(3), 209-217. 
+[12] Srilatha, N., and B. R. Praveen. "Stabilization of soil using rice husk ash and fly ash." Problematic Soils and 
+Geoenvironmental Concerns: Proceedings of IGC 2018. Singapore: Springer Singapore, 2020. 517-524. 
+[13] Murmu, Anant Lal, and A. Patel. "Studies on the properties of fly ash–rice husk ash-based geopolymer for use 
+in black cotton soils." International Journal of Geosynthetics and Ground Engineering 6 (2020): 1-14. 
+[14] Tripathi, G. P., Agarwal, S., Awasthi, A., & Arun, V. (2022, August). Artificial Hip Prostheses Design and Its 
+Evaluation by Using Ansys Under Static Loading Condition. In Biennial International Conference on Future 
+Learning Aspects of Mechanical Engineering (pp. 815-828). Singapore: Springer Nature Singapore. 
+[15] Awasthi, A., Saxena, K. K., & Arun, V. (2021). Sustainable and smart metal forming manufacturing process. 
+Materials Today: Proceedings, 44, 2069-2079. 
+[16] Phanikumar, B. R., and T. V. Nagaraju. "Effect of fly ash and rice husk ash on index and engineering properties 
+of expansive clays." Geotechnical and Geological engineering 36.6 (2018): 3425-3436. 
+[17] Hasan, Muzamir, Muhammad Syamsul Imran Zaini, Ling Sin Yie, Khairil Azman Masri, Ramadhansyah Putra 
+Jaya, Masayuki Hyodo, and Michael James Winter. "Effect of optimum utilization of silica fume and eggshell 
+ash to the engineering properties of expansive soil." journal of materials research and technology 14 (2021): 
+1401-1418. 
+[18] Gupta, Akash, K. K. Saxena, Ajaya Bharti, Jayahari Lade, Kanwal Chadha, and Prudvi Reddy Paresi. "Influence 
+of ECAP processing temperature and number of passes on hardness and microstructure of Al-6063." Advances 
+in Materials and Processing Technologies 8, sup3 (2022): 1635-1646. 
+[19] Yadu, L., Tripathi, R. K., & Singh, D. (2011). Comparison of fly ash and rice husk ash stabilized black cotton 
+soil. International Journal of Earth Sciences and Engineering, 4(6), 42-45. 
+[20] Srinivasan, K., Porkumaran, K., & Sainarayanan, G. (2009, August). Improved background subtraction 
+techniques for security in video applications. In 2009 3rd International Conference on Anti-counterfeiting, 
+Security, and Identification in Communication (pp. 114-117). IEEE. 
+[21] Bhojak, Vishal, Jayahari Lade, Jinesh Kumar Jain, Amar Patnaik, and Kuldeep Kumar Saxena. "Investigation of 
+annealing on CR-2 grade steel using Taguchi and Taguchi based gray relational analysis." Advances in Materials 
+and Processing Technologies 8, sup4 (2022): 2231-2246. 
+[22] Hamid, Wagdi, and Ahmed Alnuaim. "Sustainable geopolymerization approach to stabilize sabkha soil." Journal 
+of Materials Research and Technology 24 (2023): 9030-9044. 
+[23] Ashwini, S., Prashantha, S. C., Naik, R., & Nagabhushana, H. (2019). Enhancement of luminescence intensity 
+and spectroscopic analysis of Eu3+ activated and Li+ charge-compensated Bi2O3 nanophosphors for solid-state 
+lighting. Journal of Rare Earths, 37(4), 356-364. 
+[24] Kumar, C. P., Raghu, M. S., Prathibha, B. S., Prashanth, M. K., Kanthimathi, G., Kumar, K. Y., ... & Alharthi, 
+F. A. (2021). Discovery of a novel series of substituted quinolines acting as anticancer agents and selective 
+EGFR blocker: Molecular docking study. Bioorganic & Medicinal Chemistry Letters, 44, 128118. 
+[25] Alkorbi, A. S., Kumar, K. Y., Prashanth, M. K., Parashuram, L., Abate, A., Alharti, F. A., ... & Raghu, M. S. 
+(2022). 
+Samarium 
+vanadate 
+affixed 
+sulfur 
+self 
+doped 
+g-C3N4 
+heterojunction; 
+photocatalytic, 
+photoelectrocatalytic hydrogen evolution and dye degradation. International Journal of Hydrogen 
+Energy, 47(26), 12988-13003. 
+[26] Tyagi, Rashi, Alok Kumar Das, Amitava Mandal, Kuldeep Kumar Saxena, and Ashutosh Tripathi. "Hydrophobic 
+properties and chemical state analysis of wear resistant coating prepared by electrical discharge process." 
+Proceedings of the Institution of Mechanical Engineers, Part E: Journal of Process Mechanical Engineering 
+(2022): 09544089221099240. 
+[27] Reddy, P. Venkateshwar, B. Veerabhadra Reddy, and P. Srinivasa Rao. "A numerical study on tube 
+hydroforming process to optimize the process parameters by Taguchi method." Materials Today: Proceedings 5, 
+11 (2018): 25376-25381. 
+[28] Phanikumar, B. R., & Nagaraju, T. V. (2018). Effect of fly ash and rice husk ash on index and engineering 
+properties of expansive clays. Geotechnical and Geological engineering, 36(6), 3425-3436. 
+[29] Munda, S., Nayak, A. K., Mishra, P. N., Bhattacharyya, P., Mohanty, S., Kumar, A., ... & Thilagam, V. K. 
+(2016). Combined application of rice husk biochar and fly ash improved the yield of lowland rice. Soil Research, 
+54(4), 451-459. 
+ 
+ 
+  
+ 
+ 
+ 
+, 01012 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202450701012
+ 
+507
+ICFTEST-2024
+8

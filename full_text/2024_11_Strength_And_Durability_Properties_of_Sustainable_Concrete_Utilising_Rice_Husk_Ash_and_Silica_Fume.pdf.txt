@@ -1,0 +1,764 @@
+
+===== PAGE 1 =====
+
+ 
+Strength 
+And 
+Durability 
+Properties 
+of 
+Sustainable Concrete Utilising Rice Husk Ash 
+and Silica Fume 
+Premkumar R1*, Keerthick Balaji S1, Balaveeradurai1, Velraja P1 and Jayakanth1 
+1Department of Civil Engineering, Kalasalingam Academy of Research and Education, Krishnankoil, 
+Tamil Nadu, India. 
+Abstract. Supplemental cementitious material has been commonly added 
+to concrete in recent years. By replacing some of the Ordinary Portland 
+Cement (OPC) in concrete with cementitious elements like fly ash and 
+silica fume, the mechanical properties of the mixture can be enhanced. 
+There is an impending fly ash shortage in Arkansas because to nearby coal 
+plant businesses. The possible use of rice husk ash (RHA) to replace 
+cementitious materials has been investigated in this study. RHA is a waste 
+product that is produced during agricultural processes. Due to its elevated 
+silica content, it can be used as cementitious materials. In this 
+investigation, concrete was modified to partially replace Ordinary Portland 
+Cement using silica fume (0 to 20%) and RHA (0 to 30 %) at different 
+percentages. In this investigation, a Class C fly ash that is often utilised 
+locally was also included for comparison analysis with concrete specimens 
+modified with RHA and silica fume. Both the fresh concrete mix's and 
+hardened concrete's mechanical characteristics were ascertained through 
+laboratory testing. The durability of the material will be improved, and the 
+quantity of cement required will be reduced by the addition of silica fume 
+and RHA to concrete. This includes improvements in water absorption, 
+sorpitivity, effective porosity, permeability, acid resistance, and resistance 
+to fast chloride penetration. Nevertheless, the incorporation of silica fume 
+and RHA in concrete leads to an elevation in water demands in comparison 
+to the standard regular Portland cement mixture.  
+1 Introduction 
+ 
+Cement manufacture, especially the clinker formation process, releases a large amount 
+of CO2 into the atmosphere and uses a lot of energy, which exacerbates the greenhouse 
+effect and contributes to global warming. As an additional cementitious ingredient, fly ash 
+and granulated blast furnace slag, two byproducts of agricultural and industrial activities, 
+help reduce environmental issues. A reduction in cement manufacturing leads to a drop in 
+energy usage and carbon dioxide emissions. In addition to this, the mechanical qualities of 
+concrete mixtures are improved by these chemicals, and the resistance to penetration is also 
+increased. A significant portion of amorphous SiO2 is present in siliceous materials 
+                                                 
+* Corresponding author: prem.ce@gmail.com  
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+ 
+ 
+© The Authors, published by EDP Sciences. This is an open access article distributed under  the terms of the Creative
+Commons Attribution License 4.0 (https://creativecommons.org/licenses/by/4.0/). 
+
+
+===== PAGE 2 =====
+
+including rice husk ash (RHA) and silica fume (SF). When these components are integrated 
+into cement matrices, they exhibit chemical reactions that are analogous to one another. 
+Cement-based products gain strength due to their heightened reactivity, resulting from 
+pozzolanic interactions with calcium hydroxide produced during cement hydration. 
+The addition of silica fume and rice husk ash to concrete results in enhanced durability, 
+increased strength, reduced permeability, and improved workability. To achieve these 
+benefits, these materials can be included in concrete mixtures as partial replacements for 
+cement. Because silica fume particles are so small, they can fill in the gaps left by cement 
+particles, making concrete that is more compact and less porous. Conversely, rice husk ash 
+includes active silica, which can enhance the overall effectiveness of concrete mixtures. 
+Because they have both shown to increase the durability and life of concrete, rice husk ash 
+and silica fume are useful additions to building projects. Moreover, the inclusion of these 
+elements in concrete mixtures can further promote sustainable practices by making use of 
+waste materials from other industries. This not only diminishes the ecological footprint of 
+construction projects but also aids in the preservation of natural resources for future 
+generations. In summary, incorporating silica fume and rice husk ash into concrete mixtures 
+can result in the construction of more robust and long-lasting structures that are also eco-
+friendly. By integrating these materials, construction projects can simultaneously realise 
+enhancements in performance and meet environmental objectives. 
+ 
+The by-product of smelting ferrosilicon or metallic silicon in an electric arc furnace is 
+silica fume (SF), a finely divided non-crystalline silica used in the alloys industry. High-
+purity quartz undergoes a reduction to silicon at very high temperatures during the process, 
+producing SiO2 vapours that oxidise and condense into small particles that contain 85%–
+99% amorphous silica [1-4]. These particles have approximately spherical forms and 
+typically have diameters between 20 and 500 nm. The estimated yearly production of SF 
+worldwide is one to 1.5 million tonnes. SF-containing concrete is well known for being 
+stronger and more resilient than regular Portland cement concrete, especially in sulfate-rich 
+regions. 
+ 
+The residue that remains after burning rice husks the outer shells of paddy rice that are 
+removed during husking is known as rice husk ash (RHA). One tonne of paddy rice burns 
+to about 40 kg of ash. This ash is made when ortho silicic acid from groundwater is 
+ingested by rice plants and polymerizes to form amorphous silica in the husks. Organic 
+molecules burn to produce carbon dioxide, leaving silica behind in the ash[5]. The main 
+component of RHA is silicon dioxide (SiO2) generated from biomass, and the silica 
+properties of the material are greatly influenced by the processing conditions. Cristobalite 
+and tridymite, two less reactive crystalline silica minerals, are frequently found in ash from 
+uncontrolled combustion, whereas burning RHA between 500 and 700 °C produces the 
+largest amount of amorphous silica [6]. Because of its porous particle structure and high 
+amorphous silica content, RHA has a wide surface area that contributes to its reactivity. 
+Finer ash further enhances reactivity. RHA is a pozzolanic substance that can replace up to 
+15% of Portland cement; fine RHA, in particular, can reduce mortar porosity and improve 
+compressive strength. RHA also increases the longevity of concrete by fortifying it against 
+sulphate degradation, water permeability, and chloride ion penetration.  
+ 
+In recent years, there has been a substantial increase in the attention given to the 
+utilisation of ecologically friendly components, such as rice husk ash (RHA) and silica 
+fume (SF), in the production of concrete. In their study, Zareei et al. (2017) determined that 
+the most effective amounts of SF and RHA to substitute cement in pastes and concretes 
+were 10% by weight. The strength of the concretes was unaffected by the addition of up to 
+30% of SF or 15% of ground RHA, despite the fresh mixtures showing a noticeable 
+reduction in slump. According to these results, concrete's mechanical properties can be 
+positively impacted by using both SF and RHA as partial cement substitutes [7]. Xu et al. 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+2
+
+
+===== PAGE 3 =====
+
+(2016) presented further evidence supporting this finding by demonstrating that RHA may 
+be utilised as a replacement for cement in concrete, within a range of 10% to 20%, without 
+any adverse impact on its performance. The significant pozzolanic characteristics of RHA 
+are responsible for this outcome. In addition, Bheel et al. (2020) found that the compressive 
+strength of concrete containing rice husk ash (RHA) was higher than that of regular 
+concrete, suggesting that RHA has a beneficial effect on the durability characteristics of 
+concrete [4]. In addition, Sahoo et al. (2021) emphasised that incorporating SF and RHA 
+into concrete resulted in a substantial improvement in its compressive strength, splitting 
+tensile strength, and flexural strength. The researchers discovered that substituting 50% of 
+SF led to an optimal blend, resulting in a notable enhancement in compressive strength and 
+water absorption resistance when compared to the control combination. [6]. According to 
+Das et al. (2020), the use of 10% total cementitious materials (5% RHA and 5% SF) 
+resulted in a considerable enhancement of concrete's compressive strength, splitting tensile 
+strength, and flexural strength by 12.65%, 9.40%, and 9.46% respectively after 28 days. 
+These findings indicate that the simultaneous application of RHA and SF can result in 
+substantial enhancements in the mechanical characteristics of concrete.[9]. Overall, the 
+findings from the literature review suggest that concrete incorporating RHA and SF has the 
+potential to meet the strength and durability requirements of construction materials while 
+offering environmental benefits through the use of sustainable materials[10-14]. However, 
+further research is needed to fully explore the optimal utilization of RHA and SF in 
+concrete mixtures and their long-term performance in various environmental conditions. 
+2 Materials  
+2.1 Binding Materials  
+ 
+For the preparation of the specimens in this investigation, silica fume and regular 
+Portland cement grade 43 were utilised. The cement's specific gravity, consistency, and first 
+setting time were determined to be 3.215 and 31%, respectively. When compared to other 
+concrete admixtures, silica fume is often regarded as one of the most effective ones for 
+regular cement concrete. The objective of this experiment was to improve the compressive 
+strength of concrete by substituting 0 to 20% of conventional Portland cement with silica 
+fume. 
+ 
+In this study, Portland cement is replaced by silica fume and RHA. Table 1 displays the 
+physical characteristics of the binders, as determined through an assessment conducted in 
+compliance with the Indian Standard IS 4031. The experimental materials used in this 
+study, silica fume and RHA, have larger particle sizes and higher specific surface areas 
+compared to Portland cement, as indicated by their physical characteristics. Silica fume has 
+a specific surface area of 200 m2/kg and a particle size of 10 μm, while RHA has a specific 
+surface area of 170 m2/kg and a particle size of 25 μm. In contrast, Portland cement has a 
+specific surface area of 320 m2/kg and a particle size ranging from 65 to 90 μm. Comparing 
+these results to Portland cement, they show that both silica fume and RHA are highly 
+refined and do not have a crystalline structure. Furthermore, compared to Portland cement, 
+the specific gravities of the binders show that silica fume and RHA have lower weight 
+densities.  
+ 
+ 
+ 
+ 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+3
+
+
+===== PAGE 4 =====
+
+Table 1. Physical properties of binding materials. 
+S.No 
+Property 
+OPC 
+SF 
+RHA 
+1 
+Specific Gravity 
+3.215 
+2.2 
+2.2 
+2 
+ParticalSize (micron) 
+65-90 
+10 
+25 
+3 
+Specific surface (m2/kg) 
+320 
+200 
+170 
+4 
+Initial Setting Time (min) 
+40 
+- 
+- 
+5 
+Final Setting Time (min) 
+520 
+- 
+- 
+6 
+Consistency 
+31% 
++- 
+- 
+2.2 Fine Aggregate  
+ 
+The fine aggregate used was locally sourced sand that met the IS 383 zone II standards. 
+It was carefully sieved using a 4.75 mm screen to ensure it was free from silt and organic 
+debris. The specific gravity of sand, which is 2.65, was utilised. Table 2 provides 
+information regarding the physical characteristics of the fine aggregate. 
+Table 2. Physical properties of Fine and Coarse Aggregate. 
+S.No 
+Property 
+Fine Aggregate 
+Coarse Aggregate 
+1 
+Water Absorption 
+1.52% 
+0.35% 
+2 
+Particle Shape 
+Rounded 
+Irregular 
+3 
+Fineness Modulus 
+2.65 
+6.35 
+4 
+Specific Gravity 
+2.65 
+2.657 
+2.3 Coarse Aggregate  
+ 
+The natural coarse aggregate has a specific gravity of 2.657 and a maximum size of 
+12.5 mm. It passes through a 4.75 mm screen and is retained. Table 2 shows the physical 
+attributes of the natural coarse aggregate. 
+3 Concrete mix proportions 
+ 
+In this experiment, an attempt is made to produce high strength concrete M30 utilising 
+silica fume and RHA. Six distinct mixes—one of which serves as a control—are created for 
+experimental investigations. RHA is intended to replace Portland cement in other concrete 
+mixtures by 30%. The group designed four concrete mixes by replacing 30% of silica fume 
+with RHA and substituting 5%, 10%, 15%, and 20% of Portland cement. As a result, the 
+aggregates were assumed to be surface saturated dry for calculating the material quantities. 
+Table 3 displays the specifics of the material quantities determined for each of the six 
+concrete mixes along with their mix names. Once the concrete was poured into the moulds, 
+it was thoroughly compacted using a table vibrator. After being removed from the mould, 
+the specimens were placed in a curing tank for the purpose of curing. The investigation 
+involved casting specimens for the compression test, flexure test, and split tensile strength 
+tests, as seen in Figure 1. Subsequently, these specimens were kept for a duration of 28 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+4
+
+
+----- TABLE p4#1 -----
+
+S.No | Property | OPC | SF | RHA
+1 | Specific Gravity | 3.215 | 2.2 | 2.2
+2 | ParticalSize (micron) | 65-90 | 10 | 25
+3 | Specific surface (m2/kg) | 320 | 200 | 170
+4 | Initial Setting Time (min) | 40 | - | -
+5 | Final Setting Time (min) | 520 | - | -
+6 | Consistency | 31% | +- | -
+
+----- TABLE p4#2 -----
+
+S.No | Property | Fine Aggregate | Coarse Aggregate
+1 | Water Absorption | 1.52% | 0.35%
+2 | Particle Shape | Rounded | Irregular
+3 | Fineness Modulus | 2.65 | 6.35
+4 | Specific Gravity | 2.65 | 2.657
+
+===== PAGE 5 =====
+
+days in order to undergo the process of curing. Following this period, their individual 
+strengths were assessed. The durability characteristics of high-strength concrete containing 
+silica fume and RHA are evaluated by examining and comparing the specific water 
+sorptivity and chloride particle penetration. [15-17]. 
+ 
+ 
+ 
+ 
+ 
+Fig. 1. Casting and curing of specimen. 
+Table 3. Mix proportion for  normal ordinary portland cement. 
+Mix Id 
+Cement 
+kg/m3 
+Silica 
+fume 
+kg/m3 
+RHA 
+kg/m3 
+Sand 
+kg/m3 
+Natural 
+Aggregate 
+kg/m3 
+Water 
+kg/m3 
+M1 
+400 
+- 
+- 
+762.244 
+984.68 
+160 
+M2 
+280 
+- 
+120 
+762.244 
+984.68 
+160 
+M3 
+260 
+20 
+120 
+762.244 
+984.68 
+160 
+M4 
+240 
+40 
+120 
+762.244 
+984.68 
+160 
+M5 
+220 
+60 
+120 
+762.244 
+984.68 
+160 
+M6 
+200 
+80 
+120 
+762.244 
+984.68 
+160 
+ 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+5
+
+
+----- TABLE p5#1 -----
+
+Mix Id | Cement
+kg/m3 | Silica
+fume
+kg/m3 | RHA
+kg/m3 | Sand
+kg/m3 | Natural
+Aggregate
+kg/m3 | Water
+kg/m3
+M1 | 400 | - | - | 762.244 | 984.68 | 160
+M2 | 280 | - | 120 | 762.244 | 984.68 | 160
+M3 | 260 | 20 | 120 | 762.244 | 984.68 | 160
+M4 | 240 | 40 | 120 | 762.244 | 984.68 | 160
+M5 | 220 | 60 | 120 | 762.244 | 984.68 | 160
+M6 | 200 | 80 | 120 | 762.244 | 984.68 | 160
+
+===== PAGE 6 =====
+
+4 Result and discussion 
+4.1 Compressive Strength  
+ 
+The Figure 2 demonstrates the significant impact of substituting silica fume and RHA 
+on the compressive strength of concrete at 7 and 28 days. After a period of 28 days, the 
+compressive strength of M1 was measured to be 31.6 N/mm2. In comparison, the concrete 
+mixes for M2, M3, M4, M5, and M6, which contained different percentages of silica fume 
+and RHA, had compressive strengths of 33 N/mm2, 34 N/mm2, 38 N/mm2, 42 N/mm2, and 
+40 N/mm2 respectively. After thorough examination, it was seen that the compressive 
+strength of the specimens rose proportionally with the level of substitution of the binding 
+substance. On the other hand, there was an increase in compressive strength when thirty 
+percent of the binding material was substituted with RHA. It was discovered that the 
+compressive strength of every single concrete mix was higher than the specified strength 
+value, with the exception of the mixes that had considerable amounts of silica components.. 
+ 
+ 
+Fig. 2. Compressive Strength of Concrete 
+ 
+4.2 Split Tensile Strength  
+ 
+Figure 3 result shows that adding more replacement binding elements with a high silica 
+content to the concrete mix enhanced the fraction of splitting tensile strength. High strength 
+concrete's pozzolanic action is often increased by adding silica fume. It prompted us to 
+improve each and every mechanical characteristic of high-strength concrete. 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+M1
+M2
+M3
+M4
+M5
+M6
+Compressive Strength in N/mm2 
+Concrete Mix ID 
+7 DAYS
+28  DAYS
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+6
+
+
+===== PAGE 7 =====
+
+ 
+Fig. 3. Split Tensile Strength of Concrete 
+4.3 Flexural Strength  
+Figure 4 displays the flexural strength over a period of 28 days for different levels of 
+substitution of silica fume and RHA. These data indicate that the level of strength 
+enhancement in both Silica fume based and rice husk ash -based concrete increases as time 
+progresses. This demonstrates a gradual reaction involving pozzolanic materials, and the 
+obtained results closely align with the findings of an initial literature review. When the 
+effectiveness of Silica fume and rice husk ash increasing strength at various ages is 
+compared, it becomes clear that the concrete mixes based on SF exhibit superior strength 
+increase at 28 days. With a longer curing time, RHA increases the cement's rate of 
+hydration in the concrete. It is discovered that at later ages, the strengths of concrete are 
+enhanced similarly by the actions of SF and RHA. 
+ 
+Fig. 4. Flexural Strength of Concrete 
+0
+1
+2
+3
+4
+5
+6
+7
+M1
+M2
+M3
+M4
+M5
+M6
+Split tensile Strength in N/mm2 
+Concrete Mix ID 
+7 DAYS
+28  DAYS
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+M1
+M2
+M3
+M4
+M5
+M6
+Flexural Strength in N/mm2 
+Concrete Mix ID 
+7 DAYS
+28  DAYS
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+7
+
+
+===== PAGE 8 =====
+
+4.4 Rapid Chloride Permeablity Test  
+The Rapid Chloride Permeability Test (RCPT) is conducted on a solid sample, as shown 
+in Figure 5, which is either 50 mm or 100 mm thick. The test involves applying a 60 V DC 
+voltage for a duration of six hours, following the guidelines of the ASTM C1202 test. 
+Figure 4 depicts the arrangement of a 3.0% NaCl solution in one container and a 0.3 M 
+NaOH solution in the other container. The experiment's outcomes are presented in Table 4. 
+The concrete specimen utilised in this experiment was obtained during a 28-day period of 
+curing, and the presence of chloride passing through it serves as an indicator of the 
+material's permeability. The electric current is quantified by the equipment's showing, and 
+these quantifications are subsequently compared to the mandated standard values set by 
+ASTM C1202. 
+ 
+ 
+ 
+Fig. 5. Rapid Chloride Permeability Test 
+ 
+Table 4. Rapid Chloride Permeability. 
+S.No 
+Mix Id 
+Charge Pass  In 
+Coloumbs (C) 
+As Per ASTM 
+1 
+M1 
+2602 
+Moderate 
+2 
+M2 
+2402 
+Moderate 
+3 
+M3 
+2212 
+Moderate 
+4 
+M4 
+2102 
+Moderate 
+5 
+M5 
+2024 
+Moderate 
+6 
+M6 
+1815 
+LOW 
+ 
+4.5 Sorptivity  
+The extent of water infiltration is employed to assess the water permeability of concrete 
+blends. The study observed variations in water infiltration depth among different concrete 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+8
+
+
+----- TABLE p8#1 -----
+
+S.No | Mix Id | Charge Pass In
+Coloumbs (C) | As Per ASTM
+1 | M1 | 2602 | Moderate
+2 | M2 | 2402 | Moderate
+3 | M3 | 2212 | Moderate
+4 | M4 | 2102 | Moderate
+5 | M5 | 2024 | Moderate
+6 | M6 | 1815 | LOW
+
+===== PAGE 9 =====
+
+mixes at different stages of concrete maturity in shown fig.6. At the 28-day mark, it is seen 
+that the disparity in the depth of penetration for concrete mixes utilising SF and RHA is 
+quite comparable. Regardless of age, the depth of water infiltration reduces as the content 
+of SF or RHA increases. The reason for the decrease in penetration depth is the existence of 
+tiny particles in SF and RHA, which block the concrete's pores. On a microscopic level, the 
+density of the concrete mixes is increased as a result of the pozzolanic nature of SF/RHA, 
+which leads to the production of extra C-S-H within the mixture. The quantity of water that 
+the concrete specimen has absorbed through capillary action is measured by its sorptivity, 
+which is shown in table 5. In the concrete specimen's pore structure, it shows a negative 
+association with the degree of compactness. Because these two characteristics and the pore 
+structure of concrete are strongly correlated, it has been discovered that the water 
+permeability and the variation in sorptivity, or the S value, of concrete mixes that contain 
+either SF or RHA are very similar. 
+ 
+ 
+ 
+Fig. 6. Sorptivity  
+ 
+Table 5. Sorptivity Test. 
+ 
+S.No 
+Mix Id 
+Sorptivity x 10-6 mm/ 
+min0.5 
+Rate of Absorption I mm 
+1 
+M1 
+7.36 
+168.24 
+2 
+M2 
+6.72 
+148.25 
+3 
+M3 
+6.58 
+134.57 
+4 
+M4 
+5.48 
+125.60 
+5 
+M5 
+4.32 
+114.45 
+6 
+M6 
+3.82 
+102.28 
+ 
+ 
+ 
+ 
+ 
+ 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+9
+
+
+----- TABLE p9#1 -----
+
+S.No | Mix Id | Sorptivity x 10-6 mm/
+min0.5 | Rate of Absorption I mm
+1 | M1 | 7.36 | 168.24
+2 | M2 | 6.72 | 148.25
+3 | M3 | 6.58 | 134.57
+4 | M4 | 5.48 | 125.60
+5 | M5 | 4.32 | 114.45
+6 | M6 | 3.82 | 102.28
+
+===== PAGE 10 =====
+
+5 Conclusion  
+The According to the preliminary research on the effects of RHA in high strength 
+concrete with silica fume, the ensuing end may be suffocating.  
+ 
+ 
+The addition of silica fume to RHA concrete increases its flexural and 
+compressive strengths. 20% silica fume replacement lowers the compressive 
+strength.  
+ 
+The concrete matrix becomes denser as a result of silica fume, which increases its 
+ability to support loads and prevents cracking when loads are applied. 
+ 
+The concrete matrix's pores are filled with silica fume, which lowers the material's 
+permeability to water and harsh chemicals. 
+ 
+RHA concrete is more durable as a result of its reduced permeability, particularly 
+in areas where moisture intrusion or chemical attacks are common. 
+ 
+The interaction between silica fume and calcium hydroxide through the pozzolanic 
+reaction strengthens the concrete structure, enhancing its durability against 
+weathering and chemical corrosion. 
+Acknowledgment 
+The authors express their gratitude to the Kalasalingam Academy of Research and Education for 
+their essential assistance in casting and testing the concrete specimens for our project.. Their expertise 
+and dedication have greatly contributed to the success of our research. We are grateful for their 
+assistance in ensuring the quality and accuracy of our experimental data 
+References 
+1. 
+Abalaka, A. E.. (2013). Strength and Some Durability Properties of Concrete Containing Rice 
+Husk Ash Produced in a Charcoal Incinerator at Low Specific Surface. International Journal of 
+Concrete Structures and Materials , 7 , 287-293 . http://doi.org/10.1007/S40069-013-0058-8 
+2. 
+Sadrmomtazi, A.., Sobhani, J.., Mirgozar, M. A.., & Najimi, M.. (2012). Properties of multi-
+strength grade EPS concrete containing silica fume and rice husk ash. Construction and Building 
+Materials , 35 , 211-219 . http://doi.org/10.1016/J.CONBUILDMAT.2012.02.049 
+3. 
+Kathirvel, P.., Saraswathy, V.., Karthik, S.., & Sekar, A.. (2012). Strength and Durability 
+Properties of Quaternary Cement Concrete Made with Fly Ash, Rice Husk Ash and Limestone 
+Powder. 
+Arabian 
+Journal 
+for 
+Science 
+and 
+Engineering 
+, 
+38 
+, 
+589 
+- 
+598 
+. 
+http://doi.org/10.1007/s13369-012-0331-1 
+4. 
+Bheel, N.., Jokhio, M. A.., Abbasi, J. A.., Lashari, H.., Qureshi, M. I.., & Qureshi, A.. (2020). 
+Rice Husk Ash and Fly Ash Effects on the Mechanical Properties of Concrete. Engineering, 
+Technology 
+& 
+Applied 
+Science 
+Research 
+, 
+10 
+, 
+5402-5405 
+. 
+http://doi.org/10.48084/ETASR.3363 
+5. 
+Silva, S. R. Da., & Andrade, J. J. ... (2022). A Review on the Effect of Mechanical Properties 
+and Durability of Concrete with Construction and Demolition Waste (CDW) and Fly Ash in the 
+Production of New Cement Concrete. Sustainability . http://doi.org/10.3390/su14116740 
+6. 
+Sahoo, Smita., Parhi, P. K.., & Panda, Bikash Chandra. (2021). Durability properties of concrete 
+with silica fume and rice husk ash. , 2 , 100067 . http://doi.org/10.1016/J.CLET.2021.100067 
+7. 
+Zareei, S. A.., Ameri, Farshad., Dorostkar, Farzan., & Ahmadi, M.. (2017). Rice husk ash as a 
+partial replacement of cement in high strength concrete containing micro silica: Evaluating 
+durability and mechanical properties. Case Studies in Construction Materials , 7 , 73-81 . 
+http://doi.org/10.1016/J.CSCM.2017.05.001 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+10
+
+
+===== PAGE 11 =====
+
+8. 
+Xu, Weiting., Lo, T.., Wang, Wei-lun., Ouyang, D.., Wang, Penggang., & Xing, F.. (2016). 
+Pozzolanic Reactivity of Silica Fume and Ground Rice Husk Ash as Reactive Silica in a 
+Cementitious System: A Comparative Study. Materials , 9 . http://doi.org/10.3390/ma9030146 
+9. 
+Das, Shaswat Kumar., Singh, S.., Mishra, J.., & Mustakim, S.. (2020). Effect of Rice Husk Ash 
+and Silica Fume as Strength-Enhancing Materials on Properties of Modern Concrete—A 
+Comprehensive Review. , 253-266 . http://doi.org/10.1007/978-981-15-1404-3_21 
+10. Endale, Solomon Asrat., Taffese, W.., Vo, D.., & Yehualaw, M.. (2022). Rice Husk Ash in 
+Concrete. Sustainability . http://doi.org/10.3390/su15010137 
+11. Wang, D., Zhou, X., Fu, B., Zhang, L., 2018. Chloride ion penetration resistance of concrete 
+containing fly ash and silica fume against combined freezing-thawing and chloride attack. 
+Construct. Build. Mater. 169, 740–747. 
+12. Ahmed, A., Kamau, J., 2017. Performance of Rice Husk Ash Concrete in Sulfate Solutions. 
+Research & Development in Material Science. 
+13. Gowda T.S., Ranganath R. Utilization of Coal Fly ash and ultra fine additives in producing HPC: 
+Influence on early strength, flexural parameters and microstructure. Mater. Today Proc. 
+2020;32:677–685. doi: 10.1016/j.matpr.2020.03.188 
+14. Saha A.K., Sarker P.K. Potential alkali silica reaction expansion mitigation of ferronickel slag 
+aggregate by fly ash. Struct. Concr. 2018;19:1376–1386. doi: 10.1002/suco.201700273 
+15. Turk K., Kina C., Bagdiken M. Use of binary and ternary cementitious blends of F-Class fly-ash 
+and limestone powder to mitigate alkali-silica reaction risk. Constr. Build. Mater. 2017;151:422–
+427. doi: 10.1016/j.conbuildmat.2017.06.075 
+16. Nagrockienė D., Rutkauskas A. The effect of fly ash additive on the resistance of concrete to 
+alkali 
+silica 
+reaction. 
+Constr. 
+Build. 
+Mater. 
+2019;201:599–609. 
+doi: 
+10.1016/j.conbuildmat.2018.12.225 
+17. R. Premkumar, P. Hariharan, and S. Rajesh, "Effect of silica fume and recycled concrete 
+aggregate on the mechanical properties of GGBS based geopolymer concrete," Materials Today: 
+Proceedings, vol. 60, pt. 1, pp. 211-215, 2022. doi: 10.1016/j.matpr.2021.12.442 
+E3S Web of Conferences 559, 04045 (2024)
+ICSTCE 2024
+https://doi.org/10.1051/e3sconf/202455904045
+11

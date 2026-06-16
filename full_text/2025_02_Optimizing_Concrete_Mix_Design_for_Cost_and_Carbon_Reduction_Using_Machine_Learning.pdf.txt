@@ -1,0 +1,2090 @@
+
+===== PAGE 1 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ ISSN: 2785-2997  
+Available online at www.HEFJournal.org  
+Journal of  
+Human, Earth, and Future 
+Vol. 6, No. 2, June, 2025 
+ 
+ 
+ 
+293 
+Optimizing Concrete Mix Design for Cost and Carbon Reduction 
+Using Machine Learning 
+ 
+Angga T. Yudhistira 1 , Arief S. B. Nugroho 1* , Iman Satyarno 1 , Tantri N. Handayani 1 , 
+Malindu Sandanayake 2 , Rimba Erlangga 3, 4 , Jonathan Lianto 5, Alfa Rosyid Ernanto 1 
+1 Department of Civil and Environmental Engineering, Universitas Gadjah Mada, Sleman, Indonesia. 
+2 Institute of Sustainable Industries and Liveable Cities, Victoria University, Melbourne, VIC 3011, Australia. 
+3 Department of Computer Science and Electronics, Universitas Gadjah Mada, Sleman, Indonesia. 
+4 PT Fliptech Lentera Inspirasi Pertiwi, Indonesia. 
+5 PT Adhi Karya Persero Tbk, Indonesia. 
+Received 21 December 2024; Revised 11 May 2025; Accepted 16 May 2025; Published 01 June 2025 
+Abstract 
+Cement is the main component of concrete and one of the most significant contributors to carbon emissions. Reducing 
+cement use can significantly reduce global carbon emissions. This study aims to create an optimal concrete mixture of 
+cost and minimal carbon emissions, but the compressive strength meets the requirements. XGBoost Machine Learning 
+Algorithm is used to make predictions, and PSO is used to obtain the optimal mixture. The novelty of this study is the 
+presence of concrete age variables, determination of PSO parameter weights using stakeholder preference analysis of 
+construction in Indonesia with the AHP method, and validation of the PSO-recommended mixture using laboratory tests, 
+which is still rarely done. The research findings indicate that the ML model provides satisfactory prediction values with 
+an R2 value of 0.9043, root mean square error of 48.5147 and mean absolute percentage error of 0.0484. PSO results 
+show that cement reduction in concrete can be achieved with optimal use of admixture while reducing 1-3% costs and 7-
+10% carbon emissions. The research findings provide critical insights into the importance of using innovative techniques 
+to optimize sustainable concrete mixes, accelerating the market implementation of products with cost benefits. 
+Keywords: Concrete; Machine Learning; Strength Prediction; Carbon Reduction; Cost Reduction. 
+ 
+1. Introduction 
+The consequences of global warming have been witnessed in numerous regions of the country in Southeast Asia, 
+such as extreme heat, high air pollution, etc. Many efforts have been undertaken to reduce carbon emissions to 
+mitigate global warming, and construction is no exception. Globally, 30% to 40% of greenhouse gas (GHG) emissions 
+were caused by construction projects [1]. Concrete is the primary construction material used in the construction 
+industry, and over 50% of structural materials used worldwide are still made of concrete [2]. Roughly 5% to 7% of the 
+carbon emissions originate from cement manufacture, predominantly used in concrete materials [3]. Cement, the main 
+component of concrete, contributes the most to carbon emissions per ton, with an approximate value of 0.9 tons of 
+CO2/ton of concrete). Therefore, it is essential to investigate the possibilities of reducing cement in concrete while 
+maintaining compressive strength [4, 5]. 
+                                                          
+* Corresponding author: arief_sbn@ugm.ac.id 
+http://dx.doi.org/10. 28991/HEF-2025-06-02-04 
+ This is an open access article under the CC-BY license (https://creativecommons.org/licenses/by/4.0/). 
+© Authors retain all copyrights. 
+
+
+===== PAGE 2 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+294 
+ 
+Previous studies have extensively focused on replacing 100% cement in concrete and introducing novel concretes 
+like geopolymer concrete, an alternative to ordinary Portland Cement Concrete (OPC) [6]. However, issues on the 
+workability and economic value of geopolymer concrete still exist, limiting its broad usage within the construction 
+industry; often, the price of these geopolymers can be up to twice as high [7]. Despite a projected 44.64% GHG 
+reduction compared to OPC concrete, an optimization-based study conducted in Melbourne utilizing fly ash 
+geopolymer concrete showed reductions of GHG emissions and production costs could be in the range of 3.63%–
+41.57% and 23.80%–30.25% respectively [8]. 
+A different approach to reduce the requirement for cement and optimize the mix design is to create a low-carbon 
+composition by optimizing various additional components such as concrete admixture [9]. Optimization refers to 
+minimizing or maximizing a function within a specified set of feasible alternatives in a specific context. The tool 
+facilitates the comparison of different alternatives to select the most suitable option. Artificial intelligence (AI) 
+technology is among the many methods available for optimization. However, optimization using manual computations 
+is challenging when more extensive data sets are associated. AI is a popular option for performing complex modeling 
+tasks that include large amounts of data that are challenging to accomplish through manual computations. AI enables 
+the rapid generation of multiple iterations with high computational precision. Machine learning (ML) algorithms can 
+accurately forecast the compressive strength of cement-based materials with high accuracy and learning capacity [10, 
+11]. A study revealed that applying machine learning in mix design optimization could lead to a 10% decrease in 
+cement consumption, resulting in a corresponding 10% reduction in carbon emissions [12]. Another study utilized the 
+combination of gradient boosting (GB) and particle swarm optimization (PSO) to execute multi-objective optimization 
+on geopolymer concrete mix designs, which resulted in a production cost efficiency improvement that varied from 
+7.6% to 27%, as well as a significant reduction in carbon emission values from 77.3% to 81.3% [13]. It has also been 
+proven that many variations of concrete mixture composition can produce the same compressive strength, resulting in 
+different embodied carbon values, even for high compressive strength [9]. Another study in Korea utilized an 
+evolutionary algorithm (EA) to evaluate the effectiveness of a low-carbon concrete mix design system, revealing that 
+the optimal design reduced CO2 emissions by 4% and 7%, respectively [14]. Nevertheless, specific structural 
+components' optimal cost and eco-efficiency combinations may significantly differ [15]. 
+Another similar study utilized machine learning called gene expression programming (GEP) to forecast the 
+compressive strength of concrete. The study employed rice husk ash, ceramic waste powder, and glass waste powder 
+as alternative cement replacements with R-values of 0.95, 0.93, and 0.89 for training, testing, and validation, 
+respectively, demonstrating high accuracy and reliability in implementation [16]. Another study employed an artificial 
+neural network (ANN) to forecast self-compacting concrete (SCC) properties containing silica fume and fly ash at 
+varying stages of maturity, resulting in a correlation coefficient of 0.9835 [17]. Similarly, various ML algorithms, 
+which included ANN, extreme gradient boosting (XGBoost), support vector regression (SVR), and adaptive neuro-
+fuzzy inference system (ANFIS), were employed to predict the performance of recycled aggregate. These previous 
+studies indicate that XGBoost is the better optimal algorithm for predicting compressive strength, with a deviation of 
+less than ±10% [18–25]. XGBoost achieves optimal performance by improving regularization to prevent overfitting 
+due to model complexity [26]. 
+Thus, the current research uses The XGBoost machine learning (ML) algorithm to predict the compressive strength 
+at a particular age combined with particle swarm optimization (PSO) framework to acquire a specific concrete 
+composition that fulfills the desired objective. Historical data from laboratory testing results are modeled using the 
+XGBoost algorithm to predict compressive strength values at a certain age. XGBoost is used because previous studies 
+have shown that this algorithm is superior in predicting concrete compressive strength compared to other ML 
+algorithms. Optimization is conducted by considering compressive strength, production costs, and carbon emissions 
+using PSO. The simulation results are later validated with laboratory testing. Although many previous studies have 
+used ML to predict concrete compressive strength, the novelty of this study is the addition of concrete age variables 
+that are still rarely studied. In addition, in previous studies using PSO, the weight of each category was determined by 
+the researcher himself. Still, in this study, the weight is obtained from the results of a preference study using the 
+Analytic Hierarchy Process (AHP) method on construction stakeholders in Indonesia. In this study, validation of the 
+PSO-recommended mixture using laboratory tests was also done. The research can guide construction stakeholders in 
+formulating a plan identifying the most advantageous concrete mixture, ensuring superior quality while minimizing 
+costs and carbon emissions. This approach is particularly important for rapidly industrializing countries like Indonesia 
+to promote sustainable practices as it prepares for large-scale growth of the construction industry in the coming years. 
+2. Background 
+Numerous predictive modeling studies have been conducted to determine the compressive strength of concrete 
+using various additives and algorithms. A literature review containing 60 Scopus-indexed Q1 journals published 
+between 2020 and 2024 was conducted. The focus of the selected papers included the prediction and optimization of 
+concrete mixture composition using ML approaches. Figure 1 illustrates the distribution of ML research on predicting 
+and optimizing concrete compressive strength. The results of these investigations revealed the utilization of over 31 
+algorithms and 18 different types of materials, as detailed in Table 1.  
+
+
+===== PAGE 3 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+295 
+ 
+The literature review revealed that the studies related to predicting the compressive strength of concrete are 
+primarily carried out on standard concrete and alkali-activated materials (geopolymer). Along with developments in 
+construction material technology, studies on the prediction and optimization of compressive strength with various 
+alternative materials, such as RCA, SCC, bio-composite aggregate, nano silica, magnesium silicate, magnesium 
+phosphate, and plastic aggregate, have begun in multiple regions. However, the opportunity to explore these topics is 
+still vast, considering that the concrete component materials in each area have different characteristics. The use of 
+Random Forest (RF), Neural Network (NN), XGBoost, Decision Tree/Regression Tree (DT/RT), GB, Support Vector 
+Machine (SVM), SVR, and Linear Regression (LR) ML algorithms were found to be the most frequently used in 
+recent research. Nevertheless, additional machine learning techniques are now being investigated and hold promise for 
+addressing decision-making challenges. Several machine learning algorithms included in this list are Light Gradient-
+Boosting Machine (Light GBM), K-Nearest Neighbor (KNN), Gaussian Process Regression (GPR), Ada Boost (AB), 
+GEP, and Ridge Regression (RR). In the future, the study of these algorithms still has excellent potential. Given that 
+Machine Learning can rapidly create large amounts of data through simulations, it dramatically facilitates decision-
+making for people. 
+ 
+     
+ 
+Figure 1. Country distribution of studies on predicting and optimizing concrete compressive strength using ML  
+Despite several studies undertaken, the research on addressing strategies to mitigate the effects of global warming, 
+particularly in Indonesia, is still limited. This analysis is crucial because it can support the goals of various countries in 
+achieving decarbonization targets by 2030, contributing to the achievement of the SDGs. Most studies apply some 
+historical data, which were not used as training data but predominantly as validation data. Considering that the 
+concrete constituents vary significantly in each region, the compressive strength results of concrete in one region are 
+unique and different from those in other regions, even with the same composition. Many studies have conducted 
+laboratory validation tests on new design mixes using ML predictions. However, there are still few studies that have 
+focused on both optimization and validation. In the present research, laboratory validation tests were also carried out 
+to determine actual compressive strength value errors from test results and predictions using PSO datasets generated 
+from the optimization process. This approach is vital to justify the reliability of the ML prediction model for 
+application in the field.  
+Table 1. Research distribution considering the type of material used 
+Type of Material 
+ML Algorithm 
+Frequency 
+Source 
+Normal Concrete 
+RF 
+11 
+[12, 26, 27–34, 35] 
+NN 
+10 
+[4, 12, 27, 30, 32, 36–40] 
+XGBoost 
+12 
+[24, 25, 26, 28–31, 33–35, 40] 
+GB 
+8 
+[24, 26, 28–32, 40] 
+DT/RT 
+7 
+[12, 24, 25, 30, 32, 35, 37] 
+SVM 
+4 
+[4, 27, 30, 41] 
+SVR 
+6 
+[31–33, 36, 37, 42] 
+LR 
+3 
+[32, 37, 41] 
+Alkali-Activated Material (Geopolymer) 
+RF 
+8 
+[13, 19, 43–48] 
+NN 
+7 
+[13, 43, 44, 46–49] 
+XGBoost 
+3 
+[19, 45, 48] 
+DT/RT 
+2 
+[47, 50] 
+GB 
+4 
+[13, 45–47] 
+SVM 
+4 
+[43, 44, 46, 47] 
+0
+5
+10
+15
+20
+25
+30
+2020
+2021
+2022
+2023
+2024
+Number of articles 
+Number of articles 
+
+
+===== PAGE 4 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+296 
+ 
+Recycle concrete aggregate (RCA) 
+RF, DT/RT 
+3 
+[51–53] 
+NN 
+4 
+[22, 51–53] 
+XGBoost, GB 
+3 
+[51, 52, 54] 
+SVR 
+2 
+[51, 54] 
+LR 
+1 
+[51] 
+Self-Compacting Concrete (SCC) 
+RF 
+3 
+[55–57] 
+NN, SVM 
+2 
+[55, 56] 
+XGBoost 
+3 
+[20, 55, 57] 
+DT/RT 
+4 
+[20, 55–57] 
+GB 
+2 
+[20, 55] 
+High strength concrete (HSC) 
+RF 
+1 
+[58] 
+NN, SVM, DT/RT, LR 
+2 
+[9, 58, 59] 
+XG Boost 
+1 
+[59, 60] 
+Calcined sludge/clay cement 
+RF,NN, SVM, SVR, 
+DT/RT, LR 
+1 
+[61] 
+XGBoost 
+1 
+[62] 
+Steel Fiber Reinforced Concrete (SFRC) 
+RF, SVR, DT/RT, GB 
+1 
+[63] 
+NN 
+1 
+[64] 
+lightweight concrete 
+RF, SVR, LR 
+1 
+[65] 
+Mortars 
+SVM 
+1 
+[66] 
+Reactive Powder Concrete 
+RF, DT/RT, XGBoost 
+1 
+[67] 
+Nano silica concrete 
+RF, NN, SVM, DT/RT, LR 
+1 
+[68] 
+Magnesium silicate hydrate cement 
+RF, SVR, DT/RT, LR, GB 
+1 
+[69] 
+Cement-based material 
+RF, SVR, LR, XGBoost 
+1 
+[21] 
+Bio-composite aggregate concrete 
+NN 
+1 
+[70] 
+Strain-hardening cementitious composites (SHCC) 
+SVM, XGBoost 
+1 
+[71] 
+Coral Aggregate Concrete 
+NN 
+1 
+[72] 
+Plastic Aggregate Concrete 
+RF 
+1 
+[73] 
+Magnesium phosphate cement 
+NN, SVR, DT/RT, LR, 
+GB, XGBoost 
+1 
+[74] 
+RF: Random Forest, NN: Neural Network, SVM: Support Vector Machine, SVR: Support Vector Regression, DT/RT: Decision Tree/Regression 
+Tree, LR: Linear Regression, GB: Gradient Boost, XGBoost: Extreme Gradient Boost. 
+3. Data and Method 
+A total of 132 datasets were acquired from historical testing data in the laboratory. Table 2 illustrates the range of 
+the test data utilized. Scheme 0 is a control variable, where the compressive strength target is 30 MPa, and a water 
+content ratio (wc ratio) of 0.5 was used without adding admixture. Scheme 1 uses the same composition as scheme 0 
+but adds admixture at doses of 0.2% and 2.0%, indicating minimum, average, and maximum doses. In scheme 2, water 
+content is reduced to alter the wc ratio. Meanwhile, in scheme 3, the use of water and cement is reduced to maintain 
+the same wc ratio, but the use of cement is reduced. 
+Sulfonated naphthalene formaldehyde (SNF)-based admixture has been used in this research, considering its three 
+functions: 1) increased workability, without change composition; 2) reduced wc ratio to increase strength and improve 
+durability; 3) reduced water and cement at given workability to prevent creep, shrinkage, and thermal strain due to 
+cement hydration [75]. The cement utilized is of the Ordinary Portland Cement (OPC) variety, with the fine aggregates 
+having a unit weight of 1400 kg/m3 and a silt content of 4.40%. The coarse aggregates have a unit weight of 1385 
+kg/m3 and a Los Angeles abrasion test result of 16.80%. 
+
+
+===== PAGE 5 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+297 
+ 
+Table 2. Experimental Specimen Range (for 1 m3 concrete) 
+Parameter 
+Units 
+Test scheme 
+0 
+1A 
+1B 
+1C 
+2A 
+2B 
+2C 
+3A 
+3B 
+3C 
+fc’ 
+Mpa 
+30 
+30 
+30 
+30 
+30.47 
+37.81 
+40.84 
+30 
+30 
+30 
+Water content 
+L 
+205 
+205 
+205 
+205 
+203 
+174 
+164 
+203 
+174 
+164 
+wc ratio 
+- 
+0.50 
+0.50 
+0.50 
+0.50 
+0.50 
+0.43 
+0.40 
+0.50 
+0.50 
+0.50 
+Cement 
+kg 
+408 
+408 
+408 
+408 
+408 
+408 
+408 
+404 
+347 
+327 
+Fine aggregates 
+kg 
+715 
+715 
+715 
+715 
+716 
+727 
+731 
+717 
+752 
+764 
+Coarse aggregates 
+kg 
+1072 
+1072 
+1072 
+1072 
+1073 
+1091 
+1097 
+1076 
+1127 
+1146 
+Admixture content 
+% 
+0.00% 
+0.20% 
+1.10% 
+2.00% 
+0.20% 
+1.10% 
+2.00% 
+0.20% 
+1.10% 
+2.00% 
+Compressive strength and slump data obtained through laboratory tests are shown in Table 3. Compressive 
+strength tests were conducted at 1 day, 3 days, 7 days, and 28 days. This technique intends to estimate the concrete 
+compressive strength at an early age or a certain age. The data obtained from testing are applied to create a 
+compressive strength prediction model using the XGBoost algorithm. The modeling results are displayed in a frontend 
+application, which facilitates predictions using large datasets or individual data inputs. This prediction model is then 
+used to optimize and obtain a design mix composition that fulfils the strength requirements; it is the most cost-
+effective and has the lowest carbon emissions.  
+A study in Indonesia found that construction stakeholders prioritize quality (63.33%), cost (26.05%), and carbon 
+emissions (10.62%), with data from 35 respondents across Indonesia gathered using the AHP [76]. The weights factor 
+obtained from the research is used as the basis for weights in PSO modeling. Slump loss tests were also conducted to 
+observe the slump loss characteristics of each composition. The PSO algorithm obtains the most optimal mixture 
+composition according to the desired criteria. The results of this optimization were revalidated using laboratory tests 
+with the design mix as the PSO output to identify the deviation between the AI modeling outcomes and the field 
+results. The complete research process is presented in Figure 2. 
+Table 3. Compressive test and slump result from laboratory experiment 
+Skema 
+Water 
+(L) 
+Cement 
+(kg) 
+Fine 
+aggregate (kg) 
+Coarse 
+aggregate (kg) 
+Admixture 
+(kg) 
+ 
+fc’ (Mpa) 
+ 
+X1 
+X2 
+X3 
+X4 
+X5 
+Y1 
+Y2 
+Y3 
+Y4 
+Y5 
+1 day 
+3 days 
+7 days 
+28 days 
+Slump 
+0 
+204.85 
+408 
+704 
+1056 
+0 
+12.49 
+23.31 
+27.52 
+33.15 
+8 
+1A 
+204.85 
+408 
+704 
+1056 
+0.82 
+11.97 
+18.29 
+28.37 
+34.51 
+11 
+1B 
+204.85 
+408 
+704 
+1056 
+4.49 
+12.46 
+20.82 
+26.46 
+37.46 
+23 
+1C 
+204.85 
+408 
+704 
+1056 
+8.16 
+12.65 
+22.22 
+23.17 
+36.99 
+22 
+2A 
+202.79 
+407.95 
+705 
+1058 
+0.82 
+17.45 
+28.06 
+31.14 
+43.16 
+9.5 
+2B 
+174 
+408 
+716 
+1075 
+4.49 
+22.79 
+34.48 
+39.99 
+52.01 
+4.5 
+2B-1 
+192 
+408 
+716 
+1075 
+4.49 
+17.9 
+28.53 
+33.88 
+42.17 
+10 
+2C 
+164 
+408 
+721 
+1081 
+8.16 
+25.38 
+34.67 
+50.06 
+52.18 
+10 
+3A 
+203 
+404 
+707 
+1060 
+0.82 
+11.97 
+26.05 
+36.93 
+38.6 
+9.5 
+3B 
+174 
+347 
+741 
+1111 
+4.49 
+14.46 
+22.94 
+24.74 
+34.94 
+11 
+3C 
+164 
+326 
+753 
+1130 
+8.16 
+12.3 
+21.87 
+25.64 
+27.2 
+10 
+ 
+Figure 2. Research process 
+[76] 
+
+
+----- TABLE p5#1 -----
+
+Parameter | Units | Test scheme |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | 0 |  |  | 1A |  |  | 1B |  |  | 1C |  |  | 2A |  |  | 2B |  |  | 2C |  |  | 3A |  |  | 3B |  |  | 3C | 
+fc’ Mpa
+Water content L
+wc ratio -
+Cement kg
+Fine aggregates kg
+Coarse aggregates kg
+Admixture content % |  |  | 30 |  |  | 30 |  |  | 30 |  |  | 30 |  |  | 30.47 |  |  | 37.81 |  |  | 40.84 |  |  | 30 |  |  | 30 |  |  | 30 | 
+ |  |  | 205 |  |  | 205 |  |  | 205 |  |  | 205 |  |  | 203 |  |  | 174 |  |  | 164 |  |  | 203 |  |  | 174 |  |  | 164 | 
+ |  |  | 0.50 |  |  | 0.50 |  |  | 0.50 |  |  | 0.50 |  |  | 0.50 |  |  | 0.43 |  |  | 0.40 |  |  | 0.50 |  |  | 0.50 |  |  | 0.50 | 
+ |  |  | 408 |  |  | 408 |  |  | 408 |  |  | 408 |  |  | 408 |  |  | 408 |  |  | 408 |  |  | 404 |  |  | 347 |  |  | 327 | 
+ |  |  | 715 |  |  | 715 |  |  | 715 |  |  | 715 |  |  | 716 |  |  | 727 |  |  | 731 |  |  | 717 |  |  | 752 |  |  | 764 | 
+ |  |  | 1072 |  |  | 1072 |  |  | 1072 |  |  | 1072 |  |  | 1073 |  |  | 1091 |  |  | 1097 |  |  | 1076 |  |  | 1127 |  |  | 1146 | 
+ |  |  | 0.00% |  |  | 0.20% |  |  | 1.10% |  |  | 2.00% |  |  | 0.20% |  |  | 1.10% |  |  | 2.00% |  |  | 0.20% |  |  | 1.10% |  |  | 2.00% | 
+
+===== PAGE 6 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+298 
+ 
+4. Machine Learning Algorithm 
+4.1. XGBoost 
+A limitation of GBoost is its prolonged iteration process and frequent occurrence of overfitting [60]. The XGBoost 
+method was developed to improve the limitations of the GBoost algorithm and mitigate overfitting [77]. As a more 
+advanced iteration of GBoost, the XGBoost algorithm is frequently used for model-classifying regression [78]. This 
+algorithm consists of several decision trees, which are trained using the prediction outcomes of the previous trees. The 
+final result of the model prediction is the summation of the prediction outcomes for each tree, as shown in Equation 1 
+[78]. The GB and XGBoost algorithms are illustrated in Figure 3. 
+𝑓𝑖
+𝑝= ∑
+𝑓𝑘(𝑥𝑖) = 𝑓𝑖
+(𝑝−1) + 
+𝑙
+𝑘 = 1
+𝑓𝑖(𝑥𝑖)    
+ 
+             (1) 
+where 𝑓𝑝(𝑥𝑖)  is learner stage p, 𝑓𝑖
+𝑝 and 𝑓𝑖
+(𝑝−1) indicates forecast stages p and p – 1, and 𝑥𝑖 denotes the parameter 
+input [60]. 
+4.2. Particle Swarm Optimization 
+Particle Swarm Optimization (PSO) is an optimization method inspired by the collective behavior of birds flocking 
+or fish schooling. Kennedy & Eberhart first described it in (1995) [79]. The algorithm involves particles moving 
+through a solution space, repositioning themselves according to their optimal position and the best-known positions of 
+their neighbors. Consequently, it can effectively solve complex optimization problems [79]. Variations, such as inertia 
+weight PSO and constriction factor PSO, have been developed to enhance performance by balancing exploration and 
+exploitation [80, 81]. 
+ 
+(a) 
+ 
+(b) 
+Figure 3. (a) Schematic of GB (b) General architecture of XGBoost [82] 
+PSO algorithm has demonstrated successful applications in diverse domains, encompassing the areas of 
+engineering, machine learning, and robotics due to its simplicity and efficiency [83]. Comparative studies have shown 
+that PSO often outperforms traditional optimization methods and other metaheuristics, such as genetic algorithms, 
+particularly in terms of convergence rate and quality of solution [84]. However, it can struggle with premature 
+convergence, which has led to the development of hybrid and adaptive versions to improve performance and 
+adaptability [84]. As research continues, PSO is expected to evolve, addressing new challenges and expanding its 
+application scope [83]. The PSO algorithm is illustrated in Figure 4 [13]. 
+
+
+===== PAGE 7 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+299 
+ 
+ 
+Figure 4. Illustration of the PSO algorithm 
+5. Compressive Strength Prediction and Optimization Model  
+The final model is an ensemble of an XGBoost model and a linear regression (LR) model with some weighted 
+averaging, then multiplied by a multiplication factor. One hundred ten (110) data samples were used for training and 
+22 for validation. The LR model is incorporated to cover the drawbacks of using XGBoost or, generally, a tree-based 
+model, which constantly predicts the target value given some gaps between two feature values. In our case, the feature 
+is the age of the mixture in days. The training data only consists of three, seven, and 28 days. Thus, a tree-based model 
+will result in the exact prediction for a seven-day admixture when new data with an age of 10 days are available. 
+During the training and inference phase, the data is standardized for the linear regression and kept as is for the 
+XGBoost model. 
+The optimum weight and multiplier are determined using a hyperparameter tuning process in parallel to identify 
+the best model hyperparameter, applying Bayesian optimization within the Optuna library [85]. The tuning objective, 
+as well as the inherent XGBoost objective function, minimize the symmetric mean absolute percentage error 
+(SMAPE) metrics as follows: 
+𝑆𝑀𝐴𝑃𝐸(𝑦, 𝑝)  = ∑
+|𝑝𝑖−𝑦𝑖|
+|𝑝𝑖 + 𝑦𝑖|
+𝑁
+𝑖 = 1
+, 
+ 
+             (2) 
+where 𝑦𝑖 and 𝑝𝑖 represent the 𝑖-th actual maximum load and predicted maximum load, respectively. 
+The tuning results are 0.9 for the XGBoost weight, 0.1 for the LR weight, and 1.08 for the multiplier. The final 
+predicted maximum load of a feature vector 𝑥 is obtained as follows: 
+𝑓(𝑥) = 1.08 × (0.9 × 𝑓𝑥𝑔𝑏(𝑥) + 0.1 × 𝑓𝑙𝑟(𝑥)), 
+ 
+             (3) 
+where 𝑥= (𝑎𝑔𝑒_𝑑𝑎𝑦𝑠, 𝑑𝑖𝑎𝑚𝑒𝑡𝑒𝑟, ℎ𝑒𝑖𝑔ℎ𝑡, 𝑤𝑐_𝑟𝑎𝑡𝑖𝑜, 𝑐𝑒𝑚𝑒𝑛𝑡, 𝑎𝑑𝑚𝑖𝑥𝑡𝑢𝑟𝑒_𝑘𝑔, 𝑓𝑖𝑛𝑒_𝑎𝑔𝑔𝑟𝑒𝑔𝑎𝑡𝑒_𝑘𝑔, 𝑐𝑜𝑎𝑟𝑠𝑒_𝑎𝑔𝑔𝑟𝑒𝑔𝑎𝑡𝑒_𝑘𝑔). 
+The final equation for the LR model is expressed as follows: 
+𝑓𝑙𝑟(𝑎, 𝑑, ℎ, … ) = 95.92 × 𝑎−7.81 × 𝑑−23.20 × ℎ−66.46 × 𝑤𝑐𝑟+ 23.37 × 𝑚𝐶+ 7.74 × 𝑚𝑎𝑑+ 0.22 × 𝑚𝑓𝑎+ 1.51 × 𝑚𝑐𝑎         (4) 
+where 𝑎, 𝑑, ℎ, 𝑤𝑐𝑟, 𝑚𝐶, 𝑚𝑎𝑑, 𝑚𝑓𝑎, 𝑚𝑐𝑎 denote curing age, cylinder sample diameter, sample height, water–cement 
+ratio, the weight of cement, the weight of admixture, the weight of fine aggregates, and the weight of coarse aggregate, 
+respectively.  
+The hyperparameter tuning of the XGBoost model results in a learning rate of 0.0747, a maximum depth of 2, and 
+72 estimators. Although the standalone XGBoost model has better metrics than the final ensemble model, it cannot 
+monotonically increase the prediction results as the age of the mixture rises. The final ensemble model addresses this 
+disadvantage by encompassing the LR model, decreasing the marginal cost of the error metrics. The statistical metrics 
+for the preferred algorithms were computed using the prediction outcomes of every sample, as illustrated in Table 4. 
+The correlation between the actual and predicted values is shown in Figure 5. 
+Table 4. Statistical metrics of ML model 
+Model 
+Testing Set 
+Training Set 
+RMSE 
+MAE 
+R2 
+SMAPE 
+RMSE 
+MAE 
+R2 
+SMAPE 
+XGBoost 
+44.3420 
+35.0929 
+0.9200 
+0.0396 
+39.1869 
+30.4126 
+0.9584 
+0.0330 
+LR 
+490.1090 
+478.6924 
+−8.7707 
+0.8437 
+510.0522 
+500.2727 
+−6.0547 
+0.8720 
+Final Model 
+48.5147 
+41.7175 
+0.9043 
+0.0484 
+40.9851 
+32.0309 
+0.9544 
+0.0344 
+
+
+===== PAGE 8 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+300 
+ 
+ 
+Figure 5. Relationship between actual and predicted values of compressive strength 
+The graph shows that most samples fall within a relative error range of 20%. This finding indicates that the 
+predicted value can adequately describe the actual results even though it is not entirely precise. Sensitivity analysis 
+was also performed to ascertain each variable's influence on the XGBoost model's prediction output, as shown in 
+Figure 6. The age of the mixture is by far the most essential feature for the XGBoost model, followed by the least 
+important feature, which is the mass of the coarse aggregate, with nearly 0% importance. However, feature importance 
+does not indicate the effect of increasing or decreasing the value of a feature. It also neglects the impact of the LR 
+model. We refer to the partial dependence plot shown in Figure 7. 
+ 
+Figure 6. Feature importance outcomes derived from ML models 
+The partial dependence plot shows the effect of increasing or decreasing the value of a feature for the entire final 
+model in the final equation. It reveals that while most features have less correlation to the predicted target, the age of 
+the mixture has a strong positive correlation, and the water-cement ratio has a strong negative correlation. This is due 
+to the strong weightage effect from the XGBoost model. The final prediction of a slump for a sample is expressed as 
+follows: 
+𝑓𝑠𝑙𝑢𝑚𝑝(𝑤𝑐𝑟, 𝑚𝑤, 𝑚𝑎𝑑, … ) = 57.34 × 𝑤𝑐𝑟+ 0.26 × 𝑚𝑤+ 0.96 × 𝑚𝑎𝑑+ 3.79 × log(1 + 𝑚𝑎𝑑) −73.4 
+ 
+             (5) 
+The equation is found by training a linear regression model with the log feature of the mass of the admixture. 
+
+
+===== PAGE 9 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+301 
+ 
+ 
+ 
+Figure 7. Partial dependence diagram of the variable input 
+The laboratory test findings indicate that scheme 3 offers enhanced performance while simultaneously 
+decreasing the amount of cement needed. A predictive experiment was conducted utilizing a dataset within the 
+range of scheme 3 to determine the maximum compressive strength that could be attained at the age of three days. 
+In addition, the maximum possible reduction in carbon emissions must be determined. The carbon emission value 
+is identified by calculating the embodied carbon using data from the Inventory of Carbon and Energy (ICE) 2019 
+database, without considering the waste factor [5, 86]. In concrete structure materials, embodied carbon has 
+contributed up to 58.13% of the total carbon emissions compared to transportation, equipment, and electricity 
+emissions [87].  
+The volume of each material is multiplied by its corresponding emission factor, which is calculated in the bill 
+of quantities, to determine the amount of carbon contained in concrete. This approach allows us to express the 
+embodied carbon in units of kgCO2/kg [88]. The cost of each material was determined through market research 
+conducted at the research location region. The market price of each material is multiplied by its corresponding 
+volume to calculate the production cost. Table 5 displays the parameter values for carbon emission factors and 
+production costs. The result of compressive strength prediction alongside the cost and carbon parameters for the 
+new dataset can be seen in Table 6. 
+The production costs of materials and embodied carbon are calculated using the following formula: 
+𝐶𝐸= 𝑚𝑤𝐶𝐸𝑤+ 𝑚𝐶𝐶𝐸𝐶+ 𝑚𝑓𝑎𝐶𝐸𝑓𝑎+ 𝑚𝑐𝑎𝐶𝐸𝑐𝑎+ 𝑚𝑎𝑑𝐶𝐸𝑎𝑑 
+ 
+             (6) 
+𝑃𝐶= 𝑚𝑤𝑃𝐶𝑤+ 𝑚𝐶𝑃𝐶𝐶+ 𝑚𝑓𝑎𝑃𝐶𝑓𝑎+ 𝑚𝑐𝑎𝑃𝐶𝑐𝑎+ 𝑚𝑎𝑑𝑃𝐶𝑎𝑑 
+ 
+             (7) 
+Table 5. Parameter for calculating carbon emission and production cost of concrete 
+Parameter 
+ 
+Units 
+Carbon Emission Factor (CE) [5] 
+Production Cost (PC)* 
+Production Cost (PC) 
+Density** 
+kgCO2/kg 
+IDR 
+USD 
+kg/m3 
+Water content 
+W 
+kg 
+0.0003 
+10 
+0.0006 
+1000 
+Cement content 
+c 
+kg 
+0.9120 
+1,294 
+0.0809 
+3100 
+Fine aggregates 
+fa 
+kg 
+0.0075 
+150 
+0.0093 
+2687 
+Coarse aggregates 
+ca 
+kg 
+0.0075 
+275 
+0.0172 
+2630 
+Admixture 
+ad 
+kg 
+1.8800 
+45,000 
+2.8125 
+1170 
+* Obtained from market research 
+** Obtained from laboratory test 
+The prediction model was used to evaluate multiple schemes. The 5B scheme achieved the highest 3-day 
+compressive strength, 29.18 MPa. By contrast, the 4D scheme had the lowest embodied carbon, 350.16 kgCO2/kg. 
+Nevertheless, production costs increased in all alternatives, necessitating optimization processes to achieve enhanced 
+performance. Moreover, carbon emissions decreased, along with reduced production costs. 
+
+
+----- TABLE p9#1 -----
+
+Parameter |  | Units | Carbon Emission Factor (CE) [5] | Production Cost (PC)* | Production Cost (PC) Density**
+ |  |  | kgCO2/kg | IDR | USD kg/m3
+Water content W kg
+Cement content c kg
+Fine aggregates fa kg
+Coarse aggregates ca kg
+Admixture ad kg |  |  | 0.0003 | 10 | 0.0006 1000
+0.0809 3100
+0.0093 2687
+0.0172 2630
+2.8125 1170
+ |  |  | 0.9120 | 1,294 | 
+ |  |  | 0.0075 | 150 | 
+ |  |  | 0.0075 | 275 | 
+ |  |  | 1.8800 | 45,000 | 
+
+===== PAGE 10 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+302 
+ 
+Table 6. Resulting in optimized compressive strength prediction results, production costs, and carbon emissions 
+Scheme 
+Age (days) 
+fc' (MPa) 
+Cost of Material 
+Embodied Carbon 
+0 
+3 
+21.91 
+932,450 
+100.00% 
+385.44 
+100.00% 
+3A 
+3 
+24.09 
+965,255 
+103.52% 
+383.36 
+99.46% 
+4B 
+3 
+21.58 
+986,735 
+105.82% 
+370.50 
+96.12% 
+4C 
+3 
+21.53 
+1,009,960 
+108.31% 
+359.42 
+93.25% 
+4D 
+3 
+21.48 
+1,034,929 
+111.04% 
+350.16 
+90.84% 
+5A 
+3 
+27.81 
+988,908 
+106.04% 
+403.27 
+104.62% 
+5B 
+3 
+29.18 
+1,009,459 
+108.36% 
+390.40 
+101.29% 
+5C 
+3 
+27.93 
+1,031,861 
+110.73% 
+378.42 
+98.18% 
+5D 
+3 
+27.88 
+1,056,113 
+113.34% 
+368.25 
+95.54% 
+6A 
+3 
+27.89 
+988,194 
+106.09% 
+370.58 
+96.14% 
+6B 
+3 
+27.89 
+1,061,352 
+113.90% 
+368.42 
+95.58% 
+6. Multi-Objective Optimization 
+The original value must be ascertained to obtain the optimization value used as the benchmark. The control 
+variable in this study was scheme 0 with a compressive strength of 30 Mpa, without using any admixture. The 
+optimization outcomes are compared with the control variables to determine the extent of performance enhancement 
+and cost reduction. The parameters used in PSO are presented in Table 7. The following formula is used to achieve 
+optimization: 
+𝑓(𝑚𝑐, … . , 𝑚𝑤) = α1
+|𝐶𝑆−𝐶𝑆∗|
+𝐶𝑆
++ α2
+|𝑃𝐶−𝑃𝐶∗|
+𝑃𝐶
++ α3
+|𝐶𝐸−𝐶𝐸∗|
+𝐶𝐸
++ α4
+|𝑆−𝑆∗|
+𝑆
+, 
+ 
+             (8) 
+where 𝐶𝑆, 𝑃𝐶, 𝐶𝐸, and 𝑆 are the predicted compressive strength, production cost, carbon emission, and the predicted 
+slump for a sample. The novelty in this study is that the weight of each parameter (α1, α2, α3) is determined by 
+analyzing the preferences of construction stakeholders in Indonesia using the AHP method. 𝐶𝑆∗, 𝑃𝐶∗, 𝐶𝐸∗, and 
+𝑆∗represent the desired corresponding target depending on the scenario. The constraint is expressed as follows: 
+𝑉𝑡𝑜𝑡=
+𝑚𝑐
+𝐷𝑐 + 
+𝑚𝑤
+𝐷𝑤 +
+𝑚𝑓𝑎
+𝐷𝑓𝑎 + 
+𝑚𝑐𝑎
+𝐷𝑐𝑎+ 
+𝑚𝑎𝑑
+𝐷𝑎𝑑 = 1. 
+ 
+            (9) 
+The parameters used during the PSO process for all of the scenarios are as follows: 
+𝑐1  = 𝑐2  =  2.0 
+𝐺𝑘= 50 
+𝑤= 0.9 
+Number of particles = 200 
+Table 7. Multi-objective optimization parameter target for PSO simulation 
+Scenario 
+α1 
+α2 
+α3 
+α4 
+Age (Days) 
+CS target 
+PC target 
+CE target 
+Slump 
+range target 
+1 
+0.6333 
+0.2605 
+0.1062 
+- 
+28 
+29.18 
+932,450 
+350.155 
+- 
+2 
+0.6333 
+0.2605 
+0.1062 
+- 
+3 
+29.18 
+932,450 
+350.155 
+- 
+3 
+0.6333 
+0.2605 
+0.1062 
+- 
+3 
+21 
+932,450 
+350.155 
+- 
+4 
+0.6333 
+0.2605 
+0.1062 
+1.0000 
+28 
+30 
+932,450 
+350.155 
+8–12 
+5 
+0.6333 
+0.2605 
+0.1062 
+1.0000 
+3 
+28.18 
+932,450 
+350.155 
+8–12 
+6 
+0.6333 
+0.2605 
+0.1062 
+1.0000 
+3 
+21.91 
+932,450 
+350.155 
+8–12 
+7 
+0.5700 
+0.2345 
+0.0955 
+0.1000 
+28 
+30 
+932,450 
+350.155 
+8–12 
+8 
+0.5700 
+0.2345 
+0.0955 
+0.1000 
+3 
+28.18 
+932,450 
+350.155 
+8–12 
+9 
+0.5700 
+0.2345 
+0.0955 
+0.1000 
+3 
+21.91 
+932,450 
+350.155 
+8–12 
+α1 = 63.33%, α2 = 26.05%, α3 = 10.62% [76]. 
+The optimization target parameters are set, prompting ML to search for results that closely approximate these 
+parameters. Two scenarios are applied to achieve two optimization alternatives. The first scenario utilizes the 
+maximum three-day compressive strength parameters, the lowest production costs, and the lowest carbon emissions. 
+The 3-day compressive strength is used because it can improve performance. In addition, construction could be 
+accelerated. In the second scenario, the 3-day compressive strength characteristics remain unchanged from the 
+standard scheme, with the lowest production costs and carbon emissions. Table 8. summarizes the simulation result 
+and compares scheme 0 and the PSO output results regarding compressive strength, production costs, and embodied 
+carbon. 
+
+
+----- TABLE p10#1 -----
+
+Scenario |  |  | α
+1 |  |  | α
+2 |  |  | α
+3 |  |  | α
+4 |  |  | Age (Days) |  |  | CS target |  |  | PC target |  |  | CE target |  |  |  | Slump | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | range target | 
+ | 1 |  |  | 0.6333 |  |  | 0.2605 |  |  | 0.1062 |  |  | - |  |  | 28 |  |  | 29.18 |  |  | 932,450 |  |  | 350.155 |  |  | - | 
+ | 2 |  |  | 0.6333 |  |  | 0.2605 |  |  | 0.1062 |  |  | - |  |  | 3 |  |  | 29.18 |  |  | 932,450 |  |  | 350.155 |  |  | - | 
+ | 3 |  |  | 0.6333 |  |  | 0.2605 |  |  | 0.1062 |  |  | - |  |  | 3 |  |  | 21 |  |  | 932,450 |  |  | 350.155 |  |  | - | 
+ | 4 |  |  | 0.6333 |  |  | 0.2605 |  |  | 0.1062 |  |  | 1.0000 |  |  | 28 |  |  | 30 |  |  | 932,450 |  |  | 350.155 |  |  | 8–12 | 
+ | 5 |  |  | 0.6333 |  |  | 0.2605 |  |  | 0.1062 |  |  | 1.0000 |  |  | 3 |  |  | 28.18 |  |  | 932,450 |  |  | 350.155 |  |  | 8–12 | 
+ | 6 |  |  | 0.6333 |  |  | 0.2605 |  |  | 0.1062 |  |  | 1.0000 |  |  | 3 |  |  | 21.91 |  |  | 932,450 |  |  | 350.155 |  |  | 8–12 | 
+ | 7 |  |  | 0.5700 |  |  | 0.2345 |  |  | 0.0955 |  |  | 0.1000 |  |  | 28 |  |  | 30 |  |  | 932,450 |  |  | 350.155 |  |  | 8–12 | 
+ | 8 |  |  | 0.5700 |  |  | 0.2345 |  |  | 0.0955 |  |  | 0.1000 |  |  | 3 |  |  | 28.18 |  |  | 932,450 |  |  | 350.155 |  |  | 8–12 | 
+ | 9 |  |  | 0.5700 |  |  | 0.2345 |  |  | 0.0955 |  |  | 0.1000 |  |  | 3 |  |  | 21.91 |  |  | 932,450 |  |  | 350.155 |  |  | 8–12 | 
+
+===== PAGE 11 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+303 
+ 
+Table 8 shows that the value of the embodied carbon decreases in all scenarios that result from optimization using 
+PSO. Nevertheless, not all individuals benefited from price reductions. As a result of the absence of slump as an input 
+parameter in the PSO in scenarios 1 and 2, the obtained slump values cannot sufficiently satisfy the technical 
+requirements of 10 ± 2 cm. In scenario 3, the cost efficiency and reduction in embodied carbon are relatively 
+satisfactory, but the compressive strength experiences a slight decrease. Cost and carbon emission reductions are 
+highly dependent on the composition of cement and admixture. The study results showed that the reductions were 
+consistent as long as the additional costs and carbon emissions due to adding admixture were not more significant than 
+the reductions in costs and carbon emissions due to reducing cement volume. The engineer may re-analyze the actual 
+compressive strength value to ascertain the structure’s overall capacity in line with this 1–2 MPa reduction. This 
+reduction should not significantly impact the efficacy of the structure. Referring to ACI 347.2R-17, the determination 
+of concrete strength is essential for the timely removal of formwork, affected by the pace of strength development, the 
+accuracy of strength assessment, and the load and deformation capacity of the structure. The optimization findings 
+indicate that all models show compressive strength values surpassing 70% at 3 days of age. The material has met the 
+minimum requirements for structural load-bearing as designed [89]. It suggests that this optimization method can 
+accelerate the removal of formwork and shoring in concrete structures. 
+Scenarios 3, 4, and 7 were selected for validation through laboratory testing in the subsequent stage. Scenarios 3 
+and 7 were applied because the reduction in embodied carbon value and production costs were the most significant 
+(9.12%–10.41% carbon reduction; 0.79%–3.06% cost reduction). Meanwhile, scenario 4 was preferred because the 
+increase in compressive strength is relatively high (29.16%), but the costs and embodied carbon decrease significantly 
+(8.13% carbon reduction and 0.97% cost reduction). However, in scenario 4, the slump value is minimal. Therefore, 
+mixing tests were carried out using delayed and immediate addition of admixture [75].  Compared to other studies, 
+material optimization using various techniques (including machine learning) can lead to up to 40% cost efficiency and 
+2.63%–60% greenhouse gas reduction potential in construction projects. In this study, the optimization can lead to 
+carbon reduction by 7%—10% and cost reduction by 1%—3% for each m³ of concrete. Combining with early removal 
+of formwork and shoring, it may lead to a 20%-30% cost reduction in building construction projects, which need to be 
+studied further. 
+7. Model Validation 
+To validate the mathematical model, laboratory testing was performed again using the mixed design composition 
+of the PSO output results. Table 9 displays the outcomes of this laboratory validation. The average deviation of all 
+tests is only 2,515 MPa, which is not greater than 15%. Because the actual compressive strength value as a divider is 
+still relatively small at the age of one day, the relative error is substantial, but it is still below 20%. This finding 
+demonstrates that the compressive strength prediction value generated by the ML algorithm closely approximates the 
+actual compressive strength results. The compressive strength value predicted by the ML is greater than the actual 
+compressive strength in schemes 0, 4, and 7, except for 28 days in scheme 7. Because of limited training data, some 
+ML predictions may deviate significantly from expectations. While in the results of laboratory evidence, sometimes 
+there are factors that slightly affect the results of concrete compressive strength to be different, including curing 
+conditions, test age not the same (a difference of several hours), non-uniformity of aggregate material, and other 
+factors that need to be studied further. The overall results of schemes 3, 4, and 7 suggest that a solution was obtained, 
+satisfying the technical requirements and reducing production costs and the embodied carbon.  
+Regarding the slump, a validation test was also conducted immediately with the addition of admixture and with a 
+delay. The results of the slump test and slump loss validation tests are shown in Figure 8. The result indicates that 
+delayed admixture addition can impact slump remarkably, contrary to the effect of immediate addition of admixture. 
+Scenario 4, with delayed admixture addition, demonstrates a substantial slump increment (78%), whereas scenarios 3 
+and 7, with delayed admixture, show increases of only 30 and 39%, respectively. The slump prediction result did not 
+achieve satisfactory accuracy because of limitations in the dataset. A broad range of objective slump data is required to 
+improve slump value predictions beyond the available data of the current study. 
+ 
+Figure 8. Concrete slump comparison among scenarios 0, 3, 4, and 7 for immediate and delayed conditions 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+0
+20
+40
+60
+80
+Slump (cm)
+Time (minutes)
+Scenario 0
+Scenario 3 Delayed
+Scenario 3 Immediate
+Scenario 4 Delayed
+Scenario 4 Immediate
+Scenario 7 Delayed
+Scenario 7 Immediate
+
+
+===== PAGE 12 =====
+
+Journal of Human, Earth, and Future   
+   
+  Vol. 6, No. 2, June, 2025 
+304 
+Table 8. Concrete design mix optimization using PSO considering compressive strength, costs, and carbon emissions 
+Scenario 
+Age 
+(days) 
+PSO Results 
+Compressive Strength, Cost, Embodied Carbon, and Slump Comparison 
+CS result 
+(MPa) 
+PC result 
+(IDR) 
+CE result 
+(kgCO2) 
+Slump 
+Result (cm) 
+Water 
+(L) 
+Cement 
+(kg) 
+Fine aggregate 
+(kg) 
+Coarse 
+aggregate (kg) 
+Admixture 
+(L) 
+fc' 3 days 
+(MPa) 
+fc' 28 days 
+(MPa) 
+Embodied Carbon 
+Deviation (kgCO2) 
+Production Cost 
+Deviation (IDR) 
+Slump 
+0 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+21.91 
+30.56 
+385.44 
+0.00 
+932,450 
+0 
+10 
+1 
+28 
+39.59 
+928,660 
+358.47 
+- 
+185.7 
+376.97 
+718.27 
+1127.33 
+0.47 
+27.64 
+39.59 
+358.47 
+−26.97 
+928,660 
+−3,790 
+4.96 
+2 
+3 
+27.87 
+934,961 
+359.16 
+- 
+178.77 
+377.44 
+743.85 
+1129.42 
+0.5 
+27.87 
+39.82 
+359.16 
+−26.28 
+934,961 
+2,511 
+2.18 
+3 
+3 
+21.01 
+925,122 
+350.3 
+- 
+193.92 
+367.43 
+746.7 
+1092.85 
+0.78 
+21.01 
+28.99 
+350.3 
+−35.14 
+925,122 
+−7,328 
+9.89 
+4 
+28 
+39.47 
+923,419 
+354.11 
+5.33 
+186.32 
+372.18 
+726.99 
+1137.49 
+0.4 
+24.42 
+39.47 
+354.11 
+−31.33 
+923,419 
+−9,031 
+5.33 
+5 
+3 
+24.51 
+947,221 
+367.87 
+8.08 
+193.14 
+386.86 
+738.77 
+1097.55 
+0.71 
+24.51 
+39.55 
+367.87 
+−17.57 
+947,221 
+14,771 
+8.08 
+6 
+3 
+27.56 
+970,918 
+365.75 
+8.12 
+188.66 
+383.29 
+737.76 
+1109.6 
+1.27 
+27.56 
+40.43 
+365.75 
+−19.69 
+970,918 
+38,468 
+8.12 
+7 
+28 
+29 
+903,932 
+345.32 
+7.58 
+190.59 
+363.82 
+720.55 
+1122.22 
+0.35 
+21.02 
+29 
+345.32 
+−40.12 
+903,932 
+−28,518 
+7.58 
+8 
+3 
+27.66 
+983,144 
+373.28 
+8.87 
+191.16 
+392.42 
+728.85 
+1096.02 
+1.42 
+27.66 
+40.54 
+373.28 
+−12.16 
+983,144 
+50,694 
+8.87 
+9 
+3 
+27.56 
+970,918 
+365.75 
+8.12 
+188.66 
+383.29 
+737.76 
+1109.6 
+1.27 
+27.56 
+40.43 
+365.75 
+−19.69 
+970,918 
+38,468 
+8.12 
+Table 9. Comparison of the compressive strength results from the laboratory test validation and the predicted results 
+Scenario 
+Curing age (days) 
+Actual fc' (MPa) 
+Prediction fc’(MPa) 
+Deviation (MPa) 
+Relative Error (%) 
+0 
+1 
+10.982 
+13.050 
+2.068 
+18.83% 
+0 
+3 
+20.714 
+21.820 
+1.106 
+5.34% 
+0 
+7 
+27.126 
+28.110 
+0.984 
+3.63% 
+0 
+28 
+34.688 
+35.760 
+1.072 
+3.09% 
+3 
+1 
+14.092 
+12.920 
+−1.172 
+8.32% 
+3 
+3 
+24.599 
+21.010 
+−3.589 
+14.59% 
+3 
+7 
+28.261 
+26.060 
+−2.201 
+7.79% 
+3 
+28 
+35.956 
+29.000 
+−6.956 
+19.35% 
+4 
+1 
+14.325 
+16.050 
+1.725 
+12.04% 
+4 
+3 
+20.892 
+24.420 
+3.528 
+16.89% 
+4 
+7 
+26.733 
+29.530 
+2.797 
+10.46% 
+4 
+28 
+37.500 
+39.470 
+1.970 
+5.25% 
+7 
+1 
+11.448 
+12.900 
+1.452 
+12.68% 
+7 
+3 
+20.153 
+21.020 
+0.867 
+4.30% 
+7 
+7 
+24.269 
+26.040 
+1.771 
+7.30% 
+7 
+28 
+32.797 
+28.980 
+−3.817 
+11.64% 
+Absolute Average 
+2.515 
+11.10% 
+ 
+
+
+----- TABLE p12#1 -----
+
+0 | 1 | 10.982 | 13.050 | 2.068 | 18.83%
+0 | 3 | 20.714 | 21.820 | 1.106 | 5.34%
+0 | 7 | 27.126 | 28.110 | 0.984 | 3.63%
+0 | 28 | 34.688 | 35.760 | 1.072 | 3.09%
+3 | 1 | 14.092 | 12.920 | −1.172 | 8.32%
+3 | 3 | 24.599 | 21.010 | −3.589 | 14.59%
+3 | 7 | 28.261 | 26.060 | −2.201 | 7.79%
+3 | 28 | 35.956 | 29.000 | −6.956 | 19.35%
+4 | 1 | 14.325 | 16.050 | 1.725 | 12.04%
+4 | 3 | 20.892 | 24.420 | 3.528 | 16.89%
+4 | 7 | 26.733 | 29.530 | 2.797 | 10.46%
+4 | 28 | 37.500 | 39.470 | 1.970 | 5.25%
+7 | 1 | 11.448 | 12.900 | 1.452 | 12.68%
+7 | 3 | 20.153 | 21.020 | 0.867 | 4.30%
+7 | 7 | 24.269 | 26.040 | 1.771 | 7.30%
+7 | 28 | 32.797 | 28.980 | −3.817 | 11.64%
+
+===== PAGE 13 =====
+
+Journal of Human, Earth, and Future   
+   
+  Vol. 6, No. 2, June, 2025 
+305 
+8. Conclusion 
+The construction industry is seeking sustainable concrete solutions without compromising cost. This study presents 
+an innovative method for predicting the optimum mix design without compromising carbon emissions or production 
+costs. It uses XGBoost and LR algorithms to model concrete compressive strength at specific ages and an optimization 
+framework called PSO to derive a mix composition that meets compressive strength standards, reduces emissions, and 
+minimizes production costs. The PSO weight parameter has been derived from stakeholder preference analysis of 
+construction in Indonesia with the AHP method. The XGBoost and LR model combination achieved an R² of 0.9043, 
+an RMSE of 48.5147, and a MAPE of 0.0484, indicating that the compressive strength of concrete is most 
+significantly influenced by its age, wc ratio, and cement composition. Minimizing the required cement can reduce 
+carbon content by 7%—10% and slightly decrease production costs by 1%—3%. Combining with early removal of 
+formwork and shoring, it may lead to a 20%-30% cost reduction in building construction projects, which need to be 
+studied further. 
+Laboratory testing was conducted to validate the result of PSO simulation, achieving a relative error of 11.10%. 
+This finding demonstrates that the compressive strength prediction value generated by the ML algorithm closely 
+approximates the actual compressive strength results. Regarding the slump prediction, the validation still does not 
+meet the expectation due to limited data. A further study using more data, including the immediate and delayed 
+admixture addition technique, shall be conducted. The study findings reveal that optimizing the concrete design mix in 
+construction projects in Indonesia can significantly reduce carbon emissions. Applying this strategy to all projects 
+could reduce global emissions by 4 million metric tons of CO2. These findings are crucial for concrete manufacturers 
+and builders seeking cost and carbon emission savings in sustainable concrete mix designs. In further research, the 
+results of this study can be simulated and analyzed using lifecycle analysis to determine carbon reduction and 
+construction project costs in an ongoing project cycle. 
+9. Declarations  
+9.1. Author Contributions 
+Conceptualization, A.T.Y., A.S.B.N., I.S., and M.S.; methodology, A.T.Y., A.S.B.N., I.S., and T.N.H.; formal 
+analysis, A.T.Y. and R.E.; investigation, A.T.Y., A.R.E., and J.L.; data curation, A.T.Y., A.R.E., and J.L.; writing—
+original draft preparation, A.T.Y. and R.E.; writing—review and editing, A.S.B.N., I.S., T.N.H., and M.S.; 
+visualization, R.E.; supervision, A.S.B.N. and I.S.; funding acquisition, A.S.B.N. All authors have read and agreed to 
+the published version of the manuscript. 
+9.2. Data Availability Statement 
+The data presented in this study are available on request from the corresponding author. 
+9.3. Funding and Acknowledgments 
+The authors gratefully acknowledge the financial support from the Final Assignment Recognition Program of the 
+University of Gadjah Mada no. 5286/UN1.P1/PT.01.03/2024. 
+9.4. Institutional Review Board Statement 
+Not applicable. 
+9.5. Informed Consent Statement 
+Not applicable. 
+9.6. Declaration of Competing Interest 
+The authors declare that there are no conflicts of interest concerning the publication of this manuscript. 
+Furthermore, all ethical considerations, including plagiarism, informed consent, misconduct, data fabrication and/or 
+falsification, double publication and/or submission, and redundancies have been completely observed by the authors. 
+10. References  
+[1] Yu, M., Robati, M., Oldfield, P., Wiedmann, T., Crawford, R., Nezhad, A. A., & Carmichael, D. (2020). The impact of value 
+engineering on embodied greenhouse gas emissions in the built environment: A hybrid life cycle assessment. Building and 
+Environment, 168(10), 106452. doi:10.1016/j.buildenv.2019.106452. 
+[2] Belizario-Silva, F., Costa Reis, D., Carvalho, M., Leopoldo e Silva França, R., & John, V. M. (2024). Material intensity and 
+embodied CO2 benchmark for reinforced concrete structures in Brazil. Journal of Building Engineering, 82, 108234. 
+doi:10.1016/j.jobe.2023.108234. 
+
+
+===== PAGE 14 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+306 
+ 
+[3] Dong, Y. H., Jaillon, L., Chu, P., & Poon, C. S. (2015). Comparing carbon emissions of precast and cast-in-situ construction 
+methods - A case study of high-rise private building. Construction and Building Materials, 99, 39–53. 
+doi:10.1016/j.conbuildmat.2015.08.145. 
+[4] Mehta, V. (2023). Machine learning approach for predicting concrete compressive, splitting tensile, and flexural strength with 
+waste foundry sand. Journal of Building Engineering, 70(January), 106363. doi:10.1016/j.jobe.2023.106363. 
+[5] Hammond, G., Jones, C., Lowrie, F., & Tse, P. (2008). Inventory of Carbon & Energy: ICE: Sustainable Energy Research 
+Team. Department of Mechanical Engineering, University of Bath, Bath, England. 
+[6] Mancke, R., Stephan, D., & Firdous, R. (2024). Case study - Sustainable concrete development: Assessing social, 
+environmental, and performance factors of geopolymers and CEM-I concretes. Case Studies in Construction Materials, 
+21(July), 3448. doi:10.1016/j.cscm.2024.e03448. 
+[7] McLellan, B. C., Williams, R. P., Lay, J., Van Riessen, A., & Corder, G. D. (2011). Costs and carbon emissions for geopolymer 
+pastes 
+in 
+comparison 
+to 
+ordinary 
+portland 
+cement. 
+Journal 
+of 
+Cleaner 
+Production, 
+19(9–10), 
+1080–1090. 
+doi:10.1016/j.jclepro.2011.02.010. 
+[8] Sandanayake, M., Gunasekara, C., Law, D., Zhang, G., Setunge, S., & Wanijuru, D. (2020). Sustainable criterion selection 
+framework for green building materials – An optimisation based study of fly-ash Geopolymer concrete. Sustainable Materials 
+and Technologies, 25, 178. doi:10.1016/j.susmat.2020.e00178. 
+[9] Thilakarathna, P. S. M., Seo, S., Baduge, K. S. K., Lee, H., Mendis, P., & Foliente, G. (2020). Embodied carbon analysis and 
+benchmarking emissions of high and ultra-high strength concrete using machine learning algorithms. Journal of Cleaner 
+Production, 262(February), 121281. doi:10.1016/j.jclepro.2020.121281. 
+[10] Chi, L., Wang, M., Liu, K., Lu, S., Kan, L., Xia, X., & Huang, C. (2023). Machine learning prediction of compressive strength 
+of 
+concrete 
+with 
+resistivity 
+modification. 
+Materials 
+Today 
+Communications, 
+36(3), 
+106470. 
+doi:10.1016/j.mtcomm.2023.106470. 
+[11] Chakraborty, D., Awolusi, I., & Gutierrez, L. (2021). An explainable machine learning model to predict and elucidate the 
+compressive behavior of high-performance concrete. Results in Engineering, 11. doi:10.1016/j.rineng.2021.100245. 
+[12] Shahrokhishahraki, M., Malekpour, M., Mirvalad, S., & Faraone, G. (2024). Machine learning predictions for optimal cement 
+content in sustainable concrete constructions. Journal of Building Engineering, 82. doi:10.1016/j.jobe.2023.108160. 
+[13] Li, Y., Shen, J., Lin, H., & Li, Y. (2023). Optimization design for alkali-activated slag-fly ash geopolymer concrete based on 
+artificial intelligence considering compressive strength, cost, and carbon emission. Journal of Building Engineering, 75(100), 
+106929. doi:10.1016/j.jobe.2023.106929. 
+[14] Kim, T., Tae, S., & Roh, S. (2013). Assessment of the CO2 emission and cost reduction performance of a low-carbon-
+emission concrete mix design using an optimal mix design system. Renewable and Sustainable Energy Reviews, 25, 729–741. 
+doi:10.1016/j.rser.2013.05.013. 
+[15] Tavares, C., & Grasley, Z. (2022). Machine learning-based mix design tools to minimize carbon footprint and cost of UHPC. 
+Part 2: Cost and eco-efficiency density diagrams. Cleaner Materials, 4(May), 100094. doi:10.1016/j.clema.2022.100094. 
+[16] Alabi, S. A., Arum, C., Adewuyi, A. P., Arum, R. C., Afolayan, J. O., & Mahachi, J. (2023). Mathematical model for 
+prediction of compressive strength of ternary blended cement concrete utilizing gene expression programming. Scientific 
+African, 22(October), 1954. doi:10.1016/j.sciaf.2023.e01954. 
+[17] Md Akram Hossain, Islam, G. M. S., & Amit Mallick. (2022). Compressive Strength Prediction for Industrial Waste-Based 
+SCC Using Artificial Neural Network. Journal of the Civil Engineering Forum, 9(January), 11–26. doi:10.22146/jcef.4094. 
+[18] Duan, J., Asteris, P. G., Nguyen, H., Bui, X. N., & Moayedi, H. (2021). A novel artificial intelligence technique to predict 
+compressive strength of recycled aggregate concrete using ICA-XGBoost model. Engineering with Computers, 37(4), 3329–
+3346. doi:10.1007/s00366-020-01003-0. 
+[19] Shah, S. F. A., Chen, B., Zahid, M., & Ahmad, M. R. (2022). Compressive strength prediction of one-part alkali activated 
+material enabled by interpretable machine learning. Construction and Building Materials, 360(July), 129534. 
+doi:10.1016/j.conbuildmat.2022.129534. 
+[20] Mai, H. V. T., Nguyen, M. H., & Ly, H. B. (2023). Development of machine learning methods to predict the compressive 
+strength of fiber-reinforced self-compacting concrete and sensitivity analysis. Construction and Building Materials, 367 
+(January), 130339. doi:10.1016/j.conbuildmat.2023.130339. 
+[21] Li, Y., Li, H., jin, C., & Shen, J. (2022). The study of effect of carbon nanotubes on the compressive strength of cement-based 
+materials 
+based 
+on 
+machine 
+learning. 
+Construction 
+and 
+Building 
+Materials, 
+358(July), 
+129435. 
+doi:10.1016/j.conbuildmat.2022.129435. 
+
+
+===== PAGE 15 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+307 
+ 
+[22] Wang, S., Xia, P., Gong, F., Zeng, Q., Chen, K., & Zhao, Y. (2024). Multi objective optimization of recycled aggregate 
+concrete 
+based 
+on 
+explainable 
+machine 
+learning. 
+Journal 
+of 
+Cleaner 
+Production, 
+445(January), 
+141045. 
+doi:10.1016/j.jclepro.2024.141045. 
+[23] Winarno, S., & Kusumadewi, S. (2024). Application of Soft Computing to Address Uncertainty in Construction Project 
+Management: A Systematic Literature Review. Civil Engineering Journal, 10(6), 2040-2065. doi:10.28991/CEJ-2024-010-06-
+020. 
+[24] Taffese, W. Z., & Espinosa-Leal, L. (2023). Multitarget regression models for predicting compressive strength and chloride 
+resistance of concrete. Journal of Building Engineering, 72. doi:10.1016/j.jobe.2023.106523. 
+[25] Ekanayake, I. U., Meddage, D. P. P., & Rathnayake, U. (2022). A novel approach to explain the black-box nature of machine 
+learning in compressive strength predictions of concrete using Shapley additive explanations (SHAP). Case Studies in 
+Construction Materials, 16(April), 1059. doi:10.1016/j.cscm.2022.e01059. 
+[26] Cao, C. (2023). Prediction of concrete porosity using machine learning. Results in Engineering, 17(August), 100794. 
+doi:10.1016/j.rineng.2022.100794. 
+[27] Yang, J., Zeng, B., Ni, Z., Fan, Y., Hang, Z., Wang, Y., Feng, C., & Yang, J. (2023). Comparison of traditional and automated 
+machine learning approaches in predicting the compressive strength of graphene oxide/cement composites. Construction and 
+Building Materials, 394(March), 132179. doi:10.1016/j.conbuildmat.2023.132179. 
+[28] Balasooriya Arachchilage, C., Huang, G., Fan, C., & Liu, W. V. (2023). Forecasting unconfined compressive strength of 
+calcium sulfoaluminate cement mixtures using ensemble machine learning techniques integrated with shapely-additive 
+explanations. Construction and Building Materials, 409(October), 134083. doi:10.1016/j.conbuildmat.2023.134083. 
+[29] Li, Q., & Song, Z. (2023). Prediction of compressive strength of rice husk ash concrete based on stacking ensemble learning 
+model. Journal of Cleaner Production, 382(November 2022), 135279. doi:10.1016/j.jclepro.2022.135279. 
+[30] Munir, M. J., Kazmi, S. M. S., Wu, Y. F., Lin, X., & Ahmad, M. R. (2022). Development of novel design strength model for 
+sustainable concrete columns: A new machine learning-based approach. Journal of Cleaner Production, 357(April), 131988. 
+doi:10.1016/j.jclepro.2022.131988. 
+[31] Liu, K., Zhang, L., Wang, W., Zhang, G., Xu, L., Fan, D., & Yu, R. (2023). Development of compressive strength prediction 
+platform for concrete materials based on machine learning techniques. Journal of Building Engineering, 80(July), 107977. 
+doi:10.1016/j.jobe.2023.107977. 
+[32] Zhang, T., Zhang, Y., Wang, Q., Aganyira, A. K., & Fang, Y. (2023). Experimental study and machine learning prediction on 
+compressive strength of spontaneous-combustion coal gangue aggregate concrete. Journal of Building Engineering, 
+71(January), 106518. doi:10.1016/j.jobe.2023.106518. 
+[33] Alyami, M., Nassar, R. U. D., Khan, M., Hammad, A. W., Alabduljabbar, H., Nawaz, R., Fawad, M., & Gamil, Y. (2024). 
+Estimating compressive strength of concrete containing rice husk ash using interpretable machine learning-based models. Case 
+Studies in Construction Materials, 20, 2901. doi:10.1016/j.cscm.2024.e02901. 
+[34] Kashem, A., Karim, R., Das, P., Datta, S. D., & Alharthai, M. (2024). Compressive strength prediction of sustainable concrete 
+incorporating rice husk ash (RHA) using hybrid machine learning algorithms and parametric analyses. Case Studies in 
+Construction Materials, 20(March), 3030. doi:10.1016/j.cscm.2024.e03030. 
+[35] Liu, G., & Sun, B. (2023). Concrete compressive strength prediction using an explainable boosting machine model. Case 
+Studies in Construction Materials, 18(October 2022), 1845. doi:10.1016/j.cscm.2023.e01845. 
+[36] Li, H., Lin, J., Zhao, D., Shi, G., Wu, H., Wei, T., Li, D., & Zhang, J. (2022). A BFRC compressive strength prediction 
+method via kernel extreme learning machine-genetic algorithm. Construction and Building Materials, 344(April), 128076. 
+doi:10.1016/j.conbuildmat.2022.128076. 
+[37] Montazerian, A., Baghban, M. H., Ramachandra, R., & Goutianos, S. (2023). A machine learning approach for assessing the 
+compressive strength of cementitious composites reinforced by graphene derivatives. Construction and Building Materials, 
+409(January), 134014. doi:10.1016/j.conbuildmat.2023.134014. 
+[38] Kellouche, Y., Tayeh, B. A., Chetbani, Y., Zeyad, A. M., & Mostafa, S. A. (2024). Comparative study of different machine 
+learning approaches for predicting the compressive strength of palm fuel ash concrete. Journal of Building Engineering, 
+88(April), 109187. doi:10.1016/j.jobe.2024.109187. 
+[39] Alavi, S. A., Noel, M., Moradi, F., & Layssi, H. (2024). Development of a machine learning model for on-site evaluation of 
+concrete compressive strength by SonReb. Journal of Building Engineering, 82, 108328. doi:10.1016/j.jobe.2023.108328. 
+[40] Karim, R., Islam, M. H., Datta, S. D., & Kashem, A. (2024). Synergistic effects of supplementary cementitious materials and 
+compressive strength prediction of concrete using machine learning algorithms with SHAP and PDP analyses. Case Studies in 
+Construction Materials, 20(November), 2828. doi:10.1016/j.cscm.2023.e02828. 
+
+
+===== PAGE 16 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+308 
+ 
+[41] Günaydın, O., Akbaş, E., Özbeyaz, A., & Güçlüer, K. (2023). Machine learning based evaluation of concrete strength from 
+saturated to dry by non-destructive methods. Journal of Building Engineering, 76. doi:10.1016/j.jobe.2023.107174. 
+[42] Wu, Y., & Zhou, Y. (2022). Hybrid machine learning model and Shapley additive explanations for compressive strength of 
+sustainable concrete. Construction and Building Materials, 330(March), 127298. doi:10.1016/j.conbuildmat.2022.127298. 
+[43] Rathnayaka, M., Karunasinghe, D., Gunasekara, C., Wijesundara, K., Lokuge, W., & Law, D. W. (2024). Machine learning 
+approaches to predict compressive strength of fly ash-based geopolymer concrete: A comprehensive review. Construction and 
+Building Materials, 419, 135519. doi:10.1016/j.conbuildmat.2024.135519. 
+[44] Ding, Y., Wei, W., Wang, J., Wang, Y., Shi, Y., & Mei, Z. (2023). Prediction of compressive strength and feature importance 
+analysis of solid waste alkali-activated cementitious materials based on machine learning. Construction and Building 
+Materials, 407(July), 133545. doi:10.1016/j.conbuildmat.2023.133545. 
+[45] Shen, J., Li, Y., Lin, H., Li, H., Lv, J., Feng, S., & Ci, J. (2022). Prediction of compressive strength of alkali-activated 
+construction demolition waste geopolymers using ensemble machine learning. Construction and Building Materials, 360(100), 
+129600. doi:10.1016/j.conbuildmat.2022.129600. 
+[46] Huo, W., Zhu, Z., Sun, H., Ma, B., & Yang, L. (2022). Development of machine learning models for the prediction of the 
+compressive 
+strength 
+of 
+calcium-based 
+geopolymers. 
+Journal 
+of 
+Cleaner 
+Production, 
+380(P2), 
+135159. 
+doi:10.1016/j.jclepro.2022.135159. 
+[47] Eftekhar Afzali, S. A., Shayanfar, M. A., Ghanooni-Bagha, M., Golafshani, E., & Ngo, T. (2024). The use of machine learning 
+techniques to investigate the properties of metakaolin-based geopolymer concrete. Journal of Cleaner Production, 
+446(February), 141305. doi:10.1016/j.jclepro.2024.141305. 
+[48] Parhi, S. K., & Patro, S. K. (2023). Prediction of compressive strength of geopolymer concrete using a hybrid ensemble of 
+grey 
+wolf 
+optimized 
+machine 
+learning 
+estimators. 
+Journal 
+of 
+Building 
+Engineering, 
+71(March), 
+106521. 
+doi:10.1016/j.jobe.2023.106521. 
+[49] Wang, Y., Iqtidar, A., Amin, M. N., Nazar, S., Hassan, A. M., & Ali, M. (2024). Predictive modelling of compressive strength 
+of fly ash and ground granulated blast furnace slag based geopolymer concrete using machine learning techniques. Case 
+Studies in Construction Materials, 20, 3130. doi:10.1016/j.cscm.2024.e03130. 
+[50] Ahmad, A., Ahmad, W., Aslam, F., & Joyklad, P. (2022). Compressive strength prediction of fly ash-based geopolymer 
+concrete 
+via 
+advanced 
+machine 
+learning 
+techniques. 
+Case 
+Studies 
+in 
+Construction 
+Materials, 
+16, 
+840. 
+doi:10.1016/j.cscm.2021.e00840. 
+[51] Pal, A., Ahmed, K. S., Hossain, F. Z., & Alam, M. S. (2023). Machine learning models for predicting compressive strength of 
+fiber-reinforced concrete containing waste rubber and recycled aggregate. Journal of Cleaner Production, 423(May), 138673. 
+doi:10.1016/j.jclepro.2023.138673. 
+[52] Liu, K., Zheng, J., Dong, S., Xie, W., & Zhang, X. (2023). Mixture optimization of mechanical, economical, and 
+environmental objectives for sustainable recycled aggregate concrete based on machine learning and metaheuristic algorithms. 
+Journal of Building Engineering, 63. doi:10.1016/j.jobe.2022.105570. 
+[53] Yang, S., Sun, J., & Zhifeng, X. (2024). Prediction on compressive strength of recycled aggregate self-compacting concrete by 
+machine learning method. Journal of Building Engineering, 88. doi:10.1016/j.jobe.2024.109055. 
+[54] Quan Tran, V., Quoc Dang, V., & Si Ho, L. (2022). Evaluating compressive strength of concrete made with recycled concrete 
+aggregates 
+using 
+machine 
+learning 
+approach. 
+Construction 
+and 
+Building 
+Materials, 
+323(January), 
+126578. 
+doi:10.1016/j.conbuildmat.2022.126578. 
+[55] Huang, P., Dai, K., & Yu, X. (2023). Machine learning approach for investigating compressive strength of self-compacting 
+concrete containing supplementary cementitious materials and recycled aggregate. Journal of Building Engineering, 79(July), 
+107904. doi:10.1016/j.jobe.2023.107904. 
+[56] Mahmood, M. S., Elahi, A., Zaid, O., Alashker, Y., Șerbănoiu, A. A., Grădinaru, C. M., Ullah, K., & Ali, T. (2023). 
+Enhancing compressive strength prediction in self-compacting concrete using machine learning and deep learning techniques 
+with incorporation of rice husk ash and marble powder. Case Studies in Construction Materials, 19(September), e02557. 
+doi:10.1016/j.cscm.2023.e02557. 
+[57] de-Prado-Gil, J., Palencia, C., Silva-Monteiro, N., & Martínez-García, R. (2022). To predict the compressive strength of self 
+compacting concrete with recycled aggregates utilizing ensemble machine learning models. Case Studies in Construction 
+Materials, 16(April), 1046. doi:10.1016/j.cscm.2022.e01046. 
+[58] Yuan, Y., Yang, M., Shang, X., Xiong, Y., & Zhang, Y. (2023). Predicting the compressive strength of UHPC with coarse 
+aggregates in the context of machine learning. Case Studies in Construction Materials, 19(August), 2627. 
+doi:10.1016/j.cscm.2023.e02627. 
+
+
+===== PAGE 17 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+309 
+ 
+[59] Nagaraju, T. V., Mantena, S., Azab, M., Alisha, S. S., El Hachem, C., Adamu, M., & Rama Murthy, P. S. (2023). Prediction of 
+high strength ternary blended concrete containing different silica proportions using machine learning approaches. Results in 
+Engineering, 17(February), 100973. doi:10.1016/j.rineng.2023.100973. 
+[60] Das, P., & Kashem, A. (2024). Hybrid machine learning approach to prediction of the compressive and flexural strengths of 
+UHPC and parametric analysis with shapley additive explanations. Case Studies in Construction Materials, 20(August), 2723. 
+doi:10.1016/j.cscm.2023.e02723. 
+[61] Zhang, J., Niu, W., Yang, Y., Hou, D., & Dong, B. (2022). Machine learning prediction models for compressive strength of 
+calcined 
+sludge-cement 
+composites. 
+Construction 
+and 
+Building 
+Materials, 
+346(July), 
+128442. 
+doi:10.1016/j.conbuildmat.2022.128442. 
+[62] El Khessaimi, Y., El Hafiane, Y., Smith, A., Peyratout, C., Tamine, K., Adly, S., & Barkatou, M. (2023). Machine learning-
+based prediction of compressive strength for limestone calcined clay cements. Journal of Building Engineering, 76(March), 1–
+25. doi:10.1016/j.jobe.2023.107062. 
+[63] Alyami, M., Khan, M., Fawad, M., Nawaz, R., Hammad, A. W. A., Najeh, T., & Gamil, Y. (2024). Predictive modeling for 
+compressive strength of 3D printed fiber-reinforced concrete using machine learning algorithms. Case Studies in Construction 
+Materials, 20, 2728. doi:10.1016/j.cscm.2023.e02728. 
+[64] Alyousef, R., Rehman, M. F., Khan, M., Fawad, M., Khan, A. U., Hassan, A. M., & Ghamry, N. A. (2023). Machine learning-
+driven predictive models for compressive strength of steel fiber reinforced concrete subjected to high temperatures. Case 
+Studies in Construction Materials, 19(June), 2418. doi:10.1016/j.cscm.2023.e02418. 
+[65] Sun, Y., & Lee, H. S. (2024). An interpretable probabilistic machine learning model for forecasting compressive strength of oil 
+palm shell-based lightweight aggregate concrete containing fly ash or silica fume. Construction and Building Materials, 
+426(February), 136176. doi:10.1016/j.conbuildmat.2024.136176. 
+[66] Çalışkan, A., Demirhan, S., & Tekin, R. (2022). Comparison of different machine learning methods for estimating 
+compressive strength of mortars. Construction and Building Materials, 335. doi:10.1016/j.conbuildmat.2022.127490. 
+[67] Khan, M. I., & Abbas, Y. M. (2023). Intelligent data-driven compressive strength prediction and optimization of reactive 
+powder concrete using multiple ensemble-based machine learning approach. Construction and Building Materials, 
+404(August), 133148. doi:10.1016/j.conbuildmat.2023.133148. 
+[68] Maherian, M. F., Baran, S., Bicakci, S. N., Toreyin, B. U., & Atahan, H. N. (2023). Machine learning-based compressive 
+strength estimation in nano silica-modified concrete. Construction and Building Materials, 408(October), 133684. 
+doi:10.1016/j.conbuildmat.2023.133684. 
+[69] Luo, X., Li, Y., Lin, H., Li, H., Shen, J., Pan, B., Bi, W., & Zhang, W. (2023). Research on predicting compressive strength of 
+magnesium silicate hydrate cement based on machine learning. Construction and Building Materials, 406(July), 133412. 
+doi:10.1016/j.conbuildmat.2023.133412. 
+[70] Khan, M. A., Aslam, F., Javed, M. F., Alabduljabbar, H., & Deifalla, A. F. (2022). New prediction models for the compressive 
+strength and dry-thermal conductivity of bio-composites using novel machine learning algorithms. Journal of Cleaner 
+Production, 350(August), 131364. doi:10.1016/j.jclepro.2022.131364. 
+[71] Mahjoubi, S., Barhemat, R., Guo, P., Meng, W., & Bao, Y. (2021). Prediction and multi-objective optimization of mechanical, 
+economical, and environmental properties for strain-hardening cementitious composites (SHCC) based on automated machine 
+learning 
+and 
+metaheuristic 
+algorithms. 
+Journal 
+of 
+Cleaner 
+Production, 
+329(August), 
+129665. 
+doi:10.1016/j.jclepro.2021.129665. 
+[72] Sun, Z., Li, Y., Li, Y., Su, L., & He, W. (2024). Investigation on compressive strength of coral aggregate concrete: Hybrid 
+machine learning models and experimental validation. Journal of Building Engineering, 82(December), 108220. 
+doi:10.1016/j.jobe.2023.108220. 
+[73] Han, S. H., Khayat, K. H., Park, S., & Yoon, J. (2024). Machine learning-based approach for optimizing mixture proportion of 
+recycled plastic aggregate concrete considering compressive strength, dry density, and production cost. Journal of Building 
+Engineering, 83, 108393. doi:10.1016/j.jobe.2023.108393. 
+[74] Luo, X., Li, Y., Wang, Q., Mu, J., & Liu, Y. (2024). Machine learning based modeling for predicting the compressive strength 
+of solid waste material-incorporated Magnesium Phosphate Cement. Journal of Cleaner Production, 442(January), 141172. 
+doi:10.1016/j.jclepro.2024.141172. 
+[75] Collepardi, M. (1998). Admixtures used to enhance placing characteristics of concrete. Cement and Concrete Composites, 
+20(2–3), 103–112. doi:10.1016/s0958-9465(98)00071-7. 
+[76] Yudhistira, A. T., Nugroho, A. S. B., Satyarno, I., and T. N. Handayani. (2024). Analyzing Construction Stakeholder 
+Perceptions in Indonesia: Analytic Hierarchy Process Approach for Quality, Cost, and Carbon Emission Assessment, 1-12. 
+
+
+===== PAGE 18 =====
+
+Journal of Human, Earth, and Future   
+ 
+   
+  Vol. 6, No. 2, June, 2025 
+310 
+ 
+[77] Xi, B., Zhang, N., Duan, H., He, J., Song, G., Li, H., & Shi, X. (2023). Optimization of rice husk ash concrete design towards 
+economic 
+and 
+environmental 
+assessment. 
+Environmental 
+Impact 
+Assessment 
+Review, 
+103(5), 
+107229. 
+doi:10.1016/j.eiar.2023.107229. 
+[78] Chen, T., & Guestrin, C. (2016). XGBoost: A scalable tree boosting system. Proceedings of the ACM SIGKDD International 
+Conference on Knowledge Discovery and Data Mining, 13-17-August-2016, 785–794. doi:10.1145/2939672.2939785. 
+[79] Kennedy, J., & Eberhart, R. (1995). Particle swarm optimization. Proceedings of ICNN'95-international Conference on Neural 
+Networks, 4, 1942-1948. doi:10.1109/ICNN.1995.488968. 
+[80] Shi, Y., & Eberhart, R. (1998). A modified particle swarm optimizer. IEEE international conference on evolutionary 
+computation proceedings. IEEE world congress on computational intelligence (Cat. No. 98TH8360), 69-73. 
+doi:10.1109/ICEC.1998.699146. 
+[81] Clerc, M., & Kennedy, J. (2002). The particle swarm-explosion, stability, and convergence in a multidimensional complex 
+space. IEEE Transactions on Evolutionary Computation, 6(1), 58–73. doi:10.1109/4235.985692. 
+[82] Pristyanto, Y., Mukarabiman, Z., & Nugraha, A. F. (2023). Extreme Gradient Boosting Algorithm to Improve Machine 
+Learning Model Performance on Multiclass Imbalanced Dataset. International Journal on Informatics Visualization, 7(3), 710–
+715. doi:10.30630/joiv.7.3.1102. 
+[83] Poli, R., Kennedy, J., & Blackwell, T. (2007). Quantification & Assessment of the chemical form of residual gadolinium in the 
+brain.pdf. Swarm Intell, 1, 33–57. doi:10.1007/s11721-007-0002-0. 
+[84] Engelbrecht, A. P. (2007). Computational intelligence: an introduction. John Wiley & Sons, New York, United States. 
+[85] Akiba, T., Sano, S., Yanase, T., Ohta, T., & Koyama, M. (2019). Optuna: A Next-generation Hyperparameter Optimization 
+Framework. Proceedings of the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, 2623–
+2631. doi:10.1145/3292500.3330701. 
+[86] Jones, C. (2024). ICE Database - Embodied Carbon Model of Cement, Mortar and Concrete V1.2. Circular Ecology. Available 
+online: https://circularecology.com/embodied-carbon-footprint-database.html (accessed on May 2024). 
+[87] Sandanayake, M., Lokuge, W., Zhang, G., Setunge, S., & Thushar, Q. (2018). Greenhouse gas emissions during timber and 
+concrete building construction —A scenario based comparative case study. Sustainable Cities and Society, 38(8), 91–97. 
+doi:10.1016/j.scs.2017.12.017. 
+[88] Sandanayake, M., Zhang, G., Setunge, S., Luo, W., & Li, C. Q. (2017). Estimation and comparison of environmental 
+emissions and impacts at foundation and structure construction stages of a building – A case study. Journal of Cleaner 
+Production, 151, 319–329. doi:10.1016/j.jclepro.2017.03.041. 
+[89] Skibicki, S. (2017). Optimization of Cost of Building with Concrete Slabs Based on the Maturity Method. IOP Conference 
+Series: Materials Science and Engineering, 245(2), 022061. doi:10.1088/1757-899X/245/2/022061. 
+[90] Yudhistira, A. T., Satyarno, I., Nugroho, A. S., & Handayani, T. N. (2024). Effect of Construction Delays and the Preventive 
+Role 
+of 
+Concrete 
+Works 
+Optimization: 
+Systematic 
+Literature 
+Review. 
+TEM 
+Journal, 
+13(2), 
+1203–1217. 
+doi:10.18421/TEM132-34. 

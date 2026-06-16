@@ -1,0 +1,1797 @@
+
+===== PAGE 1 =====
+
+SUST, 2025, 5(3): 000080 
+000080-1 
+  
+Received: 15 November 2024; Received in revised form: 15 February 2025; Accepted: 8 August 2025 
+This work is licensed under a Creative Commons Attribution 4.0 International License. 
+Sustainable Structures 
+ISSN: 2789-3111 (Print); ISSN: 2789-312X (Online) 
+http://www.sustain-dpl.com/journal/sust 
+DOI: 10.54113/j.sust.2025.000080 
+ 
+ORIGINAL ARTICLE 
+Effect of rice husk ash on compressive strength of sustainable pervious 
+concrete and prediction model using machine learning algorithms 
+Navaratnarajah Sathiparana,*, Pratheeba Jeyananthanb, Daniel Niruban Subramaniama  
+a Department of Civil Engineering, Faculty of Engineering, University of Jaffna, Jaffna 40000, SriLanka 
+b Department of Computer Engineering, Faculty of Engineering, University of Jaffna, Jaffna 40000, SriLanka 
+*Corresponding Author: Navaratnarajah Sathiparan. Email: sakthi@eng.jfn.ac.lk 
+Abstract: This study investigates the effect of rice husk ash (RHA) on 
+compressive strength of pervious concrete and explores the use of machine 
+learning (ML) for forecasting its strength. An inclusive dataset encompassing 
+various parameters of pervious concrete with RHA was compiled from 
+published research. This data was utilized to develop and assess ML models 
+for predicting compressive strength. Six different algorithms, including 
+Artificial Neural Network (ANN), Boosted tree regression (BT), K-nearest 
+neighbors (KNN), Linear regression (LR), Support Vector Regression (SVR), 
+and Extreme Gradient Boosting (XGB), were investigated. The findings 
+indicate an optimal RHA content for achieving maximum strength, with 
+compressive strength generally increasing to a 10% replacement level and 
+then decreasing with further RHA substitution. The analysis showed that the 
+SVR model was the most effective and reliable option for prediction. SVR 
+model achieved greater performance related to other models, exhibiting a 
+higher coefficient of determination and lower values for Root Mean Square 
+Error and Mean Absolute Error. The study shows that SVR model can 
+accurately identify how different factors in data influence each other. This 
+makes it a valuable tool for predicting how strong pervious concrete is with 
+RHA under compression. SHAP (SHapley Additive exPlanations) analysis 
+showed that aggregate size significantly affects compressive strength, 
+followed by water-to-binder ratio and curing period. 
+Keywords: Pervious concrete, rice husk ash, machine learning, compressive 
+strength 
+1 Introduction 
+Pervious concrete is a unique concrete formulation engineered to facilitate rapid water drainage. 
+Pervious concrete differs from regular concrete in that it contains numerous voids between the 
+aggregates, allowing it to absorb water, whereas regular concrete is solid and impermeable [1]. This 
+space, called porosity, can be between 15% and 35% of the total volume of pervious concrete [2]. 
+Rainwater and other liquids can be transmitted through pervious concrete, reducing stormwater runoff 
+and helping replenish groundwater supplies. This is especially useful in urban areas where many paved 
+surfaces prevent water from naturally infiltrating into the ground [3]. Due to its ability to manage water 
+effectively, pervious concrete is commonly used in various applications, such as driveways, parking 
+lots, sidewalks, and recreational areas. It is particularly beneficial in stormwater management systems, 
+where it helps mitigate the effects of heavy rainfall and urban heat islands. Additionally, pervious 
+
+
+===== PAGE 2 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-2 
+ 
+concrete can be employed in green infrastructure projects, contributing to sustainable urban design 
+initiatives that aim to integrate natural processes into the built environment. 
+Recent studies have explored mechanical performance of various concrete formulations, 
+highlighting the significance of incorporating alternative materials to enhance structural integrity. 
+Zhang et al. [4] investigated the performance of basalt fiber-reinforced recycled aggregate concrete 
+subjected to high temperatures, highlighting the potential of these materials to enhance durability. 
+Similarly, another investigation by Zhang et al. [5] examined the eccentric compression performance 
+of basalt fiber-reinforced recycled aggregate in tubular columns, further emphasizing the versatility of 
+composite materials in construction applications.  
+Pervious concrete inherently uses more cement than traditional concrete due to the absence of fine 
+particles that fill gaps. Supplementary cementitious materials (SCMs) partly substitute Portland cement, 
+lowering the overall clinker factor (a measure of environmental impact in cement production) [6]. 
+Manufacturing of Portland cement is a significant source of CO2 emissions. Using less cement and 
+incorporating SCMs, pervious concrete can have a smaller carbon footprint [7]. SCMs like fly ash or 
+silica fume can react with hydration products of cement, leading to denser and stronger concrete. This 
+is crucial for pervious concrete as it needs adequate strength despite high void content [8].  Some 
+SCMs can improve workability of pervious concrete mix, facilitating placement and finishing during 
+construction. Certain SCMs like metakaolin can improve resistance of pervious concrete to chemicals 
+like acids, enhancing its long-term performance [9]. SCMs can often be cheaper than Portland cement, 
+lowering overall material cost of pervious concrete [10]. 
+Specific benefits of SCMs in pervious concrete be contingent on the chosen material and its 
+properties. Beyond the influence of SCMs, several other aspects affect pervious concrete's properties 
+[11]. Mix design plays a critical role, with a lower water-to-cement ratio leading to a stronger and less 
+permeable concrete, but also one that's trickier to work with [12]. Nominal and distribution of size of 
+coarse aggregates are also critical, as a well-graded mix with minimal fine particles optimizes drainage 
+while maintaining strength [13]. Curing with proper moisture management is essential for pervious 
+concrete to reach its full potential and prevent cracking. Additionally, admixtures can be used for 
+specific purposes, and compaction methods must be tailored to avoid reducing this unique concrete 
+type's crucial porosity and drainage capacity [13]. Engineers can achieve optimal pervious concrete for 
+various applications by carefully considering all these factors.  
+Regular concrete is well-understood, but pervious concrete's high porosity and reliance on a 
+specific mix design make it more complex. Traditional methods for predicting strength may only 
+partially capture these nuances [14]. Machine learning (ML) analyses large datasets of past pervious 
+concrete mixes and their corresponding compressive strengths. This allows it to identify hidden patterns 
+and relationships between various mix design factors and resulting strength [15]. ML models can learn 
+from large amounts of data, potentially leading to more precise compressive strength forecasts than 
+traditional methods based on limited formulas or rules of thumb. As research explores new SCMs or 
+other concrete components, ML models can readily adapt to incorporate this new data and improve their 
+predictive capabilities [16]. ML can analyse various mix design options and predict their strengths, 
+allowing engineers to optimize concrete mixes for specific strength requirements while potentially 
+reducing material costs. 
+Recent advancements in civil engineering have witnessed a growing interest in leveraging ML 
+techniques for estimating performance characteristics of building materials [17-20]. This trend is 
+particularly relevant for complex material behaviours, such as the association between RHA 
+replacement and strength. Table 1 summarizes existing study on forecasting models for compressive 
+strength of SCMs blended pervious concrete, highlighting the application of various ML techniques. 
+Sudhir et al. [21] and Ahmad et al. [22] achieved high accuracy (R² approaching 0.99) using ANN for 
+compressive strength prediction. However, these investigations were limited by datasets derived from 
+a single experimental program. Sathiparan et al. [16, 23] predicted the compressive strength of SCMs 
+such as fly ash, metakaolin, and silica fume blended pervious concrete using ML algorithms. Their 
+studies collected data from various published literature showing that Extreme Gradient Boosting (XGB) 
+performed better than other models. This study recognizes a gap in the current literature regarding 
+
+
+===== PAGE 3 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-3 
+ 
+developing a specifically tailored ML model for forecasting compressive strength of pervious concrete 
+with rice husk ash (RHA). 
+Table 1. Overview of the ML models utilized for predicting the compressive strength of SCMs blended 
+pervious concrete 
+SCMs used 
+Ref 
+Data points 
+MLs used 
+Fly ash 
+Sathiparan et al. [23] 
+437 
+LR, ANN, BT, SVR, RF 
+& XGB 
+Fly ash, Silica fume 
+Yu et al. [24] 
+123 
+CNN & BPNN 
+Ground Granulated 
+Blast-furnace Slag 
+Sudhir Kumar et al. [21] 
+18 
+ANN 
+Metakaolin 
+Sathiparan et al. [16] 
+131 
+ANN, BT, RF & XGB 
+Silica fume 
+Sathiparan et al. [25] 
+222 
+LR, ANN, BT, KNN, 
+SVR, RF & XGB 
+Silica fume 
+Le et al. [26] 
+164 
+XGB, RF, SVR, ANN 
+Waste glass powder 
+Ahmad et al. [22] 
+99 
+LR, NLR, ANN 
+RHA is a byproduct of agricultural activities, and utilizing it lessens the need for cement 
+production with a high environmental footprint. RHA offers potential advantages over other SCMs like 
+fly ash, metakaolin, and silica fumes when used as a cement replacement. Rice husk is a waste product 
+from rice production, creating a plentiful and sustainable source of RHA compared to byproducts from 
+industrial processes like fly ash [27]. Also, RHA can improve early-age strength of concrete compared 
+to some SCMs, like FA, which can see slower strength development initially. This can be beneficial for 
+projects requiring faster turnaround times. Research indicates that RHA can enhance the workability of 
+fresh mixes, facilitating easier placement and handling during construction [28]. Studies have shown 
+that up to a certain percentage (typically around 10-12%) of cement replacement with RHA can improve 
+compressive strength [29, 30]. In addition, RHA is generally cheaper than cement and other SCMs that 
+can reduce cost of pervious concrete production [29]. As mentioned earlier, the strength of pervious 
+concrete depends on various factors; a proper mix design is essential to optimize concrete mixes for 
+specific strength requirements.  
+Several studies focused on predicting compressive strength of RHA blended concrete. Kashan et al. 
+[31] reported that hybrid machine-learning algorithms can accurately predict compressive strength of 
+RHA blended concrete. These models significantly outperform traditional methods. Key factors 
+influencing strength include cement, curing age, water, and RHA content. The optimal RHA content 
+for maximum strength is between 25-175 kg/m³. This research provides valuable insights for optimizing 
+RHA blended concrete mix designs and improving construction efficiency and safety. Despite 
+increasing use of RHA as a SCM in various concrete formulations, there is notable deficiency of 
+research specifically focusing on forecast of compressive strength of RHA-blended pervious concrete. 
+Predicting strength using ML algorithms is crucial for several reasons. First, accurate predictions can 
+lead to optimized mixed proportion that enhance performance and sustainability, reducing material 
+costs and environmental effect. Second, ML techniques can identify complex associations among 
+various mix parameters and compressive strength that traditional methods may overlook. This 
+predictive capability is mainly vital in the context of sustainable construction practices, where efficiency 
+and resource conservation are paramount. In this study, the capability of ML is explored to forecast 
+compressive strength of previous concrete, which incorporates RHA as an additional ingredient. The 
+data is collected from pervious concrete mixes from various published research sources. Performance 
+of six different ML techniques is compared to find the most accurate prediction method. Ultimately, 
+models developed in this study offer a new method to improve accuracy of predicting strength of 
+pervious concrete containing RHA. This could benefit engineers and construction professionals 
+working with this type of material. 
+2. Methodology 
+2.1 Data collection 
+
+
+===== PAGE 4 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-4 
+ 
+An inclusive literature exploration used reputable databases like Web of Science, Scopus, and 
+Google Scholar. The exploration string encompassed terms related to pervious concrete ("pervious 
+concrete", "porous concrete", "permeable concrete") and RHA ("rice husk ash", "RHA"). This strategy 
+aimed to identify relevant studies within the title, abstract, and keywords. Following initial search, the 
+retrieved literature underwent a thorough screening process to disregard duplicate data. This ensured 
+that the data used for further analysis was original and non-redundant. Relevant information for 
+constructing ML models was subsequently extracted and summarized in Table 2. In selecting input 
+variables for ML models, study focused on parameters that have been widely recognized in existing 
+literature as significant predictors for compressive strength. The chosen parameters include: 
+ 
+Aggregate-to-binder ratio (Agg/B): This ratio is crucial as it influences the density and 
+strength of the concrete mix. 
+ 
+Rice husk ash-to-binder ratio (RHA/B): RHA is included because of its pozzolanic 
+properties, which enhance strength when used within certain limits. 
+ 
+Water-to-binder ratio (W/B): This ratio is vital for determining the workability and 
+strength of the concrete, as it directly affects hydration. 
+ 
+Mean aggregate size: The size of aggregates impacts the concrete's porosity and 
+interlocking characteristics, influencing overall strength. 
+ 
+Curing period: Curing conditions are essential for the development of compressive 
+strength, as they affect the hydration process. 
+These variables were selected based on a review of previous studies that have demonstrated their 
+relevance in predicting compressive strength in concrete. This comprehensive approach ensures that the 
+model captures multifaceted interactions between different components of concrete mix. The compiled 
+dataset encompassed 193 observations, offering a robust foundation for analysis. This comprehensive 
+dataset encompassing various features of pervious concrete with RHA is expected to be valuable for 
+future research and industrial applications. 
+Table 2. Overview of the data composed form published literature 
+Ref 
+Agg/B  
+RHA/B 
+W/B 
+Mean 
+Agg. Size 
+Curing 
+period 
+CS 
+No. of 
+data 
+Adamu et al. [32] 
+5.5  
+0-0.1 
+0.40 
+12 
+3, 7, 28 
+4.7-7.3 
+6 
+Balasubramani et al. [33] 
+6, 8, 10 0.03-0.09 
+0.45 
+15 
+7, 28 
+2.2-9.4 
+18 
+Hesami et al. [34] 
+4.4 
+0-0.12 
+0.27 
+10.7 
+28 
+13.6-17.7 
+4 
+Kim et al. [35] 
+6.5 
+0-0.35 
+0.20 
+7.5 
+7, 28 
+2.0-7.8 
+16 
+Ramadhasyah [36] 
+2.5 
+0-0.4 
+0.34 
+8.4 
+7, 14,28, 
+56, 90 
+14.7-35.1 
+25 
+Sai Kumar [37] 
+2.4 
+0-0.3 
+0.40 
+16 
+7, 28 
+7.5-10.9 
+8 
+Shafabakhsh and Ahmadi 
+[38] 
+4.4 
+0-0.12 
+0.34 
+7.5 
+28 
+14.5-20.6 
+7 
+Shekhar and Shukla [39] 
+3.0 
+0-0.2 
+0.40 
+8 
+7, 14, 28 
+18.2-38.4 
+18 
+Shwetha [40] 
+5.6 
+0-0.3 
+0.42 
+12.5 
+7, 14, 28, 
+56 
+5.7-12.2 
+16 
+Subramaniam and 
+Sathiparan [6] 
+2.5 
+0-0.2 
+0.30-0.45 
+7.5 
+7, 28 
+4.4-34.4 
+40 
+Talsania et al. [41] 
+4 
+0-0.2 
+0.30-0.40 
+15 
+7, 14, 28 
+6.4-11.0 
+27 
+Vanathi et al. [42] 
+6 
+0-0.3 
+0.36 
+14.75 
+7, 28 
+4.3-13.9 
+8 
+Overall 
+2.5-10 
+0-0.4 
+0.2-0.45 
+7.5-16 
+3-90 
+2.0-38.4 
+193 
+Experimental studies from which the data was sourced primarily involved mixing RHA with 
+pervious concrete in varying proportions. Sample preparation involved thoroughly mixing dry 
+ingredients, including cement, aggregates, and RHA, followed by careful addition of water. Most 
+studies utilized a 150 mm cube for testing, while a couple of studies employed a 100 mm cube and a 
+150 x 300 mm cylindrical specimen. Compressive strength tests were conducted in according to 
+established protocols, including ASTM C39 [43], BS-EN-12390 [44], and IS: 516 [45]. Samples were 
+subjected to a uniaxial compressive load until failure, with the maximum load recorded to calculate 
+
+
+===== PAGE 5 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-5 
+ 
+compressive strength. For ML model analysis, we used raw data extracted from reviewed studies. 
+Utilizing raw data is justified as it provides a comprehensive and unaltered representation of 
+experimental outcomes, ensuring that our model captured inherent variability and characteristics in data. 
+This method lets for a more accurate analysis and better generalization of results. 
+2.2 Machine learning models 
+ 
+Fig. 1. ML methodology flow chart 
+This study employed a accurate ML approach to develop a model for forecasting pervious 
+concrete's compressive strength, as demonstrated in Fig. 1. A dataset encompassing 193 data points 
+from peer-reviewed literature served as the foundation for the analysis. Six well-established ML 
+algorithms were investigated: Linear Regression (LR), Artificial Neural Network (ANN), Boosted Tree 
+Regression (BT), Random Forest Regression (RF), Support Vector Regression (SVR), and Extreme 
+Gradient Boosting (XGB).  
+ 
+LR: Linear Regression is one of the simplest and most widely used statistical methods for 
+predictive modeling. It assumes a linear relationship among independent variables (features) and 
+dependent variable (target). LR is advantageous due to its interpretability, ease of implementation 
+and efficiency in training. It provides a clear understanding of how each feature contributed to 
+prediction. Despite its simplicity, LR is effective when association among features and target 
+variable is almost linear. It serves as a baseline model in this study, allowing for comparisons 
+against more complex algorithms. 
+ 
+ANN: It is a powerful modeling technique stimulated by human brain's structure and functioning. 
+
+
+===== PAGE 6 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-6 
+ 
+Composed of interconnected nodes systematized in layers, it can model complex, nonlinear 
+associations between inputs and outputs. They are particularly effective in capturing intricate non-
+linear patterns in large datasets. ANNs were selected for their flexibility and capability to learn 
+from data without explicit programming of relationships. Their ability to generalize well makes 
+them suitable for forecasting compressive strength, where interactions among variables can be 
+complex. 
+ 
+BT: It is an ensemble ML method that merges several weak learners, usually decision trees, to form 
+an accurate predictive model. Each tree is trained to correct errors made by preceding trees. This 
+method is advantageous because it effectively reduces bias and variance, leading to improved 
+accuracy. BT was selected due to its capability to handle complex nonlinear associations and 
+connections among features, which is critical in forecasting compressive strength. 
+ 
+KNN: It is a learning algorithm that does not assume any underlying data distribution. It operates 
+by comparing instances directly, making it suitable for tasks in both classification and regression. 
+It predicts output for a new instance by averaging the outputs of its K nearest neighbors in the 
+training dataset. KNN is easier to recognize and instrument, making it a respectable benchmark 
+model. It was included in this study for its capability to capture local patterns in the data, especially 
+in cases where the association among features and target variable is non-linear. 
+ 
+SVR: It extends the principles of Support Vector Machines to handle regression problems. Its 
+objective is to identify a hyperplane that optimally represents the data while maximizing the 
+distance between the hyperplane and the closest data points. SVR performs well in high-
+dimensional environments, especially when the number of dimensions surpasses the number of 
+samples. Its robustness to overfitting, especially in high-dimensional spaces, makes it suitable for 
+the complexities inherent in predicting compressive strength. 
+ 
+XGB: It is a refined approach to gradient boosting that prioritizes efficiency and high performance. 
+It incorporates regularization techniques to reduce overfitting and handles missing data effectively. 
+XGB is recognized for its high predictive precision and has been widely used in various 
+applications, including regression tasks. Its selection in this study is based on its proven 
+performance in similar contexts and its ability to model complex interactions within the dataset. 
+These algorithms were chosen to deliver a comprehensive comparison of various modeling 
+techniques, allowing for the identification of the most operative approaches for predicting compressive 
+strength. In present study, the dataset was splitted into training and testing sets using an 80 to 20 ratio. 
+This split was chosen to balance the need for a robust training dataset while ensuring adequate data 
+remained for reliable performance evaluation. Hyperparameter tuning, employing a grid search 
+technique, was implemented to optimize each model's configuration.  
+Additionally, five-fold cross-validation was utilized to mitigate overfitting. Model comparisons 
+were conducted using various performance metrics, including statistical measures, a Taylor diagram, 
+and error distribution analysis. The SHAP analysis was performed on the best-performing model to 
+understand relative influence of independent variables on compressive strength. ML analysis utilized 
+Python version 3.11.5 and JMP Pro v.17. JMP Pro played a primary role in hyperparameter tuning and 
+model training. Python facilitated SHAP analysis. 
+2.3 Performance indicators 
+The performance of the proposed models was comprehensively evaluated using a differnt statistical 
+metrics. These metrics included the R² (coefficient of determination), RMSE (Root Mean Square Error), 
+MAE (Mean Absolute Error), SI (Scatter Index), and a20 index (as defined in Eqs. 1-5).  
+
+
+
+
+
+
+
+2
+i
+i
+2
+i=1
+2
+2
+i
+i
+i=1
+i=1
+n
+n
+n
+P
+P
+E
+E
+R
+P
+P
+E
+E
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+(1) 
+
+
+----- TABLE p6#1 -----
+
+n 2
+P P
+i
+i=1 | n 2
+E E
+i
+i=1
+
+===== PAGE 7 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-7 
+ 
+
+
+n
+2
+i
+i
+i=1
+E
+P
+RMSE
+N
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(2) 
+
+
+n
+i
+i
+i=1
+E
+P
+MAE
+N
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    
+(3) 
+RMSE
+SI
+E
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(4) 
+20
+index
+20
+N
+a
+N
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(5) 
+In this context, Pi denotes the forecasted strength, Ei indicates the actual strength, 𝑃̅ represents 
+the average of the forecasted strength, 𝐸̅ signifies the average of the actual strengths, N is the total 
+number of datasets, and N20 refers to instances where the forecasted strength is within 20% error of the 
+actual strength. 
+Each metric suggestions a unique dimension on model performance, providing a comprehensive 
+assessment of how well a model captures underlying data and align with research objectives.  
+ 
+R²: It specifies the fraction of variability in the dependent parameter which can be 
+anticipated based on the independent parameter. Its values range from 0 to 1, with a value near 1 
+suggesting a superior fit of the model with the data. R² is critical for understanding how well a 
+model explains variability of compressive strength predictions, allowing for comparisons between 
+different models. 
+ 
+RMSE: It is the square root of the mean of the squared differences between the forecasted 
+and actual values. This metric reflects the extent of deviation of prediction errors from actual values, 
+where smaller RMSE indicate improved performance of the model. RMSE is particularly useful in 
+assessing accuracy of regression models and provides a clear empathetic of common range of 
+prediction errors. 
+ 
+MAE: It characterizes the mean of the absolute disparities among forecasted values and 
+actual values. Unlike RMSE, which squares the errors, MAE treats all errors equally, making it 
+easier to interpret in terms of original scale of data. MAE is beneficial in understanding average 
+prediction error and provides an alternative measure of model accuracy that can complement RMSE. 
+ 
+SI: It is a normalized measure of prediction accuracy, calculated as the ratio of RMSE to 
+the mean of observed values. It offers a unitless metric for assessing model performance, facilitating 
+straightforward comparisons across various datasets. SI values can be taken as follows: SI > 0.3: 
+Poor e, 0.2 < SI ≤ 0.3: Acceptable, 0.1 < SI ≤ 0.2: Excellent, 0 ≤ SI ≤ 0.1: Great performance. 
+ 
+a20 Index: It measures the percentage of forecasted strength that lie within a defined 
+range (20%) of the actual strength. This is determined by splitting the count of forecasts within that 
+range by the total number of data. This metric is especially valuable for evaluating the real-world 
+relevance of models, as it shows how frequently the predictions are reasonably close to the actual 
+measurements. 
+2.4 Hyperparameter tuning 
+In this study, hyperparameter optimization was a critical step to enhance performance of ML 
+models. A grid search was employed for hyperparameter tuning, which methodically investigates a 
+predefined values of hyperparameter to categorize a combination that produces the best model 
+performance. This method assesses all probable combinations of specified hyperparameter values, 
+allowing for a comprehensive assessment of their impact. Each ML algorithm has specific 
+hyperparameters that influence its performance. For instance, the ANN involved tuning the number of 
+layers and number of nodes per layer, while KNN required selecting the optimal number of neighbors 
+(k). The BT model was optimized by adjusting number of layers and number of splits per tree, whereas 
+
+
+===== PAGE 8 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-8 
+ 
+SVR involved tuning the kernel type, cost, and gamma parameters. For XGB, hyperparameters such as 
+max depth, subsample, colsample by tree, min child weight, learning rate, and iterations were fine-tuned. 
+Performance of each hyperparameter configuration was assessed using R² and RMSE as primary 
+metrics, with the aim of maximizing R² and minimizing RMSE. To ensure robust evaluation and 
+mitigate overfitting, five-fold cross-validation was applied during optimization process, dividing the 
+training dataset into five equally sized folds. This comprehensive approach to hyperparameter 
+optimization intended to find the most effective configurations for each ML algorithm, ultimately 
+enhancing the forecasting accuracy of the models for compressive strength. 
+3. Results and discussion 
+3.1 Effect of RHA on compressive strength 
+This study investigates the consequence of RHA substitution level on strength. Findings suggest 
+an optimal RHA content for achieving maximum strength. Previous research has shown a trend where 
+compressive strength generally increases with RHA addition up to a certain point, followed by a 
+decrease beyond that point. This phenomenon is evident in Fig. 2(a), where compressive strength 
+steadily rises until a 10% RHA replacement level and then declines with further RHA incorporation. 
+ 
+Fig. 2. (a) compressive strength and (b) strength activity index variation with RHA to binder ratio 
+Initial strength gain can be attributed to RHA's pozzolanic nature. RHA reacts with calcium 
+hydroxide during cement hydration, forming additional cementitious gel that increase concrete strength. 
+However, excessive RHA content can introduce higher porosity due to its finer particle size than cement. 
+
+
+===== PAGE 9 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-9 
+ 
+This increased porosity disrupts the formation of a strong and continuous network within the concrete, 
+ultimately reducing compressive strength. 
+Fig. 2(b) explores the strength activity index (SAI) changes with increasing RHA/B ratio. SAI is 
+a relative measure of the compressive strength between RHA-blended and control pervious concrete. 
+Equation (6) expresses the observed trend in the SAI with R2= 0.0971: 
+
+
+
+
+2
+1 1.4544
+/
+6.6993
+/
+SAI
+RHA B
+RHA B
+
+
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(6) 
+Analysis indicates that maximum strength, on average, is achieved at a 9% RHA replacement level. 
+At this optimal level, the ultimate strength achieved is 8% higher than the control pervious concrete. 
+This equation's correlation coefficient (R²) is 0.0971, indicating a weak relationship between the RHA/B 
+ratio and the SAI. This suggests that other mix parameters likely influence compressive strength of 
+RHA blended pervious concrete. 
+3.2 Statistical analysis 
+ 
+Fig. 3. Data distribution of independent and dependent variables 
+Fig. 3 characterizes the distribution of variables. Statistical analysis was conducted and their values 
+are documented within the figures for each variable. These statistics deliver valuable understandings 
+into the data distribution. Notably, all parameters except W/B ratio exhibited positive skewness. This 
+observation suggests positive skewness in the spreading, with a tail spreading to higher values. 
+Significantly positive kurtosis values for Agg/B, W/B, and curing period suggest that these variables 
+are leptokurtic. In contrast, a negative kurtosis value for the aggregate size and compressive strength 
+suggests that these parameters have shorter tails than a normal distribution. This suggests that there are 
+fewer extreme values than typically anticipated in a normal distribution. 
+Statistical analysis investigated relationships between selected parameters and compressive 
+strength. Results in Fig. 4 indicate that Agg/B, aggregate size, and curing period have higher correlation 
+with compressive strength. It's important to note that no correlations were observed between 
+independent parameters, except for Agg/B and aggregate size. Curing period exhibited the strongest 
+positive correlation (R = 0.46) with strength, followed by the W/B ratio (R = 0.18). Conversely, 
+increasing Agg/B ratio (R = -0.62) and aggregate size (R = -0.62) negatively correlated with 
+compressive strength. 
+
+
+===== PAGE 10 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-10 
+ 
+ 
+Fig. 4. Correlation between variables 
+Size of aggregates significantly influenced compressive strength of pervious concrete. Larger 
+aggregates tend to create larger voids within concrete matrix, which can negatively affect overall 
+strength by reducing the effective area available for load transfer. Research has shown that smaller 
+aggregate sizes can lead to a denser packing of particles, enhancing interlocking and stability of concrete 
+structure [14]. In contrast, when larger aggregates are used, increased porosity may result in a weaker 
+matrix, as interlocking between particles is compromised [46]. This phenomenon is supported by 
+studies indicating that strength reductions with larger aggregate size [47]. Furthermore, it is essential to 
+consider aggregate grading; well-graded aggregates can optimize packing density and minimize voids, 
+thereby enhancing strength of the concrete [12]. These findings suggest that careful consideration of 
+aggregate size and grading is crucial to achieve anticipated compressive strength in pervious concrete. 
+3.3 Hyperparameters optimization 
+Six comprehensive algorithms were implemented during the ML model training process. A 
+detailed account of the hyperparameters utilized in this study is provided in Table 3. A grid search 
+method was employed to optimize prediction performance for hyperparameter tuning. While methods 
+like random search and Bayesian optimization are also effective, grid search allows for a thorough 
+evaluation of specified parameter combinations, ensuring that we capture the intricacies of the model's 
+performance across various settings. This approach is particularly beneficial when number of 
+hyperparameters is relatively small, as it provides a comprehensive understanding of their impact on 
+model accuracy. 
+Cross-validation is a critical statistical method for evaluating and assessing the performance of ML 
+models. Assessing chosen models' performance is critical. Validation techniques are necessary to 
+evaluate a model's data accuracy. Consequently, five-fold validation was adopted to moderate 
+overfitting and bolster robustness of ML models. Prior research has extensively documented the 
+advantages of employing a 5-fold cross-validation approach, as it demonstrably yields favorable time-
+based outcomes [48]. Five-fold cross-validation approach was employed for model evaluation. Dataset 
+was divided into five equally sized folds. In each iteration of the five-fold cross-validation, four folds 
+were utilized for training the model, and the remaining fold was used for validation. This ensured that 
+each fold served as the validation set once. This process mentioned above was meticulously repeated 
+five times to guarantee thorough testing. 
+
+
+===== PAGE 11 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-11 
+ 
+Table 3. Hyperparameters used for the ML models 
+Model 
+Hyperparameters 
+Selected value 
+Analyzed Values 
+ANN 
+Number of layers 
+Nodes per layer 
+2 
+[8, 8] 
+[1, 2] 
+[1-10] 
+KNN 
+k 
+2 
+[1-10] 
+BT 
+Number of layers 
+Split per tree 
+Learning rate 
+5 
+10 
+0.5 
+[1-10] 
+[1-10] 
+[0.01, 0.1, 0.25, 0.5, 1] 
+SVR 
+Kernel 
+Cost 
+Gamma 
+Radial basis function 
+4.97785 
+0.49884 
+[linear, Radial basis function] 
+[0.01-5] 
+[0.001-0.5] 
+XGB 
+Max_depth 
+Subsample 
+Colsample_by tree 
+Min_child_weight 
+Alpha 
+Lambda 
+Learning rate 
+Iterations 
+5 
+0.6088 
+0.8228 
+1.3704 
+0.0832 
+0.0131 
+0.1867 
+16 
+[1-5] 
+[0.5-1] 
+[0.5-1] 
+[1-3] 
+[0-0.5] 
+[0-2] 
+[0.05-0.2] 
+[0-20] 
+ 
+Fig. 5. Performance indicators for k-fold validation 
+Outcomes of K-fold cross-validation is showed in Fig. 5. For training dataset, ANN exhibited 
+superior R² and smaller RMSE than other ML models. However, the SVR model demonstrated superior 
+performance for the validation dataset. Notably, ANN and SVR models achieved R² values surpassing 
+0.97 for all training dataset folds. For training dataset, each model displayed a limited range of 
+discrepancy in R². Conversely, for validation datasets, only ANN and SVR models exhibited a 
+contracted range of variation in R² (discrepancy of maximum and minimum R²), which was 
+
+
+===== PAGE 12 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-12 
+ 
+approximately 0.07. The XGB model displayed a significant variation in R² for validation datasets. This 
+tendency was similarly detected for RMSE values. ANN and SVR models revealed excellent 
+performance in training and testing datasets. SVR revealed narrowest range of RMSE values, varying 
+between 1.43 MPa to 1.50 MPa for training datasets and 1.19 MPa to 1.76 MPa for validation datasets, 
+respectively. The aforementioned findings imply that ANN and SVR models are not susceptible to 
+overfitting and more reliable ML models for prediction. 
+3.4 Models’ performance 
+While a model's performance is evaluated using the dataset compiled, it is essential to note that k-
+fold cross-validation techniques were employed to mitigate risk of overfitting. This method divides the 
+dataset into multiple subsets, allowing a model to be trained on different combinations of data fractions 
+and validated on unseen portions, thus providing a more robust assessment of its accuracy.  
+ 
+Fig. 6. Predicted vs. actual strength for different ML algorithms 
+
+
+===== PAGE 13 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-13 
+ 
+ 
+Fig. 7. Performance index variation for different ML algorithms 
+Among the models evaluated (Fig. 6 and Fig. 7), the SVR model demonstrated the most robust 
+predictive capabilities. This conclusion is substantiated by the SVR model's significantly higher R² 
+related to other models. Furthermore, the SVR model showed notably lower RMSE and MAE, 
+demonstrating a high degree of accuracy in aligning estimates with observed data. While the ANN 
+model confirmed greater performance on the training dataset, its generalization ability, as evidenced by 
+its performance on the testing dataset, was outperformed by the SVR model. Further validation using 
+the SI value and a20 index verified the SVR model's accuracy. The SVR model exhibited a lower SI 
+value, signifying its effectiveness in minimalizing the discrepancy among predicted and measured 
+values. Notably, the SI values for both training and testing datasets (0.11 and 0.12, respectively) 
+
+
+===== PAGE 14 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-14 
+ 
+highlight the model's consistent performance across known and unseen data. Moreover, the analysis 
+revealed that 90% of predicted values for both datasets fell within a 20% error margin of the measured 
+values. 
+The combined results clearly express the greater performance of the SVR model. Related to other 
+models, the SVR model exhibited a higher R² and smaller values for RMSE, MAE and SI. Furthermore, 
+a smaller a20 index further supports its strong generalization capabilities. These findings strongly 
+suggest that the SVR model effectively captures the intricate relationships and complications inherent 
+within the data. This interprets to exceptional forecasting accuracy, crafting it a highly valued tool for 
+forecasting applications. The model's accuracy and consistency underscore its significant potential to 
+subsidize meaningfully to the field of predictive analytics. 
+A comprehensive analysis of ML models reveals that SVR model outperformed other algorithms 
+in forecasting compressive strength. Superior performance of SVR can be attributed to its capability to 
+efficiently handle high-dimensional data and capture complex, nonlinear relations among input features 
+and target variable. By maximizing the margin between predicted values and actual data points, SVR 
+minimizes prediction errors and enhances generalization capabilities, making it particularly robust 
+against overfitting. In contrast, while ANN model demonstrated strong performance, its complexity can 
+lead to overfitting, especially with smaller datasets. ANNs require careful tuning of hyperparameters 
+and sufficient training data to achieve optimal results. Although they are highly flexible and capable of 
+modeling intricate relationships, their lack of interpretability can be a limitation when attempting to 
+understand the underlying factors affecting predictions. 
+BT algorithm also showed competitive results, benefiting from its ensemble learning approach that 
+combines multiple weak learners. However, it may require significant computational resources and can 
+be sensitive to noisy data, which may affect its performance in certain scenarios. Similar to ANN, BT 
+models can be prone to overfitting if not properly regularized. KNN offered a simple yet effective 
+method for prediction, but its performance is vastly reliant on the select of 'k' and the distance metric 
+utilized. While KNN can capture local patterns, it tends to struggle with high-dimensional data due to 
+"curse of dimensionality," leading to decreased accuracy as the number of features increases. XGB is 
+recognized for predictive power and competence; however, it can be complicated to tune due to 
+numerous hyperparameters. XGB excels in handling missing values and modeling complex interactions, 
+but its performance may vary significantly with different datasets, necessitating careful validation. 
+3.5 Taylor diagram 
+ 
+Fig. 8. Taylor diagram for performance of ML models 
+
+
+===== PAGE 15 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-15 
+ 
+A Taylor diagram was utilized to evaluate performance of ML models in prediction. Proximity of 
+a model's marker to reference point (depicted by a red line in Fig. 8) reflects the agreement between its 
+predictions and measured compressive strength values. This agreement is quantified by considering 
+fundamental statistical properties such as standard deviation and correlation coefficient. Among 
+evaluated models, ANN exhibited the closest correspondence to reference point for the training dataset, 
+followed by SVR and XGB models. Conversely, LR model displayed the furthest distance from 
+reference point in training and testing datasets, indicating significant deviations between its predictions 
+and actual data. Taylor diagram also incorporates a horizontal line representing correlation between 
+forecasted and actual strength. The SVR model's proximity to this line indicates a stronger correlation 
+compared to the other models. 
+3.6 Error distribution 
+Fig. 9 shows the error distribution for several ML models employed to forecast compressive 
+strength, where error is defined as the discrepancy between forecasted and measured values. The 
+illustration offers important perceptions into the predictive capabilities of models. The LR shows a 
+considerable presence of outliers, with data points that significantly stray from the average trend. This 
+indicates a possible drawback of the LR model in adequately representing the complex relationships in 
+the data. In contrast, the ANN model shows the highest level of consistent predictive accuracy among 
+the models assessed. This is reflected in a tighter error range, from -3.61 to 5.67 MPa, suggesting a 
+smaller gap between the forecasted and actual compressive strength values. 
+ 
+Fig. 9. Error distribution for various ML algorithms (a) training dataset and (b) testing dataset 
+ANN, KNN, and SVR model error distributions exhibit positive skewness. This specifies that mean 
+error is higher than median error. Besides, all three models have a positive average error, indicating a 
+consistent underestimation of compressive strength. In contrast, XGB and BT models display negative 
+skewness. While BT model exhibits negative skewness, its average error value remains positive (+0.22 
+MPa). This suggests a few higher errors on the negative side, potentially outweighing overall 
+distribution towards underestimation. These observations underscore the necessity of utilizing a broad 
+array of statistical metrics and visualizations, in addition to mere visual assessment, to thoroughly assess 
+the performance of prediction models. This comprehensive approach offers a deeper insight into the 
+strengths and weaknesses of each model. 
+
+
+===== PAGE 16 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-16 
+ 
+Fig. 10 illustrates production errors associated with various ML models across different 
+compressive strength ranges. For strengths below 8 MPa, all models tend to overestimate predictions. 
+SVR model exhibits a narrow error distribution, followed closely by the XGB model. In strength range 
+of 8 to 16 MPa, error distribution is fairly balanced around zero, though several instances show a higher 
+positive error. XGB model again demonstrates a narrow error distribution, while SVR model's 
+prediction errors are predominantly closer to zero, with a few outliers. For strengths exceeding 16 MPa, 
+all ML models tend to underestimate predictions. XGB model continues to show a narrow error 
+distribution, followed by ANN and SVR model. 
+ 
+Fig. 10. Error distribution for various ML algorithms and compressive strength range 
+3.7 Sensitivity analysis 
+SHAP (SHapley Additive exPlanations) is a method utilized in ML to explain individual 
+predictions made by a model. SHAP values are a powerful tool for interpreting predictions of ML 
+models, providing insights into contribution of each feature to final prediction. By applying cooperative 
+
+
+===== PAGE 17 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-17 
+ 
+game theory principles, SHAP values assign each feature an importance score based on its marginal 
+influence to the prediction, allowing for a clear understanding of how different variables influence a 
+model's outputs. In this study, SHAP values were computed for top-performing models, particularly 
+focusing on Support Vector Regression (SVR) model [49]. SHAP defines the influence of each 
+parameter to the model's prediction in relation to a baseline prediction. This enables understanding of 
+how each feature influences the prediction towards the final outcome. SHAP offers various ways to 
+visualize these feature contributions, including force, summary, and dependence plots. These 
+visualizations help interpret the influence of each parameter on model's output [50]. 
+Mean SHAP values provided in Fig. 11 indicate the feature contributions to predicting compressive 
+strength of RHA blended pervious concrete. Higher SHAP values represent a more significant impact 
+on model's predictions. Aggregate size has the most substantial positive effect (SHAP value = +4.81) 
+on compressive strength in this analysis. W/B ratio (+2.25) and Curing Period (+2.19) also have 
+significant positive influences. Agg/B ratio (+1.41) and RHA/B ratio (+1.09) also have positive effects 
+but to a lesser extent than previous factors. An optimal balance between Agg/B is crucial, and including 
+RHA can contribute to strength enhancement, but likely through mechanisms like pore refinement or 
+pozzolanic reaction. 
+ 
+Fig. 11. Mean SHAP values for the model 
+ 
+Fig. 12. SHAP summary plot for the model 
+SHAP summary plots in Fig. 12 illustrate influences of specific parameter to model's compressive 
+strength estimation. Colour gradient along x-axis characterizes the range of values for each parameter. 
+Position of a data point on y-axis indicates raw feature value itself. Red dots specify parameter with 
+high values associated with robust positive SHAP values. Notably, a substantial positive SHAP score 
+of 10 is recorded for lower aggregate size. This finding recommends that within the investigated range, 
+smaller aggregates can enhance predicted compressive strength by 10 MPa compared to an average 
+value. A negative SHAP value of -10 at the far left of x-axis specifies that larger aggregates may reduce 
+predicted compressive strength by 10 MPa comparative to average. Pervious concrete relies on 
+interlocking of aggregate particles for strength. Larger aggregates leave bigger voids between them, 
+hindering this interlocking effect and leading to a weaker matrix. Also, larger aggregates contribute to 
+
+
+===== PAGE 18 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-18 
+ 
+a higher overall void content in the concrete mix [46]. This porosity reduces effective load-bearing area, 
+translating to lower compressive strength. During compression testing, larger aggregates are more prone 
+to crushing under pressure within the porous structure, compromising the concrete's strength. 
+This study establishes a positive correlation among curing time and compressive strength as a 
+higher W/B ratio and a more extended curing period positively influence compressive strength. 
+Extended curing periods enhance compressive strength due to facilitation of cement hydration. 
+Hydration is a chemical reaction between water and cement, forming hydration products that contribute 
+to strength. A longer curing duration allows a more complete hydration process, ultimately leading to a 
+higher compressive strength [51]. It is shown that lower Agg/B ratio positively affects compressive 
+strength. Agg/B directly influences the mortar matrix's density and particle packing. A higher ratio 
+signifies a reduction in cementitious material available to bind aggregate particles, consequently 
+hindering compressive strength development. While the impact of RHA on compressive strength is less 
+pronounced compared to other parameters, it still exerts a significant influence. In general, mortars 
+formulated with higher RHA/B ratios exhibit lower compressive strength. 
+3.8 Comparison with past studies 
+Table 4. Overview of the ML model for estimating compressive strength of SCMs-enhanced pervious concrete 
+Ref 
+SCMs 
+used 1 
+Impendent 
+variable 2 
+Data 
+points 
+MLs 
+used 
+R2 
+(Train) 
+RMSE 
+(Train) 
+R2  
+(Test) 
+RMSE 
+(Test) 
+Best 
+model 
+Yu et al. 
+[24] 
+Fly ash, 
+Silica 
+fume 
+C.C, C.Agg, 
+F.Agg, W, 
+SCM, Admix 
+123 
+CNN 
+BPNN 
+0.94 
+ 
+2.72 
+4.07 
+0.94 
+3.00 
+3.31 
+CNN 
+Sathiparan 
+et al. [23] 
+Fly ash 
+Agg/B, W/B, 
+SCM/B, 
+Agg.S, t 
+437 
+ANN 
+BT 
+LR 
+RF 
+SVR 
+XGB 
+0.82 
+0.96 
+0.40 
+0.92 
+0.71 
+0.99 
+4.21 
+2.07 
+7.67 
+2.89 
+5.13 
+0.86 
+0.82 
+0.92 
+0.42 
+0.89 
+0.71 
+0.95 
+4.58 
+3.09 
+8.31 
+3.57 
+5.73 
+2.53 
+XGB 
+Sathiparan 
+et al. [25] 
+Silica 
+fume 
+C.C, SCM, 
+C.Agg, 
+F.Agg, W, 
+Admix, 
+Agg.S, t 
+222 
+ANN 
+BT 
+KNN 
+LR 
+RF 
+SVR 
+XGB 
+0.95 
+0.93 
+0.85 
+0.44 
+0.95 
+0.91 
+1.00 
+2.71 
+3.20 
+4.74 
+9.17 
+2.86 
+3.63 
+0.28 
+0.94 
+0.87 
+0.86 
+0.42 
+0.90 
+0.85 
+0..97 
+3.05 
+4.32 
+4.59 
+9.30 
+3.87 
+4.72 
+2.21 
+XGB 
+Sudhir 
+Kumar et 
+al. [21] 
+GGBS 
+C.C, SCM, 
+Agg.S, 
+Porosity 
+18 
+ANN 
+0.99 
+0.12 
+0.99 
+0.14 
+ANN 
+Ahmad et 
+al. [22] 
+Waste 
+glass 
+powder 
+C.C, SCM, 
+W/B, C.Agg, t 
+99 
+LR 
+NLR 
+ANN 
+0.77 
+0.82 
+0.99 
+2.72 
+2.39 
+0.53 
+0.79 
+0.89 
+0.99 
+2.72 
+1.37 
+0.49 
+ANN 
+Sathiparan 
+et al. [16] 
+Metakaolin 
+Agg/B, W/B, 
+SCM/B, 
+Agg.S, t 
+131 
+ANN 
+BT 
+RF 
+XGB 
+0.96 
+0.97 
+0.99 
+0.98 
+1.49 
+0.86 
+0.18 
+0.19 
+0.96 
+0.97 
+0.95 
+0.96 
+2.05 
+1.85 
+2.13 
+1.95 
+XGB 
+Le et al. 
+[26] 
+Silica 
+fume 
+Agg/B, 
+SCM/B, W/B, 
+F.Agg, Agg.S 
+164 
+XGB 
+RF 
+SVR 
+ANN 
+0.98 
+0.97 
+0.97 
+0.93 
+1.44 
+1.58 
+3.75 
+2.56 
+0.92 
+0.90 
+0.89 
+0.88 
+3.38 
+3.61 
+3.72 
+3.81 
+XGB 
+Present 
+study 
+RHA 
+Agg/B, W/B,  
+SCM/B, 
+Agg.S, t 
+193 
+ANN 
+BT 
+KNN 
+LR 
+SVR 
+XGB 
+0.98 
+0.95 
+0.95 
+0.69 
+0.97 
+0.96 
+1.19 
+1.93 
+1.90 
+4.89 
+1.47 
+1.65 
+0.94 
+0.93 
+0.94 
+0.71 
+0.97 
+0.95 
+2.06 
+2.27 
+2.09 
+4.57 
+1.57 
+1.96 
+SVR 
+1 GGBS: Ground Granulated Blast-furnace Slag 
+
+
+===== PAGE 19 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-19 
+ 
+2 Agg/B: Aggregate to binder ratio, Admix: Admixture content (in kg/m3), C.C: Cement content 
+(in kg/m3), C.Agg: Coarse aggregate content (in kg/m3), F.Agg: Fine aggregate content (in kg/m3), SCM: 
+Supplementary cement material content (in kg/m3), SCM/B: Supplementary cement material content to 
+binder ratio, W/B: Water to binder ratio, Agg.S: Mean coarse aggregate size (mm), t : Curing period 
+(days) 
+Reviewing existing research summarized in Table 4, we can see a focus on mixed design 
+parameters as input variables for ML models predicting compressive strength of pervious concrete 
+blended with SCMs. These studies commonly used input variables include: 
+ 
+Mix Proportions: Agg/B ratio (or cement and aggregate content), SCM-to-binder ratio 
+(or SCM content), and W/B ratio (or water content). 
+ 
+Material Properties: Aggregate size. 
+ 
+Curing Conditions: Curing period. 
+Several studies highlight the effectiveness of specific models. Sathiparan et al. [16, 23, 25] and Le 
+et al. [26] demonstrate the high accuracy of XGB models for predicting compressive strength.  Kumar 
+et al. [21] and Ahmad et al. [22] advocate for ANN, but their evaluations lack a comparison with other 
+machine-learning approaches. This current research demonstrates comparable accuracy of SVR, ANN, 
+and XGB models. However, limited datasets are a fundamental limitation identified across existing 
+studies. Future research efforts should prioritize the expansion of datasets to enhance model 
+performance and generalizability further. 
+This study builds upon existing research on pervious concrete by specifically investigating effect 
+of RHA on compressive strength and employing ML techniques for predictive modeling. While 
+previous studies have explored various SCMs such as silica fume and fly ash, this research distinguishes 
+itself by focusing on RHA, an agricultural waste product that presents both environmental and economic 
+advantages. Unlike earlier works that primarily utilized traditional methods for strength prediction, this 
+study leverages advanced ML algorithms, including SVR, to provide a more accurate and nuanced 
+empathetic of the relationships among mix design parameters and compressive strength. The application 
+of SHAP analysis in this context is another novel aspect, offering insights into feature importance and 
+the specific contributions of various parameters to the model's predictions. By highlighting the optimal 
+RHA replacement level for compressive strength and demonstrating the forecasting competences of 
+ML models, this research contributes valuable knowledge that can promote eco-friendly building 
+methods. 
+4. Conclusion 
+This study examined the effect of RHA on compressive strength of pervious concrete and explored 
+the use of ML models to predict this strength. The analysis leads to the following conclusions. 
+ 
+A positive correlation is observed between RHA content and compressive strength up to a 
+specific point. The optimal RHA substitute level for achieving maximum strength was found to be 
+around 10%. At this optimal level, pervious concrete containing RHA exhibited an 8% improvement in 
+compressive strength compared to control concrete without RHA. Beyond the 10% replacement level, 
+incorporating more RHA caused in a reduction in compressive strength. 
+ 
+Among investigated ML algorithms, the SVR model appeared as the most efficient for 
+forecasting compressive strength. SVR model demonstrated superior performance, achieving a high 
+coefficient of determination (R²) of over 0.97, indicating a robust correlation among forecasted and 
+actual strength. Furthermore, the SVR model exhibited smaller RMSE and MAE values, signifying 
+better accuracy in its predictions. These low error values suggest minimal deviations between predicted 
+and actual compressive strength. 
+ 
+Hyperparameter optimization played a critical role in improving predictive performance of 
+ML models. Through grid search techniques and cross-validation, the authors fine-tuned 
+hyperparameters for each model, leading to improved accuracy and reduced risk of overfitting. The 
+optimized parameters for SVR model, for instance, contributed significantly to its ability to capture the 
+underlying relationships in the dataset. 
+
+
+===== PAGE 20 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-20 
+ 
+ 
+SHAP analysis showed that aggregate size is a significant factor affecting the compressive, 
+followed by the binder ratio and curing period.  
+4.1 Future Research Directions 
+Looking forward, future research could explore several avenues to enhance understanding and 
+application of RHA in pervious concrete. Investigating durability of RHA-blended pervious concrete 
+under variable environmental circumstances would provide essential insights into its practical 
+applications. Additionally, developing the dataset to comprise more diverse sources of RHA and 
+varying mix designs could improve predictive models’ accuracy and generalizability. Further studies 
+could also examine the effects of combining RHA with other SCMs, potentially leading to innovative 
+formulations that optimize both performance and sustainability. Lastly, exploring mechanistic pathways 
+of how RHA interacts with other components in concrete mix through advanced analytical techniques 
+could deepen the understanding of its pozzolanic activity and overall impact on concrete properties. 
+Future research could consider incorporating following data sources and parameters into ML models: 
+ 
+Local environmental circumstances: Data such as humidity, temperature, and precipitation in 
+curing process can significantly influence hydration of concrete. Including these variables may help in 
+understanding their impact on compressive strength. 
+ 
+Chemical composition of RHA: Analyzing chemical properties of RHA, such as silica content 
+and pozzolanic activity, could provide insights into how variations in RHA quality affect concrete 
+performance. 
+ 
+Particle size distribution: Detailed information on particle size distribution of both RHA and 
+aggregates could enhance the model’s capability to forecast strength by accounting for variations in 
+packing density and inter-particle bonding. 
+ 
+Long-term curing effects: Data from long-term studies on compressive strength development 
+over time could improve predictions by allowing models to factor in time-dependent behaviors. 
+ 
+Mix design variations: Comprising a broader range of mix design parameters, including 
+different types of aggregates or additional supplementary cementitious materials (SCMs), could provide 
+a more comprehensive dataset for training the models. 
+Incorporating these data sources could lead to more accurate and robust predictions, ultimately 
+aiding engineers in optimizing concrete mixes for specific applications. The insights gained from this 
+study can directly inform construction practice, guiding engineers in optimizing RHA content in 
+pervious concrete to enhance both sustainability and performance. This study established the 
+effectiveness of ML models. One of the key limitations of this study was availability of data. While the 
+dataset of 193 observations provides a solid foundation for analysis, it is relatively limited given the 
+inherent variability in concrete properties. Future studies should aim to expand the dataset by including 
+diverse concrete mix designs, variations in RHA particle size, and additional environmental factors to 
+enhance model accuracy and generalizability. This additional information could potentially improve 
+predictive capabilities of ML models. Future research could explore incorporating additional data 
+sources or parameters into ML models. This could involve data on specific properties of RHA used or 
+local environmental conditions to refine prediction accuracy for compressive strength further. 
+Additionally, investigating the explainability of the ML model could provide insights into the vital 
+factors affecting the model's predictions. 
+Abbreviations 
+Agg/B 
+Aggregate to binder ratio 
+ANN 
+Artificial Neural Network 
+BPNN 
+Backpropagation Neural Networks 
+BT  
+Boosted Tree Regression 
+CNN 
+Convolutional Neural Network 
+LR   
+Linear Regression 
+ML  
+Machine learning 
+NLR 
+Non-linear Regression 
+
+
+===== PAGE 21 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-21 
+ 
+RF   
+Random Forest Regression 
+RHA 
+Rice husk ash 
+RHA/B Rice husk ash to binder ratio 
+SCM 
+Supplementary cementitious materials 
+SHAP 
+SHapley Additive exPlanations 
+SVR 
+Support Vector Regression 
+W/B 
+Water to binder ratio 
+XGB 
+Extreme Gradient Boosting 
+Acknowledgement 
+The authors wish to extend their heartfelt thanks to the Department of Civil Engineering at 
+University of Jaffna, for their invaluable support. 
+Funding Statement 
+The authors received no specific funding for this study. 
+CRediT authorship contribution statement 
+Sathiparan: Conceptualization, Investigation, Formal analysis, Writing – original draft. 
+Pratheeba: Conceptualization, Investigation, Formal analysis, Writing – review & editing. Daniel: 
+Conceptualization, Investigation, Formal analysis, Writing – review & editing. 
+Conflicts of Interest 
+The authors affirm that there are no conflicts of interest to disclose in relation to this study. 
+References 
+[1] Dash S, Kar B. Environment friendly pervious concrete for sustainable construction. IOP Conference Series: 
+Materials Science and Engineering. 2018; 410(1): 012005. https://doi.org/10.1088/1757-899X/410/1/01200 
+5 
+[2] Neithalath N, Sumanasooriya MS, Deo O. Characterizing pore volume, sizes, and connectivity in pervious 
+concretes for permeability prediction. Materials Characterization. 2010; 61(8): 802-13. https://doi.org/10.10 
+16/j.matchar.2010.05.004 
+[3] Alimohammadi V, Maghfouri M, Nourmohammadi D, Azarsa P, Gupta R, Saberian M. Stormwater runoff 
+treatment using pervious concrete modified with various nanomaterials: A comprehensive review. 
+Sustainability. 2021; 13(15): 8552. https://doi.org/10.3390/su13158552 
+[4] Zhang X, Shen Y, Fan Y, Gao X. Experimental study on the triaxial compression mechanical performance of 
+basalt fiber-reinforced recycled aggregate concrete after exposure to high temperature. Case Studies in 
+Construction Materials. 2024; 20: e03026. https://doi.org/10.1016/j.cscm.2024.e03026 
+[5] Zhang X, Niu J, Xu P, Deng D, Fan Y. Investigation on eccentric compression performance of basalt fiber-
+reinforced recycled aggregate concrete-filled square steel tubular columns. Developments in the Built 
+Environment. 2024; 18: 100411. https://doi.org/10.1016/j.dibe.2024.100411 
+[6] Subramaniam DN, Sathiparan N. Comparative study of fly ash and rice husk ash as cement replacement in 
+pervious concrete: mechanical characteristics and sustainability analysis. International Journal of Pavement 
+Engineering. 2022: 1-18. https://doi.org/10.1080/10298436.2022.2075867 
+[7] Sathiparan N. Utilization prospects of eggshell powder in sustainable construction material – A review. 
+Construction and Building Materials. 2021; 293: 123465. https://doi.org/10.1016/j.conbuildmat.2021.1234 
+65 
+[8] Lou Y, Khan K, Amin MN, Ahmad W, Deifalla AF, Ahmad A. Performance characteristics of cementitious 
+composites modified with silica fume: A systematic review. Case Studies in Construction Materials. 2023; 
+18: e01753. https://doi.org/10.1016/j.cscm.2022.e01753 
+[9] Sathiparan N, Dassanayake DHHP, Subramaniam DN. Utilization of supplementary cementitious materials 
+in pervious concrete: a review. International Journal of Environmental Science and Technology. 2024; 21(6): 
+5883-918. https://doi.org/10.1007/s13762-023-05440-4 
+[10] Nilimaa J. Smart materials and technologies for sustainable concrete construction. Developments in the Built 
+Environment. 2023; 15: 100177. https://doi.org/10.1016/j.dibe.2023.100177 
+[11] Ndahirwa D, Zmamou H, Lenormand H, Leblanc N. The role of supplementary cementitious materials in 
+hydration, durability and shrinkage of cement-based materials, their environmental and economic benefits: 
+
+
+----- TABLE p21#1 -----
+
+Dash S, Kar B. Environment friendly pervious concrete for sustainable construction. IOP Conference Series: |  |  |  |  |  |  | 
+Materials Science and Engineering. 2018; 410(1): 012005. https://doi.org/10.1088/1757-899X/410/1/01200 |  |  |  |  |  |  | 
+5 |  |  |  |  |  |  | 
+Neithalath N, Sumanasooriya MS, Deo O. Characterizing pore volume, sizes, and connectivity in pervious |  |  |  |  |  |  | 
+concretes for permeability prediction. Materials Characterization. 2010; 61(8): 802-13. https://doi.org/10.10 |  |  |  |  |  |  | 
+16/j.matchar.2010.05.004 |  |  |  |  |  |  | 
+Alimohammadi V, Maghfouri M, Nourmohammadi D, Azarsa P, Gupta R, Saberian M. Stormwater runoff |  |  |  |  |  |  | 
+treatment using pervious concrete modified with various nanomaterials: A comprehensive review. |  |  |  |  |  |  | 
+Sustainability. 2021; 13(15): 8552. https://doi.org/10.3390/su13158552 |  |  |  |  |  |  | 
+Zhang X, Shen Y, Fan Y, Gao X. Experimental study on the triaxial compression mechanical performance of |  |  |  |  |  |  | 
+basalt fiber-reinforced recycled aggregate concrete after exposure to high temperature. Case Studies in |  |  |  |  |  |  | 
+Construction Materials. 2024; 20: e03026. https://doi.org/10.1016/j.cscm.2024.e03026 |  |  |  |  |  |  | 
+Zhang X, Niu J, Xu P, Deng D, Fan Y. Investigation on eccentric compression performance of basalt fiber- |  |  |  |  |  |  | 
+reinforced recycled aggregate concrete-filled square steel tubular columns. Developments in the Built |  |  |  |  |  |  | 
+Environment. 2024; 18: 100411. https://doi.org/10.1016/j.dibe.2024.100411 |  |  |  |  |  |  | 
+Subramaniam DN, Sathiparan N. Comparative study of fly ash and rice husk ash as cement replacement in |  |  |  |  |  |  | 
+pervious concrete: mechanical characteristics and sustainability analysis. International Journal of Pavement |  |  |  |  |  |  | 
+Engineering. 2022: 1-18. https://doi.org/10.1080/10298436.2022.2075867 |  |  |  |  |  |  | 
+Sathiparan N. Utilization prospects of eggshell powder in sustainable construction material – A review. |  |  |  |  |  |  | 
+Construction and Building Materials. 2021; 293: 123465. https://doi.org/10.1016/j.conbuildmat.2021.1234 |  |  |  |  |  |  | 
+65 |  |  |  |  |  |  | 
+Lou Y, Khan K, Amin MN, Ahmad W, Deifalla AF, Ahmad A. Performance characteristics of cementitious |  |  |  |  |  |  | 
+composites modified with silica fume: A systematic review. Case Studies in Construction Materials. 2023; |  |  |  |  |  |  | 
+18: e01753. https://doi.org/10.1016/j.cscm.2022.e01753 |  |  |  |  |  |  | 
+Sathiparan N, Dassanayake DHHP, Subramaniam DN. Utilization of supplementary cementitious materials |  |  |  |  |  |  | 
+in pervious concrete: a review. International Journal of Environmental Science and Technology. 2024; 21(6): |  |  |  |  |  |  | 
+5883-918. https://doi.org/10.1007/s13762-023-05440-4 |  |  |  |  |  |  | 
+Nilimaa J. Smart materials and technologies for sustainable concrete construction. Developments in the Built |  |  |  |  |  |  | 
+Environment. 2023; 15: 100177. https://doi.org/10.1016/j.dibe.2023.100177 |  |  |  |  |  |  | 
+Ndahirwa D, Zmamou H, Lenormand H, Leblanc N. The role of supplementary cementitious materials in |  |  |  |  |  |  | 
+hydration, durability and shrinkage of cement-based materials, their environmental and economic benefits: |  |  |  |  |  |  | 
+
+===== PAGE 22 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-22 
+ 
+A review. Cleaner Materials. 2022; 5: 100123. https://doi.org/10.1016/j.clema.2022.100123 
+[12] Wijekoon SH, Shajeefpiranath T, Subramaniam DN, Sathiparan N. A mathematical model to predict the 
+porosity and compressive strength of pervious concrete based on the aggregate size, aggregate-to-cement 
+ratio and compaction effort. Asian Journal of Civil Engineering. 2024; 25(1): 67-79. https://doi.org/10.1007 
+/s42107-023-00757-4 
+[13] Sonebi M, Bassuoni M, Yahia A. Pervious concrete: mix design, properties and applications. RILEM 
+Technical Letters. 2016; 1(0): 109-15. https://doi.org/10.21809/rilemtechlett.2016.24 
+[14] Yang L, Kou S, Song X, Lu M, Wang Q. Analysis of properties of pervious concrete prepared with difference 
+paste-coated recycled aggregate. Construction and Building Materials. 2021; 269: 121244. https://doi.org/1 
+0.1016/j.conbuildmat.2020.121244 
+[15] Ziolkowski P, Niedostatkiewicz M. Machine learning techniques in concrete mix design. Materials. 2019; 
+12(8): 1256. https://doi.org/10.3390/ma12081256 
+[16] Sathiparan N, Jeyananthan P, Subramaniam DN. Influence of metakaolin on pervious concrete strength: a 
+machine learning approach with shapley additive explanations. Multiscale and Multidisciplinary Modeling, 
+Experiments and Design. 2024; 7(4): 3919-46. https://doi.org/10.1007/s41939-024-00455-x 
+[17] Sathiparan N, Jeyananthan P, Subramaniam DN. Prediction of compressive strength of fly ash blended 
+pervious concrete: a machine learning approach. Journal of Pavement Engineering. 2023. https://doi.org/10. 
+1080/10298436.2023.2287146 
+[18] Yu G, Zhu S, Xiang Z. The prediction of pervious concrete compressive strength based on a convolutional 
+neural network. Buildings. 2024; 14(4): 907. https://doi.org/10.3390/buildings14040907 
+[19] Sudhir Kumar B, Srikanth K, Eeshwar T. Implementation of soft computing techniques in forecasting 
+compressive strength and permeability of pervious concrete blended with ground granulated blast-furnace 
+slag. Journal of Soft Computing in Civil Engineering. 2024; 8(2): 19-45. https://doi.org/10.22115/scce.2023. 
+359399.1517 
+[20] Sathiparan N, Jeyananthan P, Subramaniam DN. Silica fume as a supplementary cementitious material in 
+pervious concrete: prediction of compressive strength through a machine learning approach. Asian Journal 
+of Civil Engineering. 2024. https://doi.org/10.1007/s42107-023-00956-z 
+[21] Le B-A, Vu V-H, Seo S-Y, Tran B-V, Nguyen-Sy T, Le M-C, Vu T-S. Predicting the compressive strength 
+and the effective porosity of pervious concrete using machine learning methods. KSCE Journal of Civil 
+Engineering. 2022; 26(11): 4664-79. https://doi.org/10.1007/s12205-022-1918-z 
+[22] Ahmad SA, Rafiq SK, Hilmi HDM, Ahmed HU. Mathematical modeling techniques to predict the 
+compressive strength of pervious concrete modified with waste glass powders. Asian Journal of Civil 
+Engineering. 2023. https://doi.org/10.1007/s42107-023-00811-1 
+[23] Feng D-C, Liu Z-T, Wang X-D, Chen Y, Chang J-Q, Wei D-F, Jiang Z-M. Machine learning-based 
+compressive strength prediction for concrete: An adaptive boosting approach. Construction and Building 
+Materials. 2020; 230: 117000. https://doi.org/10.1016/j.conbuildmat.2019.117000 
+[24] Marani A, Nehdi ML. Machine learning prediction of compressive strength for phase change materials 
+integrated cementitious composites. Construction and Building Materials. 2020; 265: 120286. https://doi.or 
+g/10.1016/j.conbuildmat.2020.120286 
+[25] Sathiparan N, Jeyananthan P. Prediction of masonry prism strength using machine learning technique: Effect 
+of dimension and strength parameters. Materials Today Communications. 2023; 35: 106282. https://doi.org/ 
+10.1016/j.mtcomm.2023.106282 
+[26] Sathiparan N, Jeyananthan P. Predicting compressive strength of cement-stabilized earth blocks using 
+machine learning models incorporating cement content, ultrasonic pulse velocity, and electrical resistivity. 
+Nondestructive Testing and Evaluation. 2023; 39(5): 1054-69. https://doi.org/10.1080/10589759.2023.2240 
+940 
+[27] Ahsan MB, Hossain Z. Supplemental use of rice husk ash (RHA) as a cementitious material in concrete 
+industry. Construction and Building Materials. 2018; 178: 1-9. https://doi.org/10.1016/j.conbuildmat.2018.0 
+5.101 
+[28] Amin MN, Khan K, Abu Arab AM, Farooq F, Eldin SM, Javed MF. Prediction of sustainable concrete 
+utilizing rice husk ash (RHA) as supplementary cementitious material (SCM): Optimization and hyper-
+tuning. Journal of Materials Research and Technology. 2023; 25: 1495-536. https://doi.org/10.1016/j.jmrt.2 
+023.06.006 
+[29] Lo F-C, Lee M-G, Lo S-L. Effect of coal ash and rice husk ash partial replacement in ordinary Portland 
+cement on pervious concrete. Construction and Building Materials. 2021; 286: 122947. https://doi.org/10.10 
+16/j.conbuildmat.2021.122947 
+[30] Adamu M, Ayeni KO, Haruna SI, Ibrahim Mansour YE-H, Haruna S. Durability performance of pervious 
+concrete containing rice husk ash and calcium carbide: A response surface methodology approach. Case 
+Studies in Construction Materials. 2021; 14: e00547. https://doi.org/10.1016/j.cscm.2021.e00547 
+[31] Kashem A, Karim R, Das P, Datta SD, Alharthai M. Compressive strength prediction of sustainable concrete 
+
+
+----- TABLE p22#1 -----
+
+A review. Cleaner Materials. 2022; 5: 100123. https://doi.org/10.1016/j.clema.2022.100123 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Wijekoon SH, Shajeefpiranath T, Subramaniam DN, Sathiparan N. A mathematical model to predict the |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+porosity and compressive strength of pervious concrete based on the aggregate size, aggregate-to-cement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ratio and compaction effort. Asian Journal of Civil Engineering. 2024; 25(1): 67-79. https://doi.org/10.1007 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+/s42107-023-00757-4 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sonebi M, Bassuoni M, Yahia A. Pervious concrete: mix design, properties and applications. RILEM |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Technical Letters. 2016; 1(0): 109-15. https://doi.org/10.21809/rilemtechlett.2016.24 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Yang L, Kou S, Song X, Lu M, Wang Q. Analysis of properties of pervious concrete prepared with difference |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+paste-coated recycled aggregate. Construction and Building Materials. 2021; 269: 121244. https://doi.org/1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+0.1016/j.conbuildmat.2020.121244 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ziolkowski P, Niedostatkiewicz M. Machine learning techniques in concrete mix design. Materials. 2019; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+12(8): 1256. https://doi.org/10.3390/ma12081256 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sathiparan N, Jeyananthan P, Subramaniam DN. Influence of metakaolin on pervious concrete strength: a |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+machine learning approach with shapley additive explanations. Multiscale and Multidisciplinary Modeling, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Experiments and Design. 2024; 7(4): 3919-46. https://doi.org/10.1007/s41939-024-00455-x |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sathiparan N, Jeyananthan P, Subramaniam DN. Prediction of compressive strength of fly ash blended |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+pervious concrete: a machine learning approach. Journal of Pavement Engineering. 2023. https://doi.org/10. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+1080/10298436.2023.2287146 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Yu G, Zhu S, Xiang Z. The prediction of pervious concrete compressive strength based on a convolutional |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+neural network. Buildings. 2024; 14(4): 907. https://doi.org/10.3390/buildings14040907 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sudhir Kumar B, Srikanth K, Eeshwar T. Implementation of soft computing techniques in forecasting |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+compressive strength and permeability of pervious concrete blended with ground granulated blast-furnace |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+slag. Journal of Soft Computing in Civil Engineering. 2024; 8(2): 19-45. https://doi.org/10.22115/scce.2023. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+359399.1517 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sathiparan N, Jeyananthan P, Subramaniam DN. Silica fume as a supplementary cementitious material in |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+pervious concrete: prediction of compressive strength through a machine learning approach. Asian Journal |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+of Civil Engineering. 2024. https://doi.org/10.1007/s42107-023-00956-z |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Le B-A, Vu V-H, Seo S-Y, Tran B-V, Nguyen-Sy T, Le M-C, Vu T-S. Predicting the compressive strength |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+and the effective porosity of pervious concrete using machine learning methods. KSCE Journal of Civil |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Engineering. 2022; 26(11): 4664-79. https://doi.org/10.1007/s12205-022-1918-z |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ahmad SA, Rafiq SK, Hilmi HDM, Ahmed HU. Mathematical modeling techniques to predict the |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+compressive strength of pervious concrete modified with waste glass powders. Asian Journal of Civil |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Engineering. 2023. https://doi.org/10.1007/s42107-023-00811-1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Feng D-C, Liu Z-T, Wang X-D, Chen Y, Chang J-Q, Wei D-F, Jiang Z-M. Machine learning-based |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+compressive strength prediction for concrete: An adaptive boosting approach. Construction and Building |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Materials. 2020; 230: 117000. https://doi.org/10.1016/j.conbuildmat.2019.117000 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Marani A, Nehdi ML. Machine learning prediction of compressive strength for phase change materials |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+integrated cementitious composites. Construction and Building Materials. 2020; 265: 120286. https://doi.or |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+g/10.1016/j.conbuildmat.2020.120286 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sathiparan N, Jeyananthan P. Prediction of masonry prism strength using machine learning technique: Effect |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+of dimension and strength parameters. Materials Today Communications. 2023; 35: 106282. https://doi.org/ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+10.1016/j.mtcomm.2023.106282 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sathiparan N, Jeyananthan P. Predicting compressive strength of cement-stabilized earth blocks using |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+machine learning models incorporating cement content, ultrasonic pulse velocity, and electrical resistivity. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Nondestructive Testing and Evaluation. 2023; 39(5): 1054-69. https://doi.org/10.1080/10589759.2023.2240 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+940 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ahsan MB, Hossain Z. Supplemental use of rice husk ash (RHA) as a cementitious material in concrete |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+industry. Construction and Building Materials. 2018; 178: 1-9. https://doi.org/10.1016/j.conbuildmat.2018.0 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+5.101 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Amin MN, Khan K, Abu Arab AM, Farooq F, Eldin SM, Javed MF. Prediction of sustainable concrete |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+utilizing rice husk ash (RHA) as supplementary cementitious material (SCM): Optimization and hyper- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+tuning. Journal of Materials Research and Technology. 2023; 25: 1495-536. https://doi.org/10.1016/j.jmrt.2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+023.06.006 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Lo F-C, Lee M-G, Lo S-L. Effect of coal ash and rice husk ash partial replacement in ordinary Portland |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+cement on pervious concrete. Construction and Building Materials. 2021; 286: 122947. https://doi.org/10.10 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+16/j.conbuildmat.2021.122947 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Adamu M, Ayeni KO, Haruna SI, Ibrahim Mansour YE-H, Haruna S. Durability performance of pervious |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+concrete containing rice husk ash and calcium carbide: A response surface methodology approach. Case |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Studies in Construction Materials. 2021; 14: e00547. https://doi.org/10.1016/j.cscm.2021.e00547 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Kashem A, Karim R, Das P, Datta SD, Alharthai M. Compressive strength prediction of sustainable concrete |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 23 =====
+
+Sathiparan et al., SUST, 2025, 5(3): 000080 
+000080-23 
+ 
+incorporating rice husk ash (RHA) using hybrid machine learning algorithms and parametric analyses. Case 
+Studies in Construction Materials. 2024; 20: e03030. https://doi.org/10.1016/j.cscm.2024.e03030 
+[32] Adamu M, Olalekan SS, Aliyu MM. Optimizing the mechanical properties of pervious concrete containing 
+calcium carbide and rice husk ash using response surface methodology. Journal of Soft Computing in Civil 
+Engineering. 2020; 4(3): 106-23. https://doi.org/10.22115/scce.2020.229019.1216 
+[33] Balasubramani V, Jayagamnesh V, Seyamala S. A review on strength properties of pervious concrete using 
+a rice husk ash. SSRG International Journal of Civil Engineering. 2019; SI: 26-29.  
+[34] Hesami S, Ahmadi S, Nematzadeh M. Effects of rice husk ash and fiber on mechanical properties of pervious 
+concrete pavement. Construction and Building Materials. 2014; 53: 680-91. https://doi.org/10.1016/j.conbu 
+ildmat.2013.11.070 
+[35] Kim Y, Sung C. Void ratio and strength properties of porous concrete utilizing rice husk ash and recycled 
+aggregae for planting. The Journal of Agricultural Science. 2006; 33(2): 167-77.  
+[36] Jaya RP. Porous concrete pavement containing nanosilica from black rice husk ash. In: Samui P, Kim D, Iyer 
+NR, Chaudhary S (Eds.), New Materials in Civil Engineering, Butterworth-Heinemann, Oxford, 2020; 493-
+527. 
+[37] Sai Kumar PP, Jafar SK, Sumanth P, Khan AA, Kumar PS, Kumar TA. Utilization of rice husk ash on 
+pervious concrete as a partial replacement of cement. International Journal of Engineering Sciences & 
+Research Technology. 2020; 9(10): 41-48.  
+[38] Shafabakhsh G, Ahmadi S. Evaluation of coal waste ash and rice husk ash on properties of pervious concrete 
+pavement. International Journal of Engineering (IJE), TRANSACTIONS B: Applications. 2020; 29(2): 192-
+201.  
+[39] Shekhar S, Shukla A. Development of pervious paver block by using rap and rice husk ash. International 
+Journal for Research in Applied Science & Engineering Technology. 2020; 11(10): 1019-33.  
+[40] Shwetha J. Experimental study on pervious concrete using fly ash and rice husk ash. International Journal of 
+Engineering Research in Mechanical and Civil Engineering. 2022; 9(4): 1-3.  
+[41] Talsania S, Pitroda J, Vyas C. Effect of rice husk ash on properties of pervious concrete. International Journal 
+of Advanced Engineering Research and Studies. 2015; 4(2): 296-9.  
+[42] Vanathi D, Radhika DK, Swetha MG. A sustainable study on permeable concrete using bagasse ash and rice 
+husk ash as a partial replacement of cement. E3S Web Conference, Yogyakarta, 2020; 184: 01083.  
+[43] ASTM-C39/C39M. Standard test method for compressive strength of cylindrical concrete specimens. West 
+Conshohocken, PA: ASTM International, 2021. 
+[44] BS-EN-12390-3. Testing hardened concrete - Compressive strength of test specimens. London: British 
+Standards Institution (BSI), 2019. 
+[45] IS-516. Method of tests for strength of concrete. New Delhi: Bureau of Indian Standards (BIS), 1959. 
+[46] Seifeddine K, Amziane S, Toussaint E. State of the art on the mechanical properties of pervious concrete. 
+European Journal of Environmental and Civil Engineering. 2022; 26(15): 7727-55. https://doi.org/10.1080/ 
+19648189.2021.2008511 
+[47] Ahmad SA, Rafiq SK. Numerical modeling to predict the impact of granular glass replacement on 
+mechanical properties of mortar. Asian Journal of Civil Engineering. 2024; 25(1): 19-37. https://doi.org/10.1 
+007/s42107-023-00753-8 
+[48] Bui DK, Nguyen T, Chou JS, Nguyen-Xuan H, Ngo TD. A modified firefly algorithm-artificial neural 
+network expert system for predicting compressive and tensile strength of high-performance concrete. 
+Construction and Building Materials. 2018; 180: 320-33. https://doi.org/10.1016/j.conbuildmat.2018.05.201 
+[49] Subramaniam DN, Jeyananthan P, Sathiparan N. Soft computing techniques to predict the electrical 
+resistivity of pervious concrete. Asian Journal of Civil Engineering. 2023. https://doi.org/10.1007/s42107-
+023-00806-y 
+[50] Nohara Y, Matsumoto K, Soejima H, Nakashima N. Explanation of machine learning models using shapley 
+additive explanation and application for real data in hospital. Computer Methods and Programs in 
+Biomedicine. 2022; 214: 106584. https://doi.org/10.1016/j.cmpb.2021.106584 
+[51] John E, Lothenbach B. Cement hydration mechanisms through time – A review. Journal of Materials Science. 
+2023; 58(24): 9805-33. https://doi.org/10.1007/s10853-023-08651-9 
+ 
+ 
+
+
+----- TABLE p23#1 -----
+
+incorporating rice husk ash (RHA) using hybrid machine learning algorithms and parametric analyses. Case |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Studies in Construction Materials. 2024; 20: e03030. https://doi.org/10.1016/j.cscm.2024.e03030 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Adamu M, Olalekan SS, Aliyu MM. Optimizing the mechanical properties of pervious concrete containing |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+calcium carbide and rice husk ash using response surface methodology. Journal of Soft Computing in Civil |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Engineering. 2020; 4(3): 106-23. https://doi.org/10.22115/scce.2020.229019.1216 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Balasubramani V, Jayagamnesh V, Seyamala S. A review on strength properties of pervious concrete using |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+a rice husk ash. SSRG International Journal of Civil Engineering. 2019; SI: 26-29. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Hesami S, Ahmadi S, Nematzadeh M. Effects of rice husk ash and fiber on mechanical properties of pervious |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+concrete pavement. Construction and Building Materials. 2014; 53: 680-91. https://doi.org/10.1016/j.conbu |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ildmat.2013.11.070 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Kim Y, Sung C. Void ratio and strength properties of porous concrete utilizing rice husk ash and recycled |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+aggregae for planting. The Journal of Agricultural Science. 2006; 33(2): 167-77. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Jaya RP. Porous concrete pavement containing nanosilica from black rice husk ash. In: Samui P, Kim D, Iyer |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+NR, Chaudhary S (Eds.), New Materials in Civil Engineering, Butterworth-Heinemann, Oxford, 2020; 493- |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+527. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Sai Kumar PP, Jafar SK, Sumanth P, Khan AA, Kumar PS, Kumar TA. Utilization of rice husk ash on |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+pervious concrete as a partial replacement of cement. International Journal of Engineering Sciences & |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Research Technology. 2020; 9(10): 41-48. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Shafabakhsh G, Ahmadi S. Evaluation of coal waste ash and rice husk ash on properties of pervious concrete |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+pavement. International Journal of Engineering (IJE), TRANSACTIONS B: Applications. 2020; 29(2): 192- |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+201. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Shekhar S, Shukla A. Development of pervious paver block by using rap and rice husk ash. International |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Journal for Research in Applied Science & Engineering Technology. 2020; 11(10): 1019-33. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Shwetha J. Experimental study on pervious concrete using fly ash and rice husk ash. International Journal of |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Engineering Research in Mechanical and Civil Engineering. 2022; 9(4): 1-3. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Talsania S, Pitroda J, Vyas C. Effect of rice husk ash on properties of pervious concrete. International Journal |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+of Advanced Engineering Research and Studies. 2015; 4(2): 296-9. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Vanathi D, Radhika DK, Swetha MG. A sustainable study on permeable concrete using bagasse ash and rice |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+husk ash as a partial replacement of cement. E3S Web Conference, Yogyakarta, 2020; 184: 01083. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ASTM-C39/C39M. Standard test method for compressive strength of cylindrical concrete specimens. West |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Conshohocken, PA: ASTM International, 2021. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+BS-EN-12390-3. Testing hardened concrete - Compressive strength of test specimens. London: British |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Standards Institution (BSI), 2019. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+IS-516. Method of tests for strength of concrete. New Delhi: Bureau of Indian Standards (BIS), 1959. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Seifeddine K, Amziane S, Toussaint E. State of the art on the mechanical properties of pervious concrete. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+European Journal of Environmental and Civil Engineering. 2022; 26(15): 7727-55. https://doi.org/10.1080/ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+19648189.2021.2008511 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Ahmad SA, Rafiq SK. Numerical modeling to predict the impact of granular glass replacement on |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+mechanical properties of mortar. Asian Journal of Civil Engineering. 2024; 25(1): 19-37. https://doi.org/10.1 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+007/s42107-023-00753-8 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Bui DK, Nguyen T, Chou JS, Nguyen-Xuan H, Ngo TD. A modified firefly algorithm-artificial neural |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+network expert system for predicting compressive and tensile strength of high-performance concrete. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Construction and Building Materials. 2018; 180: 320-33. https://doi.org/10.1016/j.conbuildmat.2018.05.201 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Subramaniam DN, Jeyananthan P, Sathiparan N. Soft computing techniques to predict the electrical |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+resistivity of pervious concrete. Asian Journal of Civil Engineering. 2023. https://doi.org/10.1007/s42107- |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+023-00806-y |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Nohara Y, Matsumoto K, Soejima H, Nakashima N. Explanation of machine learning models using shapley |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+additive explanation and application for real data in hospital. Computer Methods and Programs in |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Biomedicine. 2022; 214: 106584. https://doi.org/10.1016/j.cmpb.2021.106584 |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+John E, Lothenbach B. Cement hydration mechanisms through time – A review. Journal of Materials Science. |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+2023; 58(24): 9805-33. https://doi.org/10.1007/s10853-023-08651-9 |  |  |  |  |  |  |  |  |  |  |  |  |  | 

@@ -1,0 +1,595 @@
+
+===== PAGE 1 =====
+
+ 
+12
+VI
+June 2024
+https://doi.org/10.22214/ijraset.2024.63376
+
+
+===== PAGE 2 =====
+
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 12 Issue VI June 2024- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1967 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+Experimental Study on Concrete Incorporating 
+Partial Replacement of Aggregates with Coconut 
+Shell and Cement with Rice Husk Ash 
+ 
+Vivek Kumar1, Pukhraj Sahu2 
+1M.Tech Scholar (Structural Engineering), Govt. Engineering College Jagdalpur , C.G., India 
+2Assitant Professor, Department of Civil Engineering, Govt. Engineering College Jagdalpur , C.G., India 
+ 
+Abstract: Concrete is one of the most widely used building materials in the world. In addition, concrete is the second most widely 
+used material in the world after water. About ten billion tons of concrete are produced annually. Annual production represents 
+one ton per person in the world. There are negative impacts of increased concrete production such as continued extraction of 
+natural resources from natural sources will lead to depletion and environmental inequality. So many researchers want to replace 
+solid aggregate with concrete to save concrete and increase sustainable development. This environmental factor has caused great 
+concern in the world of infrastructure development. The role of sugarcane, pieces of wood, plastic waste, textile waste, 
+polyethylene, rice ash, rubber tires, vegetable fibers, paper and pulp waste in the industry, vegetable fibers, paper and pulp waste, 
+shellfish. Other conditions for changing aggregates in concrete. 
+Keywords: Coconut shell, Rice husk ash, LWC, Compressive strength, Splitting Tensile strength 
+ 
+I. INTRODUCTION 
+Concrete is the main building material that incorporates natural integration. Due to the rapid growth of industry and construction in 
+a developing country like India, natural resources are dwindling. Finding other concrete materials is a key requirement in the current 
+situation. Environmental issues restrictions on access to the environment and natural resources or the disposal of waste are 
+increasingly important. Coarse aggregate is a major component of concrete for a variety of construction activities, including 
+infrastructure development, low-rise and high-rise buildings and home development. It is a man-made product, which actually 
+combines a mixture of cement, aggregates, water and admixture. Stainless granular materials such as sand, crushed stone or large 
+stones part of aggregates. Traditionally aggregates were readily available at economic rates and attributes to suit all purposes. 
+However, continued use is widely used to extract aggregates from natural resources are in doubt due to declining major quality 
+standards and beyond environmental protection awareness. 
+ 
+II. LITERATURE REVIEW 
+G V Ramarao et al, 2015,  Utilization of Rice Husk Ash and its application are used for the development of the construction 
+industry, material science.  It is the possible alternative solution of safe disposal of Rice Husk Ash. RHA becomes more economical 
+without compromising concrete strength than the standard concrete. It becomes technically and economically feasible and viable. (G 
+V Ramarao, 2015) 
+Krishkumar Patel et al, 2019, investigated concrete strength and its characteristics produced using coconut shells crushed granular as 
+substitutes for natural coarse aggregate. Various tests on various parameters included physical properties and mechanical properties 
+of coconut shell concrete were performed and concluded that coconut shell can be used as a replacement of coarse aggregate for the 
+production of lightweight structural concrete. Coconut shells are applicable as partial substitute as coarse aggregates for concrete.  
+(Krishkumar Patel, 2019) 
+Asif Hussain et.al, 2021, used of coconut shell in cement concrete and concluded that it reduces waste pollution. There is need to 
+promote such waste use as building materials in affordable housing. As per his experiments and research he concluded that concrete 
+strength decreases as the amount of coconut shell rises, but also ends that when I added 5% and 10% coconut shell to the concrete, 
+there was less difference in power. If I add 15% coconut shell to the concrete strength was descent. That is why there is an end to 
+the change of coconut shell in concrete; we concluded that a 10% replacement of a coconut shell is best for concrete structure.  (Asif 
+Hussain, 2021) 
+
+
+----- TABLE p2#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1967
+
+===== PAGE 3 =====
+
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 12 Issue VI June 2024- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1968 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+Pushpa et.al, 2016,  prepared a mixture using M15 concrete range with  0.60 water cement ratio as per the batching weight. He 
+concluded that performance of concrete has increased with an increase in the percentage of sand exchange with rice husks. Similarly, 
+thewater absorption also increases during bulk density, compressive strength and flexibility of samplesdecreases with increasing 
+amount of rice husk content in mixtures. The study suggested that up to 10percent instead of sand with rice husk, the produced 
+concrete may be used to create pressure onceflexural members of the structure.  (Pushpa Poudyal, 2016) 
+Sanjay et.al, 2017, stated that fine fly ash has Pozzolana property can be used as a binding material in concrete in replacement of 
+cement. Functional, stressful and robust test strength testing was evaluated in a previous study papers on the 7th, 14th and 28th days 
+of healing. 5% and 10% replacing cement with fly ash gives a better result too instead of 15% of fly ash energy decreases. Then it is 
+improve concrete strength by 5% and 10% the conversion of fly ash to cement is done by adding coconut coir natural fiber length 
+6mm and 12mm with maximum 0.15% and 0.25% by weight of cement at M20 level of concrete. (Sanjay Kumar Ahirwar, 2017)  
+Vipul et.al, 2019, explained the need of replacement of concrte and waste management he to compared the public need for safe and 
+economic disposal materials. Waste management saves the environment resources and disposal and helps to keep the place clean. 
+Current concrete construction is unsustainable. Tests are performed on disposal such as rubber tire, e-waste, dirty plastic, dirty water 
+etc. Currently in India, about 960 million tons of solids waste is produced annually as a product of agriculture, mining, municipal 
+and other resources.  
+About 600 million tons of waste was processed produced in India from an agricultural source only. Large amount of agricultural 
+waste a bag of sugarcane, paddy and wheat grass as well husk, jute fibers, coconut shells, coconut shells etc. Coconut shell contains 
+15% of the total weight of a coconut. According to 2018 reports, India is producing 11.9 million tons of coconut. So the value 1.78 
+million tons of coconut shells produced. (VipulMhatre, 2019) 
+Sanjay et.al, 2019, M – studied20 gradesby applying natural aggregates of 0%, 5%, 10%, 20% and 30%, by weight with a coconut 
+shell. Compression of Coconut shell concrete was tested for 7, 14, 21 and 28 days. The oppressive power of the coconut shell 
+concrete was such reduced as the percentage change increases. Concrete mixtures were tested and compared according to the 
+compressive strength of common concrete. The results of the study indicate that Coconut Shell Concrete (CSC) can be used as a 
+lightweight concrete. Use of coconut Shell instead of aggregate will not only be cost effective and eco-friendly, but also help solve 
+the problem of common deficiencies such as solid aggregate. The use of such materials also reduces the risk of waste disposal 
+garbage. (Sanjay Kumar Verma, 2019) 
+Ankita et.al, 2019, . comapred 25% weight rice husk ash  and is also disposed of as waste. This is ashes contains amorphous silica 
+that can be used as a pozzolana to make concrete and cement instead of discarding it. without compromising on concrete or concrete 
+structures if you are exchanged for a certain amount concrete or concrete materials. In this study the standard Portland cement is 
+replaced at a different rate RHA acquires strong concrete and structures that are comparable and satisfactory to those of ordinary 
+concrete. Selected replacement rates ranged from 2.5% from 5% to 15% and carved concrete was tested. Under pressure at different 
+ages and the results obtained are compared with standard concrete of the same grade and so on concluded that the results are 
+comparable. (Ankit Gautam, 2019) 
+ 
+III.   OBJECTIVE OF THE STUDY 
+In this present study an experimental effort has been done to check the strength of concrete when mixed with environmental waste 
+materials as like rice husk ash and coconut shell to natural concreting materials. These materials serves as environmental hazards 
+but can also be cost effective when comes in industrial use. The main objectives of our present study are mentioned below: 
+1) To determine workability of concrete mixture when replaced by natural concreting materials this workability is checked using 
+traditional slump cone workability test method. 
+2) To determine the compressive strength of mixture when waste materials are mixed at different proportions. 
+3) To determine the splitting tensile strength of mixture when waste materials are mixed at different proportions. 
+ 
+IV.    METHODOLOGY 
+A. Mix Design 
+M20 grade of concrete mix design was carried out as per IS: 10262-2019. In present study we have replaced coconut shells to 
+coarse aggregate and rice husk ash to cement with different percentages of i.e. 10%, 15% and 20% and then compared with 
+conventional concrete for various parameters such as workability, compressive strength and split tensile strength. 
+ 
+ 
+
+
+----- TABLE p3#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1968
+
+===== PAGE 4 =====
+
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 12 Issue VI June 2024- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1969 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+  Table: Concrete Mix Proportions 
+S.No 
+Characteristic properties 
+Values 
+1 
+Grade of concrete  
+M -20 
+2 
+Maximum nominal size of 
+aggregates 
+20 mm 
+3 
+Grade of cement  
+OPC 53 grade 
+4 
+Specific gravity of fine 
+aggregate 
+2.65 
+5 
+Maximum water-cement ratio 
+0.5 
+6 
+Workability (for slump test) 
+100 mm 
+7 
+Grading Zone of fine aggregate 
+Zone-II  
+8 
+Specific gravity of cement  
+3.05 
+9 
+Specific gravity of coarse 
+aggregate  
+2.71 
+10 
+Aggregate shape  
+Angular 
+11 
+Maximum temperature of 
+concrete at the time of pouring 
+27 +/- 2°C 
+12 
+Maximum cement content  
+450 kg/m³ 
+13 
+Minimum cement content  
+300 kg/m³ 
+14 
+Method of transporting & 
+placing 
+Manual 
+15 
+Water Absorption of coarse 
+aggregate 
+0.97% 
+16 
+Water Absorption of Fine 
+aggregate 
+1.23% 
+17 
+Exposure conditions IS-
+456:2019 Table no 4 
+Moderate 
+18 
+Cement 
+422 Kg 
+19 
+Fine aggregate 
+670 Kg 
+20 
+Coarse aggregate 
+  1124 Kg 
+21 
+Water 
+197.16 lt 
+22 
+Proportion 
+1 : 1.58 : 2.66 
+ 
+The Workability, Compressive strength and Split tensile strength is tested after 7days and 28 days curing with standard specimen 
+sizes. 
+V.   RESULTS 
+A. Workability by Slump Test 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Controlled 
+Concrete 
+Coconut shell content 
+(%) 
+Rice husk ash content 
+(%) 
+CS+RHA 
+content (%) 
+10 
+15 
+20 
+10 
+15 
+20 
+10+10 
+10+15 
+Slump value 
+(mm) 
+90 
+77 
+70 
+64 
+70 
+65 
+53 
+60 
+54 
+
+
+----- TABLE p4#1 -----
+
+S.No | Characteristic properties | Values
+1 | Grade of concrete | M -20
+2 | Maximum nominal size of
+aggregates | 20 mm
+3 | Grade of cement | OPC 53 grade
+4 | Specific gravity of fine
+aggregate | 2.65
+5 | Maximum water-cement ratio | 0.5
+6 | Workability (for slump test) | 100 mm
+7 | Grading Zone of fine aggregate | Zone-II
+8 | Specific gravity of cement | 3.05
+9 | Specific gravity of coarse
+aggregate | 2.71
+10 | Aggregate shape | Angular
+11 | Maximum temperature of
+concrete at the time of pouring | 27 +/- 2°C
+12 | Maximum cement content | 450 kg/m³
+13 | Minimum cement content | 300 kg/m³
+14 | Method of transporting &
+placing | Manual
+15 | Water Absorption of coarse
+aggregate | 0.97%
+16 | Water Absorption of Fine
+aggregate | 1.23%
+17 | Exposure conditions IS-
+456:2019 Table no 4 | Moderate
+18 | Cement | 422 Kg
+19 | Fine aggregate | 670 Kg
+20 | Coarse aggregate | 1124 Kg
+21 | Water | 197.16 lt
+22 | Proportion | 1 : 1.58 : 2.66
+
+----- TABLE p4#2 -----
+
+ | Controlled
+Concrete | Coconut shell content
+(%) |  |  | Rice husk ash content
+(%) |  |  | CS+RHA
+content (%) | 
+ |  | 10 | 15 | 20 | 10 | 15 | 20 | 10+10 | 10+15
+Slump value
+(mm) | 90 | 77 | 70 | 64 | 70 | 65 | 53 | 60 | 54
+
+----- TABLE p4#3 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1969
+
+===== PAGE 5 =====
+
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 12 Issue VI June 2024- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1970 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+B. Compressive Strength 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+C. Splitting Tensile Strength 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+VI.   CONCLUSIONS 
+1) On 10% partially substituting of waste coconut shell to natural coarse aggregate, Compressive Strength of coconut shell 
+concrete has obtained 27.56 MPA at 28 days. Therefore, to make the transition technically and economically feasible and 
+effective. With further adjustments, a decrease in the pressure of Coconut Shell Concrete has been observed. 
+2) Use of coconut shell waste as a replacement of aggregate will reduce of natural Resources aggregate depletion and will also be 
+helpful to creating eco-friendly environment. 
+3) from the experimental analysis we have found that 15 % replacement of rice husk ash with cement in cement concrete is 
+beneficial replacement. And we go beyond this for further replacement in percentage of cement we will see decrease in strength 
+of concrete 
+4) When combined usage of RHA and coconut shell as partial replacement of OPC and coarse aggregate gives satisfying strength 
+at 15% RHA and 10% coconut shell. 
+5) As the replacement level increases the workability decreases as a result amount of water required will be more 
+ 
+ 
+ 
+Controlled 
+Concrete 
+Coconut shell content 
+(%) 
+Rice husk ash content 
+(%) 
+CS+RHA 
+content (%) 
+10 
+15 
+20 
+10 
+15 
+20 
+10+10 
+10+15 
+Avg. 
+Compressive 
+Strength 
+(MPa) 
+7 DAYS 
+ 
+18.07 
+ 
+16.24 
+ 
+15.85 
+ 
+12.6 
+ 
+18.53 
+ 
+19.06 
+ 
+18.04 
+- 
+- 
+Avg 
+Compressive 
+Strength 
+(MPa) 
+28 DAYS 
+28.26 
+    
+27.56 
+24.78 
+19.96 
+28.97 
+29.82 
+28.35 
+28.35 
+29.73 
+ 
+Controlled 
+Concrete 
+Coconut shell content 
+(%) 
+Rice husk ash content 
+(%) 
+CS+RHA 
+content (%) 
+10 
+15 
+20 
+10 
+15 
+20 
+10+10 
+10+15 
+Avg. 
+Split tensile 
+Strength 
+(MPa) 
+7 DAYS 
+ 
+1.52 
+ 
+1.42 
+ 
+1.40 
+ 
+1.20 
+ 
+1.64 
+ 
+1.89 
+ 
+1.57 
+ 
+- 
+ 
+- 
+Avg. 
+Split tensile 
+Strength 
+(MPa) 
+28 DAYS 
+ 
+2.47 
+ 
+2.48 
+ 
+2.23 
+ 
+1.79 
+ 
+2.55 
+ 
+2.80 
+ 
+2.44 
+ 
+2.84 
+ 
+2.93 
+
+
+----- TABLE p5#1 -----
+
+ | Controlled
+Concrete | Coconut shell content
+(%) |  |  | Rice husk ash content
+(%) |  |  | CS+RHA
+content (%) | 
+ |  | 10 | 15 | 20 | 10 | 15 | 20 | 10+10 | 10+15
+Avg.
+Compressive
+Strength
+(MPa)
+7 DAYS | 18.07 | 16.24 | 15.85 | 12.6 | 18.53 | 19.06 | 18.04 | - | -
+Avg
+Compressive
+Strength
+(MPa)
+28 DAYS | 28.26 | 27.56 | 24.78 | 19.96 | 28.97 | 29.82 | 28.35 | 28.35 | 29.73
+
+----- TABLE p5#2 -----
+
+ | Controlled
+Concrete | Coconut shell content
+(%) |  |  | Rice husk ash content
+(%) |  |  | CS+RHA
+content (%) | 
+ |  | 10 | 15 | 20 | 10 | 15 | 20 | 10+10 | 10+15
+Avg.
+Split tensile
+Strength
+(MPa)
+7 DAYS | 1.52 | 1.42 | 1.40 | 1.20 | 1.64 | 1.89 | 1.57 | - | -
+Avg.
+Split tensile
+Strength
+(MPa)
+28 DAYS | 2.47 | 2.48 | 2.23 | 1.79 | 2.55 | 2.80 | 2.44 | 2.84 | 2.93
+
+----- TABLE p5#3 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1970
+
+===== PAGE 6 =====
+
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 12 Issue VI June 2024- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1971 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+REFERENCES 
+[1] 
+G V Ramarao, P V Rambabu, V ChanakyaVarma, (2015). “Experimental Study on Rice Husk Ash for Optimum Level of Replacement of Cement in Concrete”. 
+In International Journal of Engineering Research & Technology  
+[2] 
+Krishkumar Patel, Jaimin Patel, BhargavKanthariya, Zenith Mehta, Nirmal Patel, ShyamDoshi,(2019).”Utilization of Coconut shell As Coarse Aggregate in 
+Concrete”. In International Research Journal of Engineering and Technology. 
+[3] 
+AsifHussain, Akash Singh Patel (2021),” Replacement sand with rice husk powder or glass powder”. In International Research Journal of Modernization in 
+Engineering Technology and Science. 
+[4] 
+PushpaPoudyal, Ajay Kumar Jha(2016),” Experimental Study on the Properties of Concrete with the Partial Replacement of Sand by Rice Husk”. In 
+Proceedings of IOE Graduate Conference. 
+[5] 
+Sanjay Kumar Ahirwar, Prof. KirtiChandraul, Prof. Manindra Kumar Singh(2017),” experimental study on concrete using fly ash and coconut coir fiber”. In 
+International Research Journal of Engineering and Technology 
+[6] 
+VipulMhatre, NimeshPandey, AkshayBhosale, Rohan More, ShwetaMotharkar(2019),” Concrete Using Coconut Shell As A Coarse Aggregate”. In 
+International Journal of Scientific & Engineering Research. 
+[7] 
+Sanjay Kumar Verma and SagarShrivastava(2019),” Use of Coconut Shell as Partly Substitution of Coarse Aggregate - An Experimental Analysis”. In 
+International Conference on Sustainable Materials and Structures for Civil Infrastructures. 
+[8] 
+Ankitgautam, rahulbatra, nishantsingh(2019),” A study on use of rice husk ash in concrete”. In engineering heritage journal 
+
+
+----- TABLE p6#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1971
+
+===== PAGE 7 =====
+
+ 

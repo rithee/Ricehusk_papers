@@ -1,0 +1,431 @@
+
+===== PAGE 1 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+Experimental investigation on properties of concrete with rice husk ash and water 
+hyacinth ash. 
+Investigación experimental sobre las propiedades del hormigón con ceniza de 
+cáscara de arroz y ceniza de jacinto de agua. 
+Nibin varghese, Vasudev R 
+Department of Civil Engineering, Toc H Institute of Science and Technology, Ernakulam, India 
+Corresponding author’s email: nibinv8@gmail.com 
+ 
+ABSTRACT 
+The purpose of this experimental investigation is to study the properties of M30 grade concrete with 
+Ricehusk ash (RHA) and Water hyacintha ash (WHA) when used as a partial replacement for cement. Ricehusk ash 
+is a by- product of thermally treating rice husks. It is highly pozzolanic and has been used as a partial replacement 
+for cement in concrete production and Water hyacinth grows vigorously in ponds and doubles the quantity within 
+two weeks. The studies have been done to evaluate water hyacinth ash in the replacement of cement. This study 
+seeks to determine the effect of RHA and WHA on the strength and other properties of concrete. To conduct this 
+investigation, a series of concrete mixtures were prepared with various percentages of RHA (5%, 10%, 15%, and 
+20%) for finding the optimum percentage. To the optimum concrete made with rice husk ash different percentage 
+of cement is replaced with water hyacinth ash (5%,10%,15%,20%) and the optimum is obtained. The mix 
+proportions were determined according to the standards. The mixtures were then tested to determine the 
+compressive strength and split tensile strength of the concrete. The results of the investigation showed that the 
+replacement of cement by RHA enhanced the strength properties of concrete in 15% replacement of cement with 
+RHA shows the maximum compressive strength value. The replacement of cement by WHA 10% with optimum 
+RHA 15% enhanced the strength properties of concrete. Replacement of cement by 10% WHA with optimum RHA 
+shows the maximum compressive and tensile value. 
+Keywords: Ricehusk ash, Water hyacinth ash, Compressive, Tensile. 
+ 
+RESUMEN 
+El propósito de esta investigación experimental es estudiar las propiedades del concreto grado M30 con 
+ceniza de cáscara de arroz (RHA) y ceniza de jacinto de agua (WHA) cuando se usa como reemplazo parcial del 
+cemento. La ceniza de cáscara de arroz es un subproducto del tratamiento térmico de la cáscara de arroz. Es altamente 
+puzolánico y se ha utilizado como sustituto parcial del cemento en la producción de hormigón. El jacinto de agua crece 
+vigorosamente en estanques y duplica su cantidad en dos semanas. Los estudios se han realizado para evaluar la ceniza 
+de jacinto de agua en la sustitución del cemento. Este estudio busca determinar el efecto de RHA y WHA sobre la 
+resistencia y otras propiedades del concreto. Para realizar esta investigación se prepararon una serie de mezclas de 
+
+
+===== PAGE 2 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+concreto con varios porcentajes de RHA (5%, 10%, 15% y 20%) para encontrar el porcentaje óptimo. Al óptimo 
+concreto elaborado con ceniza de cáscara de arroz se reemplaza diferente porcentaje de cemento con ceniza de jacinto 
+de agua (5%,10%,15%,20%) y se obtiene el óptimo. Las proporciones de la mezcla se determinaron según las normas. 
+Luego se probaron las mezclas para determinar la resistencia a la compresión y la resistencia a la tracción dividida del 
+concreto. Los resultados de la investigación mostraron que el reemplazo del cemento por RHA mejoró las propiedades 
+de resistencia del concreto; un reemplazo del 15% del cemento por RHA muestra el valor máximo de resistencia a la 
+compresión. La sustitución del cemento por WHA 10% con un óptimo RHA 15% mejoró las propiedades de resistencia 
+del hormigón. La sustitución del cemento por un 10% de WHA con un RHA óptimo muestra el valor máximo de 
+compresión y tracción. 
+Palabras clave: Ceniza de cáscara de arroz, Ceniza de jacinto de agua, Compresión, Tracción. 
+ 
+ 
+INTRODUCTION 
+Rice husk ash and Water hyacinth ash is a promising material for replacing cement for construction 
+purposes due to its properties, such as its low cost, high silica content, and low alkali content. It is also an 
+environmentally friendly and sustainable material, as it is a waste material from the agricultural industry. 
+Replacement of cement with RHA and WHA is a potential solution to reduce the number of CO2 emissions from 
+the production of cement, as well as to reduce the cost of construction materials. This has been implemented in 
+many countries, such as India, Japan, and Thailand, where RHA and WHA is being used as a partial or complete 
+replacement for cement in concrete mixtures.  
+ RHA and WHA also have many advantages over cement, such as improved workability, higher strength, 
+increased durability, and better resistance to freeze-thaw cycles. Furthermore, the inclusion of RHA and WHA in 
+concrete can reduce the overall permeability of the concrete, making it more resistant to water damage. Thus, the 
+replacement of cement with RHA and WHA can be a great solution for sustainable construction and can help to 
+reduce environmental impacts. 
+This study aims to investigate and identify the effects of RHA and WHA  on the physical, mechanical and 
+durability properties of concrete. An experimental investigation was conducted with concrete mixtures containing 
+different proportions of RHA and WHA. The samples were prepared according to the relevant codes and subjected 
+to tests for determining compressive strength and split tensile test. The results obtained from the experiments 
+were analyzed to evaluate the performance of the concrete mixtures containing different proportions of RHA and 
+WHA. 
+ 
+MATERIALS AND METHODS 
+The materials used in the experimental work are, cement (OPC), fine aggregate, coarse aggregate, water, 
+super plasticizer, water hyacinth ash, Rice husk ash. Each material was acquired from different vendors. Various 
+
+
+===== PAGE 3 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+test was done on material to find out the material properties and to determine that all the material are suitable for 
+the experiment. All the tests done and the values of all physical properties of materials used for investigation are 
+confirming to relevant IS codes of practice. 
+Cement - Ordinary Portland Cement (OPC) are the commonly used cement in the world. It is 
+manufactured by mixing limestone and other raw materials which consist of argillaceous, calcareous and gypsum. 
+In this experiment 53 grade OPC is used. 
+Fine aggregate - The most important function of fine aggregates is to assist in providing workability and 
+uniformity in mixture Manufactured sand (M Sand) is used as fine aggregate. It is a better substitute to river sand, 
+as it has no silt, organic impurities and mostly well graded. 
+Coarse aggregate - Coarse aggregates provide strength, toughness and hardness to concrete.. Crushed 
+gravel of size 20 mm downgraded from a local crusher is used as coarse aggregate. 
+Superplasticizer - Superplasticizer used here is a second-generation superplasticizer of polycarboxylic 
+ether (PCE) based polymers. These are added to improve the workability of the concrete and also reduce the water 
+consumption. 
+Water hyacinth ash – Pozzolonic material, high silica and calcium content and low alkali content. 
+Rice husk ash - Pozzolonic material, high silica and calcium content and low alkali content. 
+ 
+Table1 Properties of material 
+MATERIAL 
+PROPERTY 
+RESULT 
+OWABLE LIMIT 
+Fineness 
+8.3% 
+10% 
+Cement 
+Specific gravity 
+3.13 
+3.1–3.16 
+Standard Consistency 
+34% 
+25–35% 
+Fine 
+Specific gravity 
+2.61 
+2.5-3 
+aggregate 
+Water absorption 
+2.3% 
+3% 
+Coarse 
+Specific gravity 
+2.61 
+2.6 –2.8 
+aggregate 
+Water absorption 
+2.3% 
+0.1-2% 
+ 
+MIX PROPORTION 
+Mix design was done as per IS 10262: 2019. The mix proportion and mix designation are given below. 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 4 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+Table 2 Mix proportion 
+MixID 
+Cement 
+𝒌𝒈/ 
+𝒎𝟑 
+RHA 
+𝒌𝒈/𝒎𝟑 
+WHA 
+𝒌𝒈 
+/𝒎𝟑 
+Fine 
+𝒌𝒈 
+/𝒎𝟑 
+Coarse 
+𝒌𝒈/𝒎𝟑 
+Water 
+𝒌𝒈/𝒎𝟑 
+CM 
+400 
+- 
+- 
+655 
+1259 
+144 
+RHA5 
+380 
+20 
+- 
+655 
+1259 
+144 
+RHA10 
+360 
+40 
+- 
+655 
+1259 
+144 
+RHA15 
+340 
+60 
+- 
+655 
+1259 
+144 
+RHA20 
+320 
+80 
+- 
+655 
+1259 
+144 
+R15W5 
+360 
+60 
+20 
+655 
+1259 
+144 
+R15W10 
+320 
+60 
+40 
+655 
+1259 
+144 
+R15W15 
+280 
+60 
+60 
+655 
+1259 
+144 
+R15W20 
+240 
+60 
+80 
+655 
+1259 
+144 
+Where 
+CM – Control Mix 
+RHA 5 - M30 grade containing 5% Rice husk ash 
+RHA 10 - M30 grade containing 10% Rice husk ash 
+RHA 15 - M30 grade containing 15% Rice husk ash  
+RHA 20 - M30 grade containing 20% Rice husk ash 
+R15W5 - M30 grade containing 5% Water hyacinth ash with 15% of Rice husk ash 
+R15W5 - M30 grade containing 10% Water hyacinth ash with 15% of Rice husk ash 
+R15W5 - M30 grade containing 15% Water hyacinth ash with 15% of Rice husk ash 
+R15W5 - M30 grade containing 20% Water hyacinth ash with 15% of Rice husk ash 
+CM mix ratio= 1: 1.85 : .4 
+Water cement ratio = 0.42  
+Superplasticizer used was 0.4% 
+ 
+RESULTS AND DISCUSSION 
+The test conducted on concrete of different mix where test, compression strength test slump and split 
+tensile strength test to obtain fresh and hardened properties of concrete. All the test was done confirming to 
+relevant IS codes of practice. 
+A. 
+Compressive strength test 
+The cube specimens of standard size were casted and tested for compression strength in accordance with 
+the IS 516:1956 (reaffirmed 2011). Compressive strength of concrete was calculated by crushing to failure of the 
+test cubes by means of compression testing machine. 
+
+
+===== PAGE 5 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+B. 
+Split tensile strength test 
+The cylinder specimen for split tensile strength was casted and tested in in accordance with the IS 
+516:1956 (reaffirmed 2011). Split tensile strength of concrete was calculated by crushing to failure of the test 
+cylinder by means of compression testing machine in the axial direction of the cylinder. 
+ 
+SPECIMEN PREPARATION 
+Specimens are prepared with different mixes concrete such as addition of RHA to the mix as 5% ,10%, 
+15% and 20% .To the optimum concrete made with rice husk ash different percentage of cement is replaced with 
+water hyacinth ash (5%,10%,15%,20%) and the optimum is obtained. 
+Compressive strength test was conducted on the prepared cubes and the load at failure of each cube was 
+noted. The cubes after 7- day and 28-day curing were tested and their average value is reported. Table 3& 4 shows 
+the compressive strength of mix . 
+Table 3 Compressive strength with RHA 
+MixID 
+7thdaycompressivestrength 
+(𝑁/𝑚𝑚2) 
+28thcompressivestrength 
+(𝑁/𝑚𝑚2) 
+CM 
+27.5 
+37.2 
+RHA5 
+28.6 
+37.9 
+RHA10 
+31.63 
+40.31 
+RHA15 
+33.11 
+42.73 
+RHA20 
+24.45 
+32.5 
+ 
+The observed 7 and 28-day compressive strength of hardened concrete specimen shows that there is an 
+increase in compressive strength of concrete with RHA concrete than that of control mix. This increase in strength 
+of concrete that form the calcium silica hydrate (C-S-H) gel and also calcite content. It is observed that at 15% of 
+RHA shows maximum compressive strength then after that the for higher percentage strength reduces. This due to 
+the CSH formation is completed and there is no further component left for reaction. The replacement of cement 
+by WHA 10% with optimum RHA 15% enhanced the strength properties of concrete. Replacement of cement by 
+10% WHA with optimum RHA shows the maximum compressive strength value. 
+
+
+===== PAGE 6 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+ 
+Fig.1 Variation in compressive strength with RHA 
+ 
+Table 4 Compressive strength of RHA with optimum WHA 
+MixID 
+7thday compressive strength 
+(𝑁/𝑚𝑚2) 
+28thcompressive strength 
+(𝑁/𝑚𝑚2) 
+RHA15 
+27.5 
+37.2 
+R15W5 
+28.6 
+37.9 
+R15W10 
+31.63 
+40.31 
+R15W15 
+33.11 
+42.73 
+R15W20 
+24.45 
+32.5 
+ 
+ 
+Fig.2 Variation in compressive strength of WHA with optimum RHA 
+B. 
+Split tensile strength 
+Split tensile test was conducted and the load at failure of each cylinder was noted. The cylinder after 7-
+day and 28-day curing were tested and their average value is reported. Table 5 shows the split tensile strength of 
+
+
+===== PAGE 7 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+specimens. 
+Table 5 Split tensile strength values with RHA 
+MixID 
+7thday split tensile strength (𝑁/𝑚𝑚2) 
+28th split tensile strength (𝑁/𝑚𝑚2) 
+CM 
+2.24 
+2.97 
+RHA5 
+2.4 
+3.25 
+RHA10 
+2.52 
+3.56 
+RHA15 
+2.63 
+3.78 
+RHA20 
+2.12 
+2.71 
+ 
+The result observed for 7 and 28-day split tensile strength of hardened concrete specimen displays a 
+result similar to that of compressive strength which was observed above. The concrete with 15% RHA displays a 
+maximum Split tensile strength than any other specimen. 
+ 
+Fig.3 Variation in split strength of RHA 
+Table 6 Split tensile strength values of WHA with optimum RHA 
+MixID 
+7th day split tensile strength (𝑁/𝑚𝑚2) 
+28th split tensile strength (𝑁/𝑚𝑚2) 
+CM 
+2.63 
+3.78 
+RHA5 
+2.4 
+3.76 
+RHA10 
+2.52 
+3.81 
+RHA15 
+2.63 
+2.84 
+RHA20 
+2.12 
+2.55 
+ 
+Fig.4 Variation in split strength of WHA with optimum RHA 
+
+
+===== PAGE 8 =====
+
+Sustainability, Agri, Food and Environmental Research, (ISSN:0719-3726), 12(X), 2024: 
+http://dx.doi.org/ 
+ 
+ 
+CONCLUSION 
+The strength properties of concrete were improved by replacing cement with RHA. The maximum 
+compressive strength values of 33.11 N/mm2 in 7 days and 42.73 N/mm² in 28 days were observed at a 15% 
+replacement of cement with RHA. Replacing cement with 10% WHA and optimum 15% RHA enhanced the 
+concrete's strength properties. The concrete with this mix had the maximum compressive strength of 33.22 
+N/mm2 on the 7th day and 43.1 N/mm² on the 28th day. The replacement of cement with RHA led to an increase 
+in split tensile strength. The results showed that the maximum split tensile strength values of 2.63 N/mm2 and 
+3.78 N/mm² were obtained on the 7th and 28th day, respectively, with a 15% replacement of cement with RHA. 
+The split tensile strength test results showed that the inclusion of optimum RHA with 10% WHA in the mix led to 
+an increase in the strength values. The maximum strength value was achieved on the 7th day, with a value of 2.76 
+N/mm2, and on the 28th day, with a value of 3.81 N/mm². However, the strength started to decrease beyond 28 
+days. The inclusion of calcium and silica in RHA & WHA enhances the rate of hydration process, there by promoting 
+the pozzolanic reaction and facilitating the formation of C-S-H gel. 
+ 
+REFERENCES 
+Adeyemi A et. al (2021) Influence of amorphous raw rice    husk ash as precursor and curing condition on the 
+performance of alkali activated concrete, Case Studies in Construction Materials, Volume 15.   
+ Aegula S K & Gopi R, (2022) Strength and durability studies on paver blocks with rice husk ash as partial 
+replacement of cement, Materials Today Proceedings Volume 52, Part 3, 2022, Pages 683-688. 
+Juby M B et.al (2017) Incorporation of WaterHyacinth in Concrete, International Journal of Engineering Research & 
+Technology (IJERT) Vol. 6 Issue 05. 
+ Makomele D.M & Okwadha G.D.O, (2022) Evaluation of water hyacinth extract as an admixture in concrete 
+production, Journal of Building Engineering Volume 16, March 2018, Pages 129-133. 
+Murugesh.V & Shyam K (2018) Experimental study on strength of water hyacinth ash as partial replacement of 
+cement in concrete, International Journal of Scientific & Engineering Research Volume 9, Issue 3 
+ 
+Received: 03th April 2023; Accepted: 03th August 2023; First distribution: 02th November 2023. 

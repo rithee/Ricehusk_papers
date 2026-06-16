@@ -1,0 +1,895 @@
+
+===== PAGE 1 =====
+
+Fresh 
+and 
+Hardened 
+Properties 
+of 
+SCC 
+Incorporating Rice Husk Ash and Sugarcane 
+Bagasse Ash 
+Jagdeep1,* and Nitin Verma2 
+Chandigarh University, NH-05, Ludhiana - Chandigarh State Hwy, Punjab 140413 
+Chandigarh University, NH-05, Ludhiana - Chandigarh State Hwy, Punjab 140413 
+Abstract. Self-compacting concrete represents a unique type of concrete 
+that achieves self-compression through its mass, eliminating the need for 
+external vibrations. The mechanical characteristics of self-compacting 
+concrete can be enhanced by incorporating agricultural waste materials as 
+partial substitutes for cement. In this experimental study, a graded M30 
+concrete mix was employed to produce self-compacting concrete by 
+replacing cement with 6, 8, 10, 12, and 14% of sugarcane bagasse ash and 
+rice husk ash. To assess the concrete's properties, both in its fresh and 
+hardened states, several tests were conducted. Fresh properties were 
+evaluated using l-box, slump flow, and U-box tests. The results indicated 
+that sugarcane bagasse ash outperformed rice husk ash in enhancing the 
+fresh properties of concrete up to a certain level of replacement. Hardened 
+properties, including split tensile strength, compressive strength, and 
+flexural strength, were tested at both 7-day and 28-day intervals. These tests 
+revealed that rice husk ash exhibited superior performance in enhancing the 
+hardened properties compared to sugarcane bagasse ash. In conclusion, this 
+study underscores the suitability of both sugarcane bagasse ash and rice husk 
+ash as viable options for partial cement replacement in self-compacting 
+concrete, with each material exhibiting strengths in improving certain 
+aspects of fresh and hardened concrete properties. 
+1 Introduction 
+Self-compacting concrete (SCC) is a type of concrete that can compact itself by its weight. It 
+was first used in 1988 in Japan. Self-compacting concrete is used where the structure is very 
+dense and it is very difficult to apply the vibrators. These days SCC is used where the need 
+for high-performance concrete with a structure height between 12m to 15m is known as 
+midrise structure. In this type of structure mainly grade M30 is used [1,2]. The current 
+research is based on introducing SCC features into normal concrete mixes, with the 
+incorporation of ash from agricultural wastes such as Sugarcane bagasse ash (BA) and Rice 
+husk ash (RHA).  
+ 
+ 
+ 
+ 
+ 
+*Corresponding author: jagdeepjatain43@gmail.com 
+© The Authors, published by EDP Sciences. This is an open access article distributed under the terms of the Creative Commons 
+Attribution License 4.0 (https://creativecommons.org/licenses/by/4.0/).
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+1
+2
+
+
+===== PAGE 2 =====
+
+ 
+After Brazil, India is the 2nd largest producer of sugarcane with a rough annual 
+production capacity of 380 million tons, implying that considerable amounts of Bagasse Ash 
+are produced and available for use. Previous SCC research suggests that Bagasse ash can be 
+used in Self-compacting concrete manufacture and the approach allows for harmless Bagasse 
+Ash 
+disposal 
+while 
+also 
+preventing 
+pollution 
+in 
+the 
+environment 
+[1].  
+The surge in industrialization in India has resulted in a population increase, contributing to 
+elevated food waste and the subsequent rise in the utilization of by-products like bagasse ash 
+[2]. 
+  
+The fresh properties of a concrete mix are influenced by the use of chemical 
+admixtures, such as superplasticizers and viscosity-modifying agents, commonly employed 
+in standard concrete mixes. However, there is a noticeable absence of studies that investigate 
+the incorporation of agricultural waste materials like Rice Husk Ash (RHA) and Bagasse Ash 
+(BA) into normal self-compacting concrete to assess their impact on fresh properties. 
+Sugarcane Bagasse ash and Rice husk ash operate as the VMA (Viscosity Modified Agent). 
+This is due to the Viscosity Modified Agent admixture, which is low and costlier, thereby 
+increasing the cost of manufacturing. SCC, BA, and RHA are all considered normal strength 
+suited for replacing VMAs in SCC preparation. In light of the foregoing, the main focus of 
+this paper is to observe the workability of self-compacting concrete through limited 
+replacement of cement with sugarcane Bagasse ash and Rice husk ash to determine the best 
+magnitudes of replacement. 
+The disposal challenge of sugarcane bagasse, a significant by-product of the sugar 
+production industry, is exacerbated by its environmental impacts and health concerns [2]. 
+The leading purpose of this study is to define the fresh and hardened properties of SCC with 
+the fractional replacement of cement with RHA at different replacement levels to reduce the 
+cost of concrete mix and use agricultural waste in concrete. The replacement is at 0, 5, 10, 
+15, and 20% by mass of the cement. While the RHA % increases, the fresh properties of 
+concrete decrease in flowability, and the hardening properties are increased by 11.8% in 
+compression at 10% and 7.8% in split tensile at the same 10% replacement level [3]. 
+In a study about the partial replacement of BA as fine aggregate at the replacement level of 
+0-40%, the author conducted 7 days and 28-day tensile strength and compressive tests. The 
+water-binder ratio is taken as 0.50, and the mix proportion is M15. He found that the slump 
+increased by increasing Sugarcane bagasse ash, and the 28-days compressive strength and 
+tensile strength increased by 7.90% and 14% at 10% addition of SCBA [4]. The author 
+conducted a study in which he replaced the SCBA with fine aggregate of 0 to 40 levels, and 
+he found that the flexural strength is improved by 14.41 at 10% of replacement, and the slump 
+is reduced with the rise of sugarcane bagasse ash [5]. In another study, it is found at 10-30% 
+replacement level, but the concrete decreases its flowability decrease with the increase of the 
+% of SCBA [2].                         
+           In another research study, the replacement of cement was investigated within a range 
+of 5% to 15%. Initially, this replacement resulted in a notable increase in compressive 
+strength by 7.5%. However, as the replacement level reached 7.5%, there was a subsequent 
+reduction in compressive strength, albeit still showing an overall improvement of 4.42% [6–
+8]. In a separate study, Sugarcane Bagasse Ash (SCBA) was used as a partial replacement in 
+Self-Compacting Concrete (SSC) at various ratios, including 1%, 3%, 5%, 10%, 15%, 20%, 
+and 25%. They conducted a study to determine the workability, mechanical strength, and 
+microstructure of treated SCC. Authors explained that 10% use of SCBA with cement is the 
+maximum share to induce economical SCC and utilization of SCBA which might cause 
+greener self-compacting concrete [9]. The author investigated the use of admixture to reduce 
+water from a concrete mix containing RHA as cement replacement. The author observed an 
+increase in workability with the use of water reduction. Therefore, the content of the control 
+2
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 3 =====
+
+mixture is lesser than the superplasticizer content of RHA concrete mixtures. Additionally, 
+the superplasticizer content can vary independently of the RHA proportion . 
+In another study replacing sand by sugarcane bagasse ash in concrete in two different 
+proportions with the identical water-cement ratio. Mixtures are prepared with 
+superplasticizer, and one mixture is prepared without superplasticizer. Due to this variation, 
+a slump was observed. With increased content of SCBA, the flexural strength of the first mix 
+rises. Therefore, the second mix of concrete flexural strength did not differentiate much from 
+the normal concrete flexural strength [10]. In another study, the water absorption proportion 
+accumulated among the existence of Sugarcane Bagasse Ash throughout twenty-eight days 
+of activity, which is maybe because of the particular incontrovertible fact that Sugarcane 
+Bagasse Ash is higher quality than OPC and is hygroscopic by nature. After ninety days of 
+curing, the water absorption percentage is decreased by about 50%. As the result, the gradual 
+closing of pores and permeable voids is decreased because of the accumulation of SCBA 
+[11].  
+In another study when BA is used as a partial cement replacement and GS is used 
+for natural sand, the workability of SCC is reduced, but fresh concrete density and air content 
+are unaffected. Because of the coarse texture of GS and the increased porosity of BA, 
+workability is projected to be reduced. The mechanical qualities of the concrete improve, 
+including compression, split tension strength, and flexure strength. The largest increase was 
+achieved by replacing 15% of the cement with BA and 10% of the FA with GS at the optimum 
+concentration, and there is no effect on the modulus of elasticity [12]. Another study shows 
+that the addition of SCBA reduced the diffusivity of chloride and increased its useful life by 
+up to 97.3%. Pozzolan reaction and additional CSH formation reduced ASR with up to 5% 
+SCBA addition [13]. In this study, SCC is prepared with the fractional replacement of cement 
+with agricultural waste ash discussed. The consumption of RHA and BA compared to the 
+fresh and hardened properties of concrete has been deliberated. The main aim remains to find 
+a better material out of SCBA and RHA. 
+2 Properties of Material 
+2.1 Cement 
+OPC of grade 43, according to the Indian standard IS: 8112 (1989), is chosen for 
+experimental purposes. The denoted specific gravity is 3.14. All tests are performed as per 
+IS 4031 of 1988 [13-14].  
+2.2 Fine Aggregate 
+Aggregates procured from a 4.75mm sieve are considered for the research work. Fine 
+aggregates with a fineness modulus of 3.05, specific gravity of 2.69, and water absorption of 
+1.1% are used for the mix. 
+2.3 Coarse Aggregates 
+Locally available coarse aggregates sized 10mm to 20mm are used. The specified coarse 
+aggregates have a fineness modulus of 7.9 and a specific gravity of 2.74. Water absorption 
+of 0.55% is observed. 
+2.4 Rice Husk Ash (RHA) 
+3
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 4 =====
+
+RHA is obtained from the incineration of rice husk, removed from the paddy during the 
+milling process. The burning is carried out under controlled temperatures, maintained above 
+800 degrees Celsius. This process yields approximately 25%, with RHA composition being 
+around 90% amorphous silica and 5% carbon content. The siliceous content in rice husk ash 
+imparts pozzolanic properties to RHA. Silica reacts with Ca(OH)2, producing additional C-
+S-H, thereby enhancing concrete strength. RHA serves as an easily available raw material 
+from agricultural waste for cement replacement.  
+2.5 Bagasse Ash 
+Bagasse ash is generated by burning sugarcane bagasse in sugar manufacturing factories or 
+industries. Similar to fly ash, bagasse ash is black due to the presence of unburnt carbon. In 
+contrast to cement, bagasse ash possesses a lower specific gravity, measured at 2.43. The 
+particle size of bagasse ash is predominantly less than 85 microns, limiting its potential use 
+and making landfill disposal the primary option. Bagasse ash is enriched with silica dioxide, 
+promoting increased pozzolanic activity in concrete. Bagasse ash yields silica at about 80%, 
+with a 73% absorption of moisture. 
+3 Experimental program 
+3.1 Sampling of Concrete  
+Various samples of self-compacting concrete are organized with a constant percentage of fly 
+ash set at 35%, and then the cement is partially replaced with RHA and BA at varying 
+percentages in two different mixes. The different proportions of materials used are shown in 
+Table 3.2. The required number of samples for the strength test is provided in Table 3.1. 
+Table 3.1. Description of Specimens Used 
+Strength Test 
+Compressive 
+Strength Test 
+Split Tensile 
+Strength 
+Flexural 
+Strength Test 
+Sample Type  
+Cubes 
+Cylinder 
+Beam 
+Sample Size  
+(150 X 150 
+X150)mm 
+(150 X300)mm 
+(100X 100 
+X500)mm 
+No. of Samples  
+66 
+66 
+66 
+Testing Days  
+7,28 
+7,28 
+7,28 
+ 
+Table 3.2. Percentage of Materials Used 
+ 
+Mix 
+Cement  
+% 
+Fly ash 
+% 
+Rice 
+Husk 
+Ash % 
+Bagasse 
+Ash % 
+Fine 
+Aggregate 
+% 
+Coarse 
+Aggregate 
+% 
+R 
+65 
+35 
+0 
+0 
+100 
+100 
+BA6 
+61.1 
+35 
+6 
+0 
+100 
+100 
+BA8 
+59.8 
+35 
+8 
+0 
+100 
+100 
+BA10 
+58.5 
+35 
+10 
+0 
+100 
+100 
+BA12 
+57.2 
+35 
+12 
+0 
+100 
+100 
+BA14 
+55.9 
+35 
+14 
+0 
+100 
+100 
+RA6 
+61.1 
+35 
+0 
+6 
+100 
+100 
+RA8 
+59.8 
+35 
+0 
+8 
+100 
+100 
+4
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+----- TABLE p4#1 -----
+
+Strength Test | Compressive
+Strength Test | Split Tensile
+Strength | Flexural
+Strength Test
+Sample Type | Cubes | Cylinder | Beam
+Sample Size | (150 X 150
+X150)mm | (150 X300)mm | (100X 100
+X500)mm
+No. of Samples | 66 | 66 | 66
+Testing Days | 7,28 | 7,28 | 7,28
+
+----- TABLE p4#2 -----
+
+Mix | Cement
+% | Fly ash
+% | Rice
+Husk
+Ash % | Bagasse
+Ash % | Fine
+Aggregate
+% | Coarse
+Aggregate
+%
+R | 65 | 35 | 0 | 0 | 100 | 100
+BA6 | 61.1 | 35 | 6 | 0 | 100 | 100
+BA8 | 59.8 | 35 | 8 | 0 | 100 | 100
+BA10 | 58.5 | 35 | 10 | 0 | 100 | 100
+BA12 | 57.2 | 35 | 12 | 0 | 100 | 100
+BA14 | 55.9 | 35 | 14 | 0 | 100 | 100
+RA6 | 61.1 | 35 | 0 | 6 | 100 | 100
+RA8 | 59.8 | 35 | 0 | 8 | 100 | 100
+
+===== PAGE 5 =====
+
+RA10 
+58.5 
+35 
+0 
+10 
+100 
+100 
+RA12 
+57.2 
+35 
+0 
+12 
+100 
+100 
+RA14 
+55.9 
+35 
+0 
+14 
+100 
+100 
+ 
+3.2 Mix design 
+After conducting multiple trial mixes to attain the desired slump flow and achieve a 7-day 
+strength target, the water-cement ratio was established at 0.45. The machine mixture is used 
+to prepare the self-compacting concrete; first, the materials are dry-mixed for 2 to 3 minutes, 
+and a high-range water-reducing agent of 2.65 kg/m3 is also used to attain the desired slump. 
+The mixture design of concrete is done according to IS; 10262:2019 [17]. All other quantities 
+of mixes are shown in Table 3.3. Then, the mixes are cast in a module and dried for 24 hours. 
+After that, the casted samples are demolded and placed in water for curing.  
+Table 3.3. Design Mix Quantities of Material in kg/m3 
+Mix  
+Cement  
+ 
+Fly 
+Ash  
+Rice 
+Husk 
+Ash  
+Bagasse 
+Ash 
+Fine 
+Aggregate  
+Coarse 
+Aggregate 
+Water  
+Plasticizer  
+R 
+287 
+155 
+- 
+- 
+975 
+737 
+190 
+2.65 
+BA6 
+269.78 
+155 
+- 
+17.22 
+975 
+737 
+190 
+2.65 
+BA8 
+264.04 
+155 
+- 
+22.96 
+957 
+737 
+190 
+2.65 
+BA10 
+258.3 
+155 
+- 
+28.7 
+975 
+737 
+190 
+2.65 
+BA12 
+252.56 
+155 
+- 
+34.4 
+975 
+737 
+190 
+2.65 
+BA14 
+246.82 
+155 
+- 
+40.18 
+975 
+737 
+190 
+2.65 
+RA6 
+269.78 
+155 
+17.22 
+- 
+975 
+737 
+190 
+2.65 
+RA8 
+264.04 
+155 
+22.96 
+- 
+975 
+737 
+190 
+2.65 
+RA10 
+258.3 
+155 
+28.96 
+- 
+975 
+737 
+190 
+2.65 
+RA12 
+252.56 
+155 
+34.4 
+- 
+975 
+737 
+190 
+2.65 
+RA14 
+246.82 
+155 
+40.18 
+- 
+975 
+737 
+190 
+2.65 
+3.3 Methodology 
+The M30 grade concrete is commonly used in the construction industry. In this experimental 
+study, a graded mix of M30 concrete has been used to prepare self-compacting concrete with 
+cement replacement using SCBA and RHA. The prepared concrete mix is compared with 
+normal SCC without any replacement. The concrete is prepared according to the proportions 
+given in Table 3.2. The concrete is prepared by dry mixing the required materials in a 
+machine mixture until a uniform mix is achieved. Then, water mixed with the required super-
+plasticizer is added to the mix, and concrete is prepared. Firstly, the prepared concrete is 
+tested in a fresh state for the fresh properties of concrete using three methods: L-box, slump 
+flow, and v-funnel tests. For the hardened properties of concrete, several samples of cubes, 
+cylinders, and beams are cast for the split tensile strength, compressive strength, and flexural 
+strength of concrete. Samples cast are opened after 24 hours and placed in a curing pond for 
+5
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+----- TABLE p5#1 -----
+
+RA10 | 58.5 | 35 | 0 | 10 | 100 | 100
+RA12 | 57.2 | 35 | 0 | 12 | 100 | 100
+RA14 | 55.9 | 35 | 0 | 14 | 100 | 100
+
+----- TABLE p5#2 -----
+
+Mix | Cement | Fly
+Ash | Rice
+Husk
+Ash | Bagasse
+Ash | Fine
+Aggregate | Coarse
+Aggregate | Water | Plasticizer
+R | 287 | 155 | - | - | 975 | 737 | 190 | 2.65
+BA6 | 269.78 | 155 | - | 17.22 | 975 | 737 | 190 | 2.65
+BA8 | 264.04 | 155 | - | 22.96 | 957 | 737 | 190 | 2.65
+BA10 | 258.3 | 155 | - | 28.7 | 975 | 737 | 190 | 2.65
+BA12 | 252.56 | 155 | - | 34.4 | 975 | 737 | 190 | 2.65
+BA14 | 246.82 | 155 | - | 40.18 | 975 | 737 | 190 | 2.65
+RA6 | 269.78 | 155 | 17.22 | - | 975 | 737 | 190 | 2.65
+RA8 | 264.04 | 155 | 22.96 | - | 975 | 737 | 190 | 2.65
+RA10 | 258.3 | 155 | 28.96 | - | 975 | 737 | 190 | 2.65
+RA12 | 252.56 | 155 | 34.4 | - | 975 | 737 | 190 | 2.65
+RA14 | 246.82 | 155 | 40.18 | - | 975 | 737 | 190 | 2.65
+
+===== PAGE 6 =====
+
+curing. The strength properties are checked on the 7th day and 28th days. At least three samples 
+are tested for each strength property for each age of the test.   
+4 Result 
+4.1 Fresh Properties of SCC 
+4.1.1 Slump Flow 
+Slump flow assesses the flow ability of self-compacting concrete under gravitational action, 
+minimizing external forces to zero for compaction effects. Previous studies in this field 
+achieved a slump value of 550mm, whereas our well-precised test, conducted 2 to 3 seconds 
+after mixing, falls under the T500 slump flow. The values are illustrated in Fig. 4.1. 
+ 
+ 
+Fig. 4.1. Variation in Slump Flow Values 
+From the test results, it is found that normal concrete has a 580mm slump flow, and the BA6 
+sample increases slump flow values by 1.72%, while BA8 increases the slump value by 
+6.89% compared to normal concrete. However, it is observed that after increasing bagasse 
+ash by 10%, 12%, and 14%, the slump flow values gradually decrease compared to normal 
+concrete slump test values. Additionally, it is observed that after replacing cement with 8% 
+and 10% of rice husk, the slump test results increase by 1.2% and 3.8%, respectively. Bagasse 
+ash shows better properties than the normal mix and the rice husk ash replacement. Fig. 4.2 
+visually portrays the slump flow characteristics of self-compacting concrete, providing a 
+valuable reference for assessing its flow ability and workability in construction scenarios. 
+ 
+0
+100
+200
+300
+400
+500
+600
+700
+R
+BA6
+BA8
+BA10
+BA12
+BA14
+RA6
+RA8
+RA10
+RA12
+RA14
+Slump Flow in mm 
+Mixes
+Slump Flow
+6
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 7 =====
+
+ 
+Fig. 4.2.  Slump Flow Test of SCC 
+4.1.2 L-box 
+The L-box test assesses the transient capability of self-compacting concrete by its weight 
+without any vibration. This test defines the ability of concrete to pass through confined spaces 
+and fine openings, validated with a misnamed ratio of the depth of concrete in the lateral 
+section synchronous to the depth of concrete in the longitudinal desertion, which is also 
+validated at 0.8. Findings reveal that the normal concrete L-Box ratio is 0.93, and the BA6 
+sample has a maximum L-box ratio of 0.96. With an increase in bagasse ash percentage 
+replacing cement in SCC, the L-box ratio decreases gradually. Conversely, the RA6 sample 
+shows a 0.92 L-box ratio, and increasing rice husk ash percentage instead of cement in SSC 
+decreases the L-box ratio, as shown in Fig. 4.3.  
+ 
+7
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 8 =====
+
+                                                     
+Fig. 4.3. Variation in Ratios of L-box 
+4.1.3 U-box 
+The U-box test evaluates the filling ability of self-compacting concrete without vibrations. 
+Fig. 4.4 illustrates the variation in U-box test values conducted on SCC prepared with partial 
+cement replacement with sugarcane bagasse ash and rice husk ash in different mixes. The 
+minimum U-box value among the other mixes indicates good filling and passing ability. 
+Normal concrete has a U-box value of 28mm. For bagasse ash, the BA8 sample shows the 
+minimum U-box value at 25mm, and the BA14 sample has a maximum U-box value of 
+54mm. In contrast, using RA6 sample showed a 26mm U-box value, and the RA14 sample 
+showed a maximum U-box value of 41mm. 
+ 
+0
+0.3
+0.6
+0.9
+1.2
+R
+BA6
+BA8
+BA10
+BA12
+BA14
+RA6
+RA8
+RA10
+RA12
+RA14
+L-box h2/h1
+8
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 9 =====
+
+Fig. 4.4. Variation in U-box Values 
+4.2 Hardened Properties  
+4.2.1 Compressive Strength  
+Various cube specimens of size 150X150X150mm are prepared for the compressive strength 
+of concrete. For every mix, three samples are cast for the 7th-day strength, and three are for 
+the 28th-day strength of concrete. Compressive strength is determined with the help of a 
+CTM under a loading rate of 13.7N/mm2 according to BIS: 516–1999 (1959).  
+It was observed that when we increase the percentage of sugarcane bagasse ash (SCBA), the 
+compressive strength increases up to a certain level, as shown in Fig. 4.4. The best result is 
+found at 8% of SCBA, which is 33.97MPa; after that, when we increase the percentage of 
+SCBA, the compressive strength decreases. A similar trend is observed with Rice Husk Ash 
+(RHA). RHA increases the compressive strength up to 10% substitution, reaching 35.79MPa; 
+however, further increases in RHA result in a decrease in compressive strength, as shown in 
+Fig. 4.5. The outcomes indicate that Rice Husk Ash provides better results than SCBA.  
+0
+12
+24
+36
+48
+60
+R
+BA6
+BA8
+BA10
+BA12
+BA14
+RA6
+RA8
+RA10
+RA12
+RA14
+U-value h2-h1 (mm)
+Mixes 
+9
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 10 =====
+
+ 
+Fig. 4.5. Compressive Strength Variation 
+In Fig. 4.6 of this research paper, the compressive strength apparatus for self-compacting 
+concrete is depicted, offering a clear visualization of the testing setup. This illustration serves 
+as a crucial reference point, facilitating a better understanding of the experimental 
+methodology employed to evaluate the strength properties of self-compacting concrete in the 
+study. 
+ 
+ 
+0
+7.5
+15
+22.5
+30
+37.5
+45
+R
+BA6
+BA8
+BA10
+BA12
+BA14
+RA6
+RA8
+RA10
+RA12
+RA14
+Compressive strength N/mm2
+Compressive Strength
+7th day
+28th day
+10
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 11 =====
+
+Fig. 4.6. Compressive Strength Testing 
+4.2.2 Flexural Strength 
+Various beam samples of size 100X100X500mm are prepared for the flexural strength of 
+concrete. For every mix, three beams for 7 days and three beams for 28 days are cast for 
+flexural strength testing. The flexural test is conducted with the help of a flexural strength 
+testing machine with two-point loading. 
+It was observed that the highest strength is witnessed at 8% substitution of cement with 
+SCBA, reaching 4.45 MPa. With an increase in the percentage of SCBA, the flexural strength 
+decreases. Similarly, the highest strength with fractional replacement of RHA is at the 10% 
+substitution level, reaching 4.46 MPa; however, further increases in RHA result in a decrease 
+in flexural strength. RHA and SCBA show similar results in flexural strength, with RHA 
+providing slightly more strength, as shown in Fig. 4.7. Fig. 4.8 in the research paper 
+showcases the flexural strength testing for concrete, providing a visual insight into the 
+experimental setup employed to assess the material's ability to withstand bending forces. 
+ 
+11
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 12 =====
+
+ 
+Fig 4.7. Flexural Strength of different Mix Design 
+ 
+ 
+Fig. 4.8. Flexural strength of different mix design 
+4.2.3 Split Tensile Strength  
+0
+0.6
+1.2
+1.8
+2.4
+3
+3.6
+4.2
+4.8
+R
+BA6
+BA8
+BA10
+BA12
+BA14
+RA6
+RA8
+RA10
+RA12
+RA14
+Flexural Strength N/mm2
+7th day
+28th day
+12
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 13 =====
+
+Various cylinder samples are cast of size 150mmX300mm for determining the split tensile 
+strength. For every mix, three cylinders for 7 days and three cylinders for 28 days are cast 
+for split tensile strength testing. The experiment is performed on a compression testing 
+machine with a loading rate of 13.7N/mm2 according to BIS: 516–1999 (1959).  
+It was observed that the highest strength is detected at 8% of replacement of cement 
+with SCBA, reaching 3.59 MPa at 28 days. With an increase in the percentage of SCBA, the 
+split tensile strength decreases. Similarly, the highest strength with fractional replacement of 
+RHA is at the 10% replacement level, reaching 3.68 MPa at 28 days; however, further 
+increases in RHA result in a decrease in split tensile strength, as shown in Fig. 4.9. Fig. 4.9 
+in the research paper illustrates the split tensile strength testing of concrete, visually 
+presenting the methodology employed to evaluate the material's ability to withstand tensile 
+forces through axial splitting. 
+ 
+ 
+Fig. 4.9. Split Tensile Strength Variation 
+5 Conclusion 
+This experimental study aimed to assess the potential of utilizing agricultural waste materials, 
+specifically sugarcane bagasse ash and rice husk ash, as partial substitutes for cement in self-
+compacting concrete (SCC). SCC, renowned for its self-compression capabilities, is an 
+innovative construction material, and this research sought to enhance its mechanical 
+properties through sustainable means. The following conclusions are derived from the 
+present study: 
+The highest compressive strength values are achieved when 10% of the cement is replaced 
+with Rice Husk Ash (RHA). However, increasing the percentage of RHA results in a decrease 
+in compressive strength, as depicted in Fig. 4.5. 
+0
+0.6
+1.2
+1.8
+2.4
+3
+3.6
+4.2
+R
+BA6
+BA8
+BA10
+BA12
+BA14
+RA6
+RA8
+RA10
+RA12
+RA14
+Tensile strength N/mm2
+7th day
+28th day
+13
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002
+
+
+===== PAGE 14 =====
+
+In the assessment of flexural strength, it was observed that Rice Husk Ash (RHA) 
+outperformed Sugarcane Bagasse Ash (BA) when 10% of the cement was partially 
+substituted. The maximum flexural strength recorded was 4.46 MPa, as illustrated in Fig. 4.7. 
+The split tensile strength test indicates that rice husk ash performs better than sugarcane 
+bagasse ash. The highest value of split tensile strength is at the 10% partially substitution 
+level of cement by rice husk ash, which was 3.68 MPa, as shown in Fig. 4.9. 
+In the assessment of fresh properties, it was found that SCBA gives better results than rice 
+husk ash. The highest value of slump flow is 620mm, as clearly shown in Fig. 4.1. 
+References 
+1.  
+T. Akram, S. A. Memon, and H. Obaid, Constr. Build. Mater. 23, 703 
+(2009) 
+2.  
+P. Thejaswi, J. Vengala, M. S. Dharek, M. Manjunatha, and A. Poudel, 
+Adv. Mater. Sci. Eng. 2023, (2023) 
+3.  
+N. R. Camargo-Pérez, J. Abellán-García, and L. Fuentes, J. Mater. Res. 
+Technol. 25, 6167 (2023) 
+4.  
+A. A. Dayo, A. Kumar, A. Raja, N. Bheel, and Z. H. Shaikh, Eng. Sci. 
+Technol. Int. Res. J. 3, 8 (2019) 
+5.  
+S. M. Abraham and G. D. R. N. Ransinchung, ACI Mater. J. 117, 193 
+(2020) 
+6.  
+. I. S. G., Int. J. Res. Eng. Technol. 04, 306 (2015) 
+7.  
+K. S. Kumar, U. M. Praveen, A. Prathyusha, V. Akhila, and P. Sasidhar, Int. 
+J. Civ. Eng. Technol. 7, 163 (2016) 
+8.  
+E. R. Sai, A. Juma, D. V. A. K. Prakash, S. Haider, and S. K. Rao, Adv. 
+Comput. Sci. Its Appl. 1, 164 (2012) 
+9.  
+A. Khatun, K. Singh, and R. Sharma, Int. J. Civ. Eng. Technol. 9, 1078 
+(2018) 
+10.  
+E. Arif, M. W. Clark, and N. Lake, Constr. Build. Mater. 151, 692 (2017) 
+11.  
+K. Ganesan, K. Rajagopal, and K. Thangavel, Cem. Concr. Compos. 29, 
+515 (2007) 
+12.  
+J. da S. Andrade Neto, M. J. S. de França, N. S. de Amorim Júnior, and D. 
+V. Ribeiro, Constr. Build. Mater. 266, (2021) 
+ 
+13. IS: 10262-1982 and SP 23:1982. Recommended Guidelines for Concrete Mix. 
+Bureau of Indian Standards, New Delhi. S  
+14.IS 8112 (1989);43 grade ordinary Portland cement; bureau of Indian standard, 
+New Delhi. 
+ 
+ 
+  
+14
+E3S Web of Conferences 509, 01002 (2024)
+ICONN-2023
+https://doi.org/10.1051/e3sconf/202450901002

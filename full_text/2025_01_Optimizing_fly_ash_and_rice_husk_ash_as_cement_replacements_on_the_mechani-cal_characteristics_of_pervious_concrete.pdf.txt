@@ -1,0 +1,1386 @@
+
+===== PAGE 1 =====
+
+SUST, 2025, 5(1): 000065 
+000065-1 
+  
+Received: 24 July 2024; Received in revised form: 4 December 2024; Accepted: 28 January 2025 
+This work is licensed under a Creative Commons Attribution 4.0 International License. 
+Sustainable Structures 
+ISSN: 2789-3111 (Print); ISSN: 2789-312X (Online) 
+http://www.sustain-dpl.com/journal/sust 
+DOI: 10.54113/j.sust.2025.000065 
+ 
+ORIGINAL ARTICLE 
+Optimizing fly ash and rice husk ash as cement replacements on the mechani-
+cal characteristics of pervious concrete 
+Navaratnarajah Sathiparan*, Daniel Niruban Subramaniam  
+Department of Civil Engineering, Faculty of Engineering, University of Jaffna, Jaffna 40000, SriLanka. 
+*Corresponding Author: Navaratnarajah Sathiparan. Email: sakthi@eng.jfn.ac.lk. 
+Abstract: Replacing cement with fillers while being environment-friendly con-
+tributes to the performance enhancement of conventional concrete. In the investi-
+gation, nine batches of concrete mix were prepared with different amounts of ce-
+ment, fly ash (FA) and rice husk ash (RHA). This experiment investigated the 
+consequence of substituting cement with FA at various water-to-binder (W/B) pro-
+portions. The FA content was ranged from 5% to 20% of cement by weight, and 
+the W/B ratio was adjusted to 0.3, 0.35, 0.4, and 0.45. Furthermore, for 10% ce-
+ment replacement, FA and RHA combination of 10:0, 7.5:2.5, 5:5, 2.5:7.5 and 
+0:10 by weight were used. When FA alone was used as cement replacement, the 
+optimal mix achieved a 28-day compressive strength of 31.33 MPa at a W/B ratio 
+0.40 with 10% FA. Moreover, incorporating FA and RHA resulted in a cost re-
+duction of approximately 15% per cubic meter of concrete and a decrease in CO₂ 
+emissions by 20% compared to conventional concrete production. The findings 
+demonstrate that FA and RHA can be effectively combined to manufacture pervi-
+ous concrete that enhances performance, reduces costs, and minimizes environ-
+mental pollutants. 
+Keywords: Pervious concrete, fly ash, rice husk ash, compressive strength 
+1 Introduction 
+Pervious concrete offers a practical solution to significant environmental concerns, including flash 
+flooding and groundwater replenishment, while promoting sustainable construction methods. The afore-
+mentioned concerns have heightened curiosity over the utilization of pervious concrete [1]. Although per-
+vious concrete exhibits greater permeability, it has reduced strength compared to traditional concrete. Due 
+to its relatively low strength, pervious concrete is suitable for pavements that experience minimal traffic 
+volume. In various applications, such as parking lots, pervious concrete is utilized to drain and permeate 
+water in order to decrease water runoff and improve the environment of the catchment. Generally, higher 
+cement content is used for pervious concrete compared to conventional cement-based materials such as 
+conventional concrete and cement blocks. Literature shows that a larger amount of carbon dioxide is emitted 
+during cement production. Therefore, several other materials are used as cement replacements for binders 
+to reduce the carbon footprints of concrete [2, 3]. Recent advancements in optimising cement-based mate-
+rials have emphasized the important part of nanomaterials. For instance, the incorporation of nanosilica, 
+graphene oxide, and other nanoparticles has been shown to enhance the mechanical characteristics and 
+
+
+===== PAGE 2 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-2 
+ 
+durability of cement matrices [4, 5]. These materials can improve the microstructure by filling voids, lead-
+ing to denser and stronger composites. Additionally, research has demonstrated that certain nanomaterials 
+can aid in the immobilization of heavy metals, further promoting environmental sustainability in construc-
+tion [4, 5]. Such innovations not only optimize performance but also align with sustainable construction 
+practices, making them crucial for future developments in the field.  
+Due to their affordability and accessibility, rice husk ash (RHA) and fly ash (FA) are two materials 
+which are employed as cement alternates in cement-based products [6]. FA is a low-cost, supplementary 
+cementing material produced from the combustion of coal for energy production and it contains a consid-
+erable amount of silicon and aluminum [7, 8]. Rice husks are a by-product from milling of paddy. Rice 
+husks are generally used in boilers of the industry to produce steam or are used as a fuel in biomass power 
+plants. The ashes produced in incineration of rice husks contain approximately 90% of unreactive silica and 
+the colors of the ashes vary from off-white to black depending on the carbon content. About 5 million tons 
+of rice husks are produced each year, and the residue produced increases yearly [9]. The contemporary 
+literature indicates that partial substitute of cement with FA and RHA, as well as their combination, yields 
+acceptable mechanical characteristics for cement-based materials [9-12]. 
+In studies focused on conventional concrete, the integration of FA generally enhances the workability 
+of fresh mortar, attributed to its finer particle size, smooth texture, and spherical shape [10, 13]. However, 
+while FA improves workability, it can lead to a decrease in strength, especially at higher substitution per-
+centages. Strength reductions are typically reasonable within a 45% FA replacement compared to control 
+samples [14-19]. Additionally, although the presence of FA increases the porosity, it also contributes to 
+improved long-term durability [17, 20-24]. In contrast, the workability of fresh mix reduces as the RHA 
+replacement proportion rises [25-28]. Conversely, RHA has been demonstrated to improve the compressive 
+and tensile strength of concrete when it replaces 10% to 20% of the cement content [27, 29-31]. Notably, 
+the compressive strength of concrete with RHA improves with curing time. However, exceeding the optimal 
+replacement percentage leads to a decline in compressive and splitting tensile strength. Durability parame-
+ters, including water penetration resistance, air permeability, and sulfate resistance, also improve with RHA 
+replacement [32, 33]. The combined outcomes of FA and RHA on strength and durability have been ex-
+plored, with findings indicating that a combination of 10% RHA and varying percentages of FA (10%, 20% 
+and 30%) yields differing results. Specifically, 10% RHA and 10% FA achieve optimal compressive 
+strength, while a mixture of 10% RHA and 30% FA results in compressive strength lesser than that of 
+reference blocks. Importantly, the adding of FA reduces both water absorption and porosity, keeping these 
+values lesser than those of control concrete [32]. 
+In studies focused on pervious concrete, Aoki and Sri Ravindrarajah [34] noted that FA substitution 
+did not significantly alter density or porosity; however, compressive strength decreased by more than 40% 
+with higher FA concentrations. Saboo and Shivhare [35] studied the influence of metakaolin and FA as 
+partial cement substitutes under different environmental conditions, finding that while FA and metakaolin 
+content significantly influenced properties, curing conditions had a lesser impact. The inclusion of 2% me-
+takaolin and a cement replacement of 5% to 15% FA resulted in reduced porosity, while increasing density 
+and compressive strength. Shafabakhsh and Ahmadi [36] reported that increasing RHA content as a cement 
+replacement reduced porosity and permeability up to 10% RHA; beyond which both metrics increased. The 
+strengths—compressive, flexural tensile, and splitting tensile—improved with up to 10% RHA substitute 
+but decreased with higher RHA content. Same trends have been documented in pervious concrete studies 
+by various researchers [37] 
+Although the effects of using FA and RHA in combination to replace cement in conventional concrete 
+have been thoroughly explored, there are currently few studies on pervious concrete using RHA and FA in 
+combination. The mechanical characteristics of pervious concrete that incorporates various RHA and FA 
+mixes as additional cementitious materials are compared in this study. This study also examines the impact 
+of these additional cementitious components at varying W/B ratios.  
+
+
+===== PAGE 3 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-3 
+ 
+2 Material and Methods 
+2.1 Material used  
+Ordinary Portland cement (OPC) was the main binding material for casting experimental pervious 
+concrete sample cubes. The OPC utilized in this research was obtained from Tokyo Cement Company 
+(Lanka) in Sri Lanka and is categorized as Strength Class 42.5 N for OPC as per Sri Lanka standards. The 
+FA was sourced from the Nuraicholai Power Plant located in Puttalam, Sri Lanka, and is categorized as 
+Class F per ASTM C618 [35]. Additionally, the RHA was collected from rice mills in Ampara, Sri Lanka, 
+and comprises a high silica, with a minimum of 80% SiO2. Before casting, FA and RHA were sieved 
+through 300-micron and 800-micron sieves respectively. The particle size dissemination (PSD) of raw ma-
+terials is provided in Fig. 1, measured using sieve analysis and hydrometer meter analysis.  
+ 
+Fig. 1. Particle size distribution of the materials. 
+To determine the particle size distribution of the materials, both sieve analysis and hydrometer analysis 
+were employed. In sieve analysis, samples of FA and RHA were dried and then passed through a series of 
+standard sieves by different mesh sizes. After mechanical shaking, the material retained on each sieve was 
+weighed to calculate the cumulative percentage of particles at each size range. For hydrometer analysis, a 
+fine sample (RHA) was combined with water and a dispersing agent to create a suspension. A hydrometer 
+was subsequently employed to determine the specific gravity of the suspension at specified time intervals, 
+allowing for the calculation of particle sizes based on their settling velocities. The results from both methods 
+were plotted to visualize the particle size distributions. Compared with OPC, FA's particle size values are 
+smaller, while RHA particles are larger. Considering 90% cumulative percentage, OPC, FA and RHA have 
+particle sizes of 350, 135 and 590 µm, respectively. Similarly, the cumulative passing percentage of 10% 
+(effective diameter) of OPC, FA and RHA correspond to particle sizes of 28, 5 and 62 µm, respectively. 
+The chemical configuration of OPC, RHA and FA are provided in Table 1. OPC consists higher con-
+tent of CaO and a lower content of SiO2, Al2O3 and Fe2O3 compounds. However, the primary component 
+of FA and RHA is SiO2 which is 50.8% and 81.8%, respectively. The sum of SiO3+Al2O3+Fe2O3 is 85.81% 
+and 84.58% for FA and RHA, respectively. CaO is less than 10% for both FA and RHA. The total Alkali 
+(Na₂O equivalent = Na₂O + 0.658 K₂O) equals 2.71% and 2.93% for FA and RHA, respectively. According 
+
+
+===== PAGE 4 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-4 
+ 
+to the BS standard, the aggregates used in this study were tested and the qualities and associated standards 
+are shown in Table 2.  
+Table 1. Composition of chemical composition and physical characteristics of cement, FA and RHA. 
+Properties 
+FA 
+RHA 
+Cement 
+Chemical composition (%) 
+ 
+ 
+ 
+CaO 
+6.25 
+3.41 
+66.55 
+SiO2  
+50.81 
+81.81 
+20.60 
+Fe2O3 
+6.97 
+1.01 
+3.62 
+Al2O3 
+28.03 
+1.76 
+4.51 
+MgO 
+1.21 
+0.66 
+1.17 
+Na2O 
+1.45 
+0.97 
+0.40 
+P2O5 
+1.02 
+0.57 
+- 
+SO3 
+0.36 
+0.17 
+2.51 
+K2O 
+1.92 
+2.98 
+0.39 
+Physical properties 
+  
+ 
+ 
+Specific gravity 
+2.39 
+2.11 
+3.15 
+Bulk density (kg/m3) 
+1650 
+235 
+1362 
+Specific surface area (m2/kg) 
+390 
+235 
+325 
+Table 2. Properties of aggregate. 
+Properties 
+Unit 
+Standard used  
+Values 
+Specific gravity 
+- 
+BS-EN-1097 [36] 
+2.72 
+Bulk density  
+kg/m³ 
+BS-EN-1097 [36] 
+1490 
+Absorption  
+% 
+BS-EN-1097 [36] 
+0.20 
+Moisture content  
+% 
+BS-EN-1097 [36] 
+0.35 
+Flakiness Index  
+- 
+BS-EN-933 [37] 
+14.7 
+Aggregate Crushing Value 
+% 
+BS-EN-1097 [36] 
+30.5 
+Aggregate Impact value 
+% 
+BS-EN-1097 [36] 
+25.5 
+Elongation Index (%) 
+% 
+ BS-EN-933 [37] 
+24.02 
+ 
+2.2 Mix design and specimen preparation 
+The research included the casting of pervious concrete cubes with various mix designs as shown in 
+Table 3. All experimental cubes were cast with an aggregate-to-cement proportion of 2.5, while W/B was 
+varied. Also, cement was replaced by filler materials, RHA and FA in different percentages as shown in 
+Table 3. Control cubes were created to assess the effects of W/B ratio on the properties of pervious concrete, 
+with varying W/B proportion from 0.25 to 0.45 in 0.025 increments. In this research, the selection of mix 
+proportions and W/B ratios was determined based on both empirical evidence from the literature and the 
+specific performance goals for pervious concrete. The optimal range for W/B ratios (0.3 to 0.45) was iden-
+tified as crucial for achieving a balance between workability and strength [38, 39]. Lower W/B ratios tend 
+to enhance compressive strength but may compromise workability, which is essential for pervious concrete 
+to fulfill its drainage functionality. Conversely, higher ratios improve workability but can lead to reduced 
+strength and increased porosity. Another set of experimental cubes were cast with partial cement substitu-
+tion with FA content of 5, 10, 15 and 20%. The third set of cubes were cast with a substitution of cement 
+with a mixture of RHA and FA, where the total replacement was maintained constant (10%) while the 
+combination varied as indicated in the annotation. The chosen mix proportions, particularly the percentages 
+of FA and RHA, were guided by prior research demonstrating their pozzolanic properties and their capacity 
+to improve the mechanical characteristics. FA was ranged from 5% to 20% of cement by weight, aligning 
+with findings that suggest this range optimizes strength while maintaining adequate workability [40, 41]. 
+RHA was also included in various combinations, with a total replacement of 10% cement maintained across 
+different mixes [42].  
+
+
+===== PAGE 5 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-5 
+ 
+The necessary amounts of cement, RHA, FA, and coarse aggregate were measured and placed into an 
+electric concrete mixer to generate the desired blend. Water was added incrementally to achieve the prede-
+termined W/B ratio. The fresh mixture was thoroughly mixed until it reached a uniform consistency. A 
+slump test was conducted on the mortar mixture according to BS 1881-102 [43]. The mortar was then 
+poured into 150mm cubic molds and compacted in three layers using a standard compaction hammer 
+(5.08cm diameter, 2.5kg) as specified in BS 1377-4 [44]. The hammer was discharged from a 300 mm 
+height for each impact. The top layer was leveled with an iron rod to ensure a smooth finish. Six samples 
+of pervious concrete were prepared and tested for each type of assessment performed. The cast cubes were 
+air-dried for one day, demolded, and cured for 28 days. 
+Table 3. Mix design for experiment program 
+Mix ID 
+Cement 
+FA 
+RHA 
+Aggregates 
+W/B ratio 
+Control 
+1.00 
+- 
+- 
+2.5 
+0.25, 0.275, 0.30, 0.325, 0.35, 0.375, 0.40, 0.425, 0.45 
+F05 
+0.95 
+0.05 
+- 
+2.5 
+0.30, 0.35, 0.40, 0.45 
+F10 
+0.90 
+0.10 
+- 
+2.5 
+0.30, 0.35, 0.40, 0.45 
+F15 
+0.85 
+0.15 
+- 
+2.5 
+0.30, 0.35, 0.40, 0.45 
+F20 
+0.80 
+0.20 
+- 
+2.5 
+0.25, 0.30, 0.35, 0.40, 0.45 
+F7.5R2.5 
+0.90 
+0.075 
+0.025 
+2.5 
+0.3 
+F5.0R5.0 
+0.90 
+0.050 
+0.050 
+2.5 
+0.3 
+F2.5R7.5 
+0.90 
+0.025 
+0.075 
+2.5 
+0.3 
+R10 
+0.90 
+- 
+0.100 
+2.5 
+0.3 
+2.3 Testing 
+ 
+Fig. 2. Slump variation with W/B ratio. 
+
+
+===== PAGE 6 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-6 
+ 
+The slump, density and compressive strength was measured in accordance with ASTM-C143/C143M 
+[45], ASTM-C1688/C1688M [46], ASTM-C109 [47], respectively. The permeability of each concrete mix 
+design was assessed using the falling head method by ASTM-D5084 [48]. 
+3 Results and Discussion 
+3.1 Mechanical Characteristics of Control Blocks 
+Tests for slump, density, porosity and compressive strength were carried out for W/B ratio 0.25 to 
+0.425. Although high compressive strengths are not anticipated from pervious concrete, a considerable and 
+acceptable range of compressive strength is required for industrial applications. A zero slump was obtained 
+for the mix with a W/B proportion of 0.3 as shown in Fig. 2a. After that, the slump value gradually increased 
+with W/B proportion. At a W/B proportion of 0.325 and 0.35, the slump measured 21 mm and 38 mm, 
+respectively. These values are suitable for the use of pervious concrete, as they exhibit a higher slump value 
+than standard concrete. There was a substantial rise in the slump when the W/B ranged from 0.35 to 0.375, 
+reaching a measurement of 64 mm. The greatest rise in slump values occurred when the W/B proportion 
+reached 0.375. The slump measurements for the W/B proportion values of 0.4 and 0.425 were 108 mm and 
+148 mm, respectively. For these W/B proportions, when the cone was lifted, the mixture collapsed imme-
+diately, as shown in Fig. 2f.  
+Fig. 3 demonstrates the impact of the W/B proportion on the wet density and porosity. Evidently, the 
+porosity increased and the density reduced as the W/B proportion grew. As the W/B proportion grew from 
+0.25 to 0.45, the porosity reduced progressively from 26% to 17.8%. With an rise in the W/B proportion, 
+there was a corresponding rise in the amount of cement gel formed on the surface of the aggregate. Conse-
+quently, the thickness of the pore walls gradually increased [49, 50]. Therefore, the technique decreased 
+the size of open holes in pervious concrete. The decrease in pore size resulted in an elevation of the density. 
+ 
+Fig. 3. Density and porosity variation with W/B ratio. 
+Fig. 4 summarizes the 7th- and 28th-day compressive strength variation with W/B ratio and correspond-
+ing slump values. It could be observed that low strength was obtained for a W/B proportion of 0.25 and 
+0.275. This was due to reduced water availability in the mortar to reach optimum compressive strength for 
+that mix. However, beyond the W/B proportion of 0.3, a gradual increase in strength reached the optimum 
+
+
+===== PAGE 7 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-7 
+ 
+strength at a W/B proportion of 0.425. Yet, while higher compressive strength is advantageous, slump of 
+mortar mix used for pervious concrete needs to be less than 20 mm (preferably zero) to ensure passage of 
+pores through the concrete.  
+ 
+Fig. 4. Compressive strength variation with W/B ratio. 
+3.2 Effect of FA replacement 
+ 
+Fig. 5. Density and porosity variation with W/B proportion and FA substitution level. 
+Fig. 5 illustrates the density and porosity variation with FA content and W/B ratio. As FA content 
+increases, porosity is reduced for all W/B ratio while density remains constant. The rise in FA quantity has 
+
+
+===== PAGE 8 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-8 
+ 
+a minor consequence on density as the density with FA only varied within ± 2 kg/m3 compared with control 
+cubes which is within the uncertainty. In addition, W/B proportion has an insignificant influence on the 
+density of resulting concrete. While the W/B proportion increase from 0.3 to 0.45, the maximum density 
+increment observed with 15% FA replacement was limited to 1.33%. However, the W/B proportion has a 
+significant influence on porosity. When W/B proportion rise from 0.3 to 0.45, the porosity reduced by ap-
+proximately 23% for all the FA replacement percentages. Within a particular W/B ratio, maximum porosity 
+reduction occurred for 20% FA replacement and 0.35 W/B proportion, while it is limited to only 7%.  
+Table 4 summarizes the slump and compressive strength variation with W/B ratio and FA replacement 
+percentage. Workability is the critical features of pervious concrete and slump is the widely accepted indi-
+cator for workability. For a particular W/B proportion, the slump value raised with FA content. The reason 
+for this observation can be traced to the spherical profile and smooth surface of FA particles. When FA 
+replacement was 20% of the cement, the slump value increased to 35, 55, 67 and 78 mm for W/B proportion 
+equal to 0.3, 0.35, 0.4 and 0.45, respectively. In other words, the inclusion of FA in mortar reduces W/B 
+ratio without changing the workability. 
+Table 4. Slump and compressive strength variation with W/B proportion and FA substitution level 
+W/B ratio 
+FA replacement 
+Slump (mm) 
+7-day Compressive 
+Strength (MPa) 
+28-day Compressive 
+strength (MPa) 
+0.25 
+0 
+0 
+4.47 (0.42) 
+5.35 (1.29) 
+5 
+0 
+- 
+- 
+10 
+0 
+- 
+- 
+15 
+4 (1.0) 
+- 
+- 
+20 
+7 (1.3) 
+8.09 (0.66) 
+12.10 (0.78) 
+0.3 
+0 
+0 
+12.25 (0.56) 
+15.43 (0.88) 
+5 
+5 (0.8) 
+8.85 (0.65) 
+14.52 (0.33) 
+10 
+12 (1.3) 
+9.60 (0.42) 
+15.22 (0.52) 
+15 
+20 (1.3) 
+10.96 (0.37) 
+16.15 (0.44) 
+20 
+35 (1.6) 
+11.21 (0.29) 
+16.51 (0.57) 
+0.35 
+0 
+38 (1.9) 
+13.86 (0.82) 
+17.36 (0.73) 
+ 
+5 
+45 (2.3) 
+11.49 (1.12) 
+18.09 (0.77) 
+10 
+56 (1.7) 
+14.60 (0.51) 
+26.44 (0.72) 
+15 
+70 (1.3) 
+15.38 (0.76) 
+26.89 (1.78) 
+20 
+93 (1.7) 
+13.90 (0.39) 
+26.81 (0.84) 
+0.40 
+0 
+108 (2.4) 
+14.84 (0.58) 
+21.02 (0.79) 
+5 
+117 (2.2) 
+13.82 (0.73) 
+27.43 (0.55) 
+10 
+131 (1.7) 
+17.53 (0.94) 
+31.33 (1.46) 
+15 
+145 (1.8) 
+16.50 (0.52) 
+27.61 (0.57) 
+20 
+175 (1.8) 
+15.09 (0.38) 
+25.33 (0.91) 
+0.45 
+0 
+193 (2.8) 
+15.44 (0.66) 
+23.10 (1.01) 
+ 
+5 
+206 (2.2) 
+19.18 (1.23) 
+27.96 (1.14) 
+10 
+221 (1.9) 
+17.25 (1.56) 
+29.82 (0.65) 
+15 
+240 (1.9) 
+16.12 (1.24) 
+25.15 (1.07) 
+20 
+271 (1.7) 
+17.10 (0.82) 
+22.99 (1.47) 
+* The standard deviation is shown in brackets. 
+When FA was included as cement replacement in the mix, cement hydration reaction followed by a 
+pozzolanic reaction. Hydration reaction of cement with water, it undergoes a transformation into Calcium 
+silicate hydrate (C-S-H) gel and calcium hydroxide (Ca(OH)2) gel, as represented by Eq. (1) [51, 52]. This 
+triggered a reaction between Ca(OH)2 and Silica, utilizing available water, resulting in the formation of 
+additional C-S-H gel, as depicted in Eq (2) [53]. During the hydration, the reaction with FA becomes sec-
+ondary. 
+Cement hydration reaction: Ca3SiO5 + H2O → C-S-H + Ca(OH)2   
+ 
+ 
+ 
+ 
+ 
+   (1) 
+ Pozzolanic reaction: Ca(OH)2 + SiO2 + H2O → C-S-H  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    (2) 
+
+
+===== PAGE 9 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-9 
+ 
+For a particular FA content, the strength was improved with the W/B proportion up to the optimum 
+level and reduced after that. When a low W/B proportion was used, limited water was available for cement 
+hydration and pozzolanic reaction. Therefore, pervious concrete showed less strength in low W/B propor-
+tion and thereafter, the strength enhanced with the increase in W/B proportion. However, a high W/B pro-
+portion resulting in excessive water in the mix resulted in aggregate segregation and reduced strength. 
+Table 5. Optimum mix for pervious concrete 
+Fly ash 
+Optimum W/B ratio for slump ≤ 20mm 
+Slump 
+Corresponding compressive strength 
+ 
+ 
+ 
+7 days 
+28 days 
+0 
+0.30 
+0 
+12.25 
+15.43 
+5 
+0.30 
+5 
+8.85 
+14.52 
+10 
+0.30 
+12 
+9.60 
+15.22 
+15 
+0.30 
+20 
+10.96 
+16.15 
+20 
+0.25 
+7 
+8.09 
+12.10 
+Variation of compressive strength was observed to be negligible for varying FA with a W/B proportion 
+of 0.3. This may be due to less water being available in the mix, and therefore, the pozzolanic reaction was 
+restricted to utilizing the available FA. When the W/B proportion raised to 0.35 or above, the compressive 
+strength improved up to 10% FA as cement substitute. This observation could be attributed to the available 
+silica from FA for pozzolanic reaction together with higher production of C-S-H gel compared to control 
+mixtures. The 28th day strength of the pervious concrete including 10% FA was 52.3, 49.1 and 29.1% more 
+than control cube. However, for higher FA quantity, the compressive strength was reduced with a rise in 
+FA quantity. This observation could be because the amount of silica from hydrated blended cement is in 
+excess while the Ca(OH)2 produces insufficient for thorough reaction with available silica. This resulted in 
+excess silica remaining unreacted. While compressive strength is important for pervious concrete, 
+permeability is crucial to serving its purpose of transporting fluids through them. This in turn inevitably 
+requires slump to be minimal, or preferably zero. When slump value is limited to 20 mm, the optimum mix 
+for pervious concrete with FA content is summarized in Table 5.  
+3.3 Effect of Combination of RHA and FA Replacement 
+ 
+Fig. 6. Density and porosity variation with FA and RHA combination. 
+
+
+===== PAGE 10 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-10 
+ 
+This research assessed the synergistic influence of FA and RHA on a W/B proportion of 0.3. The slump 
+for all the combinations of FA and RHA is within 0 – 12 mm range. Fig. 6 presents the discrepancy of the 
+density and porosity with varying combinations of FA and RHA. It could be seen that the combination FA 
+and RHA have not significantly affected density or porosity.  
+The observed changes in mechanical properties with increasing FA and RHA content can be attributed 
+to several mechanisms affecting the microstructure of pervious concrete. Both FA and RHA are pozzolanic 
+materials, that means they respond with calcium hydroxide (produced through the hydration of cement) and 
+water, leading to the formation of more calcium-silicate-hydrate (C-S-H). This reaction provides to the 
+densification of the concrete matrix, enhancing its mechanical properties. The finer particles of FA fill the 
+voids among the larger aggregates, producing to a denser microstructure. This filler effect improves the 
+packing density, that can enhance both strength and durability. As FA and RHA are incorporated, the mi-
+crostructure of the concrete transitions from a more porous structure to a denser one. The increased for-
+mation of C-S-H contributes to a more robust interfacial transition zone (ITZ) among the cement paste and 
+aggregate, which is critical for strength. Incorporating FA and RHA can substantially decrease the porosity 
+of pervious concrete. A lower porosity leads to decreased permeability, which enhances the durability of 
+the concrete by reducing the ingress of harmful substances.  
+ 
+Fig. 7. Compressive strength variation with FA and RHA combination. 
+Fig. 7 presents 7th day and 28th-day compressive strength with a different combination of FA and RHA 
+as cement replacement, adding up to 10% of replacement of cement in total. All combinations of FA and 
+RHA show lower 7th to 28th day strength ratio compared to control cubes. The 7th to 28th day strength ratio 
+for control blocks was 79.4%. For the combination of FA and RHA, this value was 63.1, 67.5, 69.0 and 
+71.1%, respectively for 0, 2.5, 5, 7.5 and 10% of RHA in the mix. The observed reduction in compressive 
+strength at 7 days is likely due to the slower rate of pozzolanic reaction associated with FA. The FA typi-
+cally requires more time to react fully compared to Portland cement, which can result in lower early-age 
+strength. At 10% FA replacement, the initial hydration may not be sufficient to accomplish the similar 
+strength as the control group within the 7-day period. However, by 28 days, the pozzolanic reaction of the 
+FA endures to develop, leading to a notable increase in strength that approaches that of the control group. 
+This behavior is dependable with findings in the literature, which indicate that FA contributes positively to 
+the long-term strength and durability. It is clearly proven that RHA provides better early strength compared 
+
+
+===== PAGE 11 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-11 
+ 
+with FA, but still, it is less than the performance of control cubes. As observed in Fig. 7, the replacement 
+of RHA in the mixture rises the strength proportionally. In general, RHA has several advantages over FA, 
+such as: 
+ 
+Higher silica content in RHA improves pozzolanic activity. Especially, RHA with larger 
+amount of purity of amorphous silica and less carbon content could yield higher strength for binder 
+[54]. 
+ 
+The lower specific surface area of RHA reduces the amount of water required for setting and 
+thereby making additional water available for pozzolanic reaction. 
+As observed in Fig. 7, pervious concrete with 10% FA showed a similar 28th-day strength of control 
+cubes. However, the substitution of RHA showed a gradual increase of compressive strength. For 10% 
+RHA as replacement level, the strength was enhanced by 38% compared to control cubes. Further analysis 
+revealed that the optimal combination of RHA with varying percentages of FA consistently caused in im-
+proved strength compared to control. However, excessive FA beyond a certain threshold led to diminished 
+compressive strength, likely due to unreacted silica competing for available calcium hydroxide, underscor-
+ing the importance of maintaining a balanced mix.  
+The results indicate that both 10% FA 10% RHA serve as effective cement replacements, each yielding 
+robust compressive strength when used individually. FA as a supplementary cementitious material, it is 
+known for its high reactivity due to its amorphous silica content. When used at 10% replacement, it effec-
+tively enhances the cement hydration process, leading to increased formation of calcium silicate hydrate 
+(C-S-H), which contributes to strength development. FA also improves the workability of the concrete mix, 
+allowing for better consolidation and reduced porosity. Similarly, RHA contains a significant amount of 
+reactive silica, which contributes to its pozzolanic behavior. Both FA and RHA have particle sizes that 
+allow them to integrate well into the concrete mix, leading to improved packing density. When used indi-
+vidually, they can optimize the particle size distribution more effectively than when combined, minimizing 
+voids and enhancing the overall strength. while FA and RHA are used together, there may be competitive 
+reactions that limit the availability of calcium hydroxide necessary for optimal pozzolanic activity. The 
+presence of both materials can lead to a dilution effect, where the benefits of each material are not fully 
+realized. In contrast, using them separately allows for each material to contribute maximally to the hydration 
+reactions without interference. 
+Published literature shown that, in general, it was observed that porosity reduced with increasing FA 
+substitution up to 30% [55-58]. This trend aligned with the majority of published studies. However, except 
+Saboo et al. [59] reported a different trend due to their unique wet-curing method. Al-Sallami et al. [58] 
+deviated from the general trend, showing an increase in porosity at higher FA replacement levels (50%). 
+This could be attributed to factors such as the type of the FA used or differences in the mixing and curing 
+conditions. For low-level RHA replacement (less than 10%), the results were consistent with published 
+literature, showing a decrease in porosity [60-62]. However, at higher RHA replacement levels, an increas-
+ing trend in porosity was observed. This suggested that the beneficial effects of RHA on porosity may 
+diminish at higher replacement rates. 
+The present study supported the consensus in the literature that 20% FA replacement is optimal for 
+achieving enhanced compressive strength [55-60, 62-65]. This was consistent with the results of Wang et 
+al. [55] and Saboo et al. [59]. For RHA substitution, the present study and literature indicated a comparable 
+trend: compressive strength improved with RHA substitution up to 5-10%, then decreased. This suggested 
+that there was a maximum beneficial influence of RHA on compressive strength, beyond which the negative 
+effects of RHA on the concrete microstructure became more pronounced. 
+3.4 Permeability 
+Understanding how mix design affects permeability is vital for practical applications of pervious con-
+crete. It is planned to allow rainwater to infiltrate, reducing surface runoff and promoting groundwater 
+
+
+===== PAGE 12 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-12 
+ 
+recharge. Therefore, optimizing permeability is crucial for the effectiveness of pervious surfaces in miti-
+gating flooding and erosion. The application of pervious concrete should consider local environmental con-
+ditions, including soil type, rainfall patterns, and groundwater levels. Adjusting the mix design to enhance 
+permeability can help tailor pervious concrete to specific site requirements, ensuring optimal performance 
+in real-world scenarios. 
+The permeability is primarily influenced by its mix design, including the proportions of cement, ag-
+gregates, and supplementary materials such as FA and rice RHA. The inclusion of FA can improve work-
+ability, allowing for better compaction and potentially reducing voids. However, at higher replacement 
+levels, the increased volume of FA may lead to increased porosity, thus affecting permeability. Present 
+results suggest that while 10% FA enhances compressive strength, it also contributes to a balance between 
+permeability and strength. RHA has been found to fill voids within the aggregate matrix effectively, which 
+can reduce permeability when used at optimal levels. However, excessive RHA may lead to a less dense 
+microstructure, potentially increasing permeability. Our findings indicate that 10% RHA maintains a favor-
+able balance, providing adequate strength without compromising permeability significantly. The permea-
+bility may vary with the amount of binder used, aggregate size and density of the mixture, but preferred 
+within the range of 2-6 mm/s and may go up to 10 mm/s [66, 67]. A moderate permeability of pervious 
+concrete used for pavement system would typically have an infiltration rate of 143 liters per minute per 
+square meter (2.4 mm/s) [68].  
+Permeability of all mix designs used in this study had been observed to be higher than 90 mm/s. This 
+is observed to be very high whereas the average permeability of soil is in the range of approximately 0.25 
+mm/hr to 25 mm/hr [68]. The pervious concrete cast in this study is therefore capable of transporting large 
+amounts of water through the structure where the native soil would become the limiting factor. This indi-
+cates that when the slump value of the fresh mix less than 20 mm, the permeability is not the controlling 
+factor to decide the optimum mix.  
+3.5 Cost Analysis  
+ 
+Fig. 8. Cost analysis of pervious concrete with various mix ratios. 
+
+
+===== PAGE 13 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-13 
+ 
+To analysis the economic advantages of RHA and FA as cement substitution in pervious concrete, the 
+raw material consumption was computed. For here mix with W/B proportion of 0.3 was considered. The 
+usage of materials was determined as of the amount of cement, RHA, FA and coarse aggregate required. 
+Fig. 8 shows the price of the raw materials needed to produce one cubic meter of pervious concrete. Cement 
+and FA cost SLR 3,000 and SLR 400 per bag (50kg), respectively, on the local market. Even though RHA 
+is considered as agricultural waste, still preparation of RHA involves loading and unloading, transportation 
+and grinding and heat treatment. Based on the building schedule of rates of Sri Lanka [69], the cost for 
+these sets is SLR 1,075 for one-meter cube loading/ unloading, SLR 101 for one-meter cube/ km transpor-
+tation, SLR 10 for 1 kg grinding and SLR 6.4 for 1 kg RHA heat treatment. According to the local market, 
+coarse aggregate costs SLR 3,700 for one-meter cube. According to this, the prices for 1 kg of cement, 
+RHA, FA and coarse aggregates in SLR were 60.00, 7.60, 8.00 and 2.50, respectively. 
+When comparing the raw material cost of pervious concrete with FA, the cost decreases by approxi-
+mately 15.7% for a 20% FA content. When the combination of FA and RHA is used as a cement replace-
+ment, the cost decreases by approximately 8%. However, when the cost per unit compressive strength was 
+considered, the combination of FA and RHA used as cement replacement shows more cost-benefit, espe-
+cially for higher RHA content in the mortar mix. The reduction in cost for unit compressive strength is 15.1, 
+25.3, 28.3 and 33.0% for 2.5, 5.0, 7.5 and 10% RHA content, respectively. These values are generally 
+higher than 20% FA replacement, where the reduction in cost for unit compressive strength is 21.2%. 
+Therefore, this shows that the pervious concrete with a combination of FA and RHA is cost-effective than 
+the control one. 
+3.6 CO2 Emission Analysis 
+ 
+Fig. 9. CO2 emission analysis of raw material used for pervious concrete with various mix ratios. 
+In terms of consideration of sustainability reduction in carbon footprint of concrete is considered an 
+appropriate parameter. In the manufacture of concrete, cement as a constituent contributes to the carbon 
+footprint of resulting concrete, compared to others, owing mainly to power-intensive processes in cement 
+production. To analyses the environmental benefits of the production of pervious concrete with RHA and 
+FA as cement substitution, carbon emission analysis was conducted. The CO2 emissions for the production 
+
+
+===== PAGE 14 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-14 
+ 
+of cement, FA and coarse aggregates were collected from available literature [70-74]. Furthermore, the 
+grinding process and the heat treatment of RHA also contribute to CO2 emissions [75]. For one-tonne ma-
+terial production of cement, FA, RHA and coarse aggregates, the CO2 emissions were computed to be 780, 
+8, 5 and 41 kg, respectively. The CO2 emissions from material transportation and wet mix stirring were not 
+taken into consideration in this research. Using the above estimations, CO2 emissions of the raw material 
+production for one-meter cube pervious concrete were computed.  
+Fig. 9 presents the compressive strength versus CO2 emissions of pervious concrete with different 
+cement substitutions, computed based on emissions during the production of raw material for concrete pro-
+duction. It is shown that incorporating FA as a cement replacement, significantly reduces the CO2 emission 
+without significantly compromising the compressive strength. When the combination of RHA and FA is 
+used as a 10% cement replacement, there is a slight increase in CO2 emission with the increase in RHA 
+content. However, compressive strength is significantly improved simultaneously.  
+Table 6 presents a comparison of the embodied energy and carbon associated with cement and various 
+SCMs. Silica fume, FA and RHA are by-products with relatively low embodied energy and carbon due to 
+their minimal processing requirements. In contrast, ground granulated blast furnace slag and pulverized 
+fuel ash require additional processing steps, such as heating and grinding, resulting in higher embodied 
+energy and carbon. Metakaolin, a manufactured SCM, also has higher embodied energy and carbon com-
+pared to by-product SCMs but remains a more sustainable choice than cement. The reduced embodied 
+energy and carbon emissions of FA and RHA compared to Portland cement offer significant potential for 
+enhancing the sustainability of pervious concrete. Incorporating these can lead to lower energy consumption 
+and reduced CO2 emissions during pervious concrete production. Moreover, the utilization of these SCMs 
+can divert waste materials from landfills, mitigating their environmental impact. 
+Table 6. Embodied energy and embodied carbon for cement and supplementary cementitious materials 
+Materials 
+Embodied energy 
+(MJ/kg) 
+CO2 emission (kgCO2/kg) 
+Ref. 
+Cement 
+4.5 - 5.3 
+0.73 – 0.91 
+[76, 77] 
+Fly ash 
+0.1 
+0.008 
+[76] 
+Granulated blast furnace slag 
+1.6 
+0.067 
+[76] 
+Silica fume 
+0.1 
+0.014 
+[78] 
+Metakaolin 
+3.48 
+0.33 – 0.40 
+[79, 80] 
+Palm oil fuel ash 
+0.76 
+0.110 
+[81] 
+Rice husk ash 
+0.008 
+0.005 
+[82] 
+Waste glass powder 
+0.06 – 0.14 
+0.007 – 0.016 
+[83] 
+4 Conclusion 
+In the current study, FA and RHA are used as partial cement replacements and their effect on porosity 
+and compressive strength of pervious concrete was analyzed. According on the study's findings, the fol-
+lowing conclusions have been made: 
+ 
+Although compressive strength of pervious concrete increases with W/B ratio up to 0.425, 
+slump is the deciding factor for optimum W/B ratio. For pervious concrete, slump flow should be closer 
+or equal to zero for better permeability. Considering both slump and compressive strength, a W/B ratio 
+of 0.3 is considered optimum for control cubes.  
+ 
+When slump value is limited to 20 mm, 15% cement replacement with FA and W/B ratio of 
+0.3, yields the optimum mix for pervious concrete. For a particular combination, compressive strength 
+was 16.15 MPa, which is 4.7% higher than the control design.  
+ 
+When the combination of RHA and FA was used, higher RHA replacement showed increased 
+strength without compromising density and porosity. When 10% RHA was used as cement substitution 
+in the mix, the compressive strength reached 21.2 MPa, which is 37.5% and 39.4% higher than the 
+control cube and 10 % FA replaced pervious concrete, respectively.  
+
+
+===== PAGE 15 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-15 
+ 
+ 
+The permeability of all mix designs was higher than 90 mm/s. This is observed to be very 
+high and in the present study, the permeability is not the controlling factor to decide the optimum mix 
+with FA or RHA as cement replacement. 
+ 
+Replacement of cement with FA or RHA, not only reduces the raw material cost but also 
+reduces CO2 emission during raw material production.  
+The successful integration of FA and RHA into pervious concrete production offers several practical 
+implications. This research supports the transition towards more sustainable construction methods by re-
+ducing reliance on traditional cement, which is responsible for significant carbon emissions. The use of by-
+products like FA and RHA not only minimizes waste but also contributes to a greener construction industry. 
+Also, Implementing FA and RHA as partial cement replacements can lower material costs, making pervious 
+concrete a more economically viable option for various applications. This aspect is particularly beneficial 
+for large-scale infrastructure projects where budget constraints are critical. 
+To further advance the knowledge in this field, the following research directions are recommended: 
+ 
+Investigating the durability and long-term performance of pervious concrete incorporating 
+FA and RHA under various environmental conditions can provide insights into its viability for different 
+applications. 
+ 
+Conducting field trials to assess the practical application of this concrete mix in real-world 
+scenarios will help validate laboratory findings and determine its effectiveness in managing stormwater 
+in urban settings. 
+ 
+Future studies should focus on optimizing mix designs for specific applications, considering 
+factors such as traffic load, environmental exposure, and local availability of materials. 
+ 
+Expanding research to include other supplementary cementitious materials, such as slag or 
+metakaolin, in combination with FA and RHA could yield further improvements in mechanical proper-
+ties and sustainability. 
+ 
+Acknowledgement 
+The authors gratefully acknowledge the support provided by the Department of Civil Engineering, 
+Faculty of Engineering, University of Jaffna. 
+Funding Statement 
+The authors received no specific funding for this study. 
+CRediT authorship contribution statement 
+Navaratnarajah Sathiparan: Conceptualization, Investigation, Formal analysis, Writing – original 
+draft. Daniel Niruban Subramaniam: Conceptualization, Investigation, Formal analysis, Writing – review 
+& editing. 
+Conflicts of Interest 
+The authors declare that they have no conflicts of interest related to this study. 
+Data Availability Statement 
+Data can be made available on request by interested parties. 
+References 
+
+
+===== PAGE 16 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-16 
+ 
+[1]  Subramaniam DN, Sathiparan N. Comparative study of fly ash and rice husk ash as cement replacement in per-
+vious concrete: mechanical characteristics and sustainability analysis, International Journal of Pavement Engi-
+neering 2023; 2: 2075867. https://doi.org/10.1080/10298436.2022.2075867. 
+[2]  Poorveekan K, Ath KMS, Anburuvel A, Sathiparan N. Investigation of the engineering properties of cementless 
+stabilized earth blocks with alkali-activated eggshell and rice husk ash as a binder, Construction and Building 
+Materials 2021; 277: 122371. https://doi.org/10.1016/j.conbuildmat.2021.122371. 
+[3]  Sathiparan N. Utilization prospects of eggshell powder in sustainable construction material – A review, Con-
+struction and Building Materials 2021; 293: 123465. https://doi.org/10.1016/j.conbuildmat.2021.123465. 
+[4]  Chi L, Lu S, Li Z, Huang C, Jiang H, Peng B. Recycling of ferronickel slag tailing in cementitious materials: 
+Activation and performance, Science of The Total Environment 2023; 861: 160706. https://doi.org/10.1016/j.sci-
+totenv.2022.160706. 
+[5]  Chi L, Huang C, Li Z, Ruan S, Peng B, Li M, Liang Q, Yin K, Lu S. Heavy metals immobilization of LDH@bi-
+ochar-containing cementitious materials: Effectiveness and mechanisms, Cement and Concrete Composites 2024; 
+152: 105667. https://doi.org/10.1016/j.cemconcomp.2024.105667. 
+[6]  Sathiparan N, Subramaniam DN. Potential use of crushed waste glass and glass powder in sustainable pervious 
+concrete: A review, Cleaner Waste Systems, 2024; 1: 100191. https://doi.org/10.1016/j.clwas.2024.100191. 
+[7]  Bae S, Meral C, Oh J, Moon J, Kunz M, Monteiro PJM. Characterization of morphology and hydration products 
+of high-volume fly ash paste by monochromatic scanning x-ray micro-diffraction (μ-SXRD), Cement and Con-
+crete Research 2014; 59: 155-164. https://doi.org/10.1016/j.cemconres.2014.03.001. 
+[8]  Sarker PK, McBeath S. Fire endurance of steel reinforced fly ash geopolymer concrete elements, Construction 
+and Building Materials 2015; 90: 91-98. https://doi.org/10.1016/j.conbuildmat.2015.04.054. 
+[9]  Kunchariyakun K, Asavapisit S, Sombatsompop K. Properties of autoclaved aerated concrete incorporating rice 
+husk ash as partial replacement for fine aggregate, Cement and Concrete Composites 2015; 55: 11-16. 
+https://doi.org/10.1016/j.cemconcomp.2014.07.021. 
+[10] Sahmaran M, Yaman IO. Hybrid fiber reinforced self-compacting concrete with a high-volume coarse fly ash, 
+Construction and Building Materials 2007; 21(1): 150-156. https://doi.org/10.1016/j.conbuildmat.2005.06.032. 
+[11] Mayooran S, Ragavan S, Sathiparan N. Comparative study on open air burnt low- and high-carbon rice husk ash 
+as partial cement replacement in cement block production, Journal of Building Engineering 2017; 13: 137-145. 
+https://doi.org/10.1016/j.jobe.2017.07.011. 
+[12] Seevaratnam V, Uthayakumar D, Sathiparan N. Influence of rice husk ash on characteristics of earth cement 
+blocks, MRS Advances 2020; 5(54): 2793-2805. https://doi.org/10.1557/adv.2020.294. 
+[13] Yoon S, Monteiro PJM, Macphee DE, Glasser FP, Imbabi MSE. Statistical evaluation of the mechanical properties 
+of high-volume class F fly ash concretes, Construction and Building Materials 2014; 54: 432-442. https://doi. or 
+g/10.1016/j.conbuildmat.2013.12.077. 
+[14] Siddique R, Kapoor K, Kadri EH, Bennacer R. Effect of polyester fibres on the compressive strength and abrasion 
+resistance of HVFA concrete, Construction and Building Materials 2012; 29: 270-278. https://doi.org/10.1016/j. 
+conbuildmat.2011.09.011. 
+[15] Filho JH, Medeiros MHF, Pereira E, Helene P, Isaia GC. High-volume fly ash concrete with and without hydrated 
+lime: chloride diffusion coefficient from accelerated test, Journal of Materials in Civil Engineering 2013; 25(3): 
+411-418. https://doi.org/10.1061/(ASCE)MT.1943-5533.0000596. 
+[16] Yoshitake BI, Wong H, Ishida T, Nassif AY. Thermal stress of high volume fly-ash (HVFA) concrete made with 
+limestone aggregate, Construction and Building Materials 2014; 71: 216-225. https://doi.org/10.1016/j.conbuild 
+mat.2014.08.028. 
+[17] Yanbo L, Francisco PM. Effect of Elevated Temperature Curing on Compressive Strength and Electrical Resis-
+tivity of Concrete with Fly Ash and GGBS, ACI Materials Journal 2014; 111(5): https://doi.org/10.14359/5168 
+6913. 
+[18] Silva P, de Brito J. Electrical resistivity and capillarity of self-compacting concrete with incorporation of fly ash 
+and limestone filler, Advances in concrete construction 2013; 1(1): 65-84. https://doi.org/10.12989/ACC.2013.1 
+.1.065. 
+[19] Huang CH, Lin SK, Chang CS, Chen HJ. Mix proportions and mechanical properties of concrete containing very 
+high-volume of Class F fly ash, Construction and Building Materials 2013; 46: 71-78. https://doi.org/10.1016/j. 
+conbuildmat.2013.04.016. 
+[20] Gesoğlu M, Güneyisi E, Özbay E. Properties of self-compacting concretes made with binary, ternary, and quater-
+nary cementitious blends of fly ash, blast furnace slag, and silica fume, Construction and Building Materials 
+2009; 23(5): 1847-1854. https://doi.org/10.1016/j.conbuildmat.2008.09.015. 
+
+
+----- TABLE p16#1 -----
+
+[1] Subramaniam DN, Sathiparan N. Comparative study of fly ash and rice husk ash as cement replacement in per- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | vious concrete: mechanical characteristics and sustainability analysis, International Journal of Pavement Engi- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | neering 2023; 2: 2075867. https://doi.org/10.1080/10298436.2022.2075867. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[2] Poorveekan K, Ath KMS, Anburuvel A, Sathiparan N. Investigation of the engineering properties of cementless |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | stabilized earth blocks with alkali-activated eggshell and rice husk ash as a binder, Construction and Building |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Materials 2021; 277: 122371. https://doi.org/10.1016/j.conbuildmat.2021.122371. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[3] Sathiparan N. Utilization prospects of eggshell powder in sustainable construction material – A review, Con- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | struction and Building Materials 2021; 293: 123465. https://doi.org/10.1016/j.conbuildmat.2021.123465. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[4] Chi L, Lu S, Li Z, Huang C, Jiang H, Peng B. Recycling of ferronickel slag tailing in cementitious materials: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Activation and performance, Science of The Total Environment 2023; 861: 160706. https://doi.org/10.1016/j.sci- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | totenv.2022.160706. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[5] Chi L, Huang C, Li Z, Ruan S, Peng B, Li M, Liang Q, Yin K, Lu S. Heavy metals immobilization of LDH@bi- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ochar-containing cementitious materials: Effectiveness and mechanisms, Cement and Concrete Composites 2024 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 152: 105667. https://doi.org/10.1016/j.cemconcomp.2024.105667. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[6] Sathiparan N, Subramaniam DN. Potential use of crushed waste glass and glass powder in sustainable pervious |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | concrete: A review, Cleaner Waste Systems, 2024; 1: 100191. |  |  |  |  |  |  |  | https://doi.org/10.1016/j.clwas.2024.100191 |  |  |  |  |  |  |  | .
+[7] Bae S, Meral C, Oh J, Moon J, Kunz M, Monteiro PJM. Characterization of morphology and hydration products |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | of high-volume fly ash paste by monochromatic scanning x-ray micro-diffraction (μ-SXRD), Cement and Con- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | crete Research 2014; 59: 155-164. https://doi.org/10.1016/j.cemconres.2014.03.001. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[8] Sarker PK, McBeath S. Fire endurance of steel reinforced fly ash geopolymer concrete elements, Construction |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | and Building Materials 2015; 90: 91-98. https://doi.org/10.1016/j.conbuildmat.2015.04.054. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[9] Kunchariyakun K, Asavapisit S, Sombatsompop K. Properties of autoclaved aerated concrete incorporating rice |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | husk ash as partial replacement for fine aggregate, Cement and Concrete Composites 2015; 55: 11-16. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | https://doi.org/10.1016/j.cemconcomp.2014.07.021. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[10] Sahmaran M, Yaman IO. Hybrid fiber reinforced self-compacting concrete with a high-volume coarse fly ash, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Construction and Building Materials 2007; 21(1): 150-156. https://doi.org/10.1016/j.conbuildmat.2005.06.032. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[11] Mayooran S, Ragavan S, Sathiparan N. Comparative study on open air burnt low- and high-carbon rice husk ash |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | as partial cement replacement in cement block production, Journal of Building Engineering 2017; 13: 137-145. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | https://doi.org/10.1016/j.jobe.2017.07.011. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[12] Seevaratnam V, Uthayakumar D, Sathiparan N. Influence of rice husk ash on characteristics of earth cement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | blocks, MRS Advances 2020; 5(54): 2793-2805. https://doi.org/10.1557/adv.2020.294. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[13] Yoon S, Monteiro PJM, Macphee DE, Glasser FP, Imbabi MSE. Statistical evaluation of the mechanical properties |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | of high-volume class F fly ash concretes, Construction and Building Materials 2014; 54: 432-442. https://doi. or |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | g/10.1016/j.conbuildmat.2013.12.077. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[14] Siddique R, Kapoor K, Kadri EH, Bennacer R. Effect of polyester fibres on the compressive strength and abrasion |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | resistance of HVFA concrete, Construction and Building Materials 2012; 29: 270-278. https://doi.org/10.1016/j. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | conbuildmat.2011.09.011. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[15] Filho JH, Medeiros MHF, Pereira E, Helene P, Isaia GC. High-volume fly ash concrete with and without hydrated |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | lime: chloride diffusion coefficient from accelerated test, Journal of Materials in Civil Engineering 2013; 25(3): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 411-418. https://doi.org/10.1061/(ASCE)MT.1943-5533.0000596. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[16] Yoshitake BI, Wong H, Ishida T, Nassif AY. Thermal stress of high volume fly-ash (HVFA) concrete made with |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | limestone aggregate, Construction and Building Materials 2014; 71: 216-225. https://doi.org/10.1016/j.conbuild |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | mat.2014.08.028. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[17] Yanbo L, Francisco PM. Effect of Elevated Temperature Curing on Compressive Strength and Electrical Resis- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | tivity of Concrete with Fly Ash and GGBS, ACI Materials Journal 2014; 111(5): https://doi.org/10.14359/5168
+6913. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 6913. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[18] Silva P, de Brito J. Electrical resistivity and capillarity of self-compacting concrete with incorporation of fly ash |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | and limestone filler, Advances in concrete construction 2013; 1(1): 65-84. https://doi.org/10.12989/ACC.2013.1 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | .1.065. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[19] Huang CH, Lin SK, Chang CS, Chen HJ. Mix proportions and mechanical properties of concrete containing very |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | high-volume of Class F fly ash, Construction and Building Materials 2013; 46: 71-78. https://doi.org/10.1016/j. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | conbuildmat.2013.04.016. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[20] Gesoğlu M, Güneyisi E, Özbay E. Properties of self-compacting concretes made with binary, ternary, and quater- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | nary cementitious blends of fly ash, blast furnace slag, and silica fume, Construction and Building Materials |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2009; 23(5): 1847-1854. https://doi.org/10.1016/j.conbuildmat.2008.09.015. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 17 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-17 
+ 
+[21] Mardani-Aghabaglou A, Andiç-Çakir Ö, Ramyar K, Freeze–thaw resistance and transport properties of high-
+volume fly ash roller compacted concrete designed by maximum density method, Cement and Concrete Compo-
+sites 2013; 37: 259-266. https://doi.org/10.1016/j.cemconcomp.2013.01.009. 
+[22] Shaikh FUA, Supit SWM. Mechanical and durability properties of high volume fly ash (HVFA) concrete con-
+taining calcium carbonate (CaCO3) nanoparticles, Construction and Building Materials 2014; 70: 309-321. 
+https://doi.org/10.1016/j.conbuildmat.2014.07.099. 
+[23] Yerramala A, Ganesh Babu K. Transport properties of high volume fly ash roller compacted concrete, Cement 
+and Concrete Composites 2011; 33(10): 1057-1062. https://doi.org/10.1016/j.cemconcomp.2011.07.010. 
+[24] Younsi A, Turcry P, Rozière E, Aït-Mokhtar A, Loukili A. Performance-based design and carbonation of concrete 
+with high fly ash content, Cement and Concrete Composites 2011; 33(10): 993-1000. https://doi.org/10. 1016/j. 
+    cemconcomp.2011.07.005. 
+[25] Anwar M, Miyagawa T, Gaweesh M. Using rice husk ash as a cement replacement material in concrete, in: 
+Woolley, GR, Goumans, JJJM, Wainwright, PJ (Eds.), Waste Management Series, Elsevier, Amsterdam, 2000; 
+671-684. 
+[26] Bui DD, Hu J, Stroeven P. Particle size effect on the strength of rice husk ash blended gap-graded Portland cement 
+concrete, Cement and Concrete Composites 2005; 27(3): 357-366. https://doi.org/10.1016/j.cemconcomp. 2004 
+.05.002. 
+[27] Ganesan K, Rajagopal K, Thangavel K. Rice husk ash blended cement: Assessment of optimal level of replace-
+ment for strength and permeability properties of concrete, Construction and Building Materials 2008; 22(8): 
+1675-1683. https://doi.org/10.1016/j.conbuildmat.2007.06.011. 
+[28] Pavía S, Walker R, Veale P, Wood A. Impact of the Properties and Reactivity of Rice Husk Ash on Lime Mortar 
+Properties, Journal of Materials in Civil Engineering 2014; 26(9): 04014066. https://doi.org/10.1061/(ASCE)MT. 
+1943-5533.0000967. 
+[29] Ferraro RM, Nanni A. Effect of off-white rice husk ash on strength, porosity, conductivity and corrosion resistance 
+of white concrete, Construction and Building Materials 2012; 31: 220-225. https://doi.org/10.1016/j.conbuildma 
+t.2011.12.010. 
+[30] Saraswathy V, Song HW. Corrosion performance of rice husk ash blended concrete, Construction and Building 
+Materials 2007; 21(8): 1779-1784. https://doi.org/10.1016/j.conbuildmat.2006.05.037. 
+[31] Silva FGD, Liborio JBL, Helene P. Improvement of physical and chemical properties of concrete with brazilian 
+silica rice husk (SRH), Revista ingeniería de construcción 2008; 23: 18-25. 
+[32] Chopperla ST, Yamuna V, Bahurudeen A, Santhanam M, Gopinath A. Durability of concrete with agro-waste: a 
+local approach to sustainability, Green Materials 2018; 7(2): 84-96. https://doi.org/10.1680/jgrma.18.00005. 
+[33] Feng Q, Yamamichi H, Shoya M, Sugita S. Study on the pozzolanic properties of rice husk ash by hydrochloric 
+acid pretreatment, Cement and Concrete Research 2004; 34(3): 521-526. https://doi.org/10.1016/j.cemcon-
+res.2003.09.005. 
+[34] Aoki Y, Sri Ravindrarajah R, Khabbaz H. Properties of pervious concrete containing fly ash, Road Materials and 
+Pavement Design 2012; 13(1): 1-11. https://doi.org/10.1080/14680629.2011.651834. 
+[35] Saboo N, Shivhare S, Kori KK, Chandrappa AK, Effect of fly ash and metakaolin on pervious concrete properties, 
+Construction and Building Materials 2019; 223: 322-328. https://doi.org/10.1016/j.conbuildmat.2019.06.185. 
+[36] Shafabakhsh G, Ahmadi S. Evaluation of coal waste ash and rice husk ash on properties of pervious concrete 
+pavement, International Journal of Engineering 2015; 29(2): 192-201. 
+[37] Adamu M, Olalekan SS, Aliyu MM. Optimizing the mechanical properties of pervious concrete containing cal-
+cium carbide and rice husk ash using response surface methodology, Journal of Soft Computing in Civil Engi-
+neering 2020; 4(3): 106-123. https://doi.org/10.22115/scce.2020.229019.1216. 
+[38] ASTM-C618, Standard specification for coal fly ash and raw or calcined natural pozzolan for use in concrete, 
+ASTM International, West Conshohocken, PA, 2012. 
+[39] BS-EN-1097, Tests for mechanical and physical properties of aggregates, British Standards Institution (BSI), 
+London, 2020. 
+[40] BS-EN-933, Tests for geometrical properties of aggregates British Standards Institution (BSI), London, 2017. 
+[41] Adresi M, Yamani A, Karimaei TM, Rooholamini H. A comprehensive review on pervious concrete, Construction 
+and Building Materials 2023; 407: 133308. https://doi.org/10.1016/j.conbuildmat.2023.133308. 
+[42] Pedram M, Madandoust R, Arabani M. Investigation of the physical and mechanical properties and durability of 
+pervious concrete: a review, Archives of Civil Engineering 2022; 68(2): 577-591. https://doi.org/10.24425/ ace. 
+2022.140660. 
+[43] Xie HZ, Li LG, Ng PL, Liu F. Effects of Solid Waste Reutilization on Performance of Pervious Concrete: A 
+
+
+----- TABLE p17#1 -----
+
+[21] Mardani-Aghabaglou A, Andiç-Çakir Ö, Ramyar K, Freeze–thaw resistance and transport properties of high- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | volume fly ash roller compacted concrete designed by maximum density method, Cement and Concrete Compo- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | sites 2013; 37: 259-266. https://doi.org/10.1016/j.cemconcomp.2013.01.009. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[22] Shaikh FUA, Supit SWM. Mechanical and durability properties of high volume fly ash (HVFA) concrete con- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | taining calcium carbonate (CaCO ) nanoparticles, Construction and Building Materials 2014; 70: 309-321.
+3 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | https://doi.org/10.1016/j.conbuildmat.2014.07.099. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[23] Yerramala A, Ganesh Babu K. Transport properties of high volume fly ash roller compacted concrete, Cement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | and Concrete Composites 2011; 33(10): 1057-1062. https://doi.org/10.1016/j.cemconcomp.2011.07.010. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[24] Younsi A, Turcry P, Rozière E, Aït-Mokhtar A, Loukili A. Performance-based design and carbonation of concrete |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | with high fly ash content, Cement and Concrete Composites 2011; 33(10): 993-1000. https://doi.org/10. 1016/j. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+cemconcomp.2011.07.005. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[25] Anwar M, Miyagawa T, Gaweesh M. Using rice husk ash as a cement replacement material in concrete, in: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Woolley, GR, Goumans, JJJM, Wainwright, PJ (Eds.), Waste Management Series, Elsevier, Amsterdam, 2000; |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 671-684. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[26] Bui DD, Hu J, Stroeven P. Particle size effect on the strength of rice husk ash blended gap-graded Portland cement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | concrete, Cement and Concrete Composites 2005; 27(3): 357-366. https://doi.org/10.1016/j.cemconcomp. 2004 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | .05.002. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[27] Ganesan K, Rajagopal K, Thangavel K. Rice husk ash blended cement: Assessment of optimal level of replace- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ment for strength and permeability properties of concrete, Construction and Building Materials 2008; 22(8): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1675-1683. https://doi.org/10.1016/j.conbuildmat.2007.06.011. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[28] Pavía S, Walker R, Veale P, Wood A. Impact of the Properties and Reactivity of Rice Husk Ash on Lime Mortar |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Properties, Journal of Materials in Civil Engineering 2014; 26(9): 04014066. https://doi.org/10.1061/(ASCE)MT. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1943-5533.0000967. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[29] Ferraro RM, Nanni A. Effect of off-white rice husk ash on strength, porosity, conductivity and corrosion resistance |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | of white concrete, Construction and Building Materials 2012; 31: 220-225. https://doi.org/10.1016/j.conbuildma |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | t.2011.12.010. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[30] Saraswathy V, Song HW. Corrosion performance of rice husk ash blended concrete, Construction and Building |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Materials 2007; 21(8): 1779-1784. https://doi.org/10.1016/j.conbuildmat.2006.05.037. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[31] Silva FGD, Liborio JBL, Helene P. Improvement of physical and chemical properties of concrete with brazilian |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | silica rice husk (SRH), Revista ingeniería de construcción 2008; 23: 18-25. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[32] Chopperla ST, Yamuna V, Bahurudeen A, Santhanam M, Gopinath A. Durability of concrete with agro-waste: a |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | local approach to sustainability, Green Materials 2018; 7(2): 84-96. https://doi.org/10.1680/jgrma.18.00005. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[33] Feng Q, Yamamichi H, Shoya M, Sugita S. Study on the pozzolanic properties of rice husk ash by hydrochloric |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | acid pretreatment, Cement and Concrete Research 2004; 34(3): 521-526. https://doi.org/10.1016/j.cemcon- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | res.2003.09.005. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[34] Aoki Y, Sri Ravindrarajah R, Khabbaz H. Properties of pervious concrete containing fly ash, Road Materials and |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Pavement Design 2012; 13(1): 1-11. https://doi.org/10.1080/14680629.2011.651834. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[35] Saboo N, Shivhare S, Kori KK, Chandrappa AK, Effect of fly ash and metakaolin on pervious concrete properties, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Construction and Building Materials 2019; 223: 322-328. https://doi.org/10.1016/j.conbuildmat.2019.06.185. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[36] Shafabakhsh G, Ahmadi S. Evaluation of coal waste ash and rice husk ash on properties of pervious concrete |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | pavement, International Journal of Engineering 2015; 29(2): 192-201. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[37] Adamu M, Olalekan SS, Aliyu MM. Optimizing the mechanical properties of pervious concrete containing cal- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | cium carbide and rice husk ash using response surface methodology, Journal of Soft Computing in Civil Engi- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | neering 2020; 4(3): 106-123. https://doi.org/10.22115/scce.2020.229019.1216. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[38] ASTM-C618, Standard specification for coal fly ash and raw or calcined natural pozzolan for use in concrete, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ASTM International, West Conshohocken, PA, 2012. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[39] BS-EN-1097, Tests for mechanical and physical properties of aggregates, British Standards Institution (BSI), |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | London, 2020 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[40] BS-EN-933, Tests for geometrical properties of aggregates British Standards Institution (BSI), London, 2017. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[41] Adresi M, Yamani A, Karimaei TM, Rooholamini H. A comprehensive review on pervious concrete, Construction |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | and Building Materials 2023; 407: 133308. https://doi.org/10.1016/j.conbuildmat.2023.133308. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[42] Pedram M, Madandoust R, Arabani M. Investigation of the physical and mechanical properties and durability of |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | pervious concrete: a review, Archives of Civil Engineering 2022; 68(2): 577-591. https://doi.org/10.24425/ ace. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2022.140660. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[43] Xie HZ, Li LG, Ng PL, Liu F. Effects of Solid Waste Reutilization on Performance of Pervious Concrete: A |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 18 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-18 
+ 
+Review, Sustainability, 2023; 15(7): 6105; https://doi.org/10.3390/su15076105. 
+[44] Khankhaje E, Kim T, Jang H, Kim CS, Kim J, Rafieizonooz M. A review of utilization of industrial waste mate-
+rials as cement replacement in pervious concrete: An alternative approach to sustainable pervious concrete pro-
+duction, Heliyon 2024; 10(4): e26188. https://doi.org/10.1016/j.heliyon.2024.e26188. 
+[45] Sathiparan N, Dassanayake DHHP, Subramaniam DN. Utilization of supplementary cementitious materials in 
+pervious concrete: a review, International Journal of Environmental Science and Technology 2024; 21(6): 5883-
+5918. https://doi.org/10.1007/s13762-023-05440-4. 
+[46] BS 1881-102, Testing Concrete - Part 102: Method for Determination of Slump, British Standards Institution, 
+United Kingdom, 1983. 
+[47] BS-1377, Methods of test for soils for civil engineering purposes, British Standards Institution (BSI), London, 
+1990. 
+[48] ASTM-C143/C143M, Standard test method for slump of hydraulic-cement concrete, ASTM International, West 
+Conshohocken, PA, 2020. 
+[49] ASTM-C1688/C1688M, Standard test method for density and void content of freshly mixed pervious concrete, 
+ASTM International, West Conshohocken, PA, 2014. 
+[50] ASTM-C109, Standard test method for compressive strength of hydraulic cement mortars (using 2-in. or [50-mm] 
+cube specimens), ASTM International, West Conshohocken, PA, 2020. 
+[51] ASTM-D5084, Standard Test Methods for Measurement of Hydraulic Conductivity of Saturated Porous Materials 
+Using a Flexible Wall Permeameter, ASTM International, West Conshohocken, PA, 2016. 
+[52] Song H, Yao J, Xiang J. The role of aggregate and cement paste in the deterioration of the transitional interface 
+zone of pervious concrete during freeze-thaw cycles, Case Studies in Construction Materials 2022; 16: e01086. 
+https://doi.org/10.1016/j.cscm.2022.e01086. 
+[53] Akkaya A, Çağatay İH. Investigation of the density, porosity, and permeability properties of pervious concrete 
+with different methods, Construction and Building Materials 2021; 294: 123539. https://doi.org/10.1016/j.conbu 
+ildmat.2021.123539. 
+[54] Gauffinet-Garrault S. The rheology of cement during setting, in: Roussel, N (Ed.), Understanding the Rheology 
+of Concrete, Woodhead Publishing, Sawston, 2012; 96-113. 
+[55] Fink J. Cement additives, in: Fink, J (Ed.), Petroleum Engineer's Guide to Oil Field Chemicals and Fluids (Second 
+Edition), Gulf Professional Publishing, Boston, 2015; 317-367. 
+[56] Boateng AA, Skeete DA. Incineration of rice hull for use as a cementitious material: the guyana experience, 
+Cement and Concrete Research 1990; 20(5): 795-802. https://doi.org/10.1016/0008-8846(90)90013-N. 
+[57] Thiedeitz M, Schmidt W, Härder M, Kränkel T. Performance of rice husk ash as supplementary cementitious 
+material after production in the field and in the lab, Materials 2020; 13(19): 4319. https://doi.org/10.3390/ma13 
+194319. 
+[58] Wang H, Li H, Liang X, Zhou H, Xie N, Dai Z. Investigation on the mechanical properties and environmental 
+impacts of pervious concrete containing fly ash based on the cement-aggregate ratio, Construction and Building 
+Materials 2019; 202: 387-395. https://doi.org/10.1016/j.conbuildmat.2019.01.044. 
+[59] Muthaiyan UM, Thirumalai S. Studies on the properties of pervious fly ash–cement concrete as a pavement 
+material, Cogent Engineering 2017; 4(1): 1318802. https://doi.org/10.1080/23311916.2017.1318802. 
+[60] Al-sallami ZHA, Marshdi QSR, Mukheef RAAH. Effect of cement replacement by fly ash and epoxy on the 
+properties of pervious concrete, Asian Journal of Civil Engineering 2020; 21(1): 49-58. https://doi.org/10. 1007 
+/s42107-019-00183-5. 
+[61] Hesami S, Ahmadi S, Nematzadeh M. Effects of rice husk ash and fiber on mechanical properties of pervious 
+concrete pavement, Construction and Building Materials 2014; 53: 680-691. https://doi.org/10.1016/j.conbuildm 
+at.2013.11.070. 
+[62] Ramadhansyah P, Masri K, Mangi S, Mohd Yusak M, Mashros N, Mohd Warid M, Satar M, Haziman W. Strength 
+and porosity of porous concrete pavement containing nano black rice husk ash, IOP Conf. Series: Materials 
+Science and Engineering 2015; 712: 012037. 
+[63] Sathiparan N, Jeyananthan P, Subramaniam DN. Prediction of compressive strength of fly ash blended pervious 
+concrete: A machine learning approach, International Journal of Pavement Engineering, 2023; 24(2): 2287146. 
+https://doi.org/10.1080/10298436.2023.2287146. 
+[64] Talsania S, Pitroda J, Vyas C. Effect of rice husk ash on properties of pervious concrete, International Journal of 
+Advanced Engineering Research and Studies 2015; 4(2): 296-299. 
+[65] Haji A, Parikh K, Shaikh M, Jamnu M. Experimental investigation of pervious concrete with use of fly ash and 
+silica fume as admixture, International Journal of Innovative Research in Science and Engineering 2016; 2(10): 
+
+
+----- TABLE p18#1 -----
+
+ | Review, Sustainability, 2023; 15(7): 6105; https://doi.org/10.3390/su15076105. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[44] Khankhaje E, Kim T, Jang H, Kim CS, Kim J, Rafieizonooz M. A review of utilization of industrial waste mate- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | rials as cement replacement in pervious concrete: An alternative approach to sustainable pervious concrete pro- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | duction, Heliyon 2024; 10(4): e26188. https://doi.org/10.1016/j.heliyon.2024.e26188. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[45] Sathiparan N, Dassanayake DHHP, Subramaniam DN. Utilization of supplementary cementitious materials in |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | pervious concrete: a review, International Journal of Environmental Science and Technology 2024; 21(6): 5883- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 5918. https://doi.org/10.1007/s13762-023-05440-4. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[46] BS 1881-102, Testing Concrete - Part 102: Method for Determination of Slump, British Standards Institution, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | United Kingdom, 1983. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[47] BS-1377, Methods of test for soils for civil engineering purposes, British Standards Institution (BSI), London, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 1990. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[48] ASTM-C143/C143M, Standard test method for slump of hydraulic-cement concrete, ASTM International, West |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Conshohocken, PA, 2020. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[49] ASTM-C1688/C1688M, Standard test method for density and void content of freshly mixed pervious concrete, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ASTM International, West Conshohocken, PA, 2014. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[50] ASTM-C109, Standard test method for compressive strength of hydraulic cement mortars (using 2-in. or [50-mm] |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | cube specimens), ASTM International, West Conshohocken, PA, 2020. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[51] ASTM-D5084, Standard Test Methods for Measurement of Hydraulic Conductivity of Saturated Porous Materials |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Using a Flexible Wall Permeameter, ASTM International, West Conshohocken, PA, 2016. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[52] Song H, Yao J, Xiang J. The role of aggregate and cement paste in the deterioration of the transitional interface |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | zone of pervious concrete during freeze-thaw cycles, Case Studies in Construction Materials 2022; 16: e01086. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | https://doi.org/10.1016/j.cscm.2022.e01086. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[53] Akkaya A, Çağatay İH. Investigation of the density, porosity, and permeability properties of pervious concrete |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | with different methods, Construction and Building Materials 2021; 294: 123539. https://doi.org/10.1016/j.conbu |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ildmat.2021.123539. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[54] Gauffinet-Garrault S. The rheology of cement during setting, in: Roussel, N (Ed.), Understanding the Rheology |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | of Concrete, Woodhead Publishing, Sawston, 2012; 96-113. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[55] Fink J. Cement additives, in: Fink, J (Ed.), Petroleum Engineer's Guide to Oil Field Chemicals and Fluids (Second |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Edition), Gulf Professional Publishing, Boston, 2015; 317-367. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[56] Boateng AA, Skeete DA. Incineration of rice hull for use as a cementitious material: the guyana experience, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Cement and Concrete Research 1990; 20(5): 795-802. https://doi.org/10.1016/0008-8846(90)90013-N. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[57] Thiedeitz M, Schmidt W, Härder M, Kränkel T. Performance of rice husk ash as supplementary cementitious |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | material after production in the field and in the lab, Materials 2020; 13(19): 4319. https://doi.org/10.3390/ma13 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 194319. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[58] Wang H, Li H, Liang X, Zhou H, Xie N, Dai Z. Investigation on the mechanical properties and environmental |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | impacts of pervious concrete containing fly ash based on the cement-aggregate ratio, Construction and Building |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Materials 2019; 202: 387-395. https://doi.org/10.1016/j.conbuildmat.2019.01.044. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[59] Muthaiyan UM, Thirumalai S. Studies on the properties of pervious fly ash–cement concrete as a pavement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | material, Cogent Engineering 2017; 4(1): 1318802. https://doi.org/10.1080/23311916.2017.1318802. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[60] Al-sallami ZHA, Marshdi QSR, Mukheef RAAH. Effect of cement replacement by fly ash and epoxy on the |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | properties of pervious concrete, Asian Journal of Civil Engineering 2020; 21(1): 49-58. https://doi.org/10. 1007 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | /s42107-019-00183-5. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[61] Hesami S, Ahmadi S, Nematzadeh M. Effects of rice husk ash and fiber on mechanical properties of pervious |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | concrete pavement, Construction and Building Materials 2014; 53: 680-691. https://doi.org/10.1016/j.conbuildm |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | at.2013.11.070. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[62] Ramadhansyah P, Masri K, Mangi S, Mohd Yusak M, Mashros N, Mohd Warid M, Satar M, Haziman W. Strength |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | and porosity of porous concrete pavement containing nano black rice husk ash, IOP Conf. Series: Materials |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Science and Engineering 2015; 712: 012037 |  |  |  |  |  |  |  | . |  |  |  |  |  |  |  |  |  |  |  |  | 
+[63] Sathiparan N, Jeyananthan P, Subramaniam DN. Prediction of compressive strength of fly ash blended pervious |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | concrete: A machine learning approach, International Journal of Pavement Engineering, 2023; 24(2): 2287146. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | https://doi.org/10.1080/10298436.2023.2287146. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[64] Talsania S, Pitroda J, Vyas C. Effect of rice husk ash on properties of pervious concrete, International Journal of |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Advanced Engineering Research and Studies 2015; 4(2): 296-299. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[65] Haji A, Parikh K, Shaikh M, Jamnu M. Experimental investigation of pervious concrete with use of fly ash and |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | silica fume as admixture, International Journal of Innovative Research in Science and Engineering 2016; 2(10): |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 19 =====
+
+Sathiparan et al., SUST, 2025, 5(1): 000065 
+000065-19 
+ 
+154-161. 
+[66] Montes F, Valavala S, Haselbach LM. A New test method for porosity measurements of portland cement pervious 
+concrete, Journal of ASTM International 2005; 2(1): 1-13. https://doi.org/10.1520/JAI12931. 
+[67] Cui X, Zhang J, Huang D, Liu Z, Hou F, Cui S, Zhang L, Wang Z. Experimental study on the relationship between 
+permeability and strength of pervious concrete, Journal of Materials in Civil Engineering 2017; 29(11): 04017217. 
+10.1061/(ASCE)MT.1943-5533.0002058. 
+[68] Karthik HO. Pervious concrete – An overview, The Indian Concrete Journal 2010; 84(8): 9-18. 
+[69] BSR, Building schedule of rates Engineering organization western province-provincial council, Sri Lanka, 2019. 
+[70] He Z, Zhu X, Wang J, Mu M, Wang Y. Comparison of CO2 emissions from OPC and recycled cement production, 
+Construction and Building Materials 2019; 211: 965-973. https://doi.org/10.1016/j.conbuildmat.2019.03.289. 
+[71] Jiménez LF, Domínguez JA, Vega-Azamar RE. Carbon footprint of recycled aggregate concrete, Advances in 
+Civil Engineering 2018; 1: 7949741. https://doi.org/10.1155/2018/7949741. 
+[72] Lee JW, Jang YI, Park WS, Yun HD, Kim SW. The effect of fly ash and recycled aggregate on the strength and 
+carbon emission impact of FRCCs, International Journal of Concrete Structures and Materials 2020; 14(1): 17. 
+https://doi.org/10.1186/s40069-020-0392-6. 
+[73] Sathiparan N, Jaasim JHM, Banujan B. Sustainable production of cement masonry blocks with the combined use 
+of fly ash and quarry waste, Materialia 2022; 26: 101621. https://doi.org/10.1016/j.mtla.2022.101621. 
+[74] Sathiparan N. Performance of sustainable cement mortar containing different types of masonry construction and 
+demolition wastes, Clean Technologies and Environmental Policy 2023; 26: 1861-1881. https://doi.org/10.1007 
+/s10098-023-02681-2. 
+[75] Mellado A, Catalán C, Bouzón N, Borrachero MV, Monzó JM, Payá J. Carbon footprint of geopolymeric mortar: 
+study of the contribution of the alkaline activating solution and assessment of an alternative route, RSC Advances 
+2014; 4(45): 23846-23852. https://doi.org/10.1039/C4RA03375B. 
+[76] ICE, Embodied carbon: The inventory of carbon and energy (ICE), Sustainable Energy Research Team, Univer-
+sity of Bath, Bath, United Kingdom, 2011. 
+[77] El-Hassan H, Kianmehr P. Sustainability assessment and physical characterization of pervious concrete pavement 
+made with GGBS, MATEC Web Conf. 2017; 120. 
+[78] Kuruscu A, Girgin Z, Efficiency of structural materials in sustainable design, Journal of Civil Engineering and 
+Architecture 2014; 8(10): 1260-1265. 
+[79] Meddah MS, Ismail MA, El-Gamal S, Fitriani H. Performances evaluation of binary concrete designed with silica 
+fume and metakaolin, Construction and Building Materials 2018; 166: 400-412. https://doi.org/10.1016/j.conbu 
+ildmat.2018.01.138. 
+[80] Park KB, Lin RS, Han Y, Wang XY. Model-based methods to produce greener metakaolin composite concrete, 
+Applied Sciences 2021; 11(22): 10704. https://doi.org/10.3390/app112210704. 
+[81] Alnahhal MF, Alengaram UJ, Jumaat MZ, Abutaha F, Alqedra MA, Nayaka RR. Assessment on engineering 
+properties and CO2 emissions of recycled aggregate concrete incorporating waste products as supplements to 
+Portland cement, Journal of Cleaner Production 2018; 203: 822-835. https://doi.org/10.1016/j.jcle-
+pro.2018.08.292. 
+[82] Pode R. Potential applications of rice husk ash waste from rice husk biomass power plant, Renewable and Sus-
+tainable Energy Reviews 2016; 53: 1468-1485. https://doi.org/10.1016/j.rser.2015.09.051. 
+[83] Letelier V, Henríquez-Jara BI, Manosalva M, Parodi C, Ortega JM. Use of waste glass as a replacement for raw 
+materials in mortars with a lower environmental impact, Energies 2019; 12(10): 1974. https://doi.org/10.3390/e 
+n12101974. 
+ 
+Publisher’s Note: Sustainable Development Press Limited (SDPL) remains neutral with regard to jurisdic-
+tional claims in published maps and institutional affiliations. 
+ 
+
+
+----- TABLE p19#1 -----
+
+ | 154-161. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[66] Montes F, Valavala S, Haselbach LM. A New test method for porosity measurements of portland cement pervious |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | concrete, Journal of ASTM International 2005; 2(1): 1-13. https://doi.org/10.1520/JAI12931. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[67] Cui X, Zhang J, Huang D, Liu Z, Hou F, Cui S, Zhang L, Wang Z. Experimental study on the relationship between |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | permeability and strength of pervious concrete, Journal of Materials in Civil Engineering 2017; 29(11): 04017217 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 10.1061/(ASCE)MT.1943-5533.0002058. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[68] Karthik HO. Pervious concrete – An overview, The Indian Concrete Journal 2010; 84(8): 9-18. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[69] BSR, Building schedule of rates Engineering organization western province-provincial council, Sri Lanka, 2019. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[70] He Z, Zhu X, Wang J, Mu M, Wang Y. Comparison of CO emissions from OPC and recycled cement production,
+2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Construction and Building Materials 2019; 211: 965-973. https://doi.org/10.1016/j.conbuildmat.2019.03.289. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[71] Jiménez LF, Domínguez JA, Vega-Azamar RE. Carbon footprint of recycled aggregate concrete, Advances in |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Civil Engineering 2018; 1: 7949741. https://doi.org/10.1155/2018/7949741. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[72] Lee JW, Jang YI, Park WS, Yun HD, Kim SW. The effect of fly ash and recycled aggregate on the strength and |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | carbon emission impact of FRCCs, International Journal of Concrete Structures and Materials 2020; 14(1): 17. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | https://doi.org/10.1186/s40069-020-0392-6. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[73] Sathiparan N, Jaasim JHM, Banujan B. Sustainable production of cement masonry blocks with the combined use |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | of fly ash and quarry waste, Materialia 2022; 26: 101621. https://doi.org/10.1016/j.mtla.2022.101621. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[74] Sathiparan N. Performance of sustainable cement mortar containing different types of masonry construction and |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | demolition wastes, Clean Technologies and Environmental Policy 2023; 26: 1861-1881. https://doi.org/10.1007 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | /s10098-023-02681-2. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[75] Mellado A, Catalán C, Bouzón N, Borrachero MV, Monzó JM, Payá J. Carbon footprint of geopolymeric mortar: |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | study of the contribution of the alkaline activating solution and assessment of an alternative route, RSC Advances |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2014; 4(45): 23846-23852. https://doi.org/10.1039/C4RA03375B. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[76] ICE, Embodied carbon: The inventory of carbon and energy (ICE), Sustainable Energy Research Team, Univer- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | sity of Bath, Bath, United Kingdom, 2011. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[77] El-Hassan H, Kianmehr P. Sustainability assessment and physical characterization of pervious concrete pavement |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | made with GGBS, MATEC Web Conf. 2017; 120. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[78] Kuruscu A, Girgin Z, Efficiency of structural materials in sustainable design, Journal of Civil Engineering and |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Architecture 2014; 8(10): 1260-1265. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[79] Meddah MS, Ismail MA, El-Gamal S, Fitriani H. Performances evaluation of binary concrete designed with silica |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | fume and metakaolin, Construction and Building Materials 2018; 166: 400-412. https://doi.org/10.1016/j.conbu |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | ildmat.2018.01.138. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[80] Park KB, Lin RS, Han Y, Wang XY. Model-based methods to produce greener metakaolin composite concrete, |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Applied Sciences 2021; 11(22): 10704. https://doi.org/10.3390/app112210704. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[81] Alnahhal MF, Alengaram UJ, Jumaat MZ, Abutaha F, Alqedra MA, Nayaka RR. Assessment on engineering |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | properties and CO emissions of recycled aggregate concrete incorporating waste products as supplements to
+2 |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Portland cement, Journal of Cleaner Production 2018; 203: 822-835. https://doi.org/10.1016/j.jcle- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | pro.2018.08.292. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[82] Pode R. Potential applications of rice husk ash waste from rice husk biomass power plant, Renewable and Sus- |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | tainable Energy Reviews 2016; 53: 1468-1485. https://doi.org/10.1016/j.rser.2015.09.051. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+[83] Letelier V, Henríquez-Jara BI, Manosalva M, Parodi C, Ortega JM. Use of waste glass as a replacement for raw |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | materials in mortars with a lower environmental impact, Energies 2019; 12(10): 1974. https://doi.org/10.3390/e |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | n12101974. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 

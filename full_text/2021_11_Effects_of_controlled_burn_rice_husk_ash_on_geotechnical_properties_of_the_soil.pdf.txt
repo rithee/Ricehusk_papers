@@ -1,0 +1,508 @@
+
+===== PAGE 1 =====
+
+Abstract
+Pozzolanic reactions of rice husk ash (RHA) entirely depend
+on controlled burning condition. The current study illustrates the
+effects of controlled burn RHA on the geotechnical properties of
+A-2-4 soil as per the American Association of State Highway and
+Transportations Officials (AASHTO) classification. The com-
+pactibility, bearing capacity, compressive strength, shear strength,
+and scanning electron micrographs were investigated as the
+important geotechnical properties of soil with 0%, 5%, 10%, and
+15% of RHA admixtures considering the 7-day moist curing. The
+test results showed that the optimum moisture content increased,
+but maximum dry density reduced with the increment of RHA
+content. Soil with 5% RHA showed the increased percentage of
+California bearing ratio (39.5%), unconfined compressive strength
+(6.0%), modulus of deformation (56.3%), cohesion (11.8%), and
+angle of internal friction (6.3%) compared to untreated soil speci-
+men which indicated that the application of burnt RHA at a con-
+trolled temperature enhanced the geotechnical properties of soil.
+Scanning electron microscopy image on soil with 5% RHA also
+observed the best microstructural development, which recom-
+mends that soil with 5% RHA can be used as a construction mate-
+rial for rural roads and pedestrian roads. 
+Introduction
+Rice husk ash (RHA), a natural carbon-based agricultural by-
+product, contains the highest amorphous silica among all agricul-
+tural wastes (Thomas, 2018). It has pozzolanic properties with a
+large specific surface, reacting with soil as secondary cementitious
+materials in the soil stabilization process (Sarkar et al., 2012). It is
+produced from paddy rice by milling process as rice husk and then
+formed as ash by burning process (Pode, 2016). The paddy rice
+production was 782 million tons worldwide in 2018 (FAOSTAT,
+2020), and about 172 million tons of rice husk and 34 million tons
+of RHA were produced from the paddy rice in that year (Nahar et
+al., 2021). The chemical composition, particle size, pozzolanic
+reactivity, and silica state in RHA entirely rely on the burning con-
+ditions, temperature, and duration (Hwang and Chandra, 1996;
+Singh, 2018). Silica content in RHA shows the amorphous and
+crystalline state with different properties (Della, 2002).
+Crystalline silica is produced by uncontrolled burning or open
+burning of rice husk at a temperature above 800°C, which are low
+reactive or non-reactive silica minerals (Singh, 2018). On the
+other hand, amorphous silica is the best for pozzolanic reaction,
+formed by the controlled temperature at 600°C-700°C (Hwang
+and Chandra, 1996). The amorphous silica of well-burnt RHA in
+single-phase displayed a halo pattern with a peak at around 
+2θ = 22° by the X-ray diffraction (XRD) test (Chandrasekhar et
+al., 2003; Al-Hasnawi and Al-Hydary, 2019; Nahar et al., 2021). 
+RHA waste creates environmental and health problems
+because of its disposal difficulties and absence of utilization
+(Pode, 2016). Concurrently, suitable construction sites are defi-
+cient due to rapid urbanization and industrialization, demanding
+feasible ground improvement techniques for untreated soil
+(Murthy et al., 2002). The strength and durability of engineering
+structures are affected by the geotechnical properties of soil (Roy
+and Bhalla, 2017). The usage of various chemical additives is one
+of the effective methods for improving the geotechnical properties
+of soil (Adhikary and Jana, 2016). Many researchers have discov-
+ered that adequately utilizing locally obtainable RHA as a poz-
+zolanic material in ground improvement can decrease environ-
+mental degradation and construction price and increase soil
+strength properties (Alhassan, 2008; Jain et al., 2020). Several
+studies have been conducted on soil with only RHA in ground
+improvement. Among these investigations, only Sarkar et al.
+(2012) and Ayininuola and Olaosebikan (2013) used the controlled
+burn and as-obtained RHA for soil stabilization. However,
+Rahman et al. (2014) and Rathan et al. (2016) took the uncon-
+trolled burn and natural RHA; Alhassan (2008), Okafor and
+Okonkwo (2009), and Adhikary and Jana (2016) utilized the
+Correspondence: Najmun Nahar, Department of Environmental Science
+and Technology, Graduate School of Bioresources, Mie University, Tsu,
+Japan. E-mail: najmun_nahar33@yahoo.com
+Key words: Rice husk ash; compactability; unconfined compressive
+strength; bearing capacity; shear strength; scanning electron micro-
+graph.
+Acknowledgements: the authors would like to acknowledge the
+Ministry of Education, Culture, Sports, Science and Technology, Japan,
+provided by the MEXT scholarship in Mie University for the research. 
+Contributions: NN, methodology, data curation and original draft writ-
+ing; AOW, manuscript review, and editing; SKK, data curation; ZH,
+supervisor of the Ph.D. student, funding acquisition, and research coor-
+dination.
+Received for publication: 13 June 2021.
+Accepted for publication: 15 September 2021.
+©Copyright: the Author(s), 2021
+Licensee PAGEPress, Italy
+Journal of Agricultural Engineering 2021; LII:1216
+doi:10.4081/jae.2021.1216
+This article is distributed under the terms of the Creative Commons
+Attribution Noncommercial License (by-nc 4.0) which permits any non-
+commercial use, distribution, and reproduction in any medium, provid-
+ed the original author(s) and source are credited.
+Effects of controlled burn rice husk ash on the geotechnical properties of soil
+Najmun Nahar,1,2 Alex Otieno Owino,1 Sayful Kabir Khan,1,3 Zakaria Hossain,1 Noma Tamaki4
+1Department of Environmental Science and Technology, Graduate School of Bioresources, Mie University, Tsu, Japan;
+2Department of Geography and Environment, Faculty of Life and Earth Science, Jagannath University, Dhaka,
+Bangladesh; 3Ministry of Food, Dhaka, Bangladesh; 4Make Integrated Technology Company, Osaka, Japan
+[page 20]                                              [Journal of Agricultural Engineering 2021; LII:1216]                                  
+                 Journal of Agricultural Engineering 2021; volume LII:1216
+Non-commercial use only
+
+
+===== PAGE 2 =====
+
+uncontrolled burn, ground, and sieved (by No. 200) RHA, but Jain
+et al. (2020) used the pulverized and sieved RHA by No. 4 sieve
+for soil improvement. Grinding is essential for open burnt RHA to
+attain the fineness and large specific surface area of RHA that can
+provide the best pozzolanic reactions, but it needs extra time and
+costs. The cost of producing RHA at a controlled temperature is
+cheap since computers can manage the temperature and burning
+speed, reducing labor costs and efforts (MIT, 2018). There is little
+research investigating the performance of a single RHA as a soil
+additive, where RHA was produced at controlled temperature and
+used as a secondary cementitious material with its natural form.
+The key objective of the present study is to examine the influ-
+ence of controlled burn and as-obtained RHA on the geotechnical
+properties of A-2-4 type soil. The present investigation is essential
+to inspire the application of an enormous quantity of RHA as a
+cement substitute for constructing the different civil infrastruc-
+tures, particularly in rice-producing countries. A series of laborato-
+ry tests were performed, including standard Proctor compaction
+tests, California bearing ratio (CBR) tests, unconfined compressive
+strength (UCS) tests, consolidated-drained (CD) triaxial compres-
+sion tests, and scanning electron microscopy (SEM) test on soil
+addition with 0%, 5%, 10%, and 15% of RHA considering 7 days
+of moist curing. The effects of various percentages of controlled
+burn RHA on compactability, bearing capacity, unconfined com-
+pressive strength, shear strength, and microstructure of soil are
+illustrated with discussions.
+Materials and methods
+This investigation used SM or A-2-4 type soil and as-obtained
+controlled burn RHA for specimen preparation. The soil sample
+was collected from Handa Area, Tsu City, Mie prefecture in Japan,
+and readymade RHA was collected from the Make Integrated
+Technology (M.I.T.) company, Osaka, Japan. The major properties
+of soil and RHA are shown in Table 1. The particle size distribution
+curve of soil and RHA samples is available in other studies (Nahar
+et al., 2021). According to the United States Department of
+Agriculture (USDA) classification system of soil particle size, the
+soil sample comprises approximately 29% coarse sand (0.50-1.00
+mm), 36% medium sand (0.25-0.50 mm), 19% fine sand (0.10-
+0.25 mm), 4% very fine sand (0.05-0.10), 9% silt (0.002-0.05 mm)
+and 3% clay (<0.002 mm). Texturally, the soil is silty sand. The
+plasticity index (PI=7.8%) indicates the less cohesiveness of soil
+hence low swell and low expansive potential. The rice husk ash
+production process was operated in a factory building of M.I.T.
+Company using an industrial machine device. Only methanol solid
+fuel was used to ignite the rice husk, then it incinerated by itself. A
+computer controlled the incineration. About 150 kg (15-20%) of
+RHA was produced from 800-1000 kg rice husk. The RHA sample
+contains 1% coarse (0.50-1.00 mm), 13% medium (0.25-0.50
+mm), 63% fine (0.10-0.25 mm), and 6% very fine particles. 
+All current research experiments were performed at the
+Experimental Station on Engineering Materials, Faculty of
+Bioresources, Mie University, Japan. A series of standard Proctor
+compaction tests, CBR test, unconfined compression strength
+tests, CD triaxial compression tests were conducted according to
+Japanese Industrial Standards (JIS) and Japanese Geotechnical
+Society (JGS) (Table 2). SEM tests were also performed for the
+microstructural change detection of the specimens. 
+The combinations of soil and RHA were prepared by taking the
+mixing percentage of soil with 0% (control), 5%, 10%, and 15% of
+RHA content. Three similar specimens for each mix type were pre-
+pared and tested for performing a CBR test, UCS test, and triaxial
+compression test. Soil and the required amount of RHA were man-
+ually mixed thoroughly in a big bowl with plastic gloves, and then
+water was mixed gradually into the dry admixtures. Lower than
+2% from the measured optimum moisture content (OMC) from the
+compaction tests was added as the required water content of the
+soil-RHA combinations. All prepared CBR (unsoaked condition),
+UCS, and triaxial and SEM test specimens were moist cured for 7
+days. Each testing procedure is described below.
+Standard proctor compaction test method
+The Standard Proctor compaction test was performed for mea-
+suring the OMC and maximum dry density (MDD) of control and
+soil-RHA combinations. The specimens of soil-RHA admixtures
+were compressed manually in a 10 cm diameter cylindrical and
+1000 cm3 volume compaction mold with a collar and a base. The
+admixtures were compacted into three layers, giving 25 blows per
+layer using a 2.5 kg rammer through a falling height of 30 cm.
+Approximately 551.8 KJ/m3 was applied as compaction energy for
+each specimen. 
+California bearing ratio test method 
+The soil-RHA mix types were compacted in a CBR mold with
+a bottom plate, spacer disc, and mold extension. The diameter and
+height of the CBR mold were 15 cm and 17.5 cm, respectively. The
+admixtures were tamped into three layers with 67 blows per layer
+using an automated rammer with a mass of 4.5 kg, a diameter of
+5.0 cm, and a falling height of 45.0 cm. 
+                          [Journal of Agricultural Engineering 2021; LII:1216]                                            [page 21]
+                             
+Article
+Table 1. Properties of soil and rice husk ash used in the study.
+Particles       Parameters                                              Values
+Soil particle      Optimum water content (Wopt.)                           17.50%
+                            Maximum dry density (γdry max)                        1.696 g/cm3
+                            Specific gravity (ρs)                                             2.7 g/cm3
+                            Sand (75 μm - 2 mm)                                                88%
+                            Silt (5-75 μm)                                                             9%
+                            Clay <5 μm                                                                  3%
+                            Uniformity coefficient, Cu                                         9.84
+                            Curvature coefficient, Cc                                          1.02
+                            Liquid limit, LL                                                          37.5%
+                            Plastic limit, PL                                                          29.7%
+                            Plasticity index, PI                                                      7.8%
+                            USCS classification                                                     SM
+                            AASHTO classification                                          A-2-4 (0)
+RHA particle     Burning temperature                                         650°C-700°C
+                            Burning duration                                                    27 hours 
+                            Average particle size                                       0.001 to 0.3 mm
+                            Specific gravity                                                      2.12 g/cm3
+                            Silica (SiO2)                                                              91.10%
+                            Carbon dioxide (CO2)                                              4.35%
+                            Potassium oxide (K2O)                                           2.40%
+                            Calcium oxide (CaO)                                               0.57%
+                            Alumina (Al2O3)                                                         0.03%
+                            Others                                                                         1.55%
+USCS, Unified Soil Classification System; AASHTO, American Association of State Highway and
+Transportations Officials. 
+Table 2. Conducted laboratory tests with followed standards.
+Name of the experiment                                 Standard followed
+Test method for soil compaction using a rammer             JIS A 1210:2010
+Test methods for the California bearing ratio                    JIS A 1211:2010
+of soils in the laboratory                                                                        
+Method for unconfined compression test of soils            JIS A 1216:2010
+Triaxial compression test of soil                                        JGS 0520-0524:2010
+Non-commercial use only
+
+
+===== PAGE 3 =====
+
+The CBR values were calculated for the penetration depth of
+2.5 mm using Eq. (1). 
+(1)
+Unconfined compressive strength test method
+The UCS specimens of soil-RHA combinations were com-
+pressed in the mold with a diameter of 5.0 cm and a height of 12.5
+cm. Each specimen was compacted into three layers, and each
+layer was tamped by 20 blows using a 4.9 cm diameter rammer,
+which had a mass of 1.0 kg with a falling height of 30 cm. The
+stress-strain relationship, UCS values, and elasticity of the speci-
+mens were determined from the stress-strain curve, where the
+strain was plotted on the X-axis and stress on the Y-axis. In the
+stress-strain curve, the peak value from stress (σ) is the UCS (qu).
+The deformation modulus (E50) of the specimens were measured
+by eliminating the initial and final non-linearities of the stress-
+strain curve, and it was calculated from the following equation: 
+(2)
+where E50 is the modulus of deformation in MPa, ε50 is the com-
+pressive strain, and qu is the maximum value from stress in kPa.
+Triaxial test method
+The triaxial test specimens were prepared using the same mold
+and techniques of UCS specimen preparation. The three confining
+pressures (50 kPa, 100 kPa, 150 kPa) were applied in this experi-
+ment. The cohesion (c) and angle of internal friction (φ) of triaxial
+test results were calculated using graphical and mathematical
+methods. The Mohr-Coulomb failure criterion was followed as a
+graphical technique, where specimens fail due to a critical combi-
+nation of normal stress and shear stress. The equation for the fail-
+ure envelope line is as follows:
+τf = c+σf tan φ                                                                          (3)
+where, τf is the shear stress of the failure plane and, σf is normal
+stress on the failure plane. The following equation was also used to
+calculate the cohesion (c) and angle of internal friction (φ):
+σa = σr tan2 (45+φ/2)+2c tan (45+ φ/2)                                 (4)
+where σa is the major, and σr the minor effective principal stress.
+Scanning electron microscopy test method
+The SEM images of soil-RHA combinations in magnification
+1000 times were selected to understand the microstructural
+changes of particles in the specimens. The SEM test samples were
+collected from triaxial test specimens in this investigation.
+Results and discussion
+Compaction characteristics
+The OMC and MDD of soil with 0%, 5%, 10%, and 15% RHA
+combinations were measured from the compaction curves in
+Figure 1A. The variations of OMC and MDD of soil-RHA admix-
+tures showed that the OMC increased, while MDD decreased with
+the increment of RHA in the soil mix (Figure 1B). The OMC of the
+untreated soil was 17.5%, and with the increase of RHA content,
+the OMC of the treated soil with 5%, 10%, and 15% RHA was
+20.0%, 24.0%, and 28.2%, respectively. This happened due to the
+absorption of a massive amount of water by the surplus fine parti-
+cles of microporous RHA in the soil-RHA mixtures (Singh, 2018).
+The MDD of the control specimen was 1.696 g/cm3, and with the
+addition of RHA, the decreasing percentage of MDD for 5% RHA
+(1.545 g/cm3), 10% RHA (1.436 g/cm3), and 15% RHA (1.334
+g/cm3) was 8.9%, 15.3%, and 21.3% correspondingly. The declin-
+ing tendency of MDD may be clarified by the difference of specific
+gravity between soil (2.70 g/cm3) and RHA 2.12 g/cm3). The RHA
+particles act as a filler in soil pore spaces due to their lower specific
+gravity compared to soil (Alhassan, 2008). 
+California bearing ratio test results
+The load-penetration curves of soil with 0%, 5%, 10%, and
+15% RHA combinations are shown in Figure 2A. The calculated
+                 Article
+Figure 1. (A) Compaction curves, zero air void (ZAV); and (B) variation of optimum moisture content (OMC) and maximum dry den-
+sity (MDD) of soil with 0%, 5%, 10%, 15% rice husk ash (RHA). 
+[page 22]                                              [Journal of Agricultural Engineering 2021; LII:1216]                                                             
+Non-commercial use only
+
+
+===== PAGE 4 =====
+
+CBR value of control was 42.2%. The CBR value increased with
+5% RHA and afterward declined at 10% and 15% RHA mixed soil.
+Soil with a 5% RHA combination showed the highest CBR value
+(58.9%), 10% RHA (47.0%) also exhibited an improvement of
+CBR value compared to control, and the CBR value for 15% RHA
+(36.3%) displayed the lower than control. The progress of CBR
+value for 5% RHA specifies the pozzolanic reactions among the
+substantial amount of reactive SiO2, and a negligible amount of
+Al2O3, and CaO with water in the soil (Sarkar et al., 2012). The
+reduction in CBR value after adding 15% RHA may bedue to the
+                          [Journal of Agricultural Engineering 2021; LII:1216]                                            [page 23]
+                             
+Article
+Figure 2. (A) Load penetration curves; and (B) California bearing ratio (CBR) value of soil with 0%, 5%, 10%, 15% rice husk ash (RHA).
+Figure 3. (A) Stress-strain relationship; (B) Unconfined Compressive strength (UCS); (C) Modulus of deformation (E50); (D) Failure
+mode of soil with 0%, 5%, 10%, 15% rice husk ash (RHA).
+Non-commercial use only
+
+
+===== PAGE 5 =====
+
+extra RHA weakening the bonding between soil and pozzolanic
+materials in the mixtures (Alhassan, 2008). 
+Unconfined compressive strength test results
+The stress-strain relationship curves of soil with 0%, 5%, 10%,
+and 15% RHA mix types are shown in Figure 3A. Each curve of
+this figure illustrates that the compressive stress increased with
+displacement until reaching the topmost value, then delivered a
+softening behaviour. It is noticed from Figure 3B and C that the
+addition of RHA showed an improvement of UCS value and mod-
+ulus of deformation (E50). Likewise, the results from the CBR test,
+the soil with 5% RHA showed the highest strength and elasticity
+(UCS=190.9 kPa and E50=13.6 MPa) among all soil-RHA combi-
+nations. After the addition of 10% RHA, the UCS (183.1 kPa) and
+E50 (11.1 MPa) values decreased compared to 5% RHA, but these
+values are higher than the control specimen (UCS=180.0 kPa and
+E50=8.7 MPa). Soil with 15% RHA showed lower UCS (149.2
+kPa) and E50 (4.7 MPa) values than control. Shear failure mode
+was observed from the failure plane of all soil-RHA specimens.
+The addition of RHA exhibits a slight change in the properties
+from ductile to brittle nature (Figure 3D). Likewise, the improve-
+ment of soil bearing capacity with 5% RHA, the pozzolanic reac-
+tions, and mechanical interconnections of the particles of soil and
+RHA enhanced the UCS value of this soil-RHA combination. 
+Triaxial test results
+The association between axial strain (εa) and deviatory stress
+(Δσ = σa- σr) of soil with 0%, 5%, 10%, and 15% RHA combinations
+are exhibited in Figures 4A-4D. The figures showed a common trend
+of stress-strain relationship, initially stress increased with the
+increase of strain, and after getting the topmost value, the stress fol-
+lowed softening behaviour. The angle of internal friction and cohe-
+sion of the control specimen was 32˚ and 76 kPa, respectively. It is
+noticeable from Figures 5A that soil with 5% and 10% RHA combi-
+nations improved the cohesion (c). The cohesion values for 5%,
+10%, and 15% RHA were 85, 80, 72 kPa, correspondingly, whereas
+the angle of internal friction values was 34°, 33°, and 20° according-
+ly (Figures 5A-5B). Likewise, in the UCS and CBR test results, soil
+with 5% RHA achieved the highest shear strength properties, and
+soil with 10% RHA reached the second-highest strength. The soil
+with 15% RHA had lower cohesion and angle of internal friction
+values than the control specimen. All triaxial test specimens also
+exhibited shear failure patterns. The mechanism of pozzolanic reac-
+tions and strength development in different soil-RHA combinations
+have been explained in the CBR results section.
+Scanning electron microscopy test results
+The SEM test results of soil with 0%, 5%, 10%, and 15% RHA
+are shown in Figures 6A-6D. The untreated soil had a smooth and
+                 Article
+Figure 4. The axial strain (εa) and deviatory stress (Δσ) relationship of soil with (A) 0% rice husk ash (RHA); (B) 5% RHA; (C) 10%
+RHA; and (D) 15% RHA. 
+[page 24]                                              [Journal of Agricultural Engineering 2021; LII:1216]                                                             
+Non-commercial use only
+
+
+===== PAGE 6 =====
+
+rough surface together with no spherical particles (Figure 6A).
+After adding RHA in the soil, the mechanical interconnection
+(Ramesh and Manjunatha, 2020) and pozzolanic reaction between
+the soil and RHA particles (Sarkar et al., 2012) altered the
+microstructure of the soil. The surface roughness of treated soil
+increased with the increment of RHA content due to increased pore
+spaces compared to the control specimen. Soil with 5% RHA
+exhibited the best mechanical linkage between the particles of soil
+and RHA with pozzolanic reactions, resulting in the best
+microstructural and strength development (Figure 6B). Further
+                             
+Article
+Figure 5. (A) Cohesion (c); and (B) angle of internal friction of (φ) soil with 0%, 5%, 10%, 15% rice husk ash (RHA).
+Figure 6. Scanning electron micrograph of soil with (A) 0% rice husk ash (RHA); (B) 5% RHA; (C) 10% RHA; and (D) 15% RHA
+with 1000× magnification. 
+                                                              [Journal of Agricultural Engineering 2021; LII:1216]                                            [page 25]
+Non-commercial use only
+
+
+===== PAGE 7 =====
+
+[page 26]                                              [Journal of Agricultural Engineering 2021; LII:1216]                          
+addition of RHA increased the pore spaces, which inhibited the
+interlocking and pozzolanic reaction between soil and RHA parti-
+cles, achieving less microstructural and strength development in
+the soil (Figures 6C-6D). 
+Conclusions
+From the experimental investigation on the addition of burnt
+RHA at controlled temperature with soil, it can be concluded that
+soil with 0%, 5%, 10%, and 15% of RHA combinations influenced
+the compaction characteristics, bearing capacity, UCS, shear
+strength and microstructure of soil. The OMC increased, but MDD
+decreased with the increasing amount of RHA. The initial addition
+of 5 % RHA with soil showed the best improvement of geotechni-
+cal properties, and then these values declined with the increase of
+RHA. An increase of UCS value (190.9 kPa) and deformation
+modulus (13.6 MPa) for 5% of RHA was 6.0% and 56.3% respec-
+tively compared to the control specimen (UCS =180.0 kPa and
+E50=8.7 MPa). CBR value increased by about 39.5% for the com-
+bination of soil with 5% RHA (58.9%), while the CBR of control
+was 42.2%. The increasing percentage of cohesion (85 kPa) and
+angle of internal friction (34°) of 5% RHA with soil was 11.8% and
+6.3%. 
+The results showed the improvement of geotechnical proper-
+ties of soil by utilization of RHA, which recommended that soil
+with 5% RHA can be used as a construction material for rural roads
+and pedestrian roads which can reduce construction costs and
+ensure environmental sustainability.
+References
+Adhikary S., Jana K. 2016. Potentials of rice husk ash as a soil sta-
+bilizer. International J. Latest Res. Eng. Technol. 2:40-2.
+Ayininuola G.M., Olaosebikan O.I. 2013. Influence of rice husk
+ash on soil permeability. Transnatl. J. Sci. Technol. 3:29-33.
+Al-Hasnawi A.A.K., Al-Hydary I.A.D. 2019. The devitrification
+kinetics of transparent silica glass prepared by gel-casting
+method. Matéria (Rio de Janeiro). 24.
+Alhassan M. 2008. Potentials of rice husk ash for soil stabilization.
+Assumption Univ. J. Tech. 11:246-50.
+Chandrasekhar S.A.T.H.Y., Satyanarayana K.G., Pramada P.N.,
+Raghavan P., Gupta T.N. 2003. Review processing, properties
+and applications of reactive silica from rice husk- an overview.
+J. Mater. Sci. 38: 3159-68.
+Della V.P., Kühn I., Hotza D. 2002. Rice husk ash as an alternate
+source for active silica production. Mater. Lett. 57:818-21.
+FAOSTAT. 2020. Crops-production/yield quantities of rice, paddy
+in world + (Total): 1994-2018. Food and Agriculture
+Organization of the United Nations. Available from:
+http://www.fao.org/faostat/en/#data/QC/visualize
+Hwang C.L., Chandra S. 1996. The use of rice husk ash in con-
+crete. pp 184-234 in Waste mater. used in concr. Manuf.
+William Andrew Publishing.
+Jain A., Choudhary A.K., Jha J.N. 2020. Influence of rice husk ash
+on the swelling and strength characteristics of expansive soil.
+Geotech. Geol. Eng. 38:2293-302.
+JIS A 1210, 2010. Test method for soil compaction using a rammer.
+Japanese Industrial Standard, Guidance and Basic - Soil Test,
+The Japanese Geotechnical Society (in Japanese), pp. 71-78.
+JIS A 1211, 2010. Test method for the California Bearing Ratio
+(CBR) of soils in laboratory. Japanese Industrial Standard,
+Guidance and Basic - Soil Test, The Japanese Geotechnical
+Society (in Japanese), pp. 79-90.
+JIS A 1216, 2010. Method for unconfined compression test of
+soils. Japanese Industrial Standard, Guidance and Basic - Soil
+Test, The Japanese Geotechnical Society (in Japanese), pp.
+151-158.
+JGS 0520-0524, 2010. Triaxial compression test of soil, Guidance
+and Basic - Soil Test (in Japanese), The Japanese Geotechnical
+Society, pp. 135-150.
+MIT, 2018. What is plant-based (fir shell) silica? Difference from
+conventional technology (in Japanese). Available from:
+https://www.mit-corp.biz/business/biosilica/
+Murthy B.S., Babu G.S., Srinivas A. 2002. Analysis of bearing
+capacity improvement using micropiles. Proc. Instit. Civil
+Eng.-Ground Improv. 6:121-8.
+Nahar N., Hossain Z., Tamaki N. 2021. Optimum utilization of rice
+husk ash waste for ground improvement. Int. Agric. Eng. J.
+30:1-10.
+Okafor F.O., Okonkwo U.N. 2009. Effects of rice husk ash on
+some geotechnical properties of lateritic soil. Niger. J. Technol.
+28:46-52.
+Pode R. 2016. Potential applications of rice husk ash waste from
+rice husk biomass power plant. Renew. Sustain. Energy Rev.
+53:1468-85.
+Rahman Z.A., Ashari H.H., Sahibin A.R., Tukimat L., Razi I.W.M.
+2014. Effect of rice husk ash addition on geotechnical charac-
+teristics of treated residual soil. Am.-Euras. J. Agric. Environ.
+Sci. 14:1368-77.
+Ramesh H.N., Manjunatha B.V. 2020. Justification of strength
+properties of microstructural changes in the black cotton soil
+stabilized with rice husk ash and carbide lime in the presence
+of sodium salts. SN Appl. Sci. 2:1-12.
+Rathan R.R., Banupriya S., Dharani R. 2016. Stabilization of soil
+using rice husk ash. Int. J. Comput. Eng. Res. 6:43-50.
+Roy S., Bhalla S.K. 2017. Role of geotechnical properties of soil
+on civil engineering structures. Res. Environ. 7:103-9.
+Sarkar G., Islam M.R., Alamgir M., Rokonuzzaman M. 2012.
+Interpretation of rice husk ash on geotechnical properties of
+cohesive soil. Global J. Res. Eng. 12.
+Singh B. 2018. Rice husk ash. pp. 417-460 in Waste and supple-
+mentary cementitious materials in concrete. Woodhead
+Publishing.
+Thomas B. S. 2018. Green concrete partially comprised of rice
+husk ash as a supplementary cementitious material - A compre-
+hensive review. Renew. Sustain. Energy Rev. 82:3913-23.
+                 Article
+Non-commercial use only

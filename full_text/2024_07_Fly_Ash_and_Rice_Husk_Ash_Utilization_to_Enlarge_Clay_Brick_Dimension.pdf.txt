@@ -1,0 +1,460 @@
+
+===== PAGE 1 =====
+
+ 
+ Copyright Holder: 
+ 
+ 
+ 
+ 
+ 
+This Article is Licensed Under: 
+ © Authors’ Name. (Year)  
+ Corresponding author’s email: xxx@xxx.com 
+ 
+ Corresponding author’s email: xxx@xxx.com 
+Proceeding of International Conference on Multidisciplinary Research for Sustainable Innovation, Vol. 1 No. 1 (2024) 
+                       
+DOI to be assigned soon 
+Fly Ash and Rice Husk Ash Utilization to Enlarge Clay Brick Dimension 
+Elhusna1*, Abdullah2, Sofyan Saleh3, Muttaqin Hasan4, Nelly Astriani5, Bimo Prakoso6 
+1, 2, 3, 4 Syiah Kuala Banda Aceh University, Indonesia 
+1, 5, 6 Bengkulu University, Indonesia 
+ 
+Received : January 29, 2024 
+Revised : February 5, 2024 
+Accepted : March 9, 2024 
+Online : March 13, 2024 
+Abstract 
+Burnt clay bricks, mostly used as non-structural wall unit materials in Indonesia, contain only clay in Bengkulu 
+Province. A large amount of clay is used during clay brick production as a shrinkage effect of burning, while clay is a 
+limited natural resource. Available non-plastic materials that can withstand combustion contraction are required to 
+reduce the use of clay. Ash materials like fly ash and rice husk ash are non-plastic materials. The purposes of this 
+research are to reduce clay usage, enlarge dimensions, and improve brick performance at the same time by adding 
+coal fly ash (FA) and rice husk ash (RHA). This research is an experimental study of FA clay brick (FCB) and a 
+combination of 50% FA and 50% RHA clay brick (FRCB). The ash was added to the mixture at weights of 10%, 20%, 
+and 30% of clay. The factory-specified production method was used to create bricks. After the materials and water 
+meltdown process to produce plastic material, bricks were molded, dried, and burned. Green and burnt brick 
+measurements and weights were gathered. The Brick Indonesian Standard Code (SNI 15-2094-2000) was used while 
+determining the bricks' compression strength and absorption. The mean values of the quantitative data were used 
+after being analyzed through coefficient of variation values less than 10%. The result shows that the compressive 
+strengths and absorption of 10% and 20% of the ash content of FCB meet the Indonesian code. Both brick volumes 
+expand as the ash content increases. FRCB volume weight is 11%, 7.8%, and 8.1% lighter than FCB for 10%, 20%, 
+and 30% ash content, respectively. Both brick varieties meet the ASTM code for nonload-bearing concrete masonry 
+units. The use of FA and a mixture of FA and RHA enhances shrinkage, increases brick dimensions, and simultaneously 
+lowers brick weight. Using lighter and larger bricks for the walls helps to recycle waste, reduce the mass of the 
+building, and reduce the use of clay resources. Application 10% and 20% fly ash is recommended for increasing the 
+size of clay bricks in Bengkulu Province, Indonesia. 
+Keywords: Burnt Clay Brick, Coal Fly Ash, Rice Husk Ash, Shrinkage 
+ 
+ 
+ 
+ 
+INTRODUCTION 
+ 
+The most common type of brick used in masonry construction globally is fired clay because 
+of its strength, flexibility, and longevity (ASTM C216-10, 2010; Ukwatta and Mohajerani, 2017; Al-
+fakih et al., 2019; Akinyele, Igba and Adigun, 2020; Alkhaly et al., 2022).  According to Aboul's 
+estimate (Bautista-Marín, Esguerra-Arce and Esguerra-Arce, 2021), over 62% of homes in 
+Southeast Asia are built with burnt clay brick. Burned clay brick, as one of the traditional local 
+building materials, is frequently utilized as a non-structural wall material in Indonesian homes and 
+buildings, particularly in the province of Bengkulu. 
+Burning is recognized as the most widely utilized technique for producing clay bricks in the 
+nations having substantial quantities of clay (Elhusna, Wahyuni and Gunawan, 2014; Joglekar et al., 
+2018; Silva and Perera, 2018). The fired process reduces brick dimensions and even becomes 
+smaller ones when the brick contains only clay. Bengkulu clay bricks have a volume shrinkage 
+larger than 42% which means the ratio of burnt brick and green brick is about 68% (Elhusna, 
+Wahyuni and Gunawan, 2014).  
+Numerous studies have documented the utilize of various kinds of industrial and agricultural 
+Research Paper 
+
+
+----- TABLE p1#1 -----
+
+ |  | Research Paper
+
+----- TABLE p1#2 -----
+
+Received : January 29, 2024 | Revised : February 5, 2024 | Accepted : March 9, 2024 | Online : March 13, 2024
+ |  |  | 
+Abstract |  |  | 
+ |  |  | 
+Burnt clay bricks, mostly used as non-structural wall unit materials in Indonesia, contain only clay in Bengkulu |  |  | 
+Province. A large amount of clay is used during clay brick production as a shrinkage effect of burning, while clay is a |  |  | 
+limited natural resource. Available non-plastic materials that can withstand combustion contraction are required to |  |  | 
+reduce the use of clay. Ash materials like fly ash and rice husk ash are non-plastic materials. The purposes of this |  |  | 
+research are to reduce clay usage, enlarge dimensions, and improve brick performance at the same time by adding |  |  | 
+coal fly ash (FA) and rice husk ash (RHA). This research is an experimental study of FA clay brick (FCB) and a |  |  | 
+combination of 50% FA and 50% RHA clay brick (FRCB). The ash was added to the mixture at weights of 10%, 20%, |  |  | 
+and 30% of clay. The factory-specified production method was used to create bricks. After the materials and water |  |  | 
+meltdown process to produce plastic material, bricks were molded, dried, and burned. Green and burnt brick |  |  | 
+measurements and weights were gathered. The Brick Indonesian Standard Code (SNI 15-2094-2000) was used while |  |  | 
+determining the bricks' compression strength and absorption. The mean values of the quantitative data were used |  |  | 
+after being analyzed through coefficient of variation values less than 10%. The result shows that the compressive |  |  | 
+strengths and absorption of 10% and 20% of the ash content of FCB meet the Indonesian code. Both brick volumes |  |  | 
+expand as the ash content increases. FRCB volume weight is 11%, 7.8%, and 8.1% lighter than FCB for 10%, 20%, |  |  | 
+and 30% ash content, respectively. Both brick varieties meet the ASTM code for nonload-bearing concrete masonry |  |  | 
+units. The use of FA and a mixture of FA and RHA enhances shrinkage, increases brick dimensions, and simultaneously |  |  | 
+lowers brick weight. Using lighter and larger bricks for the walls helps to recycle waste, reduce the mass of the |  |  | 
+building, and reduce the use of clay resources. Application 10% and 20% fly ash is recommended for increasing the |  |  | 
+size of clay bricks in Bengkulu Province, Indonesia. |  |  | 
+Keywords: Burnt Clay Brick, Coal Fly Ash, Rice Husk Ash, Shrinkage |  |  | 
+
+===== PAGE 2 =====
+
+ Proc. of Int. Conf. on Multidiscip. Res. for Sustain. Innov. 
+450 
+ 
+wastes in clay bricks production. The goal of the studies are to use less clay while simultaneously 
+increasing brick performance. Coal fly ash and rice husk ash are industrial and agricultural wastes, 
+whose volume continues to increase nowadays (Kadir and Sarani, 2012; Çiçek and Çinçin, 2015; 
+Abbas et al., 2017; Eliche-Quesada et al., 2018; Joglekar et al., 2018; Hossain et al., 2019; Akinyele, 
+Igba and Adigun, 2020; Josiah Marut, Alaezi and Obeka, 2020; Ketov et al., 2021; Tjaronge and 
+Caronge, 2021). Silica is found in clay, fly ash, and rice husk ash as their greatest chemical ingredient 
+(Abbas et al., 2017; Huynh et al., 2018; Silva and Perera, 2018; Alkhaly et al., 2022; Rief and Hasan, 
+2022). 
+One of the ways to reduce the use of clay in bricks is to use available waste materials that 
+can increase the volume of fired bricks. However, research on the dimensional changes due to the 
+addition of fly ash and rice husk ash is still limited. This research purpose deals with brick 
+contraction and enlarges its dimensions by adding FA and RHA to clay during brick production. This 
+article shows the results of a study on changes in the dimensions, volume, and weight of clay bricks 
+due to the variation in the addition of both of the ashes, as well as their changes between green 
+bricks and burnt ones. The reported mechanical properties of clay bricks in this research are 
+compressive strength and absorption. 
+ 
+LITERATURE REVIEW 
+Clay Brick Characterization 
+Clay brick characteristics (ASTM C216-10, 2010) can be distinguished based on its 
+durability and mechanical properties. The bricks after firing can be characterized by examining 
+their dimensions, absorption, and compressive strength (Gavali et al., 2019) (Bautista-Marín, 
+Esguerra-Arce and Esguerra-Arce, 2021). American standard material testing provides a minimum 
+compressive strength limit for nonload-bearing concrete masonry units of 3.45 MPa and no limit 
+for water absorption (Al-fakih et al., 2019). Meanwhile, SNI 15-2094-2000, the Indonesian code, 
+limits water absorption to a maximum of 20% and a minimum compressive strength of 5 MPa, with 
+a variation coefficient of 22% or 3.9 MPa for solid clay bricks for wall pairs. 
+Clay Brick and Coal Fly Ash  
+Clay and coal fly ash (FA) are similar in texture and oxidation components. FA can 
+substitute a part of clay as a raw material for clay bricks because of these similarities [18]. Fly ash 
+particles, a by-product of coal-fired thermal power plants, frequently resemble small, spherical 
+powders [23]. FA components are mostly Al, Ca, Mg, Fe, Na, and Si [22], [13], [20], [21]. It is 
+essentially composed of SiO2, CaO, and Al2O3 with small quantities of oxides of iron, sulfur, and 
+magnesium. 
+Clay bricks with 5% FA can be used as bricks that can withstand severe weather (Abbas et 
+al., 2017). Replacement 25% clay with fly ash reduces the clay brick weight by 18% (Abbas et al., 
+2017). Fired bricks made of clay and FA up to 20 wt% are reported to have similar physical and 
+mechanical properties to bricks without FA and decrease in bricks with greater FA content (Eliche-
+Quesada et al., 2018). The burnt clay bricks' compressive strength rises by 17.36% with 4% FA 
+addition (Kumar et al., 2021). 
+Rice Husk Ash and Clay Brick. 
+The largest compound content of clay and rice husk ash is SiO2 (Muntohar, 2011; Huynh et 
+al., 2018; Silva and Perera, 2018; Loetchantharangkun and Wangrakdiskul, 2021). The bricks 
+produced by combining clay with 4% waste RHA by weight have a water absorption rate of 19%, 
+and the compressive strength is 32.7% higher than that of the usual bricks manufactured in the 
+factory (Silva and Perera, 2018). 
+MATERIALS AND METHODS 
+
+
+===== PAGE 3 =====
+
+ Proc. of Int. Conf. on Multidiscip. Res. for Sustain. Innov. 
+451 
+ 
+Clay Brick Materials 
+Materials were prepared in 2 stages, namely collecting and testing their physicals 
+properties. The materials used for the brick production were clay, fly ash, rice husk ash, and water. 
+The materials were taken from nearby locations on the Sumatra island, Indonesia. The clay and 
+water were available in the brick factory site in Selebar regency. The rice husk ash was collected 
+from the combustion in Arga Makmur regency. Both regencies are located in Bengkulu Province. 
+The fly ash was collected from Keban Agung, located in Lahat regency, South Sumatra Province.  
+Both ashes used (Figure 1) have passed through sieve number 100. Physical properties of 
+the ashes and clay (Table 1) were carried out according to the Indonesian National Standard code 
+Figure 1. Fly ash and rice husk ash 
+ 
+The physical properties of the materials (Table 1) were collected based on Indonesian 
+National Standards. The amount of materials used for each combination (Table 2) varied between 
+fly ash clay brick (FCB) and fly ash and rice husk ash clay brick (FRCB). The second variation used 
+a weight combination of 50% fly ash and 50% rice husk ash for each ash percentage.  
+ 
+Table 1. Materials Physical Properties 
+Description 
+Clay 
+Fly Ash 
+Rice husk ash 
+Codes 
+Bulk density (gr.cm-3) 
+1,27 
+0,99 
+0,3 
+(SNI-03-3637-1994, 1994) 
+water content (%) 
+46,20 
+2,88 
+3,81 
+(SNI-03-1971-1990, 1990) 
+Density (gr.cm-3) 
+2,76 
+2,13 
+1,78 
+(SNI-1970-2008, 2008) 
+Liquid limit (%) 
+61,82 
+ 
+ 
+(SNI-1965-2008, 2008) 
+Plastic limit (%) 
+47,17 
+ 
+ 
+(SNI-1966-2008, 2008) 
+Plastic index (%) 
+14,65 
+ 
+ 
+(SNI-1966-2008, 2008) 
+ 
+Table 2. Clay and Ash Amounts of a Brick Unit Mixture 
+Ashes (%) 
+FCB variation (kg) 
+FRCB variation (kg) 
+Clay 
+Fly Ash 
+Clay 
+Fly Ash 
+Rice husk ash 
+10 
+2,2 
+0,22 
+2,2 
+0,11 
+0,11 
+20 
+2,2 
+0,44 
+2,2 
+0,22 
+0,22 
+30 
+2,2 
+0,66 
+2,2 
+0,33 
+0,33 
+Notes: fly ash clay brick (FCB); fly ash and rice husk ash clay brick (FRCB) 
+ 
+Bricks Manufacturing  
+Brick production was carried out according to the factory method. Clay and each ash 
+variation (Table 2) were mixed evenly. Water was poured into the clay mixture and stirred with 
+pressure until the mortar was plastic enough to be cast into the mold. The length, width, and height 
+
+
+===== PAGE 4 =====
+
+ Proc. of Int. Conf. on Multidiscip. Res. for Sustain. Innov. 
+452 
+ 
+of the mold are 215mm, 105mm, and 50mm, respectively. The drying process of the green bricks 
+under the sun was done until they were dry and hard. The bricks were then arranged in the kiln 
+and fired for 48 hours. The bricks were removed from the kiln after the next 48 hours due to the 
+brick cooling process. 
+Collecting Dimensions and Weight  
+Dimensions and weight of the bricks were measured in accordance with codes of 
+Indonesian national standard and American standard testing materials. 
+Compressive Strength and Absorption Testing 
+The brick specimens for the test compressive strength and absorption of were made 
+according to the Indonesian code of solid clay bricks for wall masonry (SNI 15-2094-2000, 2000).  
+ 
+FINDINGS AND DISCUSSION 
+Brick Properties.  
+The length, width, and unit weight of fly ash bricks (FCB) extend as the fly ash content 
+increases (Figure 2a). Meanwhile the brick height and unit weight appear to be unaffected by the 
+ash content of more than 10%. They have the same values for 20% and 30% ash content.  
+ 
+Figure 2. Fly ash clay bricks (FCB) [Properties of clay brick spesimens] 
+ 
+Figure 3. Fly ash and rice husk ash clay bricks (FRCB) [Properties of clay brick spesimens] 
+ 
+Fly ash and rice husk ash clay brick (FRCB) length rises as the amount of ash rises, but the 
+width rises when the ash content is greater than 10% and has the same value at a higher ash content 
+(Figure 2b). FRCB height and unit weight have their own trend. They increase at 20% ash content 
+but have the same value at 10% and 30% ash contents. The result (Figure 2) exhibits that FRCB 
+dimensions are slightly bigger than FCB ones when the weight unit is lighter. Bigger and lighter 
+bricks are produced when 50% of the FA by weight is replaced with lighter RHA. 
+The highest FCB compressive strength is 4,9 MPa at 10% FA, and then it decreases as the 
+
+
+===== PAGE 5 =====
+
+ Proc. of Int. Conf. on Multidiscip. Res. for Sustain. Innov. 
+453 
+ 
+ash content rises. Despite a reduction in clay brick strength by the addition of 20% FA to clay bricks, 
+it is still in line with the codes in Indonesia. This situation is contrary to the one mentioned before  
+(Hossain et al., 2019), where the brick strength decreases when it contains more than 20% fly ash. 
+It is also shown that the strength and the absorption reduce at 30% FA, whereas generally, 
+absorption increases when compressive strength decreases and vice versa.  This study exhibits that 
+the compressive strength of burnt clay bricks with the addition of 10% to 30% FA is greater than 
+3.55 N/mm2, a burnt clay brick with 4% FA (Silva and Perera, 2018). 
+The brick with 30% ash content as the highest strength of FRCB is 26% higher than the 10% 
+one and 5.6% higher than the FCB with the same ash content. While the 10% FCB compressive 
+strength is the highest between the brick types, it is 32.4% higher than the FRCB one. The important 
+thing is that all the strength of FCB and FRCB still meets the ASTM code since they are higher than 
+3 MPa. 
+Compressive strength and absorption of brick. The compressive strength of FCB (Figure 2a) 
+decreases as the ash content rises but the absorption rises at 20% ash content. and then decreases 
+1.1% at 30% ash content. The possibility is that the presence of 30% fly ash causes the brick melting 
+process to be better during combustion so that the adhesion between the particles is better and 
+produces smaller pores.  
+The compressive strength for 10% and 20% ash content of FCB is higher than FRCB ones, 
+and vice versa for FRCB with 30% ash content. The absorption value of FCB is smaller than that of 
+FRCB. The interesting thing is that the compressive strength and absorption values decrease at 30% 
+ash content of FCB and while for FRCB, compressive strength and absorption decrease at 20% ash 
+content and increase at 30% ash content. In accordance with the Indonesian code (SNI 15-2094-
+2000, 2000), the utilization of 10% and 20% fly ash can increase the size of burnt clay bricks in 
+Bengkulu Province. 
+Figure 4. Fly ash clay bricks (FCB) [Properties ratio of burnt and green clay bricks] 
+ 
+Figure 5. Fly ash, rice husk ash clay bricks (FRCB) [Properties ratio of burnt and green clay 
+bricks] 
+
+
+===== PAGE 6 =====
+
+ Proc. of Int. Conf. on Multidiscip. Res. for Sustain. Innov. 
+454 
+ 
+Properties Ratio of The Green and Burnt Bricks 
+The properties ratio of the green and burnt bricks (Figure 3) show that FRCB expand the 
+volume greater than FCB one. FRCB weight volumes are also lighter than FCB. It might prove that 
+the combination of fly ash and rice husk ash successfully filled the clay bricks during the firing 
+process. Since the RHA has a small bulk density, FRCB becomes lighter than FCB, whose ash bulk 
+density is heavier. 
+The presence of fly ash produces bricks with better compressive strength compared to the 
+presence of fly ash and rice husk ash. The strength of these two types of bricks decreases when the 
+amount of ash increases but still meet ASTM for nonload-bearing concrete masonry units. Only the 
+strength and the absorption of FCB up to 20% fly ash addition, meet the Indonesian code. 
+The volume of the bricks expands as the amount of ash increases since it is mentioned 
+before that the minimum shrinkage of clay brick volume in Bengkulu is 42% (Elhusna, Wahyuni 
+and Gunawan, 2014), where it's equivalent to 58% of the burnt and green clay brick ratio,  However, 
+the volume weight of FRCB is 11%, 7,8%, and 8,1% lighter than FCB for 10%, 20%, and 30% ash 
+content, respectively. This is because the volume of FRCB is slightly larger than FCB. The use of fly 
+ash or a combination of fly ash and rice husk ash for clay bricks can increase dimensions, improve 
+shrinkage, and at the same time reduce the weight of clay bricks. 
+ 
+CONCLUSIONS AND FURTHER RESEARCH 
+The best fly ash clay brick occurs in bricks with 10% fly ash, while bricks with a mixture of 
+clay and fly ash and rice husk ash produce the highest compressive strength in 30% ash clay bricks. 
+The volume of the bricks expands as the amount of ash increases, but the volume weights of fly ash 
+and rice husk ash brick (FRCB) are 11%, 7,8%, and 8,1% lighter than fly ash brick (FCB) for 10%, 
+20%, and 30% ash content, respectively. This is because the volume of FRCB is slightly larger than 
+FCB. Based on compressive strength and absorption values, FCB with up to 20% ash content meets 
+the Indonesian code for brick. Both brick types meet ASTM requirements for nonload-bearing 
+concrete masonry units. The use of fly ash or a combination of fly ash and rice husk ash for clay 
+bricks increase dimensions, improve shrinkage, and at the same time reduce the weight of clay 
+bricks. larger and lighter bricks as wall material contribute to reducing the building's mass, the use 
+of limited clay resources, and recycling the waste whose volume.  
+Following the Indonesian code (SNI 15-2094-2000, 2000), the use of 10% and 20% fly ash 
+is recommended to increase the size of clay bricks in Bengkulu Province. Despite a reduction in clay 
+brick strength by the addition of 20% FA to clay bricks, it is still in line with the codes in Indonesia. 
+This study's findings are limited to the attributes covered previously. Research on the additional 
+characteristics of bricks as a wall material could be explored. Further research on reducing the 
+utilization of clay in brick production should also be done by combining other waste materials. 
+ 
+LIMITATION & FURTHER RESEARCH 
+The limitations of the study are those characteristics of design or methodology that 
+impacted or influenced the interpretation of the findings from your research. Further research 
+should suggest the number of gaps in our knowledge that follow from our findings or to extend and 
+further test of the research. 
+ 
+REFERENCES 
+Abbas, S. et al. (2017). Production of sustainable clay bricks using waste fly ash: Mechanical and 
+durability properties. Journal of Building Engineering, 14, pp. 7–14. 
+https://doi.org/10.1016/j.jobe.2017.09.008. 
+ 
+
+
+===== PAGE 7 =====
+
+ Proc. of Int. Conf. on Multidiscip. Res. for Sustain. Innov. 
+455 
+ 
+Akinyele, J. O., Igba, U. T. and Adigun, B. G. (2020). Effect of waste PET on the structural properties 
+of burnt bricks. Scientific African, 7, p. e00301. https://doi.org/10.1016/j.sciaf.2020.e00301. 
+Al-fakih, A. et al. (2019). Incorporation of waste materials in the manufacture of masonry bricks : 
+An update review. Journal of Building Engineering, 21 (September 2018), pp. 37–54. 
+https://doi.org/10.1016/j.jobe.2018.09.023. 
+Alkhaly, Y. R. et al. (2022). The effect of synthesized rice husk ash to compressive strength of 
+reactive powder concrete containing quartzite powder in AIP Conference Proceedings, pp. 1–
+6. doi: https://doi.org/10.1063/5.0108635. 
+ASTM C216-10 (2010). Standard Specification for Facing Brick (Solid Masonry Units Made from 
+Clay or Shale). https://doi.org/10.1520/C0216-10.2. 
+Bautista-Marín, J. D., Esguerra-Arce, A. and Esguerra-Arce, J. (2021). Use of an industrial solid waste 
+as a pigment in clay bricks and its effects on the mechanical properties. Construction and 
+Building Materials, 306(April), p. 124848. 
+https://doi.org/10.1016/j.conbuildmat.2021.124848. 
+Çiçek, T. and Çinçin, Y. (2015). Use of fly ash in production of light-weight building bricks. 
+Construction and Building Materials, 94, pp. 521–527. 
+https://doi.org/10.1016/j.conbuildmat.2015.07.029. 
+Elhusna, El., Wahyuni, A. S. and Gunawan, A. (2014). Performance of clay brick of Bengkulu. Procedia 
+Engineering, 95(Scescm), pp. 504–509. https://doi.org/10.1016/j.proeng.2014.12.211. 
+Eliche-Quesada, D. et al. (2018). Investigation of use of coal fly ash in eco-friendly construction 
+materials: fired clay bricks and silica-calcareous non fired bricks. Ceramics International, 
+44(4), pp. 4400–4412. https://doi.org/10.1016/j.ceramint.2017.12.039. 
+Gavali, H. R. et al. (2019). Development of sustainable alkali-activated bricks using industrial 
+wastes. Construction and Building Materials. Elsevier Ltd, pp. 180–191. 
+https://doi.org/10.1016/j.conbuildmat.2019.04.152. 
+Hossain, S. S. et al. (2019). Manufacturing of green building brick: recycling of waste for 
+construction purpose. Journal of Material Cycles and Waste Management, 21(2), pp. 281–292. 
+https://doi.org/10.1007/s10163-018-0788-4. 
+Huynh, T.-P. et al. (2018). Effect of residual rice husk ash on mechanical-microstructural properties 
+and thermal conductivity of sodium-hydroxide-activated bricks. Environmental Progress and 
+Sustainable Energy, 37(5), pp. 1647–1656,. https://doi.org/10.1002/ep.12848. 
+Joglekar, S. N. et al. (2018). Sustainability assessment of brick work for low-cost housing: A 
+comparison between waste based bricks and burnt clay bricks. Sustainable Cities and Society, 
+37, pp. 396–406. https://doi.org/10.1016/j.scs.2017.11.025. 
+Josiah Marut, J., Alaezi, J. O. and Obeka, I. C. (2020). A review of alternative building materials for 
+sustainable construction towards sustainable development. Journal of Modern Materials, 
+7(1). https://doi.org/10.21467/jmm.7.1.68-78. 
+Kadir, A. A. and Sarani, N. A. (2012). An overview of wastes recycling in fired clay bricks. 
+International Journal of Integrated Engineering, 4(2), pp. 53–69. 
+Ketov, A. et al. (2021). Recycling of rice husks ash for the preparation of resistant, lightweight and 
+environment-friendly fired bricks. Construction and Building Materials, 302, p. 124385. 
+https://doi.org/10.1016/j.conbuildmat.2021.124385. 
+Kumar, A. et al. (2021). Assessing the structural efficiency and durability of burnt clay bricks 
+incorporating fly ash and silica fume as additives. Construction and Building Materials, 
+310(October), p. 125233. https://doi.org/10.1016/j.conbuildmat.2021.125233. 
+Loetchantharangkun, W. and Wangrakdiskul, U. (2021). Combination of rice husk ash , bagasse ash, 
+and calcium carbonate for developing unglazed fired clay tile. AIMS Materials Science, 8(3), 
+pp. 434–452. https://doi.org/10.3934/matersci.2021027. 
+
+
+===== PAGE 8 =====
+
+ Proc. of Int. Conf. on Multidiscip. Res. for Sustain. Innov. 
+456 
+ 
+Muntohar, A. S. (2011). Engineering characteristics of the compressed-stabilized earth brick. 
+Construction and Building Materials, 25(11), pp. 4215–4220. 
+https://doi.org/10.1016/j.conbuildmat.2011.04.061. 
+Rief, Y. and Hasan, M. (2022). Characteristics of reactive powder concrete comprising synthesized 
+rice husk ash and quartzite powder. Journal of Cleaner Production, 375(September), p. 
+134154. https://doi.org/10.1016/j.jclepro.2022.134154. 
+Silva, G. H. M. J. S. De and Perera, B. V. A. (2018). Effect of waste rice husk ash (RHA) on structural, 
+thermal and acoustic properties of fi red clay bricks’, Journal of Building Engineering, 
+18(September 2017), pp. 252–259. https://doi.org/10.1016/j.jobe.2018.03.019. 
+SNI-03-1971-1990 (1990). Method for testing aggregate water content. Indonesia: BSN. 
+SNI-03-3637-1994 (1994). Method of testing the density of fine-grained soil using a mold of the test 
+object. Indonesia: BSN. 
+SNI-1965-2008 (2008). Test method for determining water content for soil and rock in the 
+laboratory, BSN. 
+SNI-1966-2008 (2008). Test method for determining the plastic limit and index plasticity of soil. 
+Indonesia: BSN. 
+SNI-1970-2008 (2008). Method for testing specific gravity and water absorption of fine aggregate. 
+Indonesia: BSN. 
+SNI 15-2094-2000 (2000). Solid clay brick for wall masonry. Indonesia: BSN. 
+Tjaronge, M. W. and Caronge, M. A. (2021). Physico-mechanical and thermal performances of eco-
+friendly fired clay bricks incorporating palm oil fuel ash. Materialia, 17(May), p. 101130. 
+https://doi.org/10.1016/j.mtla.2021.101130. 
+Ukwatta, A. and Mohajerani, A. (2017). Characterisation of fired-clay bricks incorporating biosolids 
+and the effect of heating rate on properties of bricks. Construction and Building Materials, 
+142, pp. 11–22. https://doi.org/10.1016/j.conbuildmat.2017.03.047. 
+ 

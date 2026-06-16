@@ -1,0 +1,1140 @@
+
+===== PAGE 1 =====
+
+Journal of Mining and Earth Sciences Vol. 61, Issue 3 (2020) 1 - 11 
+1 
+Rice husk ash and its utilization in soil improvement: 
+An overview 
+Duong Thanh Nguyen *, Nu Thi Nguyen, Ha Ngoc Thi Pham, Hai Huu Phung, Hung 
+Van Nguyen 
+Faculty of Geosciences and Geoengineering, Hanoi University of Mining and Geology, Vietnam 
+ARTICLE INFO 
+ABSTRACT 
+Article history: 
+Received 21st Feb. 2020 
+Revised 23rd May 2020 
+Accepted 30th June 2020 
+The utilization of waste materials in soil improvement is the potential for 
+the reduction of the negative effect on the environment and the 
+construction cost as well. One of the waste materials is rice husk ash 
+(RHA), which is an agricultural-by product and can be utilized for soil 
+improvement. This paper aims to present a comprehensive review of the 
+numerous investigations on rice husk ash and its utilization in soil 
+improvement. Based on the literature review, there are some findings as 
+follows: (i) burning rice husk ash in incinerator under a controlled 
+temperature of 500÷8000C and time of 1÷4 hours will produce RHA with 
+high pozzolanic activity; (ii) the RHA can be considered as a stabilizer for 
+different types of soil, and it can be used in combination with different 
+chemical binders and waste materials for soil improvement; (iii) from the 
+view of engineering purposes, the RHA from about 3  to 20%, the lime from 
+2 to 9%, the cement from 2 to 15% were mostly suggested to improve the 
+soil for pavement, road (base and sub-base layers), and building houses in 
+rural areas. However, the research on the utilization of RHA in soft ground 
+improvement by deep mixing method using lime and cement is still 
+limited, and it is therefore recommended for further research. In addition, 
+the experimental field research on the utilization of RHA for soil 
+improvement in engineering practice needs to be conducted.  
+Copyright © 2020 Hanoi University of Mining and Geology. All rights reserved. 
+Keywords: 
+Agricultural by-product, 
+Burning time, 
+Chemical binders, 
+Rice husk ash (RHA), 
+Soil improvement, 
+Temperature. 
+1. Introduction
+Soil improvement for engineering practice
+has been introduced for many years. The main 
+purpose is to help the soil meet the requirement 
+of the specific engineering projects. Soil can be 
+improved by mixing with chemical binders 
+(cement, lime) and/or with waste materials (fly 
+ash, bottom ash, rice husk ash, steel slag,etc.). 
+Traditionally, chemical binders such as cement, 
+lime are often used for soil improvement. 
+However, the production of cement and lime 
+requires enormous heating and can release a huge 
+_____________________ 
+*Corresponding author 
+E-mail: nguyenthanhduong@humg.edu.vn
+DOI: 10.46326/JMES.2020.61(3).01
+
+
+===== PAGE 2 =====
+
+2 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+amount of carbon emission. Hence, the use of 
+these common binders for soil improvement can 
+make 
+negative 
+effects 
+not 
+only 
+on 
+the 
+environment but also on the construction cost 
+(Liu et al., 2019b). In addition, the waste materials 
+as mentioned above often cause a serious 
+problem for the environment. Therefore, the use 
+of these waste materials for soil improvement or 
+partial replacement of cement, lime in soil 
+improvement will help to reduce the negative 
+effects on the environment and the construction 
+cost as well (Nguyen Thi Nu et al., 2020).  
+Among waste materials, as mentioned above, 
+rice husk ash (RHA) is abundant in many 
+countries, especially in developing countries such 
+as Vietnam, China, Indonesia, and India, etc. RHA 
+is an agricultural by-product material that is 
+resulting from burning rice husk. As estimated, 
+the annual rice production is about 500 million 
+tonnes in the world. As a result, about 100 million 
+tonnes of rice husks are produced annually. Rice 
+husk is often disposed of or can be burned in open 
+heaps or used as fuel for fruit drying and power 
+generation, as it is very abrasive and not suitable 
+for animal feed. If rice husk is burned, about 20% 
+of the mass remains as rice husk ash (RHA). It 
+means that a huge amount of about 20 million 
+tonnes of RHA can be produced every year in the 
+world (Jongpradist et al., 2018). However, a large 
+amount of RHA is often disposed to the 
+environment. Since RHA is porous and very light, 
+it can be carried easily by the wind, thus polluting 
+the air and water. Therefore, an increase in the 
+utilization of RHA will have great potential for 
+waste management. RHA is high in silica with 
+content above 70% (Fapohunda et al., 2017). 
+Silica 
+in 
+RHA 
+possesses 
+little 
+cementing 
+properties, but it can react with calcium 
+hydroxide such as lime to form cementitious 
+compounds (pozzolanic reaction), which can bind 
+the soil particles and enhance the soil strength 
+(Behak, 2017). In fact, chemical binders such as 
+cement and lime are often used to enhance the soil 
+strength. Nevertheless, the lime and cement are 
+much more expensive than RHA. In addition, the 
+production of lime and cement consumes a lot of 
+heating energy and releases a huge amount of 
+carbon dioxide. Therefore, the utilization of RHA 
+for soil improvement will reduce the negative 
+effect on the environment and the construction 
+cost as well. The main purpose of this review is to 
+update and to gather all research works relating 
+to RHA and its utilization in soil improvement. 
+The review results of this research will provide 
+useful information and direction for further 
+investigations. The present research includes 
+three main parts: production and physical 
+properties of RHA; chemical compositions of RHA; 
+and utilization of RHA in soil improvement. 
+2. Production and physical properties of RHA 
+2.1. Production of RHA 
+RHA can be produced by burning rice husks 
+in open heaps, bio-mass power plants without 
+controlling temperature or in incineration 
+furnace under controlled temperature conditions. 
+The quality of RHA significantly depends on the 
+combustion condition (temperature, burning 
+duration, cooling time, and burning type) and will 
+affect 
+the 
+effectiveness 
+of 
+RHA 
+in 
+soil 
+improvement (Basha et al., 2005). Houston 
+(1972) classified RHA into three types: high-
+carbon char (black), low-carbon ash (grey), and 
+carbon-free ash (pink or white). The changes of 
+color are associated with the completeness of the 
+burning process (temperature and burning 
+duration) and the transformation of the silica in 
+the ash. The light color will result in the lower 
+carbon content and the higher silica content in the 
+ash. The amorphous silica is suitable for a 
+pozzolanic reaction rather than crystallized silica. 
+Behak (2017) found that the RHA from burning 
+rice husk in a controlled temperature of 6500C-
+8000C (in incinerator) was more reactive than the 
+one 
+that 
+from 
+burning 
+in 
+uncontrolled 
+temperature (in conventional ovens). Cordeiro et 
+al. (2009) revealed that RHA obtained from 
+uncontrolled burning conditions often contained 
+high carbon content with low pozzolanic activity. 
+Nguyen et al. (2011) also stated that the RHA with 
+high reactive silica content cannot be obtained 
+from open burning of rice husk and burning rice 
+husk below the temperature of 5000C. Under 
+uncontrolled conditions, the RHA from bio-mass 
+power plants and open burning were not fully 
+burned and contained a high carbon content and 
+high loss of ignition (LOI) (Karatai et al., 2016; Liu 
+et al., 2019a, b). 
+
+
+===== PAGE 3 =====
+
+ 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+3 
+ 
+ 
+Temperature and burning time for the production of RHA 
+References 
+Up to 9000C with burning time of less than 1 hour 
+Yeoh et al., 1979 
+From 500÷6000C 
+Hamad and Khattab, 1981 
+From 550÷7000C 
+Boateng and Skeete, 1990 
+From 6500C and burning time of 1 hour 
+Asavapisit and Ruegrit, 2005 
+From 500÷6000C or at 3500C if the combustion time is 15 hours 
+Bui et al., 2005 
+From 5000C and burning time of about 2 hours 
+Al-Khalaf and Yousif, 1984 
+From 500÷7000C 
+Nair et al., 2008 
+From 550÷7000C and burning time of about 1 hour 
+Ganesan et al., 2008; Madandoust et 
+al., 2011 
+About 6500C and burning time of about 1hour hours 
+Madandoust et al., 2011 
+From 600÷8000C and burning time of 2 hours 
+Kannan and Ganesan, 2014 
+About 5500C and burning in 2 hours 
+Khassaf et al., 2014 
+From 650÷8000C and burning time of about 4 hours 
+Behak, 2017 
+ 
+2.2. Physical properties of RHA 
+Rice husk ash is a porous material with a high 
+amount of honeycomb voids (Adajar et al., 2019; 
+Liu et al., 2019b). In addition, an extra layer with 
+small intragranular voids existed within the RHA 
+structure (Adajar et al., 2019). RHA is also a non-
+plastic material (Yadav et al., 2017). These 
+properties of RHA will result in the high capacity 
+of water absorption of RHA and can affect the 
+water content, plasticity index of the soil-RHA 
+mixture. Some other physical properties of RHA 
+can affect the effectiveness of RHA in soil 
+improvements such as specific density, particle 
+size, and Blaine fineness. Previous investigations 
+(e.g., Rahman, 1987; Ali, 1992; Ali et al., 1992a, b; 
+Basha, 2005; Choobbasti et al., 2010; Anwar 
+Hossain, 2011; Rao et al., 2012; Fattah et al., 2013; 
+Singhai and Singh, 2014; Yoobanpot and 
+Jamsawang, 2014; Rahman et al., 2014; Akinyele 
+et al., 2015; Yadav et al., 2017) showed that the 
+specific density of RHA varied from 1.89 to 2.37 
+g/cm3, which was significantly lower than the 
+specific density of soil, cement, and lime. The 
+specific density of soil mostly ranges from 2.60 to 
+3.00 g/cm3 (ASTM D 854-92-Section IV); that of 
+ordinary Portland cement is about 3.15 g/cm3 
+(ASTM C110-15); and that of lime (CaO) varies 
+from 3.20 to 3.40 g/cm3 (National Lime 
+Association, USA). This means that the soil treated 
+with RHA will have a lower density than the 
+untreated soil. The low specific density of RHA 
+also affects the compaction characteristics, such 
+as maximum dry density (MDD) of soil-RHA 
+mixture.  
+Regarding the particle size of RHA, the 
+amorphous silica in RHA is very reactive, 
+especially when it has a fine grain size 
+(Jongpradist et al., 2018). As reported by Nguyen 
+et al. (2011), the pozzolanic activities decreased 
+as the particle size of RHA increased. Thus, the 
+RHA had to be ground into very fine particles to 
+increase the effectiveness of RHA as a pozzolanic 
+material (Ganesan et al., 2008; Givi et al., 2010). 
+The highest pozzolanic reaction occurred when 
+the amorphous silica in RHA was ground to be 
+about 7000 cm2/g (Antiohos et al., 2014). In the 
+literature of using RHA for soil improvement, 
+previous studies showed that the size particles of 
+RHA used was often less than 425 m (e.g., 
+Subrahmanyam et al., 1981; Rahman, 1987; 
+Alhassan and Mustapha, 2007; Sharma, 2008; 
+Brooks, 2009; Roy, 2014; Aziz et al., 2015). The 
+fineness of RHA particles varied from about 3000 
+cm2/g (Ashango and Patra, 2016) up to 130104 
+cm2/g (Choobbasti et al., 2010). 
+3. Chemical compositions of RHA 
+The chemical compositions of RHA include 
+SiO2, Al2O3, Fe2O3, CaO, MgO, Na2O, and K2O. In 
+which, the silica content is the highest one with 
+more than 70% (Fapohunda et al., 2017). In 
+general, the silica content in RHA obtained from 
+no-controlled burning rice rusk (open heap 
+Table 1. Summary of controlled conditions for the production of RHA with high pozzolanic activity 
+
+
+----- TABLE p3#1 -----
+
+Temperature and burning time for the production of RHA | References
+Up to 9000C with burning time of less than 1 hour | Yeoh et al., 1979
+From 500÷6000C | Hamad and Khattab, 1981
+From 550÷7000C | Boateng and Skeete, 1990
+From 6500C and burning time of 1 hour | Asavapisit and Ruegrit, 2005
+From 500÷6000C or at 3500C if the combustion time is 15 hours | Bui et al., 2005
+From 5000C and burning time of about 2 hours | Al-Khalaf and Yousif, 1984
+From 500÷7000C | Nair et al., 2008
+From 550÷7000C and burning time of about 1 hour | Ganesan et al., 2008; Madandoust et
+al., 2011
+About 6500C and burning time of about 1hour hours | Madandoust et al., 2011
+From 600÷8000C and burning time of 2 hours | Kannan and Ganesan, 2014
+About 5500C and burning in 2 hours | Khassaf et al., 2014
+From 650÷8000C and burning time of about 4 hours | Behak, 2017
+
+===== PAGE 4 =====
+
+4 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+burning, bio-mass power plants) is often lower 
+than that from controlled burning (Nguyen et al., 
+2011; Karatai et al., 2016; Liu et al., 2019). The 
+content of silica will reflect the reactivity of RHA 
+since silica was found to be responsible for the 
+pozzolanic reaction. If the sum of SiO2 + Al2O3 + 
+Fe2O3 in RHA exceeds 70%, RHA is classified as 
+Class F fly ash with high pozzolanic characteristics 
+(ASTM, C618, 2008). In their own study, 
+Fapohunda et al. (2017) reported that the silica 
+content in RHA in various countries was very high 
+and slightly varied from 85 to 95%. For other 
+constituents of RHA, except for MgO and K2O, the 
+content was small and less than 1%. Additionally, 
+the loss of ignition (LOI) in all RHA was less than 
+8%, except for RHA in Nigeria. This indicated that 
+the RHA in those countries were in the same 
+category with Class F fly ash. 
+4. Utilization of RHA in soil improvement 
+4.1. The role of RHA in soil improvement 
+In general, soil improvement includes two 
+forms: modification and stabilization. Soil 
+modification often creates new materials used for 
+building dam or base, sub-base layers in the road, 
+pavement applications. For soil modification, the 
+physical properties of soil, such as plasticity 
+indices, volumetric stability, expansive potential, 
+hydraulic conductivity, and workability, are 
+immediately improved. For soil stabilization, a 
+significant increase in long-term strength and 
+durability are obtained (Behak, 2017). 
+Soil stabilization using RHA in terms of 
+strength can be explained based on the pozzolanic 
+reactions. The pozzolanic reactions are formed 
+between silicate oxide (SiO2) in RHA and calcium 
+hydroxide (Ca(OH)2) in soil mixtures. Thus, 
+chemical binders, such as lime and cement, which 
+can react with water in the soil to form Ca(OH)2 
+should be used together with RHA to increase the 
+efficiency of RHA in soil improvement. For the 
+mixture of RHA and lime, in the presence of water, 
+the dissolve of CaO will occur and releases calcium 
+ions (Ca2+). The amorphous silica in RHA reacts 
+with cations Ca2+ to form the cementitious 
+product of calcium silicate hydrate (CSH). In the 
+case of a mixture of ordinary Portland cement 
+(OPC) and RHA, the amorphous silica in RHA 
+reacts with the extra lime in the cement, which 
+can be as high as 60%. The pozzolanic reaction to 
+form CSH gel can be illustrated as follows 
+(Boateng and Skeete, 1990): 
+Ca(OH)2 + SiO2 = CSHI + CSHII 
+where: 
+CSHI = CaO0.8-1.5 SiO2. (H2O)1.0-2.5 
+CSHII = CaO1.5-2.0 SiO2. 2(H2O)  
+These products from the pozzolanic reactions 
+in the form of gel will cover and bond the soil 
+particles, which lead to an increase in the strength 
+and durability of soil mixtures. The gels slowly 
+crystallize, 
+which 
+also 
+results 
+in 
+further 
+enhancement in soil strength. The formation of 
+CSH gel from the pozzolanic reaction was 
+confirmed by the SEM (Scanning Electron 
+Microscope) images, which were reported by 
+Yoobanpot and Jamsawang (2014). In additional 
+to increasing the strength and durability, the CSH 
+gel can also decrease the swelling potential of 
+expansive soil and the permeability. The 
+pozzolanic reaction will occur quickly in a few 
+hours after the addition of water to the mixture 
+and can continue for a long time as long as having 
+enough lime, silica, water, and a high pH (Little, 
+1999).  
+The soil modification in terms of physical 
+properties such as water content, plasticity index 
+can be explained based on the structure and non-
+plastic characteristics of RHA. The honeycomb 
+voids and extra layers in the RHA structure will 
+result in the high capability of water absorption of 
+RHA (Adajar et al., 2019). This capability will 
+decrease the water content of stabilized soil when 
+RHA is mixed with soil. Besides, the hydration 
+process may cause a decrease in water content 
+(Yoobanpot and Jamsawang, 2014). The non-
+plastic property and water absorption of RHA can 
+lead to a decrease in the plasticity index of the soil 
+mixtures.  
+Regarding the compaction characteristics, 
+the high water absorption capability of RHA will 
+lead to an increase in the optimum moisture 
+content (OMC) of the soil mixtures. By contrast, 
+the maximum dry density (MDD) of the stabilized 
+soil will be decreased as the RHA content 
+increases due to the lightweight of RHA compared 
+to soil, lime, and cement.  
+In general, the increase of RHA content will 
+improve the geotechnical properties of improved 
+soil. However, there was a threshold of RHA 
+
+
+===== PAGE 5 =====
+
+ 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+5 
+content where the geotechnical properties, 
+especially the strength parameters (e.g., UCS, CBR, 
+and shear strength), were optimized. It means 
+that the strength parameters decrease as the RHA 
+content exceeds the threshold value. Since the 
+RHA is a non-plastic material, the further increase 
+of RHA can reducethe cohesion among particles. 
+Besides, when the RHA is higher than the 
+threshold value, there is not enough water for the 
+pozzolanic reaction. This behavior is similar to the 
+one of adding granulated blast furnace slag 
+(GBFS) and ground granulated blast furnace slag 
+(GGBFS) to the soil mixture (Sekhar et al., 2017; 
+Sharma and Sivapullaiah, 2016). 
+4.2. Using RHA without chemical binders 
+Although RHA has a little cementitious 
+property, it can be used for soil modification. 
+Alhassan (2008a) used RHA to stabilize the 
+lateritic soil (A-7-6). The research reported that 
+RHA mixing with lateritic soil (A-7-6) could lead 
+to a reduction in the MDD, an increase in the OMC, 
+and a slight rise in unconfined compressive 
+strength (UCS) and California Bearing Ratio (CBR) 
+with increasing RHA content. The optimum RHA 
+content is varied from 6 to 8%. However, the 
+research also indicated that using 6÷8% of RHA 
+has a little potential for strength improvement of 
+A-7-6 lateritic soil. Based on the mixture of RHA 
+and lateritic soil (A-7-6), Alhassan (2008b) also 
+showed that the permeability of the mixture 
+decreased as the increase of RHA content up to 
+6% and beyond this point, the permeability 
+slightly rose. For the sub-grade layer, Okafor and 
+Okonkwo (2009) used RHA to stabilize lateritic 
+soil (A-2-6). The research results showed that the 
+increase in RHA content increased the OMC but 
+decreased the MDD. In addition, the increase in 
+RHA content led to decrease plasticity index, 
+increase volume stability, and strength property 
+(CBR). The optimum content of RHA was found to 
+be 10% for lateritic soil A-2-6. For lateritic soil A-
+7-6 in Bangladesh, Sarkar et al. (2012) showed 
+that the increase of RHA content decreased the 
+plasticity 
+index, 
+swelling 
+index, 
+MDD, 
+compression index (Cc), and increased shear 
+strength (especially frictional angle) and UCS. The 
+study also found that 10% RHA was the optimum 
+content for the increase of UCS and shear strength 
+of lateritic soil A-7-6. For lateritic clay in Nigeria, 
+Akinyele et al. (2015) confirmed that RHA can be 
+used as a good stabilizing agent for subgrade in 
+road construction, for backfill in retaining wall. 
+However, the RHA content used should not be 
+higher than 10%.  
+Besides lateritic soil, RHA was also used to 
+stabilize residual soil (silty sand). The research 
+results of Fattah et al. (2013) showed that the 
+plasticity index of residual soil decreased up to 
+80% with the addition of 9% RHA, the MDD 
+decreased with RHA content up to 9%. There was 
+a significant increase in the UCS of residual soil 
+with increasing RHA content to 6÷8%. For 
+residual soil (weathering from granitic rock) in 
+Malaysia, the addition of RHA from 0 to 20% also 
+decreased the plasticity index, the MDD value, 
+permeability, and increased shear strength 
+parameters (Rahman et al., 2014).  
+The RHA was also found to be effective for the 
+improvement of expansive clay. Aziz et al. (2015) 
+used the RHA content from 0÷20 to improve 
+expansive clay in Pakistan. The research results 
+showed a significant reduction in the swell 
+potential of soil with the addition of RHA. This is 
+beneficial for problems related to pavements and 
+the foundation on such soils. Furthermore, there 
+was a notable increase in friction angle from the 
+direct shear test with increasing RHA up to 16%. 
+Recently, Adajar et al. (2019) showed that the 
+mixtures of expansive soil and 20÷25% RHA were 
+considered non-expansive soil. The research also 
+presented that the plasticity index of expansive 
+soil decreased as the increase of RHA content. 
+However, a decrease was found in the compaction 
+characteristic and the UCS with increasing RHA. 
+This can be attributed to the presence of RHA 
+which restricts the strength development. In 
+addition, the pozzolanic property of RHA may not 
+enough to produce the cementitious compounds 
+which bind the soil grains. The research result of 
+Ayite et al. (2020) showed that the RHA added to 
+the Togo clay significantly reduced the plasticity 
+index, swelling potential, and increased the soil 
+CBR index. The research also suggested that the 
+mixture of soil with 15% of RHA can be used as a 
+sub-base course.  In general, the RHA without 
+chemical binders was often used to improve 
+lateritic soil, residual soil for the base and sub-
+grade layers, pavement, and backfill in retaining 
+wall.
+
+
+===== PAGE 6 =====
+
+6 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+The main purposes of this usage are to reduce 
+the plasticity index, and swelling potential of 
+expansive clay. The RHA only has a little potential 
+for the enhancement of the soil strength or even 
+reduces the soil strength.  
+4.3. Using RHA with chemical binders 
+As mentioned above, the RHA has little 
+potential for increasing the soil strength. Since it 
+has a low cementitious property, it is often used 
+together with chemical binders such as lime 
+and/or cement to improve soil, especially in the 
+view of soil strength. Previous studies showed 
+that the addition of RHA, lime, and/or cement to 
+the soil can decrease plasticity index, MDD, 
+permeability, and increase OMC, UCS, CBR, and 
+shear strength of the soil mixture. Figures 1,2 
+show the increase of some strength parameters 
+with the addition or the replacement of cement by 
+RHA (Sharma et al., 2008; Yoobanpot and 
+Jamsawang, 2014). The strength parameters 
+(UCS, CBR, and shear strength) also increased as 
+the curing time increased. However, there was a 
+threshold content of RHA to optimize the 
+geotechnical properties of improved soil. 
+Table 2 shows the optimum content of RHA 
+was often used in combination with lime or 
+cement in soil stabilization which was collected 
+from previous studies. It can be seen that the RHA-
+lime and RHA-cement mixtures have been widely 
+used to improve different types of soil. 
+Particularly, the mixture of RHA-lime showed a 
+great potential for the stabilization of expansive 
+soil. In some cases, the RHA can be used together
+Figure 1. Effect of RHA in combination with lime on UCS and CBR (after Sharma et al., 2008) 
+Figure 2. Effect of RHA replacement Portland cement on UCS and E50 of soil-cement admixture (after 
+Yoobanpot and Jamsawang, 2014) 
+
+
+===== PAGE 7 =====
+
+ 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+7 
+ 
+ 
+ 
+Types of soil 
+RHA (%) 
+Lime (%) 
+Cement (%) 
+Reference 
+CH soil 
+5 
+5 
+- 
+Subrahmanyam et al., 1981 
+Lateritic soil 
+12 
+- 
+9 
+Rahman, 1987 
+Residual soil 
+6 
+- 
+9 
+Ali et al., 1992a 
+6 
+9 
+- 
+Residual soil 
+15÷20 
+- 
+6÷8 
+Basha et al., 2005 
+Lateritic soil 
+4 
+- 
+2÷8 
+Alhassan, 2007 
+Expansive soil 
+16 
+2÷5 
+- 
+Sharma, 2008 
+Expansive soil 
+16 
+- 
+- 
+Brooks, 2009 
+Silty clay 
+5 
+4 
+- 
+Choobbasti et al., 2010 
+Clayey soil 
+15 
+- 
+5* 
+Anwar Hossain, 2011 
+Expansive soil 
+20 
+5 
+- 
+Rao et al., 2012 
+Silty sand 
+3.125 
+6.25 
+3.125 
+Bagheri et al., 2014 
+CH soil 
+10 
+- 
+6 
+Roy, 2014 
+High 
+plasticity 
+clay 
+(deep mixing method) 
+30% cement 
+- 
+200kg/m3 
+Yoobanpot and Jamsawang, 2014 
+Residual soil 
+8 
+- 
+10÷15 
+Khan et al., 2016 
+CH clay (deep mixing 
+method) 
+Up to 35% 
+- 
+10÷55 
+Jonpradist et al., 2018 
+Expansive soil 
+12 
+3 
+- 
+Liu et al., 2019b 
+Bangkok clay 
+10 
+4÷12 
+- 
+Thai and Eisazadeh, 2019 
+Note: * Cement Kiln Dust (CKD) 
+ 
+with both cement and lime to enhance the 
+strength of soil (Bagheri et al., 2014). The 
+optimum content of RHA used for soil 
+improvement depends on the types of soil, since 
+RHA reacts differently with different soil types 
+because 
+of 
+their 
+variations 
+in 
+chemical 
+compositions. From the view of engineering 
+purposes, the optimum RHA content often varies 
+from about 3 to 20% with lime content of 2 to 9%, 
+cement content of 2 to15% by dry weight of soil 
+(Table 2). Except for the case of cement deep 
+mixing method to create high-strength cement-
+admixed clay, the RHA and cement contents could 
+be up to 35% and 55% respectively (Jongpradist 
+et al., 2018). Regarding the engineering purposes, 
+the utilization of RHA with lime and/or cement 
+were mainly to improve the strength of local soils 
+for building road (base and sub-base materials) 
+and houses in local areas or to reduce the swelling 
+potential of expansive soil. However, the research 
+on the utilization of RHA in ground improvement 
+by deep mixing method using cement for 
+purposes of building foundation and reducing 
+settlement of ground is still limited. It is, therefore, 
+recommended for further research. 
+4.4. Using RHA with other materials 
+Besides cement and lime, RHA was also used 
+together with other waste materials such as fly 
+ash, pond ash, steel slag, coir fibre, and calcium 
+carbide residue for soil improvement (Brooks, 
+2009; Singhai and Singh, 2014; Seco et al., 2011; 
+Ashango and Patra, 2016; Gupta and Kumar, 
+2017; Abarajithan et al., 2017; Yadav et al., 2017; 
+Liu et al., 2019a). As shown by Brooks (2009), the 
+use of a mixture of RHA and fly ash was good for 
+the preparation of the sub-base material for 
+highway projects. Based on the research results, 
+the RHA of 12% and fly ash of 25% were 
+suggested to improve expansive subgrade soil. 
+The combination of 20% RHA and 15÷20% 
+fly ash could significantly improve some 
+geotechnical properties of soil, such as plasticity 
+index, swell potential, specific gravity (Singhai 
+and Singh, 2014). Recently, Liu et al. (2019a)
+Table 2. The optimum content of RHA used in combination with lime, cement for soil stabilization in 
+term of soil strength 
+
+
+----- TABLE p7#1 -----
+
+Types of soil | RHA (%) | Lime (%) | Cement (%) | Reference
+CH soil | 5 | 5 | - | Subrahmanyam et al., 1981
+Lateritic soil | 12 | - | 9 | Rahman, 1987
+Residual soil | 6 | - | 9 | Ali et al., 1992a
+ | 6 | 9 | - | 
+Residual soil | 15÷20 | - | 6÷8 | Basha et al., 2005
+Lateritic soil | 4 | - | 2÷8 | Alhassan, 2007
+Expansive soil | 16 | 2÷5 | - | Sharma, 2008
+Expansive soil | 16 | - | - | Brooks, 2009
+Silty clay | 5 | 4 | - | Choobbasti et al., 2010
+Clayey soil | 15 | - | 5* | Anwar Hossain, 2011
+Expansive soil | 20 | 5 | - | Rao et al., 2012
+Silty sand | 3.125 | 6.25 | 3.125 | Bagheri et al., 2014
+CH soil | 10 | - | 6 | Roy, 2014
+High plasticity clay
+(deep mixing method) | 30% cement | - | 200kg/m3 | Yoobanpot and Jamsawang, 2014
+Residual soil | 8 | - | 10÷15 | Khan et al., 2016
+CH clay (deep mixing
+method) | Up to 35% | - | 10÷55 | Jonpradist et al., 2018
+Expansive soil | 12 | 3 | - | Liu et al., 2019b
+Bangkok clay | 10 | 4÷12 | - | Thai and Eisazadeh, 2019
+Note: * Cement Kiln Dust (CKD) |  |  |  | 
+
+===== PAGE 8 =====
+
+8 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+used the combination of RHA and calcium carbide 
+residue (CCR) to improve the expansive soil. With 
+the addition of RHA and CCR, the swelling 
+potential, swelling pressure, crack quantity, and 
+fineness of expansive soil significantly decreased, 
+whereas, the UCS and shear strength remarkably 
+improved. In general, the combination of RHA 
+with these waste materials can also improve the 
+geotechnical properties of soil, especially the 
+combination of RHA with fly ash and pond ash. 
+However, these combinations are less popular 
+than the combination of RHA with lime and 
+cement for soil improvement.  
+5. Conclusions 
+From the literature review, there are some 
+man conclusions as follows: 
+The amorphous silica in RHA depended on 
+both burning temperature and burning duration. 
+The optimum conditions for the production of 
+RHA are burning rice husk in incinerator under a 
+controlled temperature of about 5000C-8000C and 
+burning time of about 1÷4 hours. 
+The utilization of RHA is available to reduce 
+the negative impacts on the environment and the 
+construction cost as well, especially in rural areas. 
+For soil improvement, RHA can be considered as 
+a good stabilizing agent to improve the 
+geotechnical properties of soil such as plasticity 
+index, permeability, swelling pressure, swelling 
+potential, and strength parameters (UCS, CBR, 
+tensile 
+strength, 
+compression, 
+and 
+shear 
+strength). To increase the effectiveness of RHA in 
+soil improvement, RHA was often combined with 
+chemical binders such as lime and cement. 
+Besides, RHA was also used together with other 
+waste materials such as fly ash, steel slag, 
+sugarcane ash, and calcium carbide residue, etc. 
+for soil improvement.  
+The combination of RHA, lime and cement 
+has been widely investigated to improve different 
+types of soil. From the view of engineering 
+purposes, the RHA from about 3 to 20% was often 
+suggested in combination with lime of 2 to 9% 
+and/or cement of 2÷15% to stabilize soil for the 
+base and sub-base layers in roads, pavement 
+applications, and building houses in rural areas.  
+There are some recommendations for further 
+research: 
+The utilization of RHA as an additive or as 
+cement replacement in soft ground improvement 
+using deep mixing methodhas great potential and 
+it needs to be further investigated. 
+The use of RHA in engineering practice is still 
+limited. Moreover, most of the research on the 
+utilization of RHA was carried out in the 
+laboratory. Therefore, the experimental field 
+study regarding the utilization of RHA for soil 
+improvement needs to be conducted.  
+Acknowledgments 
+This research was supported by Hanoi 
+University of Mining and Geology (HUMG) under 
+the project T19-35. I would like to thank my 
+colleagues at the Department of Engineering 
+Geology, HUMG for their suggestions in the 
+implementation of the project. 
+References 
+Abarajithan, G., Rishab Kumar, P., Srikanth, R. 
+(2017). Feasibility of soil stabilization using 
+rice husk ash and coir fibre. Int. J. of Eng. 
+Research & Technology 6(4). 552-556. 
+Adajar, M. N. Q., Aquino, C. J. P., Dela Cruz II, J. D., 
+Martin, C. P. H. and Urieta, D. K. G. (2019). 
+Investigating the effectiveness of rice husk ash 
+as stabilizing agent of expansive soil. 
+International Journal of GEOMATE 16. 33-40. 
+Akinyele, J.O., Salim, R.W., Oikelome, K.O. and 
+Olateju, O.T. (2015) The use of rice husk ash as 
+a stabilizing agent in lateritic clay soil. Int. J. of 
+Civil, Environmental, Structural, Const. and 
+Architectural Engineering 9. 1373-1377. 
+Alhassan, M. (2008a). Potentials of rice husk ash 
+for soil stabilization. Assumption University 
+Journal of Technology 11(4). 246-250. 
+Alhassan, M. (2008b). Permeability of lateritic soil 
+treated with lime and rice husk ash. 
+Assumption University Journal of Technology 
+(AU J.T) 12(2). 115-120. 
+Alhassan, M., Mustapha, A.M. (2007). Effect of rice 
+husk ash on cement stabilized laterite. 
+Leonardo Electronic Journal of Practices and 
+Technologies 11. 47-58. 
+Ali, F. H, Adana, A., Choy, C. K. (1992b). Use of rice 
+husk ash to enhance lime treatment of soil. 
+Can. Geotech. J. 29. 843-852 
+
+
+===== PAGE 9 =====
+
+ 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+9 
+Ali, F.H. (1992). Stabilization of a residual soil. 
+Soils and Foundations 32. 178-185. 
+Ali, F.H., Adnan, A., Choy, C.K. (1992a). 
+Geotechnical properties of a chemically 
+stabilized soil from Malaysia with rice husk ash 
+as an additive. Geotechnical & Geological 
+Engineering 10. 117-134. 
+Al-Khalaf, M.N., Yousif, H.A. (1984). Use of rice 
+husk ash in concrete. Int. J. Cement Composites 
+and Lightweight Concrete 6. 
+Antiohos, S.K., Papadakis, V.G., Tsimas, S. (2014). 
+Rice husk ash (RHA) effectiveness in cement 
+and concrete as a function of reactive silica and 
+fineness. Cement and Concrete Research 61. 20-
+27. 
+Anwar Hossain, K.M. (2011). Stabilized soils 
+incorporating combinations of rice husk ash 
+and cement kiln dust. Journal of Materials in 
+Civil Engineering 23. 1320-1327. 
+Ashango, A.A., Patra, N.R. (2016). Behavior of 
+expansive soil treated with steel slag, rice husk 
+ash, and lime. Journal of Materials in Civil 
+Engineering 28. 
+ASTM D 854-92. Section IV - Specific gravity of 
+solids determination.  
+ASTM, C110-15. Test Methods for Physical 
+Testing of Quicklime, Hydrated Lime, and 
+Limestone. 
+ASTM, C618, 2008. Standard specification for coal 
+fly ash and raw or calcined natural pozzolan 
+for use in concrete. American Society of 
+Testing and Materials. West Conshohocken 
+Pennsylvania, USA. 
+Ayite, Y. M. X. D., P’Kla, A., Pachoukova, I. (2020). 
+Improvement of Zogbedji (Togo) clay soil 
+characteristics by adding rice husks ashes 
+(RHA). Journal of Scientific and Engineering 
+Research 7(1). 21-26 
+Aziz, M., Saleem, M., Irfan, M. (2015). Engineering 
+behavior of expansive soils treated with rice 
+husk ash. Geomechanics and Engineering 8, 
+173-186. 
+Bagheri, Y., Ahmad, F., Ismail, M.A.M. (2014). 
+Strength and mechanical behavior of soil-
+cement-lime-rice husk ash (soil-CLR) mixture. 
+Materials and Structures 47. 55-66. 
+Basha, E.A., Hashim, R., Mahmud, H.B., Muntohar, 
+A.S. (2005). Stabilization of residual soil with 
+rice husk ash and cement. Const.n and Build. 
+Materials 19. 448-453. 
+Behak, L., 2017. Soil Stabilization with Rice Husk 
+Ash. Chapter 3 in Rice-Technology and 
+Production. 
+Boateng, A.A., Skeete, D.A. (1990). Incineration of 
+rice hull for use as a cementitious material: The 
+Guyana experience. Cement and Concrete 
+Research 20, 795-802. 
+Brooks, R.M. (2009). Soil stabilization with fly ash 
+and rice husk ash. Int. Journal of Research and 
+Reviews in Applied Sciences 1. 209-217. 
+Bui, D.D., Hu, J., Stroeven, P. (2005). Particle size 
+effect on the strength of rice husk ash blended 
+gap-graded Portland cement concrete. Cement 
+and Concrete Composites 27. 357-366. 
+Choobbasti, A.J., Ghodrat, H., Vahdatirad, M.J., 
+Firouzian, S., Barari, A., Torabi, M., Bagherian, 
+A. (2010). Influence of using rice husk ash in 
+soil stabilization method with lime. Front. 
+Earth Sci. China 4. 471-480.  
+Cordeiro, G.C., Toledo Filho, R.D., Fairbairn, E. de 
+M.R. (2009). Use of ultrafine rice husk ash with 
+high-carbon content as pozzolan in high 
+performance 
+concrete. 
+Materials 
+and 
+structures 42. 983-992. 
+Fapohunda, C., Akinbile, B., Shittu, A. (2017). 
+Structure and properties of mortar and 
+concrete with rice husk ash as partial 
+replacement of ordinary Portland cement-A 
+review. International Journal of Sustainable 
+Built Environment 6. 675-692. 
+Fattah, M.Y., Rahil, F.H., Al-Soudany, K.Y. (2013). 
+Improvement of clayey soil characteristics 
+using rice husk ash. Journal of Civil Engineering 
+and Urbanism 3. 12-18. 
+Ganesan, K., Rajagopal, K., Thangavel, K. 
+(2008). Rice husk ash blended cement: 
+assessment of optimal level of replacement for 
+strength and  permeability properties of 
+concrete. Const. and Build. Materials 22. 1675-
+1683. 
+Givi, A.N., Rashid, S.A., Aziz, F.N.A., Salleh, M.A.M. 
+(2010). Assessment of the effects of rice husk 
+ash particle size on strength, water
+
+
+===== PAGE 10 =====
+
+10 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+permeability and workability of binary 
+blended concrete. Construction and Building 
+Materials 24. 2145-2150. 
+Gupta, D., Kumar, A. (2017). Stabilized soil 
+incorporating combinations of rice husk ash, 
+pond ash and cement. Geomechanics and 
+Engineering 12. 85-109. 
+Hamad, M.A., Khattab, I.A. (1981). Effect of the 
+combustion process on the structure of rice 
+hull silica. Thermochimica Acta 48. 343-349. 
+Houston, D. F. (1972). Rice hulls. In: Rice-
+Chemistry 
+and 
+Technology. 
+American 
+Association of Cereal Chemists, St. Paul, MN. 
+301-340. 
+Jongpradist, P., Homtragoon, W., Sukkarak, R., 
+Kongkitkul, 
+W., 
+Jamsawang, 
+P. 
+(2018). 
+Efficiency of rice husk ash as cementitious 
+material in high-strength cement-admixed 
+clay. Advances in Civil Engineering. 
+Kannan, V., Ganesan, K. (2014). Chloride and 
+chemical 
+resistance 
+of 
+self-compacting 
+concrete containing rice husk ash and 
+metakaolin. 
+Construction 
+and 
+Building 
+Materials 51. 225-234. 
+Karatai, T.R., Kaluli, J.W., Kabubo, C., Thiong’o, G. 
+(2016) Soil stabilization using rice husk ash 
+and natural lime as an alternative to cutting 
+and filling in road construction. Journal of 
+Construction Engineering and Management 
+143. 
+Khan, M. M. H., Loh, E., Singini, P. T., (2016). 
+Stabilization of tropical residual soil using rice 
+husk ash and cement. International Journal of 
+Applied Environmental Science 11(1). 73-87. 
+Khassaf, S.I., Jasim, A.T., Mahdi, F.K. (2014). 
+Investigation the properties of concrete 
+containing rice husk ash to reduction the 
+seepage in canals. International Journal of 
+Scientific & Technology Research 3. 348-354. 
+Little, D.N. (1999). Evaluation of Structural 
+Properties of Lime Stabilized Soils and 
+Aggregates .Volume 1, 1-77 
+Liu, Y., Chang, C.-W., Namdar, A., She, Y., Lin, C.-H., 
+Yuan, X., Yang, Q. (2019a). Stabilization of 
+expansive soil using cementing material from 
+rice husk ash and calcium carbide residue. 
+Const. and Build. Materials 221. 1-11. 
+Liu, Y., Su, Y., Namdar, A., Zhou, G., She, Y., Yang, Q. 
+(2019b). Utilization of cementitious material 
+from residual rice husk ash and lime in 
+stabilization of expansive soil. Advances in Civil 
+Engineering. 
+Madandoust, R., Ranjbar, M.M., Moghadam, H.A., 
+Mousavi, S.Y. (2011). Mechanical properties 
+and durability assessment of rice husk ash 
+concrete. Biosystems Engineering 110. 144-
+152. 
+Nair, D.G., Fraaij, A., Klaassen, A.A., Kentgens, A.P. 
+(2008). A structural investigation relating to 
+the pozzolanic activity of rice husk ashes. 
+Cement and Concrete Research 38, 861-869. 
+National Lime Association, USA. Properties of 
+typical commercial lime products. 
+Nguyen Thi Nu, Bui Truong Son, (2020). 
+Utilisation of ground granulated blast furnace 
+slag (GGBFS) for soft soil improvement by 
+deep mixing method (Vietnamese). Journal of 
+Mining and Earth Sciences 61 (1). 92-100 
+Nguyen, V. T., Ye, G., Van Breugel, K., Fraaij, A.L., 
+Dai Bui, D. (2011). The study of using rice husk 
+ash to produce ultra-high performance 
+concrete. Cons. and Build. Materials 25. 2030-
+2035. 
+Okafor, F.O., Okonkwo, U.N. (2009). Effects of rice 
+husk ash on some geotechnical properties of 
+lateritic soil. Nigerian J. of Technology 28, 46-
+52. 
+Phai, H., Eisazadeh, A. (2019). Compaction 
+properties of rice husk ash-lime-Bangkok clay 
+mixtures. Advanced Materials Research IX-Key 
+Engineering Materials 803. 331-337 
+Pham, V. P., Tran, V. T. (2020). Rice husk ash burnt 
+in simple conditions for soil stabilization. 
+Lecture Notes in Civil Engineering. 717-722. 
+Rahman, M.A. (1987). Effects of cement-rice husk 
+ash mixtures on geotechnical properties of 
+lateritic soils. Soils and Foundations 27. 61-65. 
+Rahman, Z.A., Ashari, H.H., Sahibin, A.R., Tukimat, 
+L., Razi, I.W.M. (2014). Effect of rice husk ash 
+addition on geotechnical characteristics of 
+treated 
+residual 
+soil. 
+American-Eurasian 
+Journal of Agricultural & Environmental 
+Sciences 14. 1368-1377. 
+
+
+===== PAGE 11 =====
+
+ 
+Duong Thanh Nguyen and et al./Journal of Mining and Earth Sciences 61 (3), 1 - 11 
+11 
+Rao, D.K., Rao, G., Pranav, P.R.T. (2012). A 
+laboratory study on the effect of rice husk ash 
+& lime on the properties of marine clay. Int J 
+Eng Innov Technol 2. 345-53. 
+Roy, A. (2014). Soil stabilization using rice husk 
+ash and cement. Int. J. Civil Engineering 
+Research 5. 49-54. 
+Sarkar, 
+G., 
+Islam, 
+M.R., 
+Alamgir, 
+M., 
+Rokonuzzaman, M. (2012). Interpretation of 
+rice husk ash on geotechnical properties of 
+cohesive soil. Global J. Research in Engineering 
+12. 
+Seco, A., Ramírez, F., Miqueleiz, L., García, B. 
+(2011). Stabilization of expansive soils for use 
+in construction. Applied Clay Science 51(3). 
+348-352. 
+Sekhar, D. C., Nayak, S., Preetham, H. K. (2017). 
+Influence of granulated blast furnace slag and 
+cement on the strength properties of 
+lithomargic clay. Indian Geotech. J.  
+Sharma, A. K., Sivapullaiah. (2016). Ground 
+granulated blast furnace slag amended fly ash 
+as an expansive soil stabilizer. Soils and 
+Foundations 56(2), 205-212. 
+Sharma, R.S., Phanikumar, B.R., Rao, B.V. (2008). 
+Engineering behavior of a remolded expansive 
+clay blended with lime, calcium chloride, and 
+rice-husk ash. Journal of Materials in Civil 
+Engineering 20. 509-515. 
+Singhai, A.K., Singh, S.S. (2014). Laboratory study 
+on soil stabilization using fly ash and rice husk 
+ash. Int. J. of Research in Engineering and 
+Technology. 2319-1163. 
+Subrahmanyam, M.S., Cheran, L.L., Cheran, L.S. 
+(1981). Use of rice husk ash for soil 
+stabilization. Geol. Soc. Malaysia. Bulletin 14. 
+143-151. 
+Yadav, A.K., Gaurav, K., Kishor, R., Suman, S.K. 
+(2017). Stabilization of alluvial soil for 
+subgrade using rice husk ash, sugarcane 
+bagasse ash and cow dung ash for rural roads. 
+International Journal of Pavement Research 
+and Technology 10. 254-261. 
+Yeoh, A.K., Bidin, R., Chong, C.N., Tay, C.Y. (1979). 
+The relationship between temperature and 
+duration of burning of rice-husk in the 
+development of amorphous rice-husk ash 
+silica. In: Proceedings of UNIDO/ESCAP/RCTT. 
+Yoobanpot, N., Jamsawang, P. (2014). Effect of 
+cement replacement by rice husk ash on soft 
+soil stabilization. Kasetsart Journal-Natural 
+Science 48. 323-332. 
+Yulianto, F.E., Mochtar, N.E. (2010). Mixing of rice 
+husk ash (RHA) and lime for peat soil 
+stabilization. In: Proceedings of the First 
+Makassar International Conference on Civil 
+Engineering. 
+ 

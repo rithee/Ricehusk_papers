@@ -1,0 +1,737 @@
+
+===== PAGE 1 =====
+
+A study of some relevant properties of concrete 
+incorporating waste ceramic powder as a cement 
+replacement agent
+This is the Published version of the following publication
+Li, Le, Joseph, Paul, Zhang, Xuelin and Zhang, Lihai (2024) A study of some 
+relevant properties of concrete incorporating waste ceramic powder as a 
+cement replacement agent. Journal of Building Engineering, 87. ISSN 2352-
+7102  
+The publisher’s official version can be found at 
+https://www.sciencedirect.com/science/article/pii/S2352710224006740?via%3Dihub
+Note that access to this version may require subscription.
+Downloaded from VU Research Repository  https://vuir.vu.edu.au/48632/ 
+
+
+===== PAGE 2 =====
+
+Journal of Building Engineering 87 (2024) 109106
+Available online 22 March 2024
+2352-7102/©
+2024
+The
+Authors.
+Published
+by
+Elsevier
+Ltd.
+This
+is
+an
+open
+access
+article
+under
+the
+CC
+BY
+license
+(http://creativecommons.org/licenses/by/4.0/).
+A study of some relevant properties of concrete incorporating 
+waste ceramic powder as a cement replacement agent 
+Le Li a, Paul Joseph a, Xuelin Zhang a, Lihai Zhang b,* 
+a Institute for Sustainable Industries & Liveable Cities (ISILC), Victoria University, VIC, 3011, Australia 
+b Department of Infrastructure Engineering, The University of Melbourne, VIC, 3010, Australia   
+A R T I C L E  I N F O   
+Keywords: 
+Concrete 
+Ceramic waste powder 
+Strength 
+Durability 
+Microstructural analysis 
+A B S T R A C T   
+Cement, the key ingredient in concrete, is responsible for 8% of the world’s CO2 emissions. Thus, 
+reducing the amount of cement used in concrete is highly desirable to lower the total embodied 
+carbon in concrete manufacturing. Furthermore, an increasing amount of ceramic waste powder 
+(CWP) is generated during the ceramics manufacturing process, which can result in severe 
+environmental problems such as soil, air, and groundwater pollution. This paper reports the use of 
+CWP as a cement replacement agent in concrete to reduce environmental pollution in both 
+concrete production and CWP waste management fields. For this purpose, comprehensive labo­
+ratory work was carried out to replace different levels of cement with CWP. It was found that 
+changes in compressive strength and water absorption value are within the acceptable tolerance 
+when 20% CWP replaces cement. In addition, there was an improvement in thermal conductivity, 
+and no significant damage to the mechanical properties of concrete after 30 min of fire exposure 
+when CWP replaced 20% of cement was observed. Therefore, using up to 20% of CWP to replace 
+cement in concrete manufacturing is feasible without compromising the essential properties of 
+the finished products. The microstructural studies of the test specimens further proved that the 
+added CWP was evenly scattered in the concrete matrix.   
+1. Introduction 
+Concrete has been the main material used in building and infrastructure construction for centuries, and it is estimated that the 
+yearly consumption of concrete approaches 30 billion tonnes worldwide. Cement is an essential concrete component, but cement 
+production is responsible for 5% of global carbon dioxide (CO2) emissions, primarily due to the heating of limestone and clay [1]. Liu 
+et al. [2] estimated that there could be an additional 85–105 Ct of CO2 emissions over the next 33 years through cement consumption 
+in concrete manufacturing. Mohamad et al. [3] further indicated that cement production could lead to dust, water, and noise pollution. 
+Therefore, improving the sustainability of concrete and replacing cement with other materials are essential. There are many studies on 
+using recycled materials or industry by-products, such as fly ash, silica fume, limestone, glass, crushed brick powder, and waste tyre 
+rubber [4–7]. Therefore, using these recycled materials can reduce the cost and improve the sustainability of concrete manufacturing 
+with no significant impact on concrete strength and durability. 
+Among recycled materials, there is a new tendency to study the potential use of ceramic waste powder (CWP) as a partial 
+replacement for cement in concrete production. CWP is generated during the cutting and polishing of ceramic products (e.g., ceramic 
+* Corresponding author. 
+E-mail address: lihzhang@unimelb.edu.au (L. Zhang).  
+Contents lists available at ScienceDirect 
+Journal of Building Engineering 
+journal homepage: www.elsevier.com/locate/jobe 
+https://doi.org/10.1016/j.jobe.2024.109106 
+Received 3 January 2024; Received in revised form 12 February 2024; Accepted 18 March 2024   
+
+
+===== PAGE 3 =====
+
+Journal of Building Engineering 87 (2024) 109106
+2
+tiles), and the global generation of such waste exceeds 22 billion tons in 2018 [8]. The waste is mainly disposed into landfills, but such 
+disposal can cause environmental problems such as soil, air, and groundwater pollution [9]. CWP contains a large proportion of silicon 
+dioxide, aluminium oxide, and magnesium oxide, which can degrade plant surfaces (usually leaves), soil microbes, and other tiny 
+organisms and act as a toxic agent on gill-breathing animals [9,10]. Collecting CWP and using it in concrete manufacturing can prevent 
+waste from going into landfills and reduce environmental hazards [11,12]. 
+Using CWP as a concrete cement replacement can eliminate the environmental hazards for concrete production and CWP waste 
+management [11]. However, three major limitations exist in current studies that use CWP as cement replacement in concrete. Firstly, 
+the effect of CWP on concrete’s compression strength is unclear. Kannan et al. [13] replaced 0–40% of cement with CWP in concrete. 
+They found that replacing cement with CWP reduced 28-day compressive strength of concrete. The reductions were 2.7% and 17.3% 
+when CWP replaced 10% and 40% cement. Patel et al. [14] found a 5.8% reduction in compressive strength by replacing cement with 
+10% CWP. The strength reductions have also been reported by Subas¸ı et al. [15], AlArab et al. [16], and Raval et al. [17]. They claimed 
+that adding CWP affected the bonding between cement and aggregate and reduced strength. However, Gautam et al. [18] indicated 
+that compressive strength increased when CWP replaced 10% cement, possibly due to the pozzolanic reaction. The compressive 
+strength was reduced when CWP content was increased further. Parashar et al. [19] also found a 6.9% increase in compressive strength 
+when CWP replaces 10% cement. Bhargav and Kansal [20] supported the above findings by Gautam et al. [18] and Parashar et al. [19]. 
+Thus, there are conflicting results on the impact of CWP on concrete strength, especially at the CWP replacement level of 0–10% 
+[21]. Further tests are needed to clarify the effects of CWP on the compressive strength of concrete. Additionally, the changes in the 
+compressive strength of concrete at different CWP levels may also be affected by the concrete grade and mix design. There should also 
+be a model to predict the changes in the compressive strength of concrete based on its CWP replacement level and grade. However, 
+such a model is lacking. 
+Secondly, water absorption is an essential durability property of concrete. Most studies have focussed on the water absorption 
+changes when CWP was used for concrete aggregate or cement replacement in mortars, such as studies by Kannan et al. [13], Li et al. 
+[22], Mohit and Sharifi [23]. Their results cannot be used to predict the water absorption changes when CWP replaced cement in 
+concrete due to the difference in mix design. Furthermore, some conflicting findings exist among the few studies focusing on concrete’s 
+water absorption when CWP replaces cement. Parashar et al. [19] indicated a decreased water absorption rate when CWP replaced 
+cement due to the concrete’s porosity reduction [13,19]. However, Chen et al. [24] indicated that the water absorption rate decreased 
+when the CWP replacement rate reached 10% and increased when CWP content increased further. Hence, more studies are needed to 
+quantify the changes in water absorption for concrete when CWP replaces cement at different levels. 
+Furthermore, only limited studies quantified the changes in the thermal conductivity and fire performance of concrete when CWP 
+replaces cement at different levels. Thermal conductivity is becoming essential in assessing whether CWP concrete can be used as 
+building materials, as it is related to the energy savings of buildings [25]. Based on studies of concrete containing other recycled 
+pozzolanic powders, such as glass, silica fume, and fly ash, there can be a potential reduction in the concrete’s thermal conductivity 
+due to the void-filling effect of these powders [26–28]. For example, Du et al. [26] found that adding 10% of glass powder to cement 
+paste can decrease its thermal conductivity by 7.3%. Demirbo˘ga [27] indicated that adding 10% silica fume and fly ash into cement 
+reduced its thermal conductivity by 3.3% and 12.5%, respectively. However, no studies quantified the changes in thermal conductivity 
+when concrete was mixed with CWP. 
+Additionally, the behaviour of concrete elements mixed with CWP when exposed to fires needs to be investigated in detail. Kodur 
+and McGrath [29] indicated that pozzolanic powders may affect the bonding between cement and concrete, generating more cracks on 
+concrete during fire exposure and affecting its mechanical properties. However, Yu et al. [30] showed that the filling effect of 
+pozzolanic powders can improve the concrete’s integrity when exposed to a fire and reduce the fire-induced degradation of mechanical 
+properties. Given these conflicting findings, it is prudent to estimate the changes in fire performance of concrete containing CWP to 
+estimate if using CWP concrete as a construction material can increase the fire hazard of the building. 
+Finally, only a few studies were reported on the microstructural and elemental composition analyses to investigate whether CWP, 
+cement, and aggregate in concrete can be well bonded. The existing studies mainly use Scanning Electron Microscopic (SEM) technique 
+to compare the microstructures of CWP and cement, such as those by Kannan et al. [13] and Chen et al. [24], or study the morphologies 
+and element composition of mortar with CWP instead of concrete, as reported by Mohit and Sharifi [23] and Li et al. [22]. Hence, 
+further studies are highly desirable to investigate the morphologies and element compositions of concrete specimens containing CWP. 
+Therefore, this paper focuses on the changes in concrete’s compressive strength and water absorption at different levels of CWP 
+replacement of cement. The changes in the workability (slump) of concrete at different CWP replacement levels were also studied. 
+Based on the results obtained, models were developed to predict the changes in concrete strength and workability based on its grade 
+and the CWP content. The thermal conductivity of concrete was also estimated at different CWP replacement levels. In addition, the 
+mass loss and hardness of concrete were measured after fire exposure to determine the fire-induced deterioration in its mechanical 
+properties. In addition, microstructural studies and elemental composition analyses of concrete specimens with CWP were carried out 
+to investigate whether CWP, cement, and aggregate exhibit good bonding behaviour in the finished products. 
+This paper can clarify the impact of CWP on the compressive strength and water absorption of concrete. This paper will also develop 
+the models that predict the changes in compressive strength and water absorption of concrete based on its CWP replacement level and 
+grade, which has not been developed in previous studies. The paper also studies concrete’s thermal and fire behaviour when CWP 
+replaces cement, which has not been studied before. The main outcome of the present work is expected to guide the waste management 
+of CWP and the sustainable design of concrete using CWP for the concrete manufacturers and construction industry. 
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 4 =====
+
+Journal of Building Engineering 87 (2024) 109106
+3
+2. Experimental methods 
+This study used the CWP to replace cement in concrete at 0, 10%, and 20% replacement levels. There are conflicting results on the 
+impact of CWP on concrete strength and water absorption when CWP replaces 10% concrete, as reported by Subas¸ı et al. [15], AlArab 
+et al. [16], Raval et al. [17], Gautam et al. [18] and Parashar et al. [19]. Therefore, a 10% replacement level was selected for this study 
+to solve these conflicting findings and clarify CWP’s impact on concrete. A CWP replacement level of 20% was also chosen to 
+investigate the changes in concrete behaviour when CWP content increased further. These three different CWP replacement levels can 
+also help to develop models that predict the changes in compressive strength and water absorption of concrete [31], as mentioned in 
+the introduction section. 
+The concrete used for the experiment was Grade M40. This grade is commonly used to construct slabs, beams, columns, and footing. 
+The impact of CWP on concrete properties was then investigated using a combination of test and regression analysis, and the details are 
+summarized in Fig. 1. 
+2.1. Materials 
+The CWP was obtained from the final cutting and polishing process of ceramic products from the ceramic tiles manufacturing 
+company in Melbourne, Australia. More than 50% by volume of the CWP particles had a size ranging between 5 and 10 μm. Fig. 2 
+shows the particle size distribution of CWP. Fig. 3 shows the scanning electron microscope (SEM) image of CWP at 500 times 
+magnification. The powder had a similar shape to cement particles. It is expected to be well-bonded with other concrete mix design 
+materials. Gautam et al. [18] have similar findings. CWP mainly contains silicon dioxide (SiO2) (70%) and aluminium oxide (Al2O3) 
+(18.30%). There are also other oxides, such as potassium oxide (K2O) (3.95%), sodium oxide (Na2O) (2.76%), and ferric oxide (Fe2O3), 
+with the detailed elemental composition shown in Table 1. 
+Type I Portland cement was used in the study. The coarse aggregate (CA) was the natural crushed stone that complies with 
+AS2758.1 [32] with a density of 1002.57 kg/m3, and fine aggregate (FA) was sand that had a fineness modulus of 1.0 and a density of 
+925.45 kg/m3. It had compliance with AS2758.1 [32]. The water-cement ratio of the concrete was kept at 0.40. Potable tap water was 
+utilized to mix all the concrete ingredients and curing applications. Superplasticizer was also added to concrete to increase its 
+workability. 
+Additionally, CWP was used as the cement replacement with mass replacement of 0, 10%, and 20% of Portland cement, respec­
+tively. The mix design of concrete per batch (total weight of 32 kg for each batch) with different CWP contents is shown in Table 2. The 
+preparation for concrete followed AS1012.2 [33]. 
+2.2. Concrete slump test 
+The slump test commenced immediately following the completion of mixing the test specimen. The mould for the slump test has a 
+height of 300 mm. The mould was cleaned, and fresh concrete was filled in approximately three equal layers. Each layer was tamped 
+with 25 strokes of the rounded end of the rod. The excess concrete was removed after filling and tamping, and the surface was cleaned 
+with a trowel. Afterwards, the mould was raised, and the slump value was measured based on the difference between the mould height 
+and the specimens’ height. The details of mould design and test procedures are summarized in AS1012.3.1 [34]. The photographs of 
+the slump tests are shown in Fig. 4. 
+2.3. Concrete compression test 
+The compression test followed AS1012.9 [35]. The specimens were conditioned at a temperature equal to 23 ± 2oC in 
+lime-saturated water until they reached 28 days of curing. Tests were performed on concrete cylinders that were 100 mm in diameter 
+Fig. 1. A schematic representation of the methods to study CWP impact on concrete.  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 5 =====
+
+Journal of Building Engineering 87 (2024) 109106
+4
+Fig. 2. Cumulative particle size distribution for CWP.  
+Fig. 3. SEM picture of CWP.  
+Table 1 
+Elemental composition of CWP based on the material datasheet provided by the manufacturer.  
+Chemical composition (Average) 
+Weight percentage (%) 
+SiO2 
+70.00 
+Al2O3 
+18.30 
+K2O 
+3.95 
+Na2O 
+2.76 
+Fe2O3 
+1.40 
+MgO 
+0.69 
+TiO2 
+0.66 
+CaO 
+0.58  
+Table 2 
+Concrete mix design (32 kg batches).  
+Material 
+Density (kg/m3) 
+Mix 1 (Control), (g) 
+Mix 2 (10% CWP), (g) 
+Mix 3 (20% CWP), (g) 
+Cement 
+416.00 
+5324.00 
+4792.00 
+4259.00 
+CWP 
+0.0000 
+0.00000 
+532.000 
+1065.00 
+Fine Aggregate 
+925.50 
+11844.0 
+11844.0 
+11844.0 
+Coarse Aggregate 
+1002.6 
+12831.0 
+12831.0 
+12831.0 
+Water 
+– 
+2103.00 
+2103.00 
+2103.00 
+Super Plasticizer 
+– 
+27.0000 
+27.0000 
+27.0000  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 6 =====
+
+Journal of Building Engineering 87 (2024) 109106
+5
+and 200 mm in height. Compressive strength for each mixture was obtained from an average of four-cylinder specimens. The load was 
+performed continuously at a rate of 140 kg/cm2 per minute through a Universal Testing Machine (UTM) until failure and maximum 
+load carried by the specimen were recorded. 
+2.4. Cold-water absorption 
+The water absorption test followed AS/NZS4456.14 [36] using cylindrical specimens 100 mm in diameter and 200 mm in height. 
+The water absorption was obtained from an average of four specimens after 28 days of curing for each mixture. This test was carried 
+out in two main steps: step one: the specimens were dried in the oven at 110 ± 8oC until consecutive weights were reached. The weight 
+of the specimens was recorded after they were cooled down at room temperature. In step two, the specimens were entirely immersed in 
+cold potable water at an ambient temperature of 24 h. In this work, a 72-h immersion was also performed for each specimen to estimate 
+its long-term water absorption behaviour. 
+The specimens were then weighted after immersion, and the cold water absorption was determined through the following equation: 
+w = 100(m2 −m1) / m1
+(1)  
+where m1 is the mass of dry specimens, and m2 is the weight of the saturated specimen after cold water immersion. 
+2.5. Thermal conductivity test 
+The thermal properties of concrete at different CWP contents were investigated using a hot disk thermal constant analyzer through 
+the Transient Plane Source (TPS) method. Concrete cylinders with 100 mm in diameter and 200 mm in height were cut into two 
+samples of 10 mm in thickness. The surface of the cut samples was polished, and samples were dried in an oven at 105 ± 5 ◦C for 24 h 
+before the tests. The hot disk sensor was sandwiched between two samples to act as a heat source and a temperature probe. The test 
+setup is shown in Fig. 5, and the testing procedure follows ISO standards (22,007–2) to measure the thermal conductivity [37]. It is 
+worth mentioning that, in this study, no heating was performed by the hot disk sensor to allow the concrete thermal conductivity to 
+measure the room at room temperature (25oC). In this way, the potential of concrete CWP to be used as a building envelope can be 
+estimated. 
+Triplicate measurements were performed for the samples at each CWP replacement level to enhance accuracy, and the mean value 
+was calculated. Apart from thermal conductivity, thermal diffusivity (mm2/s) was also recorded to estimate the thermal performance 
+of the concrete. 
+Fig. 4. Photographs of the slump tests.  
+Fig. 5. Set up for the thermal conductivity tests.  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 7 =====
+
+Journal of Building Engineering 87 (2024) 109106
+6
+2.6. Fire performance 
+Cone calorimeter tests offer a method for assessing and estimating the performance of concrete samples with different levels of CWP 
+during/after fire exposure. The test configuration is shown in Pareek [38], and the setup used for the current study is shown in Fig. 6. 
+The tested samples were 10 mm thick concrete plates cut from the cylinders. Before testing, samples were conditioned to constant mass 
+at 23 ± 2 ◦C and relative humidity equal to 50%, following the requirements of ISO 5660.1 (2015) [39]. The testing procedure follows 
+BS ISO 5660–1:2015 at 50 kW/m2 radiant heat fluxes. The test can also be stopped after 30 min from starting if no signs of heat 
+evolution are seen [39]. Mass loss of concrete during the cone calorimeter test was measured to investigate the water evaporation and 
+internal damage of concrete. 
+The Schmidt rebound hammer test was performed before and after heating on the fire-exposure surface of the concrete to detect the 
+changes in the mechanical properties (rebound hardness) of the concrete. The test was performed by an N-type Schmidt hammer 
+following ASTM C805/C805M −
+18, and impact points were randomly selected on the fire exposure surface [40]. The rebound 
+hardness was determined by calculating the average value after ignoring 3 maximum values and 3 minimum values. 
+2.7. Microstructural studies for concrete 
+The Scanning Electron Microscope (SEM) and Energy Dispersive Spectrometry (EDS) analyses were carried out to evaluate concrete 
+specimens’ microstructures and chemical compositions. Based on the compression and cone calorimeter tests carried out in sections 
+2.4 and 2.6, it was found that concrete achieved the best mechanical strength when the CWP replaced 10% of the cement. Therefore, 
+the SEM and EDS analyses were performed on the Mix 1 and 2 specimens, as shown in Table 1. The specimens with these mixed designs 
+were broken into small pieces to conduct SEM and EDS tests. SEM test was performed using a Hitachi TM4000 II Benchtop equipped 
+with the EDS system. 
+3. Results 
+3.1. Slump tests 
+The slump values of the specimens are shown in Fig. 7. The control mixture achieved a slump value of 105 mm. The slump value 
+decreased by 33.3% and 52.4% when CWP replaced 10% and 20% of cement, respectively. It should be noted that the CWP particles 
+have an irregular and angular shape. CWP also has a higher specific surface area than cement (1.5 times than cement, as reported by 
+Kanaan1a and EL-Dieb [41]). Moreover, CWP can fill the spaces between cement particles. As a result, the friction between particles 
+increases in concrete, and this increment can result in a decrease in slump value. 
+According to AS1379 [42], the tolerance of slump value should be ±30 mm if the slump is specified in construction (e.g., for 
+carriageway and pavement construction). Thus, if concrete at a CWP replacement level of 10%–20% is used for carriageway and 
+pavement construction, increasing the superplasticizer content and adding fly ash to the concrete is crucial. These two strategies can 
+increase concrete slump value and workability by reducing internal friction among concrete particles. 
+A summary of the changes in slump value with CWP increment in different studies is shown in Fig. 8. The concrete grades for Patel 
+et al. [14] and Bhargav and Kansal [20] are M25 and M20, respectively, with water-cement ratios of 0.46 and 0.50. It can be seen that 
+the changes in slump values with CWP increment were lower, as reported by Patel et al. [14] and Bhargav and Kansal [20], than in this 
+study. The high water-cement ratio of concrete in Patel et al. [14] and Bhargav and Kansal [20]’s study could be a possible reason, as 
+water can contribute to the workability increment in concrete and offset the negative impact of CWP. Patel et al. [14] also detected an 
+increase in the water-cement ratio when CWP replaced 10% cement. This may be because the aggregate used in Patel et al. [14] has less 
+angularity and larger size, which can also offset the negative impact of CWP on workability. 
+Based on the regression analysis function in Excel, a multiple linear regression has been developed to predict the changes in slump 
+value based on the grade of concrete and its water-cement ratio. The regression is shown in Equation (2): 
+ΔS = 0.08M −3.30 W
+C −0.71CPW + 0.031M × W
+C × CPW
+(2) 
+Fig. 6. Set up for the cone calorimetric tests [38].  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 8 =====
+
+Journal of Building Engineering 87 (2024) 109106
+7
+where ΔS is the changes in compressive strength of concrete (%, positive means strength increasing and negative means strength 
+decreasing), M is the grade of concrete, W
+C is the water-cement ratio, and CPW is the level CWP replacing cement in concrete (%). The 
+prediction achieves a high R Square value (0.68) and low standard error based on Table 3. 
+3.2. Compression test results 
+The compression test results for each concrete mix design are shown in Fig. 9. The compressive strength increased by 8.75% from 
+40.5 MPa to 43.5 MPa when CWP replaced 10% of the cement. The strength increment is due to the pozzolanic reaction, defined as the 
+chemical reaction between reactive silica or alumina present in the CWP particles and portlandite formed during the cement hydration 
+in the presence of water at ambient temperature [43]. The pozzolanic reaction can form additional cementitious compounds (C-S-H) 
+and increase compressive strength. The reaction can also reduce the alkali content and prevent the alkali–silica reaction (ASR) in 
+concrete [44]. Increasing the water in a concrete mixture can contribute to the pozzolanic reaction [45]. The level of reaction can also 
+be increased by increasing the curing temperature and curing time of concrete [46]. These strategies can further improve the strength 
+of concrete when CWP replaces cement (see Fig. 10). 
+Also, CWP contains ferric oxide and titanium dioxide (Fe2O3 and TiO2, shown in Table 1). The existence of Fe2O3 can potentially 
+increase the performance of cement-based material by compacting the cement [47]. TiO₂ can also accelerate the hydration of concrete 
+at early ages due to its nucleation effect and improve its compressive strength [48]. 
+Compressive strength was reduced by 10.3% when CWP replaced 20% of the cement. A further increase in CWP’s content generally 
+weakens bonds between cement and aggregates [49]. Additionally, when high-volume CWP was used, the amount of silica available in 
+the concrete mix was too high, and the amount of calcium hydroxide produced from cement hydration was insufficient to react with 
+the available silica [50]. Therefore, some silica was left without reaction [51]. CWP also contains alkali content (Na2O + K2O) that can 
+Fig. 7. Slump test values of concrete specimens at different CWP replacement ratios of cement.  
+Fig. 8. Changes in the slump value for different concrete mix designs.  
+Table 3 
+Statistical analyses of data relating to the slump tests.  
+Regression Statistics 
+Multiple R 
+0.85 
+R Square 
+0.72 
+Adjusted R Square 
+0.45 
+Standard Error 
+3.11 
+Observations 
+11.0  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 9 =====
+
+Journal of Building Engineering 87 (2024) 109106
+8
+lead to the Alkal-Silica Reaction (ASR) and results in the expansion and cracking of the concrete [52]. The composition of alkali content 
+is low when CWP replaces 10% of cement. However, the alkali content increment can contribute to ASR when the replacement ratio 
+increases.  
+Regression Statistics 
+Multiple R 
+0.82 
+R Square 
+0.67 
+Adjusted R Square 
+0.60 
+Standard Error 
+3.84 
+Observations 
+34.0  
+3.3. Water absorption 
+The changes in water absorption for different concrete mixes are shown in Fig. 11. There was a slight increase in water absorption 
+from 5.9 % to 6.4% for the 24-h immersion test when CWP replaced 10% and 20% of the cement. For the 72-h immersion test, the 
+corresponding water absorption increased from 6.1% to 6.5%. As mentioned earlier, CWP has alkali content (Na2O + K2O) that can 
+lead to the expansion and cracking of the concrete through ASR [49], which also increases its water absorption. However, CWP 
+particles can also fill voids between concrete ingredients and densify concrete’s microstructural. The Fe2O3 content in CWP can also 
+Fig. 9. Compressive strength of concrete specimens at different CWP replacement ratios of cement.  
+Fig. 10. Changes in compressive strength for different concrete mix designs.  
+Fig. 11. Water absorption of concrete specimens at different CWP replacement ratios of cement.  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 10 =====
+
+Journal of Building Engineering 87 (2024) 109106
+9
+compact the cement and densify the concrete microstructure [47]. There was a 5.45% increase in concrete density by replacing 20% of 
+cement with CWP, based on the density measurement following AS 1012.12.1. These void filling and compacting effects can offset the 
+water absorption increment caused by concrete porosity growth. Therefore, the water absorption increase is insignificant (up to 8.3% 
+only) when CWP replaces 0–20% cement. 
+The pozzolanic reaction caused by CWP can also affect the water absorption of concrete. Meddah and Tagnit-Hamou [53] indicated 
+that forming C–S–H can cause concrete microstructure densification, decreasing its porosity and water absorption. L´opez and Castro 
+[54] further show that hydration products from natural pozzolans can reduce concrete pore connectivity and water absorption. 
+However, the reducing effect of the pozzolanic reaction on water absorption is not reflected in Fig. 11. This may be because 28 days of 
+curing is insufficient for the pozzolanic reaction to change the concrete’s porosity, and a longer curing time can be used for 
+manufacturing concrete containing CWP. 
+3.4. Thermal conductivity analysis 
+Fig. 12 shows concrete’s thermal conductivity and diffusivity at different CWP replacement ratios. It can be seen from Fig. 12 that 
+replacing cement with CWP can increase concrete’s thermal insulation by reducing its thermal conductivity and thermal diffusivity. 
+Specifically, there was an 11.2 % reduction in thermal conductivity and a 13.6% reduction in thermal diffusivity when the replacing 
+ratio increased from 0 to 20%. Adding CWP in concrete can increase its SiO2 composition and reduce thermal conductivity. Besides, 
+CWP particles can reduce the size of air voids within the concrete and turn large air voids into a couple of small ones [55]. There are 
+shells of protected cement paste surrounding air voids in concrete. The increasing number of small air voids can increase the shells’ 
+thickness and improve the concrete’s thermal insulation. The growing number of small voids may also increase the total surface area of 
+air voids and prevent the transfer of heat in concrete, leading to an increase in the thermal resistance [26,27,56]. The result indicates 
+that replacing cement with CWP can reduce heat loss from a building if such concrete is used as building fabric. 
+3.5. Fire performance analysis 
+Fig. 13 shows that, for concrete samples with or without CWP, no spalling or observable cracks occurred on their fire exposure 
+surface after the cone calorimeter tests (test duration is 30 min). The formation of spalling and cracks during heating is usually caused 
+by the uneven expansion of cement and aggregate in concrete. The test results indicate that adding CWP to concrete does not 
+contribute to this uneven expansion. 
+The effect of fire exposure on the mass loss and mechanical properties of concrete containing different levels of CWP is shown in 
+Figs. 14 and 15. There are some uncertainties in the first 15 min of fire exposure due to water evaporation. After 30 min, the mass loss 
+for the concrete sample when CWP replaced 10% cement (4.01%) was 15.2% less than when no CWP replaced concrete (4.62%). When 
+CWP replaced 20% cement, this mass loss for the concrete sample (5.33%) became 15.3% higher than when no CWP replaced concrete. 
+Mass loss of concrete exposure to fire occurs due to the evaporation of free water and damage (e.g., spalling, internal cracks, internal 
+voids, and segregation) to concrete samples [57,58]. Fig. 14 thus indicates that replacing 10% cement with CWP may reduce the 
+interior damage in concrete samples after fire exposure. 
+The rebound hardness measurement in Fig. 15 further illustrates that mechanical degradation for concrete when CWP replaced 
+10% cement was less than when CWP replaced 0 and 20% cement. As mentioned, CWP can densify concrete microstructure through 
+pozzolanic reaction and improve its fire performance [55]. Furthermore, CPW particles can intermix with the cement grains and pack 
+into the voids between the fine aggregate particles to prevent crack initiation and propagation. Replacing cement with 20% CWP can 
+affect the bonding between cement and aggregate and degrade concrete performance during the fire. However, at this replacement 
+ratio, Lt/Lo is only 6.2% less than the concrete sample without CWP. The changes in Lt/Lo are within the acceptable range [59]. 
+3.6. Microstructural analysis 
+Fig. 16 shows the microstructure of the concrete specimens when CWP replaces 0 and 10% cement at 5000 times magnification. It 
+can be that there are limited micro cracks formed in both cases, which indicates that the existence of CWP does not significantly affect 
+the bonding between cement and aggregate. The white dots in Fig. 16(b) are the CWP particles, confirmed by the EDS analysis in 
+Fig. 16(c). CWP particles are thoroughly encapsulated and dispersed into the cement, which can be well-bonded with aggregate in 
+concrete due to its smaller size. The SEM images show no apparent cracks when CWP replaces 10% cement. This indicates that the ASR 
+reaction in concrete is not significant at this replacement ratio. However, more microstructural studies are needed to detect the 
+integration between CWP and cement, the changes in concrete porosity, and the level of pozzolanic and ASR reactions. 
+3.7. Flexure strength 
+In this study, the flexure strength was not tested. However, many studies have developed empirical equations to predict flexural 
+strength based on compressive strength, as summarized in Table 4. Bhargav and Kansal [20] and Kumar and Reddy [60] have collected 
+the compressive and flexure strength for concrete when CWP replaces different levels of cement. Their data was input into each 
+equation in Table 4 to check which equations are reliable for concrete containing CWP. R2 value of each equation is summarized. 
+Table 4 shows that Esquinas et al. [61]’ s equation can give a more accurate prediction of flexure strength for concrete containing CWP. 
+The flexure strength for concrete in this paper can thus be predicted using Esquinas et al. [61] and compressive strength in Fig. 9. The 
+prediction outcome is shown in Fig. 17. 
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 11 =====
+
+Journal of Building Engineering 87 (2024) 109106
+10
+4. Discussion and future works 
+From the tests and analysis of results, the following discussion can be drawn:  
+1. The test results indicated that the changes in compressive strength are up to 10.3%, and the water absorption of concrete ranges 
+from 5.9 % to 6.4% for the 24-h immersion test when CWP content increases from 0 to 20%. According to IS456 [59], the 
+acceptable tolerance for compressive strength is ±15%, and the acceptable average water absorption value of the concrete is 
+between 5.5% and 6.5% for typical commercial concrete. Both properties are within the acceptable range required by standards. 
+Therefore, it is feasible for concrete with CWP up to 20% to be commercialized and widely used, especially for lightweight concrete 
+partition wall construction and concrete bricks where the concrete workability requirement is not high. However, more studies are 
+needed to investigate the critical properties of concrete containing CWP to fully understand its feasibility in the construction in­
+dustry, including fire resistance, thermal insulation, acoustic insulation, etc.  
+2. Replacing cement with CWP can reduce the slump of concrete. Thus, increasing the slump and workability of concrete containing 
+CWP is essential, especially if the slump is specified in construction. As mentioned earlier, adding fly ash and superplasticizer to 
+Fig. 12. Thermal performance concrete samples at different CWP replacement ratios of cement.  
+Fig. 13. Fire exposure surface of concrete samples after cone calorimeter tests (Sample at CWP replacement ratio of 20% as representatives).  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 12 =====
+
+Journal of Building Engineering 87 (2024) 109106
+11
+concrete can increase its workability. Reducing the angularity and flakiness of aggregate and increasing the aggregate size are 
+alternative solutions to increase concrete’s workability [68]. Additionally, concrete workability can be improved by adding silica 
+fume, copper slag, blast furnace slag powder, and palm oil fuel ash [69,70]. Further studies are needed to optimum the mix design 
+for concrete containing CWP by considering all the solutions. The aim is to ensure that the workability of concrete can be improved 
+without a significant effect on its strength and durability.  
+3. It is believed that the pozzolanic reaction is the primary reason for the increase in concrete’s compressive strength. The pozzolanic 
+reaction can lead to less reduction in mechanical properties for concrete when CWP replaces 10% cement after fire exposure than 
+concrete without CWP. To further explore the pozzolanic reactions in concrete, X-ray diffraction and thermal infrared spectroscopy 
+analysis should be carried out to investigate the formation of different cementitious compounds in concrete.  
+4. Concrete porosity is the primary factor affecting concrete’s water absorption, durability and thermal conductivity [71,72]. It is 
+worthwhile to quantify the concrete porosity at different levels of CWP content further to understand changes in concrete water 
+absorption and permeability. The quantification of concrete porosity can also help to predict the changes in acoustic insulation and 
+corrosion resistance of concrete containing CWP. The analysis can be performed using SEM and ImageJ software (an image pro­
+cessing program).  
+5. Further work needs to be carried out to understand concrete’s thermal behaviour and fire performance. In this paper, the thermal 
+conductivity of concrete is measured at room temperature. It is essential to measure the changes in thermal conductivity when CWP 
+replaces different percentages of cement at elevated temperatures, as the internal cracks caused by elevated temperatures may 
+affect the thermal conductivity of concrete. Also, further tests need to be carried out to study the fire performance of concrete at 
+various fire exposure times and perform microstructural studies to estimate concrete damage after fire exposure. 
+5. Conclusion 
+In summary, this paper investigated the potential of using CWP as a cement replacement in concrete. The changes in slump, 
+compressive strength, and water absorption of concrete when different CWP levels replace cement were studied. It was found that the 
+slump value decreased by 33.3% and 52.4% when CWP replaced 10% and 20% of the cement, respectively. It has also been found that 
+the compressive strength increased by 8.75% when CWP replaced 10% CWP and decreased by 10.3% when CWP replaced 20% CWP. 
+The concrete’s water absorption increase is relatively nominal (up to 8.3% only) when CWP replaces 0–20% cement. The changes in 
+compressive strength and water absorption value are within the acceptable tolerance. Also, there is an improvement in thermal 
+conductivity and no significant damage to the mechanical properties of concrete after 30 min of fire exposure when CWP replaces 20% 
+Fig. 14. Mass loss of concrete samples at different CWP replacement ratios of cement during cone calorimeter tests.  
+Fig. 15. Rebound hardness reduction (Lt/Lo) of concrete samples at different CWP replacement ratios of cement after cone calorimeter tests (Note: Lt and Lo are the 
+rebound hardness before and after fire exposure). 
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 13 =====
+
+Journal of Building Engineering 87 (2024) 109106
+12
+cement. Therefore, using up to 20% of CWP to replace cement in concrete manufacturing is feasible. The microstructural studies 
+further proved such a feasibility by finding CWP evenly scattered in the concrete. The paper can benefit the CWP waste treatment and 
+concrete manufacturing industry by reducing the amount of CWP waste and increasing the sustainability of concrete production. 
+CRediT authorship contribution statement 
+Le Li: Writing – review & editing, Writing – original draft, Validation, Project administration, Methodology, Investigation, 
+Conceptualization. Paul Joseph: Writing – review & editing, Supervision. Xuelin Zhang: Investigation. Lihai Zhang: Writing – 
+Fig. 16. Microstructural analysis of concrete when CWP replaces 0 and 10% cement.  
+Table 4 
+Relationship between flexural and compressive strength and the accuracy of prediction for concrete with CWP.  
+Authors 
+Equation 
+R2 in flexure strength prediction 
+Raphael [62] 
+fr = 0.438f2/3
+c 
+(MPa) 
+0.757 
+Xu and Shi [63] 
+fr = 0.39f0.59
+c 
+(MPa) 
+0.756 
+Amudhavalli et al. [64] 
+fr = 0.039f1.35
+c 
+(MPa) 
+0.763 
+Pul [65] 
+fr = 0.034f1.286
+c 
+(MPa) 
+0.763 
+Ramadoss [66] 
+fr = 0.259f0.843
+c 
+(MPa) 
+0.759 
+ACI318-14 [67] 
+fr = 0.62
+̅̅̅
+fc
+√
+(MPa) 
+0.756 
+Esquinas et al. [61] 
+fr = 0.0763fc + 4.3751 (MPa) 
+0.790  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 14 =====
+
+Journal of Building Engineering 87 (2024) 109106
+13
+review & editing, Supervision, Methodology, Investigation. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+References 
+[1] W. Shanks, C. Dunant, M.P. Drewniok, R. Lupton, A. Serrenho, J.M. Allwood, How much cement can we do without? Lessons from cement material flows in the 
+UK, Resour. Conserv. Recycl. 141 (2019) 441–454. 
+[2] Y. Liu, Y. Zhuge, W. Duan, G. Huang, Y. Yao, Modification of microstructure and physical properties of cement-based mortar made with limestone and alum 
+sludge, J. Build. Eng. 58 (2022) 105000. 
+[3] N. Mohamad, K. Muthusamy, R. Embong, A. Kusbiantoro, M.H. Hashim, Environmental impact of cement production and Solutions: a review, Mater. Today: 
+Proc. 48 (2022) 741–746. 
+[4] V. Malhotra, Fly ash, slag, silica fume, and rice husk ash in concrete: a review, Concr. Int. 15 (4) (1993) 23–28. 
+[5] A. Shayan, A. Xu, Value-added utilisation of waste glass in concrete, Cement Concr. Res. 34 (1) (2004) 81–89. 
+[6] Q. Liu, B. Li, J. Xiao, A. Singh, Utilization potential of aerated concrete block powder and clay brick powder from C&D waste, Construct. Build. Mater. 238 
+(2020) 117721. 
+[7] A. Siddika, M.A. Al Mamun, R. Alyousef, Y.M. Amran, F. Aslani, H. Alabduljabbar, Properties and utilizations of waste tire rubber in concrete: a review, 
+Construct. Build. Mater. 224 (2019) 711–731. 
+[8] A. AlArab, B. Hamad, G. Chehab, J. Assaad, Use of ceramic-waste powder as value-added pozzolanic material with improved thermal properties, J. Mater. Civ. 
+Eng. 32 (9) (2020) 04020243. 
+[9] A.S. El-Dieb, M.R. Taha, S.I. Abu-Eishah, The use of ceramic waste powder (CWP) in making eco-friendly concretes. Ceramic Materials: synthesis, Characterization, 
+Applications Recycling (2019) 1–35. 
+[10] A.S. El-Dieb, D.M. Kanaan, Ceramic waste powder an alternative cement replacement–Characterization and evaluation, Sustainable Materials Technologies 17 
+(2018) e00063. 
+[11] C. Aksoylu, Y.O. ¨Ozkılıç, A. Bahrami, S.A. Yıldızel, I.Y. Hakeem, N. ¨Ozd¨oner, B. Bas¸aran, M. Karalar, Application of waste ceramic powder as a cement 
+replacement in reinforced concrete beams toward sustainable usage in construction, Case Stud. Constr. Mater. 19 (2023) e02444. 
+[12] P. Joshi, D. Parekh, Valorization of ceramic waste powder as cementitious blend in self-compacting concrete–A review, Mater. Today: Proc. 77 (2023) 
+1007–1015. 
+[13] D.M. Kannan, S.H. Aboubakr, A.S. El-Dieb, M.M.R. Taha, High performance concrete incorporating ceramic waste powder as large partial replacement of 
+Portland cement, Construct. Build. Mater. 144 (2017) 35–41. 
+[14] H. Patel, N. Arora, S.R. Vaniya, Use of ceramic waste powder in cement concrete, International Journal for Innovative Research in Science Technology 2 (1) 
+(2015) 91–97. 
+[15] S. Subas¸ı, H. ¨Oztürk, M. Emiro˘glu, Utilizing of waste ceramic powders as filler material in self-consolidating concrete, Construct. Build. Mater. 149 (2017) 
+567–574. 
+[16] A. AlArab, B. Hamad, J.J. Assaad, Strength and durability of concrete containing ceramic waste powder and blast furnace slag, J. Mater. Civ. Eng. 34 (1) (2022) 
+04021392. 
+[17] A.D. Raval, D. Patel, J.J.I.J.o.E.T. Pitroda, Technology, Ceramic waste: effective replacement of cement for establishing sustainable concrete, Int. J. Eng. Trends 
+Technol. 4 (6) (2013) 2324–2329. 
+[18] L. Gautam, P. Kalla, J.K. Jain, R. Choudhary, A. Jain, Robustness of self-compacting concrete incorporating bone China ceramic waste powder along with 
+granite cutting waste for sustainable development, J. Clean. Prod. 367 (2022) 132969. 
+[19] A.K. Parashar, P. Sharma, N. Sharma, An investigation on properties of concrete with the adding of waste of ceramic and micro silica, Mater. Today: Proc. 62 
+(2022) 4036–4040. 
+[20] M. Bhargav, R. Kansal, Experimental investigation to substitute of cement with ceramic tiles powder in concrete, Int. J. Res. Appl. Sci. Eng. Technol. 8 (9) (2020) 
+302–307. 
+[21] A. Alsaif, Utilization of ceramic waste as partially cement substitute–A review, Construct. Build. Mater. 300 (2021) 124009. 
+[22] L. Li, Z. Zhuo, J. Zhu, J. Chen, A. Kwan, Reutilizing ceramic polishing waste as powder filler in mortar to reduce cement content by 33% and increase strength by 
+85, Powder Technol. 355 (2019) 119–126. 
+[23] M. Mohit, Y. Sharifi, Ceramic waste powder as alternative mortar-based cementitious material, ACI Mater. J. 116 (6) (2019) 107–116. 
+Fig. 17. Flexure strength of concrete specimens at different levels of CWP.  
+L. Li et al.                                                                                                                                                                                                               
+
+
+===== PAGE 15 =====
+
+Journal of Building Engineering 87 (2024) 109106
+14
+[24] X. Chen, D. Zhang, S. Cheng, X. Xu, C. Zhao, X. Wang, Q. Wu, X. Bai, Sustainable reuse of ceramic waste powder as a supplementary cementitious material in 
+recycled aggregate concrete: mechanical properties, durability and microstructure assessment, J. Build. Eng. 52 (2022) 104418. 
+[25] I. Asadi, P. Shafigh, Z.F.B.A. Hassan, N.B. Mahyuddin, Thermal conductivity of concrete–A review, J. Build. Eng. 20 (2018) 81–93. 
+[26] Y. Du, W. Yang, Y. Ge, S. Wang, P. Liu, Thermal conductivity of cement paste containing waste glass powder, metakaolin and limestone filler as supplementary 
+cementitious material, J. Clean. Prod. 287 (2021) 125018. 
+[27] R. Demirbo˘ga, R. Gül, The effects of expanded perlite aggregate, silica fume and fly ash on the thermal conductivity of lightweight concrete, Cement Concr. Res. 
+33 (5) (2003) 723–727. 
+[28] R. Demirbo˘ga, Thermal conductivity and compressive strength of concrete incorporation with mineral admixtures, Build. Environ. 42 (7) (2007) 2467–2471. 
+[29] V.K. Kodur, R. McGrath, Effect of silica fume and lateral confinement on fire endurance of high strength concrete columns, Can. J. Civ. Eng. 33 (1) (2006) 
+93–102. 
+[30] X. Yu, Z. Tao, T.-Y. Song, Z. Pan, Performance of concrete made with steel slag and waste glass, Construct. Build. Mater. 114 (2016) 737–746. 
+[31] K. Hwang, T. Noguchi, F. Tomosawa, Prediction model of compressive strength development of fly-ash concrete, Cement Concr. Res. 34 (12) (2004) 2269–2276. 
+[32] AS2758.1, Aggregates and Rock for Engineering Purposes Concrete Aggregates. Part 1: Concrete Aggregates, Standards Australia, Sydney, NSW, 2014. 
+[33] AS1012.2, Methods of Testing Concrete, Method 2: Preparing Concrete Mixes in the Laboratory, Standard Australia, Sydney, NSW, 2014. 
+[34] AS1012.3.1, Methods of Testing Concrete Determination of Properties Related to the Consistency of Concrete - Slump Test, Standards Australia, Sydney, NSW, 
+2014. 
+[35] AS1012.9, Methods of Testing Concrete Compressive Strength Tests - Concrete, Mortar and Grout Specimens, Standards Australia, Sydney, NSW, 2014. 
+[36] AS/NZS4456.14, Masonry Units, Segmental Pavers and Flags - Methods of Test Determining Water Absorption Properties, Standards Australia, Sydney, NSW, 
+2003. 
+[37] ISO22007-2, Plastics — determination of thermal conductivity and thermal diffusivity, in: Part 2: Transient Plane Heat Source (Hot Disc) Method, 2022. ISO 
+Global. 
+[38] S. Pareek, Evaluation of fire-performance by cone-calorimeter tests and thermal conductivity of polymer-modified mortars and various concretes, J. Mater. Sci. 
+Eng. B 7 (3–4) (2017) 81–88. 
+[39] ISO5660-1, Heat Release, Smoke Production and Mass Loss Rate, in Part 1: Heat Release Rate (Cone Calorimeter Method) and Smoke Production Rate (Dynamic 
+Measurement), bsi, 2015. 
+[40] ASTMC805/C805M-18, Standard Test Method for Rebound Number of Hardened Concrete, ASTM International, West Conshohocken, Pennsylvania, United 
+States, 2019. 
+[41] D.M. Kanaana, A.S. EL-Dieb, Ceramic waste powder as an ingredient to sustainable concrete, in: Fourth International Conference on Sustainable Construction 
+Materials and Technologies, Las Vegas, USA, 2016. 
+[42] AS1379, Specification and Supply of Concrete, Standards Australia, Sydney, NSW, 2007. 
+[43] G. Mertens, R. Snellings, K. Van Balen, B. Bicer-Simsir, P. Verlooy, J. Elsen, Pozzolanic reactions of common natural zeolites with lime and parameters affecting 
+their reactivity, Cement Concr. Res. 39 (3) (2009) 233–240. 
+[44] K. Zheng, Pozzolanic reaction of glass powder and its role in controlling alkali–silica reaction, Cement Concr. Compos. 67 (2016) 30–38. 
+[45] H. Tural, B. Ozarisoy, S. Derogar, C. Ince, Investigating the governing factors influencing the pozzolanic activity through a database approach for the 
+development of sustainable cementitious materials, Construct. Build. Mater. 411 (2024) 134253. 
+[46] D. Jeong, H. Lee, The effect of Pozzolanic reaction under different curing temperatures in strength development of RPC, in: Proceedings of the International 
+Conference on Sustainable Building Asia, Seoul, Korea, 2010. 
+[47] Y.L. Sum, V. Rheinheimer, B.H. Soong, P.J. Monteiro, Effect of iron (III) oxide concentration on the performance of meta-resonators embedded in cementitious 
+matrix, Cement Concr. Compos. 116 (2021) 103890. 
+[48] J. Chen, S.-c. Kou, C.-s. Poon, Hydration and properties of nano-TiO2 blended cement composites, Cement Concr. Compos. 34 (5) (2012) 642–649. 
+[49] R. Shao, C. Wu, J. Li, A comprehensive review on dry concrete: application, raw material, preparation, mechanical, smart and durability performance, J. Build. 
+Eng. 55 (2022) 104676. 
+[50] J.K. Weng, B. Langan, M. Ward, Pozzolanic reaction in Portland cement, silica fume, and fly ash mixtures, Can. J. Civ. Eng. 24 (5) (1997) 754–760. 
+[51] T.S.B.A. Manan, N.L.M. Kamal, S. Beddu, T. Khan, D. Mohamad, A. Syamsir, Z. Itam, H. Jusoh, N.A.N. Basri, W.H.M.W. Mohtar, Strength enhancement of 
+concrete using incinerated agricultural waste as supplementary cement materials, Sci. Rep. 11 (1) (2021) 12722. 
+[52] H. Aryan, B. Gencturk, M. Hanifehzadeh, J. Wei, ASR degradation and expansion of plain and reinforced concrete, in: Structures Congress 2020, American 
+Society of Civil Engineers Reston, VA, 2020. 
+[53] M.S. Meddah, A. Tagnit-Hamou, Pore structure of concrete with mineral admixtures and its effect on self-desiccation shrinkage, ACI Mater. J. 106 (3) (2009) 
+241. 
+[54] M. L´opez, J.T. Castro, Efecto de las puzolanas naturales en la porosidad y conectividad de poros del hormig´on con el tiempo, Revista ingeniería de construcci´on 
+25 (3) (2010) 419–431. 
+[55] S.A. Saad, M.F. Nuruddin, N. Shafiq, M. Ali, Pozzolanic reaction mechanism of rice husk ash in concrete–a review, Appl. Mech. Mater. 773 (2015) 1143–1147. 
+[56] C. Xiao, Characterization of the Air Void System in Concrete Using Thermography, The Pennsylvania State University, State College, PA 16801, United States, 
+2010. 
+[57] G.A. Khoury, Effect of fire on concrete and concrete structures, Prog. Struct. Eng. Mater. 2 (4) (2000) 429–447. 
+[58] A.D. Andrushia, N. Anand, G.P. Arulraj, Evaluation of thermal cracks on fire exposed concrete structures using Ripplet transform, Math. Comput. Simulat. 180 
+(2021) 93–113. 
+[59] IS456, Pain And Reinforced Concrete - Code of Practie, Bureau of indian standards, 2000. New Deliii). 
+[60] V.P. Kumar, K.C. Reddy, Durability aspects of concrete by partial replacement of cement by ceramic waste, Int. J. Civ. Eng. 8 (2017) 22–30. 
+[61] A.R. Esquinas, C. Ramos, J. Jim´enez, J. Fern´andez, J.J.C. De Brito, B. Materials, Mechanical Behaviour of Self-Compacting Concrete Made with Recovery Filler 
+from Hot-Mix Asphalt Plants, vol. 131, 2017, pp. 114–128. 
+[62] J.M. Raphael, Tensile strength of concrete, in: Journal Proceedings, 1984. 
+[63] B. Xu, H. Shi, Correlations among mechanical properties of steel fiber reinforced concrete, Construct. Build. Mater. 23 (12) (2009) 3468–3474. 
+[64] N. Amudhavalli, M.J.I.J.o.E.T. Poovizhiselvi, Technology, Relationship between compressive strength and flexural strength of polyester fiber reinforced 
+concrete, Int. J. Eng. Trends Technol. 45 (2017) 158–160. 
+[65] S. Pul, Experimental Investigation of Tensile Behaviour of High Strength Concrete, IJEMS, 2008. 
+[66] P. Ramadoss, Combined effect of silica fume and steel fiber on the splitting tensile strength of high-strength concrete, Int. J. Civ. Eng. 12 (1) (2014) 96–103. 
+[67] ACI318-14, Building Code Requirements for Structural Concrete, American Concrete Institute: Michigan, United States, 2014. 
+[68] M. Kaplan, The effects of the properties of coarse aggregates on the workability of concrete, Mag. Concr. Res. 10 (29) (1958) 63–74. 
+[69] Z. Giergiczny, Fly ash and slag, Cement Concr. Res. 124 (2019) 105826. 
+[70] S. Chinnu, S. Minnu, A. Bahurudeen, R. Senthilkumar, Influence of palm oil fuel ash in concrete and a systematic comparison with widely accepted fly ash and 
+slag: a step towards sustainable reuse of agro-waste ashes, Cleaner Materials (2022) 100122. 
+[71] S. Chen, C. Duffield, S. Miramini, B.N.K. Raja, L. Zhang, Life-cycle modelling of concrete cracking and reinforcement corrosion in concrete bridges: a case study, 
+Eng. Struct. 237 (2021) 112143. 
+[72] D. Sun, Z. Cao, C. Huang, K. Wu, G. De Schutter, L. Zhang, Degradation of concrete in marine environment under coupled chloride and sulfate attack: a 
+numerical and experimental study, Case Stud. Constr. Mater. 17 (2022) e01218. 
+L. Li et al.                                                                                                                                                                                                               

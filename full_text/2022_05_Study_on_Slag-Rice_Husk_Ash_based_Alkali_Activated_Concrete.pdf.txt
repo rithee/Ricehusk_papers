@@ -1,0 +1,776 @@
+
+===== PAGE 1 =====
+
+ 
+A
+ 
+12th Structura
+Ava
+ 
+*Corresponding author. Tel: +919957564092; E
+Proceedings of the 12th Structural Engineering 
+© 2022 The authors. Published by Alwaha Scien
+Published online: December 19, 2022 
+doi:10.38208/acp.v1.487 
+Study on Slag-R
+D
+1 Department o
+2Department of Civil E
+3Department o
+Abstract 
+Alkali activated binder is an innovative materia
+Alkali activated binder is prepared using industr
+etc. This paper presents the processes and tests 
+concrete. Raw rich hush ash was collected fro
+concrete. Blast furnace slagand rice husk ash w
+tests were compared with that of conventional
+altering the properties of alkali activated concre
+ 
+Keywords: Ground granulated blast furnace slag, R
+ 
+1. Introduction 
+Concrete is extensively used glob
+construction material. Portland cement (P
+constituent of conventional Portland c
+Globally, the consumption of Portland cem
+production is increasing day by day
+production and use of Portland cement lea
+carbon dioxide in huge quantity which ac
+greenhouse gas emission annually. The p
+ton of cement emits one ton of CO2 in th
+The process used in manufacturing of 
+releases about 13500 million tons of 
+annually [2] lead to generation of waste p
+remain unattended lead to human health a
+hazards. This concern about the conseq
+generation and disposal has led to investi
+waste utilization methods. To fulfil 
+regarding sustainable development, concr
+not only needs to be eco-friendly but i
+durable. In recent years awareness on 
+diversity of hazardous solid waste 
+degradation of the air quality with 
+humanhealth and natural environment ha
+various industrial processes. In this 
+materials which are sustainable in nature ar
+concrete. They have good binding 
+aggregates and possesslong chain structur
+developing long range network structure 
+ASPS Conference Proceedings 1:147-151 (2022) 
+Proceedings of 
+l Engineering Convention - An International Event (SE
+ailable at https://asps-journals.com/index.php/acp 
+E-mail address: dasdebasish014@gmail.com 
+Convention (SEC 2022), NCDMM, MNIT Jaipur, India | 19-2
+ntific Publishing Services, ASPS. This is an open access article
+Rice Husk Ash based Alkali Activated
+D. Das1,*, S.M.Laskar2, B. Hussain3 
+ 
+of Civil Engineering, Jorhat Engineering College, Jorhat-785007,Ind
+Engineering, National Institute of Technology Mizoram, Aizawl-79
+of Civil Engineering, Jorhat Engineering College, Jorhat-785007, In
+ 
+Paper ID - 020154 
+al and a potential alternate to conventional Portland cement
+rial or agro based by-products such as ground granulated bla
+involved in evaluation of the strength and workability of sla
+om various sources, ground and tested to attain suitable fi
+were incorporated in various percentages to prepare the alkal
+l Portland concrete. The fineness of rice husk as well as t
+te. Porousness of rice husk ash lowers the workability and c
+Rice husk ash, Portland cement concrete, Workability, Strength 
+bally as primary 
+PC) is the major 
+cement concrete. 
+mentsand hence its 
+y. However, the 
+ads to emission of 
+ccounts for7% of 
+production of one 
+e atmosphere [1]. 
+Portland cement 
+green-house gas 
+products which if 
+and environmental 
+quence of waste 
+igation of various 
+the commitment 
+rete of tomorrow 
+it should also be 
+the quantity and 
+generation and 
+its impact on 
+as increased. The 
+context,alternate 
+re introduced into 
+properties with 
+res which help in 
+of bonding. Rice 
+husk is an organic waste 
+inmany parts of world inc
+theagricultural land in Ass
+arethe hard protective cov
+product of the rice milling 
+the waste ash of rice hus
+dependents on composi
+temperature and burning ti
+amorphous state the burni
+RHA must be kept in contr
+The ash obtained from
+contains significant amou
+which are nonreactive sili
+material with average parti
+RHA is composed mostly 
+90%) and it has highly 
+suitable 
+to 
+replace 
+ce
+reaction.The fineness of ri
+of the mixes. RHA is ex
+changes[4]. It is basically 
+to Portland cement but it 
+create numerous quanti
+precipitation of calcium 
+pozzolanic reaction. The
+reactivity of RHA is de
+incineration. It is found tha
+ 
+C 2022) 
+ 
+2 December, 2022 
+e under the CC BY license. 
+d Concrete 
+dia 
+6012,India 
+dia 
+t for use in construction applications. 
+ast furnace slag, fly-ash, rice husk ash, 
+ag-rice husk ash based alkali activated 
+ineness and use in preparation of the 
+li activated concrete. Results from the 
+the amount played significant role in 
+compressive strength.  
+and it produced large quantities 
+cluding Assam, India as most of 
+sam is rice paddy field. Rice husk 
+verings of rice. It is a major by-
+industry. Rice husk ash (RHA) is 
+sk.The characteristics of the ash 
+ition of rice husks, burning 
+ime. To keep the silica content in 
+ing temperature for preparing the 
+rolled condition.  
+m uncontrolled burning conditions 
+unts of cristobalite and tridymite 
+ca minerals. RHA is a very fine 
+icle size ranged from 5 to 10µ[3] 
+of silica in amorphous from(85-
+micro-porous structure which is 
+ement 
+through 
+its 
+pozzolanic 
+ce husk ash affects the properties 
+xtremely sensitive with fineness 
+finer and less reactive compared 
+can disperse in the mixture and 
+ities of nucleation sites for 
+hydroxide which can refer as 
+e form of silica produced and 
+ependent on the conditions of 
+at rice husk burned at temperature 
+
+
+===== PAGE 2 =====
+
+Das et al./ ASPS Conference Proceedings 1: 147-151 (2022) 
+148 
+500ºc and 600ºc contains pure amorphous silica and without 
+crystalline silica formed.  
+Blast furnace slag (BFS) based alkali activate concrete 
+is a suitable alternate to the conventional Portland cement 
+concrete. Rigorous study has been carried out to evaluate the 
+behavior of slag-based alkali activate systems in terms of 
+workability, 
+strength, 
+durability, 
+etc. 
+[5-8]. 
+Alkali 
+activatedsystems (AAS) differ from Portland cementsystems 
+(PCS) in terms of the reaction pathway in order to attain 
+structural integrity.PCS depends upon the presence of C-S-
+H for matrix formation and strength whereas AAS utilizes 
+raw materials such as BFS, RHA, fly-ash(FA), etc. Use 
+ofBFSin concrete enhances the compressive strength. The 
+strength enhancement also depends on the alkali content. 
+Curing temperature also imparts positive effect in the 
+strength in cement in early ages of reaction [9]. Few 
+researchers have appliedAASas concrete repairing agent. 
+AASexhibit better repairing characteristics than Portland 
+cement-basedagents. With the addition of steel slag 
+significant improvementin the abrasion resistance of AAS 
+can be attained[10].Increase in the replacement level of 
+BFSenhance the flexural and compressive strength. The 
+increase sodium content for alkali activation increases the 
+strength [11]. Researchers found that alkali metal silicates 
+and hydroxides to be the most suitable as alkali activator. 
+Since alkali silicates are more expensive than hydroxides, so 
+hydroxides can be considered as most suitable. Moreover, it 
+was observed that sodium hydroxide activated AAS can 
+attain higher strength compared to sodium silicate activated 
+AAS when cured at ambient temperature [12]. From the 
+study of past works, it is noted that scanty amount of works 
+related on slag-rice husk based AAS have been conducted. 
+Extensive research related to behavior of AAS prepared 
+using BFS and RHA is yet to be undertaken to arrive at 
+suitable conclusions regarding behavior of AAS. Therefore, 
+an attempt has been made to investigate the properties of 
+BFS-RHA based alkali activated concrete (AAC). This 
+paper presents the results from the laboratory investigation 
+on the fresh and hardened state AAC. 
+2. Experimental program 
+2.1 Materials 
+In this study locally available BFS, RHA, fine 
+aggregates and coarse aggregates are used to prepare AAC. 
+In Table 1 the typical properties of RHA are shown. 
+In this study sodium hydroxide (NaOH) is used as 
+alkali activator. NaOH pellets having 97-98% purity is used 
+to 
+prepare 
+the 
+alkali 
+activator 
+solution. 
+Required 
+concentration is prepared by mixing the pellets with distilled 
+water one day before casting. 
+Table-1. Chemical composition of rice husk ash[13] 
+Chemical composition 
+Rice Husk Ash 
+SiO2 
+93.0 
+Al2O3
+0.17 
+Fe2O3
+0.35 
+SiO2+Al2O3+Fe2O3
+93.5 
+SO3
+0.11 
+CaO 
+0.91 
+MgO 
+0.42 
+Na2O 
+0.63 
+K2O 
+2.82 
+LOI 
+4.70 
+Table-2. Fineness of RHA with time 
+ 
+Locally available coarse aggregate is used in this study 
+of water absorption 1.5%[14] and specific gravity of 
+2.61[15]. The sizes of aggregates are size of 20mm. Locally 
+available fine aggregates are used in this study of zone II. 
+The avg. water absorption and avg. specific gravity are 0.8% 
+[15]and 2.68[15] respectively.  
+RHA is obtained as by-product from agro-based 
+biomass industry. The RHA collected from source are 
+ground to very fine particle size in the Los Angeles 
+Abrasion Testing Machine for 15 and 30 min in two 
+different sets. Toevaluate the suitable fineness of RHA that 
+produces concrete 
+with 
+satisfactory performance, 
+a 
+preliminary study is conducted by replacing cement by RHA 
+ground for various time periods in control mix (CM1) by the 
+15% weight of cement. The Blaine fineness apparatus was 
+used for measuring the fineness of RHA. 
+2.2. Mix Proportions 
+The mix proportioning for control mix (CM1) was 
+done with specified target strength. IS 10262-2009 was 
+followed for the purpose. For this, four mixes were prepared 
+with 15 % weight of cement with their grinding time. Where 
+FM0 stands for 0 % rice husk, FM1 represents raw RHA of 
+15% weight of cement; and FM2 andFM3 are 15% weight 
+of cement with 15min and 30 mingrinding respectively. 
+Mix proportion of BFS-RHA based AAC is presented 
+in Table 4. Alkali activator solution/total binder agent (a/b) 
+ratio was kept constant as 0.65 throughout the study. RHA 
+content was increases by 10%, 20% and 30% of total binder 
+content. Here BFS and/or RHA are termed as total binder. 
+The quantity of coarse aggregate and fine aggregates are 
+kept constant throughout the study. The concentration of 
+NaOH solution was fixed as 10 molar (M). 
+Table-3. Mix proportions for CM1 [17] 
+Mix  
+Cement (kg) 
+RHA 
+15% wt of 
+cement(kg) 
+RHAGrinding 
+Time 
+FA 
+(kg) 
+CA 
+(kg) 
+Water(ml) 
+Extra water(ml) 
+FM0 
+3.07 
+0 
+0 
+5.38 
+8.56 
+1538 
+171 
+FM1 
+2.61 
+0.46 
+0 
+5.38 
+8.56 
+1538 
+171 
+FM2 
+2.61 
+0.46 
+15 
+5.38 
+8.56 
+1538 
+171 
+FM3 
+2.61 
+0.46 
+30 
+5.38 
+8.56 
+1538 
+171 
+Table-4. Mix quantities for different mixes [17] 
+Ingredients 
+(kg/m3) 
+Mix 
+M0 
+M1 
+M2 
+M3 
+GGBS 
+328 
+295.2 
+262.4 
+229.6 
+Coarse Aggregate 
+1134 
+1134 
+1134 
+1134 
+Fine Aggregate 
+710 
+710 
+710 
+710 
+RHA 
+0 
+32.8 
+65.6 
+98.4 
+NaOH 
+213.2 
+213.2 
+213.2 
+213.2 
+Alkali/Binder Ratio 
+0.65 
+0.65 
+0.65 
+0.65 
+Grinding time of RHA min 
+Fineness(m2/kg) 
+0 
+50 
+15 
+310 
+30 
+800 
+
+
+===== PAGE 3 =====
+
+Das et al./ ASPS Conference Proceedings 1: 147-151 (2022) 
+149 
+Table-5. Mix proportion for CM2 [17] 
+Ingredients 
+Quantity (kg/m3)
+Cement 
+389 
+CA 
+1134 
+FA 
+710 
+Water 
+155.57 
+w/c ratio 
+0.40 
+ 
+Themix proportion for controlled mix (CM2) was 
+carried out with the specified target strength. Details of mix 
+proportioning are given in Appendix A. IS: 10262-2009 was 
+followed for the purpose. In Table 5, the detail quantity for 
+controlled mix specimen is given. 
+After completing the mix proportioning, computation 
+of the total amount of each material required for casting six 
+cubes for each mix is done. 
+The calculated amount of each material is collected 
+from their respective sources.After the collection of 
+materials, the following procedure is followed to prepare the 
+specimens. For FM0 dry mixing of PC, CA and FA is 
+performed for 10 minutes. Calculated amount of water is 
+added into the dry sample in threetime-intervals and the 
+sample is thoroughly mixed throughout the time interval. 
+For FM1 dry mixing of cement, CA, FA and RHA (raw) is 
+performed for 10 minutes. For FM2 dry mixing of cement, 
+CA, FA and RHA (15 min ground) is performed for 10 
+minutes and also for FM3 Mix dry mixing of cement, CA, 
+FA and RHA (30 min ground) is performed for 10 minutes. 
+AAC and PCC were prepared as per the Indian 
+Standard Codes. Hand mixing of the ingredients was done. 
+Each type of concrete prepared was put into standard 
+moulds and compaction was done using the concrete 
+vibration table. The specimens were taken out from the 
+mould after 24 hours and immersed into the curing tank 
+After proper mixing of the sample, slump test is 
+performed. A thoroughly cleaned slump cone having bottom 
+diameter 20cm, top diameter 10 cm and height 30 cm is 
+used. A steel tamping rod of 16mm diameter and 60 cm 
+height is used for ramming. The ramming is done by giving 
+25 blows in three layers while pouring the concrete in the 
+slump cone. The slump value is noted.  
+The mixes is then poured into the mould and are 
+properly compacted in three layers by using a steel tamping 
+rod. The mould is then placed in a concrete vibration table 
+till the mix gets uniformly filled into the mould. The mould 
+is kept for 24 hours. After 24 hours the specimens are 
+removed from the mould and kept in water for curing. The 
+compressive strengths of 3 specimens are computed on 7th 
+day and of the remaining 3 specimens on 28th day. 
+4. Experimental Results 
+4.1 Test for suitability of Rice Husk Ash 
+4.1.1 Workability Test 
+Concrete slump test is carried out to check the uniform 
+quality of concrete during construction. Generally concrete 
+slump value is used to find the workability which indicates 
+water cement ratio but there are various other factors 
+including properties of material that effects the concrete 
+slump value that are mixing methods, dosages of 
+admixtures, air content present in concrete etc. The referred 
+code is IS: 1199-1959 for conducting this test. 
+Table-6: Slump value for CM1 [16] 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The slump value of controlled mix is 120. It is 
+observed that when raw RHA with no-ground has been used 
+then the slump value reduces due to the amorphous nature of 
+the crystal as a result of which it absorbs more amount of 
+water and very less amount of water is present for mobility 
+and as a result the workability is very low. But when it is 
+ground, crystals are no longer amorphous, the water 
+absorbing property of the crystal reduces, as a result more 
+amount of water is available for wetting of the particle 
+surface thus the workability is high in M-2 in compared to 
+M-1. 
+ 
+4.1.2 Compressive Strength Test 
+ 
+Compressive strength test is a mechanical test 
+measuring the maximum amount of compressive load a 
+material or a structure can carry on its surface without crack 
+or deflection. Compressive strength of concrete depends 
+upon many factors such as water cement ratio, quality of 
+concrete material, quality control during production of 
+concrete etc. These specimens are tested by compression 
+testing machine after 7 and 28 days of curing.  100 mmcube 
+mould was used for PCC. 
+ 
+Table-7. Compressive Strength for CM1 [18] 
+ 
+Mix 
+Compressive strength MPa 
+ 
+7 days 
+28 days 
+FM0 
+20.5 
+26.5 
+FM1 
+6.63 
+7.36 
+FM2 
+20.93 
+27.53 
+FM3 
+19.86 
+25.93 
+ 
+The above results show that the compressive strength 
+value of M1 and M3 are less than the value of M2. It is due 
+to the fact that the available water in FM1 and FM3 mixing 
+and hydration is less because of high absorption of water by 
+RHA. Whereas the result of FM2 mix is quite satisfactory 
+because it has enough water for hydration. So, the fineness 
+of RHA plays an important role in strength on concrete. 
+That’s why for further work the RHA of 15 min grinding is 
+used 
+ 
+4.2 Test for slag-rice husk ash alkali activated concrete 
+ 
+4.2.1 Workability Test 
+ 
+Concrete slump test carried out for checking the 
+consistency of fresh concrete before its use. This test can 
+also be used as an indicator for improperly mixed batch. 
+ 
+ 
+Mix 
+Slump value (mm) 
+FM0 
+120 
+FM1 
+80 
+FM2 
+105 
+FM3 
+117 
+
+
+===== PAGE 4 =====
+
+Das et al./ ASPS Conference Proceedings 1: 147-151 (2022) 
+150 
+Table-8. Slump value for GPC [16] 
+ 
+Mix 
+Slump value (mm) 
+M0 
+70 
+M1 
+87 
+M2 
+62 
+M3 
+48 
+ 
+Due to addition of rice husk ash the workability of the 
+concrete mix slightly improved as a result of enhanced 
+workability. Increasing the rice husk ash content, the 
+workability monotonously reduced. This reduction in 
+workability observed due to the fact that the added rice husk 
+ash absorbed high amount of water from the matrix due to 
+the porousness of its particle. 
+ 
+4.2.2 Compressive Strength Test 
+ 
+Compressive strength test is a mechanical test 
+measuring the maximum amount of compressive load a 
+material or a structure can carry on its surface without crack 
+or deflection. For cube test, generally two types of 
+specimens are used either (100 x100 x100) mm or (150 x 
+150x 150) mm.The results from the compressive strength 
+test for all mixes of geopolymer concrete are presented 
+below 
+Table-9. Compressive Strength for GPC [18] 
+ 
+Mix 
+Compressive strength (MPa) 
+ 
+7 days 
+28 days 
+M0 
+4.46 
+24.6 
+M1 
+12 
+27.33 
+M2 
+9.6 
+25.4 
+M3 
+9.2 
+24.23 
+ 
+In this work rice husk ash is increases by 10%, 20% 
+and 30% and their corresponding strength shown in table 
+4.1. Due to addition of rice husk ash the workability of the 
+concrete mix slightly improved as a result of enhanced 
+workability. Homogenous matrix was formed due to the 
+compaction of concrete into the mould and therefore 
+M1exhibited higher compressive strength than M0. 
+However, increasing the rice husk ash content, the 
+workability monotonously reduced. This reduction in 
+workability observed due to the fact that the added rice husk 
+ash absorbed high amount of water from the matrix due to 
+the porousness of its particle, as a result complete the lack of 
+workability eventually lead to formation of geopolymer 
+matrix of non-homogenous nature and low strength. The 
+porosity of RHA if can be reduced then it is possible that the 
+resulting concrete mix may show higher strength. 
+ 
+4.3 Tests for Control Mix 2 
+ 
+4.3.1 Workability Test 
+ 
+Concrete slump test is carried out for control mix 2. 
+This test is carried out for checking the quality of concrete 
+during construction. 
+ 
+ 
+Table-10. Slump value for CM2 [16] 
+ 
+Mix 
+Slump Value(mm) 
+CM 2 
+20 
+ 
+4.3.2 Compressive Strength Test 
+ 
+This test is carried out to measure the compressive load 
+that the material or structure can carry on its surface without 
+cracking. 
+Table-11. Compressive strength for CM2 [18] 
+ 
+Mix  
+Compressive Strength 
+(MPa) 
+ 
+7 days 
+28 days 
+CM2 
+17.89 
+27.53 
+ 
+From the results obtained from controlled mix it can 
+observed that the compressive strength is quite similar with 
+the strength of GPC. 
+ 
+5. Conclusion 
+ 
+This paper presents the processes and tests involved in 
+evaluation of the strength and workability of slag-rice husk 
+ash based alkali activated concrete. From the test results, 
+work it can be concluded that the grinding of RHA improves 
+the property of RHA based concrete to when added in 
+controlled amount. The fineness of RHA plays a significant 
+role in the physical properties of concrete i.e. when RHA is 
+finer, the strength decreases. RHA and GGBS have the 
+potential to replace the PC in conventional concrete. 
+ 
+Acknowledgement  
+ 
+The authorsare eternally grateful to NPIU, MHRD, 
+New Delhi for funding the research project, “Development 
+of sustainable materials for concrete repairing and 
+strengthening”(ID:1-5728870664)under 
+CollaborativeResearch Scheme, TEQIP-III. The authors also 
+acknowledge the help and support offered by Counto 
+Microfine Products Private Limited, India by providing raw 
+materials that were required for the current research work at 
+Jorhat Engineering College and NIT Mizoram. 
+ 
+Disclosures 
+Free 
+Access 
+to 
+this 
+article 
+is 
+sponsored 
+by   
+SARL ALPHA CRISTO INDUSTRIAL. 
+ 
+References  
+ 
+1. Malhotra. 
+Making 
+concrete 
+greener 
+with 
+fly-ash. 
+Concrete 
+International, 1999, vol-21 
+2. Malhotra. Sustainable development and concrete technology. Concrete 
+International,2002,vol-24 
+3. Aprianti E, Shafigh P, Bahri S, Farahani J.N. Supplementary 
+cementitious 
+materials 
+origin 
+from 
+agricultural 
+waste-A 
+review.Construction and Building Materials 74 (2015)176-187 
+4. AntiohosS.K.,Papadakis V.G.,Tsimas S. Rice Husk ash(RHA) 
+effectiveness in cement and concrete as a function of reactive silica and 
+fineness. Cement and Concrete Research61-62(2014) 20-27 
+
+
+----- TABLE p4#1 -----
+
+ | Disclosures | 
+ | Free Access to this article is sponsored by | 
+ | SARL ALPHA CRISTO INDUSTRIAL. | 
+
+===== PAGE 5 =====
+
+Das et al./ ASPS Conference Proceedings 1: 147-151 (2022) 
+151 
+5. Brough,A.R. and Atkinson A. Sodium silicate-based alkali activated 
+slag mortars: Part I. Strength hydration and microstructure. Cement 
+and Concrete research,2002,32(6),865-879 
+6. Kim, Y. J., Kim, S. C., and Kim Y. T. Corrosion resistance and 
+hydration heat of concrete containing ground granulated blast furnace 
+slag.KSCE J. Civ. Eng.2003, 7(4), 399-404. 
+7. Gorhan, G., and Kurklu, G. The influence of the NaOH solution on the 
+properties of the fly ash-based geopolymer mortar cured at different 
+temperatures.Composites: Part B,2014, vol- 58, 371-377. 
+8. Singh Gaurav, Das Souvilk, Ahmed Abdullahi Abdulaziz,Saha 
+Showmen, Karmakar Somnath. Study of Granulated Blast Furnace 
+Slag as Fine aggregates in Concrete for sustainable infrastructure. 
+Procedia- Social and Behaviour Sciences 195(2015) 2272-2279 
+9. Puertas F., Ramirez Martinez, Alonso S., Vazquez. Alkali-activated fly 
+ash/slag cement Strength behaviour and hydration products.Cement 
+and Concrete Research 30(2000) 1625-1632 
+10. Shunguang Hu, Hongxi Wang, Gaozhan Zhang, Qingjun Ding. 
+Bonding and abrasion resistance of geopolymeric repair material made 
+with steel slag. Cement &Concrete Composities 30(2008) 239-244 
+11. Cengiz Duran Atis, CahitBilim .Wet and dry compressive strength of 
+concretecontaining ground granulated blast-furnace slag. Building and 
+Environment 42(2007)3060-3065 
+12. Altan, E., and Erdogan, S. T. Alkali activation of a slag at ambient and 
+elevated temperatures.Cement& Concrete Composition.2012, 34, 131-
+139 
+13. Jongpradist P, Homtragoon W, Sukkarak R, Kongkitkul W, 
+Jamsawang P. Efficiency of Rice Husk Ash as Cementitious Mateial in 
+High-Strength Cement-Admixed Clay. Hindawi, Advances in Civil 
+Engineering, vol. 2018, Article ID 8346319 
+14. IS:383-1970 “Specification for Coarse and Fine aggregate from natural 
+sources for concrete” Bureau of Indian Standards. 
+15. IS: 2386 Part III-1963 Method of test for aggregates for concrete, 
+Bureau of Indian Standard 
+16. IS: 1199- 1959 Method of sampling and analysis of concrete, Bureau 
+of Indian Standard 
+17. IS:10262-2009 Specification for concrete mix proportioning, Bureau of 
+Indian Standard 
+18. IS: 516-1959 Methods of test for strength of concrete, Bureau of Indian 
+Standard 
+ 
+ 

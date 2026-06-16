@@ -1,0 +1,906 @@
+
+===== PAGE 1 =====
+
+Evaluation of Rice Husk Ash as a Partial 
+Replacement of Cement in Self-Compacting 
+Concrete Using Mix Design 
+ 
+Dipendra Dahala, Ramesh Banstolab, Nirmal Baralc and Keshav Basnetd 
+a,b,c,dInfrastructure Engineering and Management Program, 
+Department of Civil and Geomatics Engineering, 
+Pashchimanchal Campus, 
+Institute of Engineering, 
+Tribhuvan University, 
+Nepal 
+ 
+ Abstract: Concrete is basic construction material in the modern construction industry and occupies major cost components. The prime 
+concern is the quality of varying specification in Normal to Special Concrete to meet the design expectation in real Practices. Application 
+of Self-Consolidating Concrete (SCC) in the construction industry provides a potential solution to the limitations facing the use of 
+traditional concrete in densely reinforced structural members. In response to the continual evolution towards an environmentally aware 
+society, there is increasing demand for the application of sustainable building materials and minimizing of waste to landfill. Therefore, 
+it has been identified that the practical application of Rice Husk Ash (RHA) as a Supplementary Cementitious Material (SCM) is 
+capable of reducing both the quantity of Portland cement used in the construction industry, and also the quantity of rice husk 
+contributing as waste to landfill. The aim of this research is to determine the optimum proportion of Rice Husk Ash (RHA) that can be 
+incorporated as a supplementary cementitious material for partial replacement of Portland cement in a self-consolidating concrete. 
+SCC was designed for the use of locally available aggregates and conducted through various trails as per SCC principles whereas RHA 
+was extracted by uncontrolled burning of rice husk. This study was conducted through testing of the Compressive strength of six test 
+samples that differ in amounts of RHA ranging from 0% to 30% of total replacement of cement for which Mix design for M20 concrete 
+was calculated using IS mix design method. Outcomes suggest that RHA burnt under the proposed experimental conditions has the 
+potential to be applied as a pozzolanic material which was proved by late gain of compressive strength in significant number shown at 
+45 days compressive strength. 
+ 
+Author Keywords: Compaction; Compressive strength; Self-Consolidating Concrete; Supplementary Cementitious Material. 
+ 
+1. INTRODUCTION 
+Green Concrete stands one of the research field to disseminate the ideas how normal concrete being eco-friendly, energy efficient 
+and reduces greenhouse gaseous by partial replacing the concrete ingredient at various proportions. SCC is popular as the modern 
+concrete and becoming one of the research areas to overcome the drawback of conventional concrete properties over consistency 
+of high strength concrete at heavy reinforcing structure elements. Concrete is a composite material, comprising a matrix of 
+aggregate and a binder, which holds the matrix together. Concrete of various types are available, determined by the formulations 
+of binders and the types of aggregate used to suit the application for the material. These variables determine strength, density, as 
+well as chemical and thermal resistance of the finished concrete product. Compaction of concrete is one of the important site 
+operations that together enable the fresh concrete to reach its potential design strength, density and low permeability. Compaction 
+is the process that expels entrapped air from freshly placed concrete and packs the aggregate particles together so as to increase 
+the density of the concrete. Compaction significantly increases the ultimate strength of concrete and enhances the bond with 
+reinforcement. It also increases the abrasion resistance and durability of the concrete, decreases the permeability and helps to 
+minimize its shrinkage and creep characteristics. 
+Self-compacting concrete is a highly flowable type of concrete that spreads into the form without the need for mechanical 
+vibration. Self-compacting concrete (SCC) is a non-segregating concrete that is placed by means of its own weight. The 
+importance of self-compacting concrete is, that maintains all concrete’s durability and characteristics, meeting expected 
+performance requirements. In certain instances, the addition of superplasticizers and viscosity modifier are added to the mix, 
+reducing bleeding and segregation. Concrete that segregates losses strength and results in honeycombed areas next to the 
+formwork. A well-designed SCC mix does not segregate, has high deformability and excellent stability characteristics[1]. 
+Self-compacting concrete produces resistance to segregation by using mineral fillers or fines and using special admixtures. Self-
+consolidating concrete is required to flow and fill special forms under its own weight, it shall be flowable enough to pass through 
+highly reinforced areas, and must be able to avoid aggregate segregation. This type of concrete must meet special project 
+requirements in terms of placement and flow. Self-compacting concrete with a similar water cement or cement binder ratio will 
+usually have a slightly higher strength compared with traditional vibrated concrete, due to the lack of vibration giving an improved 
+interface between the aggregate and hardened paste. The concrete mix of SCC must be placed at a relatively higher velocity than 
+that of regular concrete. Shazim Ali Memon et al [6] conducted a study of substantiate the feasibility of developing low cost SCC 
+using RHA. Test has been carried out on fresh and hardened properties of SCC using RHA as compared to control concrete. The 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1402
+
+
+===== PAGE 2 =====
+
+compressive strengths developed by the SCC mixes with RHA were comparable to the control concrete. Cost analysis showed 
+that the cost of ingredients of specific SCC mix is 42.47% less than that of control concrete. 
+ 
+Tests and Properties of Self Compacting Concrete  
+SCC having distinct properties over the fresh mixed concrete can be expressed as: 
+Filling Ability 
+This property of the concrete is the ability to flow under its own weight without any vibration provided intentionally. 
+Passing Ability 
+This property is the ability of the concrete to maintain its homogeneity. 
+Segregation Resistance 
+This is the resistance of the concrete not to undergo segregation when it flows during the self-compaction process. 
+The tests coming under the above-mentioned categories are tabulated below. 
+ 
+Table 1: Different Tests Conducted on Self Compacted Concrete 
+Filling Ability Tests 
+Passing Ability Tests 
+Segregation Resistance Tests 
+Slump flow test 
+L-Box Test 
+V- funnel test at T5 minutes 
+T50cm Slump Flow 
+J- ring test 
+GTM screen stability Tests 
+Orimet 
+U- Box Test 
+- 
+V-funnel Test 
+Fill – Box Test 
+- 
+Source: EFNARC, 2005 
+ 
+Rice milling industry generates a lot of rice husk during milling of paddy which comes from the fields. This rice husk is mostly 
+used as a fuel in the boilers for processing of paddy. Rice husk is also used as a fuel for power generation. Rice husk ash (RHA) 
+remains about 25% by weight of rice husk when burnt in boilers.  It is estimated that about 70 million tons of RHA is produced 
+annually worldwide. Rice Husk is pozzolanic materials having physical and chemical properties and this study was limited to 
+assess those properties.  This RHA is a great environment threat causing damage to the land and the surrounding area in which it 
+is dumped.  The rice husk itself has a very rough surface which is abrasive in nature. These are hence resistant to natural 
+degradation. This would result in improper disposal problems. So, a way to use these by-products to make a new product is the 
+best sustainable idea. Among all industries to reuse this product, cement, and concrete manufacturing industries are the ones who 
+can use rice husk in a better way[2]. 
+ 
+2. MATERIAL AND METHODS 
+Self-compacting concrete (SCC) is an innovative concrete that assumes it can hold sufficient workability without any vibration. 
+It is able to flow under its own weight, completely filling formwork and achieving full compaction, even in the presence of 
+congested reinforcement. The hardened concrete is dense, homogeneous and has the same engineering properties and durability 
+as traditional vibrated concrete. With addition of rice husk ash as cement replacement in SCC provides enhanced 
+characteristics[3]. 
+This study was completely rely on experimental work on the properties of the SCC with standard test methods. The properties of 
+the local aggregate’s specific gravity, water absorption and gradation for the mix design of required concrete grade was carried 
+out along with the collection of sampled aggregates. The proportion of concrete ingredients ascertained through mix design was 
+revised through calculation and literature reviews. Necessary ingredients (cement, plasticizer) was accumulated along with rice 
+husk ash. Self-compacting concrete of required grade was formed through trails and properties of fresh concrete was ascertained 
+through slump flow test, L-Box test and V-Funnel test. Concrete cubes were casted and curing was carried out. Compressive 
+strength of cubes was found out and analysis of result was carried out. Proper mix for Self-compacting concrete was adopted from 
+trails for replacement of cement with rice husk ash.  
+ 
+2.1  Data Collection 
+Crusher run materials are widely used for the construction activities in Pokhara valley. Seti river-based sources are widely used 
+for the fine and coarse aggregate due to easy availability and accessibility also known as common stockpile of building material 
+at various construction site of the Pokhara Valley, so sample were collected from Kotre source for coarse crusher run materials 
+and Ramghat source for fine aggregates. Shivam (OPC) cement of Nepal Standard was used for the preparation of design mix of 
+M20 grade of concrete. Table 2 briefly illustrates the different source selected. 
+ 
+ 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1403
+
+
+----- TABLE p2#1 -----
+
+Filling Ability Tests | Passing Ability Tests | Segregation Resistance Tests
+Slump flow test | L-Box Test | V- funnel test at T5 minutes
+T50cm Slump Flow | J- ring test | GTM screen stability Tests
+Orimet | U- Box Test | -
+V-funnel Test | Fill – Box Test | -
+
+===== PAGE 3 =====
+
+ 
+ 
+ 
+Table 2: Selection of Source for Sample Collection of Ingredients Materials 
+S.N. 
+Material  
+Type of Ingredients  
+Location 
+1 
+Cement 
+Shivam OPC NS Standard 
+Pokhara  
+2 
+Sand 
+Fine Aggregate 
+Seti River Ramghat, Kaski 
+3 
+Coarse Aggregate 
+Crusher Run materials 
+Kotre , Kaski 
+ 
+4 
+Water 
+Boring Water 
+Pokhara, Kaski 
+ 
+A. Methods and Laboratory Procedures for Mix Design of Concrete 
+The concrete mix was designed to produce the required grade of concrete having the designated workability, characteristic and 
+compressive strength. Mix design were carried out for the concrete grade M20 as per IS 10262:2009 and IS 456:2000. This mix 
+design principles result that concrete compared to traditional vibrated concrete, normally contains lower coarse aggregate content, 
+increased paste content, low water/powder ratio, increased superplasticizer and sometimes a viscosity modifying admixture. 
+ 
+Table 3: Trails Mix Proportion for Assessing Fresh Properties of Concrete per 0.014m3(in Kg) 
+Trial 
+W/C 
+Water 
+Cement 
+Aggregate 
+ 
+Fine 
+Coarse of 
+16mm 
+Coarse of 
+10mm 
+Superplasticizer 
+Set A 
+TRA1 
+0.41 
+2.25 
+5.47 
+13.61 
+13.61 
+- 
+0.055 
+TRA2 
+0.43 
+2.35 
+5.47 
+13.61 
+13.61 
+- 
+0.055 
+TRA3 
+0.45 
+2.45 
+5.47 
+13.61 
+13.61 
+- 
+0.055 
+TRA4 
+0.47 
+2.55 
+5.47 
+13.61 
+13.61 
+- 
+0.055 
+TRA5 
+0.48 
+2.65 
+5.47 
+13.61 
+13.61 
+- 
+0.055 
+TRA6 
+0.50 
+2.75 
+5.47 
+13.61 
+13.61 
+- 
+0.055 
+TRA7 
+0.52 
+2.85 
+5.47 
+13.61 
+13.61 
+- 
+0.055 
+Set B  
+TRB1 
+0.54 
+2.95 
+5.47 
+16.33 
+8.17 
+2.72 
+0.055 
+TRB2 
+0.56 
+3.05 
+5.47 
+16.33 
+8.17 
+2.72 
+0.055 
+TRB3 
+0.58 
+3.15 
+5.47 
+16.33 
+8.17 
+2.72 
+0.055 
+TRB4 
+0.59 
+3.25 
+5.47 
+16.33 
+8.17 
+2.72 
+0.055 
+TRB5 
+0.61 
+3.35 
+5.47 
+16.33 
+8.17 
+2.72 
+0.055 
+Set C  
+TRC1 
+0.50 
+3 
+6.01 
+16.33 
+10.88 
+- 
+0.060 
+TRC2 
+0.52 
+3.1 
+6.01 
+16.33 
+10.88 
+- 
+0.060 
+TRC3 
+0.53 
+3.2 
+6.01 
+16.33 
+10.88 
+- 
+0.060 
+TRC4 
+0.55 
+3.3 
+6.01 
+16.33 
+10.88 
+- 
+0.060 
+TRC5 
+0.57 
+3.4 
+6.01 
+16.33 
+10.88 
+- 
+0.060 
+ 
+ The trail mix design was based on the evaluation of the water demand and optimization of the flow and stability of the paste, 
+determination of the proportion of sand, coarse agregates and the doses of admixture to give the required robustness, test for the 
+sensitivity for small variations in quantities, addition of an appropriate amount of coarse aggregate,  production of the fresh SCC 
+in the laboratory mixer, perform the required tests and the compressive strength of the SCC in the hardened state was calculated 
+recording breaking load of concrete cubes. 
+ 
+B.   Filling Ability Test 
+ 
+Figure 1: Slump Flow Apparatus (All Dimensions are in mm) 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1404
+
+
+----- TABLE p3#1 -----
+
+S.N. | Material | Type of Ingredients | Location
+1 | Cement | Shivam OPC NS Standard | Pokhara
+2 | Sand | Fine Aggregate | Seti River Ramghat, Kaski
+3 | Coarse Aggregate | Crusher Run materials | Kotre , Kaski
+4 | Water | Boring Water | Pokhara, Kaski
+
+----- TABLE p3#2 -----
+
+Trial | W/C | Water | Cement | Aggregate |  |  | 
+ |  |  |  | Fine | Coarse of
+16mm | Coarse of
+10mm | Superplasticizer
+Set A |  |  |  |  |  |  | 
+TRA1 | 0.41 | 2.25 | 5.47 | 13.61 | 13.61 | - | 0.055
+TRA2 | 0.43 | 2.35 | 5.47 | 13.61 | 13.61 | - | 0.055
+TRA3 | 0.45 | 2.45 | 5.47 | 13.61 | 13.61 | - | 0.055
+TRA4 | 0.47 | 2.55 | 5.47 | 13.61 | 13.61 | - | 0.055
+TRA5 | 0.48 | 2.65 | 5.47 | 13.61 | 13.61 | - | 0.055
+TRA6 | 0.50 | 2.75 | 5.47 | 13.61 | 13.61 | - | 0.055
+TRA7 | 0.52 | 2.85 | 5.47 | 13.61 | 13.61 | - | 0.055
+Set B |  |  |  |  |  |  | 
+TRB1 | 0.54 | 2.95 | 5.47 | 16.33 | 8.17 | 2.72 | 0.055
+TRB2 | 0.56 | 3.05 | 5.47 | 16.33 | 8.17 | 2.72 | 0.055
+TRB3 | 0.58 | 3.15 | 5.47 | 16.33 | 8.17 | 2.72 | 0.055
+TRB4 | 0.59 | 3.25 | 5.47 | 16.33 | 8.17 | 2.72 | 0.055
+TRB5 | 0.61 | 3.35 | 5.47 | 16.33 | 8.17 | 2.72 | 0.055
+Set C |  |  |  |  |  |  | 
+TRC1 | 0.50 | 3 | 6.01 | 16.33 | 10.88 | - | 0.060
+TRC2 | 0.52 | 3.1 | 6.01 | 16.33 | 10.88 | - | 0.060
+TRC3 | 0.53 | 3.2 | 6.01 | 16.33 | 10.88 | - | 0.060
+TRC4 | 0.55 | 3.3 | 6.01 | 16.33 | 10.88 | - | 0.060
+TRC5 | 0.57 | 3.4 | 6.01 | 16.33 | 10.88 | - | 0.060
+
+===== PAGE 4 =====
+
+The cone and baseplate as described in EN 12350-2 was prepared from material and dimensions stated. The cone was placed 
+coincident with the 200 mm circle on the baseplate and was held in position ensuring that no concrete can leak from under the 
+cone. The cone was filled without any agitation or rodding and surplus was levelled from the top of the cone. The cone filled with 
+concrete was allowed to stand for not more than 30 sec; during this time any spilled concrete was removed from the baseplate and 
+the baseplate was ensured damp all over but without any surplus water.[5]  
+The cone was lifted vertically in one movement without interfering with the flow of concrete. The stop watch was started 
+immediately the cone ceases to be in contact with the baseplate and the time taken was recorded to the nearest 0,1 sec for the 
+concrete to reach the 500 mm circle at any point.  The largest diameter is measured of the flow spread and was record as dm to 
+the nearest 10 mm.  Then, the diameter of the flow spread at right angles was measured to dm to the nearest 10 mm and was record 
+as dr to the nearest 10 mm. The concrete spread was checked for segregation. The cement paste/mortar may segregate from the 
+coarse aggregate to give a ring of paste/mortar extending several millimeters beyond the coarse aggregate. 
+ 
+C.      Passing Ability Test 
+The L-box was prepared from material and dimensions stated in the guidelines. The L-box was supported on a level horizontal 
+base and the gate was closed between the vertical and horizontal sections.  The concrete was poured from the container into the 
+filling hopper of the L-box and allow to stand for (60 ± 10) s. Any segregation found was noted and then the gate was raised so 
+that the concrete flows into the horizontal section of the box.[5]  
+ 
+ 
+Figure 2: L-Box Apparatus (All Dimensions are in mm) 
+ 
+When movement was ceased, the vertical distance was measured, at the end of the horizontal section of the L-box, between the 
+top of the concrete and the top of the horizontal section of the box at three positions equally spaced across the width of the box.  
+By difference with the height of the horizontal section of the box, these three measurements were used to calculate the mean depth 
+of concrete as H2 mm. The same procedure was used to calculate the depth of concrete immediately behind the gate as H1 mm. 
+ 
+D. Segregation Resistance Test 
+ 
+Figure 3: V Funnel Apparatus (All Dimensions are in mm) 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1405
+
+
+===== PAGE 5 =====
+
+The V-funnel was prepared from material and dimensions stated.in the guidelines. The funnel was cleaned and bottom gate, all 
+the inside surface including the gate was dampened.  The gate was closed and the sample of concrete was poured into the funnel, 
+without any agitation or rodding, then strike off the top with the straight edge so that the concrete was flushed with the top of the 
+funnel. The container was placed under the funnel in order to retain the concrete to be passed.  After a delay of (10 ± 2) sec from 
+filling the funnel, the gate was opened and measured the time tv. to 0.1 sec, from opening the gate to when it was possible to see 
+vertically through the funnel into the container below for the first time (tv is the V-funnel flow time).[5]  
+ 
+E. Compressive Strength Test 
+The compression test was carried out on the cubical shape specimens. The compression test is widely used to determine the 
+compressive strength of hardened concrete at the end of 7 days and 28 days of casting. For which five different sets of samples 
+with 0%, 5%, 10%, 20% and 30% replacement of cement with rice husk ash were casted and cured within laboratory conditions. 
+Required quantity of cement, sand, crushed coarse aggregate and water as per design mix of concrete was taken and mixed in dry 
+state. A known quantity of water was applied to dry mix. The moulds were cleaned and oil was applied to the internal surface of 
+the mould. The fresh concrete was filled in the mould continuously without compaction. The top surface of the mould was levelled 
+by removing excess concrete by the use of trowel and date of casting as well as trials was labelled. The moulds were stored for 
+24 hours at laboratory temperature. Further the cubes were removed from the mould and put into the fresh water with fully 
+submerged. At the end of the 7 days and 28 days of casting three cubes were taken out. The excess water was allowed to drain off 
+make dry and then weight of each cube was taken. The cube was placed at the compression testing machine and load was applied 
+gradually and uniformly till the failure occurs. The maximum crushing load was noted down. Mean compressive strength was 
+calculated for all sets of results. 
+Compressive strength (N/mm2) = Maximum crushing load / Cross – sectional area of specimen. 
+ 
+F. Rice Husk Ash Production 
+Rice husk ash required for the study was collected from the local mills located at Hemaja, Pokhara. Burning process adopted for 
+production of RHA was uncontrolled burning and the obtained RHA was grinned in the Los Angeles Abrasion with specific 
+number of charges and revolutions. In order to achieve the required fines, the drum with 10 kg of RHA and ten charges of 420 
+grams each was run for 30 minutes. Then the obtained RHA was sieved in 75 microns sieve for extraction of required sized RHA 
+as only particles less than 75 microns was used in this study. 
+ 
+3. RESULTS AND DISCUSSION 
+Laboratory test result were analysed and compared with the standard code of practice to accept or reject the obtained results. The 
+obtained results of each parameters are discussed with the standard code of practice. 
+A. Physical Properties of Ingredients Material 
+The following physical properties of coarse and fine aggregate were tested in lab and finding of experimental data are listed below. 
+Sieve analysis specified the gradation of aggregate. This process was used to determine whether the aggregates are within the 
+specified range or not. 
+a) Gradation of Coarse Aggregate 
+Gradation, sieve analysis is used to assess the particle size distribution of a granular material by allowing the material to pass 
+through a series of sieves. 
+    The gradation of sampled coarse aggregate is presented in Table 4.  
+ 
+Table 4: Sieve Analysis of Coarse Aggregate 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+       Source: Lab test, 2020  
+ Table 4 indicates gradation are within the specified range, hence aggregates are suitable for the concrete production. 
+ 
+b) Gradation of Fine Aggregate 
+Gradation, sieve analysis is used to assess the particle size distribution of a granular material by allowing the material to pass 
+through a series of sieves. 
+The gradation of sampled fine aggregate is presented in Table 5.  
+ 
+ 
+ 
+ 
+Sieve Size 
+Percentage Passing 
+(%) 
+Specification of DOR 
+16 mm 
+100 
+90-100% 
+12.5 mm 
+82.40 
+- 
+10 mm 
+43.36 
+30-70% 
+4.75 mm 
+0.00 
+0-10% 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1406
+
+
+----- TABLE p5#1 -----
+
+Sieve Size | Percentage Passing
+(%) | Specification of DOR
+16 mm | 100 | 90-100%
+12.5 mm | 82.40 | -
+10 mm | 43.36 | 30-70%
+4.75 mm | 0.00 | 0-10%
+
+===== PAGE 6 =====
+
+ 
+Table 5: Sieve Analysis of Fine Aggregate Source. 
+Sieve Size 
+Percentage Passing 
+(%) 
+Specification 
+10 mm 
+100.00 
+100% 
+4.75 mm 
+97.33 
+95-100% 
+2.36 mm 
+95.63 
+95-100% 
+1.18 mm 
+90.29 
+90-100% 
+0.6 mm 
+88.24 
+80-100% 
+0.3 mm 
+48.60 
+15-50% 
+0.15 mm 
+13.88 
+0-15% 
+Source: Lab test, 2020 
+Table 5 reveals that gradation are within the specified range of Zone IV grading limits for fine aggregates (IS: 383-1970). 
+ 
+c) Specific Gravity and Water Absorption 
+The result of Specific Gravity are presented in Table 6. Specific gravity was found within the standard range (>2.5) as per Standard 
+Specification for Road and Bridge Works-2073 of DoR, Nepal.  
+ 
+Table 6: Specific Gravity of Coarse Aggregate 
+Source 
+Specific Gravity 
+DOR Specification 
+Kotre Source 
+2.69 
+>2.5 
+Source: Lab test,2020 
+The obtained result of water absorption is presented in Table 7. Water absorption of coarse aggregate was comprised within the 
+standard range (< 2%) as per Standard Specification for Road and Bridge Works- 2073 of DoR, Nepal. 
+ 
+Table 7: Water Absorption of Coarse Aggregate 
+Source 
+Water Absorption 
+DOR Specification 
+Kotre Source 
+0.35% 
+<2% 
+Source: Lab test, 2020 
+B. Flow Properties of Self Compacting Concrete 
+The obtained results of various trails and respective flow properties are presented in Table 8.  
+ 
+Table 8: Various Trails and SCC Flow Test 
+Trials 
+Slump Flow (mm) 
+V-funnel Flow 
+(sec) 
+L-box Ratio 
+(h2/h1) 
+TRC3 
+640 
+- 
+- 
+TRC4 
+670 
+12 
+0.71 
+TRC5 
+710 
+8 
+0.9 
+Recommended Limits 
+600-800 mm 
+8-12 sec 
+0.8-1 
+Source: Lab Test, 2020. 
+ 
+C. Compressive Strength of Mix Design of Concrete 
+The compressive strength of cube samples was tested as per standards and the obtained results are given below. 
+The compressive strength of cube samples which were casted as per IS 10262:2009 & IS 456:2000 (design mix guidelines) were 
+tested as per standards. The reflected results of concrete cubes are given in Table 9. 
+ 
+Table 9: Compressive Strength of Sampled Concrete Cube (in N/mm2) 
+ 
+ 
+Mix Proportions 
+ 
+Sample 
+7 Days Result 
+at lab 
+28 Days Result at 
+Lab 
+ 
+IS Code 
+TRA7 
+1 
+18.44 
+28.37 
+>26.6 
+TRB5 
+2 
+13.85 
+21.41 
+<26.6 
+TRC5 
+3 
+18.07 
+27.78 
+>26.6 
+Source: Lab test, 2020. 
+From the results obtained in flow test and compressive strength, trail TRC5 complies with SCC and Strength parameters for study 
+so it was further used in RHA replacement study. 
+ 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1407
+
+
+----- TABLE p6#1 -----
+
+Sieve Size | Percentage Passing
+(%) | Specification
+10 mm | 100.00 | 100%
+4.75 mm | 97.33 | 95-100%
+2.36 mm | 95.63 | 95-100%
+1.18 mm | 90.29 | 90-100%
+0.6 mm | 88.24 | 80-100%
+0.3 mm | 48.60 | 15-50%
+0.15 mm | 13.88 | 0-15%
+
+----- TABLE p6#2 -----
+
+Source | Specific Gravity | DOR Specification
+Kotre Source | 2.69 | >2.5
+
+----- TABLE p6#3 -----
+
+Source | Water Absorption | DOR Specification
+Kotre Source | 0.35% | <2%
+
+----- TABLE p6#4 -----
+
+Trials | Slump Flow (mm) | V-funnel Flow
+(sec) | L-box Ratio
+(h2/h1)
+TRC3 | 640 | - | -
+TRC4 | 670 | 12 | 0.71
+TRC5 | 710 | 8 | 0.9
+Recommended Limits | 600-800 mm | 8-12 sec | 0.8-1
+
+----- TABLE p6#5 -----
+
+Mix Proportions | Sample | 7 Days Result
+at lab | 28 Days Result at
+Lab | IS Code
+TRA7 | 1 | 18.44 | 28.37 | >26.6
+TRB5 | 2 | 13.85 | 21.41 | <26.6
+TRC5 | 3 | 18.07 | 27.78 | >26.6
+
+===== PAGE 7 =====
+
+D. Flow Properties of SCC with added RHA 
+The obtained results of cement replaced with various proportion  and respective flow properties are presented in Table 10.  
+ 
+Table 10: Various Trails and SCC Flow Test with RHA Percentage 
+RHA ( in %) 
+Slump Flow (mm) 
+V-funnel Flow (sec) 
+L-box Ratio (h2/h1) 
+0 
+720 
+9 
+0.92 
+5 
+693 
+11.5 
+0.9 
+10 
+664 
+15 
+0.7 
+15 
+637 
+- 
+0.65 
+20 
+602 
+- 
+- 
+30 
+595 
+- 
+- 
+Recommended Limits 
+600-800 mm 
+8-12 sec 
+0.8-1 
+Source: Lab test, 2020. 
+ 
+E. Compressive Strength of Mix Design of Concrete 
+The compressive strength of cube samples which were casted as per IS 10262:2009 & IS 456:2000 (design mix guidelines) were 
+tested as per standards. The reflected results of concrete cubes are given in Table 11. 
+ 
+Table 11: Compressive Strength of RHA Added Concrete Cube (in N/mm2) 
+ 
+ 
+ 
+Trail No. 
+RHA (in %) 
+Compressive Strength in N/mm2 at 
+ 
+ 
+ 
+Remarks 
+ 
+7 Day 
+28 Day 
+45 Day 
+1 
+0 
+18.67 
+27.33 
+27.41 
+ 
+2 
+5 
+11.19 
+15.19 
+18.52 
+ 
+3 
+10 
+8.52 
+12.07 
+14.44 
+ 
+4 
+15 
+5.33 
+8.74 
+10.30 
+ 
+5 
+20 
+5.85 
+9.85 
+11.63 
+ 
+6 
+30 
+4.74 
+8.07 
+9.70 
+ 
+Source: Lab test, 2020. 
+ 
+Figure 4: Compressive Strength of Sampled Concrete Cube with Added RHA 
+0
+5
+10
+15
+20
+25
+30
+RHA 0
+RHA 5
+RHA 10
+RHA 15
+RHA 20
+RHA 30
+Compressive Strength Mpa
+RHA Percentage
+COMPRESSIVE STRENGTH OF SAMPLED CONCRETE CUBE WITH ADDED RHA
+7 Day
+28 Day
+45 Day
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1408
+
+
+----- TABLE p7#1 -----
+
+RHA ( in %) | Slump Flow (mm) | V-funnel Flow (sec) | L-box Ratio (h2/h1)
+0 | 720 | 9 | 0.92
+5 | 693 | 11.5 | 0.9
+10 | 664 | 15 | 0.7
+15 | 637 | - | 0.65
+20 | 602 | - | -
+30 | 595 | - | -
+Recommended Limits | 600-800 mm | 8-12 sec | 0.8-1
+
+----- TABLE p7#2 -----
+
+Trail No. | RHA (in %) | Compressive Strength in N/mm2 at |  |  | Remarks
+ |  | 7 Day | 28 Day | 45 Day | 
+1 | 0 | 18.67 | 27.33 | 27.41 | 
+2 | 5 | 11.19 | 15.19 | 18.52 | 
+3 | 10 | 8.52 | 12.07 | 14.44 | 
+4 | 15 | 5.33 | 8.74 | 10.30 | 
+5 | 20 | 5.85 | 9.85 | 11.63 | 
+6 | 30 | 4.74 | 8.07 | 9.70 | 
+
+===== PAGE 8 =====
+
+ 
+The above figure identifies that the control specimen achieved a compressive strength of 27.33 MPa. This result was consistent 
+with the target strength identified in the calculated mix design. The strength development between 7 day and 28 day strength 
+observed in the control is slightly different to the strength development apparent in each of the trial mix designs with RHA as 
+some strength has found to be developed lately which is illustrated through the 45 days strength. However it is evident through 
+review of the above data that inclusion of RHA in replacement of OPC results in decreased strength development. When the 
+cement content is reduced and quantity of pozzolan is increased there is a reduced amount of leftover Ca(OH)2 available as a 
+reactive ingredient. As such the remaining amorphous silica is only able to serve as a filler in the mix, and therefore does not 
+successfully contribute to strength development.  
+4. CONCLUSION 
+The application of SCC has the potential to overcome many limitations currently evident in the construction industry. Through 
+utilization of this material it is possible to construct larger structures with dense reinforcement without affecting its strength 
+characteristics. Hardened concrete testing in the form of compressive strength tests provided necessary data confirming the impact 
+RHA has on the strength parameters of SCC. The test results confirmed that the inclusion of RHA resulted in subsequent 
+reductions. The strength reduction was larger than originally anticipated. As such there was no specific application of RHA 
+considered optimal in this instance. There is however still potential for application of each mix design. In instances requiring 
+lower strength concretes significant replacement of OPC with a cheaper pozzolan creates an economically beneficial product.  
+The final strength properties achieved by RHA did not meet the design compressive strength, the data collated from experimental 
+analysis provides sufficient evidence to support the application of RHA as a SCM. Through attaining further understanding 
+regarding the characteristics of RHA and its interaction with cement there is potential to develop a product suitable for application 
+as a sustainable building material. RHA has been identified as a suitable material for application as a pozzolan.  
+ 
+REFERENCES 
+[1] K. Murthy.N, “Mix Design Procedure for Self Compacting Concrete,” IOSR J. Eng., vol. 02, no. 09, pp. 33–41, 2012. 
+[2] V. Kanthe, S. Deo, and M. Murmu, “Combine use of fly ash and rice husk ash in concrete to improve its properties,” Int. J. Eng. Trans. A Basics, vol. 
+31, no. 7, pp. 1012–1019, 2018. 
+[3] K. Islam and Z. Hossain, Potential Use of Rice Husk Ash (RHA) in Flowable Fill Concrete, vol. 271, no. 18. 2019. 
+[4] Department of Roads, “Standard Specifications for Road and Bridge Works 2073,” 2001. 
+[5] The European Project Group, “The European Guidelines for Self-Compacting Concrete Specification, Production and Use,” Eur. Guidel. Self Compact. 
+Concr., no. May, p. 63, 2005. 
+[6] Shazim Ali Memon, Muhammad Ali Shaikh, Hassan Akbar. (2011), “Utilization of Rice Husk Ash as viscosity modifying agent in Self Compacting 
+Concrete” Construction and Building Materials 25 (2011) pp.1044–1048. 
+ 
+ 
+ 
+ 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS070576
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 07, July-2020
+1409

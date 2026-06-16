@@ -1,0 +1,599 @@
+
+===== PAGE 1 =====
+
+1 
+53 (2C), 2020: 1-12 
+EFFECT OF DIFFERENT TYPES OF RICE HUSK ASH ON SOME 
+GEOTECHNICAL PROPERTIES OF CEMENT-ADMIXED SOIL 
+1Nguyen Thanh Duong* and 1Nguyen Thi Nu 
+1Hanoi University of Mining and Geology, Hanoi, Vietnam 
+*E-mail: nguyenthanhduong@humg.edu.vn
+Received: 11 May 2020; accepted:  9 July 2020 
+ABSTRACT 
+Rice husk ash (RHA) is an agricultural residue and has shown great potential for soil 
+stabilization. However, the research on the utilization of RHA for soft soil improvement using 
+cement deep mixing method is still limited and the efficiency of using different RHA types for 
+soil improvement needs to be clarified. In this study, the effect of different RHA types on 
+Atterberg limits, unconfined compressive strength (UCS), and elastic modulus (E50) of soil-
+cement mixtures will be investigated. Two types of RHA which obtained from open fire burning 
+(RHA1) and burning in a furnace under controlled conditions of temperature and duration of 
+burning (RHA2), were used for this study. The RHA contents from 0 to 15% and 10% cement of 
+the dry weight of the soil were used to treat the soft soil. The research results show that the types 
+of RHA insignificantly affect the change in Atterberg limits of cement-admixed soil. Regarding 
+the soil strength, the RHA2 shows a higher efficiency in the enhancement of treated soil strength 
+at 28 days of curing than the RHA1. The addition of 12% RHA2 to the cement-admixed soil can 
+increase the UCS and E50 values of treated soil by more than 50%. 
+Keywords: RHA; Open fire burning; Atterberg limits; UCS; E50; Cement-admixed soil 
+ INTRODUCTION 
+Recently, the use of industrial and agricultural wastes such as fly ash, steel slag, blast furnace slag, 
+rice husk ash (RHA), wood ash, and bagasse ash in civil engineering applications is one of the great 
+interests and has received much attention from the literature (e.g., James and Pandian, 2016; 
+Jayanthi and Singh, 2016; Kuntikana and Singh, 2017 and Varaprasad et al., 2020). The utilization 
+of these wastes could reduce the amount of landfilled, replace natural aggregates such as sand, 
+gravel or even conventional Portland cement as well as reduce the construction cost. However, the 
+utilization of RHA as a pozzolanic material in civil engineering is still limited. Rice husk ash 
+DOI: 10.46717/igj.53.2c.1Rs-2020-09-01
+
+
+===== PAGE 2 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+2 
+(RHA) is an agricultural-by product that is abundant in many developing countries such as China, 
+India, the USA, Brazil, and Southeast Asia (Hossain et al., 2018). The ash is porous, lightweight, 
+and contains a high content of silica with above 70%, even up to 98% (Fapohunda et al., 2017). 
+However, the RHA is often treated as waste and disposed of to the environment and may cause a 
+serious problem for the air and water environments, and human health. Thus, it is necessary to 
+increase the utilization of this waste in civil engineering application to reduce the negative effect 
+on the environment and reduce the construction cost as well.  
+ 
+One of the civil engineering applications that can utilize the RHA is soil improvement. The 
+silica in RHA can be reacted with calcium hydroxide in lime and cement to form the cementitious 
+products which can enhance the soil strength. Thi Nu et al.  2020 mentioned that the increase in 
+salt and alum contents caused a decrease in undrained shear strength and an increase in liquid limit 
+and compression index. Thus, the salt content in soil can impact many fields (Al-Hamdani et al., 
+2016). Many investigations have been conducted to examine the suitability of soil stabilization 
+with RHA and cement ( Hossain, 2011; Basha et al., 2005; Jongpradist et al., 2018; Rahman, 1987; 
+Roy, 2014; Yoobanpot and Jamsawang, 2014). However, most of these investigations examined 
+the utilization of RHA to stabilize soils for base and sub-base layers in pavement and road 
+applications. Recently, Jongpradist et al. (2018) have investigated the use of RHA as a cementitious 
+material in high-strength cement-admixed clay in the cement deep mixing method. In their 
+research, the RHA and cement contents used ranged from 5 to 35% and 10 to 30% respectively. 
+The research results found that the RHA significantly improved the strength of soil-cement 
+admixtures with the cement content above 20%. However, according to Farouk and Shahien 
+(2013), from the literature, the amount of cement used in the soil-cement column is typically ranged 
+from 5 to 16% of the weight of the soil (Farouk and Shahien, 2013). Therefore, the use of RHA in 
+combination with cement content in the typical range for cement deep mixing method should be 
+extensively examined. Furthermore, the quality of RHA that is the content of amorphous silica in 
+RHA significantly depends on the burning condition (temperature and duration of burning). The 
+amount of amorphous silica will affect the pozzolanic reaction and the formation of gel CSH 
+(Behak, 2017). However, the effect of different types of RHA on the efficiency of soil improvement 
+is rarely examined. In Vietnam, burning rice residue, including rice husk, in open fire is very 
+common, especially in rural areas (Lasko and Vadrevu, 2018 and Thao et al., 2011). Thus, the use 
+of RHA from this condition for soil improvement should be investigated. In this study, the effect 
+
+
+===== PAGE 3 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+3 
+of two types of RHA, including the RHA obtained from open fire burning and the RHA obtained 
+from burning in controlled conditions of temperature and duration, on some geotechnical properties 
+of cement-admixed soil will be investigated. The amount of RHA of 5, 8, 12, and 15% and cement 
+content of 10% of the dry weight of the soil to be treated were used for this investigation. The 
+Atterberg limits of soil-cement-RHA admixtures were determined; the unconfined compressive 
+strength and elastic modulus (E50) of admixtures were determined at 28 days of curing. 
+MATERIALS AND METHODS 
+Burning Rice Husk and Properties of Rice Husk Ash 
+The temperature and duration of burning rice husk significantly affect the quality of RHA. Behak 
+(2017) found that the RHA from burning rice husk in a controlled temperature of 6500C-8000C (in 
+incinerator) was more reactive than that from burning in uncontrolled temperature (in conventional 
+ovens). Cordeiro et al. (2009) revealed that the RHA obtained from uncontrolled burning 
+conditions often contained high carbon content with low pozzolanic activity. Nguyen et al. (2011) 
+also stated that the RHA with high reactive silica content cannot be obtained from open burning of 
+rice husk and burning rice husk below the temperature of 5000C. Under uncontrolled conditions, 
+the RHA from bio-mass power plants and open burning were not fully burned and contained a high 
+carbon content and high loss of ignition (LOI) (Karatai et al., 2016 and Liu et al., 2019b, 2019a). 
+Therefore, burning rice husk in controlled conditions of temperature and time is often used to 
+produce RHA with high pozzolanic activity.  
+However, burning rice husk in the open fire under uncontrolled conditions of burning 
+temperature and time is popular in Vietnam, especially in rural areas. In this study, the rice husk 
+ash from open fire burning (RHA1) and from controlled burning conditions (RHA2) were 
+collected. In open fire, the rice husk was burned for about 5-6 hours to obtain RHA1. The RHA2 
+was obtained from burning rice husk in a furnace at a temperature of 6000C and 2 hours of burning. 
+The RHA after collecting was ground and passed through the sieve of No. 40 (425µm). The 
+physical properties and chemical compositions of two types of RHA are shown in Table 1. The 
+RHA1 contains a lower content of silica, a higher content of LOI compared to the RHA2. 
+Regarding the color, the color of RHA2 is lighter than that of RHA1 (Fig. 1). This result is 
+consistent with the statement of Houston (1972). Accordingly, the lighter color of RHA2 is a result 
+of a higher content of silica.  
+
+
+===== PAGE 4 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+4 
+     
+ 
+Fig. 1. The color of ground RHA used in this study 
+ 
+Table 1. Physical properties and chemical compositions of RHA used in this study 
+Properties 
+RHA1 (high carbon 
+content) 
+RHA2 (low carbon 
+content) 
+Specific gravity 
+1.94 
+2.24 
+Physical properties 
+Color 
+Blackish grey 
+Whitish grey 
+ 
+ 
+ 
+Chemical 
+compositions (%) 
+SiO2 
+58.61 
+77.56 
+Fe2O3 
+0.17 
+0.40 
+Al2O3 
+0.20 
+0.48 
+TiO2 
+0.03 
+0.04 
+MnO 
+0.18 
+0.23 
+Na2O 
+0.03 
+0.07 
+K2O 
+3.35 
+5.34 
+CaO 
+1.25 
+2.25 
+MgO 
+0.71 
+1.21 
+P2O5 
+0.63 
+1.02 
+SO3 
+1.03 
+3.04 
+Cr2O3 
+<0.01 
+<0.01 
+Cl 
+0.33 
+0.29 
+LOI (Loss of Ignition) 
+33.25 
+8.08 
+SiO2+ Fe2O3+ Al2O3 
+58.98 
+78.44 
+ 
+Soil and Cement 
+The soil sample was collected from the borehole at the depth of 1-2 m in Thanh Hoa province, 
+Vietnam. The size of soil particles is shown in Fig. 2. Some physio-mechanical properties of 
+
+
+----- TABLE p4#1 -----
+
+Properties |  |  | RHA1 (high carbon |  |  | RHA2 (low carbon | 
+ |  |  | content) |  |  | content) | 
+Specific gravity |  | 1.94 |  |  | 2.24 |  | 
+Physical properties | Color | Blackish grey |  |  | Whitish grey |  | 
+Chemical
+compositions (%) | SiO
+2 | 58.61 |  |  | 77.56 |  | 
+ | Fe O
+2 3 | 0.17 |  |  | 0.40 |  | 
+ | Al O
+2 3 | 0.20 |  |  | 0.48 |  | 
+ | TiO
+2 | 0.03 |  |  | 0.04 |  | 
+ | MnO | 0.18 |  |  | 0.23 |  | 
+ | Na O
+2 | 0.03 |  |  | 0.07 |  | 
+ | K O
+2 | 3.35 |  |  | 5.34 |  | 
+ | CaO | 1.25 |  |  | 2.25 |  | 
+ | MgO | 0.71 |  |  | 1.21 |  | 
+ | P O
+2 5 | 0.63 |  |  | 1.02 |  | 
+ | SO
+3 | 1.03 |  |  | 3.04 |  | 
+ | Cr O
+2 3 | <0.01 |  |  | <0.01 |  | 
+ | Cl | 0.33 |  |  | 0.29 |  | 
+ | LOI (Loss of Ignition) | 33.25 |  |  | 8.08 |  | 
+ | SiO + Fe O + Al O
+2 2 3 2 3 | 58.98 |  |  | 78.44 |  | 
+
+===== PAGE 5 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+5 
+studied soil are presented in Table 2. The studied soil is blackish grey, brownish grey clay with the 
+soft state and the content of organic matter in the soil is rather high with 9.8%. The strength of the 
+soil sample is very low with the unconfined compressive strength (UCS) value of 14.7 kPa. In this 
+study, the Portland cement PCB40 from VICEM (Vietnam National Cement Corporation) was 
+used. This cement contains 63.5% CaO, 20.22% SiO2, and 16.28% for other compositions such as 
+Fe2O3, Al2O3, SO3. 
+ 
+Fig. 2. Particle size distribution of soil sample used 
+Table 2. Properties of soil sample  
+Index property 
+Unit 
+Index value 
+Natural water content 
+% 
+88.0 
+Unit weight 
+g/cm3 
+1.67 
+Dry unit weight 
+g/cm3 
+0.89 
+Void ratio 
+- 
+2.026 
+Specific gravity 
+- 
+2.68 
+Liquid limit 
+% 
+91.9 
+Plasticity limit 
+% 
+48.4 
+Plasticity index 
+- 
+43.5 
+Liquidity index 
+- 
+0.91 
+Organic matter 
+% 
+9.8 
+Unconfined compressive strength (UCS) 
+kPa 
+14.7 
+ 
+ 
+Sample Preparation and Method 
+The Atterberg limits of soil-cement-RHA admixtures were determined at 0 day of curing (0 day 
+after mixing) following ASTM D4318-00.  
+
+
+----- TABLE p5#1 -----
+
+ | Index property |  |  | Unit |  |  | Index value | 
+Natural water content |  |  | % |  |  | 88.0 |  | 
+Unit weight |  |  | g/cm3 |  |  | 1.67 |  | 
+Dry unit weight |  |  | g/cm3 |  |  | 0.89 |  | 
+Void ratio |  |  | - |  |  | 2.026 |  | 
+Specific gravity |  |  | - |  |  | 2.68 |  | 
+Liquid limit |  |  | % |  |  | 91.9 |  | 
+Plasticity limit |  |  | % |  |  | 48.4 |  | 
+Plasticity index |  |  | - |  |  | 43.5 |  | 
+Liquidity index |  |  | - |  |  | 0.91 |  | 
+Organic matter |  |  | % |  |  | 9.8 |  | 
+Unconfined compressive strength (UCS) |  |  | kPa |  |  | 14.7 |  | 
+
+===== PAGE 6 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+6 
+For UCS tests, the soil-cement-RHA admixtures were prepared in the metal cylindrical mold with 
+a height of 10 cm, a diameter of 5 cm. This size of the sample for determination of UCS values 
+was also used in the previous studies (Horpibulsuk et al., 2011, 2005; Chew et al., 2004; Miura et 
+al., 2001; Yoobanpot and Jamsawang, 2014). The admixtures in the form of slurry were created by 
+mixing soil with 10% cement and different RHA contents of 5, 8, 12, and 15% in a mixer for about 
+5 to 10 minutes. The admixture of soil with 10% cement and 0% RHA was also prepared for a 
+controlled sample. In all admixtures, the ratio of water to cement is 1. The slurry of admixtures 
+was then placed and compacted into the metal mold in three layers. The surface of the sample was 
+flattened, and the sample was then weighted. After three days of molding, the specimens were 
+removed from the mold and were then sealed using a plastic box to maintain the moisture content. 
+All the specimens were cured at room humidity and temperature for 28 days before testing. The 
+UCS values of soil-cement-RHA admixtures were determined in accordance with ASTM D2166-
+00 with the loading rate of 1 mm/min. The elastic modulus (E50) that was the secant modulus at 
+50% of compressive strength was also calculated.  
+ 
+ TEST RESULTS AND DISCUSSIONS 
+Atterberg Limit 
+The results of the liquid limit (LL), plasticity limit (PL), and plasticity index (PI) of soil-cement-
+RHA admixtures are shown in Fig. 3. For both types of RHA, the LL and PL values slightly 
+increase as the RHA content increases. However, the increase of PL is more pronounced than that 
+of LL. The tendency of LL and PL after adding RHA to soil-cement mixtures observed in this study 
+is similar to that after adding cement or RHA to soil observed in previous studies (Basha et al., 
+2005). The increase of LL can be attributed to the more water needed for the soil fluid when the 
+RHA is added (Okafor and Okonkwo, 2009 and Sarkar et al., 2012). The increase of PL can be due 
+to the pozzolanic characteristics of RHA (Fattah et al., 2013 and Sarkar et al., 2012). The plasticity 
+index of soil treated with cement and RHA shows a general decrease trend. In which, the PI of soil 
+treated with cement and RHA1 decreases from 41.2 to 35.3%, while that of soil treated with cement 
+and RHA2 decreases from 41.2 to 35.5%. This indicates that the types of RHA insignificantly 
+affect the change in the plasticity index of soil treated with cement and RHA.   
+ 
+
+
+===== PAGE 7 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+7 
+ 
+ 
+Fig. 3. Variation of Atterberg limits of soil-cement-RHA admixtures 
+ 
+Fig. 4. Effect of RHA on the PI of treated soil with cement and RHA 
+
+
+===== PAGE 8 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+8 
+ Unconfined Compressive Strength and Elastic Modulus 
+The results of UCS from the unconfined compression test and calculated elastic modulus (E50) are 
+shown in Table 3. The variation of UCS of soil treated with cement and different RHA contents is 
+shown in Fig. 5.  The increase in the content of RHA1 leads to a slight increase in the UCS values. 
+However, the increase in the content of RHA2 leads to a significant increase in UCS values. The 
+highest UCS of soil treated with 10% cement and different types of RHA was observed at 8% 
+RHA1 and 12% RHA2 (Fig. 5).  
+Nevertheless, the addition of 8% RHA1 to the soil-cement mixture increases only about 6% 
+of UCS values while the addition of 12% RHA2 can lead to more than 50% increase in UCS values. 
+This increases that the pozzolanic activity of RHA2 is significantly higher than that of RHA1. This 
+is attributed to the difference in burning conditions. In other words, the RHA obtained from 
+controlled burning can result in a higher soil strength enhancement compared to the RHA obtained 
+from uncontrolled burning. For both types of RHA, the RHA increasing above the optimum content 
+will result in a decrease of UCS.  
+This tendency is also observed in previous studies. Yoobanpot and Jamsawang (2014) 
+showed that the highest UCS of soil-cement admixture was found at 30% RHA replacement cement 
+in the cement deep mixing method. In general, the decrease of UCS can be attributed to the lack of 
+water for the pozzolanic reaction when the RHA increases above the optimum content. In addition, 
+since the RHA is a non-plastic material, the redundant RHA can lead to decrease the soil strength. 
+These causes are similar to the use of granulated blast furnace slag (GBFS) and ground granulated 
+blast furnace slag (GGBFS) for  the soil improvement (Sekhar et al., 2017 and Sharma and 
+Sivapullaiah, 2016). 
+ 
+Regarding the effect of RHA types on UCS, as shown in Fig. 5, the UCS values of soil 
+treated with cement and RHA1 is significantly lower than those of soil treated with cement and 
+RHA2. This is attributed to the low silica content and the high carbon content of RHA1. Previous 
+studies showed that the pozzolanic activity of RHA plays an important role in the enhancement of 
+soil strength (Behak, 2017; Boateng and Skeete, 1990). Thus, the low silica content will lower the 
+soil strength enhancement. Besides, the high carbon content in RHA can hidden the pozzolanic 
+reaction and results in a lower increase in soil strength.  
+ 
+ 
+
+
+===== PAGE 9 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+9 
+Table 3. Results of UCS and E50 of soil treated with cement and RHA 
+RHA 
+content (%) 
+Cement content 
+(%) 
+UCS (kPa) 
+E50 (kPa) 
+RHA1 
+RHA2 
+RHA1 
+RHA2 
+0 
+10 
+106.2 
+106.2 
+7662 
+7662 
+5 
+10 
+92.8 
+114.2 
+6199 
+7748 
+8 
+10 
+113 
+155.6 
+6551 
+9169 
+12 
+10 
+60.5 
+170.5 
+3952 
+11397 
+15 
+10 
+79.4 
+135.9 
+4411 
+8138 
+ 
+ 
+Fig. 5. Variation of UCS values of soil treated with cement and RHA 
+ 
+Fig. 6. Variation of E50 values of soil treated with cement and RHA 
+
+
+----- TABLE p9#1 -----
+
+ | RHA |  |  | Cement content |  |  | UCS (kPa) |  |  |  |  |  | E (kPa)
+50 |  |  |  | 
+ | content (%) |  |  | (%) |  |  | RHA1 |  |  | RHA2 |  |  | RHA1 |  |  | RHA2 | 
+0 |  |  | 10 |  |  | 106.2 |  |  | 106.2 |  |  | 7662 |  |  | 7662 |  | 
+5 |  |  | 10 |  |  | 92.8 |  |  | 114.2 |  |  | 6199 |  |  | 7748 |  | 
+8 |  |  | 10 |  |  | 113 |  |  | 155.6 |  |  | 6551 |  |  | 9169 |  | 
+12 |  |  | 10 |  |  | 60.5 |  |  | 170.5 |  |  | 3952 |  |  | 11397 |  | 
+15 |  |  | 10 |  |  | 79.4 |  |  | 135.9 |  |  | 4411 |  |  | 8138 |  | 
+
+===== PAGE 10 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+10 
+The variation of UCS of soil is treated with cement and different RHA contents (Fig. 6). Like 
+the UCS values, the increase of RHA2 content leads to a significant increase in the elastic modulus 
+(E50) of treated soil. The highest value of E50 is also found when 12% RHA content is added to 
+cement-admixed soil. Accordingly, the addition of 12% RHA2 can increase the E50 value of treated 
+soil by 55%. By contrast, the increase of RHA1 content results in a decrease in the E50 of treated 
+soil. This indicates that the RHA2 is more effective than the RHA1 in soil improvement for both 
+UCS and E50 parameters. As mentioned above, the reason here is attributed to higher pozzolanic 
+reaction activity of RHA2 compared to that of RHA1.  
+ 
+Fig. 7. Relationship between UCS and E50 for soil treated with cement and RHA 
+The relationship between UCS and E50 parameters for soil treated with cement and different 
+types of RHA is plotted in Fig. 7. The E50 of soil is treated with cement and RHA at 28 days of 
+curing can be estimated as 63.8UCS (coefficient of determination, R2=0.95). This result is almost 
+similar to that of Yoobanpot and Jamsawang (2014) while it is slightly lower than that of 
+Jongpradist et al. (2018). Accordingly, the E50 of soil treated with cement and RHA can be equal 
+to 61.2UCS (R2=0.98) (Yoobanpot and Jamsawang, 2014) and 84.3UCS (R2=0.91) (Jongpradist et 
+al., 2018). For deep mixing using only cement, the E50 can be equal to 30UCS ÷ 300UCS (Fang et 
+al., 2001) or 350UCS ÷ 1000UCS (Kawasaki et al., 1981). The JSG Association of Japan (1986) 
+proposed the relationship E50 = 100UCS ÷ 300UCS for the jet grouting method.  
+CONCLUSIONS 
+Based on the results of this experimental investigation, the effect of RHA types on some 
+geotechnical properties of cement-admixed soil has been clarified. Accordingly, for both types of 
+studied RHA, the increase in RHA content leads to a reduction in the plasticity index of soil-cement 
+
+
+===== PAGE 11 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+11 
+mixtures. However, the types of RHA do not affect the decrease of this index. By contrast, the soil 
+strength of treated soil significantly depends on the types of RHA. In which, the RHA obtained 
+from controlled burning in a furnace (RHA2) results in a significant increase of both UCS and E50 
+values of cement-admixed soil at 28 days of curing, especially with the addition of 12% RHA2, 
+while the RHA obtained from the open fire burning (RHA1) has a little effect on the enhancement 
+of treated soil strength. The addition of 12% RHA2 can increase the UCS and E50 of treated soil by 
+more than 50% compared to those of cement-admixed soil without RHA.  
+ACKNOWLEDGMENTS 
+This research was supported by Hanoi University of Mining and Geology (HUMG) under project 
+number T19-35. I would like to thank my colleagues at the Department of Engineering Geology, 
+HUMG. The authors are very grateful to the Editor in Chief Prof. Dr. Salih M. Awadh, the 
+Secretary of Journal Mr. Samir R. Hijab and the Technical Editor Dr. Heba S. Al-Mimar for their 
+great efforts and valuable comments. 
+REFERENCES 
+Al-Hamdani, J. A. J, Awadh, S. M., and Ibrahim, O. S., 2016. Geochemical partitioning of heavy metals in Urban 
+soil, Kirkuk, Iraq. Iraqi Geological Journal., 39-49. 
+ASTM D2166 - 00. Standard test method for unconfined compressive strength of cohesive soil.  
+ASTM D4318 - 00. Standard test methods for liquid limit, plastic limit, and plasticity index of soils 
+Basha, E. A., Hashim, R., Mahmud, H. B., Muntohar, A. S., 2005. Stabilization of residual soil with rice husk ash and 
+cement. Construction and building materials, 19: 448–453. 
+Behak, L., 2017. Soil Stabilization with Rice Husk Ash. Chapter 3 in Rice-Technology and Production. 
+Chew, S. H., Kamruzzaman, A. H. M., Lee, F. H., 2004. Physicochemical and engineering behavior of cement treated 
+clays. Journal of geotechnical and geoenvironmental engineering, 130: 696–706. 
+Cordeiro, G. C., Toledo Filho, R. D., Fairbairn, E. de M.R., 2009. Use of ultrafine rice husk ash with high-carbon 
+content as pozzolan in high performance concrete. Materials and structures, 42: 983–992. 
+Fapohunda, C., Akinbile, B., Shittu, A., 2017. Structure and properties of mortar and concrete with rice husk ash as 
+partial replacement of ordinary Portland cement–A review. International Journal of Sustainable Built 
+Environment, 6: 675–692. 
+Farouk, A., Shahien, M. M., 2013. Ground improvement using soil–cement columns: Experimental investigation. 
+Alexandria Engineering Journal, 52: 733–740. 
+Fang, Y. S., Chungy, Y. T., Yu, F. J., and Chen, T. J., 2001. Properties of soil-cement stabilised with deep mixing 
+method, Ground Improvement (2001) 5 (2): 69-74. 
+Fattah, M. Y., Rahil, F. H., Al-Soudany, K. Y., 2013. Improvement of clayey soil characteristics using rice husk ash. 
+Journal of Civil Engineering and Urbanism, 3:12–18. 
+Hossain, K. M. A, 2011. Stabilized soils incorporating combinations of rice husk ash and cement kiln dust. Journal of 
+Materials in Civil Engineering, 23: 1320–1327. 
+Hossain, S. S., Mathur, L., Roy, P. K., 2018. Rice husk/rice husk ash as an alternative source of silica in ceramics: A 
+review. Journal of Asian Ceramic Societies, 6: 299–313. 
+Horpibulsuk, S., Miura, N., Nagaraj, T. S., 2005. Clay–water/ cement ratio identity for cement admixed soft clays. 
+Journal of Geotechnical and Geoenvironmental Engineering, 131:187–192. 
+
+
+===== PAGE 12 =====
+
+Iraqi Geological Journal                 Duong and Thi Nu           53 (2C), 2020: 1-12 
+ 
+ 
+ 
+12 
+Horpibulsuk, S., Rachan, R., Suddeepong, A., 2011. Assessment of strength development in blended cement admixed 
+Bangkok clay. Construction and Building Materials, 25:1521–1531. 
+James, J., Pandian, P. K., 2016. Industrial wastes as auxiliary additives to cement/lime stabilization of soils. Advances 
+in Civil Engineering 2016. 
+Jayanthi, P. N., Singh, D. N., 2016. Utilization of sustainable materials for soil stabilization: state-of-the-art. Advances 
+in Civil Engineering Materials, 5: 46–79. 
+Jongpradist, P., Homtragoon, W., Sukkarak, R., Kongkitkul, W., Jamsawang, P., 2018. Efficiency of rice husk ash as 
+cementitious material in high-strength cement-admixed clay. Advances in Civil Engineering 2018. 
+JSG Association., 1986. JSG method-technical information, Tokyo, Japan, 89 pp (in Japanese) 
+Karatai, T. R., Kaluli, J. W., Kabubo, C., Thiong’o, G., 2016. Soil stabilization using rice husk ash and natural lime as 
+an alternative to cutting and filling in road construction. Journal of Construction Engineering and Management. 
+Kawasaki, T., Nina, A., Saitoh, S., Suzuki, Y., Honzo, Y., 1981. Deep mixing method using cement hardening agent. 
+Proceedings of the 10th International conference on soil mechanics and foundation engineering, Stockholm. 
+Kuntikana, G., Singh, D.N., 2017. Contemporary issues related to utilization of industrial byproducts. Advances in 
+Civil Engineering Materials, 6: 444–479. 
+Lasko, K., Vadrevu, K., 2018. Improved rice residue burning emissions estimates: Accounting for practice-specific 
+emission factors in air pollution assessments of Vietnam. Environmental Pollution, 236: 795–806. 
+Liu, Y., Chang, C.-W., Namdar, A., She, Y., Lin, C.-H., Yuan, X., Yang, Q., 2019a. Stabilization of expansive soil 
+using cementing material from rice husk ash and calcium carbide residue. Construction and Building Materials, 
+221:1–11. 
+Liu, Y., Su, Y., Namdar, A., Zhou, G., She, Y., Yang, Q., 2019b. Utilization of cementitious material from residual 
+rice husk ash and lime in stabilization of expansive soil. Advances in Civil Engineering 2019. 
+Miura, N., Horpibulsuk, S., Nagaraj, T.S., 2001. Engineering behavior of cement stabilized clay at high water content. 
+Soils and Foundations, 41: 33–45. 
+Nguyen, N., Ye, G., Van Breugel, K., Fraaij, A.L., Dai Bui, D., 2011. The study of using rice husk ash to produce ultra 
+high performance concrete. Construction and Building Materials, 25: 2030–2035. 
+Okafor, F.O., Okonkwo, U.N., 2009. Effects of rice husk ash on some geotechnical properties of lateritic soil. Nigerian 
+Journal of Technology, 28: 46–52. 
+Rahman, M. A., 1987. Effects of cement-rice husk ash mixtures on geotechnical properties of lateritic soils. Soils and 
+Foundations, 27: 61–65. 
+Roy, A., 2014. Soil stabilization using rice husk ash and cement. International journal of civil engineering research, 5: 
+49–54. 
+Sarkar, G., Islam, M. R., Alamgir, M., Rokonuzzaman, M., 2012. Interpretation of rice husk ash on geotechnical 
+properties of cohesive soil. Global Journal of Research In Engineering 12. 
+Sekhar, D. C., Nayak, S., Preetham, H. K., 2017. Influence of granulated blast furnace slag and cement on the strength 
+properties of lithomargic clay. Indian Geotechnical Journal, 47: 384–392. 
+Sharma, A. K., Sivapullaiah, P.V., 2016. Ground granulated blast furnace slag amended fly ash as an expansive soil 
+stabilizer. Soils and Foundations, 56: 205–212. 
+Thao, P.T. M., Kurisu, K. H., Hanaki, K., 2011. Greenhouse gas emission mitigation potential of rice husks for An 
+Giang province, Vietnam. Biomass and Bioenergy, 35: 3656–3666. 
+Thi Nu, N., Duong, N. T., Son, B. T., and Thinh, P. H., 2020. Investigation of salt, alum content in soft soils and their 
+effects on soil properties: case study in coastal areas of Vietnam, Iraqi Geological Journal, 53 (2A): 19-34. 
+Varaprasad, B. J. S., Reddy, J. J., Reddy, J. S., 2020. Remediation of expansive soils using mango kernel ash and 
+calcium carbide residue. IJEWM 25, 220. https://doi.org/10.1504/IJEWM.2020.105351 
+Yoobanpot, N., Jamsawang, P., 2014. Effect of cement replacement by rice husk ash on soft soil stabilization. Kasetsart 
+Journal-Natural Science, 48: 323–332. 
+ 

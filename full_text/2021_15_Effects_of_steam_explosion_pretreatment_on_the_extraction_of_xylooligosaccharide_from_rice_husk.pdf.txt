@@ -1,0 +1,669 @@
+
+===== PAGE 1 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6910 
+ 
+Effects of Steam Explosion Pretreatment on the 
+Extraction of Xylooligosaccharide from Rice Husk 
+  
+Feng Yan, Shuangqi Tian,* Ke Du, and Xinwei Wang 
+ 
+Rice husk, which contains hemicellulose, can be used as a renewable 
+resource to produce xylooligosaccharide (XOS). However, it is difficult to 
+destroy the lignin structure of rice husk. Steam explosion (SE) is an 
+effective method in destroying the lignin structure to enhance the release 
+of hemicellulose and cellulose. In this study, SE pretreatment was used at 
+different high pressures. The results showed that the lignin structure of 
+rice husk could be collapsed by SE pretreatment, and the chemical 
+structures of rice husk were evaluated by Fourier transform infrared 
+spectroscopy (FTIR). The SE pretreatment resulted in the significant 
+increase of XOS content and antioxidant activities. In summary, SE 
+pretreatment under 2.5 MPa was chosen as a good option for the 
+production of XOS from rice husk. 
+ 
+Keywords: Rice husk; Steam explosion (SE); Xylooligosaccharide (XOS) 
+ 
+Contact information: College of Food Science and Engineering, Henan University of Technology, 
+Zhengzhou 450001, China; *Corresponding author: tianshuangqi2002@126.com 
+ 
+ 
+INTRODUCTION 
+ 
+Rice is one of the most widely grown grain crops in the world. In the processing of 
+rice, a huge amount of rice husk is generated, and rice husk accounts for about 23% of the 
+total weight of rice, resulting in 800 million tons of rice husk produced every year, while 
+50% of rice husk comes from China (Shen et al. 2021). The composition structure of rice 
+husk is approximately 26 to 31% lignin, 25 to 35% cellulose, 18 to 21% hemicelluloses, 
+and 15 to 17% silica (Alam et al. 2020). The application of rice husk is mainly to use its 
+rice husk ash to make concrete (Pachla et al. 2021). However, its higher value utilization 
+deserves more attention.  
+In addition to biorefineries, rice husk can also be used to produce xylooligo-
+saccharides (XOS). The XOS are functional oligosaccharides composed of 2 to 7 xylose 
+molecules combined with β-1,4 glycosidic bonds (Pinales-Márquez et al. 2021). XOS is 
+considered as an indigestible oligosaccharide and can be used as a dietary 
+sweetener in low energy food (Zhang et al. 2016). It is also semi-prebiotic. Both in 
+vitro and in vivo studies show that XOS can produce prebiotic effects when 
+fermented by specific beneficial bacteria (such as 
+Lactobacillus and 
+Bifidobacterium). XOS can enhance the balance of microorganisms in the 
+intestinal tract (Palaniappan et al. 2021). Furthermore, XOS also have antioxidant 
+activity (Zhou et al. 2018). Rice husk contains a lot of hemicellulose, which is the source 
+of xylan (Remedios et al. 2006). XOS is produced by xylanase hydrolysis of hemicellulose 
+(Mathew et al. 2018). The maximum XOS production of rice husk is 17.35 ± 0.31 
+mg/mL xylan (Banerjee et al. 2009; Nuntawat et al. 2018). The specific enzyme 
+hydrolysis of rice husk generates the highest proportion of XOS with degrees of 
+polymerization in the range 2 to 3 (Vegas et al. 2008). 
+
+
+===== PAGE 2 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6911 
+XOS can be obtained by physical, chemical, or enzymatic methods (Samanta et al. 
+2012; Jayapal et al. 2013). In addition, agricultural plant biomass rich in xylan can also be 
+directly autohydrolysed under high temperature and high pressure to produce XOS. Due to 
+the specificity of the hydrolase, there is less unnecessary pollution during enzymatic 
+hydrolysis (Samanta et al. 2015). Pretreatment of rice husk contributes to the release of 
+sugar; for example, alkaline and acid soaking pretreatment can greatly improve the 
+subsequent enzymatic hydrolysis (Kawet et al. 2016). Another pretreatment method is 
+steam explosion (SE). The high shear force of SE is released during the high temperature 
+explosion, and it can destroy and depolymerize cellulose and hemicellulose (Sui and Chen 
+2014). For example, SE pretreatment has proven to be an effective method to enhance the 
+water solubility of raw materials (Chao et al. 2010). Previous studies have shown that, 
+compared to conventional laboratory-scale methods, SE can produce XOS-rich 
+hydrolysates with properties similar to or even better than prebiotics (Carvalho et al. 2017). 
+Rice husk is composed of a heterogeneous complex of carbohydrate polymers. 
+Cellulosic sugars (such as cellulose and hemicellulose) are tightly packed by the lignin 
+layer, thereby protecting them from enzymatic hydrolysis. Therefore, it is important to 
+include a pretreatment process to destroy the lignocellulose structure to expose cellulose 
+and hemicellulose to promote enzymatic action (Abbas and Ansumali 2010). The SE is an 
+effective pretreatment method that can mechanically decompose lignocellulosic structure 
+to make lignocellulosic biomass more vulnerable to enzyme attack (Shimizu et al. 2017). 
+In this study, rice husk was pretreated with SE under different pressures and then 
+hydrolyzed with xylanase. The lignin content and microstructure of SE rice husk was 
+measured. The antioxidant activity and XOS content of the product through the 
+combination of SE and enzymatic reaction were analyzed. This study aims to explore the 
+impact of SE preprocessing on XOS extraction. Furthermore, this investigation will assist 
+in the production of XOS from rice husk. 
+ 
+ 
+EXPERIMENTAL 
+ 
+Materials and Chemicals 
+Rice husk was purchased from Jinyuan Grain Trade Company (Jilin, China). The 
+xylanase (the enzyme activity was more than 100000 u/mg) was purchased from Biotopped 
+Company (Beijing, China). All the standard samples were obtained from Aladdin (Beijing, 
+China). The other analytical reagents were purchased from Kemiou Chemical Reagent 
+Company (Tianjin, China).  
+ 
+SE Pretreatments for Rice Husk 
+400 mL of rice husk was put into the SE reactor (QB-300, Tsing-Gentle Eco-
+Technology, Suzhou, China). The high-pressure steam was gradient risen and kept at 
+varying pressures of 1.2 MPa (188 ℃), 1.4 MPa (195 ℃), 1.6 MPa (201 ℃), 1.8 MPa 
+(207 ℃), 2.0 MPa (212 ℃), or 2.5 MPa (224 ℃) for 5 min. Samples were stored in an 
+oven at 50 ℃ for 12 h until dried. Untreated sample was labeled as US, and the pretreated 
+samples were labeled as SE-1.2, SE-1.4, SE-1.6, SE-1.8, SE-2.0, and SE-2.5, respectively. 
+ 
+Lignin Content Analysis  
+Samples were ground in a vertical cyclone mill (Type3001 Perten Instruments Co., 
+Ltd., Sweden) and then passed through a 35-mesh sieve. Lignin was determined using the 
+
+
+===== PAGE 3 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6912 
+NREL method (Sluiter et al. 2010). The lignin content was determined by two-step acid 
+hydrolysis. After 72% and 4% sulfuric acid hydrolysis, the material was processed with a 
+crucibled filter, baked in oven to constant weight, and burned in a Muffle furnace. The 
+lignin content was calculated according to Eq. 1. Moisture and ash content were tested 
+using the method of American Association of Cereal Chemists. The moisture content was 
+tested by baking rice husk in a oven to constant weight. Ash content was tested by burning 
+rice husk in a muffle furnace to constant weight (AACC 2000),  
+ 
+Lignin content(%) =
+[(WeightG4 plus acid insoluble residue−WeightG4)−(WeightG4 plus Ash−WeightG4)]
+ODWsample
+× 100 (1) 
+where WeightG4 means the weight of G4 (a kind of glass sand core crucible) that has been 
+incinerated to a constant weight in a Muffle furnace. WeightG4 plus Acid insoluble  means the 
+sum of the weight of G4 and sample that has been filtered and dried after two-step acid 
+hydrolysis. WeightG4 plus Ash means the sum of the weight of G4 and acid insoluble residue 
+that has been incinerated in a Muffle furnace. ODWsample means the oven dry weight of 
+sample. 
+Scanning Electronic Microscopy (SEM) Analysis  
+Each sample was coated on the copper sheet with conductive adhesive and then 
+stored in the vapor deposition chamber for gold plating (D07-19BM; Ketan Instrument 
+Equipment Co., Ltd., Zhengzhou, China). The sample was observed and imaged using a 
+scanning electron microscope (SU3800; Hitachi Scientific Instruments Co., Ltd., Beijing, 
+China). 
+ 
+Fourier Transform Infrared Spectroscopy (FTIR) Analysis  
+The different rice husk samples were sifted through 100-mesh sieve. The SE 
+pretreated sample (1 mg) was ground and pressed with 100 mg KBr. All spectra were 
+captured using a FTIR spectrophotometer (Nicolet FT-IR6700; Thermo Fisher Scientific, 
+Madison, WI, USA).  
+  
+XOS Content Analysis after Enzymolysis 
+The content of XOS was expressed by the reducing sugar content of the enzymatic 
+hydrolysate of rice husk, which was detected by DNS method (in xylose, mg/g) (Yang et 
+al. 2007). The pretreated rice husks were enzymolyzed by the xylanase. The solid-liquid 
+ratio was 1:15. The addition amount of xylanase was 3%, at pH 4.80, 50 °C for 2 h. The 
+enzyme was inactivated at 100 °C for 10 min, then centrifuged at 8000 rpm for 10 min 
+(Martin-Sampedro et al. 2012). The collected supernatant was diluted to detect reducing 
+sugar and total sugar content. The XOS content was determined by the dinitrosalicylic acid 
+(DNS) method with xylose as the standard (Zhao et al. 2020). Then 3 mL of diluted 
+supernatant was mixed with 2 mL DNS, then reacted in a boiling water bath for 5 min, 
+cooled, diluted with water to a constant volume of 25 mL, and the absorbance at 540 nm 
+was compared with xylose standard curve, making it possible to calculate the content of 
+XOS. 
+ 
+Antioxidant Activities Analysis  
+The antioxidant activities were expressed by DPPH and ·OH radical scavenging 
+rates (Kallel et al. 2015). The collected supernatant of rice husk after xylanase hydrolysised 
+
+
+===== PAGE 4 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6913 
+and centrifuge was diluted to detect the DPPH and ·OH radical scavenging rates. Samples 
+were vortexed with DPPH and incubated for 30 min in the dark. The optical density was 
+obtained at 517 nm using an ultraviolet-visible spectrophotometer (752; Jinghua 
+Instruments Co., Ltd., Shanghai, China). Water and ethanol were used as the control and 
+blank, respectively (Chao et al. 2014). The DPPH radical scavenging property of the 
+sample was calculated as shown below in Eq. 2: 
+DPPH radical scavenging activity (%) = (1 −
+Absorbance of samples
+Absorbance of control) ×  100  
+(2) 
+The formula for ·OH radical scavenging activity is the same as above. 
+ 
+Statistical Analysis  
+The data were expressed as mean ± standard deviation (SD) values. The statistical 
+methods were a one-way analysis of variance and Duncan's multiple comparison method. 
+The results were statistically significant (p < 0.05). The software used for significance 
+analysis was SPSS 20.0 (IBM Corp., Armonk, NY, USA). 
+ 
+ 
+RESULTS AND DISCUSSION 
+ 
+Lignin Content of SE Pretreated Rice Husk 
+The lignin contents of rice husk at different pressures used in SE pretreatment are 
+shown in Table 1. When the pressure of SE pretreatment increased, the lignin proportions 
+decreased. As shown in Fig. 1. Lignin content decreased from 24.48% to 15.65% after the 
+SE pretreatment, due to the cleavage of lignin bonds (Li et al. 2007).  
+ 
+Table 1. Lignin Content of SE-pretreated Rice Husk 
+ 
+Samples 
+Moisture Content (%) 
+Lignin (%) 
+Ash (%) 
+US 
+8.79 ± 0.01a 
+24.48 ± 0.75a 
+17.03 ± 0.03e 
+SE-1.2 
+7.29 ± 0.05b 
+19.18 ± 0.71b 
+16.70 ±  0.03f 
+SE-1.4 
+7.16 ± 0.01b 
+17.58 ± 0.51bc 
+17.25 ± 0.02d 
+SE-1.6 
+6.73 ± 0.02cd 
+17.43 ± 0.62bc 
+17.62 ±  0.05c 
+SE-1.8 
+6.67 ± 0.02d 
+16.86 ± 0.51c 
+18.26 ± 0.04b 
+SE-2.0 
+6.87 ± 0.09c 
+16.02 ± 0.56c 
+19.02 ± 0.03a 
+SE-2.5 
+5.91 ± 0.05e 
+15.65 ± 0.12c 
+19.01 ± 0.01a 
+Each value is expressed as mean ± standard deviation, the a, b c etc. indicates significant 
+difference of results when two rows do not share any letter in common. 
+ 
+ 
+ 
+Fig. 1. The schematic of SE-pretreated cell wall of rice husk 
+
+
+----- TABLE p4#1 -----
+
+Samples | Moisture Content (%) | Lignin (%) | Ash (%)
+US | 8.79 ± 0.01a | 24.48 ± 0.75a | 17.03 ± 0.03e
+SE-1.2 | 7.29 ± 0.05b | 19.18 ± 0.71b | 16.70 ± 0.03f
+SE-1.4 | 7.16 ± 0.01b | 17.58 ± 0.51bc | 17.25 ± 0.02d
+SE-1.6 | 6.73 ± 0.02cd | 17.43 ± 0.62bc | 17.62 ± 0.05c
+SE-1.8 | 6.67 ± 0.02d | 16.86 ± 0.51c | 18.26 ± 0.04b
+SE-2.0 | 6.87 ± 0.09c | 16.02 ± 0.56c | 19.02 ± 0.03a
+SE-2.5 | 5.91 ± 0.05e | 15.65 ± 0.12c | 19.01 ± 0.01a
+
+===== PAGE 5 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6914 
+SEM Analysis of SE-pretreated Rice Husk  
+Scanning electron microscopy was used to observe the samples to evaluate the 
+effect of SE pretreatment methods on rice husks. Natural rice husk exhibited typical 
+integrity, with no visible fractures (Fig. 2a). The rice husk pretreated with SE at 2.5 MPa 
+showed significant concave-convex structure (Fig. 2b). The barrier structure on the surface 
+may be damaged. This change may be caused by the high defibrillating power of the SE 
+pretreatment with sudden decompression (Rocha et al. 2015). Previous studies have shown 
+that SE pretreatment affects the solubilization and recovery of glucan, xylan, arabinan in 
+Brewer’s spent grain (Kemppainen et al. 2016). The results showed that the SE-2.5 might 
+help to extract XOS from rice husk. 
+ 
+  
+(a)   
+ 
+    
+     (b) 
+ 
+Fig. 2. The microstructure of different rice husk detected by SEM: a: US and b: SE-2.5 
+ 
+4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+20
+40
+60
+80
+100
+Transmittance (%)
+Wavenumber (cm-1)
+ US
+ SE-2.5
+3423.02
+2921.63
+1737.55
+1637.27
+1508.06
+898.67
+ 
+ 
+Fig. 3. FTIR spectroscopy of SE-pretreated rice husk 
+Wavenumber (cm-1) 
+Transmittance (%) 
+
+
+----- TABLE p5#1 -----
+
+ | 1737.55
+2921.63
+898.67
+1637.27
+1508.06
+3423.02 |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+===== PAGE 6 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6915 
+FTIR Analysis of SE-pretreated Rice Husk 
+The FTIR spectroscopy was performed to evaluate the effect of SE-2.5 on rice husk. 
+As shown in Fig. 3, the vibration at 3423 cm-1 represents the -OH group of cellulose. This 
+absorbance was weakened in SE-2.5 (Saelee et al. 2014). Steam explosion destroyed the 
+structure of cellulose (Čater et al. 2014). This result is consistent with Sun et al. (2005), 
+who studied the properties of cellulose degraded from steam-fried wheat straw and found 
+that high-temperature steam pretreatment can lead to severe cellulose degradation or 
+structural modification of cellulose during steam explosion.  
+In addition, in SE-2.5, the intensity of the band at 898 cm-1 related to the β-1,4-
+glycosidic bond of glucose in cellulose decreased (Karim et al. 2014). The band at 1737 
+cm-1 represents hemicellulose disappeared by comparison with the US, indicating that a 
+considerable amount of hemicellulose was deacetylated into organic acids under high 
+pressure. This finding confirmed that steam explosion had a great effect on hemicellulose, 
+because hemicellulose is easily broken due to its amorphous state and low degree of 
+polymerization (Trache et al. 2014). Hemicellulose is hydrolyzed in oligosaccharides or 
+monosaccharin and can be degraded into furfural and hydroxymethyl furfural under severe 
+conditions (Jacquet et al. 2015). The stretching vibration of aromatic rings at 1508 and 
+1637 cm-1 that are attributed to the C=C in lignin structures was weakened, confirming that 
+the molecular structure of lignin was destroyed by steam explosion (Nieves et al. 2011). 
+The SE pretreatment could lead to most of the hydrolysis of hemicellulose and a small part 
+of lignin becoming soluble in the water phase (Zhang et al. 2008). This is consistent with 
+the previous lignin content analysis. These spectral changes indicate that the structure of 
+cellulose, hemicellulose, and lignin may be damaged by SE pretreatment, which indicates 
+that rice husk can be used more effectively.  
+ 
+XOS Content in the SE-prepared Rice Husk 
+Both xylobiose and xylotriose have reductive properties. The reducing sugar 
+content can be used to represent the XOS content (Yang et al. 2007). The different pressure 
+levels of SE significantly affected the XOS content of rice husk (Fig. 4).  
+ 
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+1.6
+1.8
+2.0
+2.2
+2.4
+2.5
+0
+20
+40
+60
+80
+100
+120
+140
+XOS content (mg/g)
+Pressure(MPa)
+ 
+ 
+Fig. 4. XOS content of enzymatic SE-pretreated rice husk 
+Pressure (MPa) 
+XOS Content (mg/g) 
+
+
+===== PAGE 7 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6916 
+The content of XOS significantly increased from 4.91 to 131.49 mg/g. The XOS 
+content of pretreated rice husk was higher than US. The results showed that SE could 
+significantly improve the enzymatic digestibility of insoluble carbohydrates (Kemppainen 
+et al. 2016). The increase in XOS content and yield might be attributed to the substantial 
+destruction of the lignocellulose structure (Singh et al. 2015). The results of SEM and FTIR 
+also confirmed the dissolution of sugar and destruction of hemicellulose structure. This 
+indicated that the enzymatic hydrolysis after steam explosion may be helpful for the 
+extraction of XOS from rice husk. 
+ 
+ 
+(a) 
+ 
+ 
+(b) 
+ 
+Fig. 5. The DPPH and ·OH clearance rate of different enzymatic SE-pretreated rice husk:  
+(a) DPPH clearance rate and (b) ·OH clearance rate 
+ 
+Pressure (MPa) 
+Pressure (MPa) 
+Pressure (MPa) 
+DPPH Radical Scavenging Rate (%) 
+·OH Radical Scavenging Rate (%) 
+
+
+===== PAGE 8 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6917 
+Antioxidant Activities of SE-prepared Rice Husk  
+The different pressure levels of SE were able to significantly affected the DPPH 
+and ·OH radical scavenging rate of rice husk (Fig. 5). The DPPH radical scavenging rate 
+significantly increased from 24.94% to 87.47%, and the ·OH radical scavenging rate also 
+increased. The increase of DPPH and ·OH radical scavenging rate may be attributed to 
+the increase of the XOS content (Zhou et al. 2018). After enzymatic hydrolysis, the active 
+compound might also be more easily dissolved in the reaction buffer. Therefore, the 
+scavenging ability of the xylo-oligosaccharide mixture was due to the effective release of 
+phenolic compounds and the transfer of hydrogen or hydroxyl molecules from phenolic 
+compounds (Huang et al. 2005). 
+ 
+ 
+CONCLUSIONS 
+ 
+1. The synergistic action of steam explosion (SE) pretreatment and xylanase enzymolysis 
+reaction was chosen as an option to extract xylo-oligosaccharides (XOS) from rice husk.  
+2. Because of the SE pretreatment, the barrier function of lignin in rice husk was destroyed, 
+and its content decreased, especially at 2.5 MPa.  
+3. SE pretreatment of 2.5 MPa was helpful to increase XOS yield and antioxidant activities. 
+Steam explosion technology can obviously increase the yield of XOS, which is a feasible 
+auxiliary extraction method. Flash steaming, high pressure are also easy to achieve. It 
+can assist the extraction of XOS, further improving the extraction rate and reducing 
+production costs. Therefore, SE pretreatment was suitable for effective pretreatment 
+method of rice husk in the food processing industry.  
+ 
+ 
+ACKNOWLEDGEMENTS 
+ 
+This research was supported by the National Key R&D Program (no. 
+2018YFD0401000) and funded by NSFC (no. 31701636). The authors would like to 
+acknowledge for Young Backbone Teachers in Henan province and Henan University of 
+Technology. 
+ 
+Conflict of Interest 
+The authors declare that there is no conflict of interest 
+ 
+ 
+REFERENCES CITED 
+ 
+AACC (2000). Approved Methods of Analysis, 11th Ed., AACC International, St. Paul, 
+MN, USA. 
+Abbas, A., and Ansumali, S. (2010). “Global potential of rice husk as a renewable 
+feedstock for ethanol biofuel production,” BioEnerg. Res. 3(4), 328-334. DOI: 
+10.1007/s12155-010-9088-0 
+Alam, M. M., Hossain, M. A., Hossain, M. D., Johir, M. A. H., Hossen, J., Rahman, M. 
+S., Zhou, J. L., Hasan, A. T. M. K., Karmakar, A. K., and Ahmed, M. B. (2020). 
+
+
+===== PAGE 9 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6918 
+“The potentiality of rice husk-derived activated carbon: From synthesis to 
+application,” Processes 8(2), article no. 203. DOI: 10.3390/pr8020203 
+Banerjee, S., Sen, R., Pandey, R. A., Chakrabarti, T., Satpute, D., Giri, B. S., and 
+Mudliar, S. (2009). “Evaluation of wet air oxidation as a pretreatment strategy for 
+bioethanol production from rice husk and process optimization,” Biomass Bioenerg. 
+33(12), 1680-1686. DOI: 10.1016/j.biombioe.2009.09.001 
+Carvalho, A. F., Marcondes, W. F., Pedro, D., Pastore, G. M., Saddler, J. N., and 
+Arantes, V. (2017). “The potential of tailoring the conditions of steam explosion to 
+produce xylooligosaccharides from sugarcane bagasse,” Bioresource Technol. 250, 
+221-229. DOI: 10.1016/j.biortech.2017.11.041 
+Čater, M., Zorec, M., and Logar, R. M. (2014). “Methods for improving anaerobic 
+lignocellulosic substrates degradation for enhanced biogas production,” Springer 
+Sci. Rev. 2(1), 51-61. DOI: 10.1007/s40362-014-0019-x  
+Chao, T., Yan, Q., Jiang, Z., Fan, G., and Shi, B. (2010). “Production of 
+xylooligosaccharides from the steam explosion liquor of corncobs coupled with 
+enzymatic hydrolysis using a thermost-able xylanase,” Bioresource Technol. 
+101(19), 7679-7682. DOI: 10.1016/j.biortech.2010.05.004 
+Huang, D., Ou, B., and Prior, R. L. (2005). “The chemistry behind antioxidant capacity 
+assays,” J. Agric. Food Chem. 53(6), 1841-1856. DOI: 10.1021/jf030723c 
+Jacquet, N., Maniet, G., Vanderghem, C., Delvigne, F., and Richel, A. (2015). 
+“Application of steam explosion as pretreatment on lignocellulosic material: A 
+review,” Ind. Eng. Chem. Res. 54(10), 2593-2598. DOI: 10.1021/ie503151g 
+Karim, M., Chowdhury, Z., Hamid, S., and Ali, M. (2014). “Statistical optimization for 
+acid hydrolysis of microcrystalline cellulose and its physiochemical characterization 
+by using metal ion catalyst,” Materials (Basel) 7(10), 6982-6999. DOI: 
+10.3390/ma7106982  
+Kallel, F., Driss, D., Chaabouni, S. E., and Ghorbel, R. (2015). “Biological activities of 
+xylooligosaccharides generated from garlic straw xylan by purified xylanase from 
+Bacillus mojavensis UEB-FK,” Appl. Biochem. Biotechnol. 175(2), 950-964. DOI: 
+10.1007/s12010-014-1308-1 
+Kemppainen, K., Rommi, K., Holopainen, U., and Kruus, K. (2016). “Steam explosion 
+of Brewer's spent grain improves enzymatic digestibility of carbohydrates and 
+affects solubility and stability of proteins,” Appl. Biochem. Biotechnol. 180(1), 94-
+108. DOI: 10.1007/s12010-016-2085-9 
+Li, J., Henriksson, G., and Gellerstedt, G. (2007). “Lignin depolymerization 
+repolymerization and its critical role for delignification of aspen wood by steam 
+explosion,” Bioresource Technol. 98(16), 3061-3068. DOI: 
+10.1016/j.biortech.2006.10.018 
+Martin-Sampedro, R., Eugenio, M. E., Garcia, J. C., Lopez, F., Villar, J. C., and Diaz, 
+M. J.  (2012). “Steam explosion and enzymatic pre-treatments as an approach to 
+improve the enzymatic hydrolysis of Eucalyptus globulus,” Biomass Bioenerg. 
+42(7), 97-106. DOI: 10.1016/j.biombioe.2012.03.032 
+Mathew, S., Aronsson, A., Karlsson, E. N., and Aldercreutz, P. (2018). “Xylo and 
+arabino-xylooligosaccharides from wheat bran by endoxylanases, utilisation by 
+probiotic bacteria, and structural studies of the enzymes,” Appl. Microbiol. Biot. 
+102(7), 3105-3120. DOI: 10.1007/s00253-018-8823-x 
+
+
+===== PAGE 10 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6919 
+Nieves, D. C., Karimi, K., and Horváth, I. S. (2011). “Improvement of biogas 
+production from oil palm empty fruit bunches (OPEFB),” Ind. Crop. Prod. 34(1), 
+1097-1101. DOI: 10.1016/j.indcrop.2011.03.022 
+Nuntawat, K. U., Sundaram, S. B., Sasithorn, S., Sirilun, S., Lailerd, N., Peerajan, S., 
+and Chaiyasut, C. (2018). “Optimization of alkaline pretreatment and enzymatic 
+hydrolysis for the extraction of xylooligosaccharide from rice husk,” AMB Express 
+8(1), Article Number 115. DOI: 10.1186/s13568-018-0645-9 
+Pachla, E. C., Silva, D. B., Stein, K. J., Marangon, E., and Chong, W. (2021). 
+“Sustainable application of rice husk and rice straw in cellular concrete composites,” 
+Constr. Build. Mater. 283, article ID 122770. DOI: 
+10.1016/j.conbuildmat.2021.122770 
+Palaniappan, A., Antony, U., and Emmambux, M. N. (2021). “Current status of 
+xylooligosaccharides: Production, characterization, health benefits and food 
+application,” Trends Food Sci. Tech. 111, 506-519. DOI: 10.1016/j.tifs.2021.02.047 
+Pinales-Márquez, C. D., Rodríguez-Jasso, R. M., Araújo R. G., Loredo-Treviño A., 
+Nabarlatz, D., Gullón, B., and Ruiz, H. A. (2021). “Circular bioeconomy and 
+integrated biorefinery in the production of xylooligosaccharides from lignocellulosic 
+biomass: A review,” Ind. Crop. Prod. 162, article ID 113274. DOI: 
+10.1016/j.indcrop.2021.113274 
+Rocha, G., Alves, A. R., Nakanishi, S. C., Nascimento, V. M., and Silva, V. F. N. 
+(2015). “Pilot scale steam explosion and diluted sulfuric acid pretreatments: 
+Comparative study aiming the sugarcane bagasse saccharification,” Ind. Crop. Prod. 
+74, 810-816. DOI: 10.1016/j.indcrop.2015.05.074 
+Saelee, K., Yingkamhaeng, N., Nimchua, T., and Sukyai, P. (2014). “Extraction and 
+characterization of cellulose from sugarcane bagasse by using environmental 
+friendly method,” in: The 26th Annual Meeting of the Thai Society for Biotechnology 
+and International Conference, Bangkok, Thailand, pp. 162-168.  
+Samanta, A. K., Jayapal, N., Kolte, A. P., Senani, S., Sridhar, M., Suresh, K. P., and 
+Sampath, K. T. (2012). “Enzymatic production of xylooligosaccharides from alkali 
+solubilized xylan of natural grass (Sehima nervosum),” Bioresource Technol. 12, 
+199-205. DOI: 10.1016/j.biortech.2012.02.036 
+Samanta, A. K., Jayapal, N., Jayaram, C., Sohini, R., Kolte, A. P., Senani, S., and 
+Sridhar, M. (2015). “Xylooligosaccharides as prebiotics from agricultural by-
+products: Production and applications,” Bioactive Carbohydrates and Dietary Fibre 
+5(1), 62-71. DOI: 10.1016/j.bcdf.2014.12.003 
+Shen, X., Zhang, L., and Zhang, J. (2021). “Ratoon rice production in central China: 
+Environmental sustainability and food production,” Sci. Total Environ. 764, article 
+ID 142850. DOI: 10.1016/j.scitotenv.2020.142850 
+Singh, J., Suhag, M., and Dhaka, A. (2015). “Augmented digestion of lignocellulose by 
+steam explosion, acid and alkaline pretreatment methods: A review,” Carbohydr. 
+Polym. 117, 624-631. DOI: 10.1016/j.carbpol.2014.10.012 
+Sluiter, A. D., Hames, B., Ruiz, R., Scarlata, C., Sluiter, J., Templeton, D. W., and 
+Crocker, D. (2010). Determination of Structural Carbohydrates and Lignin in 
+Biomass (NREL/TP-510-42618), National Renewable Energy Laboratory, Golden, 
+CO, USA.  
+Sui, W., and Chen, H. (2014). “Extraction enhancing mechanism of steam exploded 
+Radix astragali,” Process Biochem. 49(12), 2181-2190. DOI: 
+10.1016/j.procbio.2014.08.010 
+
+
+===== PAGE 11 =====
+
+ 
+PEER-REVIEWED ARTICLE 
+ 
+bioresources.com 
+ 
+ 
+Yan et al. (2021). “Rice husk xylooligosaccharides,” BioResources 16(4), 6910-6920.  
+6920 
+Sun, X. F., Xu, F., Sun, R. C., Fowler, P., and Baird, M. S. (2005). “Characteristics of 
+degraded cellulose obtained from steam-exploded wheat straw,” Carbohydr. Res. 
+340(1), 97-106. DOI: 10.1016/j.carres.2004.10.022 
+Trache, D., Donnot, A., Khimeche, K., Benelmir, R., and Brosse, N. (2014). “Physico-
+chemical properties and thermal stability of microcrystalline cellulose isolated from 
+Alfa fibres,” Carbohydr. Polym.104, 223-230. DOI: 10.1016/j.carbpol.2014.01.058 
+Vegas, R., Alonso, J. L., and Domínguez, H., and Parajó, J. C. (2008). “Enzymatic 
+processing of rice husk autohydrolysis products for obtaining low molecular weight 
+oligosaccharides,” Food Biotechnol. 22(1), 31-46. DOI: 
+10.1080/08905430701863811 
+Yang, C. H., Yang, S. F., and Liu, W. H. (2007). “Production of xylooligosaccharides 
+from xylans by extracellular xylanases from Thermobifida fusca,” Journal of 
+Agricultural and Food Chem. 55(10), 3955-3959. DOI: 10.1021/jf0635964 
+Zhang, L. H., Li, D., Wang, L. J., Wang, T. P., Zhang, L., Chen, X. D., Mao, Z, H. 
+(2008). “Effect of steam explosion on biodegradation of lignin in wheat straw,” 
+Bioresour Techno. 99(17), 8512-8515. DOI: 10.1016/j.biortech.2008.03.028 
+Zhang, Y. D., Yu, G., Li, B., Mu, X., Peng, H., and Wang, H. (2016). “Hemicellulose 
+isolation, characterization, and the production of xylo-oligosaccharides from the 
+wastewater of a viscose fiber mill,” Carbohydr. Polym. 141(5), 238-243. DOI: 
+10.1016/j.carbpol.2016.01.022 
+Zhou, T., Xue, Y., Ren, F., and Dong, Y. (2018). “Antioxidant activity of 
+xylooligosaccharides prepared from Thermotoga maritima using recombinant 
+enzyme cocktail of β-xylanase and α-glucuronidase,” Journal of Carbohydrate 
+Chemi. 1-15. DOI: 10.1080/07328303.2018.1455843 
+ 
+Article submitted: May 24, 2021; Peer review completed: August 2, 2021; Revised 
+version received: August 6, 2021; Accepted: August 22, 2021; Published: August 27, 
+2021. 
+DOI: 10.15376/biores.16.4.6910-6920 

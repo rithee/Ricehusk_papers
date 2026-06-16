@@ -1,0 +1,542 @@
+
+===== PAGE 1 =====
+
+Open Journal of Civil Engineering, 2020, 10, 353-363 
+https://www.scirp.org/journal/ojce 
+ISSN Online: 2164-3172 
+ISSN Print: 2164-3164 
+ 
+DOI: 10.4236/ojce.2020.104027  Dec. 14, 2020 
+353 
+Open Journal of Civil Engineering
+ 
+ 
+ 
+ 
+Effect of Partial Replacement of Ordinary 
+Portland Cement (OPC) with Ghanaian Rice 
+Husk Ash (RHA) on the Compressive Strength of 
+Concrete 
+Derrick Nii-Laryea Botchway1, Russell Owusu Afrifa2, Charles Yeboah Henaku1 
+1Civil Engineering Department, Takoradi Technical University, Takoradi, Ghana  
+2Civil Engineering Department, Kwame Nkrumah University of Science & Technology, Kumasi, Ghana 
+ 
+ 
+ 
+Abstract 
+The cost of cement has made concrete production expensive such that the 
+housing deficit in developing countries is on the rise despite all the efforts by 
+governments and other stakeholders to produce affordable housing units for 
+the populace. Ashes of agricultural products such as rice husk, known as 
+mineral admixtures may have pozzolanic characteristics which would be 
+more beneficial to the housing industry in terms of strength gain and econo-
+my than being pollutants to the environment. Rice Husk Ash (RHA), because 
+of its finely divided form and very high silica content and amorphousness, 
+proved to be useful for strength gain of Rice Husk Ash Concrete (RHAC). 
+Rice husk ash was manufactured by uncontrolled burning, ground, sieved 
+and replaced with cement at 0%, 5%, 10%, 15%, 20% and 25% in mass for the 
+mixes C20, C25, C30 and C35 where their compressive strengths were veri-
+fied at 3, 7, 14, 21, 28, 56, 90 and 180 days. The X-ray diffraction pattern list 
+indicated amorphous as well as diffused peak of about 8000 counts of SiO2 
+representing crystalline structures identified as cristobalite. A physical ex-
+amination of the RHA showed very fine appearance, grey color and specific 
+gravity of 2.06. The chemical analysis also revealed the existence of oxide 
+content to be 55.8% representing 0.78% of Fe2O3, 54% of SiO2 and 1.06% of 
+Al2O3 representing 20.23% lower than the minimum value of 70% required 
+for pozzolans. Generally, the compressive strength values decreased as the 
+RHA content in the mixes increased but when compared to the control con-
+crete the optimum replacement percentage of Ordinary Portland Cement 
+(OPC) with RHA at 5% showed an increase above the control concrete for 
+C20 mix. The increase in the RHA in the mixes resulted in the high demand 
+for water in all the mixes. 
+How to cite this paper: Botchway, D.N.-L., 
+Afrifa, R.O. and Henaku, C.Y. (2020) Effect 
+of Partial Replacement of Ordinary Port-
+land Cement (OPC) with Ghanaian Rice 
+Husk Ash (RHA) on the Compressive 
+Strength of Concrete. Open Journal of Civil 
+Engineering, 10, 353-363. 
+https://doi.org/10.4236/ojce.2020.104027 
+Received: September 16, 2020 
+Accepted: December 11, 2020 
+Published: December 14, 2020 
+Copyright © 2020 by author(s) and  
+Scientific Research Publishing Inc. 
+This work is licensed under the Creative 
+Commons Attribution International  
+License (CC BY 4.0). 
+http://creativecommons.org/licenses/by/4.0/ 
+ 
+ 
+Open Access
+
+
+===== PAGE 2 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+354 
+Open Journal of Civil Engineering
+ 
+Keywords 
+Rice Husk Ash, Agricultural Waste, Mineral Admixture, Pozzolanic Activity, 
+Compressive Strength 
+ 
+1. Introduction 
+The use of concrete in infrastructural developments in the world especially in 
+developing countries has taken a center stage as the most expensive building 
+material to be resourced as can be seen in the cost of housing units in Ghana. 
+In spite of this, through the years, governments, private investors and other 
+stakeholders in developing countries have made efforts to provide affordable 
+housing facilities for citizens, but greater populations continue to live in deplor-
+able conditions due to their inability to afford for housing, thereby resulting in 
+their exposure to unhealthy environments and hazard-prone structures [1]. In 
+line with the objectives of governments and their development partners to im-
+prove the standard of living of citizens through the provision of affordable 
+housing facilities, the cost of production of ordinary Portland cement being one 
+of the major factors of the cost of housing units needs to be reduced drastically 
+to make housing affordability the accelerator of economic development to be 
+envisaged. 
+Rice husk ash has been used in Europe, Asia and the Americas as a partial re-
+placement of cement in concrete to reduce the quantity of cement in concrete as 
+well as improving the compressive strength based on the target strength expected. 
+In the quest of researchers to improve the properties of concrete, other re-
+quirements have been negatively affected, hence being consistent in keeping all 
+the properties of the concrete at the optimum happens to be the ultimate to suc-
+cessfully using this versatile material in developing Ghana. 
+Rice husk ash is known to be a mineral admixture or specifically pozzolanic 
+material which contains siliceous or both siliceous and aluminous compounds 
+and in the presence of moisture reacts with Calcium Hydroxide to form cemen-
+titious compounds. The use of rice husk ash was mentioned in the 1920s but re-
+search and development which led to its application can be traced back to the 
+1970s [2]. Since then, several studies have been undertaken where ultrafine RHA 
+was used as partial replacement of cement in concrete, as viscous modifying 
+agent in self-compacting concrete, in low-cost sandcrete block production, in 
+determining of its pozzolanic activity [3] as well as environmental and economic 
+benefits being derived from it. 
+Due to concrete’s appreciable performance in strength requirements, ease of 
+usage in construction and its durability in the normal environment, it cannot be 
+disputed that its use has become popular in the construction industry resulting 
+in the estimation that, one ton of cement contributes to about one ton of carbon 
+dioxide into the atmosphere [4]. Therefore, approximately 7% of the world’s 
+
+
+===== PAGE 3 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+355 
+Open Journal of Civil Engineering
+ 
+carbon dioxide emission is accountable for the production of OPC [5] which 
+may be directly linked with the uncomfortable environmental temperatures as-
+sociated with the ozone layer depletion, leading to global warming. 
+Considering the rate of increasing populations which is accompanied by spo-
+radic infrastructural developments, it cannot be over-emphasized that, in the 
+near future, the raw materials (limestone, clinker and gypsum) for the manufac-
+ture of cement which are obtained from the earth’s crust may be in short supply 
+due to their extraction and usage. Therefore, it is extremely important to be in 
+the production of other pozzolanic materials apart from the most common ones 
+like fly ash, silica fume and GBFS which would be in great supply to curtail the 
+rate of production of OPC.  
+The ability of RHA to react with the cement and their other constituents in the 
+concrete may depend on the mean grain size. Generally, RHA particles below 45 
+µm are capable of actively taking part in pozzolanic reactions [6] as opined that, 
+longer grinding times will result in smaller average particles size of RHA [7]. 
+In a study where Nigerian rice husk was used as partial replacement of cement 
+in concrete, compressive strength of 27.68 N/mm2 was obtained at 28 days for 
+5% RHA replacement as compared to the compressive strength of 29.5 N/mm2 
+for the control concrete at 28 days. There was a marginal difference of 0.68 
+N/mm2 between the 7 days strength of 17.51 N/mm2 for the control concrete as 
+compared to the 16.88 N/mm2 attained for the 5% RHA concrete. Generally, 
+there was a decrease in strength as the %RHA increased whilst the compressive 
+strength increased with the hydration time. All the same the 28 days compressive 
+strength of the 5% RHA replacement of cement was above the specified value of 
+25 N/mm2 for C25 concrete [8]. 
+In spite of all these investigations that have been undertaken on the use of 
+RHA in concrete and have yielded results, its Silica content and application is yet 
+to be envisaged in Ghana due to the ignorance of the silica content of the Gha-
+naian RHA since varying geological formations and method of chemical analysis 
+may influence the chemical content of soils and may translate into the amount 
+of Silica in the RHA [9]. This is evident that not much research has been done to 
+investigate the use of the Ghanaian RHA as a supplementary material in con-
+crete as well as other applications. 
+The purpose of this study is to investigate the effect of partial replacement of 
+cement with Ghanaian RHA on the compressive strength of concrete. The spe-
+cific objectives are to evaluate: 
+1) The physical properties of the Ghanaian RHA. 
+2) The chemical composition of the Ghanaian RHA. 
+3) The workability, compressive strength and density of Ghanaian RHA con-
+crete. 
+2. Methodology 
+In this experimental investigation, percentile replacement (0%, 5%, 10%, 15%, 
+
+
+===== PAGE 4 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+356 
+Open Journal of Civil Engineering
+ 
+20% and 25%) of cement with RHA by weight to compare with conventional 
+concrete experimental results for concrete mixes C20, C25, C30 and C35. A total 
+of 128 concrete cubes were cast and their compressive strengths of RHAC in 
+comparison with Conventional Concrete (CC) assessed. 
+2.1. Material Source and Preparation 
+Rapid Hardening Portland cement produced by Ghana Cement with 28-day 
+strength of 42.5 N/mm2 was used. River sand and crushed granite were the ag-
+gregates used. The rice husk was obtained from Asawaasi a suburb of Kumasi 
+also in the Ashanti Region of Ghana. 
+2.2. Physical Properties of Aggregates & Ghanaian RHA 
+Sieve analysis was conducted on each of the aggregates including RHA according 
+to ASTM C136 to obtain their particle size distribution where after, particles 
+were allowed to pass through stack of sieves with known openings and shaken 
+for about 10 minutes using a mechanical test sieve shaker. Upon removal of the 
+sieves, weight of sample retained on each sieve was recorded and subtracting the 
+respective mass of each sieve from weight of sieve and content. After calculating 
+the % passing by subtracting the cumulative percent retained from 100%, a 
+semi-logarithmic curve was plotted with ordinate axis being % passing and the 
+sieve sizes as abscissa (logarithmic scale). Specific gravity test was performed in 
+accordance with ASTM C127-07 (1993) in which specific gravity was obtained 
+from Equation (1) below. 
+(
+)
+S G
+A
+A
+C
+⋅
+=
+−
+                          (1) 
+where A = weight of oven dry specimen in air and C = weight of saturated spe-
+cimen in water. The water absorption of the aggregates (granite and Sand) were 
+tested using the saturated surface dry test method according to ASTM C125 and 
+obtained from Equation (2) below. 
+ % Water Absorbed
+100%
+B
+A
+A
+−
+=
+∗
+                 (2) 
+where A = weight of oven dry specimen in air and B = weight of saturated sur-
+face dry specimen in air.  
+2.3. Chemical Composition of the RHA 
+The X-ray Fluorescence method was used in the chemical analysis of the RHA. 
+The sample was heated prior to fusing where 0.5 g of the rice husk ash and 6.5 g 
+of fluxing material was placed in a crucible and 400 μl of liquid Lithium Bromide 
+was added to the sample before fusing. Available Sodium Oxide, Potassium 
+Oxide and alkali as well as loss on ignition were determined in accordance with 
+ASTM Designation: C311. 
+2.4. Mixing and Casting 
+The UK’S Department of Environment’s (DOE), (1998) mix design for conven-
+
+
+===== PAGE 5 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+357 
+Open Journal of Civil Engineering
+ 
+tional concrete was adopted for the investigation. Concrete grade strength of 20 
+N/mm2, 25 N/mm2 30 N/mm2 and 35 N/mm2 was designed for all mixes involv-
+ing partial replacement of cement with RHA 0%, 5%, 10%, 15%, 20% and 25% 
+with a w/c ratio of 0.45 for all the mixes. The determination of the material pro-
+portions for each mix was done by weight batching. The mixing of the aggre-
+gates was performed in a metal tub with a shovel where the cement aggregates 
+were exhaustively mixed to achieve a homogeneous mixture and the slump test 
+carried out. Prior to mixing, the moulds of 150 mm × 150 mm × 150 mm were 
+lubricated after which the concrete was placed in the cast iron moulds in three 
+layers. Each layer was compacted with about 25 blows of a tamping rod after 
+which the surface was dressed with a hand trowel and the specimens allowed to 
+set for 24 hours before demoulded and cured in water tanks by total submersion 
+to curtail the heat of hydration of the concrete. On day of testing, upon removal 
+of the cubes from the water tanks and allowing to attain dry surface state for 
+about 3 hours, then specimens were weighed and crushed. 
+2.5. Slump and Compressive Strength Tests 
+The slump cone test was performed by BS EN 12350-2 to determine the worka-
+bility of the concrete mix by pouring the concrete in the cone in three layers with 
+each layer being compacted with 25 blows of a 16 mm tamping rod. Upon lifting 
+upwards of the cone after compaction, the slump is obtained by measuring the 
+difference between the highest points on the concrete to the bottom of masonry 
+level on top of the cone. 
+After each curing period the concrete cubes were drained of excess water by 
+sun drying and the density of the specimen was determined by dividing the mass 
+of air-dried specimen by the volume.  
+With the help of a universal compression Testing machine of capacity 1000 
+kN, the Compressive Strength was determined by dividing the crushing load of 
+the specimen by the cross-sectional area as prescribed by the European Standard 
+(B S EN 12390-3:2002). 
+3. Results and Discussion 
+3.1. Physical Properties of Ghanaian RHA 
+The rice husk obtained was produced by uncontrolled burning at a temperature 
+not exceeding 400˚C, ground for an hour and sieved through the 75 micrometer 
+sieve in order to remove any impurities and large size particles to obtain a very 
+fine product, irregular shape and grey colour as shown in Table 1. The rice husk 
+before burning, after burning and after grinding and sieving are shown in Fig-
+ures 1(a)-(c) respectively. 
+3.2. Water Absorption 
+The 24-hour water absorption for Granite aggregates and sand were reported as  
+
+
+===== PAGE 6 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+358 
+Open Journal of Civil Engineering
+ 
+ 
+Figure 1. Rice husk after burning, grinding and sieving. 
+ 
+Table 1. Physical properties of Ghanaian RHA. 
+PROPERTIES 
+PARTICULAR 
+Colour 
+Grey 
+Shape 
+irregular 
+Particle size 
+<45 microns 
+Specific gravity 
+2.06 
+Appearance 
+Very fine 
+Fineness (Blaine) m2/kg 
+351 
+ 
+0.66% and 2.7% respectively. The water absorption value determined for granite 
+is within the maximum permissible limits except the sand as specified by the 
+American Standard for Testing Materials, ASTM C128/C127 of 2%.  
+3.3. Specific Gravity of Sand, Granite and RHA 
+The specific gravity for the fine aggregates, coarse aggregate and RHA were 
+2.608, 2.6 and 2.06 respectively. 
+The specific gravity of the RHA compared to 3.15 of OPC showed a difference 
+of about 34.6%. It was expected that the RHA and OPC would have nearly the 
+same specific gravities despite the differences in raw materials and the methods 
+of manufacturing of the RHA and the OPC. The method of manufacturing of 
+the RHA may have accounted for the difference in specific gravities of the RHA 
+and the OPC. 
+The specific gravity of the aggregates compared to minimum permissible 
+standard specified by the ASTM C311-77 showed that the specific gravity of the 
+aggregates was within the 2.4 and 2.9 as specified for normal weight aggregates. 
+3.4. Chemical Analysis of Ghanaian RHA 
+The total percentage composition of Iron Oxide (Fe2O3 = 0.78%), Silicon dioxide 
+(SiO2 = 54%) and Aluminum Oxide (Al2O3 = 1.06%) was found to be 55.84%. 
+This value is about 20.23% lower than the required value of 70% minimum for 
+pozzolanas [10] and is 24.7% lower than 73.15% reported by [11]. The loss on 
+ignition obtained was 18.25%. This value is 34.2% more than 12% maximum as 
+required for pozolanas. This means the RHA contains little unburnt carbon 
+which may have reduced the pozzolanic activity of the ash. The loss on ignition 
+obtained is 2.6% more than the value (17.78%) reported by [11]. This indicates 
+
+
+===== PAGE 7 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+359 
+Open Journal of Civil Engineering
+ 
+that the Ghanaian RHA produced a slight amount of un-burnt carbon compared 
+to the Nigerian RHA. The reduced value of the 54% silica compared to the 70% 
+minimum for pozzolans as well as the increased value of LOI may have resulted 
+from the method of preparation of the ash and the species of the rice husk used 
+respectively. The Magnesium Oxide content of 1.31% satisfies the required value 
+of 4% maximum. 
+3.5. X-Ray Diffraction Analysis 
+The XRD analysis was performed at the University of Ghana, Physics Depart-
+ment to determine the Silica form of the RHA powder samples using an x-ray 
+diffracto-meter with CuKα radiation at 45 kV/40mA and scanning from 2θ= 
+10.02 - 59.98. The pattern list shown in Figure 2 has a hump, indicating amorph-
+ous as well as diffused peak of about 8000 counts at θ = 23˚ of SiO2 representing 
+it as crystalline structures identified as crystoballite. This suggests that the RHA 
+used, is in both amorphous and crystalline forms. 
+3.6. Particle Size Distribution of RHA and Aggregates 
+The particle size distribution for RHA, coarse and fine aggregates are presented 
+in Figures 3-5 respectively. 
+The grading of all aggregates was referenced from BS 882 (1992) and it is 
+clearly seen that the fine aggregates falls within the upper and lower limits as 
+specified by the code provisions. 
+The Granite coarse aggregates however are seen to have fallen below the ac-
+ceptable lower limit specified by BS 882 (1992). It can therefore be concluded 
+that the gradation of coarse granite aggregate represents a narrow size range ag-
+gregate. The curve is near vertical and occupies only a small range of aggregate 
+as specified in the small range with the creation of unfilled voids due to lack of 
+different size particles to fill the void spaces. A conclusion can therefore be 
+drawn that both aggregates (Figure 3 & Figure 4) are likely to produce concrete 
+with high void content and are indicative of open graded aggregates. 
+ 
+ 
+Figure 2. X-ray diffraction pattern of Ghanaian RHA. 
+
+
+===== PAGE 8 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+360 
+Open Journal of Civil Engineering
+ 
+ 
+Figure 3. Particle size distribution for RHA. 
+ 
+ 
+Figure 4. Particle size distribution for sand. 
+ 
+ 
+Figure 5. Particle size distribution for coarse aggregate. 
+3.7. Compressive Strength of C20, C25, C30 and C35 RHA Concrete 
+The values of compressive strength for the different mixes shows that generally, 
+the compressive strength reduced as the RHA content increased. However, the 
+compressive strength increased as the number of days of curing increased as 
+shown in Figures 6-9. 
+The 28 day strength of the control concrete for C20 and C25 mixes were 21.8 
+Nmm−2 and 30.5 Nmm−2 respectively and were above the specified value of 20 
+Nmm−2 and 25 Nmm−2 except the C30 and C35 mixes whose compressive 
+
+
+===== PAGE 9 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+361 
+Open Journal of Civil Engineering
+ 
+strengths were 28.1 Nmm−2 and 32.8 Nmm−2 respectively which were below the 
+specified value of 30 Nmm−2 and 35 Nmm−2. Amongst all the percentage re-
+placement of cement with RHA, the strength of the 5% RHA concrete for C20 
+showed an increase in compressive strength from the control concrete compres-
+sive strength of 21.8 Nmm−2 to 22.2 Nmm−2 and decrease in the compressive 
+strength from the control concrete compressive strength of 30.5 Nmm−2 to 29.5 
+Nmm−2 for C25. The strength development process involved a chemical reaction 
+in which the Ca(OH)2 in liquid phase from hydrated cement is fixed with the si-
+lica in the pozzolana. At the lowest percentage replacement level of 5% RHA, the 
+silica from the RHA was in required amounts such that the hydration process 
+produced concrete cubes with high compressive strength. 
+For all the mixes, as the replacement levels of the RHA increased from 10%, 
+15%, 20%, and 25% the compressive strength decreased. This may be as a result 
+of the amount of RHA in the mixes being higher than required to combine with 
+the liberated Calcium hydroxide in the cement during the hydration process. Dur-
+ing the process the excess silica is substituted by part of the hydrated silicates and 
+aluminates and consequently causing a reduction in strength [12]. 
+ 
+ 
+Figure 6. Variation of compressive strength against curing days. 
+ 
+ 
+Figure 7. Variation of compressive strength against curing days for various RHA content. 
+
+
+===== PAGE 10 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+362 
+Open Journal of Civil Engineering
+ 
+ 
+Figure 8. Variation of compressive strength with curing days for various RHA content. 
+ 
+ 
+Figure 9. Variation of compressive strength against curing days for various RHA content. 
+4. Conclusions  
+The high scale use of agricultural wastes such as RHA will not only reduce cost 
+to enable low-income earners to have the ability to afford housing and further 
+curtail the pollution of the atmosphere by the manufacture of cement.  
+The results for the chemical analysis showed a low percentage of metals in the 
+samples tested. The RHA was found to have a high percentage of lignin which is 
+not biodegradable and as such may add to the durability property of concrete 
+not decaying when embedded. 
+Addition of RHA to the mixes resulted in a slight increase in the compressive 
+strength of the Ghanaian rice husk ash concrete but further increase in the RHA 
+resulted in the reduction in the compressive strength with an increase in the 
+demand for water which accounted for the low workability of the RHA concrete. 
+The optimum replacement of OPC with RHA taken at 28 days strength for all 
+the grades C20, C25, C30 and C35 was at 5%. 
+Conflicts of Interest 
+The authors declare no conflicts of interest regarding the publication of this pa-
+per. 
+
+
+===== PAGE 11 =====
+
+D. N.-L. Botchway et al. 
+ 
+ 
+DOI: 10.4236/ojce.2020.104027 
+363 
+Open Journal of Civil Engineering
+ 
+References 
+[1] 
+MOFEP (2012) 2012 Annual Report on Petroleum Funds. Accra, Ghana. 
+[2] 
+Gram, H.E. (1983) Durability of Natural Fibres in Concrete. Sweden: Swedish Ce-
+ment and Concrete Research Institute of Technology, 1, 1-255. 
+[3] 
+Cordeiro, G.C., Filho, R.D.T. and de Moraes Rego Fairbairn, E. (2009) Use of Ultra 
+Fine Rice Husk Ash with High Carbon Content as Pozzolan in High Performance 
+Concrete. Materials and Structures, 42, 983-992.  
+https://doi.org/10.1617/s11527-008-9437-z 
+[4] 
+Bilodeau A. and Malhotra, V.M. (2000) High-Volume Fly Ash System: The Con-
+crete Solution for Sustainable Development. ACI Structural Journal, 97, 41-48.  
+https://doi.org/10.14359/804 
+[5] 
+Malhotra, V.M., Lastra, R. and Zhang, M.H. (1996) Rice Husk Ash Paste and Con-
+crete: Some Aspects of Hydration and the Microstructure of Interfacial Zone be-
+tween the Aggregate and Paste. Journal of Cement and Concrete Research, 6, 
+963-977. https://doi.org/10.1016/0008-8846(96)00061-0 
+[6] 
+Nehdi, M., Duquette, J. and El-Damatty, A. (2003) Performance of Rice Husk Ash 
+Produced Using a New Technology as a Mineral Admixture in Concrete. Journal for 
+Cement and Concrete Research, 33, 1203-1210.  
+https://doi.org/10.1016/S0008-8846(03)00038-3 
+[7] 
+Habeeb, G.A. and Fayyadh, M.M. (2009) Rice Husk Ash Concrete: The Effect of 
+RHA Average Particle Size on Mechanical Properties and Drying Shrinkage. Aus-
+tralian Journal of Basic and Applied Sciences, 3, 1616-1622.  
+[8] 
+Obilade, I.O. (2014) Use of Rice Husk Ash as Partial Replacement for Cement in 
+Concrete. International Journal of Engineering and Applied Sciences, 5, 11-16.  
+[9] 
+Ugheoke, I.B. and Othman, M. (2012) A Critical Assessment and New Research Di-
+rections of Rice Husk Silica Processing Methods and Properties. Maejo Internation-
+al Journal of Science and Technology, 6, 430-448.  
+[10] 
+ASTM (1978) Significance of Tests and Properties of Concrete and Concrete mak-
+ing Materials. American Society for Testing and Materials, West Conshohocken.  
+[11] 
+Oyetola, E.B. and Abdulllahi, M. (2004) The Use of Rice Husk Ash in Low-Cost 
+Sandcrete Block Production. Leonardo Electronic Journal Practices Technology, 5, 
+58-70.  
+[12] 
+Dabai, M.U., Muhammad, C., Bagudo, B.U. and Musa, A. (2009) Studies on the Ef-
+fect of Rice Husk Ash as Cement Admixture. Nigerian Journal of Basic and Applied 
+Science, 17, 252-256. https://doi.org/10.4314/njbas.v17i2.49917 
+ 
+ 

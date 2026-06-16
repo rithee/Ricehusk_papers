@@ -1,0 +1,831 @@
+
+===== PAGE 1 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            1 of 14 
+ 
+Eco-friendly synthesis of Carbon 
+Quantum Dots from rice husk 
+and their potential applications 
+in dicot plants 
+ 
+Tran Duc Loc, Pham Thi Bao Uyen, Tran Quang Vu, 
+Nguyen Van Hai, Nguyen Van Phong, Pham Viet Hung, Vo 
+Cong Anh, Ve Quoc Linh, Dao Le Minh Tuan, Do Thanh 
+Tien* 
+ 
+ 
+ 
+ABSTRACT 
+Carbon quantum dots (CQDs) were synthesized from organic precursors, 
+specifically rice husks, using a simple low-temperature hydrothermal process. 
+This process did not involve surface passivation agents, oxidizing agents, or 
+inorganic salts. Advanced analytical techniques such as X-ray diffraction (XRD), 
+transmission 
+electron 
+microscopy 
+(TEM), 
+photoluminescence 
+(PL), 
+photoluminescence excitation (PLE), and Commission Internationale de 
+l'Éclairage (CIE) were employed to investigate the structure, particle size, and 
+optical properties of the CQDs. The positive effects of CQDs on the growth and 
+development of green bean sprouts, morning glory, and mustard greens are 
+detected in preliminary application trials. These findings will be the useful 
+orientation for the application of CQDs in different crops.  
+ 
+Keywords: Carbon quantum dot, luminescent, cultivation  
+ 
+ 
+1. INTRODUCTION 
+By 2050, the world population is expected to reach ten billion people. To 
+guarantee food security, food production must be increased by at least 50% by the 
+middle of the 21st century. The growth rate of global agriculture output has 
+decreased because the Green Revolution is reaching its biological limits (Dorling, 
+2013). In general, 90% of plant dry matter comes from photosynthesis. Therefore, 
+photosynthesis became a primary research subject in improving plant 
+productivity. Phases of photosynthesis include light energy absorption, electron 
+transfer, photosynthesis, and carbon assimilation. These phases mainly occur in 
+chloroplast. In photosynthesis, chlorophyll is the light-harvesting molecule. It 
+converts light energy to electrical energy, causing electron transfer and the 
+Indian journal of 
+Engineering 
+ 
+ 
+ 
+To Cite: 
+Loc TD, Uyen PTB, Vu TQ, Hai NV, Phong NV, Hung PV, Anh VC, Linh 
+VQ, Tuan DLM, Tien DT. Eco-friendly synthesis of Carbon Quantum 
+Dots from rice husk and their potential applications in dicot plants. 
+Indian Journal of Engineering, 2025, 22, e1ije1687 
+doi: https://doi.org/10.54905/disssi.v22i57.e1ije1687  
+ 
+Author Affiliation: 
+Faculty of Engineering and Food Technology, University of Agriculture 
+and Forestry, Hue University, Thua Thien Hue 530000, Vietnam 
+ 
+*Corresponding Author  
+Faculty of Engineering and Food Technology, University of Agriculture 
+and Forestry, Hue University, Thua Thien Hue 530000,  
+Vietnam 
+Email: dothanhtien@hueuni.edu.vn; dothanhtien@huaf.edu.vn 
+ 
+Peer-Review History 
+Received: 18 August 2024 
+Reviewed & Revised: 22/August/2024 to 25/November/2024 
+Accepted: 17 December 2024 
+Published: 03 January 2025 
+ 
+Peer-Review Model 
+External peer-review was done through double-blind method. 
+ 
+Indian Journal of Engineering 
+pISSN 2319–7757; eISSN 2319–7765 
+ 
+ 
+© The Author(s) 2025. Open Access. This article is licensed under a Creative 
+Commons Attribution License 4.0 (CC BY 4.0)., which permits use, sharing, 
+adaptation, distribution and reproduction in any medium or format, as long as 
+you give appropriate credit to the original author(s) and the source, provide a 
+link to the Creative Commons license, and indicate if changes were made. To 
+view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+DISCOVERY 
+SCIENTIFIC SOCIETY 
+
+
+===== PAGE 2 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            2 of 14 
+generation of ATP (Adenosine Triphosphate - Energy storage molecule) (Rabinowitch, 1949).  
+These ATP molecules provide energy for CO2 fixation, where biomass is generated. Light in the solar radiation spectrum's blue, 
+red, and far-red regions is considered necessary for photosynthesis, but light in the UV and green regions is not (Liu and Van-Iersel, 
+2021). Significantly, Ozone depletion, caused by the discharge of toxic substances into the environment, increases UV intensity on the 
+earth's surface. Therefore, harnessing UV light for photosynthesis could reduce the negative impact of UV on the Earth and improve 
+crop productivity. In addition, photosynthesis could only harness less than 10% of solar energy. Therefore, the improvement of 
+photosynthetic efficiency has become an important research issue. Additionally, the development of artificial photosynthesis systems 
+has become a trending research direction (Lewis, 2016). 
+Rice husk accounts for 20% of the weight of a rice seed (Glushankova et al., 2018). Therefore, in Vietnam, 8.8 million tons of waste 
+rice husk are discharged into the environment annually, causing severe environmental pollution (Tam and Linh, 2023). SiO2 and C 
+account for 13 - 15% and 18 - 20% of rice husk weight respectively, organic compounds and trace elements account for the rest of the 
+rice seed’s weight. Recently, research on utilizing rice husks to improve agricultural output has been conducted. However, most studies 
+focus solely on developing nano SiO2 from rice husks (Moosa and Saddam, 2017; Nayak and Datta, 2021; Nourbakhsh et al., 2011; Tran 
+et al., 2021). Notably, carbon, organic compounds, and trace elements, which make up 75% of rice husks, have not been fully exploited. 
+Recently, many scientists have focused on synthesizing carbon quantum dots (CQDs) from various biomass sources, such as palm 
+shells, oyster shells, bagasse, and cornstarch. These CQDs have demonstrated potential applications in bioimaging, drug delivery, 
+pollutant detection, and wastewater treatment (Abu et al., 2023; Kong et al., 2024). Several methods are commonly used for CQDs 
+synthesis, including hydrothermal Jia et al., (2012), microwave Manikandan and Lee, (2022), and electrochemical approaches (Mondal 
+et al., 2016). Typical precursors for CQDs production include glucose, sucrose, glycol, glycerol, citric acid Patel et al., (2019), and 
+ascorbic acid Jia et al., (2012), often combined with strong, toxic, and expensive reducing agents.  
+However, scaling up the production of biocompatible CQDs for practical applications remains a significant challenge. To address 
+this issue, material-based approaches that avoid the use of harmful and costly byproducts in CQDs synthesis need to be explored. In 
+this study, we aim to fabricate CQDs from rice husks, a low-cost and eco-friendly biomass source, and evaluate their effects on the 
+growth of three dicot plants: bean sprouts, mustard greens, and morning glories. Furthermore, the study seeks to determine the 
+optimal CQDs solution concentration for each plant species. 
+ 
+2. EXPERIMENT 
+Materials 
+Rice husks were collected from a local area in Hue City, Vietnam. Double distilled water was prepared using an Aquatron A4000D 
+distillation system at the Faculty of Engineering and Food Technology, University of Agriculture and Forestry, Hue University. 
+ 
+Material fabrication  
+Firstly, impurities were eliminated by washing and rinsing rice husks with double-distilled water. After that, 5 grams of the cleaned 
+rice husks were mixed with 80 milliliters of double-distilled water to prepare a reagent mixture. Next, three reagent mixture samples, 
+labeled as CQD1, CQD2, and CQD3, were poured into Teflon-lined autoclave reactors to undergo hydrothermal reactions for 4 hours at 
+170°C, 200°C, and 230°C, respectively (Figure 1). The temperature range of 170°C to 230°C was selected based on a synthesis of 
+references from previous studies on the hydrothermal fabrication of CQD solutions (Nammahachak et al., 2022; Wu et al., 2015; Peng 
+and Travas-Sejdic, 2009; Bourlinos et al., 2012; Wang et al., 2016; Kong et al., 2024).  
+The resulting solution after heating was coarse-filtered using filter paper, producing a brownish-yellow liquid. It was then 
+centrifuged for 10 minutes at a speed of 10,000 rpm to remove larger particles. No additional chemicals were used during this 
+fabrication process. The CQDs were separated from the samples by vacuum filtration and centrifugation. Finally, the CQD samples 
+were kept in a dark environment for the following experiments. 
+
+
+===== PAGE 3 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            3 of 14 
+ 
+Figure 1 The fabrication procedure of Carbon quantum dots  
+ 
+Measurement systems used in the article 
+A D8 Advance X-ray diffractometer (Bruker, Germany) over a range of 2θ = 10 - 70° was used to study the material’s crystal structure. 
+The material’s Photoluminescent spectra (PL spectra) were taken by a specialized FS5 Spectrofluorometer (Edinburgh Inc, England) 
+was used to take the material’s PL spectra. CIExyz 1931 software was used to determine the color coordinate of the PL spectra. The 
+absorption spectrum of the material was recorded using a GENESYS 10S UV-Vis spectrophotometer (Thermo Scientific, USA). The 
+particle size and morphology of the CQDs were examined using a JEOL JEM-1400 transmission electron microscope (JEOL, Japan) 
+operating at an acceleration voltage of 100 kV. 
+ 
+3. RESULTS AND DISCUSSIONS 
+Morphology and structure of the Carbon quantum dots solutions 
+Figure 2 shows the XRD spectra of the CQD1, CQD2, and CQD3 samples. The spectra indicate that all the CQD samples exhibit an 
+amorphous structure, which is consistent with the known properties of carbon quantum dot solutions (Kumar et al., 2018; Li et al., 
+2012; Park et al., 2014). Figure 3 shows the TEM images of the CQD1, CQD2, and CQD3 samples. The particle sizes of the carbon 
+quantum dots in CQD1, CQD2, and CQD3 were 7.61 ± 2.27 nm, 6.35 ± 2.18 nm, and 8.75 ± 2.36 nm, respectively. 
+
+
+===== PAGE 4 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            4 of 14 
+ 
+Figure 2 XRD spectra of CQD1, CQD2, and CQD3, fabricated at hydrothermal temperatures of 170°C, 200°C, and 230°C, respectively. 
+ 
+ 
+(a) 
+
+
+===== PAGE 5 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            5 of 14 
+ 
+(b) 
+ 
+ 
+(c) 
+Figure 3 TEM images of the CQD1 (a), CQD2 (b), and CQD3 (c) samples, fabricated at hydrothermal temperatures of 170°C, 200°C, and 
+230°C, respectively.  
+ 
+By analyzing the XRD phase structure of the material and measuring TEM to determine particle size, we identified the optimal 
+heating temperature to be 200°C for obtaining CQD solutions with the smallest particle size. This result aligns well with previous 
+studies by other research groups that synthesized CQDs using hydrothermal (Nammahachak et al., 2022; Wu et al., 2015; Peng and 
+Travas-Sejdic, 2009; Bourlinos et al., 2012; Wang et al., 2016; Kong et al., 2024). The optimal hydrothermal temperature typically ranges 
+from 180 to 260°C, depending on the initially prepared material. To control particle size and shape, appropriate temperature should be 
+taken into consideration as a vital factor.  
+Indeed, excessively high temperatures cause overreaction, structure destruction of the quantum dot, and the efficiency reduction of 
+luminescence. Additionally, undesirable product transformations could have happened at extremely high temperatures because the 
+bonds in the carbon structure may be completely broken. Conversely, overly low temperatures may excessively slow hydrolysis, 
+resulting in incomplete reactions (Kong et al., 2024; Nazibudin et al., 2023). In our CQD fabrication process, a temperature of 200°C was 
+sufficient to break the bonds within the complex organic molecules of the biomass (rice husks) without requiring additional toxic 
+chemicals. This process releases carbon atoms, facilitating the formation of carbon quantum dots. 
+ 
+
+
+===== PAGE 6 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            6 of 14 
+Luminescent characteristics of Carbon quantum dots solutions 
+Photoluminescent spectra and CIE color coordinate of the carbon quantum dot solution under different excitation wavelength 
+The luminescent properties of the synthesized carbon quantum dots were examined by studying the photoluminescence (PL) spectra 
+and their corresponding color coordinates (Leonidovna, 2018). The color coordinates (x, y) of the CQD solutions were derived from the 
+PL spectra excited at various wavelengths. The investigated results of the luminescence spectrum changing according to the excitation 
+wavelength showed that when increasing the excitation radiation from 300 nm to 430 nm, the obtained luminescence spectrum had a 
+maximum shift from 389 nm to 503 nm (Figure 4).  
+Additionally, the PL intensity diminished progressively due to the weak interaction between the CQDs and the excitation light 
+source (Zhu et al., 2012). The shift in CIE color coordinates with varying excitation wavelengths is demonstrated in (Figure 5). As the 
+excitation wavelength increased, the CIE color coordinates of the CQD solutions transitioned from blue to green. The 
+photoluminescence mechanism can be attributed to photon reabsorption, the quantum confinement effect, and surface defects (Zuo et 
+al., 2015). As the excitation wavelength changes, emission trap centers on the surface become dominant. Notably, smaller carbon 
+particles have a higher surface-to-volume ratio, resulting in a greater number of trap centers, which enhances the excitation of more 
+electrons. 
+ 
+ 
+Figure 4 Photoluminescent spectra of carbon quantum dot solutions, excited by different wavelengths. 
+ 
+The analysis of photoluminescence spectra and CIE color coordinates for CQD solutions revealed a remarkable phenomenon: 
+strong absorption of ultraviolet (UV) radiation and the emission of green light, which is beneficial for plant photosynthesis. It is well 
+known that blue, red, and far-red light within the solar spectrum are crucial for plant photosynthesis, whereas UV and green light are 
+less significant for plants. Notably, UV radiation on Earth has increased in recent years due to the depletion of the ozone layer caused 
+by the release of harmful chemicals into the environment. Thus, the harmful impact of UV radiation could be mitigated and the 
+photosynthesis efficiency of plants may be enhanced if UV light was converted into blue, red, and far-red light. As a result, the crop 
+production may be improved. The study results on the influence of carbon quantum dots on the growth of several crops are discussed 
+in application of the CQD solution to a few crops. 
+ 
+
+
+===== PAGE 7 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            7 of 14 
+ 
+Figure 5 CIE color coordinates of carbon quantum dot solutions, excited by different wavelengths. 
+ 
+Effects of concentration on the luminescent characteristics of carbon quantum dots solutions  
+ 
+Figure 6 Absorption spectra of carbon quantum dot solutions at different concentrations 
+ 
+
+
+===== PAGE 8 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            8 of 14 
+ 
+Figure 7 Dependence of absorption intensity and concentration of CQD solutions. 
+ 
+To further investigate the luminescent characteristics of the CQD material, absorption spectra and photoluminescence spectra of the 
+diluted carbon quantum dot solutions were recorded. All the absorption spectra exhibit a broad peak with a maximum at 278 nm, 
+extending into the visible region (Figure 6), with characteristic peaks of the n → π* transition of the C = O bond (Mohammed et al., 
+2023). Figure 7 shows the dependence of the intensity of the peaks at 278 nm on the dilute concentration of the carbon quantum dot 
+solutions. It shows that the intensity decreased as the concentration of carbon quantum dots decreased.   
+Figure 8 shows the PL spectrum of the diluted CQD solutions, excited by a wavelength of 340 nm. All these spectra exhibit a broad 
+band with a maximum of 436 nm and a narrow line at 387 nm. As the concentration of CQD was reduced, the luminescent intensity 
+decreased, but the spectrum profile remained unchanged. This observation indicates that the luminescent intensity depends on the 
+concentration of CQD. 
+ 
+ 
+Figure 8 Luminescent spectra of CQD solutions at different concentrations, excited by a wavelength of 340 nm 
+
+
+===== PAGE 9 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            9 of 14 
+ 
+Application of the CQD solution to a few crops  
+To investigate the effect of CQD solutions on the growth of crops, CQD solution was applied to a few crops including green bean 
+sprouts, morning glory, and green mustard. After collecting experimental data for each type of crop, we applied the Kruskal-Wallis 
+statistical method to compare the indicators of stem length, root length, and total mass across the experimental treatments. The P-value 
+with less than 0.05 indicated a significant difference between the experimental groups. This result confirmed the effectiveness of the 
+CQD formulations. The Kruskal-Wallis statistical method is a non-parametric test used to compare the medians of more than two 
+independent groups (McKight and Najab, 2010; Ostertagova et al., 2014; Lelwala et al., 2024; Wani and Nagaraj, 2022; Meléndez et al., 
+2024). 
+ 
+Application of CQD solution to green bean sprout  
+In the experiments, five samples containing 8 grams of green bean seeds were planted in freshwater or CQD solutions at concentrations 
+ranging from 100 mg/L to 250 mg/L, with an interval of 50 mg/L. Figure 9 illustrates the effect of these CQD solutions on the growth of 
+green bean sprouts over four days. 
+ 
+ 
+                            (a) 
+                 (b) 
+                           (c)                                   (d) 
+                                    (e) 
+Figure 9 The growth of green bean sprouts planted in freshwater and those grown in CQD solutions with different concentrations for 
+four days: (a) 0 mg/L; (b) 100 mg/L; (c) 150 mg/L; (d) 200 mg/L; (e) 250 mg/L. 
+ 
+Table 1 The effects of research formulations on the growth of stem length, root length, and total mass of the green bean. 
+Samples 
+Stem length 
+(cm) 
+Roots length 
+(cm) 
+Total mass 
+(g) 
+Freshwater 
+6.40a ± 0.59 
+3.43a ± 0.48 
+57.38a ± 4.19 
+CQD - 100mg/L 
+8.42b ± 0.67 
+4.23b ± 0.74 
+65.71b ± 6.80 
+CQD - 150mg/L 
+8.51b ± 0.70 
+4.40bc ± 0.71 
+67.63b ± 8.32 
+CQD - 200mg/L 
+9.40c ± 0.92 
+4.71c ± 0.74 
+70.20b ± 10.45 
+CQD - 250mg/L 
+9.11c ± 0.83 
+4.51bc ± 0.68 
+69.11b ± 10.03 
+P – value (Kruskal Wallis) 
+0.000 
+0.000 
+0.000 
+Note: a, b, and c indicate the levels of difference between formulations at a significance level of 0.05; formulations with the same letter do not differ. 
+ 
+The effects of the experimental formulations on the growth of bean sprouts were clearly reflected in the measurements of stem 
+length, root length, and total mass. The Kruskal-Wallis analysis (P<0.05) revealed significant differences among the experimental 
+groups. For stem length, the Freshwater control group exhibited the lowest average (6.40 ± 0.59 cm), which was significantly different 
+from the CQD-treated groups. At CQD concentrations of 100 mg/L and 150 mg/L, stem length increased to 8.42 ± 0.67 cm and 8.51 ± 
+0.70 cm, respectively, while the highest value was observed at 200 mg/L (9.40 ± 0.92 cm), exceeding those of the other CQD 
+concentrations. Similarly, root length in the Freshwater group (3.43 ± 0.48 cm) was significantly shorter than in the CQD-treated 
+groups. At CQD concentrations of 100 mg/L and 150 mg/L, root length increased to 4.23 ± 0.74 cm and 4.40 ± 0.71 cm, respectively 
+(Table 1).  
+
+
+----- TABLE p9#1 -----
+
+Table 1 The effects of research formulations on the growth of stem length, root length, and total mass of the green bean. |  |  |  |  | 
+ | Samples | Stem length
+(cm) | Roots length
+(cm) | Total mass
+(g) | 
+ | Freshwater | 6.40a ± 0.59 | 3.43a ± 0.48 | 57.38a ± 4.19 | 
+ | CQD - 100mg/L | 8.42b ± 0.67 | 4.23b ± 0.74 | 65.71b ± 6.80 | 
+ | CQD - 150mg/L | 8.51b ± 0.70 | 4.40bc ± 0.71 | 67.63b ± 8.32 | 
+ | CQD - 200mg/L | 9.40c ± 0.92 | 4.71c ± 0.74 | 70.20b ± 10.45 | 
+ | CQD - 250mg/L | 9.11c ± 0.83 | 4.51bc ± 0.68 | 69.11b ± 10.03 | 
+ | P – value (Kruskal Wallis) | 0.000 | 0.000 | 0.000 | 
+
+===== PAGE 10 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            10 of 14 
+The longest root length was recorded at 200 mg/L (4.71 ± 0.74 cm), although it was not significantly different from that observed at 
+250 mg/L (4.51 ± 0.68 cm). A similar trend was observed for total mass. The Freshwater group exhibited the lowest biomass (57.38 ± 4.19 
+g), while samples treated with CQD concentrations of 100 mg/L and 150 mg/L reached 65.71 ± 6.80 g and 67.63 ± 8.32 g, respectively. 
+The highest biomass was recorded at 200 mg/L CQD (70.20 ± 10.45 g), which, however, was not significantly different from the biomass 
+at 250 mg/L (69.11 ± 10.03 g). Overall, the growth of bean sprouts was significantly enhanced due to the addition of CQDs. The 
+optimized dosage of CQD was 200 mg/L and this confirmation is reflected through the superior growth in stem length, root length, and 
+total mass. The CQD concentration of 250 mg/L did not obtain any further significant improvements. 
+ 
+Application of CQD solution to morning glory plants 
+The effect of CQD concentration on the growth of morning glory plants after 11 days of cultivation is shown in (Table 2). In this 
+experiment, 4 grams of morning glory seeds were used in each experimental group. The concentration of CQD solution ranged from 
+100 mg/L to 400 mg/L, with an interval of 100 mg/L.  
+ 
+ 
+     
+ 
+     (a) 
+                           (b)                                 (c) 
+                           (d) 
+                (e)  
+Figure 10 The 11-day growth of morning glories cultivated at different concentrations of CQD solution: (a) 0 mg/L; (b) 100 mg/L; (c) 200 
+mg/L; (d) 300 mg/L; (e) 400 mg/L. 
+ 
+Table 2 The effects of research formulations on the growth of stem length, root length, and total mass of the morning glory. 
+Samples 
+Stem length 
+(mm) 
+Roots length 
+(mm) 
+Total mass 
+(g) 
+Freshwater 
+65.32a ± 6.08 
+40.24a ± 6.15 
+32.22a ± 5.67 
+CQD - 100mg/L 
+70.12a ± 6.14 
+43.52ac ± 6.70 
+39.52b ± 5.52 
+CQD - 200mg/L 
+85.40b ± 7.11 
+49.64b ± 7.28 
+41.18bc ± 5.07 
+CQD - 300mg/L 
+98.90c ± 7.00 
+54.94d ± 6.54 
+45.54c ± 6.82 
+CQD - 400mg/L 
+78.82b ± 7.51 
+47.24bc ± 7.51 
+40.56b ± 5.42 
+P – value (Kruskal Wallis) 
+0.000 
+0.000 
+0.000 
+Note: a, b, c, and d indicate the levels of difference between formulations at a significance level of 0.05; formulations with the same letter do not differ. 
+ 
+
+
+----- TABLE p10#1 -----
+
+ |  |  |  |  | 
+Table 2 The effects of research formulations on the growth of stem length, root length, and total mass of the morning glory. |  |  |  |  | 
+ | Samples | Stem length
+(mm) | Roots length
+(mm) | Total mass
+(g) | 
+ | Freshwater | 65.32a ± 6.08 | 40.24a ± 6.15 | 32.22a ± 5.67 | 
+ | CQD - 100mg/L | 70.12a ± 6.14 | 43.52ac ± 6.70 | 39.52b ± 5.52 | 
+ | CQD - 200mg/L | 85.40b ± 7.11 | 49.64b ± 7.28 | 41.18bc ± 5.07 | 
+ | CQD - 300mg/L | 98.90c ± 7.00 | 54.94d ± 6.54 | 45.54c ± 6.82 | 
+ | CQD - 400mg/L | 78.82b ± 7.51 | 47.24bc ± 7.51 | 40.56b ± 5.42 | 
+ | P – value (Kruskal Wallis) | 0.000 | 0.000 | 0.000 | 
+Note: a, b, c, and d indicate the levels of difference between formulations at a significance level of 0.05; formulations with the same letter do not differ. |  |  |  |  | 
+ |  |  |  |  | 
+
+===== PAGE 11 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            11 of 14 
+The study investigating the effects of experimental formulations on the growth of morning glory plants highlighted significant 
+differences among the test groups in stem length, root length, and total mass. Kruskal-Wallis analysis (P<0.05) verified that CQD 
+treatments significantly enhanced the growth metrics of morning glory plants compared to the Freshwater control group. In terms of 
+stem length, the Freshwater formulation recorded the lowest average value (65.32 ± 6.08 cm), while CQD treatments, especially at a 
+concentration of 300 mg/L, achieved the highest result (98.90 ± 7.00 cm). Concentrations of 200 mg/L (85.40 ± 7.11 cm) and 400 mg/L 
+(78.82 ± 7.51 cm) also demonstrated marked improvements over the Freshwater group. 
+Similarly, root length was minimal in the Freshwater group (40.24 ± 6.15 cm) but peaked at 54.94 ± 6.54 cm with the 300 mg/L CQD 
+concentration, outperforming other treatments. A comparable trend was observed for total mass. The Freshwater group achieved the 
+lowest value (32.22 ± 5.67 g), whereas the 300 mg/L CQD treatment resulted in the highest biomass (45.54 ± 6.82 g). The 200 mg/L 
+concentration obtained a slightly lower value of (41.18 ± 5.07 g). When the CQD concentration was up to 400 mg/L, the additional 
+improvement cannot be detected when the biomass was (40.56 ± 5.42 g). Consequently, the CQD concentration of 300 mg/L was 
+suggested as the optimal dosage for the best biomass improvement. In conclusion, among different dosage of CQDs, it is recommended 
+that 300 mg/L was the most suitable concentration that promote the significant growth of morning glory plants. 
+ 
+Application of CQD solution to green mustards 
+The impact of CQD concentration on the growth of green mustard after 10 days of cultivation is summarized in (Table 3). In this study, 
+1 gram of green mustard seeds was utilized for each trial. The CQD solution concentrations varied from 100 mg/L to 400 mg/L, 
+increasing in 100 mg/L increments. The green mustards were watered twice daily, in the morning and afternoon, with 10 ml of either 
+freshwater or the corresponding CQD solutions.  
+ 
+ 
+                  (a) 
+                               (b) 
+                  (c) 
+                        (d)                                               (e) 
+Figure 11 The 10 - day growth of green mustards cultivated at various concentrations of CQD solution: (a) 0 mg/L; (b) 100 mg/L; (c) 200 
+mg/L; (d) 300 mg/L; (e) 400 mg/L. 
+ 
+Table 3 The effects of research formulations on the growth of stem length, root length, and total mass of green mustards. 
+Samples 
+Stem length 
+(mm) 
+Roots length 
+(mm) 
+Total mass 
+(g) 
+Freshwater 
+60.54a ± 5.43 
+40.12a ± 5.83 
+5.80a ± 0.81 
+CQD - 100mg/L 
+69.52b ± 8.01 
+41.20a ± 6.12 
+6.22a ± 0.66 
+CQD - 200mg/L 
+70.92b ± 8.56 
+43.22a ± 6.07 
+7.60b ± 0.66 
+CQD - 300mg/L 
+80.52c ± 6.53 
+55.22b ± 8.41 
+9.51c ± 1.16 
+CQD - 400mg/L 
+73.12b ± 5.44 
+42.32a ± 6.73 
+8.20bc ± 0.70 
+
+
+----- TABLE p11#1 -----
+
+Table 3 The effects of research formulations on the growth of stem length, root length, and total mass of green mustards. |  |  |  |  | 
+ | Samples | Stem length
+(mm) | Roots length
+(mm) | Total mass
+(g) | 
+ | Freshwater | 60.54a ± 5.43 | 40.12a ± 5.83 | 5.80a ± 0.81 | 
+ | CQD - 100mg/L | 69.52b ± 8.01 | 41.20a ± 6.12 | 6.22a ± 0.66 | 
+ | CQD - 200mg/L | 70.92b ± 8.56 | 43.22a ± 6.07 | 7.60b ± 0.66 | 
+ | CQD - 300mg/L | 80.52c ± 6.53 | 55.22b ± 8.41 | 9.51c ± 1.16 | 
+ | CQD - 400mg/L | 73.12b ± 5.44 | 42.32a ± 6.73 | 8.20bc ± 0.70 | 
+
+===== PAGE 12 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            12 of 14 
+P – value (Kruskal Wallis) 
+0.000 
+0.000 
+0.000 
+Note: a, b, c indicate the levels of difference between formulations at a significance level of 0.05; formulations with the same letter do not differ. 
+ 
+Research investigating the effects of different formulations on mustard green growth identified significant variations among 
+experimental groups in terms of stem length, root length, and total biomass. The Kruskal-Wallis analysis (P<0.05) confirmed that CQD-
+based formulations markedly enhanced plant growth compared to the Freshwater control. Regarding stem length, the Freshwater 
+formulation yielded the lowest value (60.54 ± 5.43 mm), whereas CQD at a concentration of 300 mg/L exhibited the highest value (80.52 
+± 6.53 mm), outperforming all other treatments. CQD concentrations of 100 mg/L (69.52 ± 8.01 mm) and 200 mg/L (70.92 ± 8.56 mm) also 
+significantly improved, though they were less effective than the 300 mg/L concentration. For root length, Freshwater again showed the 
+lowest measurement (40.12 ± 5.83 mm), while CQD at 300 mg/L achieved the highest value (55.22 ± 8.41 mm), demonstrating its 
+superior ability to promote root development.  
+However, CQD concentrations of 100 mg/L and 200 mg/L produced results similar to Freshwater, with no statistically significant 
+differences observed. The impact of CQD on total biomass was equally remarkable. Freshwater produced the lowest biomass (5.80 ± 
+0.81 g), while CQD at 300 mg/L delivered the highest value (9.51 ± 1.16 g), significantly surpassing all other concentrations including at 
+400 mg/L. Thus, CQD with 300 mg/L concentration was taken into consideration as the optimal dosage. In conclusion, CQD at a 
+concentration of 300 mg/L was identified as the most effective for enhancing mustard green growth across stem length, root length, and 
+total biomass. This concentration is recommended to maximize mustard plant yields under cultivation conditions. 
+ 
+4. CONCLUSIONS 
+Carbon quantum dots were successfully created from rice husks through a hydrothermal synthesis process. Their application positively 
+influenced the growth of green bean sprouts, morning glory, and green mustard, as indicated by measurable increases in stem length, 
+root length, and total mass. This study provides a method for synthesizing CQDs from safe, low-cost, and non-toxic organic precursors, 
+making it suitable for future research on interactions between CQDs and other plant species or their potential applications in fields 
+such as biomedicine, environmental science, and optoelectronics. Furthermore, scaling up the production of CQDs from rice husks and 
+exploring potential industrial applications represent promising directions for future research. 
+ 
+Acknowledgment  
+We thank the participants who all contributed to the study. We also thank the University of Agriculture and Forestry, Hue University 
+who supported the fund for this research. 
+ 
+Author Contributions  
+Conceptualization: Do Thanh Tien and Tran Duc Loc; Investigation: Pham Thi Bao Uyen, Tran Quang Vu, Nguyen Van Hai, Nguyen 
+Van Phong; Methodology: Pham Viet Hung, Vo Cong Anh, Ve Quoc Linh, Dao Le Minh Tuan, Do Thanh Tien; Software: Dao Le Minh 
+Tuan, Do Thanh Tien; Supervision: Do Thanh Tien; Validation: Pham Viet Hung, Vo Cong Anh, Dao Le Minh Tuan, Do Thanh Tien; 
+Visualization: Do Thanh Tien, Ve Quoc Linh, Vo Cong Anh, Dao Le Minh Tuan; Writing – original draft: Do Thanh Tien; Writing – 
+review and editing: Pham Viet Hung, Vo Cong Anh, Ve Quoc Linh. All authors have reviewed and approved the final version of the 
+manuscript. 
+ 
+Ethical Considerations  
+The ethical guidelines for plants & plant materials are followed in the study for collection & experimentation. 
+ 
+Informed consent 
+Not applicable. 
+ 
+ 
+ 
+
+
+----- TABLE p12#1 -----
+
+P – value (Kruskal Wallis) | 0.000 | 0.000 | 0.000
+
+===== PAGE 13 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            13 of 14 
+Funding 
+This research was supported by the University of Agriculture and Forestry – Hue University (Grant numbers: DHL2024-CKCN-SV-02 
+and DHL2024-CKCN-06). 
+ 
+Conflict of Interest 
+The author declares that there are no conflicts of interests. 
+ 
+Data and materials availability  
+All data associated with this study are present in the paper. 
+ 
+REFERENCES
+1. Abu N, Chinnathambi S, Kumar M, Etezadi F, Bakhori NM, 
+Zubir ZA, Md-Salleh SN, Shueb RH, Karthikeyan S, 
+Thangavel V, Abdullah J, Pandian GN. Development of 
+biomass waste-based carbon quantum dots and their potential 
+application as non-toxic bioimaging agents. RSC Adv 2023; 13 
+(40):28230-28249. doi: 10.1039/d3ra05840a  
+2. Bourlinos AB, Zbořil R, Petr J, Bakandritsos A, Krysmann M, 
+Giannelis EP. Luminescent Surface Quaternized Carbon Dots 
+Chem Mater 2012; 24(1):6-8. doi: 10.1021/cm2026637  
+3. Dorling D. Population 10 billion. Constable, UK, 2013; 449.  
+4. Glushankova I, Ketov A, Krasnovskikh M, Rudakova L, 
+Vaisman I. Rice hulls as a renewable complex material 
+resource. Resources 2018; 7(2):31. doi: 10.3390/resources70200 
+31  
+5. Jia X, Li J, Wang E. One-pot green synthesis of optically pH-
+sensitive carbon dots with upconversion luminescence. 
+Nanoscale 2012; 4(18):5572-5575. doi: 10.1039/C2NR31319G  
+6. Kong J, Wei Y, Zhou F, Shi L, Zhao S, Wan M, Zhang X. 
+Carbon 
+Quantum 
+Dots: 
+Properties, 
+Preparation, 
+and 
+Applications. Molecules 2024; 29(9):2002. doi: 10.3390/mole 
+cules29092002       
+7. Kumar MS, Yasoda KY, Kumaresan D, Kothurkar NK, 
+Batabyal SK. TiO2-carbon quantum dots (CQD) nanohybrid: 
+enhanced photocatalytic activity. Mater Res Express 2018; 5(7) 
+:075502. doi: 10.1088/2053-1591/aacbb9  
+8. Lelwala 
+EI, 
+Seamasinghe 
+WM, 
+Gunarathna 
+KMLM. 
+Nonparametric Approach to Detecting Seasonality in Time 
+Series: Application of the Kruskal-Wallis (KW) Test on Tourist 
+Arrivals to Sri Lanka. SAJBI 2024; 4(1):3-19. doi: 10.4038/sajbi. 
+v4i1.61  
+9. Leonidovna ZV. Software Calculation and Research Optical 
+Transfer Functions of Matrix Photodetectors. 2018 IV 
+International Conference on Information Technologies in 
+Engineering Education (Inforino) 2018; 1-4. doi: 10.1109/INFO 
+RINO.2018.8581748  
+10. Lewis NS. Developing a scalable artificial photosynthesis 
+technology 
+through 
+nanomaterials 
+by 
+design. 
+Nat 
+Nanotechnol 2016; 11(12):1010-1019. doi: 10.1038/nnano.2016. 
+194  
+11. Li H, Kang Z, Liu Y, Lee ST. Carbon nanodots: synthesis, 
+properties and applications. J Mater Chem 2012; 22(46):24230-
+24253. doi: 10.1039/C2JM34690G  
+12. Liu J, Van-Iersel MW. Photosynthetic physiology of blue, 
+green, and red light: Light intensity effects and underlying 
+mechanisms. Front Plant Sci 2021; 12:619987. doi: 10.3389/fpls 
+.2021.619987  
+13. Manikandan V, Lee NY. Green synthesis of carbon quantum 
+dots and their environmental applications. Environ Res 2022; 
+212(Pt B):113283. doi: 10.1016/j.envres.2022.113283  
+14. McKight PE, Najab J. Kruskal-Wallis Test. The Corsini 
+Encyclopedia of Psychology 2010; 1:1-10. doi: 10.1002/9780470 
+479216.corpsy0491 
+15. Meléndez SR, Giraldo HR, Rodríguez CF. Kruskal-Wallis Test 
+for Functional Data Based on Random Projections Generated 
+from a Simulation of a Brownian Motion. TecnoLógicas 2024; 
+27(59):e2986. doi: 10.22430/22565337.2986  
+16. Mohammed SJ, Omer KM, Hawaiz FE. Deep insights to 
+explain the mechanism of carbon dot formation at various 
+reaction times using the hydrothermal technique: FT-IR, 13 C-
+NMR, 1 H-NMR, and UV-visible spectroscopic approaches. 
+RSC Adv 2023; 13(21):14340-14349. doi: 10.1039/D3RA01646C  
+17. Mondal TK, Gupta A, Shaw BK, Mondal S, Ghorai UK, Saha 
+SK. Highly luminescent N-doped carbon quantum dots from 
+lemon juice with porphyrin-like structures surrounded by 
+graphitic network for sensing applications. RSC Adv 2016; 6 
+(65):59927-59934. doi: 10.1039/c6ra12148a  
+18. Moosa AA, Saddam BF. Synthesis and characterization of 
+nanosilica from rice husk with applications to polymer 
+composites. Am J Mater Sci 2017; 7(6):223-231. doi: 10.5923/j. 
+materials.20170706.01  
+
+
+===== PAGE 14 =====
+
+ 
+ARTICLE | OPEN ACCESS   
+ 
+ 
+ 
+Indian Journal of Engineering 22, e1ije1687 (2025)                                                                                                                                            14 of 14 
+19. Nammahachak N, Aup-Ngoen KK, Asanithi P, Horpratum M, 
+Chuangchote 
+S, 
+Ratanaphan 
+S, 
+Surareungchai 
+W. 
+Hydrothermal synthesis of carbon quantum dots with size 
+tunability via heterogeneous nucleation. RSC Adv 2022; 12 
+(49):31729-31733. doi: 10.1039/D2RA05989D  
+20. Nayak P, Datta A. Synthesis of SiO2-nanoparticles from rice 
+husk ash and its comparison with commercial amorphous 
+silica through material characterization. Silicon 2021; 13(4):12 
+09-1214. doi: 10.1007/s12633-020-00509-y  
+21. Nazibudin 
+NA, 
+Zainuddin 
+MF, 
+Abdullah 
+CAC. 
+Hydrothermal Synthesis of Carbon Quantum Dots: An 
+Updated Review. J Adv Res Fluid Mech Therm Sci 2023; 101 
+(1):192-206. doi: :10.37934/arfmts.101.1.192206 
+22. Nourbakhsh A, Baghlani FF, Ashori A. Nano-SiO2 filled rice 
+husk/polypropylene 
+composites: 
+Physico-mechanical 
+properties. Ind Crops Prod 2011; 33(1):183-187. doi: 10.1016/j.i 
+ndcrop.2010.10.010  
+23. Ostertagova E, Ostertag O, Kováč J. Methodology and 
+application of the Kruskal-Wallis test. Appl Mech Mater 2014; 
+611:115-120. doi: 10.4028/www.scientific.net/AMM.611.115  
+24. Park SY, Lee HU, Park ES, Lee SC, Lee JW, Jeong SW, Kim 
+CH, Lee YC, Huh YS, Lee J. Photoluminescent green carbon 
+nanodots 
+from 
+food-waste-derived 
+sources: 
+large-scale 
+synthesis, properties, and biomedical applications. ACS Appl 
+Mater Interfaces 2014; 6(5):3365-3370. doi: 10.1021/am500159p  
+25. Patel K, Singh R, Kim H. Carbon-based nanomaterials as an 
+emerging platform for theranostics. Mater Horiz 2019; 6(3):43 
+4-469. doi: 10.1039/c8mh00966j  
+26. Peng H, Travas-Sejdic J. Simple Aqueous Solution Route to 
+Luminescent Carbogenic Dots from Carbohydrates. Chem 
+Mater 2009; 21(23):5563-5565. doi: 10.1021/cm901593y  
+27. Rabinowitch 
+E. 
+Photosynthesis. 
+US 
+Atomic 
+Energy 
+Commission, Indiana University, 1949.  
+28. Tam DTM, Linh BP. Application of rice husk waster in water 
+remediation in Vietnam: A review. Eur J Mater Sci Eng 2023; 8 
+:115-127. doi: 10.36868/ejmse.2023.08.03.115  
+29. Tran HB, Le VB, Phan VTA. Mechanical properties of high 
+strength concrete containing nano SiO2 made from rice husk 
+ash in southern vietnam. Crystals 2021; 11(8):932. doi: 10.3390 
+/cryst11080932  
+30. Wang L, Li W, Wu B, Li Z, Wang S, Liu Y, Pan D, Wu M. 
+Facile synthesis of fluorescent graphene quantum dots from 
+coffee grounds for bioimaging and sensing. Chem Eng J 2016; 
+300:75-82. doi: 10.1016/j.cej.2016.04.123  
+31. Wani GA, Nagaraj V. Effect of Sustainable Infrastructure and 
+Service Delivery on Sustainable Tourism: Application of 
+Kruskal Wallis Test (Non-parametric). Int J Sustain Transp 
+Technol 2022; 5(2):38-50. doi: 10.31427/IJSTT.2022.5.2.1  
+32. Wu Q, Li W, Wu P, Li J, Liu S, Jin C, Zhan X. Effect of reaction 
+temperature on properties of carbon nanodots and their 
+visible-light photocatalytic degradation of tetracyline. RSC 
+Adv 2015; 5(92):75711-75721. doi: 10.1039/C5RA16080D  
+33. Zhu C, Zhai J, Dong S. Bifunctional fluorescent carbon 
+nanodots: green synthesis via soy milk and application as 
+metal-free electrocatalysts for oxygen reduction. Chem Comm 
+2012; 48(75):9367-9369. doi: 10.1039/C2CC33844K  
+34. Zuo J, Jiang T, Zhao X, Xiong X, Xiao S, Zhu Z. Preparation 
+and application of fluorescent carbon dots. J Nanomater 2015; 
+2015(1):787862. doi: 10.1155/2015/787862 
+ 
+ 

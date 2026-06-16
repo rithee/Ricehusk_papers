@@ -1,0 +1,832 @@
+
+===== PAGE 1 =====
+
+ 
+Volume 17 (2023), Issue 3, 86-92 
+ 
+________________________________ 
+Received: 9 May 2023. Accepted:3 August 2023. Available online: 30 September 2023 
+© 2023. D.N. Arifin, E. Sanwani 
+Mining of Mineral Deposits. ISSN 2415-3443 (Online) | ISSN 2415-3435 (Print) 
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/licenses/by/4.0/), 
+which permits unrestricted reuse, distribution, and reproduction in any medium, provided the original work is properly cited. 
+86 
+https://doi.org/10.33271/mining17.03.086 
+Potential utilization of natural zeolite, fly ash and rice husk ash 
+for geopolymer concrete production 
+Danang Nor Arifin1*
+ , Edy Sanwani2
+  
+1 National Research and Innovation Agency, Bandung, Indonesia 
+2 Institut Teknologi Bandung, Bandung, Indonesia 
+*Corresponding author: e-mail danang.na@gmail.com 
+Abstract 
+Purpose. The experimental research purpose is to study the potential use of natural zeolite, fly ash, and rice husk ash for 
+geopolymer concrete production based on the effect of the Al/Si ratio on microstructure properties and compressive strength. 
+Methods. The formulation process is based on the ratio of Al/Si contained in the raw material, the selection of raw material 
+grain size, mixing and molding of the geopolymer concrete. The geopolymer concrete properties are analyzed in terms of com-
+pressive strength and microstructure properties. 
+Findings. Fly ash, natural zeolite and rice husk ash can be used to produce new functional materials in the form of geopo-
+lymer concrete with a compressive strength of up to 16.74 MPa. The mixing formula is based on the ratio of Al/Si contained in 
+the raw materials, and their ratio is 1:2; 1:2.5; 1:3; 1:3.5 and 1:4. Geopolymer concrete specimens showed the required physi-
+cal and mechanical properties. 
+Originality. The originality of this research lies in the utilization of natural zeolite, fly ash, and rice husk ash as raw mate-
+rials for geopolymer concrete production. This approach offers a practical solution by utilizing these common and readily 
+available materials, rich in silica and alumina, to produce functional and environmentally friendly building materials. 
+Practical implications. This research can provide a practical solution to the problem of natural zeolite, fly ash, and rice 
+husk ash rich in silica and alumina, which can be utilized for geopolymer concrete production. Thus, geopolymer concrete can 
+mainly be utilized as a building material for laying walls and floors in pedestrian areas and parks or for other purposes. 
+Keywords: concrete, fly ash, geopolymer, rice husk ash (RHA), natural zeolite 
+ 
+1. Introduction 
+One of the main components in construction throughout 
+the world is heavily dependent on Portland cement products. 
+The production of Portland cement requires very high tem-
+peratures and releases large amounts of carbon dioxide, 
+which leads to air pollution. Structural members, walls and 
+panels are usually made of Portland cement [1]. Portland 
+cement production requires a significant amount of energy, 
+while generating about 5% of greenhouse gases annually [2]. 
+Each production of one ton of Portland cement releases one 
+ton of CO2 into the air [3]. An alternative technology is 
+needed to reduce the use of Portland cement concrete. Vari-
+ous studies have been conducted on the manufacture of con-
+crete by utilizing geopolymer properties. Silica and alumina 
+mixed in high activator solutions are new cement materials to 
+be developed in the Portland cement production. Geopolymer 
+is an environmentally friendly concrete that may become an 
+alternative to conventional concrete in the future. 
+According to Davidovits [4], geopolymers can be defined 
+as “materials produced from polymeric aluminosilicate and 
+alkali-silicate which produce a polymer framework of SiO4 
+and AlO4 tetrahedral bound”. Fly ash is a potential raw mate-
+rial for geopolymers, thanks to the presence of SiO2 and 
+Al2O3 as the main components [5]. New materials needed as 
+an alternative in the world of construction, geopolymer based 
+on fly ash, can use as a new cement alternative [6]. In addi-
+tion, to fly ash, other materials used in the manufacture of 
+geopolymers are zeolites, rice husk ash, and alkaline-
+activator solution. The geopolymerization reaction can be 
+classified as an inorganic polycondensation reaction as the 
+reaction of zeolite formation. Most of the zeolite synthesis is 
+also carried out under alkaline conditions using OH – as a 
+mineralizing agent [7]. According to van Jaarsveld et al. [8], 
+alkali metal salts and/or hydroxides must dissolve the silica 
+and alumina as catalysis reactions in the condensation reac-
+tion. Geopolymer material with lower Ca content has better 
+acid resistance than the material from portland cement [9]. 
+Geopolymers have attracted much attention for good me-
+chanical properties, good chemical resistance, low shrinkage, 
+eco-friendly and long endurance [10]. 
+RHA can use in the appropriate amount as an additive in 
+the manufacture of geopolymers [11]. Zeolite can remove 
+Formaldehyde, benzene, and n-hexane from the air contained 
+in the room [12]. The addition of 5A zeolite to geopolymers 
+can apply in building materials with the advantage of being 
+able to purify indoor air [13]. Sodium hydroxide (NaOH) and 
+
+
+===== PAGE 2 =====
+
+D.N. Arifin, E. Sanwani. (2023). Mining of Mineral Deposits, 17(3), 86-92 
+ 
+87 
+potassium hydroxide (KOH) are the most commonly used 
+alkali-activators [14]. Fly ash (Class F) is a good source of 
+raw materials in geopolymer production, and from some FA 
+activators, NaOH is the best in geopolymer production [15]. 
+Additionally, the use of NaOH and sodium silicate (Na2SiO3) 
+together will result in higher geopolymer compressive 
+strength compared to only the use of NaOH [16]. According 
+to Zhuang et al. [17], the basic principle of forming geopo-
+lymers based on fly ash is the decomposition of aluminosili-
+cate due to the presence of alkali in fly ash, which then oc-
+curs polycondensation. This process is a clean technology 
+that saves energy and resources because reactions can occur 
+under mild temperatures. However, the real reactions that 
+happened in the process are very complicated and remain 
+elusive. A reaction between fly ash and alkali produces con-
+densation between Si4+ and Al3+ types; this process is fol-
+lowed by complicated nucleation, oligomerization, and 
+polymerization. It then provides a polymer with a new alu-
+minosilicate-based amorphous three-dimensional network 
+structure. For testing or use, geopolymer paste cast into the 
+mold, then oven at a predetermined temperature as needed or 
+placed at room temperature to be cured for a specific time. 
+The Si/Al ratio significantly determines the structure of 
+the geopolymer material [18]. For example, the critical pa-
+rameter that determines the geopolymer product’s compres-
+sive strength is the porosity (size and quantity) of the amor-
+phous geopolymer, which is greatly influenced by the Si/Al 
+ratio of the fly ash reactants [19], [20]. The purpose of this 
+work is to know the effect Al/Si ratio on the microstructure 
+properties and compressive strength of fly ash, zeolite, and 
+rice husk ash-based geopolymer. 
+2. Material and methods 
+2.1. Materials 
+Fly ash (FA), natural zeolite, and rice husk ash were used 
+to prepare the geopolymers in this study. The fly ash was 
+collected from a coal-fired power plant in Palabuhanratu, 
+Sukabumi, Indonesia. The natural zeolite was obtained from 
+the Cikembar region, Sukabumi, Indonesia, and the rice husk 
+ash was collected from the Simpenan region, Sukabumi, 
+Indonesia. The specific gravity of fly ash ranges from  
+2.0-2.5 g/cm3, while zeolite has a specific gravity of  
+2.0-2.4 g/cm3, and the specific gravity of RHA ranges from 
+1.90-2.7 g/cm3. NaOH 8M and Na2SiO3 were used as the 
+alkali-activator solution. The comminution process using jaw 
+crusher and pulverizer was performed on zeolite to obtain the 
+size fraction of -40 + 80 mesh. The materials used in the 
+experiments are shown in Figure 1. 
+Chemical compositions of FA, zeolite, and RHA were de-
+termined by Atomic Absorption Spectrophotometer (AAS) 
+technique in the National Research and Innovation Agency 
+(BRIN) laboratory using AA-7000 Atomic Absorption Spec-
+trophotometer Serial No. A306648, as shown in Table 1. The 
+sum of the chemical compositions of SiO2, Al2O3, and Fe2O3 
+for zeolite, RHA, and FA was over 75%, respectively, which 
+was following the requirement of ASTM C618 [21]. 
+Fly ash used in this study was a type F because it contains 
+low calcium, i.e., less than 10% CaO (ASTM C618). The  
+X-ray Diffractometer (XRD) analysis of each material was 
+performed using XRD-7000, Shimadzu, X-Ray Diffractome-
+ter, and the results are shown in Figure 2. 
+ 
+ 
+Figure 1. The materials used in the experiments: (a) fly ash; 
+(b) zeolite; (c) rice husk ash; (d) NaOH; (e) water; 
+(f) sodium silicate 
+Table 1. Chemical composition of zeolite, rice husk ash, and fly ash 
+Chemical analysis 
+Zeolite 
+(wt. %) 
+RHA 
+(wt. %) 
+FA 
+(wt. %) 
+Siliconedioxide (SiO2) 
+67.65 
+87.48 
+48.96 
+Titanium dioxide (TiO2) 
+0.57 
+0.27 
+1.47 
+Alumunium trioxide (Al2O3) 
+11.27 
+1.66 
+26.38 
+Iron trioxide (Fe2O3) 
+1.02 
+0.99 
+9.82 
+Manganase oxide (MnO) 
+0.05 
+0.1 
+0.85 
+Magnesium oxide (MgO) 
+0.15 
+0.24 
+0.59 
+Calcium oxide (CaO) 
+0.03 
+- 
+0.29 
+Potassium oxide (K2O) 
+1.73 
+2.76 
+0.51 
+Sodium oxide (Na2O) 
+2.65 
+0.14 
+1.51 
+Phosphoric (P2O5) 
+0.48 
+1.53 
+6.76 
+Moisture content (H2O-) 
+8.02 
+2.06 
+0.58 
+Volatile content (H2O+) 
+3.35 
+2.15 
+1.61 
+LOI (Ignition loss) 
+14.23 
+4.66 
+2.75 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+ 
+Figure 2. XRD patterns of fly ash, zeolite and rice husk ash: 
+(a) fly ash; (b) zeolite; (c) rice husk ash 
+
+
+===== PAGE 3 =====
+
+D.N. Arifin, E. Sanwani. (2023). Mining of Mineral Deposits, 17(3), 86-92 
+ 
+88 
+The XRD analysis showed that fly ash consists of two 
+main crystalline phases: quartz and mullite, zeolite composed 
+of three main crystalline phases of quartz, mordenite, and 
+illite, while rice husk ash comprises an amorphous phase 
+with tridymite and kaolinite crystalline phases. The burning 
+of rice husks is carried out using a furnace, with a 500-600°C 
+temperature for 2 hours. The temperature is lowered to  
+200-100°C, then decreased until it reaches room temperature. 
+The Scanning Electron Microscope (SEM) observation 
+was conducted at the Laboratory of Geological Survey Insti-
+tute of Indonesia by using a JEOL JSM-6360LA Analytical 
+Scanning Electron Microscope. SEM analysis results at a 
+magnification of 1000 times are shown in Figure 3. 
+ 
+ 
+Figure 3. SEM images of (a) fly ash 1000X magnification; (b) zeolite 
+1000X magnification; (c) rice husk ash 1000X magni-
+fication 
+The SEM analysis results show that fly ash is mostly 
+spherical with a relatively smooth surface, while the morpho-
+logical form of the zeolite material appears crystallized and 
+the cubic shape and the morphological structure of rice husk 
+ash is irregular and porous. 
+2.2. Methods 
+In this research, five geopolymer compositions were used 
+to know the influence of the ratio of Al/Si on the microstruc-
+ture properties and compressive strength. The mixing formu-
+la was based on the ratio of Al/Si contained in raw materials, 
+and their ratio was 1:2; 1:2.5; 1: 3; 1:3.5 and 1:4. The speci-
+mens were made with the following raw materials: fly ash  
+(-100 mesh), RHA (-50 mesh) and zeolite (-40 + 80 mesh). 
+The geopolymer concrete test objects were coded as BG-1, 
+BG-2, BG-3, BG-4, and BG-5. 
+The geopolymer concrete mixture/composition formula-
+tion made in this study is shown in Table 2. 
+Table 2. Mixture proportions for the preparation of geopolymers 
+Sample code 
+Zeolite, (%) 
+RHA, (%) 
+FA, (%) 
+Ratio Al/Si 
+Alkaline-
+activator 
+Water, (%) 
+w/b ratio 
+Sodium 
+silicate 
+(%) 
+NaOH 
+(8M) 
+(%) 
+BG-1 
+10 
+15 
+75 
+1:2 
+57 
+23 
+20 
+1:4 
+BG-2 
+20 
+15 
+65 
+1:2.5 
+57 
+23 
+20 
+1:4 
+BG-3 
+30 
+15 
+55 
+1:3 
+57 
+23 
+20 
+1:4 
+BG-4 
+45 
+15 
+40 
+1:3.5 
+57 
+23 
+20 
+1:4 
+BG-5 
+60 
+15 
+25 
+1:4 
+57 
+23 
+20 
+1:4 
+ 
+Mixing and molding of geopolymer concrete materials 
+used Indonesian National Standard (SNI) 2493: 2011 [22] 
+method on “Procedure of concrete manufacture and 
+maintenance of concrete specimens in the laboratory”. The 
+curing time to perform a compressive strength test was 
+28 days. After the formulation of the geopolymer concrete 
+composition and calculation of the volume of materials 
+required to create the geopolymer concrete, then the casting 
+process of geopolymer concrete test specimens on cylinder 
+molds of 45×90 mm size was carried out. The making pro-
+cess of geopolymer concrete was begun by making an alka-
+line activator solution of sodium silicate, NaOH, and water. 
+Water and NaOH were mixed and stirred until it was dis-
+solved for ±5 minutes. Sodium silicate was introduced into 
+the aqueous solution and NaOH, and they were stirred for 
+±5 minutes. The solid materials (FA, zeolites, and RHA) 
+were gently inserted into an alkaline activator solution, 
+which was then stirred at a moderate to homogenous rate 
+(±5 minutes). The paste formed was then poured into the 
+cylinder mold in 3 stages (1/3 of the first part was com-
+pressed using iron rods, the second 1/3 was also compacted 
+using the iron rod, and then the last 1/3 was too crammed 
+by using the iron rod). The molded sample was then immo-
+bilized at room temperature and was covered using a thin 
+plastic to prevent moisture loss in the sample for 24 hours. 
+After 24 hours, the sample was removed from the mold, 
+and then two types of the curing process, i.e.: (1) dried at 
+room temperature; (2) heated by oven at 60°C gradually for 
+24 hours, were performed. After the curing process, a com-
+pressive strength test was performed after the test object of 
+geopolymer concrete aged 28 days. 
+A compressive strength test was performed on all geo-
+polymer concrete specimens after curing for 28 days. Com-
+pressive strength tests were performed based on the Indone-
+sian Standard of SNI 1974-2011 [23] at the Laboratory of 
+Center for Material and Technical Product, Bandung, Indo-
+nesia. The tools used in this test were Unitester C21-Controls 
+CAT-21E. Three samples of each mixture proportion were 
+subjected to the test with the ﬁnal results reﬂecting the aver-
+age values recorded for each ratio. 
+3. Results and discussion 
+The result of casting off the geopolymer concrete test ob-
+ject has shown that for all formulations, the geopolymer 
+concrete can be formed into a good precision concrete and it 
+can be released from the mold quickly without any damage 
+to the cross-section of the concrete specimen (Fig. 4). 
+ 
+ 
+Figure 4. Geopolymer concrete specimens 
+Visual evaluation of the geopolymer concrete specimens 
+obtained perfect cylindrical results; the prototype did not 
+experience cracks after being cast, and the geopolymer con-
+crete specimens were not damaged. 
+ 
+
+
+===== PAGE 4 =====
+
+D.N. Arifin, E. Sanwani. (2023). Mining of Mineral Deposits, 17(3), 86-92 
+ 
+89 
+3.1. Compressive strength of geopolymer concrete 
+The compressive strength test results carried out on the 
+geopolymer concrete test specimen by curing process at 
+room temperature, and temperature 60°C are shown in  
+Figures 5 and 6, respectively. The compressive strength test 
+results show that the highest value of compressive strength in 
+the experiment with curing process at room temperature 
+obtained by geopolymer concrete test object with code BG-3 
+(Al/Si ratio 1:3), i.e., 15.02 MPa. The lowest compressive 
+strength value obtained by geopolymer concrete test object 
+with code BG-5 (ratio Al/Si 1:4) is 6.13 MPa. As for other 
+geopolymer concrete test object the values of compressive 
+strength are as follows: code BG-1 (ratio Al/Si 1:2) is 
+13.07 MPa, code BG-2 (ratio Al/Si 1:2.5) is 12.72 MPa, the 
+code BG-4 (ratio Al/Si 1:3.5) is 13.49 MPa. 
+ 
+ 
+Figure 5. Compressive strength development of the geopolymer 
+samples wit h the curing process at room temperature 
+ 
+Figure 6. Compressive strength development of the geopolymer 
+samples with the curing process at 60°C 
+The experimental compressive strength test results with 
+the curing process at 60°C show that the highest value was 
+obtained by geopolymer concrete test object with code BG-1 
+(ratio Al/Si 1:2), i.e., 16.74 MPa. The lowest compressive 
+strength value was obtained by geopolymer concrete test 
+object with code BG-5 (ratio Al/Si 1:4) i.e., 8.07 MPa. As for 
+other geopolymer concrete test object the values of compres-
+sive strength are as follows: BG-2 code (ratio Al/Si 1:2.5) i.e. 
+15.75 MPa, code BG-3 (ratio Al/Si 1:3) i.e. 13.05 MPa, code 
+BG-4 (ratio Al/Si 1:3.5) i.e. 10.97 MPa. The test results of 
+the compressive strength of the geopolymer concrete test 
+object showed that Al/Si’s ratio influenced the compressive 
+strength value of each geopolymer concrete test specimen. 
+The results of previous studies stated that the ratio of 
+Si/Al and Na/Al at a value of 1.8-2.2 and 0.9-1.2 in geopol-
+ymer formulations could achieve a high compressive 
+strength [24]. Davidovits [25] explained that the structure of 
+amorphous geopolymers was originally proposed as polysialate 
+(-Si-O-Al-O-), polysialate-siloxo (Si-O-Al-O-Si-O), and 
+polysialate-disiloxo (Si-O -Al-O-Si-O-Si-O) when the Si/Al 
+ratio is 1, 2, and 3, respectively. However, geopolymers can 
+also be formed at Si/Al ratios higher than 3, and this is 
+caused by extensive aluminosilicate, high Si content, and 
+silicates used as alkali activators [10]. 
+The formation of a long and complex chain of silicate  
+oligomers and silicates’ addition resulted in an increased 
+geopolymer structure [26]. In comparison, some studies 
+stated that soluble silicates’ addition could not induce fun-
+damental changes in the structure of geopolymers [10], [20]. 
+Duxon et al. [20] reported that mixtures with SiO2/Al2O3 
+ratio higher than 3.8 cause compressive strength to decrease 
+with time; this happens occasionally and is influenced by 
+mixed proportions. The test results of the compressive 
+strength of the geopolymer concrete test object also showed 
+that the curing temperature affects each geopolymer concrete 
+test specimen’s compressive strength value. Curing tempera-
+ture has a signiﬁcant effect on compressive strength devel-
+opment because it affects samples setting and hardening [27]. 
+The geopolymerization process will increase curing spe-
+cimens at initial temperatures between 45 and 95, resulting in 
+a high compressive strength [9], [10], [28]. Geopolymer con-
+crete shows optimal engineering properties after curing at 60 
+for 24 hours [29]. Fly ash experiences a prolonged reaction at 
+room temperature [30]. The compressive strength of the sam-
+ple BG-3 at room temperature curing process has increased 
+compared to BG-1 and BG-2 compositions. The composition 
+of BG-3 in this study consisted of 30% zeolite, 15% RHA, 
+and 55% FA (Al/Si ratio 1:3). Increased compressive strength 
+is likely due to the curing process at room temperature resul-
+ting in slower compressive strength progression so that the 
+composition of BG-3 produced a higher value of compressive 
+strength. The improvement of compressive strength may have 
+resulted from the macroaggregates effect of ﬁne zeolite parti-
+cles [13]. With the addition of zeolite, micro aggregate zeolite 
+particles can increase the level of geopolymerization so that 
+the 
+geopolymer 
+specimen 
+increases 
+its 
+compressive 
+strength [13]. The higher surface area of zeolite gives it more 
+opportunity to interact with the geopolymeric phase [31]. 
+3.2. XRD analysis of geopolymer concrete 
+X-Ray Diffractometer analysis is one of the qualitative 
+and semi-quantitative analysis. Qualitative research is used to 
+determine the type of crystalline compound present in the 
+specimen. The geopolymer concrete test object was prepared 
+and ground to -200 mesh, and then XRD analysis was per-
+formed. XRD analysis results of geopolymer concrete tests 
+performed by curing at room temperature and temperature of 
+60°C are shown in Figure 7, respectively. 
+The results of the XRD analysis of geopolymer concrete 
+samples performed by curing process at room temperature 
+and temperature of 60°C (Fig. 7) indicate that the main crys-
+talline phases are quartz, mullite, and illite, which form the 
+main mineral framework and are responsible for the mechan-
+ical strength of geopolymer concrete samples. The presence 
+of sharp quartz and cristobalite peaks in the XRD pattern of 
+geopolymer samples originating from FA and RHA, respec-
+tively, shows that the geopolymerization process involves a 
+crystalline phase and is not reactive in the system [32]. 
+Around the value of 2θ at an angle of 26.7° in succession 
+from each XRD pattern of geopolymer concrete samples 
+forming rising peaks, which may affect the geopolymer con-
+crete’s mechanical properties. 
+
+
+===== PAGE 5 =====
+
+D.N. Arifin, E. Sanwani. (2023). Mining of Mineral Deposits, 17(3), 86-92 
+ 
+90 
+(a) 
+ 
+(b) 
+ 
+Figure 7. XRD patterns of: (a) geopolymer samples with curing 
+process at room temperature; (b) geopolymer samples 
+with curing process at 60°C 
+Increased water demand in concrete is influenced by illite 
+and montmorillonite, with each different percentage resulting 
+in reduced concrete’s strength [33]. 
+3.3. SEM analysis of geopolymer concrete 
+Microstructure study on geopolymer concrete using SEM 
+analysis is a method to determine the quality of pores in the 
+matrix of geopolymer concrete, which can affect the con-
+crete’s ability to maintain and distribute external loads [34]. 
+The SEM analysis results on the geopolymer concrete 
+sample made by the curing process at room temperature are 
+shown in Figure 8. In Figure 8a (BG-1 sample), the raw 
+material of geopolymer concrete in the form of fly ash, zeo-
+lite, and rice husk ash are seen evenly in all parts of geopo-
+lymer concrete. Besides, a new phase of silica has resulted 
+from the reaction of geopolymerization between the raw 
+material of the geopolymer concrete with the alkaline solu-
+tion (i.e., sodium silicate and NaOH) used. There are voids in 
+the BG-1 sample, which will affect the compressive strength 
+of the geopolymer concrete. Likewise, the BG-2 sample, as 
+shown in Figure 8b, is not much different compared to the 
+BG-1 sample, except for the appearance of tapered silica in 
+the BG-2 sample. 
+In BG-1 and BG-2 samples, there are unreacted fly ash 
+feedstocks that will affect the geopolymer concrete’s me-
+chanical properties. The BG-3 sample (Fig. 8c) has the same 
+tendency as BG-1 and BG-2 samples. Only in the BG-3 sam-
+ple, a compact geopolymer bond is formed, giving high 
+compressive strength. In the BG-4 sample (Fig. 8d), the 
+denser structure is seen. Still, it is also apparent that unreact-
+ed fly ash material has appeared, which will decrease the 
+geopolymer concrete’s mechanical properties. 
+ 
+Figure 8. SEM images of geopolymer samples with curing process 
+at room temperature: (a) BG-1; (b) BG-2; (c) BG-3; 
+(d) BG-4; (e) BG-5 
+In the BG-5 sample (Fig. 8e), the geopolymer concrete 
+material has not reacted entirely so that the geopolymeriza-
+tion process is also not working correctly result in low me-
+chanical properties. 
+SEM analysis on the geopolymer concrete samples con-
+ducted by the curing process at 60°C is shown in Figure 9. 
+As shown in Figure 9a (BG-1 sample), the raw material for 
+the concoction of geopolymer, i.e., fly ash, zeolite, and rice 
+husk ash, are seen evenly in all geopolymer concrete sec-
+tions. The void formed in the BG-1 sample is shallow, and 
+there is also an elongated geopolymer bond that will affect 
+the high compressive strength of the geopolymer sample. BG-1 
+sample is a sample of geopolymer concrete with the highest 
+compressive strength value compared to other samples. 
+In the BG-2 sample (Fig. 9b), voids are started to form 
+results in a lower compressive strength value compared to 
+the BG-1 sample (Fig. 9a). The fly ash has not reacted entire-
+ly in the BG-2 sample, but the unreacted fly ash size is not as 
+large as the geopolymer concrete sample’s size through cur-
+ing at room temperature (Fig. 8b). This is probably due to the 
+heating process at 60°C. In the BG-3 sample (Fig. 8c), it also 
+contains a large number of voids. The constituents also ap-
+pear to have reacted completely, and new phase (silica) is 
+only formed in some parts of the sample. In the BG-4 sample 
+(Fig. 9d), the structure is formed tightly in some parts of the 
+sample, but quite large voids are also formed, resulting in the 
+low mechanical properties of the geopolymer concrete. 
+In the BG-5 sample (Fig. 9e), the zeolite appears domi-
+nant, and voids are also formed in some parts. The ash of rice 
+husk (RHA) is seen to be very small; this is probably because 
+it has reacted with other constituent materials. The increasing 
+amount of unreacted material in geopolymer concrete will 
+result in a looser geopolymer structure related to the higher 
+percentage of RHA. 
+
+
+===== PAGE 6 =====
+
+D.N. Arifin, E. Sanwani. (2023). Mining of Mineral Deposits, 17(3), 86-92 
+ 
+91 
+ 
+Figure 9. SEM images of geopolymer samples with curing process at 
+60°C: (a) BG-1; (b) BG-2; (c) BG-3; (d) BG-4; (e) BG-5 
+Chemical reactions from solids that take place incomplete 
+in an alkaline environment cause many particles in the geo-
+polymer not to react [15]. According to Assi et al. [35], it 
+was reported that the presence of a void is due to the diffe-
+rent grain size distribution between the raw materials of the 
+geopolymer. The fine grain size will lead to higher polymeri-
+zation rates due to the massive material surface area. Voids 
+are also caused by fly ash particles’ presence isolated in the 
+activator solution (sodium silicate and NaOH), inhibiting the 
+polymerization 
+process. 
+According 
+to 
+Hwang 
+and 
+Huynh [15], observation on the geopolymer sample’s surface 
+clearly shows the presence of a porous microstructure that is 
+not homogeneous with micro-cracks and voids. These cracks 
+occur due to (1) evaporation of water during the curing pro-
+cess, which causes shrinkage cracks, and or (2) the presence 
+of loads formed during compression testing. The voids in the 
+geopolymer sample formed due to several possibilities (1) 
+during the initial mixing process, there are residual air bub-
+bles that inserted into the geopolymer, and (2) in the initial 
+process, space is occupied by water, but then becomes voids 
+because of the drying process so that the water evaporates. 
+4. Conclusions 
+Based on the results of this research, it can be concluded 
+as follows. Fly ash, zeolite, and rice husk ash raw materials 
+with sodium silicate binder and NaOH can be formed into 
+new functional materials in the form of geopolymer concrete, 
+increasing the materials’ added value used; The ratio of Al/Si 
+affects the compressive strength and microstructure of the 
+geopolymer concrete. The highest value of compressive 
+strength (i.e., 16.74 MPa) was achieved by geopolymer con-
+crete, which experienced a curing process at 60°C with an 
+Al/Si ratio of 1:2. 
+In contrast, geopolymer concrete, which was cured at 
+room temperature with an Al/Si ratio of 1:4, achieves the 
+lowest value (i.e., 6.13 MPa); The curing temperature has a 
+significant effect on compressive strength as it affects speci-
+men settings and hardening; Voids formed on geopolymer 
+concrete will affect the mechanical properties of the geopo-
+lymer concrete. The larger and higher percentages of voids 
+formed, the lower the mechanical properties of the geopoly-
+mer concrete. Geopolymer concrete specimens showed the 
+required physical and mechanical properties. Thus, geopoly-
+mer concrete can principally be utilized as a building materi-
+al for wall installation and floor installation for pedestrians 
+and parks or other uses. 
+Acknowledgements 
+The authors would like to thank the head of Department 
+of Metallurgical Engineering, Faculty of Mining and Petro-
+leum Engineering, Institut Teknologi Bandung and the head 
+of Research Centre for Geological Resources – National 
+Research and Innovation Agency and also for those who 
+provide substantial help in this research. 
+References 
+[1] Posi, P., Teerachanwit, C., Tanutong, C., Limkamoltip, S., Lertnimool-
+chai, S., Sata, V., & Chindaprasirt, P. (2013). Lightweight geopolymer 
+concrete containing aggregate from recycle lightweight block. Materials 
+& Design, (52), 580-586. https://doi.org/10.1016/j.matdes.2013.06.001 
+[2] Fouchal, F., Gouny, F., Maillard, P., Ulmet, L., & Rossignol, S. (2015). 
+Experimental evaluation of hydric performances of masonry walls made 
+of earth bricks, geopolymer and wooden frame. Building and Environ-
+ment, (87), 234-243. https://doi.org/10.1016/j.buildenv.2015.01.036 
+[3] Hasanbeigi, A., Menke, C., & Price, L. (2010). The CO2 abatement cost 
+curve for the Thailand cement industry. Journal of Cleaner Production, 
+18(15), 1509-1518. https://doi.org/10.1016/j.jclepro.2010.06.005 
+[4] Davidovits, J. (1989). Geopolymers and geopolymeric materials. Journal 
+of Thermal Analysis, 35(2), 429-441. https://doi.org/10.1007/bf01904446 
+[5] Davidovits, J. (2011). Geopolymer chemistry and application. Saint-
+Quentin, France: Geopolymer Institute, 675 p. 
+[6] Phair, J.W., & Van Deventer, J.S.J. (2001). Effect of silicate activator 
+pH on the leaching and material characteristics of waste-based inorgan-
+ic 
+polymers. 
+Minerals 
+Engineering, 
+14(3), 
+289-304. 
+https://doi.org/10.1016/s0892-6875(01)00002-4 
+[7] Van Bekkum, H., Flanigen, E.M., & Jansen, J.C. (1991). Introduction 
+to zeolite science and practice. Amsterdam, Netherland: Elsevier, 1078 p. 
+[8] Van Jaarsveld, J.G.S., Van Deventer, J.S.J., & Lorenzen, L. (1998). 
+Factors affecting the immobilization of metals in geopolymerized 
+flyash. Metallurgical and Materials Transactions B, 29(1), 283-291. 
+https://doi.org/10.1007/s11663-998-0032-z 
+[9] Bakharev, T. (2005). Resistance of geopolymer materials to acid 
+attack. 
+Cement 
+and 
+Concrete 
+Research, 
+35(4), 
+658-670. 
+https://doi.org/10.1016/j.cemconres.2004.06.005 
+[10] Khale, D., & Chaudhary, R. (2007). Mechanism of geopolymerization 
+and factors influencing its development: A review. Journal of Materials 
+Science, 42(3), 729-746. https://doi.org/10.1007/s10853-006-0401-4 
+[11] Kizhakkumodom Venkatanarayanan, H., & Rangaraju, P.R. (2015). Effect 
+of grinding of low-carbon rice husk ash on the microstructure and perfor-
+mance properties of blended cement concrete. Cement and Concrete Com-
+posites, (55), 348-363. https://doi.org/10.1016/j.cemconcomp.2014.09.021 
+[12] Ichiura, H., Kitaoka, T., & Tanaka, H. (2003). Removal of indoor 
+pollutants under UV irradiation by a composite TiO2-zeolite sheet pre-
+pared using a papermaking technique. Chemosphere, 50(1), 79-83. 
+https://doi.org/10.1016/s0045-6535(02)00604-5 
+[13] Huang, Y., Han, M., & Yi, R. (2012). Microstructure and properties 
+of fly ash-based geopolymeric material with 5A zeolite as a filler. 
+Construction 
+and 
+Building 
+Materials, 
+(33), 
+84-89. 
+https://doi.org/10.1016/j.conbuildmat.2012.01.014 
+[14] Swanepoel, J.C., & Strydom, C.A. (2002). Utilisation of fly ash in a 
+geopolymeric material. Applied Geochemistry, 17(8), 1143-1148. 
+https://doi.org/10.1016/s0883-2927(02)00005-7 
+[15] Hwang, C.-L., & Huynh, T.-P. (2015). Effect of alkali-activator and 
+rice husk ash content on strength development of fly ash and residual 
+rice husk ash-based geopolymers. Construction and Building Materials, 
+(101), 1-9. https://doi.org/10.1016/j.conbuildmat.2015.10.025 
+[16] Görhan, G., & Kürklü, G. (2014). The influence of the NaOH solution 
+on the properties of the fly ash-based geopolymer mortar cured at dif-
+
+
+===== PAGE 7 =====
+
+D.N. Arifin, E. Sanwani. (2023). Mining of Mineral Deposits, 17(3), 86-92 
+ 
+92 
+ferent temperatures. Composites Part B: Engineering, (58), 371-377. 
+https://doi.org/10.1016/j.compositesb.2013.10.082 
+[17] Zhuang, X.Y., Chen, L., Komarneni, S., Zhou, C.H., Tong, D.S., Yang, 
+H.M., Yu, W.H., & Wang, H. (2016). Fly ash-based geopolymer: 
+Clean production, properties and applications. Journal of Cleaner Pro-
+duction, (125), 253-267. https://doi.org/10.1016/j.jclepro.2016.03.019 
+[18] He, J., Zhang, J., Yu, Y., & Zhang, G. (2012). The strength and micro-
+structure of two geopolymers derived from metakaolin and red mud-fly 
+ash admixture: A comparative study. Construction and Building Mate-
+rials, (30), 80-91. https://doi.org/10.1016/j.conbuildmat.2011.12.011 
+[19] Kriven, W.M., Bell, J.L., & Gordon, M. (2012). Microstructure and 
+microchemistry of fully-reacted geopolymers and geopolymer matrix 
+composites. Advances in Ceramic Matrix Composites, (IX), 227-250. 
+https://doi.org/10.1002/9781118406892.ch15 
+[20] Duxson, P., Provis, J.L., Lukey, G.C., Mallicoat, S.W., Kriven, W.M., 
+& van Deventer, J.S.J. (2005). Understanding the relationship between 
+geopolymer composition, microstructure and mechanical properties. 
+Colloids and Surfaces A: Physicochemical and Engineering Aspects, 
+269(1-3), 47-58. https://doi.org/10.1016/j.colsurfa.2005.06.060 
+[21] ASTM C 618. (2012). Standard speciﬁcation for coal ﬂy ash and raw 
+or calcined naturalpozzolan for use in concrete. Annual Book of 
+ASTM Standard. 
+[22] SNI 2493:2011. (2011). Tata cara pembuatan dan perawatan benda uji 
+beton di laboratorium. Jakarta, Indonesia: National Standardization 
+Agency of Indonesia. 
+[23] SNI 1974-2011. (2011). Cara uji kuat tekan beton dengan benda uji 
+silinder. Jakarta, Indonesia: National Standardization Agency of Indonesia. 
+[24] Rowles, M., & O’Connor, B. (2003). Chemical optimisation of the 
+compressive strength of aluminosilicate geopolymers synthesised by 
+sodium silicate activation of metakaolinite. Journal of Materials Chemis-
+try, 13(5), 1161-1165. https://doi.org/10.1039/b212629j 
+[25] Davidovits, J. (1982). The need to create a new technical language for 
+the transfer of basic scientiﬁc information. Transfer and Exploitation of 
+Scientiﬁc and Technical Information. Luxembrourg, Luxembrourg: 
+Commission of the European Communities, 316 p. 
+[26] McCormick, A.V., Bell, A.T., & Radke, C.J. (1989). Multinuclear NMR 
+investigation of the formation of aluminosilicate anions. The Journal of 
+Physical Chemistry, 93(5), 1741-1744. https://doi.org/10.1021/j100342a015 
+[27] Nazari, A., Bagheri, A., & Riahi, S. (2011). Properties of geopolymer with 
+seeded fly ash and rice husk bark ash. Materials Science and Engineering: 
+A, 528(24), 7395-7401. https://doi.org/10.1016/j.msea.2011.06.027 
+[28] Chindaprasirt, P., Chareerat, T., & Sirivivatnanon, V. (2007). Worka-
+bility and strength of coarse high calcium fly ash geopolymer. Ce-
+ment 
+and 
+Concrete 
+Composites, 
+29(3), 
+224-229. 
+https://doi.org/10.1016/j.cemconcomp.2006.11.002 
+[29] Rangan, B.V., Wallah, S.E., Sumajouw, D.M.J., & Hardjito, D. (2006). 
+Heat-cured, low-calcium, ﬂy ash-based geopolymer concrete. Indian 
+Concrete Journal, (80), 47. 
+[30] Puertas, F., Martı́nez-Ramı́rez, S., Alonso, S., & Vázquez, T. (2000). 
+Alkali-activated fly ash/slag cements. Cement and Concrete Research, 
+30(10), 1625-1632. https://doi.org/10.1016/s0008-8846(00)00298-23 
+[31] Yousef, R.I., El-Eswed, B., Alshaaer, M., Khalili, F., & Khoury, H. (2009). 
+The influence of using Jordanian natural zeolite on the adsorption, physical, 
+and mechanical properties of geopolymers products. Journal of Hazardous 
+Materials, 165(1-3), 379-387. https://doi.org/10.1016/j.jhazmat.2008.10.004 
+[32] He, J., Jie, Y., Zhang, J., Yu, Y., & Zhang, G. (2013). Synthesis and 
+characterization of red mud and rice husk ash-based geopolymer com-
+posites. 
+Cement 
+and 
+Concrete 
+Composites, 
+(37), 
+108-118. 
+https://doi.org/10.1016/j.cemconcomp.2012.11.010 
+[33] Tugrul, A., Hasdemir, S., & Yılmaz, M. (2014). The effect of feldspar, 
+mica and clay minerals on compressive strength of mortar. Engineering 
+Geology for Society and Territory, (5), 93-96. https://doi.org/10.1007/978-
+3-319-09048-1_18 
+[34] Kusbiantoro, A., Nuruddin, M.F., Shafiq, N., & Qazi, S.A. (2012). The effect 
+of microwave incinerated rice husk ash on the compressive and bond 
+strength of fly ash based geopolymer concrete. Construction and Building 
+Materials, (36), 695-703. https://doi.org/10.1016/j.conbuildmat.2012.06.064 
+[35] Assi, L.N., Deaver, E., El Batanouny, M.K., & Ziehl, P. (2016). Inves-
+tigation of early compressive strength of fly ash-based geopolymer 
+concrete. Construction and Building Materials, (112), 807-815. 
+https://doi.org/10.1016/j.conbuildmat.2016.03.008  
+Потенційні можливості використання природного цеоліту, золи-виносу 
+та золи рисового лушпиння для виробництва геополімерного бетону 
+Д.Н. Аріфін, Е. Санвані 
+Мета. Експериментальне дослідження потенційних можливостей використання природного цеоліту, золи-виносу та золи рисо-
+вого лушпиння при виробництві геополімерного бетону на основі впливу співвідношення Al/Si на властивості мікроструктури й 
+міцності на стиск. 
+Методика. Хімічні матеріали визначали методом атомно-абсорбційного спектрофотометра AA-7000. Рентгенодифрактометри-
+чний (XRD) аналіз кожного матеріалу був виконаний з використанням XRD-7000 визначення мінералогічного складу. Спостере-
+ження структури виконано за допомогою електронного скануючого мікроскопа JEOL JSM-6360LA. У цьому дослідженні викорис-
+товувалися п’ять геополімерних композицій, щоб дізнатися про вплив співвідношення Al/Si на властивості мікроструктури і міц-
+ність на стиск. 
+Результати. Встановлено, що зола-винос, природний цеоліт і зола рисового лушпиння можуть бути використані для виробниц-
+тва нових функціональних матеріалів у вигляді геополімерного бетону з межею міцності при стисканні до 16.74 МПа. Визначено, 
+що формула змішування базується на співвідношенні Al/Si, що міститься в сировині, і їх співвідношення становить 1:2; 1:2.5; 1:3; 
+1:3.5 і 1:4. Доведено, що зразки геополімерного бетону мають необхідні фізико-механічні властивості. 
+Наукова новизна. Оригінальність цього дослідження полягає у використанні природного цеоліту, золи-виносу та золи рисово-
+го лушпиння як сировини для виробництва геополімерного бетону. Цей підхід пропонує практичне рішення, використовуючи ці 
+поширені та легкодоступні матеріали, багаті кремнеземом та глиноземом, для виробництва функціональних і екологічно чистих 
+будівельних матеріалів. 
+Практична значимість. Це дослідження може забезпечити практичне вирішення проблеми природного цеоліту, золи-виносу 
+та золи рисового лушпиння, багатої кремнеземом і глиноземом, які можна використовувати для виробництва геополімерного бето-
+ну. Таким чином, геополімерний бетон в основному може бути використаний як будівельний матеріал для кладки стін і підлоги в 
+пішохідних зонах і парках тощо. 
+Ключові слова: бетон, зола-винос, геополімер, зола рисового лушпиння, природний цеоліт 

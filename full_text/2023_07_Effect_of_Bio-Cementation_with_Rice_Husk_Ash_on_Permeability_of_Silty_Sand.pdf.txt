@@ -1,0 +1,819 @@
+
+===== PAGE 1 =====
+
+ 
+Available online at www.CivileJournal.org 
+Civil Engineering Journal 
+(E-ISSN: 2476-3055; ISSN: 2676-6957) 
+Vol. 9, No. 11, November, 2023 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+2854 
+ 
+Effect of Bio-Cementation with Rice Husk Ash on Permeability 
+of Silty Sand 
+ 
+Martina Gumsar Sorum 1* , Ajanta Kalita 1  
+1 Department of Civil Engineering, North Eastern Regional Institute of Science and Technology (NERIST), Nirjuli, India. 
+Received 14 June 2023; Revised 30 September 2023; Accepted 09 October 2023; Published 01 November 2023 
+Abstract 
+The scarcity of competent soils in the desired locations has forced geotechnical engineers to look for soil stabilization that 
+is sustainable and environment-friendly. In this regard, bio-cementation technology has received a lot of interest in this 
+area because of its benefits over traditional soil stabilization techniques. The present study aims to examine the influence 
+of the bio-cementation technique with and without Rice Husk Ash (RHA) on the permeability property of silty sand. 
+Biocemented soil samples were prepared with various combinations of the bacterial solution (0.5, 1.0, and 1.5 optical 
+density (OD)) and cementation solution (0.5, 1.0, and 1.5 molarity) at 0, 3, 7, 14, and 28 curing days. The RHA, an 
+agricultural waste with good pozzolanic qualities, was added to the control soil and the biocemented soil samples at 5, 10, 
+and 15% by weight. A falling head permeability test was employed in this study. The test results showed that the 
+permeability of the soil decreased when the bio-cementation technique, with or without RHA, was applied. The 
+permeability of the soil decreased with increasing BS and CS concentrations in all curing days. A greater decrease in the 
+permeability value was seen when the RHA additive was added to the bio-cemented soil. The results of the micro-analysis 
+tests were also in support of this reduction. Overall, the addition of RHA up to 10% with 1.0 OD BS and 1.0M CS at a 14-
+day curing period was noted to optimally reduce the permeability property of the soil. 
+Keywords: Bio-Cementation; Permeability; Rice Husk Ash; Silty Sand; Bacterial Solution. 
+ 
+1. Introduction 
+Due to population growth and the rapid expansion of infrastructure, the availability of competent soils (typically 
+characterized by high load-bearing capacity and low compressibility) in the desired location becomes limited. The 
+scarcity of such soils in the desired locations has forced civil engineers to look for economical soil improvement 
+techniques. Conventional soil stabilization techniques such as chemical grouting, stone columns, the blending of natural 
+and manmade materials, and other soil improvement techniques are being used all over the world [1–3]. Nevertheless, 
+the majority of these methods rely on artificial or mechanical components, which require a lot of energy to produce or 
+install. Therefore, looking for innovative, cost-effective, environment-friendly, and overall, more sustainable soil 
+improvement techniques become necessary. The most recent and environmentally friendly soil improvement technique 
+now considered in geotechnical engineering is the bio-cementation process [4]. 
+Bio-cementation is a recent technique for improving soil properties that uses bacteria to create calcium carbonate 
+(CaCO3) crystals between soil particles [5–7]. The fundamental idea behind the bio-cementation process is that the 
+microbial enzyme urease breaks down urea into ammonia and carbon dioxide. The ammonia released into the 
+environment raises the pH, resulting in an accumulation of insoluble CaCO3. The process through which CaCO3 is 
+precipitated by urea hydrolysis involves two steps: (i) Urea hydrolysis and (ii) CaCO3 precipitation [8]. 
+                                                          
+* Corresponding author: tinagsorum@gmail.com 
+http://dx.doi.org/10.28991/CEJ-2023-09-11-016 
+ 
+© 2023 by the authors. Licensee C.E.J, Tehran, Iran. This article is an open access article distributed under the terms and 
+conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/). 
+ 
+
+
+===== PAGE 2 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2855 
+ 
+Urease from microorganisms hydrolyzes urea to create ammonium and carbonate ions: 
+CO(NH2)2 + H2O → CO32- + 2NH4+ 
+(1) 
+When a calcium source is present, the generated carbonate ions mix with the calcium ions to create calcium carbonate 
+precipitates. 
+Ca2+ + CO32- →CaCO3 (s) 
+(2) 
+Several previously published investigations have shown that the bio-cementation process is viable for a larger variety 
+of soils, including sandy soils, clayey, silty sand, organic soil, rocks, and concrete and mortar [8–11]. 
+Ivanov et al. (2012) [12] developed two new microbial-based grouting materials: calcium-based biogrouts and iron-
+based biogrouts. The authors found that these materials reduced permeability and increased the UCS values of the 
+biocemented sandy soil samples. Zhao et al. (2014) [13] examined the influence of urease and bacteria concentration, 
+curing conditions, and type of sand on the properties of biocemented-sandy soil. They found that the effectiveness of 
+the bacteria concentration for the enhancement of the MICP process was greater than that of the urease concentration. 
+The curing periods on the properties of biocemented soil had a small effect. Similarly, Chen et al. (2023) [14] examined 
+the effects of relative density, CS concentration, and frequency of consolidation on the mechanical properties of 
+biocemented-sandy soil. The study findings showed that consolidation frequency was the most influential factor on the 
+properties of the soil, with a 5–15 times as effective range. Khaleghi & Rowshanzamir (2019) [15] studied single and 
+mixed cultures by using urease-positive bacteria and non-ureolytic bacteria. The authors observed that the permeability 
+value of the mixed medium was reduced by more than 34% compared to the single culture. In another study, Li et al. 
+(2023) [16] observed that only 35.19% of the initial UCS strength of the biocemented calcareous sand sample remained 
+after 30 days of field marine environment erosion. Jain & Das (2023) [17] found that the amount of biomineral 
+precipitation influenced the permeability of the biocemented sandy soil. The permeability value was reduced sharply 
+initially when the biomineral percentage varied from 0 to 2. There was minimal variation in permeability reduction 
+beyond 10% biomineral dosage. Tabrizi et al. (2023) [18] investigated the strain accumulation pattern in the sandy soil 
+under cyclic traffic loads. They found that accumulated plastic strains were reduced by 95% under the same cyclic 
+loading conditions when the amount of precipitated calcite was increased from 0.38% to 0.83%. 
+Some studies have investigated the efficiency of adding fiber to the bio-cemented sandy soil [19, 20]. Li et al. (2016) 
+[21] evaluated the influence of randomly dispersed discontinuous fiber on the mechanical properties of the biocemented 
+soil. The study outcomes revealed that the addition of 0.2-0.3% fiber increased the shear strength, ductility, and failure 
+strain of the biocemented soil. In another study, Xiao et al. (2019) [20] observed that the tensile strength and UCS values 
+of basalt fiber-biocemented sandy soil increased with increasing calcite content. 
+Sharma & Ramkrishnan (2016) [22] evaluated the influence of micro-organisms, CS, and curing times on the 
+properties of the clay. The study findings demonstrated that the UCS value of intermediate and highly compressible 
+clayey soils noticeably improved (1.5 to 2.9 times) with the addition and duration of MICP treatment. Morales et al. 
+(2019) [23] found in their study that the content of CaCO3 in the soil was enhanced because of the addition of bacteria 
+to clay phyllites. The increment in plasticity values and specific surface area was also noticed. This finding is similar to 
+the findings of Bindu et al. (2017) [24]. They observed a decrease in the liquid limit value for the biocemented clayey 
+soil. 
+Sidik et al. (2014) [25] investigated the effect of the bio-cementation process on the permeability property of organic 
+soil. They confirmed that the permeability reduction could be effectively achieved through the application of bio-
+cementation. Canakci et al. (2015) [26] concluded that the bio-cementation technique was feasible for organic soil. The 
+authors found that the bio-cementation technique decreased the compressibility properties and hence enhanced the shear 
+strength of the soil. 
+In the bio-cementation process, some researchers experimented with calcium from alternative sources than the 
+calcium chloride (Cacl2) that is commercially available. Cheng & Shahin (2017) [27] studied the viability of employing 
+seawater as the source of calcium rather than Cacl2. The study findings revealed that the repeated treatment of seawater 
+could considerably enhance sand column strength. Similarly, Choi et al. (2016) [28] and Dayakar et al. (2019) [29] 
+evaluated the UCS and permeability of the sandy soil mixed with eggshell. Calcium from eggshells was shown to be 
+just as effective as calcium from Cacl2. 
+Some researchers have looked into the impacts of RHA on neat soil and biocemented soil. Rathan Raj et al. (2016) 
+[30] mixed the soil in various proportions (5%, 10%, 20%, 30%, 40%, 50% and 80%) and observed improvement in the 
+soil properties. Adhikary & Jana (2016) [31] stabilized the soil with 5%, 10%, 15%, and 20% of RHA by weight. They 
+observed a considerable enhancement in CBR and UCS with the addition of RHA. Roy (2014) [32] stabilized the soil 
+with different dosages of RHA and a small amount of cement. The findings showed UCS and CBR improved 
+
+
+===== PAGE 3 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2856 
+ 
+considerably and optimum value was observed at 10% RHA and 6% cement. Oyediran & Ayeni (2020) [33] examined 
+the influences of RHA, cement, and MICP on the geotechnical properties of soils. The study findings revealed that the 
+addition of 15% of cement and bio-cementation, and 10% of RHA increased the soil properties in optimum level. The 
+workability improved, UCS value increased, and the permeability value get reduced.  
+Based on the above literature, it was found that many studies have been carried out using bio-cementation techniques 
+on different types of soil, but limited research was done on silty sand soil. Although many research has been conducted 
+on the effect of bio-cementation techniques on various geotechnical engineering (such as consistency limits, 
+permeability, UCS, and shear strength), the effect of bacterial solution (BS), cementation solution (CS), and curing 
+period on bio-cementation process was not completely investigated. Also, the effect of RHA on biocemented soil 
+samples with these parameters was not explored properly. This motivated the authors to investigate the effect of the 
+various concentrations of BS and CS along with RHA on the permeability property of the silty sand soil. 
+The rest of this manuscript is outlined as follows. Different materials used and methods adopted in the study are 
+presented in section 2. The results and discussion of different laboratory tests are described in section 3. The last section 
+of the manuscript presents the main conclusions drawn from the study. Future recommendation is also presented in this 
+section. 
+2. Materials and Methods 
+2.1. Soil 
+The soil used in the current study was gathered from Lekhi village along National Highway 415, Arunachal Pradesh, 
+India (Figure 1). It was gathered by open excavation. After drying in an oven for 24 hours, the soil was sieved using an 
+IS sieve size of 425 µm. The category of the soil used in the current study is poorly graded silty sand as per IS 
+classification system (as shown in Figure 2). The basic properties of the soil are illustrated in Table 1. 
+ 
+Figure 1. Image of the soil sample 
+ 
+Figure 2. Particle size distribution curve for silty sand 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+0.01
+0.1
+1
+10
+100
+Percentage finer by weight
+Particle size (mm)
+
+
+===== PAGE 4 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2857 
+ 
+Table 1. Basic properties of the soil 
+Sl. No. 
+Description 
+Values 
+1. 
+ 
+ 
+Sieve Analysis: 
+Gravel (>4.75 mm) 
+Coarse sand (2-4.75 mm) 
+Medium sand (0.425-2 mm) 
+Fine sand (0.075-0.425 mm) 
+Silt + Clay (<0.75 mm) 
+CU 
+CC 
+ 
+11.3 % 
+5% 
+27.8% 
+46.5% 
+9.4% 
+5.04 
+1.78 
+2. 
+Specific Gravity 
+2.67 
+3. 
+Plastic Limit 
+Non-plastic 
+4. 
+Liquid Limit 
+22.9 
+5. 
+MDD 
+18.4 kN/m3 
+6. 
+OMC 
+14.61% 
+7. 
+Coeff. of permeability 
+4.16×10-4 cm/s 
+8. 
+Classification 
+SP-SM 
+2.2. Bacteria 
+Bacillus Sp (MTCC No. 4445) bacteria was used in the present study and was obtained in powder form in a glass 
+ampule from the Microbial Type Culture Collection and Gene Bank in Chandigarh, India. All chemicals used in the 
+study were ordered from Krishna Enterprise, Guwahati, India. 
+2.3. Culture Media 
+Nutrient broth was used to cultivate the bacteria. The composition of nutrient broth is presented in Table 2. The 
+growth medium, i.e., the nutrient broth solution, was prepared by maintaining the pH at 7.0 ± 0.2. It was sterilized for 
+15 minutes at 15 psi in an autoclave. After sterilization, it was again given ultraviolet rays for 15 minutes to prevent 
+contamination with bacterial growth. Then only the purchased powder-formed bacteria were injected into the growth 
+medium under the laminar flow cabinet. The bacteria and growth medium were incubated at 30°C in an incubator. The 
+optical densities (0.5, 1.0, and 1.5) of the cultivated bacterial solution were determined using a spectrophotometer (at λ 
+= 600nm) on different days (Figure 3). The bacterial solution of these 3 different ODs was stored at 4°C until used. 
+Table 2. Composition of nutrient broth 
+Sl.no. 
+Composition 
+Quantity 
+1. 
+Peptone 
+5 g 
+2. 
+NaCl 
+3 g 
+3. 
+Yeast extract 
+1 g 
+4. 
+Beef extract 
+3 g 
+5. 
+Distilled water 
+1000 ml 
+ 
+Figure 3. Image of bacterial solution 
+
+
+===== PAGE 5 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2858 
+ 
+2.4. Cementation Solution 
+Distilled water was mixed with urea having molar mass of 60 g/mol and calcium chloride with 111 g/mol to create 
+cementation solutions (CS) with different concentrations of molarity (0.5M, 1.0M, and 1.5M). The quantity of 
+urea/CaCl2 is calculated as per the below formula. 
+Quantity of urea/CaCl2 = Strength(w) = MM´V/1000(g) 
+(3) 
+where, M is molar mass of urea or CaCl2, M´is molar concentration of cementation solution, and V is volume of distilled 
+water. 
+2.5. Rice Husk Ash 
+Rice Husk Ash (RHA) is an agricultural waste with high silica content that is produced by burning rice husks. [30, 
+31]. Pozzolana is a siliceous or siliceous and aluminous component that, when combined with calcium hydroxide and 
+water at room temperature, produces cementitious materials. It is produced in enormous quantities and its disposal could 
+be harmful to the surrounding and human health. Many researchers have been attempting to develop uses for it to lessen 
+the environmental risk related to its disposal. By using this as an additive in place of cement, lime, etc., in soil 
+stabilization, both the construction cost as well as the environmental risk will be decreased. Although the burning of this 
+material will also produce CO2 the use of this material can reduce CO2 emission compared to cement production. India 
+produces around 20 million tonnes of paddy each year. This yields roughly 4.4 million tonnes of RHA and 24 million 
+tonnes of rice husk annually. 
+Locally available rice husk was used in the current study (Figure 4). It was burnt in the open air to get RHA. It was 
+sieved via a 425 µm IS sieve. The specific gravity of RHA was 2.03. The chemical composition of the RHA is presented 
+in Table 3. The RHA concentrations employed in the present study were 5, 10, and 15% by weight. 
+ 
+Figure 4. Image of RHA 
+Table 3. Chemical compositions of the RHA 
+Compositions 
+Weight % 
+O SiO2 
+55.39 
+Mg MgO 
+0.42 
+AL Al2O3 
+4.77 
+Si SiO2 
+31.38 
+K MAD- 10 Feldspar 
+1.5 
+Ca Wollastonite 
+0.48 
+TiTi 
+0.37 
+Fe Fe 
+4.54 
+Cu Cu 
+0.68 
+Zn Zn 
+0.47 
+2.6. Preparation of Soil Sample 
+Bacterial solution (BS) was used to replace half of the water needed to prepare all of the samples, and cementation 
+solution (CS) was used to replace the remaining half of the water needed. At OMC and MDD, the samples were prepared. 
+First, the required amount of BS was added and evenly mixed with hand-wearing gloves. The required amount of CS 
+was then added and thoroughly mixed. The mixing method was adopted in the preparation of the treated soil sample 
+because the homogeneous distribution of CaCO3 can easily be achieved by the mixing method. Figure 5 displays the 
+flowchart of the methodology used in the present study. 
+
+
+===== PAGE 6 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2859 
+ 
+ 
+Figure 5. Flowchart of the methodology used in the present study 
+3. Results and Discussion 
+Falling head permeability test was employed for the evaluation of the permeability property of control, biocemented, 
+and biocmented + RHA soil samples. Figure 6 displays the progress of the falling head permeability test. The 
+permeability value for control soil was found to be 2.49×10-4 cm/s. 
+ 
+Figure 6. Falling head permeability test in progress 
+3.1. Effect of Concentration of Bacterial Solution (BS) 
+Figures 7-a to 7-c illustrates how the concentrations of BS influence the permeability of the biocemented sample. It 
+was observed from Figure 7-a that at the 0.5M CS concentration, the permeability value of biocemented soil samples 
+decreased initially and then increased with increasing the BS concentration. The same pattern was observed for 1.0M 
+and 1.5M CS concentrations. 
+
+
+===== PAGE 7 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2860 
+ 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+Figure 7. Permeability values of biocemented soil with different concentration of BS and curing periods – with (a) 0.5M CS 
+(b) 1.0M CS (c) 1.5M CS 
+3.00E-05
+3.50E-05
+4.00E-05
+4.50E-05
+5.00E-05
+5.50E-05
+0.50
+1.00
+1.50
+Permeability. K(cm/s)
+Concentration of BS (OD)
+0 Days Curing
+3 Days Curing
+7 Days Curing
+14 Days Curing
+28 Days Curing
+3.00E-05
+3.50E-05
+4.00E-05
+4.50E-05
+5.00E-05
+5.50E-05
+0.50
+1.00
+1.50
+Permeability. K(cm/s)
+Concentration of BS (OD)
+0 Days Curing
+3 Days Curing
+7 Days Curing
+14 Days Curing
+28 Days Curing
+3.00E-05
+3.50E-05
+4.00E-05
+4.50E-05
+5.00E-05
+5.50E-05
+6.00E-05
+0.50
+1.00
+1.50
+Permeability. K(cm/s)
+Concentration of BS (OD)
+0 Days Curing
+3 Days Curing
+7 Days Curing
+14 Days Curing
+28 Days Curing
+
+
+===== PAGE 8 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2861 
+ 
+The maximum reduction of permeability value of biocmented soil samples was observed in 14-day curing period for 
+all BS concentrations irrespective of the CS concentrations. This may be the result of microbial activity producing pore-
+filling materials. The negatively charged surface of the bacteria caused CaCO3 to precipitate when calcium ions in the 
+form of CaCl2 were supplied [34], and it provided nucleation sites for the adhesion of Ca2+. The CaCO3 precipitation 
+blocked the soil pores which reduced the permeability of the soil and limited water flow [35]. The maximum percentage 
+reduction in the permeability value was found in 1.0 OD concentration (20.36%) at 0.5M CS concentration. This was 
+followed by 1.5OD (20.07%) and 0.5OD BS concentrations (17.47%). Similarly, for the CS concentration 1.0M, the 
+maximum reductions were 17.97%, 21.92%, and 19.38% for 0.5OD, 1.0OD, and 1.5OD BS concentrations, respectively. 
+The 17.76%, 20.56%, and 19.57% reduction in permeability value for 0.5OD, 1.0OD, and 1.5OD BS concentration, 
+respectively, were observed in 1.5M CS concentration.  
+In comparison among BS concentrations, the maximum permeability reduction was associated with the 1.0OD BS 
+concentration (i.e., 20.36%%, 21.92%, and 20.56% for 0.5OD, 1.0OD, and 1.5OD, respectively). In addition, the 
+maximum reduction in permeability value of the soil sample prepared at 1.0OD and 1.0 M with 14 days curing time was 
+found to be 84.98% with respect to the control sample. 
+3.2. Effect of Concentration of Cementation Solution (CS) 
+The variation in the coefficient of permeability values of the bio-cemented samples at different CS concentrations, 
+0.5, 1.0, and 1.5M, is illustrated in Figures 8-a to 8-c. The results show the permeability values decreased for all the CS 
+concentration regardless of BS and curing periods from the control sample. It could be due to the fact that the 
+precipitation of calcite reduced the permeability values. As precipitation increased, the soil particles filled up and a bio-
+clogging effect connected the particles, decreasing the permeability. 
+ 
+(a) 
+ 
+(b) 
+3.00E-05
+3.50E-05
+4.00E-05
+4.50E-05
+5.00E-05
+5.50E-05
+6.00E-05
+0.50
+1.00
+1.50
+Permeability. K(cm/s)
+Concentration of CS (M)
+0 Days Curing
+3 Days Curing
+7 Days Curing
+14 Days Curing
+28 Days Curing
+2.00E-05
+2.50E-05
+3.00E-05
+3.50E-05
+4.00E-05
+4.50E-05
+5.00E-05
+5.50E-05
+0.50
+1.00
+1.50
+Permeability, K(cm/s)
+Concentration of CS (M)
+0 Days Curing
+3 Days Curing
+7 Days Curing
+14 Days Curing
+28 Days Curing
+
+
+===== PAGE 9 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2862 
+ 
+ 
+(c) 
+Figure 8. Permeability values of biocemented soil with different concentrations of CS and curing periods – with (a) 0.5 OD 
+BS (b) 1.0 OD BS (c) 1.5 OD BS 
+It was observed from Figure 8(a) that at the 0.5OD BS concentration, the permeability value of biocemented soil 
+samples decreased initially and then increased with increasing the CS concentration. The same pattern was observed for 
+1.0OD and 1.5OD BS concentrations. The maximum reduction of permeability value of biocmented soil samples was 
+observed in 14 days curing period for all CS concentrations irrespective of the BS concentrations.  
+The maximum percentage reduction in the permeability value was found in 1.0M concentration (17.97%) at 0.5OD 
+BS concentration. This was followed by 1.5M (17.76%) and 0.5M CS concentrations (17.47%). Similarly, for the BS 
+concentration 1.0OD, the maximum reductions were 20.36%, 21.92%, and 20.56% for 0.5, 1.0, and 1.5M CS 
+concentrations, respectively. The maximum percentage reduction in the permeability value for 1.5OD BS concentration 
+was observed in 0.5M CS concentration, i.e., 20.08%. This was followed by 19.57% for 1.5M and 19.38% for 1.0M CS 
+concentration. This finding is similar to the results of the studies conducted by Wani and Mir (2021) [7] , Dejong et al. 
+(2010) [36], and Qabany and Soga (2013) [37]. When the MICP treatment was performed with a low cementation 
+solution concentration, precipitation happened at pore throats where there was an excessive number of bacteria and 
+nutrients [36]. Qabany and Soga (2013) [37] observed that CaCO3 precipitation was more evenly distributed throughout 
+the majority of the samples as a whole and there was no drastic blockage.  
+In comparison among CS concentrations, the maximum permeability reduction was associated with the 1.0M CS 
+concentration (i.e., 17.97% and 21.92% for 0.5OD and1.0OD, respectively), and with the 0.5M CS concentration (i.e., 
+20.08% for 1.5OD). 
+3.3. Effect of Curing Period 
+Figures 8-a, and 8-c show a sudden decline in the permeability values at the initial stage of treatment (7 days curing) 
+till 14 days curing with respect to BS as well as CS concentration. The reason might be the blocking of pore spaces due 
+to the development of calcite precipitation [35, 37]. Also, at the initial stage, bacteria might be active enough to increase 
+the rate of calcite precipitation while cementation reagents were present and also due to the availability of pore spaces. 
+Similar results were observed in the studies of Dejong et al. (2010) [36] and Al Qabany & Soga (2013) [37]. However, 
+a slight increase after 14 days of curing was observed. The reason might be due to the dormant state of bacteria as there 
+is no nutrition left for consumption after 14 days [7]. Also, there might be limited spaces for calcite precipitation after 
+14 days. Therefore, the coefficient of permeability values started increasing after 14 days up to 28 days. 
+3.4. Effect of RHA Addition 
+It was observed from Figure 9-a that at the 0.5M CS concentration, the permeability value of biocemented soil 
+samples decreased initially and then increased with increasing the percentage of RHA additive. The same pattern was 
+observed for 1.0M and 1.5M CS concentrations in all the bacterial solution concentrations (Figures 9-b to 9-c). The 
+maximum permeability reduction was observed when 10% RHA was added to the biocemented sample (12.14% for 
+0.5M, 13.76% for 1.0M, and 12.29% for 1.5M, respectively) in 0.5OD. Similarly, for the BS concentration 1.0OD, the 
+maximum reductions were 29.37%, 30.39%, and 28.10% for 0.5M, 1.0M, and 1.5M CS concentrations, respectively. 
+The 20.88%, 22.51%, and 21.20% reduction in permeability value for 0.5M, 1.0M, and 1.5M CS concentration, 
+respectively, were observed in 1.5OD. Similar findings were observed in the study of Oyediran & Ayeni (2020) [33]. 
+The decrease in the permeability of the soil (with and without biotreated) mixed with RHA might be due to the fact that 
+the RHA is a pozzolanic additive with a high concentration of amorphous silica that reacts with water and formed 
+3.00E-05
+3.50E-05
+4.00E-05
+4.50E-05
+5.00E-05
+5.50E-05
+0.50
+1.00
+1.50
+Permeability, K (cm/s)
+Concentration of CS (M)
+0 Days Curing
+3 Days Curing
+7 Days Curing
+14 Days Curing
+28 Days Curing
+
+
+===== PAGE 10 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2863 
+ 
+cementitious compounds in soil particles. These cementitious substances bonded the soil particles together, decreasing 
+the permeability of the soil [33]. 
+ 
+(a) 
+ 
+(b) 
+ 
+(c) 
+Figure 9. Permeability values of biocemented soil@ 14 days curing with different percentage of RHA– with (a) 0.5OD BS (b) 
+1.0 OD BS (c) 1.5 OD BS 
+1.00E-05
+6.00E-05
+1.10E-04
+1.60E-04
+2.10E-04
+2.60E-04
+0.50
+1.00
+1.50
+Permeability, K(cm/s)
+Concentration of CS (M)
+control
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+1.00E-05
+6.00E-05
+1.10E-04
+1.60E-04
+2.10E-04
+2.60E-04
+0.50
+1.00
+1.50
+Permeability, K(cm/s)
+Concentration of CS (M)
+control
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+1.00E-05
+6.00E-05
+1.10E-04
+1.60E-04
+2.10E-04
+2.60E-04
+0.50
+1.00
+1.50
+Permeability, K(cm/s)
+Concentration of CS (M)
+control
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+
+
+===== PAGE 11 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2864 
+ 
+In comparison among CS concentrations, the maximum permeability reduction was associated with the 1.0M CS 
+concentration (i.e., 13.76%, 30.39%, and 22.51%) for 0.5OD, 1.0OD, and 1.5OD, respectively when 10% RHA was 
+added. The maximum reduction in permeability value of the soil sample prepared at 1.0OD and 1.0 M with 10% RHA 
+for a 14-day curing time was found to be 87.3% with respect to the control sample. 
+The permeability values of the soil samples stabilized with the RHA additive alone decreased initially and started 
+increasing after 14 days curing in all RHA dosages (Figure 10). The maximum permeability reduction of the soil was 
+observed in a curing period of 14 days when stabilized with 5%, 10%, and 15% RHA (as observed in Figure 10). This 
+might be because there was a setting period that allowed urea and bacteria to spread across the entire soil before 
+precipitation occurred. The increase in the permeability of soil or biotreated soil when mixed with 15% RHA might be 
+because there was an excess of RHA in the sample that was not mobilized during the reaction, and as a result, the soil-
+RHA mixture's binding was weaker since they occupied spaces in the sample [31, 38]. 
+ 
+Figure 10. Permeability value of soil treated with only RHA at different curing periods 
+3.5. Microstructural Analysis 
+Scanning Electron Microscope (SEM) and Energy Dispersive X-ray microanalysis (EDAX) tests were conducted on 
+the untreated and biocemented soil samples. The results of the SEM test are presented in Figures 11-a, and 11-b. It is 
+noted that the formation of calcite is not observed in the untreated soil samples (Figure 11-a). Figure 11-b shows the 
+SEM image of optimum MICP-treated soil. It is observed, from Figure 11-b, that the calcite was formed on the surface 
+of the soil particles and at the contact points between them. This filled the pore spaces between the soil particles and 
+reduced the coefficient of permeability of the soil samples. The results of the EDAX test for untreated and MICP-treated 
+soil samples are presented in Figures 12-a, and 12-b. A higher energy peak of Ca in the treated sample showed the 
+precipitation of calcite crystals in the samples 
+(a) 
+(b) 
+Figure 11. SEM image of (a) untreated soil and (b) MICP treated soil samples 
+1.00E-04
+1.50E-04
+2.00E-04
+2.50E-04
+5.00
+10
+15
+Permeability, K (cm/s)
+Rice husk ash (%)
+0 Days Curing
+3 Days Curing
+7 Days Curing
+14 Days Curing
+28 Days Curing
+
+
+===== PAGE 12 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2865 
+ 
+(a) 
+(b) 
+Figure 12. EDAX graph for (a) untreated soil and (b) MICP-treated soil samples 
+4. Conclusions  
+The present study has demonstrated the application of bio-cementation techniques using the RHA additive on 
+locally available soil to improve its permeability property. Some conclusions drawn from the present study are listed 
+below: 
+ The coefficient of permeability value gets reduced due to the introduction of the bio-cementation technique, with 
+or without the RHA additive. The addition of RHA up to 10% with 1.0 OD BS and 1.0M CS at a 14-day curing 
+period was noted to optimally reduce the permeability property of the soil. 
+ The permeability of the soil decreased with the increase in BS and CS concentrations in all curing days. The 
+maximum permeability reduction was 84.98% when the soil sample was treated with 1.0OD BS and 1.0M CS at 
+14 days of curing. 
+ Further, more decrease in the permeability value was seen when the RHA additive was added to the bio-cemented 
+soil. The maximum permeability reduction at 1.0OD and 1.0M with 10% RHA after a 14-day curing time was 
+found to be 87.3%. 
+ The addition of RHA alone to the untreated soil sample also reduced the permeability value. The maximum 
+permeability reduction of the soil was observed in a curing period of 14 days when stabilized with 5%, 10%, and 
+15% RHA. The results of the SEM and EDAX tests are also in support of this reduction. 
+Overall, it can be concluded that the bio-cementation technique can be used as an effective and alternate soil 
+improvement technique. The improvement of other geotechnical properties, like UCS and CBR, of the soil using this 
+technique and RHA addition can be explored in future studies. 
+
+
+===== PAGE 13 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2866 
+ 
+5. Declarations  
+5.1. Author Contributions 
+Conceptualization, M.G.S.; methodology, M.G.S.; writing—original draft preparation, M.G.S.; writing—review and 
+editing, A.K. All authors have read and agreed to the published version of the manuscript. 
+5.2. Data Availability Statement 
+The presented datasets in the manuscript are available from the corresponding author on reasonable request. 
+5.3. Funding 
+The authors received no financial support for the research, authorship, and/or publication of this article. 
+5.4. Conflicts of Interest 
+The authors declare no conflict of interest.  
+6. References  
+[1] Collins, R. W. (2011). Stabilization of marginal soils using geofibers and nontraditional additives. Master Thesis, University of 
+Alaska Fairbanks, Fairbanks, United States. 
+[2] Phummiphan, I., Horpibulsuk, S., Phoo-ngernkham, T., Arulrajah, A., & Shen, S.-L. (2017). Marginal Lateritic Soil Stabilized 
+with Calcium Carbide Residue and Fly Ash Geopolymers as a Sustainable Pavement Base Material. Journal of Materials in Civil 
+Engineering, 29(2), 04016195. doi:10.1061/(asce)mt.1943-5533.0001708. 
+[3] Jan, O. Q., & Mir, B. A. (2018). Strength Behaviour of Cement Stabilised Dredged Soil. International Journal of Geosynthetics 
+and Ground Engineering, 4(2), 1-14. doi:10.1007/s40891-018-0133-y. 
+[4] Wani, K. M. N. S., & Mir, B. A. (2021). Influence of microbial geo-technology in the stabilization of dredged soils. International 
+Journal of Geotechnical Engineering, 15(2), 235–244. doi:10.1080/19386362.2019.1643099. 
+[5] Wani, K. M. N. S., & Mir, B. A. (2022). Application of Bio-Engineering for Marginal Soil Improvement: An Eco-Friendly Ground 
+Improvement Technique. Indian Geotechnical Journal, 52(5), 1097-1115. doi:10.1007/s40098-022-00639-7. 
+[6] Smith, A., Pritchard, M., Edmondson, A., & Bashir, S. (2017). The Reduction of the Permeability of a Lateritic Soil through the 
+Application of Microbially Induced Calcite Precipitation. Natural Resources, 8(5), 337–352. doi:10.4236/nr.2017.85021. 
+[7] Wani, K. M. N. S., & Mir, B. A. (2021). An Experimental Study on the Bio-cementation and Bio-clogging Effect of Bacteria in 
+Improving Weak Dredged Soils. Geotechnical and Geological Engineering, 39(1), 317–334. doi:10.1007/s10706-020-01494-0. 
+[8] Cardoso, R., Pires, I., Duarte, S. O. D., & Monteiro, G. A. (2018). Effects of clay’s chemical interactions on biocementation. 
+Applied Clay Science, 156, 96–103. doi:10.1016/j.clay.2018.01.035. 
+[9] Dhami, N. K., Reddy, M. S., & Mukherjee, A. (2016). Significant indicators for biomineralisation in sand of varying grain sizes. 
+Construction and Building Materials, 104, 198–207. doi:10.1016/j.conbuildmat.2015.12.023. 
+[10] Arbabzadeh, E., & Cardoso, R. (2019). Efficiency of biocementation as rock joints sealing technique evaluated through 
+permeability changes. World Congress on Civil, Structural, and Environmental Engineering (ICGRE’19), Rome, Italy. 
+doi:10.11159/icgre19.143. 
+[11] Al-Salloum, Y., Abbas, H., Sheikh, Q. I., Hadi, S., Alsayed, S., & Almusallam, T. (2017). Effect of some biotic factors on 
+microbially-induced calcite precipitation in cement mortar. Saudi Journal of Biological Sciences, 24(2), 286–294. 
+doi:10.1016/j.sjbs.2016.01.016. 
+[12] Ivanov, V., Chu, J., & Stabnikov, V. (2014). Iron-and calcium-based biogrouts for porous soils. Proceedings of Institution of 
+Civil Engineers: Construction Materials, 167(1), 36–41. doi:10.1680/coma.12.00002. 
+[13] Zhao, Q., Li, L., Li, C., Li, M., Amini, F., & Zhang, H. (2014). Factors Affecting Improvement of Engineering Properties of 
+MICP-Treated Soil Catalyzed by Bacteria and Urease. Journal of Materials in Civil Engineering, 26(12), 04014094. 
+doi:10.1061/(asce)mt.1943-5533.0001013. 
+[14] Chen, Y., Han, Y., Zhang, X., Sarajpoor, S., Zhang, S., & Yao, X. (2023). Experimental study on permeability and strength 
+characteristics of MICP-treated calcareous sand. Biogeotechnics, 1(3), 100034. doi:10.1016/j.bgtech.2023.100034. 
+[15] Khaleghi, M., & Rowshanzamir, M. A. (2019). Biologic improvement of a sandy soil using single and mixed cultures: A 
+comparison study. Soil and Tillage Research, 186, 112–119. doi:10.1016/j.still.2018.10.010. 
+[16] Li, Y., Li, Y., Guo, Z., & Xu, Q. (2023). Durability of MICP-reinforced calcareous sand in marine environments: Laboratory 
+and field experimental study. Biogeotechnics, 1(2), 100018. doi:10.1016/j.bgtech.2023.100018. 
+
+
+===== PAGE 14 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 9, No. 11, November, 2023 
+2867 
+ 
+[17] Jain, S., & Das, S. K. (2023). Influence of size and concentration of carbonate biomineral on biocementation and bioclogging 
+for mitigating soil degradation. Biogeotechnics, 1(2), 100021. doi:10.1016/j.bgtech.2023.100021. 
+[18] Tabrizi, E. M., Tohidvand, H. R., Hajialilue-Bonab, M., Mousavi, E., & Ghassemi, S. (2023). An investigation on the strain 
+accumulation of the lightly EICP-cemented sands under cyclic traffic loads. Journal of Road Engineering, 3(2), 203–217. 
+doi:10.1016/j.jreng.2023.03.002. 
+[19] Choi, S. G., Wang, K., & Chu, J. (2016). Properties of biocemented, fiber reinforced sand. Construction and Building Materials, 
+120, 623–629. doi:10.1016/j.conbuildmat.2016.05.124. 
+[20] Xiao, Y., He, X., Evans, T. M., Stuedlein, A. W., & Liu, H. (2019). Unconfined Compressive and Splitting Tensile Strength of 
+Basalt Fiber–Reinforced Biocemented Sand. Journal of Geotechnical and Geoenvironmental Engineering, 145(9). 
+doi:10.1061/(asce)gt.1943-5606.0002108. 
+[21] Li, M., Li, L., Ogbonnaya, U., Wen, K., Tian, A., & Amini, F. (2016). Influence of Fiber Addition on Mechanical Properties of 
+MICP-Treated Sand. Journal of Materials in Civil Engineering, 28(4). doi:10.1061/(asce)mt.1943-5533.0001442. 
+[22] Sharma, A., & Ramkrishnan, R. (2016). Study on effect of Microbial Induced Calcite Precipitates on strength of fine grained 
+soils. Perspectives in Science, 8, 198–202. doi:10.1016/j.pisc.2016.03.017. 
+[23] Morales, L., Garzón, E., Romero, E., & Sánchez-Soto, P. J. (2019). Microbiological induced carbonate (CaCO3) precipitation 
+using clay phyllites to replace chemical stabilizers (Cement or Lime). Applied Clay Science, 174, 15–28. 
+doi:10.1016/j.clay.2019.03.018. 
+[24] Bindu, J., Kannan, K., & Sajana, S. Biocementation in Marine Clays: Effect on Grain Size Distribution. Indian Geotechnical 
+Conference 2017, 14-16 December, 2017, IIT Guwahati, India. 
+[25] Sidik, W. S., Canakci, H., Kilic, I. H., & Celik, F. (2014). Applicability of biocementation for organic soil and its effect on 
+permeability. Geomechanics and Engineering, 7(6), 649–663. doi:10.12989/gae.2014.7.6.649. 
+[26] Canakci, H., Sidik, W., & Halil Kilic, I. (2015). Effect of bacterial calcium carbonate precipitation on compressibility and shear 
+strength of organic soil. Soils and Foundations, 55(5), 1211–1221. doi:10.1016/j.sandf.2015.09.020. 
+[27] Cheng, L., & Shahin, M. (2017). Bacteria induced cementation for soil stabilization. Proceedings of the 19th International 
+Conference on Soil Mechanics and Geotechnical Engineering, 17-22 September, 2017, Seoul, Korea.. 
+[28] Choi, S.-G., Wu, S., & Chu, J. (2016). Biocementation for Sand Using an Eggshell as Calcium Source. Journal of Geotechnical 
+and Geoenvironmental Engineering, 142(10), 06016010. doi:10.1061/(asce)gt.1943-5606.0001534. 
+[29] Dayakar, P., Raman, K. V., Arunya, A., & Venkatakrishnaiah, R. (2019). Study on strength properties of sand by biocementation 
+with eggshell. International Journal of Civil Engineering and Technology, 10(1), 2770–2785. 
+[30] Rathan Raj, R., Banupriya, S., & Dharani, R. (2016). Stabilization of soil using rice husk ash. International Journal of Computing 
+Engineering Research, 6(2), 43-50. 
+[31] Adhikary, S., & Jana, K. (2016). Potentials of rice husk ash as a soil stabilizer. International Journal of Latest Research in 
+Engineering and Technology, 2(2), 40-42. 
+[32] Roy, A. (2014). Soil stabilization using rice husk ash and cement. International Journal of Civil Engineering Research, 5(1), 49-
+54. 
+[33] Oyediran, I. A., & Ayeni, O. O. (2020). Comparative effect of microbial induced calcite precipitate, cement and rice husk ash 
+on the geotechnical properties of soils. SN Applied Sciences, 2(7), 1157. doi:10.1007/s42452-020-2956-0. 
+[34] Nemati, M., Greene, E. A., & Voordouw, G. (2005). Permeability profile modification using bacterially formed calcium 
+carbonate: Comparison with enzymic option. Process Biochemistry, 40(2), 925–933. doi:10.1016/j.procbio.2004.02.019. 
+[35] Whiffin, V. S., van Paassen, L. A., & Harkes, M. P. (2007). Microbial carbonate precipitation as a soil improvement technique. 
+Geomicrobiology Journal, 24(5), 417–423. doi:10.1080/01490450701436505. 
+[36] DeJong, J. T., Mortensen, B. M., Martinez, B. C., & Nelson, D. C. (2010). Bio-mediated soil improvement. Ecological 
+Engineering, 36(2), 197–210. doi:10.1016/j.ecoleng.2008.12.029. 
+[37] Qabany, A. A., & Soga, K. (2013). Session 2: Bio-chemo-mechanical aspects in geomechanics. Geotechnique, 63(4), 331-339. 
+doi:10.1680/geot.SIP13.P.022. 
+[38] Yadu, L., Tripathi, R. K. & Singh, D. (2011). Comparison of fly ash and rice husk ash htabilized black cotton soil. International 
+Journal of Earth Sciences and Engineering, 4(6), 42–45. 

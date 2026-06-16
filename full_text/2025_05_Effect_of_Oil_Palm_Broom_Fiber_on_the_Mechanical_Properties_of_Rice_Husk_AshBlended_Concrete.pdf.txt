@@ -1,0 +1,1061 @@
+
+===== PAGE 1 =====
+
+Open Access 
+Recent Progress in Materials 
+ 
+ 
+ 
+©  2025 by the author. This is an open access article distributed under the 
+conditions of the Creative Commons by Attribution License, which permits 
+unrestricted use, distribution, and reproduction in any medium or format, 
+provided the original work is correctly cited. 
+ 
+Original Research 
+Effect of Oil Palm Broom Fiber on the Mechanical Properties of Rice Husk 
+Ash–Blended Concrete 
+Taofiq O. Mohammed 1, *, Mohammad Zunaied Bin Harun 1, Jian Liu 2, Ebenezer O. Fanijo 1, * 
+1. School of Building Construction, Georgia Institute of Technology, USA; E-Mails: 
+ 
+tmohammed8@gatech.edu; mharun6@gatech.edu; ebenfanijo@gatech.edu 
+2. School of Environmental, Civil, Agricultural and Mechanical Engineering, University of Georgia, 
+Athens, GA 30602, USA; E-Mail: jian.liu1@uga.edu 
+* Correspondences: Taofiq O. Mohammed and Ebenezer O. Fanijo; E-Mails: 
+ 
+tmohammed8@gatech.edu; ebenfanijo@gatech.edu 
+Academic Editor: Iva Despotović 
+Special Issue: Application of Recycled Materials in Civil and Environmental Engineering 
+Recent Progress in Materials 
+2025, volume 7, issue 3 
+doi:10.21926/rpm.2503013 
+Received: June 04, 2025 
+Accepted: September 01, 2025 
+Published: September 04, 2025 
+Abstract 
+The high carbon footprint of cement production and the cost and environmental impact of 
+steel reinforcement make conventional concrete unsustainable for long-term use. Reducing 
+cement consumption and identifying sustainable, cost-effective alternatives to steel are 
+critical for lowering construction’s ecological and economic burden. Bio-based supplementary 
+cementitious materials (SCMs), such as rice husk ash (RHA), and natural plant fibers show 
+promise, but prior studies have mostly tested them separately or with varying combinations, 
+leaving the specific effect of fiber dosage at fixed SCM levels remain unclear. Therefore, this 
+study addresses this gap by systematically investigating the effect of oil palm broom fiber 
+(OPBF) content (0–5% by weight, in 0.5% increments) on the fresh and hardened properties 
+of concrete containing a fixed 10% RHA replacement of cement. The physical, fresh and 
+mechanical properties of OPBF were evaluated, and statistical analyses (ANOVA, Tukey’s HSD) 
+were conducted to identify significant performance differences and determine the optimal 
+fiber content. Experimental results indicate that increasing OPBF content reduced workability 
+
+
+===== PAGE 2 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 2/23 
+by up to 62.5% observed at 5% OPBF, while compressive and flexural strengths peaked at 2.5% 
+(27.8 MPa) and 3.0% OPBF (5.8 MPa), respectively. The results go beyond previous efforts by 
+providing the first systematic dataset on OPBF reinforced RHA–blended concrete 
+performance, establishing optimum fiber dosages, and demonstrating the potential of 
+agricultural residues to produce sustainable, performance-optimized concrete for low-load-
+bearing applications. 
+Keywords 
+Oil palm broom fiber (OPBF); rice husk ash (RHA); ANOVA; Tukey’s HSD; mechanical properties 
+ 
+1. Introduction 
+Concrete, the most familiar manmade construction material, is vastly consumed due to the 
+advantages it possesses, which include serviceability, long-term durability, availability, and cost-
+effectiveness of its constituent materials [1-3]. It has been utilized in various types of construction 
+projects, including residential buildings, skyscrapers, bridges, dams, and pavements [4]. It is 
+estimated that global consumption of concrete might reach 30 billion tons annually, which can be 
+derived from the values of annual cement production reaching 4.0 billion tons by 2030 [5]. However, 
+by the early 1800s, it was understood that concrete is generally brittle in character, has low energy 
+absorption capacity after yielding, and possesses poor tensile resistance [6, 7]. To eliminate these 
+limitations and make concrete tougher and more ductile, the use of steel as reinforcement gained 
+significant attention. Steel has been commonly used as longitudinal reinforcement and, in recent 
+times, as randomly dispersed fibers [8-11]. However, from both an economic and environmental 
+perspective, the combination of concrete and steel is both detrimental and expensive, as concrete 
+and rebar together account for 65% of construction-related greenhouse gas emissions, with rebar 
+alone contributing 60% of this total [12], and their combined use becomes expensive when rebar is 
+misused or wasted beyond actual requirements [13]. 
+Furthermore, Concrete production is reported to be a major contributor to GHG emissions [14, 
+15]. The most important constituent material of concrete, Ordinary Portland Cement (OPC), has 
+been reported by several researchers to be responsible for 5–8% of global CO2 emissions [16-22]. 
+Similarly, steel production is another major contributor to global CO2 emissions. In fact, 7–8% of 
+global CO2 emissions are attributed to steel production [23], and while rebar production contributed 
+to the steel industry’s CO2 emissions, calculating its exact shear requires more detailed data. In 
+addition to these detrimental environmental impacts, the continuous increase in infrastructural 
+costs due to the reliance on outdated steel production processes poses a persistent challenge for 
+the governments of developing countries in providing affordable and decent housing [24-27]. As a 
+result, the search for alternative construction materials that are more cost-effective to produce, 
+readily available, satisfies load bearing requirements and, most importantly, environmentally 
+sustainable has gained significant attention in recent times. 
+The combined incorporation of natural fibers and supplementary cementitious materials (SCMs) 
+derived from agricultural waste presents a promising and sustainable approach to reinforced 
+concrete production. This strategy not only offers a means of reducing the environmental burden 
+
+
+===== PAGE 3 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 3/23 
+associated with conventional cement and steel but also holds potential for improving the 
+mechanical performance of concrete, particularly in resource-constrained regions. Over the past 
+decade, there has been a growing interest in utilizing bio-based SCMs (such as rice husk ash (RHA), 
+palm oil fuel ash (POFA)) and natural fibers (such as coconut coir, jute, and hemp) to partially or 
+fully replace traditional materials [28-33]. However, a closer look at the existing literature reveals 
+that most studies have either focused on the combination of bio-based SCMs with synthetic fibers 
+such as polypropylene and steel [34-37], or on the incorporation of natural fibers with industrial 
+byproduct-based SCMs (such as fly ash and slag) [38-40]. While these efforts demonstrate the 
+potential of hybrid sustainable mixes, there remains a noticeable gap in research that 
+simultaneously evaluates the combined effect of bio-based SCMs and natural plant fibers on 
+concrete performance. In particular, studies that integrate materials such as RHA with underutilized 
+natural fibers like oil palm broom fiber (OPBF) are rare. Furthermore, many investigations have 
+assessed these materials in isolation, examining either SCMs or fibers alone, rather than exploring 
+their combined behavior [41-43]. 
+Several previous studies have also investigated RHA with plant-based fibers, but their scopes 
+differ significantly. Raheem et al. (2021) examined thermal insulation properties of concrete made 
+with palm kernel shell and RHA [44], while Aminu and Sharma (2022) studied mechanical properties 
+of recycled aggregate concrete using hybrid steel–glass fibers with RHA [45]. Wahyuni et al. (2014) 
+investigated bamboo fiber-reinforced concrete incorporating RHA and seashell ash but did not 
+isolate the effects of fiber dosage in an RHA-based binder [46]. In contrast, this study addresses the 
+underexplored role of fiber content in concrete with a fixed RHA replacement level, specifically 
+using OPBF. While RHA and plant-based fibers have been studied, no study, to the best of our 
+knowledge, has examined how varying OPBF content influences both fresh and hardened properties 
+when RHA is held constant. Addressing this gap is essential for advancing the development of 
+performance-optimized concrete using agricultural residues. 
+To inform this investigation, a focused literature review on RHA-based and fiber reinforced 
+concrete was conducted. For instance, Tariq et al. reported that concrete mixes with up to 18% RHA 
+replacement exhibited minimal reductions in compressive, splitting, and flexural strength compared 
+to control specimens. Moreover, the incorporation of RHA was shown to enhance the cost-
+efficiency and eco-friendliness of the concrete mix, reinforcing its potential as a viable bio-based 
+SCM [41]. Additionally, incorporating RHA as a SCM made the mix more cost-effective and 
+environmentally friendly Similarly, Muleya et al. found that partially replacing cement with up to 
+30% RHA provided economic benefits while producing high-quality, practical concrete. Their study 
+highlighted the potential of RHA in improving the standard of living for rural communities in rice-
+growing regions [42]. Zaid et al. observed that a 10% replacement of cement with RHA had no 
+significant impact on concrete performance. They further noted that adding steel fibers and 
+admixtures, such as superplasticizers, could enhance the economic viability of concrete for the 
+construction industry [47]. Jhatial et al. investigated the effects of steel fibers on the mechanical 
+properties of concrete and found that their inclusion improved compressive and flexural strength 
+while enhancing ductility and crack resistance. However, increasing the steel fiber content led to a 
+reduction in workability [48]. Yaswanth and Premkumar examined the behavior of concrete 
+reinforced with bristle coir fibers and reported that their inclusion enhanced compressive, split 
+tensile, and flexural strength. The maximum strength was achieved at 1.5% fiber content by total 
+volume of concrete [49]. Similarly, Sohu et al. found that while adding plastic fibers reduced 
+
+
+===== PAGE 4 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 4/23 
+concrete workability, it increased flexural strength by up to 16.5% compared to the control sample 
+[50]. 
+The studies discussed above highlight the importance of optimizing SCM and fiber content in 
+concrete to achieve desired structural outcomes. In this context, North America has an abundant 
+supply of RHA, which presents a promising opportunity for sustainable concrete production. As of 
+2023, America's annual rice output had reached over 9.9 million metric tonnes [51]. In addition to 
+this, there is an abundance of natural fibers originating from various trees, among which OPBF has 
+recently gained attention as a potential reinforcing fiber for concrete. Because of their remarkable 
+mechanical qualities, the ribs of the oil palm tree's leaflets (also referred to as OPBF) have recently 
+drawn the attention of researchers [52-54] and have used it as reinforcing fibers in plain cement 
+concrete. Unlike other vegetable fibers, OPBF has a low affinity for water, does not decay readily, 
+and has a tensile strength-to-weight ratio that is around five times that of steel [54]. 
+Given the availability of these agricultural by-products and the need for resource-efficient 
+construction materials, this study investigates the effect of OPBF content on the mechanical 
+performance of concrete incorporating 10% RHA as a partial cement replacement. Concrete mixes 
+were prepared with OPBF contents ranging from 0% to 5%, and evaluated for workability, 
+compressive strength, and flexural strength. Additionally, the physical and mechanical properties of 
+OPBF were characterized, and statistical analysis was performed using one-way ANOVA and Tukey’s 
+Honest Significant Difference (HSD) test to identify significant performance differences. 
+2. Materials and Methods 
+2.1 Materials 
+Oil Palm Broom Fiber (OPBF), Rice husk ash (RHA), cement, sharp sand, granite, water and 
+superplasticizer were used for concrete production. 
+The OPBF was sourced from Ipata Market in Ilorin, Nigeria. The diameter of the OPBF, measured 
+using a digital Vernier caliper, ranged from 1.8 mm to 2.0 mm. The fiber length for this research was 
+set at 45 mm as shown in Figure 1(a), maintaining an average aspect ratio of 22.5. Physical and 
+mechanical properties, including moisture content, water absorption, and tensile strength of the 
+OPBF, were evaluated. The findings from these tests are thoroughly discussed in the results and 
+discussion section of this article. 
+ 
+Figure 1 Appearance of (a) OPBF, (b) RHA. 
+
+
+===== PAGE 5 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 5/23 
+The rice husk was collected from a rice milling company located in the Ojagboro area of Ilorin, 
+Nigeria. A controlled incineration chamber at a Fabrication Workshop in Ilorin, Nigeria, was used to 
+calcine the rice husk. RHA was obtained by subjecting the rice husk to controlled combustion at 
+700°C for four hours. After combustion, the grey-colored RHA was produced, ground for a few 
+minutes, and passed through a 0.6 mm sieve. The appearance of RHA was shown in Figure 1(b), and 
+its chemical composition was determined using X-ray fluorescence (XRF) with a measurement 
+uncertainty of ±0.5 wt% (weight percent) for major oxides, ±0.1–0.3 wt% for minor oxides, and ±0.2 
+wt% for loss on ignition (LOI), as confirmed by triplicate measurements. The results of the chemical 
+analysis of RHA are summarized in Table 1. The combined percentage of Silicon Oxide, Iron Oxide, 
+and Aluminum Oxide was found to be 80.86%, exceeding the 70% threshold. According to BS EN 
+450-1 [55], this confirms that RHA is a good pozzolanic material. However, it is important to note 
+that while XRF identifies elemental composition, it does not determine the mineralogical phase of 
+silica such as cristobalite, to confirm the amorphous nature of the silica and validate pozzolanic 
+reactivity more conclusively. 
+Table 1 Chemical Compositions of RHA. 
+Chemicals 
+SiO2 
+Fe2O3 Al2O3 
+Na2O 
+CaO 
+MgO K2O 
+SO3 
+LOI 
+RHA (%) 
+63.80 6.32 
+10.74 
+1.62 
+9.78 
+3.81 
+3.26 
+0.06 
+5.48 
+An Ordinary Portland Cement (OPC) of grade 42.5R, manufactured by Dangote Cement Company, 
+was sourced from a local cement distribution store in Nigeria. The fine and coarse aggregate (FA 
+and CA) used for this experiment were procured from BUA construction site at the University of 
+Ilorin, Nigeria. The FA is from sharp sand, while the CA is from granite, with sizes ranging between 
+5 mm and 20 mm. The physical properties of FA and CA are summarized in Table 2. 
+Table 2 Physical properties of aggregates. 
+Property 
+Fine aggregate 
+Coarse aggregate 
+Standard followed 
+Specific gravity 
+2.66 
+2.77 
+BS EN 12620 [56] 
+Water absorption capacity, % 1.21 
+0.91 
+Moisture content, % 
+1.63 
+4 
+coefficient of uniformity (Cu) 
+3 
+2.43 
+coefficient of curvature (Cc) 
+1.33 
+1.42 
+The particle size distribution of the aggregates was first determined in accordance to BS EN 933 
+[57]. The sand is classified as poorly graded with a coefficient of uniformity (Cu) of 3.0, a coefficient 
+of curvature (Cc) of 1.33, and an average specific gravity of 2.66. Similarly, the granite exhibits a 
+coefficient of uniformity (Cu) of 2.43 and a coefficient of curvature (Cc) of 1.42, indicating that the 
+granite is also poorly graded. Water absorption of OPBF was assessed by soaking pre-weighed fibers 
+in water at room temperature for 24 hours, followed by blotting and re-weighing to determine 
+absorbed moisture content. 
+Tap water which conforms to the requirements of the BS EN 1008 [58] was used. AXION 
+TUFFCRETE liquid polymer, in accordance with the manufacturer’s specifications, was used as a 
+superplasticizer to enhance the flow of the concrete mix when OPBF was added. 
+
+
+===== PAGE 6 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 6/23 
+2.2 Mixture Proportion and Making Cube and Prism Specimens 
+In this experimental program, a series of concrete mixtures were designed by varying the OPBF 
+percentages (0%, 0.5%, 1.0%, 1.5%, 2.0%, 2.5%, 3.0%, 3.5%, 4.0%, 4.5%, and 5.0%). The 0.5% 
+increment was chosen with the consideration that a wide range of variations might ensure a 
+measurable difference between the discrete mixes for a particular parameter, allowing for a 
+meaningful statistical analysis. The amount of cement replaced with RHA was kept constants for all 
+cases. In a previous study, Silva and Naveen examined the effect of RHA and coconut coir fiber on 
+the sustainability of mortar production and suggested that adding more than 15% RHA is not 
+desirable as it reduces the flexural strength [59]. The concrete mix design was carried out in 
+accordance with the Department of Environment (DOE) method, targeting a characteristic strength 
+of 25 MPa at 28 days. Table 3 summarizes the mixture proportion of concrete, and the experimental 
+workflow is shown in Figure 2. The water-to-binder (W/B) ratio was 0.5 for all mixtures, and the 
+superplasticizer was used at 1% by weight of the binder. The materials were batched by weight and 
+mixed thoroughly to achieve homogenous concrete paste and concrete cubes of 100 mm × 100 mm 
+× 100 mm sizes and concrete prism of 100 mm × 100 mm × 500 mm sizes were cast as samples for 
+each concrete mix as shown in Figure 3(a) and (b). The samples were cured inside water at room 
+temperature (23 ± 2°C) for 7, 14 and 28 days as per BS EN 12390 [60]. 
+Table 3 Concrete mixture proportions. 
+MIX 
+CEMENT 
+(Kg/m3) 
+RHA 
+(Kg/m3) 
+SAND 
+(Kg/m3) 
+GRANITE 
+(Kg/m3) 
+WATER 
+(Kg/m3) 
+SP 
+(Kg/m3) 
+OPBF 
+(Kg/m3) REMARKS 
+MIX 1 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+0.00 
+Control -  
+10% RHA + 0% OPBF 
+MIX 2 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+2.10 
+10% RHA + 0.5% OPBF 
+MIX 3 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+4.20 
+10% RHA + 1.0% OPBF 
+MIX 4 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+6.30 
+10% RHA + 1.5% OPBF 
+MIX 5 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+8.40 
+10% RHA + 2.0% OPBF 
+MIX 6 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+10.50 
+10% RHA + 2.5% OPBF 
+MIX 7 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+12.60 
+10% RHA + 3.0% OPBF 
+MIX 8 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+14.70 
+10% RHA + 3.5% OPBF 
+MIX 9 
+378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+16.80 
+10% RHA + 4.0% OPBF 
+MIX 10 378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+18.90 
+10% RHA + 4.5% OPBF 
+MIX 11 378.0 
+42.0 
+698.0 
+1162.0 
+210.0 
+4.20 
+21.00 
+10% RHA + 5.0% OPBF 
+
+
+===== PAGE 7 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 7/23 
+ 
+Figure 2 Experimental workflow of the study. 
+ 
+Figure 3 Casting of concrete (a) cubes (b) prisms. 
+ 
+ 
+
+
+===== PAGE 8 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 8/23 
+2.3 Test Procedure for Workability, Compressive Strength and Flexural Strength 
+The workability of the fresh concrete for each mix was determined in accordance with BS EN 
+12350-2 [61]. 
+At the ages of 7, 14, and 28 days, concrete cube specimens were tested for compressive strength 
+as per BS EN 12390-3 [62]. For a specific day, multiple concrete cubes (per case) were tested, and 
+the average value was considered the final result. Error bars, based on the standard deviation 
+calculated from the concrete cube data points, were used to show the spread of data around the 
+average and to visualize the variability among the test results. 
+At the ages of 7 and 28 days, flexural strength was determined using a three-point bending test 
+in accordance with BS EN 12390-5:2019 [63]. Prismatic concrete specimens with nominal 
+dimensions of 100 mm × 100 mm × 500 mm were tested using a universal testing machine. The 
+support span was set at 300 mm, and the load was applied at a constant rate of 100 N/s, which falls 
+within the acceptable range specified by the standard. For a specific day, multiple concrete prisms 
+(per case) were tested, and the average value was considered the final result. Error bars, based on 
+the standard deviation calculated from the concrete prism data points, were used to show the 
+spread of data around the average and to visualize the variability among the test results. 
+3. Results and Discussion 
+3.1 Physical and Mechanical Properties of OPBF 
+Table 4 summarizes the physical and mechanical properties test result conducted on OPBF. The 
+average fiber diameter was measured to be approximately 2.0 mm, with values ranging from 1.8 
+mm to 2.2 mm based on multiple measurements along the length of representative fibers. The 
+moisture content of OPBF used in this study was determined to be 12.44%, which is slightly higher 
+than the value (9.86%) found by Momoh et al. [52] for OPBF that was 365 days old. The slightly 
+higher moisture content can be attributed to the possibility that the OPBF used in this study was 
+harvested relatively recently, allowing less time for natural moisture evaporation before testing. 
+However, it is crucial to maintain the moisture content below 10% to prevent dynamic instability of 
+the fibers caused by moisture evaporation, ensuring that the fiber-matrix bond remains unaffected 
+[52]. 
+
+
+===== PAGE 9 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 9/23 
+Table 4 Physical and Mechanical properties of OPBF. 
+Parameters Moisture 
+Content (%) 
+Water 
+Absorption (%) 
+Mean Diameter, 
+D (mm) 
+Mean Length, 
+L (mm) 
+Aspect Ratio, 
+(L/D) 
+Youngs Modulus 
+(MPa) 
+Tensile Strength 
+(MPa) 
+Strain 
+@peak (%) 
+OPBF 
+12.44 
+29.54 
+2.0 
+45 
+22.5 
+15774.04 
+105.38 
+1.36 
+
+
+===== PAGE 10 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 10/23 
+The water absorption was found to be 29.54%, which is much lower than the value (44.7%) 
+reported by Momoh et al. [52]. Moreover, OPBF exhibits considerably lower water absorption than 
+several other natural fibers, including banana fiber, cork fiber, and eucalyptus fiber [64]. The 
+observed absorption capacity may relate to the fiber’s surface morphology and internal structure. 
+While previous studies have reported differing values [65], these variations could be due to 
+differences in fiber treatment, anatomical origin, or regional characteristics. 
+The tensile strength of OPBF was determined to be 105.38 MPa. Compared to previously 
+reported values of tensile strength (300 MPa – 900 MPa) [52], the OPBF used in this study exhibited 
+considerably lower tensile strength. The possible reason can be attributed to the high moisture 
+content of the OPBF used. It is likely that the cell walls of the fibers contained a high amount of 
+moisture, causing the cellulose microfibrils to be farther apart, and their alignment was not dense 
+enough to provide the required resistance to axial tensile stress. Alongside this, the average 
+diameter of the fiber was found to be 2.0 mm, and it is possible that due to the presence of cavities 
+[54], the effective area to resist axial tension was not adequate enough. As a result, the tensile 
+strength was recorded to be lower. 
+3.2 Workability of Fresh Concrete (Slump Test) 
+Figure 4 shows the slump value of concrete mixes investigated in this study. It can be observed 
+that with the increase in OPBF content, the workability of fresh concrete has been reduced. The 
+control case containing 0% OPBF showed the highest slump value (54.50 mm), and a reduction of 
+62.5% was observed for the mix containing the highest OPBF percentage (5%). In this study, the 
+reduction in slump could be attributed to water absorption (29.54%) of OPBF, despite been 
+considerably lower compared to 44.7% reported by Momoh et al. [52]. Similar reductions in 
+workability with the inclusion of natural fibers have been reported in prior studies [64, 66], often 
+attributed to the increased surface area and the disruptive effect of fibers on the cement matrix. 
+The observed decline in slump is likely influenced by both the increased surface area and the 
+mechanical obstruction caused by the fibers during flow, consistent with findings from other fiber-
+reinforced systems [67, 68]. A comparable trend was also reported by De Silva and Naveen (2024), 
+who observed reduced workability in mortar containing RHA and coconut coir [59]. 
+ 
+Figure 4 Slump of mixes containing varying amounts of OPBF (0%–5%). 
+
+
+===== PAGE 11 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 11/23 
+3.3 Compressive Strength of the Hardened Concrete Cubes 
+Figure 5 presents the compressive strength of the concrete mixes studied at 28 days of curing, 
+and the mean values with expanded uncertainty (U) at the 95% confidence level (k = 2) are also 
+presented in Table 5. It is observed that compressive strength increased with the increase in OPBF 
+content until it reached 2.5%, after which it decreased as the OPBF content increased further. This 
+trend is consistent with many natural fiber studies. For example, More and Subramanian (2022) 
+found that coir at 2% volume fraction improved compressive strength by about 15.9%, while steel, 
+jute, and sisal gave similar improvements at around 1.5% dosage, with strength decreasing at higher 
+levels due to poor fiber dispersion and void formation [69]. Varghese and Unnikrishnan (2023) 
+likewise reported that coconut fiber concretes showed strength gains up to an optimum dosage 
+before falling off, and Jin et al. (2023) observed a similar pattern in foamed concretes reinforced 
+with coir–basalt hybrids, where optimum strength occurred at 0.3% fiber content [70, 71]. However, 
+Momoh et al. observed a decreasing trend in compressive strength as the OPBF content increased 
+in plain cement concrete and explained that the low radial strength of OPBF fibers, dynamic 
+instability due to water absorption, and the alkaline degradation of fibers are among the 
+contributing factors in reducing compressive strength [52]. For the current study, RHA has been 
+incorporated as a SCM, and it might have positively impacted compressive strength up to a certain 
+level of OPBF incorporation (2.5%). This can be attributed to RHA refining the interfacial transition 
+zone (ITZ) around the fibers, making the fiber-matrix bond denser. However, when the OPBF 
+content exceeded the optimum level, the amount of RHA used was not sufficient to fill the micro 
+voids around the fibers. As a result, the fiber-matrix bond may have become concentrated in certain 
+areas of the matrix, leading to heterogeneity in strength, which created weak zones and ultimately 
+decreased overall cube strength. In addition, the reduced workability observed at higher fiber 
+contents may have limited proper compaction, contributing to incomplete densification and the 
+presence of internal voids, which further compromised strength. Although the ITZ was not directly 
+observed in this study, this interpretation is based on similar findings reported in the literature. 
+ 
+Figure 5 28-Days compressive strength of RHA concrete composed of different OPBF 
+ratios (0%–5%). 
+
+
+===== PAGE 12 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 12/23 
+Table 5 Compressive Strength of RHA Concrete with Varying OPBF Content (Mean ± U, 95% CL, k = 2). 
+OPBF volume (%) 
+0 
+0.5 
+1 
+1.5 
+2 
+2.5 
+3 
+3.5 
+4 
+4.5 
+5 
+28-days Compressive 
+strength (MPa) 
+25.67 ± 
+0.13 
+26.07 ± 
+0.07 
+26.43 ± 
+0.07 
+26.70 ± 
+0.12 
+27.17 ± 
+0.18 
+27.80 ± 
+0.12 
+27.33 ± 
+0.07 
+27.07 ± 
+0.07 
+26.60 ± 
+0.12 
+26.33 ± 
+0.07 
+25.97 ± 
+0.07 
+ 
+
+
+===== PAGE 13 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 13/23 
+To further verify the effect of OPBF incorporation on the compressive strength of concrete, a 
+statistical evaluation was conducted, where a single factor analysis of variance (ANOVA) and Tukey's 
+honest significant difference (HSD) analysis were performed using the 28-day compressive strength 
+results obtained from the three concrete cubes made for each mix studied. 
+The ANOVA yielded a highly significant F-statistic of 162.04, which exceeds the critical F-value 
+(2.297), with an extremely low p-value (3.236 × 10-18). Given that the p-value is well below the 
+significance threshold of 0.05, we conclude that there are statistically significant differences among 
+the average 28 days compressive strength of the mixes studied. These findings suggest that 
+incorporating OPBF had a strong influence on the compressive strength. As the ANOVA analysis 
+revealed a strong influence of OPBF incorporation on concrete compressive strength, a Tukey HSD 
+analysis was conducted to determine how significantly the mean 28-day compressive strength 
+differed between the mixes studied. The q-statistic in the Tukey HSD test is used to compare the 
+differences between group means while accounting for multiple comparisons. A higher q-statistic 
+indicates a larger difference between two groups, whereas a lower q-statistic suggests that the 
+groups are more similar. While ANOVA revealed statistically significant differences in compressive 
+strength between mixes, the statistical significance should be viewed as confirming trends rather 
+than indicating practical performance differences. 
+Figure 6(a) illustrates the pairwise comparisons of different OPBF levels with respect to 
+compressive strength. The green-colored comparisons suggest major performance differences, 
+whereas the red regions indicate little to no difference. This visualization aids in identifying the most 
+influential OPBF levels in the study. For example, when comparing the influence of incorporating 
+2.5% OPBF with the control case, the q-statistic value reached the highest value of 41.8, and the cell 
+color was deep green, whereas comparing it to 5% inclusion resulted in the lowest value of 5.3, 
+turning the cell color deep red. Moreover, for most of the comparison pairs involving 2.5% OPBF, 
+the q-statistic was the highest, and the cell colors were green. As a result, it is viable to conclude 
+that 2.5% OPBF is the most positively influential OPBF amount. From Figure 6(b), it can be 
+understood that the differences found in the previously mentioned cases were significant, as the p-
+values were well below 0.05. 
+ 
+Figure 6 Tukey HSD analysis for compressive strength (a) q-statistic heatmap; (b) p-value 
+heatmap. 
+
+
+===== PAGE 14 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 14/23 
+To understand the effect of incorporating OPBF on the temporal development of compressive 
+strength, a strength-normalized diagram was drawn (Figure 7). It is evident from the figure that 
+incorporating different amounts of OPBF does not affect the compressive strength gain of RHA 
+concrete over time. It can be observed from the figure that incorporating higher or lower OPBF 
+amounts neither delays nor accelerates the hydration process. 
+ 
+Figure 7 Compressive strength development of concrete incorporating different 
+amounts of OPBF (0%–5%). 
+3.4 Flexural Strength of the Hardened Concrete Prisms 
+The summary of the average flexural strength of the concretes after two curing ages is shown in 
+Figure 8, and the mean values with expanded uncertainty (U) at the 95% confidence level (k = 2) are 
+also shown in Table 6. It can be observed that the flexural strength of RHA-blended concrete 
+increased as the curing age increased. Similar to compressive strength, flexural strength also 
+increased with the increase in OPBF content until it reached a certain level, which was 3%. The 
+maximum flexural strength (5.8 MPa) was observed for the mixture containing 3.0% OPBF. A 
+comparable study on RHA concrete with coconut coir fiber reported a lower optimum content of 
+0.5%, with the improvement attributed to the tensile properties of the fibers and the refinement of 
+the fiber–matrix interfacial transition zone facilitated by RHA [59]. Beyond the optimum level, 
+however, both the present study and previous work noted that increasing fiber content results in 
+fiber agglomeration and weak bonding with the matrix, thereby reducing flexural strength. More 
+and Subramanian (2022) found that steel, carbon, glass, coir, jute, and sisal fibers all provided 
+flexural strength gains in the range of 12–16% at optimum dosages, emphasizing the crack-bridging 
+effect of fibers [69]. Varghese and Unnikrishnan (2023) reported smaller improvements in coconut 
+fiber concretes (about 2% increase at 0.5% dosage with longer fibers), highlighting the sensitivity of 
+flexural performance to fiber type, size, and dosage [70]. Similarly, Jin et al. (2023) showed that 
+hybrid natural fibers (coir–basalt) in foamed concretes achieved larger flexural strength increases 
+(10–55% at 28 days), again underscoring the importance of fiber bridging in enhancing ductility [71]. 
+Taken together, these comparisons confirm that the flexural strength behavior observed for OPBF 
+
+
+===== PAGE 15 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 15/23 
+in RHA-blended concrete is consistent with the general trends reported for other natural fiber–
+reinforced concretes, while also identifying OPBF’s optimum dosage at a higher level (3%). 
+ 
+Figure 8 Flexural strength of RHA concrete composed of different OPBF ratios (0%–5%).
+
+
+===== PAGE 16 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 16/23 
+Table 6 Flexural Strength of RHA Concrete with Varying OPBF Content (Mean ± U, 95% CL, k = 2). 
+OPBF volume (%) 
+0 
+0.5 
+1 
+1.5 
+2 
+2.5 
+3 
+3.5 
+4 
+4.5 
+5 
+7-Days Flexural 
+strength 
+3.24 ± 
+0.12 
+3.69 ± 
+0.18 
+3.77 ± 
+0.03 
+4.14 ± 
+0.12 
+4.23 ± 
+0.18 
+4.47 ± 
+0.18 
+4.68 ± 
+0.24 
+4.38 ± 
+0.12 
+4.17 ± 
+0.18 
+4.04 ± 
+0.03 
+3.90 ± 
+0.12 
+28-Days Flexural 
+strength 
+4.05 ± 
+0.06 
+4.29 ± 
+0.18 
+4.74 ± 
+0.12 
+5.04 ± 
+0.12 
+5.28 ± 
+0.24 
+5.44 ± 
+0.04 
+5.76 ± 
+0.12 
+5.43 ± 
+0.06 
+5.10 ± 
+0.24 
+4.83 ± 
+0.18 
+4.53 ± 
+0.06 
+ 
+
+
+===== PAGE 17 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 17/23 
+A statistical analysis, similar to the one conducted for compressive strength, was performed to 
+verify the effect of OPBF on flexural strength. The ANOVA yielded a highly significant F-statistic of 
+52.08, which exceeds the critical F-value (2.85), with an extremely low p-value (8.37 × 10-8). Given 
+that the p-value is well below the significance threshold of 0.05, we conclude that there are 
+statistically significant differences among the average 28 days flexural strength of the mixes studied. 
+Figure 9 illustrates the pairwise comparisons and the statistical significance of different OPBF levels 
+concerning flexural strength. The results indicate that incorporating 2.5%–3% OPBF significantly 
+enhances flexural strength. 
+ 
+Figure 9 Tukey HSD analysis for flexural strength (a) q-statistic heatmap; (b) p-value 
+heatmap. 
+4. Conclusion 
+This study investigated the effect of OPBF at varying dosages on the fresh and mechanical 
+properties of RHA-blended concrete. The experimental program was conducted at the laboratory 
+scale, with slump, compressive strength, and flexural strength evaluated at 7, 14, and 28 days. The 
+scope of the work was limited to short-term mechanical performance and statistical analysis of 
+results. Within the limits of this experimental program, the following conclusions can be drawn: 
+1. The OPBF used in this study had a moisture content of 12.44% and a water absorption capacity 
+of 29.54%. This moderate absorption reflects limited pore availability for additional water 
+uptake, which in turn influenced the workability of fresh concrete. 
+2. The measured tensile strength of OPBF (105.38 MPa) suggests that the fiber has sufficient 
+mechanical capacity to contribute to stress redistribution and crack-bridging within the 
+concrete matrix. 
+3. Compressive strength improved with OPBF addition up to 2.5%, beyond which strength 
+declined. Statistical analysis (ANOVA and Tukey’s HSD) identified 2.5% as the optimal OPBF 
+dosage. Aligning with previous work, microstructural improvements such as ITZ densification 
+are hypothesized to contribute to the strength gain. Of note, further research focusing on 
+imaging and interface analysis will be analyzed to validate this mechanism. 
+4. Flexural strength increased with OPBF content, reaching a peak of 5.8 MPa at 3.0% fiber 
+dosage and the observed reduction in flexural strength at higher fiber dosages may be 
+
+
+===== PAGE 18 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 18/23 
+attributed to fiber agglomeration and reduced bonding efficiency. Future work will 
+incorporate interface imaging and mechanical characterization to confirm this mechanism. 
+5. With compressive strength values reaching 27.8 MPa and flexural strength peaking at 5.8 MPa, 
+the RHA – OPBF concrete developed in this study exceeds the minimum requirements of 
+ASTM C90 (13.8 MPa) for load-bearing concrete masonry units and ASTM C129 (3.5 MPa) for 
+non-loadbearing units, confirming its suitability for partition walls, precast panels, and other 
+low-load-bearing elements in low-rise construction. However, the strength remains below the 
+≥30 – 40 MPa thresholds of ACI 318 for structural members, positioning this material as a 
+sustainable alternative for non-structural and low-load applications where enhanced crack 
+resistance and eco-efficiency are desired. 
+Abbreviations 
+OPBF 
+Oil Palm Broom Fiber 
+RHA 
+Rice husk ash 
+OPC 
+Ordinary Portland Cement 
+SCM 
+Supplementary cementitious materials 
+ANOVA 
+Analysis of variance 
+Tukey’s HSD 
+Tukey’s Honest Significant Difference 
+POFA 
+Palm oil fuel ash 
+LOI 
+loss on ignition 
+XRF 
+X-ray fluorescence 
+FA 
+Fine aggregate 
+CA 
+Coarse aggregate 
+Cu 
+Coefficient of uniformity 
+Cc 
+Coefficient of curvature 
+DOE 
+Department of Environment 
+W/B 
+water-to-binder 
+ITZ 
+Interfacial transition zone 
+CO2 
+Carbon dioxide 
+wt% 
+Weight percent 
+U 
+Expanded uncertainty 
+CL 
+Confidence level 
+k 
+Coverage factor 
+Author Contributions 
+Taofiq O. Mohammed: Conceptualization, methodology, investigation, data curation, writing—
+original draft preparation. Ebenezer O. Fanijo: Methodology, writing—review and editing, 
+visualization, supervision. Mohammad Zunaied Bin Harun: Software, validation. Jian Liu: Software, 
+validation. All authors have read and agreed to the published version of the manuscript. 
+Funding 
+This research received no external funding. 
+
+
+===== PAGE 19 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 19/23 
+Competing Interests 
+On behalf of all authors, the corresponding author states that there is no conflict of interest. 
+Data Availability Statement 
+Data will be made available upon request. 
+References 
+1. Zahid CZ, Rezwan MM, Mohammed TU. Service life optimization and life cycle assessment of 
+concrete using SCMs as partial replacement of cement. J Phys Conf Ser. 2023; 2521: 012008. 
+2. Blackshaw GA, Forsdyke JC, Lees JM. Effects of exposure sequence and GGBS cement 
+replacement on performance of concrete subjected to carbonation and chloride ingress. Mater 
+Struct. 2024; 57: 178. 
+3. Hansson CM. Concrete: The advanced industrial material of the 21st century. Metall Mater 
+Trans A. 1995; 26: 1321-1341. 
+4. Allen E, Iano J. Fundamentals of building construction: Materials and methods. John Wiley & 
+Sons; 2019. 
+5. Al-Mansour A, Chow CL, Feo L, Penna R, Lau D. Green concrete: By-products utilization and 
+advanced approaches. Sustainability. 2019; 11: 5145. 
+6. Sabbrojjaman M, Liu Y, Tafsirojjaman T. A comparative review on the utilisation of recycled 
+waste glass, ceramic and rubber as fine aggregate on high performance concrete: Mechanical 
+and durability properties. Dev Built Environ. 2024; 17: 100371. 
+7. Fang M, Chen Y, Deng Y, Wang Z, Zhu M. Toughness improvement mechanism and evaluation 
+of cement concrete for road pavement: A review. J Road Eng. 2023; 3: 125-140. 
+8. Ou YC, Joju J, Hsu WC. Cyclic behavior of shear-critical concrete columns with unstressed steel 
+strands as longitudinal reinforcement. Eng Struct. 2022; 264: 114465. 
+9. Ou YC, Joju J, Hsieh MY. Seismic behavior of reinforced concrete beam-column joints with 
+unstressed steel strands fully or partially used for beam longitudinal reinforcement. J Build Eng. 
+2023; 67: 105932. 
+10. Ou YC, Joju J, Liu YC. Cyclic behavior of reinforced concrete columns with unstressed steel 
+strands as longitudinal reinforcement. J Struct Eng. 2022; 148: 04022125. 
+11. Rana A. Some studies on steel fiber reinforced concrete. Int J Emerg Technol Adv Eng. 2013; 3: 
+120-127. 
+12. Kim K, Jeon Y, Park YJ, Park S. Sustainable anti-tank obstacle system applying civil–military 
+cooperation in highly urbanized areas. Sustainability. 2022; 14: 12715. 
+13. Nigussie T, Chandrasekar MK. Influence of rebar practice in the total cost of building 
+construction projects: The case of Hawassa City, Ethiopia. Int J Eng Sci Technol. 2020; 12: 54-65. 
+14. Flower DJ, Sanjayan JG. Green house gas emissions due to concrete manufacture. Int J Life Cycle 
+Assess. 2007; 12: 282-288. 
+15. Miller SA, Horvath A, Monteiro PJ. Readily implementable techniques can cut annual CO2 
+emissions from the production of concrete by over 20%. Environ Res Lett. 2016; 11: 074029. 
+16. Saha AK. Effect of class F fly ash on the durability properties of concrete. Sustain Environ Res. 
+2018; 28: 25-31. 
+
+
+===== PAGE 20 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 20/23 
+17. Tošić N, Marinković S, Stojanović A. Sustainability of the concrete industry: Current trends and 
+future outlook. Tehnika. 2017; 72: 38-44. 
+18. Waldmann D, Thapa VB. A short review on alkali-activated binders and geopolymer binders. In: 
+Vielfalt im Massivbau - Festschrift zum 65. Geburtstag von Prof. Dr. Ing. Jürgen Schnell. Berlin, 
+Germany: Ernst & Sohn; 2018. pp. 576-591. 
+19. Gillani SS, Khitab A, Ahmad S, Khushnood RA, Ferro GA, Kazmi SM, et al. Improving the 
+mechanical performance of cement composites by carbon nanotubes addition. Procedia Struct 
+Integr. 2017; 3: 11-17. 
+20. McLellan BC, Williams RP, Lay J, Van Riessen A, Corder GD. Costs and carbon emissions for 
+geopolymer pastes in comparison to ordinary Portland cement. J Clean Prod. 2011; 19: 1080-
+1090. 
+21. Jacoby M. Shrinking concrete’s giant carbon footprint. Chem Eng News. 2020; 98: 26-30. 
+22. Salas DA, Ramirez AD, Rodríguez CR, Petroche DM, Boero AJ, Duque-Rivera J. Environmental 
+impacts, life cycle assessment and potential improvement measures for cement production: A 
+literature review. J Clean Prod. 2016; 113: 114-122. 
+23. International Energy Agency (IEA). Iron and steel technology roadmap: Towards more 
+sustainable steelmaking [Internet]. Paris: IEA; 2020. Available from:  
+https://www.iea.org/reports/iron-and-steel-technology-roadmap. 
+24. Oladele IO, Omotoyinbo JA, Adewara JO. Investigating the effect of chemical treatment on the 
+constituents and tensile properties of sisal fibre. J Miner Mater Charact Eng. 2010; 9: 569-582. 
+25. Lertwattanaruk P, Suntijitto A. Properties of natural fiber cement materials containing coconut 
+coir and oil palm fibers for residential building applications. Constr Build Mater. 2015; 94: 664-
+669. 
+26. Kaliwon J, Ahmad SS, Aziz AA. Performance of oil palm EFB fibre reinforced concrete roof slates. 
+Proceedings of the 2010 International Conference on Science and Social Research (CSSR 2010); 
+2010 December 5-7; Kuala Lumpur, Malaysia. Piscataway, NJ: IEEE. 
+27. Danso H. Properties of coconut, oil palm and bagasse fibres: As potential building materials. 
+Procedia Eng. 2017; 200: 1-9. 
+28. Hamada HM, Thomas BS, Yahaya FM, Muthusamy K, Yang J, Abdalla JA, et al. Sustainable use 
+of palm oil fuel ash as a supplementary cementitious material: A comprehensive review. J Build 
+Eng. 2021; 40: 102286. 
+29. Hamada HM, Jokhio GA, Yahaya FM, Humada AM, Gul Y. The present state of the use of palm 
+oil fuel ash (POFA) in concrete. Constr Build Mater. 2018; 175: 26-40. 
+30. Hamada HM, Yahaya FM, Muthusamy K, Jokhio GA, Humada AM. Fresh and hardened 
+properties of palm oil clinker lightweight aggregate concrete incorporating Nano-palm oil fuel 
+ash. Constr Build Mater. 2019; 214: 344-354. 
+31. Hamada HM, Alya’a A, Yahaya FM, Muthusamy K, Tayeh BA, Humada AM. Effect of high-volume 
+ultrafine palm oil fuel ash on the engineering and transport properties of concrete. Case Stud 
+Constr Mater. 2020; 12: e00318. 
+32. Akhter MA, Mondal D, Debnath AK, Islam MA, Rabbi MS. Evaluation of mechanical and thermal 
+performance of jute and coconut fiber-reinforced epoxy composites with rice husk ash for wall 
+insulation applications. Heliyon. 2025; 11: e42211. 
+
+
+===== PAGE 21 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 21/23 
+33. Chen L, Chen Z, Xie Z, Wei L, Hua J, Huang L, et al. Recent developments on natural fiber 
+concrete: A review of properties, sustainability, applications, barriers, and opportunities. Dev 
+Built Environ. 2023; 16: 100255. 
+34. Raza SS, Ali B, Noman M, Fahad M, Elhadi KM. Mechanical properties, flexural behavior, and 
+chloride permeability of high-performance steel fiber-reinforced concrete (SFRC) modified with 
+rice husk ash and micro-silica. Constr Build Mater. 2022; 359: 129520. 
+35. Kumar P, Gogineni A, Upadhyay R. Mechanical performance of fiber-reinforced concrete 
+incorporating rice husk ash and recycled aggregates. J Build Pathol Rehabil. 2024; 9: 144. 
+36. Zabihi SM, Tavakoli H, Mohseni E. Engineering and microstructural properties of fiber-
+reinforced rice husk–ash based geopolymer concrete. J Mater Civil Eng. 2018; 30: 04018183. 
+37. Althoey F, Zaid O, de-Prado-Gil J, Palencia C, Ali E, Hakeem I, et al. Impact of sulfate activation 
+of rice husk ash on the performance of high strength steel fiber reinforced recycled aggregate 
+concrete. J Build Eng. 2022; 54: 104610. 
+38. Patil S, Bhaskar R, Xavier JR, Raja R. Experimental evaluation and statistical modeling of 
+sustainable sisal fiber-reinforced fly ash-based lateritic concrete using response surface 
+methodology. J Build Eng. 2024; 84: 108498. 
+39. Kudva L, Nayak G, Shetty KK, HK S. Assessment of flexural response of RC beams and 
+unrestrained shrinkage of fiber-reinforced high-volume fly ash-based no-aggregate concrete 
+and self-compacting concrete. Constr Build Mater. 2024; 431: 136527. 
+40. Padavala SS, Dey S, Veerendra GT, Manoj AV. Experimental study on concrete by partial 
+replacement of cement with fly ash and coarse aggregates with palm kernel shells (Pks) and 
+with addition of hybrid fibers. Chem Inorg Mater. 2024; 2: 100033. 
+41. Tariq KA, Sohaib M, Baig MA. Effect of partial replacement of cement with rice husk ash on 
+concrete properties. Pollack Period. 2021; 16: 83-87. 
+42. Muleya F, Muwila N, Tembo CK, Lungu A. Partial replacement of cement with rice husk ash in 
+concrete production: An exploratory cost-benefit analysis for low-income communities. Eng 
+Manag Prod Serv. 2021; 13: 127-141. 
+43. Rajkohila A, Chandar SP. Assessing the effect of natural fiber on mechanical properties and 
+microstructural characteristics of high strength concrete. Ain Shams Eng J. 2024; 15: 102666. 
+44. Raheem AA, Oriola KO, Kareem MA, Abdulwahab R. Investigation on thermal properties of rice 
+husk ash-blended palm kernel shell concrete. Environ Chall. 2021; 5: 100284. 
+45. Alhaji MA, Sharma PK. Combined effects of rice husk ash and hybrid fibres on the fresh and 
+mechanical properties of recycled aggregate concrete. Mater Today Proc. 2022; 62: 6695-6700. 
+46. Wahyuni AS, Supriani F, Gunawan A. The performance of concrete with rice husk ash, sea shell 
+ash and bamboo fibre addition. Procedia Eng. 2014; 95: 473-478. 
+47. Zaid O, Ahmad J, Siddique MS, Aslam F. Effect of incorporation of rice husk ash instead of 
+cement on the performance of steel fibers reinforced concrete. Front Mater. 2021; 8: 665625. 
+48. Jhatial AA, Sohu S, Bhatti NU, Lakhiar MT, Oad R. Effect of steel fibres on the compressive and 
+flexural strength of concrete. Int J Adv Appl Sci. 2018; 5: 16-21. 
+49. Yaswanth KK, Premkumar G. An experimental study on behaviour of concrete reinforced with 
+bristle coir fibers. Int J Civil Eng Technol. 2017; 8: 982-990. 
+50. Lakhiar MT, Sohu S, Bhatti IA, Bhatti N, Abbasi SA, Tarique M. Flexural performance of concrete 
+reinforced by plastic fibers. Eng Technol Appl Sci Res. 2018; 8: 3041-3043. 
+
+
+===== PAGE 22 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 22/23 
+51. USA Rice Federation. U.S. Rice Facts [Internet]. Arlington, VA: USA Rice; 2025. Available from: 
+https://www.usarice.com/thinkrice/discover-us-rice/us-rice-facts. 
+52. Momoh EO, Osofero AI. Behaviour of oil palm broom fibres (OPBF) reinforced concrete. Constr 
+Build Mater. 2019; 221: 745-761. 
+53. Momoh EO, Dahunsi BI. Suitability of oil-palm-broom-fibres as reinforcement for laterite-based 
+roof tiles. Int J Softw Hardware Res Eng. 2017; 5: 27-35. 
+54. Momoh EO, Osofero AI. Recent developments in the application of oil palm fibers in cement 
+composites. Front Struct Civil Eng. 2020; 14: 94-108. 
+55. European Committee for Standardization. Fly Ash for Concrete–Part 1: Definition, Specifications 
+and Conformity Criteria. Brussels, Belgium: European Committee for Standardization; 2012; EN 
+450-1:2012. 
+56. European Committee for Standardization. Aggregates for Concrete. Brussels, Belgium: 
+European Committee for Standardization; 2013; EN 12620:2013. 
+57. European Committee for Standardization. Tests for geometrical properties of aggregates – Part 
+1: Determination of particle size distribution – Sieving method. Brussels, Belgium: European 
+Committee for Standardization; 2012; EN 933-1:2012. 
+58. European Committee for Standardization. Mixing water for concrete - Specification for sampling, 
+testing and assessing the suitability of water, including water recovered from processes in the 
+concrete industry, as mixing water for concrete. Brussels, Belgium: European Committee for 
+Standardization; 2002; EN 1008:2002. 
+59. De Silva GS, Naveen P. Effect of rice husk ash and coconut coir fiber on cement mortar: 
+Enhancing sustainability and efficiency in buildings. Constr Build Mater. 2024; 440: 137326. 
+60. European Committee for Standardization. Testing hardened concrete - Part 2: Making and 
+curing specimens for strength tests. Brussels, Belgium: European Committee for 
+Standardization; 2019; EN 12390-2:2019. 
+61. European Committee for Standardization. Testing Fresh Concrete – Part 2: Slump Test. Brussels, 
+Belgium: European Committee for Standardization; 2019; EN 12350-2:2019. 
+62. European Committee for Standardization. Testing hardened concrete - Part 3: Compressive 
+strength of test specimens. Brussels, Belgium: European Committee for Standardization; 2019; 
+EN 12390-3:2019. 
+63. European Committee for Standardization. Testing Hardened Concrete – Part 5: Flexural 
+Strength of Test Specimens. Brussels, Belgium: European Committee for Standardization; 2019; 
+EN 12390-5:2019. 
+64. Benmansour N, Agoudjil B, Gherabli A, Kareche A, Boudenne A. Thermal and mechanical 
+performance of natural mortar reinforced with date palm fibers for use as insulating materials 
+in building. Energy Build. 2014; 81: 98-104. 
+65. Momoh EO, Osofero AI, Menshykov O. Physicomechanical properties of treated oil palm-broom 
+fibers for cementitious composites. J Mater Civil Eng. 2020; 32: 04020300. 
+66. Olaoye RA, Oluremi JR, Ajamu SO. The use of fibre waste as complement in concrete for a 
+sustainable environment. Innov Syst Des Eng. 2013; 4: 91-97. 
+67. Mazlan D, Awal AA. Properties of cement based composites containing oil palm stem as fiber 
+reinforcement. Malays J Civil Eng. 2018; 24: 107-117. 
+68. Musa AG, Rajoria N, Mohammed AG. Effect of palm oil fiber on laterized concrete. Int J Eng 
+Technol Manag Appl Sci. 2017; 5: 686-695. 
+
+
+===== PAGE 23 =====
+
+Recent Progress in Materials 2025; 7(3), doi:10.21926/rpm.2503013 
+ 
+Page 23/23 
+69. More FM, Subramanian SS. Impact of fibres on the mechanical and durable behaviour of fibre-
+reinforced concrete. Buildings. 2022; 12: 1436. 
+70. Varghese A, Unnikrishnan S. Mechanical strength of coconut fiber reinforced concrete. Mater 
+Today Proc. 2023. doi: 10.1016/j.matpr.2023.05.637. 
+71. Jin Y, Wang X, Huang W, Li X, Ma Q. Mechanical and durability properties of hybrid natural fibre 
+reinforced roadbed foamed concrete. Constr Build Mater. 2023; 409: 134008. 

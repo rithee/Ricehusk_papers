@@ -1,0 +1,606 @@
+
+===== PAGE 1 =====
+
+ 
+ 
+ 
+Investigating the Effect of Olive Husk Ash on the Properties of Asphalt Concrete Mixture 
+ 
+ 
+Arabi N.S. Al Qadi1, Taisir S. Khedaywi2, Madhar A. Haddad3*, Owies A. Al-Rababa'ah2 
+ 
+ 
+1 College of Engineering, Ajloun National University, P. O. Box 43, Ajloun 26810, Jordan  
+2 Department of Civil Engineering, Jordan University of Science and Technology, P. O. Box 3030, Irbid 22110, Jordan  
+3 Department of Architectural Engineering, United Arab Emirates University, P. O. Box 15551, Al Ain, UAE  
+ 
+Corresponding Author Email: madhar@uaeu.ac.ae 
+ 
+https://doi.org/10.18280/acsm.450102 
+ 
+ 
+ABSTRACT 
+ 
+ 
+ 
+Received: 23 January 2021 
+Accepted: 10 February 2021 
+ 
+Technology in transportation used available resources to make it safe, fast, suitable, easy, 
+economic, and environmental to transport people and goods. Olive Husk became an 
+environmental problem as waste materials especially in the Middle East where huge 
+quantities are found. The objective of this research is to investigate the effect of addition 
+of Olive Husk Ash (OHA) on the properties of asphalt concrete mixtures. Marshall Test 
+was used to perform the asphalt concrete mixture by the addition of OHA to the binder 
+of asphalt; different percentages of OHA (0, 5, 10, 15, and 20%) by volume were added 
+to the binder. Five percent of asphalt cements (5, 5.5, 6, 6.5 and 7%) by weight and 
+limestone aggregate were used for preparing asphalt mixture specimens to find the 
+optimum content of asphalt that could be used in the binder. Tests on flow, stability, air 
+void percentage and void in mineral aggregate, retained stability, stiffness, and retained 
+stiffness were made. The principle results on OHA as filler in Asphalt binder improves 
+the Marshall Stability, and void in mineral aggregate and decrease in flow, retained 
+stability, stiffness, and retained stiffness with a 10%-15% of olive husk ash replacement 
+of asphalt binder. The contribution that OHA could be used as a pavement construction 
+material in field. 
+ 
+Keywords: 
+olive husk ash, asphalt concrete, Marshall test, 
+stability, flow, Retained stability 
+ 
+ 
+ 
+1. INTRODUCTION 
+ 
+The application of scientific principles and technology in 
+transportation planning, design, operation and management of 
+its facilities can produce a safe, fast, suitable, easy, economical 
+and environmentally sociably acceptable method to transport 
+people and goods.  
+Al-Omari et al. [1] studied the Waste Vegetable Oil (WVO) 
+as an additive to the asphalt cement, to be used in flexible 
+pavements construction. Addition of 1%, 2%, 4%, 6%, and 8% 
+of waste vegetable oil by volume of the asphalt binder were 
+used. It was found that selecting the appropriate amount of 
+waste vegetable oil will modify most of the tested properties. 
+It was concluded that using the suitable amount of waste 
+vegetable oil as cement improve is feasible, and can be 
+deliberated as a proper and legal method for dumping the 
+waste vegetable oil.   
+Khedaywi et al. [2] investigated effect of addition of the 
+Olive Waste Ash (OWA) on the properties of asphalt cement 
+(80/100) and limestone aggregate. Different levels of OWA (0, 
+5, 10, 15, and 20%) by volume of binder were used. Tests on 
+asphalt-ash binder, such as penetration, softening point, 
+ductility, fire and flash point, and specific gravity were 
+performed. Marshall tests and dynamic creep tests were 
+accomplished at different temperatures (20, 30, and 40℃) and 
+load frequency levels (1, 4, and 8Hz). The authors found that 
+both of penetration and ductility have decrease with the 
+increase in OWA content. However, specific gravity, 
+softening point, fire and flash point, voids in mineral aggregate, 
+and air voids all have increased with the increase of the OWA 
+content. It is also found that the dynamic modulus has 
+decreased with the increase of OWA content. 
+Al-Qadi et al. [3] studied the effect of oil shale ash on rutting 
+of flexible pavement. Oil Shale Ash was added to the asphalt 
+cement concrete mixture. Specimens, with several percentages 
+(0, 5, 10, 15 and 20%) of ash by volume of binder, were 
+prepared. The specimens were exposed to static creep tests 
+through the Universal Testing Machine (UTM). Tests were 
+performed using three testing temperature levels (5, 25 and 
+40℃). The authors concluded that the use of oil shale ash as 
+additive to hot mix asphalt by (5, 10, 15 and 20%) will reduce 
+the cost of construction of asphalt cement concrete mixtures. 
+An optimum percentage of oil shale ash equal to 12.5 was 
+found to reduce rutting. This has led to an increase in stiffness, 
+resilient modulus, and the accumulated strain of the asphalt 
+cement concrete mixture. Moreover, both of rutting depth and 
+air voids have been decreased. 
+Al-Zaidyeen and Al-Qadi [4] studied the influence of a 
+waste material called phosphogypsum on the stabilization of 
+the layers of pavement to enhance the properties of the non-
+plastic soil in the city of Aqaba – Jordan. Several percentages 
+(0, 5, 10, 20, and 25%) of phosphogypsum by weight of soil 
+were used. Specimens were prepared according to an 
+optimized material’s formula for the mixture and tested (both 
+sieving and grading of soil, atterberg limit, dry unit weight, 
+moisture content, proctor and California bearing ratio) and the 
+results were reported. The authors found that the best 
+percentage of phosphogypsum is 21% in the all tests.   
+Al Qadi et al. [5] studied effect of crumb rubber (CR) on 
+asphalt cement mixture as a replacement of aggregate (fine or 
+Annales de Chimie - Science des Matériaux  
+Vol. 45, No. 1, February, 2021, pp. 11-15 
+ 
+Journal homepage: http://iieta.org/journals/acsm 
+11
+
+
+===== PAGE 2 =====
+
+ 
+course). For the asphalt cement samples, three sizes (numbers: 
+4, 8, and 50) of sieves for CR have been used. Several 
+percentages (4, 4.5, 5, 5.5 and 6%) of asphalt cements and 
+several percentages (10, 20, 30 and 40%) of CR all by weight 
+of aggregate have been used for preparation of the samples of 
+the asphalt cement mixture. The hot-mix Asphalt Marshal 
+method of testing was implemented in testing the asphalt 
+mixture samples. Seventy two samples were tested and results 
+of Marshall Properties (flow, stability, bulk density, air void 
+percentage and voids in mineral aggregate) were reported. The 
+authors found that the effect of replacement of CR to the fine 
+aggregate enhances both of stability and flow, better than the 
+effect of replacement of CR to coarse aggregate. 
+Shu and Huang [6] conducted a review to the use of waste 
+tire-rubber in Portland cement and asphalt. The authors found 
+that, in the asphalt paving industry, the rubber-asphalt 
+mixtures are compatible with both of the extensively used 
+sustainable technologies of the warm-mix asphalt and 
+reclaimed asphalt pavement. 
+Pettinari and Simone [7] studied the effect of use crumb 
+rubber (CR) in cold mixtures by maximizing the valorization 
+of recycled materials. Two levels of gradation of CR were 
+implemented in the making the cold-recycled asphalt-cement 
+mixture. Both of the indirect tensile stiffness and strength 
+modulus have been reported from the tests. The authors 
+concluded that the gradation of crumb rubber has affected the 
+mechanical and compaction properties of the mixture. 
+Alsheyab and Khedaywi [8] investigated the influence of 
+electric arc furnace dust to solve the problem of waste by 
+mixing it with asphalt-cement for the purpose of construction 
+of highways. It was added to the asphalt cement mixtures with 
+different percentages by volume of mixture. Ductility, specific 
+gravity, penetration, softening point, flash point, fire point and 
+rotational viscosity were investigated. The authors found that 
+both penetration and ductility have decreased with the increase 
+in electric arc furnace dust concentration of mixture. However, 
+specific gravity, softening point, flash point, fire point and 
+rotational viscosity have increased with the increase in electric 
+arc furnace dust concentration in mixture. The authors 
+concluded that the electric arc furnace dust can be used for 
+road construction. 
+Gautam et al. [9] investigated effect of using recycled 
+materials in several layers of pavements. The authors indicated 
+that the use of secondary material not only provided an 
+effective waste disposal approach, but also reduced both the 
+request on regular material and the total cost of construction. 
+However, their fields of application were limited. The authors 
+suggested several solutions to encourage the use of recycled 
+material in pavement. 
+Arafat et al. [10] studied the sustainable lignin that could 
+promote asphalt binder oxidative aging properties and mix 
+properties. Several kinds of lignin were used as substitution to 
+six percent of the asphalt mixture to study their effect on the 
+aged and un-aged asphalt mixture. These kinds of lignin are 
+the: the kraft lignin, lignin experimentally obtained from black 
+liquor, and lignin experimentally obtained from rice hulls 
+using a special kind of solvent. A control asphalt mixture was 
+also prepared. The high-temperature performance grade was 
+better with the lignin additives. The asphalt mixtures with the 
+lignin additives have greater tolerance of strain compared with 
+the control mixture in the sweep test of strain. The long term 
+index of aging is better when adding either of the lignin’s 
+obtained from the back liquor or rice hulls to the asphalt 
+mixture. Substitution of the asphalt mixture by six percent of 
+the black liquor lignin is reasonable for hot mixtures and could 
+be to applicable less-hot mixtures.  
+The objective of this research is to study the effects of 
+replacement of asphalt cement by olive husk ask (OHA) on the 
+properties of asphalt concrete mixture. The optimum concrete 
+mixture is obtained then; several percentages of OHA are 
+added to the optimum asphalt concrete mixtures as 
+replacement to the asphalt cement. Tests on Marshall 
+specimens have been performed and results on properties of 
+asphalt cement concrete mixture are reported and analyzed. 
+This research is expected to help resolve the problem of 
+disposal of the olive husk ash.     
+ 
+ 
+2. MATERIALS AND TESTS 
+ 
+The materials used to conduct the tests are asphalt cement, 
+limestone aggregate, and olive husk ash. Asphalt cement grade 
+60-70 was produced from petroleum Refinery Company in 
+Zerqa, Jordan. Tests on asphalt cement are penetration 64, 
+softening point 50℃, ductility 114 cm, flash point 320℃, fire 
+point 325℃ and specific gravity 1.017. Olive husk Ash (OHA) 
+was obtained by burning olive husk at 400℃. The 
+corresponding specific gravity of the OHA is 2.23.  
+ 
+Table 1. Properties and gradation of limestone aggregate [11] 
+ 
+A-Properties of Limestone Aggregate 
+Type of Aggregate 
+ASTM test Designation 
+Bulk Specific 
+Gravity 
+Apparent Specific 
+Gravity 
+Water absorption (%) 
+Coarse Aggregate 
+C 127 
+2.581 
+2.657 
+3.2 
+ Fine Aggregate 
+C 128 
+2.703 
+2.682 
+4.5 
+ Mineral filler 
+C 128 
+2.667 
+2.492 
+5.1 
+B-Aggregate Gradation, Wearing Layer, Medium Traffic 
+Sieve Size 
+MPWH specification 
+% passing 
+1" (25.00 mm) 
+100.0 
+100 
+1/4 " (19.00 mm) 
+90-100 
+95 
+1/2 " (12.5 mm) 
+71-90 
+80.5 
+1/8 " (9.5 mm) 
+56-80 
+68 
+No. 4 (4.75mm) 
+35-56 
+45.5 
+No. 8 (2.35 mm) 
+23-38 
+30.5 
+No. 20 (850 µm) 
+13-27 
+20 
+No. 50 (300 µm) 
+5-17 
+11 
+No. 80 (180 µm) 
+4-14 
+9 
+No. 200 (75 µm) 
+2-8 
+5 
+12
+
+
+===== PAGE 3 =====
+
+ 
+Table 2. OHA on Marshall properties of asphalt concrete mixture 
+ 
+Properties 
+OHA By Volume of Binder (%) 
+0 
+5 
+10 
+15 
+20 
+Marshall Stability (kg) 
+Dry 
+1550 
+1720 
+1680 
+1700 
+1780 
+Wet 
+954.79 
+940 
+1140 
+1190 
+1600 
+Marshall Flow 
+(25mm) 
+Dry 
+21 
+22 
+17.3 
+16 
+14.66 
+Wet 
+21 
+24 
+21 
+22 
+20 
+Unit weight (kg/m3) 
+144.120 
+142.56 
+141.721 
+140.191 
+141.044 
+Voids in Mineral Aggregate (%) 
+17.1 
+18.4 
+19.1 
+20.3 
+20.1 
+Air Voids (%) 
+5.2 
+6.2 
+3.9 
+5.4 
+5.4 
+Retained Stability (%) 
+61.5 
+54.6 
+67.8 
+70 
+80.8 
+Marshall stiffness (kg/mm) 
+Dry 
+205.2 
+312.7 
+388.4 
+425 
+485.6 
+Wet 
+181.7 
+156.6 
+217.1 
+216.3 
+320 
+Retained stiffness (%) 
+61.5 
+50.0 
+55.9 
+50.9 
+65.8 
+ 
+Limestone aggregate was obtained from Al-Huson quarries 
+located in Northern Jordan. The specifications of Jordanian 
+Ministry of Public Works and Housing (MPWH), Directorate 
+of Planning and Development [11] were implemented in 
+grading. The properties and gradation of aggregate are listed 
+in Table 1. 
+The optimum asphalt content was determined following the 
+procedure described in the MS-2 Manual [12] and ASTM 
+D1559 [13] standards for Marshall mix designs. The 
+percentages of the asphalt cement by volume of the asphalt 
+concrete mixtures are equal to 5%, 5.5%, 6%, 6.5%, and 7%. 
+Three samples from each of the Marshall mix designs were 
+tested for flow, stability, air voids, voids in mineral aggregated, 
+and unit weight. The average value of asphalt cement content 
+that satisfies the max. unit weight, optimum stability, and four 
+percent of air voids, is the optimum asphalt cement content. 
+This average value is for asphalt cement percentage equal to 
+5.25 of the asphalt concrete mixture.  
+Asphalt cement content at maximum stability = 5.2% 
+Asphalt cement content at 80% VFB = 5.5% 
+Asphalt cement content at max unit weight = 5.0% 
+Asphalt cement content at 4% air voids = 5.3% 
+Asphalt cement content = (5.2 + 5.5 + 5.0 + 5.3)/4 = 5.25% 
+For Marshall tests, a 1200 gm. of aggregate was used in the 
+mix design. The aggregate was washed, dried and sieved 
+according to MPWH specifications. Both the aggregate and 
+molds were placed in the oven to heat for 149℃ for one day. 
+Similarly, the asphalt cement was left to heat under same 
+temperature as aggregate for only sixty minutes. After that, the 
+aggregate was mixed with the asphalt cement until full coating 
+was attained. Mixing was performed manually. The asphalt 
+cement aggregate mixture was filled in a Marshall mold. 
+Medium traffic was indicated by compacting 50 blows on both 
+faces of the specimen. Specimens were left to cool at room 
+temperature before extruding from the mold. 
+Three specimens from each mix were prepared. The 
+specimens were forced out of the Marshall molds after one day. 
+The hot samples were immersed in water at 60℃ for forty 
+minutes. The Marshall Apparatus was used for testing the 
+specimens to obtain the results listed in Table 2. 
+ 
+ 
+3. RESULTS AND DISCUSSION 
+ 
+The Marshall stability test gives a good indication of asphalt 
+mixtures stiffness. The volumetric analysis of the tested 
+specimens can be used to determine mixture density, voids in 
+mineral aggregate (VMA), void filled with bitumen (VFB) and 
+absorbed asphalt which are very important parameters in 
+understanding the behavior of asphalt cement concrete 
+mixtures. 
+It should be mentioned that the Marshall stability test does 
+not always provide a complete explanation of all asphalt 
+cement concrete mixture properties. There were several 
+specimens with a high Marshall stability that showed rutting 
+ability. However, the Marshall stability test has the advantage 
+of shorter time of testing since it only needs one hour of curing 
+and fifteen minutes of testing for all of the fifteen specimens 
+that have been used in the current study. This is a relatively 
+short time compared with twenty-four hours’ time in 
+controlled environmental chamber and one hour for a 
+specimen test using of the static creep test. In addition, the 
+Marshall stability test is an available method of testing that is 
+not costly. Therefore, it has been used to give an indication of 
+the behavior of asphalt cement concrete. 
+Equations and R-squared values have been displayed on all 
+figures to illustrate the trends and strength of relationships, 
+respectively. The effect of olive husk ash content on Marshall 
+stability is shown in Figure 1(a). It can be seen that increasing 
+the OHA content has resulted in increase in Marshall stability. 
+This result can be explained by the fact that adding OHA 
+increases asphalt cement binder stiffness and tensile strength. 
+ 
+ 
+ 
+13
+
+
+===== PAGE 4 =====
+
+ 
+ 
+ 
+ 
+Figure 1. Effect of olive husk ash on properties of asphalt 
+cement concrete mixture 
+ 
+Flow is defined as the vertical deformation under a load of 
+the compacted mixtures. The effect of OHA content on flow is 
+shown in Figure 1(b). It can be seen that increasing the OHA 
+content has resulted in decrease in the flow. This is due to the 
+decrease of the amount of asphalt cement in the binder which 
+reduces lubrication between the aggregate particles. Thus, the 
+addition of OHA increases the asphalt cement binder hardness. 
+The effect of OHA content on air voids is shown in Figure 1(c). 
+It can be seen that the increase in OHA content has no effect 
+on air voids. This result indicates that the increase in OHA 
+content has no effect on the resistance for weathering actions 
+even though the open structure of the OHA traps a lot of 
+interstitial space.   
+Voids in mineral aggregates (VMA) is defined as the 
+volume of inter-granular void spaces between the aggregate 
+particles of compacted paving mixture that includes the air 
+voids and the effective asphalt content. VMA is expressed as 
+a percentage of the total volume of the sample. The effect of 
+OHA content on voids in mineral aggregate is shown in Figure 
+1(d). It can be seen that increasing the OHA content has 
+resulted in increase in voids in mineral aggregate. The increase 
+of OHA content has resulted in increase in asphalt cement 
+binder viscosity so that its ability to fill all voids will decrease. 
+As the percentage of OHA increases, the absorption of 
+aggregate decreases, so the effective binder content increases, 
+which improves the interlocking flexibility of the asphalt 
+concrete mixtures increases. The voids in mineral aggregate 
+were obviously lower when the OHA content was 20%, than 
+that when the OHA content was 15% suggesting the that a 
+10%-15% of olive husk ash replacement of asphalt binder will 
+improve the results.  
+The effect of OHA content on retained stability is shown in 
+Figure 2. It can be seen that increasing the OHA content has 
+resulted in increase in retained stability. This is expected 
+because the increase of OHA will increase the asphalt cement 
+binder resistance to stripping. 
+ 
+ 
+Figure 2. Effect of olive husk ash on retained stability of 
+asphalt cement concrete mixture  
+ 
+  
+ 
+ 
+Figure 3. Effect of olive husk ash on Marshall and retained 
+stiffness of asphalt cement concrete mixture 
+ 
+The effect of OHA content on Marshall stiffness is shown 
+in Figure 3(a). An increase in OHA content has resulted in 
+increase of the Marshall stiffness. The increase of OHA will 
+increase the hardness and cohesion of asphalt cement binder. 
+The effect of OHA on retained stiffness is shown in Figure 
+3(b). The increase in OHA content will increase the retained 
+stiffness. As stated before, the increase of OHA will increase 
+asphalt binder resistance to stripping. 
+ 
+ 
+4. CONCLUSIONS 
+ 
+The Marshall test method of design was used to estimate the 
+optimum asphalt cement content which was equal to 5.25%. 
+The replacement of OHA to the asphalt cement by (0, 5, 10, 
+15, and 20%) is then performed on the asphalt cement 
+aggregate mixture. Marshall properties of the asphalt cement 
+concrete mixtures were evaluated. Results indicate that: 
+(1) 
+Both of Marshall and retained stability in addition to 
+14
+
+
+===== PAGE 5 =====
+
+voids in mineral aggregate are all directly proportional to the 
+OHA content.  
+(2)
+Marshall flow is inversely proportional to the OHA
+content while Air voids are not affected by the OHA content. 
+(3)
+The use of OHA as a replacement to the asphalt
+cement in asphalt cement aggregate mixtures is a promising 
+technique to resolve the environmental problem of the OHA 
+waste and to reduce the demand on the non-renewable asphalt 
+cement material. 
+ACKNOWLEDGMENT 
+The authors would like to acknowledge staff at the 
+Laboratories of Civil Engineering Departments of both Jordan 
+University of Science and Technology, Ajloun National 
+University – Jordan for their help in making this research 
+possible. 
+REFERENCES 
+[1]
+Al-Omari, A., Khedaywi, T., Khasawneh, M.A. (2018).
+Laboratory characterization of asphalt binders modified
+with waste vegetable oil using SuperPave specifications.
+International Journal of Pavement Research and
+Technology, 
+11(1): 
+68-76.
+https://doi.org/10.1016/j.ijprt.2017.09.004
+[2]
+Khedaywi, T., Al Kofahi, N., Al-Zoubi, M. (2020).
+Effect of olive waste ash on properties of asphalt cement
+and asphalt concrete mixtures. International Journal of
+Pavement Research and Technology, 13: 276-285.
+https://doi.org/10.1007/s42947-020-0254-2
+[3]
+Al-Qadi, Q.N., Al-Qadi, A.N., Khedaywi, T.S. (2014).
+Effect of oil shale ash on static creep performance of
+asphalt-paving mixtures. Jordan Journal of Earth and
+Environmental Sciences, 6(2): 67-75.
+[4]
+Al-Zaidyneen, S.M., Al-Qadi, A.N. (2015). Effect of
+Phosphogypsum as a waste material in soil stabilization
+of pavement layers. Jordan Journal of Civil Engineering, 
+9(1): 1-7. 
+[5]
+Al Qadi, A.N., Alhasanat, M.B., Haddad, M. (2016).
+Effect of crumb rubber as coarse and fine aggregates on
+the properties of asphalt concrete. American Journal of
+Engineering and Applied Sciences, 9(3): 558-564.
+https://doi.org/10.3844/ajeassp.2016.558.564
+[6]
+Shu, X., Huang, B. (2014). Recycling of waste tire rubber
+in asphalt and Portland cement concrete: An overview.
+Construction and Building Materials, 67(Part B): 217-
+224. https://doi.org/10.1016/j.conbuildmat.2013.11.027
+[7]
+Pettinari, M., Simone, A. (2015). Effect of crumb rubber
+gradation on a rubberized cold recycled mixture for road
+pavements. 
+Material 
+and 
+Design, 
+85: 
+598-606.
+https://doi.org/10.1016/j.matdes.2015.06.139
+[8]
+Alsheyab, M.A.T., Khedaywi, T.S. (2013). Effect of
+electric arc furnace dust (EAFD) on properties of asphalt
+cement mixture. Resources, Conservation and Recycling
+Journal, 
+70: 
+38-43.
+https://doi.org/10.1016/j.resconrec.2012.10.003
+[9]
+Gautam, P.K., Kalla, P., Jethoo, A.S., Agrawa, R., Singh,
+H. (2018). Sustainable use of waste in flexible pavement:
+A review. Construction and Building Materials, 180:
+239-253.
+https://doi.org/10.1016/j.conbuildmat.2018.04.067
+[10] Arafat, S., Kumar, N., Wasiuddin, N.M., Owh, E.O.,
+Lynam, J.G. (2019). Sustainable lignin to enhance
+asphalt binder oxidative aging properties and mix
+properties. Journal of Cleaner Production, 217: 456-468.
+https://doi.org/10.1016/j.jclepro.2019.01.238
+[11] Ministry of Public Works and Housing, Specifications
+for Highway and Bridge Construction. (2010). Part 4.
+Bituminous Construction, Amman, Jordan.
+[12] Asphalt Institute, Mix Design Methods for Asphalt
+Concrete. (2015). Manual Series No. 2 (MS-2) 7th
+Edition. AI, Lexington, KY, USA.
+[13] Book of ASTM Standards, (ASTM D1559). (1990).
+Road and Paving Materials, 4(03): 206-211.
+15

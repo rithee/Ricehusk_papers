@@ -1,0 +1,605 @@
+
+===== PAGE 1 =====
+
+ 
+Impact of Incorporating Rice Husk Ash (RHA) 
+into Recycled Concrete Aggregates (RCA) on the 
+Compressive and Flexural Strength of Concrete 
+Maria Fe Adier1,2,3* and Dante Silva3 
+1Technological Institute of the Philippines, 1001 Metro Manila, Philippines 
+2Western Philippines University, 5300 Palawan, Philippines 
+3Mapua University, 1001 Metro Manila, Philippines 
+Abstract. This study aimed to assess the strength characteristics of concrete 
+using Recycled Concrete Aggregates (RCA) as full replacement to coarse 
+aggregates and Rice Husk Ash (RHA) as an admixture. The concrete 
+samples were subjected to curing for 7, 14, and 28 days. Specifically, the 
+study evaluated the workability of freshly mixed concrete and compared the 
+compressive and flexural strength with RCA and RHA to normal concrete. 
+Four different treatment mixtures were used with three replicates with 
+varying ratio of RHA to cement: Treatment 1 (1 cement: ¾ RHA), Treatment 
+2 (1 cement: ½ RHA), Treatment 3 (1 cement: ¼ RHA). In all cases, RCA 
+completely replaced natural coarse aggregates. The results indicated that the 
+slump which measures the workability of the RCA concrete met the desired 
+standard specifications. Additionally, the RCA concrete with the highest 
+RHA content obtained the highest compressive and flexural strength on the 
+28th day test but did not exceed the control. Furthermore, the study revealed 
+that the concrete specimens could handle maximum loads for flexure rather 
+than compression load. 
+1 Introduction  
+Concrete is a universal construction material. However, the production of this material results 
+to high gas emission which associated with production, transportation, use and the disposal. 
+Basically, the entire life cycle of concrete contributes to high carbon footprint. Presently, 
+there are various studies that promote the use of alternative materials such as recycled 
+aggregates, natural fibers, recycled glass, fly ash, and many others. A recent study of Macmac 
+et al. [1] utilized tire waste steel fiber in reinforced self -compacting concrete which found 
+that tire waste steel fibers can be used to strengthen the self-compacting concrete. Another 
+sustainable material that is eco – friendly is bamboo. This natural material has various 
+purposes in utilizing the whole culm as structural material.  Recently, Adier et al. [2] provided 
+a review of the properties and various applications of bamboo in construction which generally 
+promotes the use of sustainable environment friendly material rather than concrete. The 
+common and low-cost material that is used as alternative for aggregates is recycled concrete. 
+The strength of recycled waste concrete has been studied widely in many previous studies.  
+ 
+* Corresponding author: adiermariafe@yahoo.com 
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+ 
+ 
+© The Authors, published by EDP Sciences. This is an open access article distributed under  the terms of the Creative
+Commons Attribution License 4.0 (https://creativecommons.org/licenses/by/4.0/). 
+
+
+===== PAGE 2 =====
+
+Many have proved that it is lower than the normal [3]–[9]. However, there are few studies 
+proved that it is comparable and near equal to the normal concrete provided with special 
+treatments and methods to enhance its performance [10]–[13]. Rice husk ash (RHA) is an 
+agricultural waste produced after the rice grains were milled. It contains approximately 
+83.7% silica that is capable to be used as replacement to cement in respective ratios. Previous 
+studies used RHA as partial and full replacements to cement to produce a high-performance 
+concrete. Salas et al. [14]  used the highly reactive RHA and observed that 10% of a high 
+reactive RHA is the optimum replacement level to ordinary cement which enhanced the 
+compressive strength, flexural strength,  and elastic modulus of concrete. However, using the 
+RHA requires high water requirement. The RHA is a high porous material that affects the 
+workability of concrete if the ratio increases. Wilson et al. [12] used the RHA as partial 
+replacement to cement and observed that the compressive strength increased after 28 days of 
+curing up to 20%.   RHA has a great potential to be utilized as a viscosity modifying 
+admixture. The RHA was found effective in improving the compressive strength of the self 
+– compacting high performance concrete (SCHPC) especially at higher replacement 
+percentage with later ages. The compressive strength of SCHPC reached 130 MPa after 56 
+days [15]. Recent studies found that incorporating RHA to concrete mixture will improved 
+the strength capacity up to 25% [16]. Gull et al. [13] recommends the recycling of the wastes 
+concrete in concrete production and suggested to further study the development and 
+improvement of concrete wastes as a recycled aggregates for better performance and include 
+the financial analysis. This paper supports the adaptation of recycled concrete aggregates in 
+the production of concrete for construction. Recycling concrete waste from construction and 
+demolition contributes to reducing pollution and waste disposal to landfill brought by RCA 
+and RHA where sometimes a large concrete waste is brought by natural calamities, these 
+wastes are a burden that creates large pollution. It will also lessen the high demands of the 
+natural coarse aggregate resources in the production of concrete especially if there will be no 
+mountain rocks to be blasted for aggregate resources and collecting from the riverside will 
+be strictly prohibited.  This study determined the compressive and flexural strength of RCA 
+with RHA as admixture in 7, 14 and 28 days curing. In this experiment, the RCA fully 
+replaced the coarse aggregates and observed the performance of concrete with a higher 
+proportions of RHA admixtures. This experiment is limited only up to 28 days curing in 
+which cannot fully predict the behavior of the RHA into the concrete strength, because 
+literature indicates that RHA typically performs better in longer term.  
+2 Materials and Methods  
+The recycled concrete aggregates used were gathered from the removed road pavement in 
+the project of DPWH 3rd Engineering District of Palawan in Zigzag Road, Puerto Princesa 
+City. The road was constructed in 2009 but removed in 2016 due to the traffic accident issues. 
+The rice husk was gathered from the rice mill in Barangay Mabini, Aborlan, Palawan. The 
+rice mill is operating over 20 years and produce rice husks at an average of 20 cubic meters 
+every day. The rice husk from the rice mill was rinsed with clean water and sun dried for one 
+day before being burned. The rice husk was burned openly till it converted to ash. After 
+burning, the ashes were allowed to cool before being pulverized with hammer mills and 
+mallets. The fineness of the rice husk ash was improved by grinding. According to the 
+literature review, the fineness of rice husk ash must be equivalent to or more than that of 
+cement to increase its performance. Afterwards, it was collected into an open rectangular 
+container for air dry in a room temperature together with the RCA. The natural aggregates 
+were taken in Montible, Puerto Princesa City because the natural aggregates were gathered 
+in the area. Type 1 Portland Cement was used in concrete mixture with 0.56 water – cement 
+ratio. The specific gravity of materials was determined in the laboratory by the ratio of its 
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+2
+
+
+===== PAGE 3 =====
+
+mass and volume. ASTM C33-01 (Standard Specification for Concrete Aggregate) was used 
+to evaluate the concrete aggregates.  
+ Abrasion loss test was performed on the RCA to evaluate the hardness of the RCA. The 
+test was done under Grading B standard specifications of Department of Public Works and 
+Highways (DPWH) test for abrasion loss with 40% maximum allowable loss by mass. There 
+were 11 bolts used and 500 revolutions.  
+There were three treatments with three replications that were fabricated. Treatment 1 is 
+for every 1 parts of cement, ¾ of RHA were added; Treatment 2 was 1 part of cement is to 
+½ of RHA; and Treatment 3 was 1 part of cement is to ¼ RHA. The double mixing method 
+was used in this study to enhance the properties and performance of concrete mixture. The 
+recycled coarse aggregates were prewetted and air dried before mixing. In double mixing 
+method, the cement and sand were mixed in concrete mixer with first water application, then 
+RCA was added to the mixture with the second part of water application, and finally the rice 
+husk ash was added to the mixture with the final part of water. The mixture was mixed 
+thoroughly until the color of concrete became neutral.  Extra water was added as 
+compensation to the property of the recycled concrete aggregates and RHA that has high 
+water absorption. The concrete mixtures for compressive strength test were casted into 
+cylindrical moulder in 6 inches in diameter and 12 inches long and the concrete for the 
+flexural strength test were casted to the rectangular moulder with 6 inches wide by 6 inches 
+thick by 21 inches long. The internal surface of moulders were thoroughly cleaned and 
+applied a light coat of clean oil. The concrete specimens were allowed being hardened for 24 
+hours and it were removed from the forms after 24 hours and placed it to the curing tank for 
+their respective days of curing. Tests for the compressive and flexural strength were done in 
+accordance with ASTM C39 and ASTM C293-02, respectively. Curing was done after 
+removing the concrete samples from the moulds. The concrete samples were soaked into a 
+water tank for curing. The specimens for compressive and flexural strength test were cured 
+and tested in three stages such as: 7, 14, and 28 days. The specimens were tested under UTM 
+with 1500 kN capacity for compression and 300 kN for flexure. The ultimate speed of 2 m/s 
+of the UTM was used. The specimen was loaded continuously up to its breaking capacity.  
+3 Results 
+The recycled concrete aggregates from the removed pavement undergo abrasion test to 
+establish the benchmark for determining the percentage loss in hardness of the corresponding 
+removed pavement. Figure 1 shows that the RCA has a 10.72% loss from the original strength 
+of aggregates with standard deviation of 0.36 compared to natural aggregates with standard 
+deviation of 0.16.  
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+3
+
+
+===== PAGE 4 =====
+
+ 
+Fig. 1. Result of the Abrasion Loss Test of RCA and NA samples.  
+The specified slump consistency range for Portland Cement concrete pavements, 
+according to the Department of Public Works and Highways (DPWH) is 40-75mm 
+(equivalent to 1 ½ to 3 inches) without vibration. The findings indicated that the concrete 
+mixture incorporating both Recycled Concrete Aggregates (RCA) and Rice Husk Ash (RHA) 
+exhibits satisfactory workability, aligning with the specified criteria presented in Table 1 with 
+Coefficient of Variance (COVs) of 2.20, 3.36, 4.76, and 5.62 for Control, Treatment 1, 
+Treatment 2, and Treatment 3, respectively.  
+ 
+Table 1. Result of slump test conducted for all treatment mixtures.  
+Mixture 
+Slump*(mm) 
+Slump**(mm) 
+COV (%) 
+Specifications 
+(Non vibrated) 
+Remarks 
+Control 
+63.50 
+59.00 
+2.20 
+40 - 75 mm 
+S 
+Treatment 1 
+80.00 
+50.80 
+3.36 
+40 - 75 mm 
+S 
+Treatment 2  
+85.60 
+44.45 
+4.76 
+40 - 75 mm 
+S 
+Treatment  3 
+79.30 
+48.26 
+5.62 
+40 - 75 mm 
+S 
+slump* First trial slump 
+ 
+slump** Second slump                  
+Note: S =Satisfactory 
+ 
+Figure 2 is the comparison of the peak load obtained on compressive strength test of every 
+treatment with respect to 28 days test along with the time elapsed to its breaking point. The 
+COVs for load capacity and time elapsed are 6.92 and 20.82, respectively. The result also 
+shows that the peak load obtained by each treatment is not dependent on the time elapsed 
+capacity. It can be concluded that concrete can rupture in a shorter time but obtained the 
+highest load.  
+ 
+33.1
+100
+22.38
+-20
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Initial
+Final
+Weight Loss %
+RCA
+NA
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+4
+
+
+----- TABLE p4#1 -----
+
+Mixture | Slump*(mm) | Slump**(mm) | COV (%) | Specifications
+(Non vibrated) | Remarks
+Control | 63.50 | 59.00 | 2.20 | 40 - 75 mm | S
+Treatment 1 | 80.00 | 50.80 | 3.36 | 40 - 75 mm | S
+Treatment 2 | 85.60 | 44.45 | 4.76 | 40 - 75 mm | S
+Treatment 3 | 79.30 | 48.26 | 5.62 | 40 - 75 mm | S
+
+===== PAGE 5 =====
+
+ 
+Fig. 2. Result of Load Capacity and Time Elapsed of cylindrical specimens on the 28th Day.  
+Figure 3 is the comparison of the peak load obtained in the flexural strength test of every 
+treatment on the 28th day test. The COVs for the load capacity and time elapsed are 1.92 and 
+1.49, respectively. The result indicates that the trend of peak load is increasing as the 
+proportion of RHA is increasing, the time elapsed is partially reciprocated the pattern of the 
+peak load. However, it cannot directly remark since Treatment 1 and 2 obtained the same 
+duration. It is recommended to perform a longer stage of testing to expand the trend for better 
+conclusion.  
+ 
+ 
+Fig. 3. Result of Load Capacity and Time Elapsed of beam specimens on the 28th Day.
+The summary of the compressive and flexural strength test result is presented in Table 2. 
+Both compressive and flexural strength for 7th and 14th day have high coefficient of variance 
+of 13.43% and 14.68%, and 14.22% and 19.41%, respectively. However, compressive and 
+flexural strength of 28th day have low coefficient of variance of 5.09% and 1.89%, 
+respectively. The result indicated that there is no significant difference among the three 
+treatments on the 7th, 14th and 28th day for compressive strength.  The flexural strength test 
+result for both 7th and 14th day has no significant difference for all treatments, while the 28th 
+day result is significantly different. The compressive strength for both 7th and 14th day test 
+were not correlated with the percentage of RHA admixture as shown in Figure 4. However, 
+the 28th day test result shows correlation on the percentage of admixture by which it increases 
+453.33
+415.00
+405.00
+385.00
+7.93
+9.72
+12.95
+11.64
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+500
+C
+T1
+T2
+T3
+Loac Capacity (kN)
+Time Elapsed (s)
+Mixture
+Peak Load
+Time elapsed
+36.67
+35.83
+35.67
+35.00
+5.50
+5.33
+5.33
+5.40
+-5
+5
+15
+25
+35
+45
+C
+T1
+T2
+T3
+Loac Capacity (kN)
+Time Elapsed (s)  
+Mixture
+Peak Load
+Time elapsed
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+5
+
+
+===== PAGE 6 =====
+
+as the percentage increases.  The result also indicates that the longer the age of concrete 
+increases the compressive strength which coincides to the study of Wilson et al. [12]. The 
+double mixing method and the high fineness of rice husk ash enhanced the performance of 
+the concrete treatments as suggested by the study of Otsuki et al. [10] and Xu et al. [17]. It is 
+recommended to add more in between proportions and longer stage of curing and test to fully 
+understand the trend and behavior of the concrete strength. The differentiation of flexural 
+strength is presented in Figure 5.  Additionally, it is advisable to prolong the duration of the 
+test to cover a more extensive phase. This extension will facilitate a broader comparison and 
+validation of the strength behavior involving a greater range of proportions. 
+Table 2.  Summary of the compressive and flexural strength of different treatments in 3 curing stages. 
+ 
+Compressive Strength (MPa) 
+Flexural Strength (MPa) 
+7 days 
+14 days 
+28 days 
+7 days 
+14 days 
+28 days 
+Control 
+12.40 
+13.40 
+23.73 
+2.85 
+3.82 
+4.63 
+Treatment 1 
+15.47 
+16.33 
+22.67 
+2.17 
+2.65 
+4.53 
+Treatment 2 
+11.47 
+12.77 
+21.87 
+2.10 
+2.58 
+4.48 
+Treatment 3  
+14.23 
+17.27 
+21.07 
+2.43 
+2.83 
+4.43 
+COV 
+13.43% 
+14.68% 
+5.09% 
+14.22% 
+19.41% 
+1.89% 
+Note:  Means with the same letter are not significantly different at 5% level. 
+ 
+ 
+Fig. 4.  Result of compressive strength of different treatments in 7, 14, and 28 days test.  
+ 
+0.00
+5.00
+10.00
+15.00
+20.00
+25.00
+7 days
+14 days
+28 days
+Compressive Strength ( 
+Mpa)
+Age of Testing ( Days)
+Control
+Treatment 1
+Treatment 2
+Treatment 3
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+6
+
+
+----- TABLE p6#1 -----
+
+ | Compressive Strength (MPa) |  |  | Flexural Strength (MPa) |  | 
+ | 7 days | 14 days | 28 days | 7 days | 14 days | 28 days
+Control | 12.40 | 13.40 | 23.73 | 2.85 | 3.82 | 4.63
+Treatment 1 | 15.47 | 16.33 | 22.67 | 2.17 | 2.65 | 4.53
+Treatment 2 | 11.47 | 12.77 | 21.87 | 2.10 | 2.58 | 4.48
+Treatment 3 | 14.23 | 17.27 | 21.07 | 2.43 | 2.83 | 4.43
+COV | 13.43% | 14.68% | 5.09% | 14.22% | 19.41% | 1.89%
+
+===== PAGE 7 =====
+
+ 
+Fig. 5.  Result of flexural strength of different treatments in 7, 14, and 28 days test.  
+4 Conclusion  
+The construction and demolition of concrete is progressively increasing nowadays causing it 
+to have huge concrete waste. This study was conducted to contribute to the management of 
+concrete waste, economic production of concrete and preservation of natural resources. The 
+double mixing method to the mixtures of RCA with RHA admixture improved the 
+workability of fresh concrete in which the RCA with RHA concrete slumps are very 
+satisfactory. Treatment 1 is the most comparable mixture of RCA with RHA in both 
+compressive and flexural strength. It was observed that concrete that has the highest ratio of 
+rice husk ash admixture has the highest compressive and flexural strength on the 28th day.  
+The result also indicates that the longer the age of concrete increases the compressive strength 
+of the RCA with RHA concrete. For flexure, the treatment condition is significant because 
+the increase in the ratio of RHA shortened the time capacity of the concrete specimen. This 
+implies that for beam specimens that use RCA and RHA is strongly need of reinforcement. 
+However, further studies may be conducted for wide variations of admixture and longer stage 
+of curing because literature stated that it has better performance in longer age of curing.  
+ 
+This work is supported by the Engineering Research Development and Technology – Department of 
+Science and Technology.  
+References 
+[1] 
+J. D. Macmac, S. J. C. Clemente, B. Lejano, and J. M. C. Ongpeng, “Tire Waste Steel Fiber in 
+Reinforced Self-Compacting Concrete,” Chemical Engineering Transactions. 2022. doi: 
+10.3303/CET2294221. 
+[2] 
+M. F. Adier, S. M. Emillia, D. N. Valerio, and J. M. Ongpeng, “Bamboo as Sustainable 
+Building Materials: A Systematic Review of Properties, Treatment Methods, and Standards,” 
+Buildings, vol. 13, no. 10, 2023, doi: https://doi.org/10.3390/buildings13102449. 
+[3] 
+T. Yang, De-jian,Hao, Yan-han, Wang, “Experimental Research on Recycled Aggregate 
+Concrete for Highway Pavement,” ASCE, 2010, doi: https://doi.org/10.1061/41127(382)309. 
+[4] 
+A. M. Knaack and Y. C. Kurama, “Design of concrete mixtures with recycled concrete 
+aggregates,” ACI Mater. J., 2013, doi: 10.14359/51685899. 
+[5] 
+A. S. Brand, A. N. Amirkhanian, and J. R. Roesler, “Load capacity of concrete slabs with 
+recycled aggregates,” in Airfield and Highway Pavement 2013: Sustainable and Efficient 
+Pavements - Proceedings of the 2013 Airfield and Highway Pavement Conference, 2013. doi: 
+0.00
+1.00
+2.00
+3.00
+4.00
+5.00
+7 days
+14 days
+28 days
+Flexural Strength ( MPa)
+Age of Testing (Days)
+Control
+Treatment 1
+Treatment 2
+Treatment 3
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+7
+
+
+===== PAGE 8 =====
+
+10.1061/9780784413005.024. 
+[6] 
+C. G. Fakitsas, P. E. A. Papakonstantinou, P. D. Kiousis, and A. Savva, “Effects of Recycled 
+Concrete Aggregates on the Compressive and Shear Strength of High-Strength Self-
+Consolidating Concrete,” J. Mater. Civ. Eng., 2012, doi: 10.1061/(asce)mt.1943-
+5533.0000397. 
+[7] 
+V. A. Ulloa, E. García-Taengua, M. J. Pelufo, A. Domingo, and P. Serna, “New views on 
+effect of recycled aggregates on concrete compressive strength,” ACI Mater. J., 2013, doi: 
+10.14359/51686336. 
+[8] 
+R. U. D. Nassar and P. Soroushian, “Strength and durability of recycled aggregate concrete 
+containing milled glass as partial replacement for cement,” Constr. Build. Mater., 2012, doi: 
+10.1016/j.conbuildmat.2011.10.061. 
+[9] 
+A. Singh, R. D. Patel, and K. Raza, “A Comparative Study on Compressive and Flexural 
+Strength of Concrete Containing Different Admixtures as Partial Replacement of Cement,” J. 
+Eng. Res. Appl., 2014. 
+[10] 
+N. Otsuki, S. Miyazato, and W. Yodsudjai, “Influence of Recycled Aggregate on Interfacial 
+Transition Zone, Strength, Chloride Penetration and Carbonation of Concrete,” J. Mater. Civ. 
+Eng., 2003, doi: 10.1061/(asce)0899-1561(2003)15:5(443). 
+[11] 
+I. Maruyama, M. Sogo, T. Sogabe, R. Sato, and K. Kawai, “Flexural properties of reinforced 
+recycled concrete beams,” Int. RILEM Conf. use Recycl. Mater. Build. Struct. Barcelona, 
+Spain. 2004, 2004. 
+[12] 
+W. Wilson and A. Tagnit-Hamou, “Workability and Hydration of superplasticized 
+cementitious mixtures with Rice husk ash,” ACI Mater. J., 2014, doi: 10.14359/51687100. 
+[13] 
+I. Gull, “Testing of Strength of Recycled Waste Concrete and Its Applicability,” J. Constr. 
+Eng. Manag., 2011, doi: 10.1061/(asce)co.1943-7862.0000255. 
+[14] 
+A. Salas, S. Delvasto, and R. M. de Gutiérrez, “Developing high-performance concrete 
+incorporating 
+highly-reactive 
+rice 
+husk 
+ash,” 
+Ing. 
+e 
+Investig., 
+2013, 
+doi: 
+10.15446/ing.investig.v33n2.39517. 
+[15] 
+H. T. Le and H. M. Ludwig, “Effect of rice husk ash and other mineral admixtures on 
+properties of self-compacting high performance concrete,” Mater. Des., 2016, doi: 
+10.1016/j.matdes.2015.09.120. 
+[16] 
+M. Behera and M. R. Rahman, “Evaluating the combined effect of recycled aggregate and rice 
+husk 
+ash 
+on 
+concrete 
+properties,” 
+Mater. 
+Today 
+Proc., 
+2022, 
+doi: 
+10.1016/j.matpr.2021.10.127. 
+[17] 
+W. Xu et al., “Effect of rice husk ash fineness on porosity and hydration reaction of blended 
+cement paste,” Constr. Build. Mater., 2015, doi: 10.1016/j.conbuildmat.2015.04.030. 
+ 
+     
+ 
+ 
+ 
+, 03007 (2024)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202448803007
+ 
+488
+AMSET2023
+8

@@ -1,0 +1,1580 @@
+
+===== PAGE 1 =====
+
+ 
+CHALLENGE JOURNAL OF STRUCTURAL MECHANICS (2025) 11(1) 1–13 
+ 
+ 
+ 
+* Corresponding author. Tel.: +880-191-166-4427 ; E-mail address: 1800164@student.ruet.ac.bd (H. Mahmud) 
+ISSN: 2149-8024 / DOI: https://doi.org/10.20528/cjsmec.2025.01.001 
+Research Article 
+Combined effect of rice husk ash and animal bone powder  
+on strength and permeability of concrete 
+Hasnain Mahmud a,* 
+, Towhid Ahmed a 
+, Md. Shafiqul Islam a 
+ 
+a Department of Civil Engineering, Rajshahi University of Engineering & Technology, Kazla 6204, Rajshahi, Bangladesh 
+ 
+A B S T R A C T 
+Concrete is a key component of construction, and its demand is rising quickly along 
+with infrastructural development. Although cement and aggregates are still essential 
+components for making concrete, the production of cement greatly increases CO2
+emissions, necessitating the use of substitute materials to lessen the impact on the 
+environment. As partial cement substitutes, rice husk ash (RHA) and animal bone 
+powder (ABP) are viable alternatives. Animal bones, which are especially common in
+areas with high cattle populations, and rice husks, a byproduct of paddy production, 
+are frequently discarded despite having useful qualities that can be used to improve 
+concrete. With an emphasis on how they affect the material's permeability and
+strength, this thesis investigates the addition of RHA and ABP to concrete. Different 
+RHA and ABP replacement amounts are examined through controlled experimenta-
+tion to ascertain how they affect the properties of concrete following a predeter-
+mined curing period. The goal of this research is to determine the ideal combination 
+that strikes a balance between environmental advantages and performance. In addi-
+tion to improving the qualities of concrete, using RHA and ABP helps with waste man-
+agement and pollution control. This strategy may help with sustainable building 
+methods, reduce CO2 emissions, and encourage efficient use of resources by lowering 
+dependency on conventional cement. 
+A R T I C L E   I N F O 
+Article history:  
+Received 
+‒ August 22, 2024 
+Revision requested ‒ November 6, 2024 
+Revision received ‒ November 14, 2024 
+Accepted 
+‒ November 22, 2024 
+Keywords: 
+Waste materials 
+Rice husk ash 
+Animal bone powder 
+Compressive strength 
+Permeability 
+ 
+This is an open access article distributed 
+under the CC BY licence. 
+© 2025 by the Authors. 
+Citation:  Mahmud H, Ahmed T, Islam MS (2025). Combined effect of rice husk ash and animal bone powder on strength and permeability of 
+concrete. Challenge Journal of Structural Mechanics, 11(1), 1–13. 
+1. Introduction 
+Of all the building materials used worldwide, concrete 
+is the most widely used due to its distinct benefits over 
+other materials (Swaminathen et al. 2021). An estimated 
+6 billion tonnes of ordinary concrete are manufactured 
+annually worldwide (Mymrin et al. 2018). Unquestiona-
+bly, cement plays a crucial role as the only binder in con-
+crete, forming a solid substance that can support loads. 
+It is vital to note that ordinary Portland cement has been 
+a crucial component of concrete for over 200 years in the 
+building industry (Ren et al. 2017). According to reports, 
+the production of one tonne of Portland cement results 
+in around one tonne of greenhouse gas emissions, and 
+the cement manufacturing process accounts for 2% to 
+8% of the world's power usage (Zeyad et al. 2020). Ce-
+ment is an essential component of concrete, and its pro-
+duction contributes approximately 5% to 8% of global 
+carbon dioxide emissions (Alex et al. 2016). Waste mate-
+rials such as rice husk ash, coconut shell, and fuel ash 
+from palm oil are the most practical option for cement 
+binders as they contain high pozzolanic property which 
+supply reactive silica (Winnefeld et al. 2022). The goal is 
+to reduce waste by using agricultural and industrial by-
+products as alternative binders, offering an environmen-
+tally friendly solution to waste management that avoids 
+harmful and costly disposal methods like incineration 
+and landfilling (AlBiajawi et al. 2022). The evolving life-
+style of modern society has resulted in the generation of 
+various types of waste, which can impact the environ-
+
+
+----- TABLE p1#1 -----
+
+ |  | CHALLENGE JOURNAL OF STRUCTURAL MECHANICS (2025) 11(1) 1–13 |  | 
+
+===== PAGE 2 =====
+
+2 
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+ 
+ment at different scales if not managed properly (Derki 
+and Akpınar 2023). In recent years, there has been a sig-
+nificant surge in research efforts focused on waste recy-
+cling, encompassing both investigative studies and practi-
+cal implementations (Çelik et al. 2024; Şengel et al. 2022; 
+Canbaz et al. 2021). Each tonne of rice typically yields 200 
+kilograms of rice husks, which when fully burned, create 
+40 kg of rice husk ash (RHA). Nearly 320,000 tonnes/year 
+of RHA might be generated in the area, according to a hard 
+estimate, hence suitable alternative disposals need to be 
+prepared to prevent negative environmental effects 
+(Zerbino et al. 2011). According to world rice production 
+by country, about 36.4 million metric tonnes, third in the 
+world (Table 1). Again 513.68 million tonnes of rice are 
+produced in worldwide (Khanal 2021). 
+About 20% of rice's weight is made up of rice husk. 
+Furthermore, every year, about 150 million tonnes of 
+rice husk are produced (Kordi et al. 2024). Rice husk ash, 
+rich in silica, can replace a portion of cement in concrete, 
+improving its mechanical and durability properties by 
+up to 30% (Zerbino et al. 2011). RHA is a highly reactive 
+pozzolanic substance that is produced by burning nice at 
+temperatures below 700 °C in a regulated marine envi-
+ronment. Its content of amorphous silica is high (Jaya et 
+al. 2012). Animal bones, often discarded as waste from 
+the meat industry, can be repurposed as partial replace-
+ments for fine or coarse aggregates in concrete. This ap-
+proach not only helps reduce environmental pollution 
+but also explores the potential for producing high-qual-
+ity concrete structures using crushed animal bones, as 
+researched by various scientists. (Petrounias et al. 2021). 
+According to Department of Livestock Services of Bangla-
+desh (2024) (Table 2), total cattle production in Bangla-
+desh is about 24.856 million and total ruminant produc-
+tion in Bangladesh is about 57.143 million (Salim 2022). 
+Table 1. World rice production by country (103 tonnes) 
+(World Population Review 2024). 
+Country 
+2021 
+2020 
+2019 
+China 
+212,843 
+211,860 
+209,614 
+India 
+195,425 
+186,500 
+174,717 
+Bangladesh 
+56,945 
+54,906 
+54,586 
+Indonesia 
+54,415 
+54,649 
+54,604 
+Vietnam 
+43,853 
+42,765 
+43,495 
+Thailand 
+33,582 
+30,231 
+28,618 
+Myanmar 
+24,910 
+25,983 
+26,270 
+Philippines 
+19,960 
+19,295 
+18,815 
+Pakistan 
+13,984 
+12,630 
+11,120 
+Brazil 
+11,661 
+11,091 
+10,369 
+Cambodia 
+11,410 
+11,248 
+10,886 
+Japan 
+10,525 
+10,469 
+10,527 
+Table 2. Livestock population of Bangladesh (in million) (Salim 2022). 
+Name of species 
+2013-14 
+2014-15 
+2015-16 
+2016-17 
+2017-18 
+2018-19 
+2019-20 
+2020-21 
+2021-22 
+2022-23 
+Cattle 
+23.488 
+23.636 
+23.785 
+23.935 
+24.086 
+24.238 
+24.391 
+24.545 
+24.700 
+24.856 
+Buffalo 
+1.457 
+1.464 
+1.471 
+1.478 
+1.479 
+1.486 
+1.493 
+1.500 
+1.508 
+1.516 
+Sheep 
+3.206 
+3.270 
+3.335 
+3.401 
+3.468 
+3.537 
+3.607 
+3.679 
+3.752 
+3.827 
+Goat 
+25.439 
+25.602 
+25.766 
+25.931 
+26.100 
+26.267 
+26.435 
+26.604 
+26.774 
+26.945 
+Total ruminant 
+53.590 
+53.972 
+54.357 
+54.745 
+55.133 
+55.528 
+55.926 
+56.328 
+56.734 
+57.143 
+In the year 2022, Bangladesh produced 209,016 thou-
+sand tonnes of meat from cattle and buffalo. From 1973 
+to 2022, Bangladesh's production of beef and buffalo 
+meat increased at an average yearly rate of 1.04%, from 
+137,047 thousand tonnes to 209,016 thousand tonnes 
+(Bangladesh Production of Beef and Buffalo Meat, 1961-
+2023 - knoema.com, 2024). One of the waste materials 
+taken out of butchered animals (cows and oxen) is bone, 
+which has a high calcium concentration. Conversely, cal-
+cium oxide makes up 60% to 67% of portland cement 
+(Getahun and Bewket 2021). If deemed appropriate, us-
+ing cow bones in place of fine aggregate will aid in envi-
+ronmental cleanup and the transformation of waste into 
+wealth. When working with concrete, one might assume 
+that the ratio of cement to water is inversely propor-
+tional to the concrete's strength, provided that full com-
+paction is maintained at a specific age and standard tem-
+perature (Neville and Brooks 1987). A study on rice husk 
+ash (RHA) as a Portland cement substitute found that 10-
+15% RHA optimizes mortar strength. Lower tempera-
+tures yield amorphous RHA, enhancing strength through 
+calcium silicate hydrate (C-S-H) gel formation. Higher 
+RHA levels above 10% reduce strength due to limited 
+calcium hydroxide (Ca (OH)2) and increased porosity. 
+White RHA, burnt below 800 °C, showed the best perfor-
+mance, especially in seawater, due to more C-S-H gel but 
+is constrained by Ca (OH)2 availability for the reaction. 
+The ideal RHA content for cement mortar is around 15% 
+for balanced strength and binder properties (Zhao et al. 
+2022). The study used river sand and 20mm crushed 
+rock as aggregates, borehole water, and Portland compo-
+site cement for testing. Animal bone ash, processed 
+through drying and controlled burning, was mixed in 
+proportions of 1:2:4 with a 0.6 water-to-cement ratio. 
+Cast specimens measured 150mm cubed. Over 28 days, 
+compressive strength peaked at 23.43 N/mm² with 5% 
+bone ash, but dropped to 16.49 N/mm² at 20%. The find-
+ings suggest that up to 5% animal bone ash is viable for 
+lightweight structures, as higher percentages weaken 
+the material (Zhao et al. 2022). The study indicates that 
+replacing cement with animal bone powder (ABP) in 
+concrete reduces compressive, split tensile, and flexural 
+
+
+----- TABLE p2#1 -----
+
+ | Country |  |  | 2021 |  |  | 2020 |  |  | 2019 | 
+ | China |  |  | 212,843 |  |  | 211,860 |  |  | 209,614 | 
+ | India |  |  | 195,425 |  |  | 186,500 |  |  | 174,717 | 
+ | Bangladesh |  |  | 56,945 |  |  | 54,906 |  |  | 54,586 | 
+ | Indonesia |  |  | 54,415 |  |  | 54,649 |  |  | 54,604 | 
+ | Vietnam |  |  | 43,853 |  |  | 42,765 |  |  | 43,495 | 
+ | Thailand |  |  | 33,582 |  |  | 30,231 |  |  | 28,618 | 
+ | Myanmar |  |  | 24,910 |  |  | 25,983 |  |  | 26,270 | 
+ | Philippines |  |  | 19,960 |  |  | 19,295 |  |  | 18,815 | 
+ | Pakistan |  |  | 13,984 |  |  | 12,630 |  |  | 11,120 | 
+ | Brazil |  |  | 11,661 |  |  | 11,091 |  |  | 10,369 | 
+ | Cambodia |  |  | 11,410 |  |  | 11,248 |  |  | 10,886 | 
+ | Japan |  |  | 10,525 |  |  | 10,469 |  |  | 10,527 | 
+
+----- TABLE p2#2 -----
+
+Name of species | 2013-14 | 2014-15 | 2015-16 | 2016-17 | 2017-18 | 2018-19 | 2019-20 | 2020-21 | 2021-22 | 2022-23
+Cattle | 23.488 | 23.636 | 23.785 | 23.935 | 24.086 | 24.238 | 24.391 | 24.545 | 24.700 | 24.856
+Buffalo | 1.457 | 1.464 | 1.471 | 1.478 | 1.479 | 1.486 | 1.493 | 1.500 | 1.508 | 1.516
+Sheep | 3.206 | 3.270 | 3.335 | 3.401 | 3.468 | 3.537 | 3.607 | 3.679 | 3.752 | 3.827
+Goat | 25.439 | 25.602 | 25.766 | 25.931 | 26.100 | 26.267 | 26.435 | 26.604 | 26.774 | 26.945
+Total ruminant | 53.590 | 53.972 | 54.357 | 54.745 | 55.133 | 55.528 | 55.926 | 56.328 | 56.734 | 57.143
+
+===== PAGE 3 =====
+
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+3
+ 
+strengths as ABP content increases. For control samples 
+(0% ABP), compressive strength increased with age, 
+peaking at 33.63 MPa at 28 days. However, with 5%, 
+10%, 15%, and 20% ABP, compressive strength signifi-
+cantly declined. Similarly, split tensile and flexural 
+strengths also decreased with higher ABP percentages. 
+The study found that 5% ABP replacement yielded com-
+parable strength to the control, and 10% ABP replace-
+ment achieved required strength standards, making up to 
+10% ABP viable without compromising concrete strength 
+(Teshome et al. 2019). The study shows that replacing ce-
+ment with animal bone powder (ABP) reduces concrete 
+strength and workability as ABP dosage increases. An op-
+timal 10% ABP replacement maintains acceptable 
+strength and workability, making it the best balance for 
+concrete mixes while ensuring desired performance char-
+acteristics (Makebo 2019). In this study, four concrete 
+mix ratios were created, with one control mix (0% RHA) 
+and three mixes containing 10%, 15%, and 20% rice 
+husk ash (RHA) as partial cement substitutes. The water 
+volume (225.5 kg/m³), coarse aggregates (590 kg/m³), 
+fine aggregates (910 kg/m³), superplasticizer concen-
+tration (1%), and water-to-binder ratio (0.41) remained 
+constant. Each mix produced nine cubes (150x150x150 
+mm) and nine cylinders (300x150 mm) for compressive 
+and tensile strength tests at 7, 28, and 56 days. Rapid 
+chloride permeability tests at 28 days showed reduced 
+ion penetration with higher RHA content, except at 20% 
+RHA. The 10% RHA mix demonstrated exceptional chlo-
+ride ion resistance (Chopra et al. 2015). 
+ 
+2. Research Significance 
+This study explores the replacement of cement with 
+Rice Husk Ash (RHA) and Animal Bone Powder (ABP) to 
+assess sustainable advantages in construction, focusing 
+on resource conservation, waste management, environ-
+mental impact, energy efficiency, and cost reduction. By 
+substituting cement with RHA and ABP, limestone con-
+sumption is reduced, supporting resource conservation 
+and sustainability. RHA, typically used in landfills, de-
+composes slowly and offers limited ecological benefits, 
+while ABP, rich in calcium oxide, can be managed more 
+effectively as a binding agent, reducing solid waste is-
+sues. Environmentally, using RHA and ABP as partial ce-
+ment replacements decreases carbon emissions from ce-
+ment production, lessening greenhouse gases. Lower ce-
+ment demand conserves energy, while the local availa-
+bility and low cost of RHA and ABP help to minimize con-
+struction expenses. This research thus presents RHA and 
+ABP as viable, sustainable alternatives to traditional ce-
+ment in construction. 
+ 
+3. Materials and Method 
+3.1. Experimental materials 
+To get desired quality of silica from RHA it needs to 
+burn at the temperature of 700 °C to 800 °C. Fresh rice 
+husk cannot deliver silicious material required for devel-
+oping proper chemical bond. 
+Animal Bone contains calcium which is required to 
+transform as calcium oxide. So, it is required to apply 
+heat about 300 °C to 400 °C. Applying heat also helps to 
+remove biological organism. 
+3.1.1.  Rice husk ash processing 
+RHA is frequently utilized as a supplemental cementi-
+tious material (SCM) in concrete applications to partially 
+replace portland cement. RHA is rich in silica which acts 
+as pozzolanic compound that can chemically react with 
+calcium hydroxide (Ca(OH)₂) in the presence of water. 
+Calcium hydroxide generated during cement hydration, 
+resulting in the formation of more calcium silicate hydrate 
+(C-S-H) gel. This procedure lowers the heat of hydration 
+and the possibility of an alkali-silica reaction (ASR) while 
+also increasing the concrete's strength, durability, and 
+chemical resistance. Because RHA is a byproduct of the 
+combustion and rice milling processes, it reduces waste 
+and greenhouse gas emissions, making it an environmen-
+tally beneficial substance. The application of this material 
+in building processes promotes environmentally friendly 
+building practices and efficient use of resources. 
+After collection of raw rice husk, it was heated at 700 °C 
+to 800 °C in gas furnace. Then it was sieved through #100 
+sieve to mix with cement for mix design. Silicon was the 
+main element after oxygen in RHA. The chemical composi-
+tion of the utilized rice husk ash is provided in Table 3. 
+Processed rice husk ash is shown in Fig. 1 and chemi-
+cal analysis test result is presented in Fig. 2 which was 
+conducted in JCM-6000PLUS machine. 
+Table 3. Chemical composition of the utilized RHA. 
+Element 
+Mass (%) 
+Atom (%) 
+O 
+70.99 
+81.27 
+Si 
+24.76 
+16.15 
+Na 
+0.13 
+0.10 
+Mg 
+1.98 
+1.49 
+S 
+0.18 
+0.10 
+Ca 
+0.17 
+0.08 
+Al 
+--- 
+--- 
+K 
+1.58 
+0.74 
+Fe 
+0.22 
+0.07 
+ 
+Fig. 1. Rice husk ash (RHA). 
+ 
+
+
+----- TABLE p3#1 -----
+
+ | Element |  |  | Mass (%) |  |  | Atom (%) | 
+ | O |  |  | 70.99 |  |  | 81.27 | 
+ | Si |  |  | 24.76 |  |  | 16.15 | 
+ | Na |  |  | 0.13 |  |  | 0.10 | 
+ | Mg |  |  | 1.98 |  |  | 1.49 | 
+ | S |  |  | 0.18 |  |  | 0.10 | 
+ | Ca |  |  | 0.17 |  |  | 0.08 | 
+ | Al |  |  | --- |  |  | --- | 
+ | K |  |  | 1.58 |  |  | 0.74 | 
+ | Fe |  |  | 0.22 |  |  | 0.07 | 
+
+===== PAGE 4 =====
+
+4 
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+ 
+     
+ 
+(a) EDS test result  
+ 
+ 
+ 
+ 
+         (b) EDS test graph 
+Fig. 2. Chemical analysis of rice husk ash (instrument: JCM-6000PLUS).
+3.1.2. Animal bone powder processing 
+Animal bones are processed and pulverized into a fine 
+powder, which is known as animal bone powder. Usu-
+ally, to make it, animal bones are cleaned, dried, and 
+burned to remove biological materials. Then, the bones 
+are ground into a fine powder. Animal bone powder is a 
+significant addition to a variety of industries, including 
+agriculture, animal feed, and construction materials. It is 
+rich in minerals including calcium and phosphorus. Ani-
+mal bone powder has the potential to provide ad-
+vantages including increased strength and durability 
+when used in place of some of the cement in concrete 
+mixes. 
+After collection of ABP, it was sun-dried for 2 to 3 
+days. Then it was grounded through grinding machine 
+and made smaller pieces of size. It was further grounded 
+and sieved into powdered consistency. Next it was 
+heated 300 °C to 400 °C to remove biological organism 
+and calcinated. Then it was sieved again to mix with ce-
+ment for mix design. The chemical composition of the an-
+imal bone powder is provided in Table 4. 
+Table 4. Chemical composition of the ABP. 
+Element 
+Mass (%) 
+Atom (%) 
+O 
+68.43 
+83.60 
+Ca 
+27.93 
+13.62 
+Na 
+0.48 
+0.41 
+Mg 
+1.32 
+1.06 
+Al 
+0.75 
+0.54 
+Si 
+1.09 
+0.76 
+K 
+--- 
+--- 
+Fe 
+--- 
+--- 
+ 
+Processed animal bone powder is shown in Fig. 3 and 
+chemical analysis test result is presented in Fig. 4 which 
+was conducted in JCM-6000PLUS machine. 
+3.1.3. Cement 
+Cement, a hydraulic binder, or finely powdered inor-
+ganic components combined with water to create a paste 
+that sets and hardens through hydration reactions and 
+processes and maintains its strength and stability even 
+in the presence of water (Atiş and Karahan 2009). 
+All 27 cement family products covered by EN 197-1 
+(2011) are further categorized into five primary cement 
+types. For this study CEM-I/BM (Ordinary Portland Ce-
+ment (OPC)) was used and collected from the concrete 
+laboratory of Civil Engineering Department, RUET, 
+Rajshahi. 
+3.1.4. Sand 
+The key component of concrete made of crushed 
+stone or natural sand is fine aggregate. They were mostly 
+utilized to close in spaces left by the coarse aggregate. 
+Sand of FM (2.36) was utilized for this project's fine ag-
+gregate. 
+3.1.5. Coarse aggregate 
+As natural crushed stone that was passed through 
+19.0 mm sieve and retain on 12.7 mm sieve was em-
+ployed in this project (as per ASTM C136 2005). 
+ 
+Fig. 3. Animal bone powder (ABP). 
+ 
+
+
+----- TABLE p4#1 -----
+
+Element | Mass (%) | Atom (%)
+O | 68.43 | 83.60
+Ca | 27.93 | 13.62
+Na | 0.48 | 0.41
+Mg | 1.32 | 1.06
+Al | 0.75 | 0.54
+Si | 1.09 | 0.76
+K | --- | ---
+Fe | --- | ---
+
+===== PAGE 5 =====
+
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+5
+ 
+     
+ 
+(a) EDS test result  
+ 
+ 
+ 
+ 
+         (b) EDS test graph 
+Fig. 4. Chemical analysis of animal bone powder (instrument: JCM-6000PLUS).
+3.2. Sample preparations 
+3.2.1. Specimen size 
+A total of 9 types of composition were created using 
+batched by weight method for conducting two tests, 
+each of the compositions had different amounts of ABP 
+and RHA by replacing fine aggregate. Before mixing, the 
+various components of concrete are typically propor-
+tioned by weight or volume, a process known as batch-
+ing. According to this study, the most often utilized 
+technique for producing concrete in Bangladesh and 
+the majority of developing countries is batching by 
+weight. 
+The unit weight of each concrete specimen was meas-
+ured after 28 days curing in SSD condition. Table 5 pro-
+vides an overview of all experimental parameters and 
+displays the entire experimental schedule.
+Table 5. Experimental parameters for the test specimens. 
+Test name 
+Specimen size (cylindrical) 
+Curing ages 
+Compressive strength test 
+100 mm x 200 mm 
+28 days 
+Water permeability test 
+100 mm x 200 mm 
+28 days 
+3.2.2. Concrete mixing and casting 
+Cylinders (100mm diameter x 200mm height) for 
+compressive strength and water permeability test. For 
+every combination, 3 cylindrical samples were prepared 
+for compression test as well as for water permeability 
+test. For mixing from 12.7 mm to 19 mm size of NCA 
+were used. 
+9 types of concrete mix were prepared replacing Ce-
+ment (by weight) with different proportion of ABP and 
+RHA. The mix proportions of different compositions of 
+ABP and RHA with their water cement ratio are de-
+scribed in Table 6. 
+Before casting the NCA was soaked in water for 24 
+hours then dried in room temperature for SSD condition. 
+All the specimens were casted according to ASTM C39 
+(2021). After the mixing the slump value of each mix was 
+noted. Test specimens were completed with a steel 
+trowel after casting. Every test specimen was kept in 
+storage for 24 hours. Then the casing of each cylindrical 
+sample was removed. The preparation of concrete cylin-
+ders and the slump value test are shown in Figs. 5 and 6.
+Table 6. Different compositions of ABP and RHA. 
+Combination 
+ABP 
+RHA 
+Cement (OPC) 
+W/C ratio 
+1 
+0% 
+0% 
+100% 
+0.5 
+2 
+0% 
+5% 
+95% 
+0.5 
+3 
+0% 
+10% 
+90% 
+0.5 
+4 
+5% 
+0% 
+95% 
+0.5 
+5 
+5% 
+5% 
+90% 
+0.5 
+6 
+5% 
+10% 
+85% 
+0.5 
+7 
+10% 
+0% 
+90% 
+0.5 
+8 
+10% 
+5% 
+85% 
+0.5 
+9 
+10% 
+10% 
+80% 
+0.5 
+
+
+----- TABLE p5#1 -----
+
+ | Test name |  |  | Specimen size (cylindrical) |  |  | Curing ages | 
+ | Compressive strength test |  |  | 100 mm x 200 mm |  |  | 28 days | 
+ | Water permeability test |  |  | 100 mm x 200 mm |  |  | 28 days | 
+
+----- TABLE p5#2 -----
+
+ | Combination |  |  | ABP |  |  | RHA |  |  | Cement (OPC) |  |  | W/C ratio | 
+ | 1 |  |  | 0% |  |  | 0% |  |  | 100% |  |  | 0.5 | 
+ | 2 |  |  | 0% |  |  | 5% |  |  | 95% |  |  | 0.5 | 
+ | 3 |  |  | 0% |  |  | 10% |  |  | 90% |  |  | 0.5 | 
+ | 4 |  |  | 5% |  |  | 0% |  |  | 95% |  |  | 0.5 | 
+ | 5 |  |  | 5% |  |  | 5% |  |  | 90% |  |  | 0.5 | 
+ | 6 |  |  | 5% |  |  | 10% |  |  | 85% |  |  | 0.5 | 
+ | 7 |  |  | 10% |  |  | 0% |  |  | 90% |  |  | 0.5 | 
+ | 8 |  |  | 10% |  |  | 5% |  |  | 85% |  |  | 0.5 | 
+ | 9 |  |  | 10% |  |  | 10% |  |  | 80% |  |  | 0.5 | 
+
+===== PAGE 6 =====
+
+6 
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+ 
+     
+ 
+Fig. 5. Mixing of concrete for casting: (a) Mixing dry ingredient; (b) Adding water with mix.
+ 
+Fig. 6. Measuring the slump value of the concrete mix. 
+3.2.3. Curing procedure 
+The pond method of curing was used in which the cy-
+lindrical sample were totally immersed in water 
+throughout the curing period. After being cured in water 
+for 28 days, the specimens were removed, and a cutting 
+machine was used to smooth the cylinder's top and bot-
+tom surfaces. Cutting process and curing of concrete (af-
+ter smoothing) is shown in Fig. 7. 
+3.3. Test methods 
+3.3.1. Standards for tests 
+In this investigation, batched by weight have been 
+adopted as the most commonly used method in concrete 
+production in Bangladesh and most developing nations 
+(Table 7).
+     
+ 
+Fig. 7. (a) Cutting of specimen; (b) Ponding method for curing of specimen. 
+Table 7. Standards for tests. 
+Test name 
+Standards 
+Compressive strength test 
+ASTM C39 (2021) 
+Water permeability test 
+IS 516 (2018) 
+ 
+(a) 
+(b) 
+(b) 
+(a) 
+
+
+----- TABLE p6#1 -----
+
+Test name | Standards
+Compressive strength test | ASTM C39 (2021)
+Water permeability test | IS 516 (2018)
+
+===== PAGE 7 =====
+
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+7
+ 
+  
+3.3.2. Unit weight of sample 
+After the curing process, the sample was removed 
+from the water and allowed to dry at ambient tempera-
+ture for half an hour in order to remove any remaining 
+water from the cylinder. The sample was weighed in a 
+balance and the weight was noted in order to assess the 
+sample's unit weight or density. Load measurement was 
+done in weight machine which is shown in Fig. 8. 
+The unit weight or density of the sample is carried by 
+Eq. (1).  
+𝜌= 𝑀
+𝑉 
+(1) 
+where M is the mass or weight, and V is the volume of the 
+sample. 
+ 
+Fig. 8. The load-measuring method of the test specimen. 
+3.3.3. Compressive strength test 
+Compression strength is the ability of concrete to bear 
+loads applied to it without breaking or deflecting. It is 
+possible to evaluate compression strength while adher-
+ing to multiple codes, including IS 516 (2018), BS EN 
+12390-3 (2019), and ASTM C39 (2021). The compres-
+sion test was carried out in this work, per ASTM C-39 
+(2021). The compressive strength of the cylindrical 
+specimens was determined using a 2000kN compression 
+machine. The samples were added one at a time. The 
+specimen's composition was recorded before to apply-
+ing load, and the highest load the specimen could with-
+stand was subsequently noted. Eq. (2) determines the 
+concrete cylinder's ultimate compressive strength after 
+28 days of curing. 
+𝑓= 𝐹
+𝐴 
+(2) 
+where F is the recorded load, and A is the cross sectional 
+area of the cylindrical specimen. 
+The ASTM C39 (2021) test technique involves placing 
+concrete cylinders under a compressive axial load at a 
+rate that stays within a specified range until failure hap-
+pens. The specimen's compressive strength is deter-
+mined by dividing the maximum load reached by the 
+specimen's cross-sectional area. This shows the sample 
+both during and after the compression test, as well as the 
+testing apparatus used for the test. It also indicates the 
+sample's failure pattern. Fig. 9 shows the breaking of 
+mould during compressive strength test.
+     
+ 
+Fig. 9. Sample during compressive strength test.
+3.3.4. Water permeability test 
+Before testing, the specimens were removed from the 
+curing environment and allowed to equilibrate to room 
+temperature. Surface irregularities or imperfections was 
+carefully smoothed or corrected to ensure uniform con-
+tact with testing equipment. The water permeability test 
+apparatus typically consists of a chamber or container 
+capable of holding the specimen, along with a water sup-
+ply system and pressure monitoring equipment. The cy-
+lindrical concrete specimen is securely placed in the test-
+ing apparatus, ensuring that there are no leaks or gaps 
+(a) 
+(b) 
+
+
+===== PAGE 8 =====
+
+8 
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+ 
+between the specimen and the apparatus walls. Water is 
+then applied to one side of the concrete specimen under 
+controlled pressure. This pressure simulates the hydrau-
+lic head or hydrostatic pressure that the concrete would 
+experience in service conditions. The pressure is gradu-
+ally increased until it reaches the desired level for test-
+ing. It was 5 kg/sq.mm for this test procedure. Then the 
+specimens were brought out and sent to UTM for split 
+testing. After splitting, the depth of water entered into 
+the concrete specimen is measured in millimeter scale. 
+Fig. 10 presents the water permeability testing ma-
+chine and Fig. 11 shows the procedure of different steps 
+during conducting of the water permeability test. 
+ 
+4. Results and Discussion 
+All the data that are found from strength test and per-
+meability test, workability test, unit weight test are orga-
+nized here in different tables. Analyzing these data, the 
+effectiveness of our experiment is discussed based on 
+test results.  
+ 
+ 
+Fig. 10. Water permeability testing machine.
+     
+ 
+     
+ 
+Fig. 11. Water permeability test procedure: (a) Specimen placing; (b) Splitting; (c) Marking; (d) Measuring. 
+ 
+(a) 
+(b) 
+(c) 
+(d) 
+
+
+===== PAGE 9 =====
+
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+9
+ 
+4.1. Workability 
+Table 8 provides an overview of the specimen’s slump 
+value. Here the results for 5%B-5%R slump value is the 
+best match for the purpose of the research. 
+From Table 8 and Fig. 12, workability is observed to 
+increase as the percentage of animal bone powder in 
+concrete rises, but it decreases when the percentage of 
+rice husk ash in concrete increases. It is due to the rice 
+husk ash is a siliceous material which can increase the 
+bond strength in cement to make bond and harden 
+faster. On the other hand, animal bone powder contains 
+CaO that will tend to make strong chemical bond that 
+shows higher slump value.  
+Therefore, presence of excess amount of ABP can in-
+crease workability but excess RHA decreases workabil-
+ity. RHA and ABP also worked as filler materials in con-
+crete by filling voids between coarse and fine aggregates, 
+leading to improved density and reduced porosity. 
+ 
+Table 8. Slump values of different concrete mixes. 
+Concrete mix 
+Slump value (mm) 
+0%B-0%R 
+76 
+5%B-0%R 
+79 
+0%B-5%R 
+73 
+5%B-5%R 
+74 
+0%B-10%R 
+69 
+10%B-0%R 
+82 
+10%B-5%R 
+81 
+5%B-10%R 
+83 
+10%B-10%R 
+86 
+B: Animal bone powder; R: Rice husk ash 
+ 
+Fig. 12. Workability of concrete with the partial replacement of cement by ABP and RHA.
+4.2. Unit weight 
+Table 9 provides the results that 5%B-5%R weight 
+value is the best match for the purpose of the research. 
+From Table 9 and Fig. 13, it was observed that specific 
+weight decreases with the increment of RHA and ABP. 
+The unit weight decreases more when ABP is used as a 
+partial replacement. We can come to a decision that unit 
+weight of RHA is more than ABP and it reduces the 
+weight of the structure. 
+4.3. Compressive strength 
+The test for compressive strength complies with the 
+code that was previously covered in the above chapter. 
+Table 10 provides the results that 5%B-5%R compres-
+sive strength value is the best match for the purpose of 
+the research. 
+ 
+Table 9. Unit weight of cylindrical concrete specimens. 
+Concrete mix 
+Unit weight (g/cm3) 
+0%B-0%R 
+2.409 
+5%B-0%R 
+2.318 
+0%B-5%R 
+2.367 
+5%B-5%R 
+2.373 
+0%B-10%R 
+2.369 
+10%B-0%R 
+2.271 
+10%B-5%R 
+2.245 
+5%B-10%R 
+2.241 
+10%B-10%R 
+2.255 
+ 
+ 
+76
+79
+73
+74
+69
+82
+81
+83
+86
+60
+65
+70
+75
+80
+85
+90
+0B-0R
+5B-0R
+0B-5R
+5B-5R
+0B-10R
+10B-0R
+10B-5R
+5B-10R
+10B-10R
+Slump Value
+Combination
+
+
+----- TABLE p9#1 -----
+
+Concrete mix | Slump value (mm)
+0%B-0%R | 76
+5%B-0%R | 79
+0%B-5%R | 73
+5%B-5%R | 74
+0%B-10%R | 69
+10%B-0%R | 82
+10%B-5%R | 81
+5%B-10%R | 83
+10%B-10%R | 86
+
+----- TABLE p9#2 -----
+
+Concrete mix | Unit weight (g/cm3)
+0%B-0%R | 2.409
+5%B-0%R | 2.318
+0%B-5%R | 2.367
+5%B-5%R | 2.373
+0%B-10%R | 2.369
+10%B-0%R | 2.271
+10%B-5%R | 2.245
+5%B-10%R | 2.241
+10%B-10%R | 2.255
+
+===== PAGE 10 =====
+
+10 
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+ 
+ 
+Fig. 13. Unit weight of different concrete mix with RHA and ABP (28 days of age).
+Table 10 and Fig. 14 demonstrates that as the amount 
+of RHA and ABP replacement for cement increases, the 
+compressive strength of concrete after 28 days of curing 
+increases for some combination and then decreases for 
+other combination. This may be due to when RHA and 
+ABP is sufficient amount to react and make C-S-H gel 
+then strength increases and when it is much more then 
+strength decreases. 
+Minimum concrete strength for structural application 
+of reinforced concrete must be 20 N/mm2. However, for 
+structures up to 4 story, the minimum concrete strength 
+may be decreased to 17 N/mm2 (BNBC 2020). 
+According to this code, we can use the combination of 
+5%B-5%R and 0%b-5%R for the sufficient strength and 
+5%B-0%R AND 0%B-10%R for the low strength con-
+crete. Other combination can be used for the light weight 
+structure. 
+Table 10. Variation of compressive strength of concrete 
+replacing cement with ABP and RHA. 
+Concrete mix 
+Avg. comp. strength (MPa) 
+0%B-0%R 
+21.73 
+5%B-0%R 
+19.47 
+0%B-5%R 
+22.25 
+5%B-5%R 
+22.87 
+0%B-10%R 
+17.66 
+10%B-0%R 
+14.31 
+10%B-5%R 
+15.22 
+5%B-10%R 
+15.76 
+10%B-10%R 
+13.51 
+ 
+Fig. 14. Compressive strength of different concrete mix after 28 days curing. 
+ 
+2.409
+2.318
+2.367
+2.373
+2.369
+2.271
+2.245
+2.241
+2.255
+2.20
+2.25
+2.30
+2.35
+2.40
+2.45
+0B-0R
+5B-0R
+0B-5R
+5B-5R
+0B-10R
+10B-0R
+10B-5R
+5B-10R
+10B-10R
+Load (MPa)
+Combination
+21.73
+19.47
+22.25
+22.87
+17.66
+14.31
+15.22
+15.76
+13.51
+12
+14
+16
+18
+20
+22
+24
+0B-0R
+5B-0R
+0B-5R
+5B-5R
+0B-10R
+10B-0R
+10B-5R
+5B-10R
+10B-10R
+Load (MPa)
+Combination
+
+
+----- TABLE p10#1 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ | 2.318 |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p10#2 -----
+
+Concrete mix | Avg. comp. strength (MPa)
+0%B-0%R | 21.73
+5%B-0%R | 19.47
+0%B-5%R | 22.25
+5%B-5%R | 22.87
+0%B-10%R | 17.66
+10%B-0%R | 14.31
+10%B-5%R | 15.22
+5%B-10%R | 15.76
+10%B-10%R | 13.51
+
+----- TABLE p10#3 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 11 =====
+
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+11
+ 
+4.4. Water permeability 
+The test for water permeability complies with the 
+code that was previously covered in the above chapter. 
+Table 11 provides the results that 5%B-5%R permeabil-
+ity value is the best match for the purpose of the re-
+search. RHA and ABP is sufficient amount to react and 
+make C-S-H gel then permeability decreases and when it 
+is much more then permeability decreases which is 
+shown in Table 11 and Fig. 15. 
+4.5. Combined effect of permeability and strength 
+From Table 12 and Fig. 16, it can be seen that as the 
+RHA and ABP both are used up to 5% the strength and 
+permeability increases. When the amount goes beyond 
+that then the compressive strength and the permeability 
+usually decreases. For some specific and special cases, 
+we can use the low permeable and low strength con-
+crete. For the replacement of both 5%, we get the most 
+impressive result. 
+Table 11. Variation of water permeability of concrete 
+replacing cement with ABP and RHA. 
+Concrete mix 
+Avg. permeability (mm) 
+0%B-0%R 
+9.1 
+5%B-0%R 
+8.9 
+0%B-5%R 
+8.2 
+5%B-5%R 
+7.4 
+0%B-10%R 
+9.5 
+10%B-0%R 
+10.2 
+10%B-5%R 
+11.5 
+5%B-10%R 
+10.9 
+10%B-10%R 
+13.2 
+ 
+Fig. 15. Water permeability of different concrete mix after 28 days curing. 
+Table 12. Combined result of replacing cement with RHA and ABP. 
+Concrete mix 
+Avg. comp. strength (MPa) 
+Avg. permeability (mm) 
+0%B-0%R 
+21.73 
+9.1 
+5%B-0%R 
+19.47 
+8.9 
+0%B-5%R 
+22.25 
+8.2 
+5%B-5%R 
+22.87 
+7.4 
+0%B-10%R 
+17.66 
+9.5 
+10%B-0%R 
+14.31 
+10.2 
+10%B-5%R 
+15.22 
+11.5 
+5%B-10%R 
+15.76 
+10.9 
+10%B-10%R 
+13.51 
+13.2 
+9.1
+8.9
+8.2
+7.4
+9.5
+10.2
+11.5
+10.9
+13.2
+6
+7
+8
+9
+10
+11
+12
+13
+14
+0B-0R
+5B-0R
+0B-5R
+5B-5R
+0B-10R
+10B-0R
+10B-5R
+5B-10R
+10B-10R
+Permeability (mm)
+Combination
+
+
+----- TABLE p11#1 -----
+
+Concrete mix | Avg. permeability (mm)
+0%B-0%R | 9.1
+5%B-0%R | 8.9
+0%B-5%R | 8.2
+5%B-5%R | 7.4
+0%B-10%R | 9.5
+10%B-0%R | 10.2
+10%B-5%R | 11.5
+5%B-10%R | 10.9
+10%B-10%R | 13.2
+
+----- TABLE p11#2 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | 8.2 |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | 7.4 |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p11#3 -----
+
+Concrete mix | Avg. comp. strength (MPa) | Avg. permeability (mm)
+0%B-0%R | 21.73 | 9.1
+5%B-0%R | 19.47 | 8.9
+0%B-5%R | 22.25 | 8.2
+5%B-5%R | 22.87 | 7.4
+0%B-10%R | 17.66 | 9.5
+10%B-0%R | 14.31 | 10.2
+10%B-5%R | 15.22 | 11.5
+5%B-10%R | 15.76 | 10.9
+10%B-10%R | 13.51 | 13.2
+
+===== PAGE 12 =====
+
+12
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+Fig. 16. Combined effect of ABP and RHA concrete mix after 28 days curing.
+In consideration with the literature review, it can be 
+seen that in these two different tests conducted for RHA 
+and ABP separately the strength is higher up to 5%, 
+sometimes up to 10% replacement of the materials. Per-
+meability decreases for the increase of RHA but increase 
+for the increment of ABP. However, in this experiment 
+both the ingredient has been mixed and the result found 
+for the 5% RHA and 5% ABP provides the best result in 
+terms of strength and permeability.   
+5. Conclusions
+The analysis focused on the compressive strength and 
+water permeability of the replacement of ABP and RHA 
+in some portion of cement, examining the result with 
+varying percentage of ABP and RHA (0%, 5%, 10%). The 
+samples exhibited the following characteristics: 
+Compared to a concrete cylinder the compressive
+strength of concrete, 5% RHA and 5%ABP-5%RHA
+curing for 28 days, yielding values of 22.25 MPa, 22.87
+MPa respectively. These recorded compressive
+strengths represent the average maximum strengths
+achieved in the study.
+Compared to a concrete cylinder permeability of con-
+crete, with the incorporation of cement by at the com-
+bination RHA and ABP of preferred percentages of
+5%ABP-0%RHA, 0%ABP-5%RHA, 5% ABP-5% RHA
+at 28 days, resulting in 8.9mm, 8.2mm, 7.4mm respec-
+tively. The recorded results show that increase in
+compressive strength decreases in permeability.
+Compared to unit weight, the unit weight gradually de-
+creases as the combination of RHA and ABP increases.
+From the test result it is observed that unit weight of
+the concrete containing RHA relatively higher than
+concrete containing ABP. The workability decreases
+with the reduction of the amount of the cement.
+By testing the cylindrical specimen containing RHA
+and ABP we can observe that the compressive strength 
+of concrete containing 5% RHA and 5% ABP increases by 
+more than 3% than that of contain cement. For the spec-
+imen that contain only 5% RHA increases the strength by 
+more than 2.5%. If we consider about the water perme-
+ability of concrete then the concrete specimens contain 
+only 5% RHA, only 5% ABP, 5% ABP-5% RHA improves 
+its permeability approximately by 2.20%, 9.89% and 
+18.68%. This phenomenon occurs when the ABP and 
+RHA construct C-S-H gel that is liable for the larger com-
+pressive strength. Larger C-S-H gel helps to restrict the 
+water permeability. RHA also works as a finer filler par-
+ticle. That also helps to minimize the porous structure of 
+the concrete leads to less permeability. When the more 
+partial material is added then the strength decreases due 
+to insufficient amount of reactant is present for proper 
+chemical reaction. That also leads to the make the struc-
+ture more porous leads to more permeable to water. 
+Due to limitation of time the study was concluded 
+only with the observation of workability, unit weight, 
+compressive strength, permeability of concrete. Per-
+haps, the study can be further enriched with the follow-
+ing additional work: 
+Investigation of strength behavior of concrete using
+ABP and RHA in replacement of cement above 10-30
+percent by weight.
+Observation of the flexural behavior of concrete by
+split tensile test using ABP and RHA in replacement of
+cement up to a certain percentage.
+The test was performed for cylindrical specimen, but
+it can be also performed for cubical specimen.
+Further work should be done to cover rapid chloride
+penetration test, water absorption, freeze-thaw dura-
+bility and abrasion etc.
+Inspection of mechanical strength properties of con-
+crete using different properties such as silica fume, fly
+ash, ceramic particle, egg shale etc.
+Different water cement ratio can be used.
+Evaluation of concrete's durability and life cycle as-
+sessment with the addition of different combination
+of ABP and RHA seems they are environmentally
+friendly.
+21.73
+19.47
+22.25
+22.87
+17.66
+14.31
+15.22
+15.76
+13.51
+9.1
+8.9
+8.2
+7.4
+9.5
+10.2
+11.5
+10.9
+13.2
+5
+7
+9
+11
+13
+15
+17
+19
+21
+23
+25
+0B-0R
+5B-0R
+0B-5R
+5B-5R
+0B-10R
+10B-0R
+10B-5R
+5B-10R
+10B-10R
+Combination
+Strength 
+Permeability
+
+
+----- TABLE p12#1 -----
+
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+ |  | 
+
+===== PAGE 13 =====
+
+Mahmud et al. / Challenge Journal of Structural Mechanics (2025) 11(1) 1–13 
+13
+ 
+ 
+ 
+Acknowledgements 
+The authors would like to thank Md. Mahbubul Alam from Bengal 
+Meat Processing Industries Ltd. because of invaluable assistance in 
+providing some of raw materials for the research. 
+ 
+Funding 
+The authors received no financial support for the research, author-
+ship, and/or publication of this manuscript. 
+ 
+Conflict of Interest 
+The authors declared no potential conflicts of interest with respect to 
+the research, authorship, and/or publication of this manuscript.  
+ 
+Author Contributions 
+All of the authors made substantial contributions to conception and 
+design, or acquisition of data, or analysis and interpretation of data; 
+were involved in drafting the manuscript or revising it critically for im-
+portant intellectual content; and gave final approval of the version to be 
+published. 
+ 
+Data Availability 
+The datasets created and/or analyzed during the current study are 
+not publicly available, but are available from the corresponding author 
+upon reasonable request. 
+ 
+Ethics Approval and Consent to Participate 
+This study was approved by the ethics committee of Rajshahi Univer-
+sity of Engineering and Technology. All methods were performed in ac-
+cordance with relevant guidelines and regulations. 
+ 
+ 
+REFERENCES 
+ 
+AlBiajawi MI, Embong R, Muthusamy K (2021). An overview of the uti-
+lization and method for improving pozzolanic performance of ag-
+ricultural and industrial wastes in concrete. Materials Today Pro-
+ceedings, 48, 778–783. 
+Alex J, Dhanalakshmi J, Ambedkar B (2016). Experimental investiga-
+tion on rice husk ash as cement replacement on concrete produc-
+tion. Construction and Building Materials, 127, 353–362. 
+ASTM C39 (2021). Standard test method for compressive strength of 
+cylindrical concrete specimens. ASTM International, West Con-
+shohocken, PA. 
+ASTM C136 (2005). Standard test method for sieve analysis of fine and 
+coarse aggregates. ASTM International, West Conshohocken, PA. 
+Atiş CD, Karahan O (2008). Properties of steel fiber reinforced fly ash 
+concrete. Construction and Building Materials, 23(1), 392–399.  
+BNBC (2020). Minimum concrete strength. Bangladesh National Build-
+ing Code, Part VI, Chapter 5, 3428. Department of Housing and Pub-
+lic Works, Dhaka, Bangladesh. 
+BS EN 12390-3 (2019). Testing hardened concrete. Compressive 
+strength of test specimens. British Standards Institution, London, UK. 
+Canbaz M, Kara İ, Topçu İ (2021). Effect of high temperature on the me-
+chanical behavior of cement-bonded wood composite produced 
+with wood waste. Challenge Journal of Structural Mechanics, 7(1), 
+42–48. 
+Çelik Z, Turan E, Oltulu M, Öner G. (2024). Reinforcement of concrete 
+beams using waste carbon-nanoclay-fiberglass laminate pieces. 
+Challenge Journal of Concrete Research Letters, 15(1), 1–6. 
+Derki A, Akpınar P (2023). An overview on the hazards and handling 
+methods of construction and demolition wastes: Special focus on 
+recycled concrete aggregates. Challenge Journal of Concrete Re-
+search Letters, 14(4), 118–127. 
+Chopra D, Siddique R, Kunal N (2015). Strength, permeability and mi-
+crostructure of self-compacting concrete containing rice husk ash. 
+Biosystems Engineering, 130, 72–80. 
+Department of Livestock Services (2024). Livestock Economy at a 
+Glance. https://dls.portal.gov.bd/ [accessed 13-06-2024]. 
+EN 197-1 (2011). Cement - Part 1: Composition, specifications and con-
+formity criteria for common cements. European Committee for 
+Standardization, Brussels, Belgium. 
+Getahun, S., & Bewket, B. (2021). A Study on Effect of Partial Replace-
+ment of Cement by Cattle Bone Ash in Concrete Property. Jurnal 
+Teknik Lingkungan : Electronic Journal of Civil and Environmental 
+Engineering, 11(2), 1–6. 
+IS 516 (2018). Method of tests for strength of concrete. Bureau of In-
+dian Standards, New Delhi, India. 
+Jaya RP, Nor MAAM, Ahmad ZA, Amin ZM (2012). Properties of Mortar 
+containing rice husk ash at different temperature and exposed to 
+aggressive environment. Advanced Materials Research, 620, 87–
+93. 
+Khanal S (2021). System of Rice Intensification in Nepal: Determinant 
+Factors for Adoption, and Relevance to Climate Change. M.Sc. thesis, 
+Norwegian University of Life Sciences, Ås, Norway. 
+Knoema (2022). Bangladesh - Production of Beef and Buffalo Meat. 
+https://knoema.com/atlas/Bangladesh/topics/Agriculture/Live-
+Stock-Production-Production-Quantity/Production-of-beef-and-
+buffalo-meat [accessed 13-06-2024]. 
+Kordi M, Farrokhi N, Pech-Canul MI, Ahmadikhah A (2023). Rice husk 
+at a glance: from agro-industrial to modern applications. Rice Sci-
+ence, 31(1), 14–32. 
+Makebo GM (2019). Partial replacement of cement material in Ethiopia: 
+a review. International Research Journal of Engineering and Tech-
+nology, 6(10), 1002–1005. 
+Mymrin V, Pedroso DE, Pedroso C, Alekseev K, Avanci MA, Winter E, 
+Cechin L, Rolim PH, Iarozinski A, Catai RE (2017). Environmentally 
+clean composites with hazardous aluminum anodizing sludge, con-
+crete waste, and lime production waste. Journal of Cleaner Produc-
+tion, 174, 380–388. 
+Neville AM, Brooks JJ (1987). Concrete Technology. Longman Scientific 
+and Technical, Harlow, United Kingdom. 
+Petrounias P, Rogkala A, Giannakopoulou PP, Lampropoulou P, Xan-
+thopoulou V, Koutsovitis P, Koukouzas N, Lagogiannis I, Lykokanel-
+los G, Golfinopoulos A (2021). An innovative experimental petro-
+graphic study of concrete produced by animal bones and human 
+hair fibers. Sustainability, 13(14), 8107. 
+Ren D, Yan C, Duan P, Zhang Z, Li L, Yan Z (2016). Durability perfor-
+mances of wollastonite, tremolite and basalt fiber-reinforced me-
+takaolin geopolymer composites under sulfate and chloride attack. 
+Construction and Building Materials, 134, 56–66. 
+Scrivener KL, John VM, Gartner EM (2018). Eco-efficient cements: Po-
+tential economically viable solutions for a low-CO2 cement-based 
+materials industry. Cement and Concrete Research, 114, 2–26. 
+Şengel H, Kınık K, Erol H, Canbaz M (2022). Effect of waste steel tire 
+wired concrete on the mechanical behavior under impact loading. 
+Challenge Journal of Structural Mechanics, 8(4), 150–158. 
+Swaminathen AN, Kumar CV, Ravi SR, Debnath S (2021). Evaluation of 
+strength and durability assessment for the impact of rice husk ash 
+and metakaolin at high performance concrete mixes. Materials To-
+day Proceedings, 47, 4584–4591. 
+Teshome BB (2019). Investigating mechanical properties of animal 
+bone powder partially replaced cement in concrete production. In-
+ternational Journal of Scientific Research and Engineering Develop-
+ment, 2(6), 447–490. 
+Ulusu H, Aruntas HY, Gencel O (2016). Investigation on characteristics 
+of blended cements containing pumice. Construction and Building 
+Materials, 118, 11–19. 
+World Population Review (2024). World Population by Country 2024. 
+https://worldpopulationreview.com [accessed 13-06-2024]. 
+Zerbino R, Giaccio G, Isaia G (2010). Concrete incorporating rice-husk 
+ash without processing. Construction and Building Materials, 25(1), 
+371–378. 
+Zhao Y, Sun Y, Bu C, Cao X, Jiang Q, Zhu D (2022). Review on Application 
+of rice husk ash based concrete composite and preparation condi-
+tions of rice husk ash. Academic Journal of Architecture and Geotech-
+nical Engineering, 4(2), 7–11. 

@@ -1,0 +1,591 @@
+
+===== PAGE 1 =====
+
+ 
+11
+X
+October 2023
+ https://doi.org/10.22214/ijraset.2023.56100
+
+
+===== PAGE 2 =====
+
+ 
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 11 Issue X Oct 2023- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1056 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+Effect of Rice Husk Ash on the Properties of 
+Concrete 
+ 
+Sachin Singh1, Dr. Abhilash Shukla2 
+1Postgraduate Student, 2Professor, Department of Civil& Environmental  Engineering, ,MITS Gwalior 
+ 
+Abstract: As a binder for infrastructure development, conventional Portland cement is currently the primary material that is 
+used. However, cement production has a substantial impact on the environment, and many pozzolanic materials can reduce their 
+carbon footprint with conventional Portland cement. In this experimental study, replacement of OPC (ordinary portland cement) 
+is replaced with the ash produced from rice husk (An agricultural waste) and analyzed for durability and strength performance 
+in concrete samples and mortar as well as chemical composition analysis and microstructure observation of rice hull ash 
+according to X-ray differential test data were also conducted in the research analysis. it is produced by burning of husk 
+(produced by rice barley waste) of oxygen for the production of rice husk ash. Its chemical composition is rich in silicates and 
+aluminates which promotes the binding property of ordinary Portland cement and does not affect the IST(Initial setting time), 
+FST(Final setting time) and does not increase the fineness of the cement particles hence it gives significant results with cement 
+replacement. It was determined that 10% rice husk ash replacement was the optimum value for rice husk ash replacement based 
+on the strength and workability criteria of the concrete quality assurance system. 
+Keywords: RHA( Rice husk ash); Pozzolanic material; Mechanical Properties of recycled concrete ; Cement Replacement; 
+Durability analysis of the concrete. 
+ 
+I.      
+INTRODUCTION 
+Present world is the world of the development of infrastructure and society is growing in very fast manner very fast-growing manner 
+and concrete is the back bone of the present infrastructure it is second largest using material in construction after essential water , 
+concrete is made of four basic elements as water, cement fine and coarse aggregate where mortar (cement and water) is a major 
+source of increment of carbon footprint in the environment, in the other hand the use of cheaper, locally produced materials may 
+slow the growth in construction costs. Recycled products from manufacturing and agriculture can be used in construction. You can 
+find the right type of waste in the right amount in a landfill and use it to make concrete. A good example is rice husk. For example, 
+after grinding rice, the hulls remain and are considered agricultural waste. It was determined that the rice accounted for 80% of the 
+total mass of the rice and the hulls accounted for the remaining 20%. Manufacturing plants burn the shells to generate steam and 
+electricity. (Naveen, 2015) About 75% of rice hulls are biological material and the remaining 25% is ash, commonly known as rice 
+hull (RHA). At the turn of the century, cement and concrete manufacturers increased their spending on mineral additives. In some 
+cases, cement is being replaced as an alternative to keep up with the sky rocketing need of concrete say cement because need of 
+concrete organicaly raise demand of the cement. Significant cost savings can be achieved by replacing Portland cement with ligno-
+cellulosic. While landfilling or incinerating large amounts of trash are both bad for the environment, using by-products found to be a 
+promising choice. RHA is composed of amorphous silica (80-90%), potassium oxide (K2O) (1-2%), and sunburn carbon (the rest). 
+Mixing RHA with Portland cement is the same as using any other type of concrete. (Akeke, 2012) To know the peak value or 
+optimum alteration of the rice husk ash in the concrete at the place of the conventional Portland cement, we measured the concrete's 
+strength, fracture toughness, flexural modulus, and ultrasonic beam velocity. In its place, we used a range of percentages of Cement 
+Concrete (Grade 43) in place of ash from rice husks (2.5%, 5%, 7.5%, and 10%). The cement content, aggregates, or cement that 
+were incorporated into the design mix were subjected to a battery of biological and mechanical testing. Plasticizers (Polymer base, 
+1% by weight) make 0.45 water/cement concrete more manageable. Hardened concrete compression tests were performed after 7 
+and 28 days, according to the requirements of the relevant ARE standard. (Javed, 2018). 
+ 
+II.      
+INDIAN RICE HUSK ASH 
+India is a big producer of good quality rice therefore it also generate high amount of waste through rice paddy, in the world and 
+consequently generates large amounts of paddy waste. Paddy waste can be divided into two categories, straw, and husk, which have 
+serious environmental impacts. 
+
+
+----- TABLE p2#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1056
+
+===== PAGE 3 =====
+
+ 
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 11 Issue X Oct 2023- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1057 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+ 
+Image ( A) Paddy (B) Rice husk (C) Rice husk ash 
+ 
+Straw and husk are the most important by-products of rice cultivation in India. Rice straw is the stems, leaves, and hulls of rice 
+plants, which are often burned resulting in significant greenhouse gas emissions and air pollution. The burning of rice straw also 
+causes soil degradation, organic matter loss, and soil quality degradation. In addition, when the rice straw is burned, harmful 
+pollutants such as carbon monoxide, nitrogen oxide, and sulfurous acid gas are emitted, causing health problems such as difficulty 
+breathing. 
+On the other way , it is a protective coating on grain and is usually burned for energy. However, burning the shells releases large 
+amounts of carbon dioxide, a greenhouse gas that contributes to global warming. Additionally, the ash from burning rice hulls is 
+difficult to dispose of and poses a serious health and environmental hazard. 
+Therefore, it is urgent to turn waste from rice fields into valuable resources instead of burning them. Several innovative methods 
+have been proposed to achieve this objective, such as using rice straw as animal feed, composting, and generating electricity from 
+rice husks. For instance, rice straw can be used as fodder and feed for livestock, which can help farmers earn an additional income. 
+Farmers can also convert waste into valuable fertilizer by composting rice straw, which can help improve soil fertility. 
+In conclusion, waste from paddy fields in India leads to significant environmental and health implications, particularly through the 
+burning of straw and husk. However, if treated as a valuable resource, it can be used to generate income and improve farming 
+practices. Governments and stakeholders must invest in innovative methods and technologies for efficient waste management to 
+create a sustainable agricultural system in India. Rice paady and rice husk ratio is 5:1 , and rice husk to the ash produced by rice 
+husk is in the ration of the 5:1 hence 1kg paddy produce 40gm of rice husk ash. Rice husks are rice husks that might be grown to 
+become over for the duration of the rice husking process. a thousand kg of rice produces approximately two hundred kg of rice husk, 
+which whilst burned produces approximately forty kg of ash. Rice husks account for approximately one 5th of three hundred million 
+lots of rice produced with inside the international every year. I believe Mehta's report8, the modern annual manufacturing of rice is 
+ready 500 million lots, of which approximately one hundred million lots of rice husk is used as mill waste rice Rice husks also are 
+now no longer used as animal feed due to the fact they have got low dietary homes and their strangely hard floor is actually 
+undamaged and might motive actual melting problems. Short-time period combustion of rice husks at 500-600°C for two hours 
+produces a combustion residue containing unborn carbon and denatured silica 
+ 
+III.      THE OBJECTIVE OF THE RESEARCH 
+The objective of this qualitative research work is to determine the peak value of the cement replacement with conventional Indian 
+rice husk ash. 
+IS 10262:2019 code of concrete design is adopted for the design the concrete mix. 
+ 
+
+
+----- TABLE p3#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1057
+
+===== PAGE 4 =====
+
+ 
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 11 Issue X Oct 2023- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1058 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+Raw material tested for designing of concrete samples and verification of permissible criteria as per codal provision. 
+1) Cement- OPC 53 -grade cement is used for the blending point of view in this research work. 
+The following results are observed from the cement as- 
+ 
+Table 1 Mechanical parameters of  the OPC53 
+PROPERTY 
+TEST RESULTS 
+Normal consistency 
+29% 
+Initial Setting Time 
+68 minutes 
+Final Setting Time 
+160 minutes 
+Fitness of cement 
+( Air permeability) 
+2800 cm2/ gm 
+Soundness of cement 
+(Lee- chastely ) 
+2mm 
+(Autoclave expansion) 
+0.76% 
+Specific gravity 
+2.96% 
+Compressive Strength 
+ 
+7 days 
+33MPa 
+28 days 
+54  MPa 
+ 
+2) Rice Husk Ash- Ordinary rice husk ash is produced by incineration of the paddy (rice husk) in the presence of oxygen, RHA 
+sample is distributed in 5 subclasses on the basis of the particle size, the average density of the RHA is 1.58, 2.16, 1.76, 
+2.03,0.79 respectively. 
+Rice husk ash sample. 
+X-ray diffraction test(XRD) is conducted to determine the chemical know the properties of the materia(Rice husk ash)  
+Table-02  Chemical characters of the material 
+Chemical analyses, at % 
+Average of all samples  
+Silicondioxide (SiO2) 
+89.1120 
+Aluminiumoxide ( Al2O3) 
+00 
+Ferricoxide ( Fe2O3) 
+0.4140 
+Calciumoxide ( CaO) 
+1.6080 
+Magnesiumoxide( MgO) 
+0.0 
+Manganeseoxide (MnO) 
+0.7680 
+Sodiumoxide (Na2O) 
+0.0 
+Potassiumoxide ( K2O) 
+4.568.0 
+Other 
+3.740 
+ 
+
+
+----- TABLE p4#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1058
+
+===== PAGE 5 =====
+
+ 
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 11 Issue X Oct 2023- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1059 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+Table 3 Physical  Analysis of RHA 
+Parameters 
+Values 
+Fineness  
+95% 
+S.G 
+2.060 
+Bulk Density 
+718 Kg/m3 
+ 
+This value excludes large KCI crystals dispersed in the sample. 
+In this study, we employed rice husk ashes with a silica content of 84%-92%. Potassium, present at levels between 3% and 7%, was 
+the second most prevalent element in these swatches. The silica content of RHA is measured at anywhere from 79% to 94%. 
+ Mix Proportions- Concrete of 20MPa is prepared for this analysis work, the mix proportion of Mix of 20MPa Grade concrete is 
+1:1.50:3.0 as per IS10262:2019 recommendation.  
+ target mean strength of the concrete is 27MPa (M20 concrete) 
+ Preparation of test specimen- Concrete specimen made of partially replaced OPC of 53 grade with RHA as 10.0%, 15.0%, 20.0%, 
+25.0%, and 30.0%. 
+ The concrete specimen is prepared in the size of cubes of 15x15x15 cubic centimeters for justification of compressive strength and 
+beam for justification of tensile strength. 
+The nomenclature of the test specimen on the basis of the replacement of binding material is done as follows- 
+ 
+Table 4 Specimen sample nomenclature 
+Percentage of replacement 
+Code symbol 
+0% replacement  
+Control  
+10% replacement  
+C10 
+15% replacement  
+C15 
+20% replacement  
+C20 
+25% replacement  
+C25 
+30% replacement  
+C30 
+ 
+Workability- Workability is depend on the following factors as particle size of RHA and absorption and adsorption percentage of 
+water. 
+Rice husk ash has great water absorption hence workability indicating a falling trend with empirical relationship y = -2.114x + 38.4 
+( almost linearly ). 
+Table 5 workability results of the specimen 
+ Sample 
+Workability (Slump cone value in mm) 
+Control 
+39 
+C10 
+32 
+C15 
+31 
+C20 
+29 
+C25 
+28 
+C30 
+27 
+ 
+ 
+Figure 1  Workability results of samples 
+ 
+39 
+32 
+31 
+29 
+28 
+27 
+0
+50
+Control
+C10
+C15
+C20
+C25
+C30
+Slump cone value in mm 
+
+
+----- TABLE p5#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1059
+
+===== PAGE 6 =====
+
+ 
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 11 Issue X Oct 2023- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1060 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+Compressive strength- Concrete is enough strong to with stand  in compression and but can weak in tension stress therefore concrete 
+is mainly used for wearing compressive stress of the structure, therefore the optimum value of the RHA adulteration is depend on 
+the compressive strength behavior of the concrete, the concrete gives upward trend up to the optimum adulteration then lowering the 
+strength values as follows- 
+Table-6  Compressive strength results of the sample 
+ 
+7-days 
+14-days 
+28-days 
+Control 
+17.955 
+25.91 
+28.5 
+C10 
+18.9 
+27.27 
+30 
+C15 
+20.16 
+29.09 
+32 
+C20 
+20.79 
+30.00 
+33 
+C25 
+20.79 
+30.00 
+33 
+C30 
+18.27 
+26.36 
+29 
+ 
+ 
+Figure 2 Compressive strength of 7days, 14 days and 28days 
+ 
+Flexural strength- The flexural strength is a direct indicator of the tensile strength behavior which is conducted after 4 weeks as 
+follows 
+Table-7 Tensile strength results 
+ 
+flexural strength 
+(MPa) 
+Split tensile strength 
+(MPa) 
+Control 
+4.2 
+3.1 
+C10 
+4.27 
+3.1 
+C15 
+4.34 
+3.2 
+C20 
+4.34 
+3.2 
+C25 
+4.25 
+3.3 
+C30 
+4.2 
+3.1 
+ 
+ 
+Figure 3 Tensile strength results 
+ 
+0
+5
+10
+15
+20
+25
+30
+35
+7 days
+14 days
+28 days
+0
+1
+2
+3
+4
+5
+flexural strength
+Split tensile
+strength
+
+
+----- TABLE p6#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1060
+
+===== PAGE 7 =====
+
+ 
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 11 Issue X Oct 2023- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1061 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+IV.      CONCLUSION 
+1) There are Significant results are observed by applying rice husk ash in the concrete as fresh results and hard strength tests as 
+well. 
+2) Workability is decreasing linearly with respect to rice husk ash adulteration due to high water absorption and porosity of rice 
+husk ash, but workability results are under the range of the permissible value according to Indian standards. 
+3) Significant change in compressive quality is watched up to 25% substitution of cement with rice husk ash, ideal increment in 
+quality is +25.26% in 4 week quality. 
+4) Flexural strength and split tensile strength also give significant positive changes up to 20% adulteration of the cement with rice 
+husk ash. 
+5) An optimum value of rice husk utilization in this research analysis is 25% observed on the basis of compressive strength results. 
+ 
+ 
+REFERENCES 
+[1] 
+Abalaka, A. E., & Okoli, O. G. (2013). Comparative effects of air and water curing on concrete containing optimum rice husk ash replacement. Journal of 
+Emerging Trends in Engineering and Applied Sciences, 4(1), 1–3. 
+[2] 
+Abd-Ali, M. S., & Kadhim, S. J. (2020). Experimental study on influence of Iraqi rice husk ash as supplementary material on the performance of concrete. IOP 
+Conference Series: Materials Science and Engineering,870(1).https://doi.org/10.1088/1757-899X/870/1/012050 
+[3] 
+Abdurrahman, H., Qoryati, M., Olivia, M., & Olivia, M. (2019). Properties of concrete using crumb rubber and rice husk ash as additive for rigid pavement 
+material in peat environment. MATEC Web of Conferences, 276, 01020. https://doi.org/10.1051/matecconf/201927601020 
+[4] 
+Ahmed, M. M., Ibrahim, M., & Chandra, P. S. (2018). Study and Analysis on Use of Rice Husk Ash in Rigid Pavements. International Journal of Innovative 
+Research in Science, 2Engineering and Technology, 7(2), 1–10. 
+[5] 
+Ajiwe, V. I. E., Okeke, C. A., & Akigwe, F. C. (2000). A preliminary study of manufacture of cement from rice husk ash. Bioresource Technology, 73(1), 37–
+39. https://doi.org/10.1016/S0960-8524(99)00135-2 
+[6] 
+Akeke, G. A. (2012). concrete with rice husk ash as partial replacement of ordinary Portland cement. ResearchGate. 
+[7] 
+Amanullah, & Fahad, S. (2017). Soil Stabilization with Rice Husk Ash. 
+[8] 
+Amin, M., & Abdelsalam, B. A. (2019). Efficiency of rice husk ash and fly ash as reactivity materials in sustainable concrete. Sustainable Environment 
+Research, 1(1). https://doi.org/10.1186/s42834-019-0035-2 
+[9] 
+AN, S. (2018). Experimental study on strength and durability characteristics of high performance concrete using metakaolin and rice husk ash. Anna 
+University. 
+[10] Andreola, F., Martín, M. I., Ferrari, A. M., Lancellotti, I., Bondioli, F., Rincón, J. M., Romero, M., & Barbieri, L. (2013). Technological properties of glass-
+ceramic tiles obtained using rice husk ash as silica precursor. Ceramics International, 39(5), 5427–5435. https://doi.org/10.1016/j.ceramint.2012.12.050 
+[11] Annadurai, S., Rathinam, K., & Kanagarajan, V. (2020). Development of eco-friendly concrete produced with Rice Husk Ash (RHA) based geopolymer. 
+Advances in Concrete Construction, 9(2), 139–147. https://doi.org/10.12989/acc.2020.9.2.139 
+[12] Ayegba, C. (2013). Strength Characteristics of Concrete made with Rice Husk Ash as Partial. International Journal of Engineering Research and Technology, 
+2(8), 266–276. 
+[13] Babaso, P. N., & Sharanagouda, H. (2017). Rice Husk and Its Applications: Review. International Journal of Current Microbiology and Applied Sciences, 
+6(10), 1144–1156. https://doi.org/10.20546/ijcmas.2017.610.138 
+[14] Bangwar, D. K., & Keerio, M. A. (2017). Improvement of Mechanical Properties of Concrete with Rice Husk Ash. International Journal of Scientific & 
+Engineering Research2, 8(3), 1254–1260. 
+[15] Begum, R., Habib, A., & Mostafa, S. (2014). Effects of Rice Husk Ash on the Non Autoclaved Aerated Concrete. International Journal of Engineering 
+Innovation & Research, 3(1), 1–9. 
+[16] Behak, L. (2017). Soil Stabilization with Rice Husk Ash. In Rice - Technology and Production. https://doi.org/10.5772/66311 
+[17] Behak, L., & Núñez, W. P. (2013). Effect of burning temperature on alkaline reactivity of rice husk ash with lime. Road Materials and Pavement Design, 14(3), 
+570–585. https://doi.org/10.1080/14680629.2013.779305 
+[18] Bheel, N., keerio, M. A., Kumar, A., Shahzaib, J., Ali, Z., Ali, M., & sohu, S. (2022). An Investigation on Fresh and Hardened Properties of Concrete Blended 
+with Rice Husk Ash as Cementitious Ingredient and Coal Bottom Ash as Sand Replacement Material. Silicon, 14(2), 677–688. https://doi.org/10.1007/s12633-
+020-00906-3 
+[19] Bosco, N. J. (2017). PARTIAL REPLACEMENT OF CEMENT WITH RICE HUSK ASH AND GROUND GRANULATED BLAST FURNACE SLAG IN 
+SCC. 
+[20] Brown, D. K. (2012). Unprocessed Rice Husk Ash as a Partial Replacement of Cement for Low-Cost Concrete. 
+[21] Casnan, Purnawan, Noor, E., Hardjomidjojo, H., Irzaman, Rohaeti, E., & Kurniawan, A. (2021). Structural and electrical properties of silica materials from rice 
+husks. ASEAN Journal on Science and Technology for Development, 38(2), 67–71. https://doi.org/10.29037/ajstd.697 
+[22] Dorothy 
+Kamilah 
+Brown. 
+(2012). 
+Unprocessed 
+Rice 
+Husk 
+Ash 
+as 
+a 
+Partial 
+Replacement 
+of 
+Cement 
+for 
+Low-Cost 
+Concrete. 
+https://core.ac.uk/download/pdf/10129738.pdf 
+[23] Eka Sai Kumar, R. (2017). A STUDY ON REPLACEMENT OF CEMENT WITH RICE HUSK ASH. International Journal of Civil Engineering and 
+Technology (IJCIET). 
+[24] EMMANUEL, K. R. (2021). Synthesis and characterization of novel green chemicals from rice husks and their technological applications in environmental 
+pollution control in Kenya. Jomo Kenyatta University. 
+ 
+
+
+----- TABLE p7#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1061
+
+===== PAGE 8 =====
+
+968
+ 
+International Journal for Research in Applied Science & Engineering Technology (IJRASET) 
+                                                                                           ISSN: 2321-9653; IC Value: 45.98; SJ Impact Factor: 7.538 
+                                                                                                                Volume 11 Issue X Oct 2023- Available at www.ijraset.com 
+ 
+ 
+ 
+ 
+ 
+ 
+1062 
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 |
+[25] Fernandes, I. J., Calheiro, D., Sánchez, F. A. L., Camacho, A. L. D., De Campos Rocha, T. L. A., Moraes, C. A. M., & De Sousa, V. C. (2017). 
+Characterization of silica produced from rice husk ash: Comparison of purification and processing methods. Materials Research, 20, 519–525. 
+https://doi.org/10.1590/1980-5373-mr-2016-1043 
+[26] Fernandesa, I. J., Santos, R. V., Dos Santos, E. C. A., Rocha, T. L. A. C., Junior, N. S. D., & Moraes, C. A. M. (2018). Replacement of commercial silica by 
+rice husk ash in epoxy composites: A comparative analysis. Materials Research, 21(3). https://doi.org/10.1590/1980-5373-MR-2016-0562 
+[27] Fernando, S., Gunasekara, C., Law, D. W., Nasvi, M. C. M., Setunge, S., & Dissanayake, R. (2021). Life cycle assessment and cost analysis of fly ash–rice 
+husk ash blended alkali-activated concrete. Journal of Environmental Management, 295. https://doi.org/10.1016/j.jenvman.2021.113140 
+[28] Fongsatitkul, P., Elefsiniotis, P., Kitkaew, D., & Rungsipanodorn, C. (2011). Use of rice husk ash as an admixture to remove chromium from a tannery waste. 
+Water, Air, and Soil Pollution, 220(1–4), 81–88. https://doi.org/10.1007/s11270-010-0736-y 
+[29] FRANCIS, O. C. (2022). THE EFFECTS OF PARTIAL REPLACEMENT OF CEMENT WITH RICE HUSK ASH FROM DIFFERENT LOCATIONS ON 
+CONCRETE PROPERTIES. Nnamdi Azikiwe University. 
+[30] Gastaldini, A. L. G., Isaia, G. C., Hoppe, T. F., Missau, F., & Saciloto, A. P. (2009). Influence of the use of rice husk ash on the electrical resistivity of 
+concrete: 
+A 
+technical 
+and 
+economic 
+feasibility 
+study. 
+Construction 
+and 
+Building 
+Materials, 
+23(11), 
+3411–3419. 
+https://doi.org/10.1016/j.conbuildmat.2009.06.039 
+[31] Gautam, A., Batra, R., & Singh, N. (2019). A STUDY ON USE OF RICE HUSK ASH IN CONCRETE. Engineering Heritage Journal, 3(1), 1–4. 
+[32] Gautam, N. R., Patil, R. N., & Dhawad, P. D. (2019). Experimental study investigation of rice husk ash on concrete. AIP Conference Proceedings, 2104. 
+https://doi.org/10.1063/1.5100476 
+[33] Gupta, A. I., & Wayal, A. S. (2015). Use of Rice Husk Ash in Concrete: A Review. Journal of Mechanical and Civil Engineering, 12(4), 29–31. 
+[34] Habeeb, G. A., & Mahmud, H. Bin. (2010). Study on properties of rice husk ash and its use as cement replacement material. Materials Research, 13(2), 185–
+190. https://doi.org/10.1590/S1516-14392010000200011 
+[35] Hegazy, B. E.-D. E., Fouad, H. A., & Hassanain, A. M. (2012). Incorporation of water sludge, silica fume, and rice husk ash in brick making. Advances in 
+Environmental Research, 1(1), 83–96. https://doi.org/10.12989/aer.2012.1.1.083 
+[36] Hossain, S. K. S., Mathur, L., & Roy, P. K. (2018). Rice husk/rice husk ash as an alternative source of silica in ceramics: A review. In Journal of Asian 
+Ceramic Societies (Vol. 6, Issue 4, pp. 299–313). https://doi.org/10.1080/21870764.2018.1539210 
+[37] Huang, H., Gao, X., Wang, H., & Ye, H. (2017). Influence of rice husk ash on strength and permeability of ultra-high performance concrete. Construction and 
+Building Materials, 149, 621–628. https://doi.org/10.1016/j.conbuildmat.2017.05.155 
+[38] Igwebike-Ossi, C. D. (2016). Potassium Oxide Analysis in Rice Husk Ash at Various Combustion Conditions using ProtonInduced X-ray Emission (PIXE) 
+Spectrometric Technique. International Journal of Applied Chemistry, 12(3), 281–291. 
+[39] Irtwange, O. J. I. and S. V. (2012). Factors affecting maximum moisture up-take of rice husk ash (RHA). African Journal of Food Science and Technology, 
+3(4), 107–114. 
+[40] Islam, M. N., Mohd Zain, M. F., & Jamil, M. (2012). Prediction of strength and slump of rice husk ash incorporated high-performance concrete. Journal of 
+Civil Engineering and Management, 18(3), 310–317. https://doi.org/10.3846/13923730.2012.698890 
+ 
+
+
+----- TABLE p8#1 -----
+
+©IJRASET: All Rights are Reserved | SJ Impact Factor 7.538 | ISRA Journal Impact Factor 7.894 | | 1062
+
+===== PAGE 9 =====
+
+ 

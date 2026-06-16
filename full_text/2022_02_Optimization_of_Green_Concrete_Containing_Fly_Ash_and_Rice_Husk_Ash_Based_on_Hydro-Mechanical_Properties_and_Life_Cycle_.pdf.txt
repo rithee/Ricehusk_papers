@@ -1,0 +1,4377 @@
+
+===== PAGE 1 =====
+
+ 
+Available online at www.CivileJournal.org 
+Civil Engineering Journal 
+(E-ISSN: 2476-3055; ISSN: 2676-6957) 
+Vol. 8, No. 12, December, 2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+3912 
+ 
+Optimization of Green Concrete Containing Fly Ash and Rice 
+Husk Ash Based on Hydro-Mechanical Properties and Life 
+Cycle Assessment Considerations 
+ 
+Kennedy C. Onyelowe 1 , Ahmed M. Ebid 2* , Hisham A. Mahdi 2,                           
+Atefeh Soleymani 3 , Hashem Jahangir 4 , Farshad Dabbaghi 5  
+1 Department of Civil Engineering, Michael Okpara University of Agriculture Umudike, 440109, Umuahia, Nigeria. 
+2 Faculty of Engineering and Technology, Future University in Egypt, New Cairo 11865, Egypt. 
+3 Department of Civil Engineering, Shahid Bahonar University of Kerman, Kerman, Iran. 
+4 Department of Civil Engineering, University of Birjand, Birjand, Iran. 
+5 Department of Civil Engineering, Babol Norshivani University of Technology, Mazandaran, Iran. 
+Received 24 July 2022; Revised 07 November 2022; Accepted 14 November 2022; Published 01 December 2022 
+Abstract 
+The development of sustainable concrete in achieving the developmental goals of the United Nations in terms of sustainable 
+infrastructure and innovative technology forms part of the focus of this research paper. In order to move towards 
+sustainability, the utilization of the by-products of agro-industrial operations, which are fly ash (FA) and rice husk ash 
+(RHA), in the production of concrete has been studied. Considering the environmental impact of concrete constituents, 
+multiple mechanical and hydraulic properties of fly ash (FA) and rice husk ash (RHA) concrete have been proposed using 
+intelligent techniques; artificial neural network (ANN) and evolutionary polynomial regressions (EPR). Also, an intelligent 
+mix design tool/chart for this case under study is proposed. Multiple data points of concrete materials, which were further 
+reduced to ratios as follows; cement to binder ratio (C/B), aggregate to binder ratio (Ag/B), and plasticizer to binder ratio 
+(PL/B) were used in this exercise. At the end of the protocol, it is observed that the constituents’ ratios are dependent on 
+the behavior of the whole, which can be solved by using the proposed model equations and mix design charts. The models 
+performed optimally, as none showed any performance below 80%. However, ANN, which predicted Fc03, Fc07, Fc28, 
+Fc60, Fc90, Ft28, Ff28 & Fb28, S, Ec28 & K28, and P with an accuracy of greater than 95% each with average error of 
+less than 9.4% each, is considered the decisive technique in predicting all the studied concrete properties, including the life 
+cycle assessment potential of the concrete materials. 
+Keywords: Fly Ash; Rice Husk Ash; Concrete Hydro-Mechanical Properties; Sustainable Concrete; Concrete Life Cycle Assessment. 
+ 
+1. Introduction 
+The worldwide construction sector has profited from the world's fast-growing economy during the twentieth century 
+and continues to achieve new heights [1]. Sustainability in the building industry is among the most crucial needs of 
+developing countries because of limited natural resources and growing carbon dioxide emissions from massive cement 
+and concrete manufacturing. Due to the breakdown of utilized CaCO3 in the cement clinker and the burning of fuel, 
+cement production is responsible for emitting approximately 5 to 7% of carbon dioxide emissions worldwide [2–7]. As 
+                                                          
+* Corresponding author: ahmed.abdelkhaleq@fue.edu.eg 
+http://dx.doi.org/10.28991/CEJ-2022-08-12-018 
+ 
+© 2022 by the authors. Licensee C.E.J, Tehran, Iran. This article is an open access article distributed under the terms and 
+conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/). 
+ 
+
+
+===== PAGE 2 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3913 
+ 
+a result, green concrete development is now a big problem [8]. Pursuant to the IEA (International Energy Agency), 
+lowering the clinker to cement proportion from 65% to 60% by 2050 will diminish total carbon dioxide (CO2) emissions 
+related to cement manufacturing by up to 37 percent. The use of ordinary Portland cement (OPC) can be decreased if a 
+percentage of the concrete production can be substituted with recycled concrete aggregates, cutting greenhouse gas 
+emissions associated with cement manufacturing [9–11]. Palm oil shells (POS), sugarcane bagasse ash (SCBA), 
+corncob, elephant grass ash (EGA), wood ash, coir coconut fiber, rice husk ash (RHA), tobacco product waste (TPW), 
+and other agricultural by-products have all been shown to be useful as additions [10, 12–18]. Some by-products give 
+advantages such as enhanced strength and durability, economic savings from surplus cement and natural aggregates, and 
+ecological advantages like fewer carbon dioxide emissions and simpler disposal of harmful waste materials [1, 19–23]. 
+To lessen the environmental effects, eco-friendly green concrete can be described as the substitution of a percentage 
+of cement with natural or recyclable resources [24, 25]. Industrial wastes from power plants with substantial discharges 
+are known as fly ash (FA). Its inadequate comprehensive usage results in a massive build-up that encroaches on arable 
+land, produces dust, and pollutes water supplies. However, because of its high aluminum and silicon content, it has the 
+potential for pozzolanic properties when activated by grinding, calcining, and other methods, and thus can be used as 
+supplemental cementitious materials (SCMs). Mineral admixtures are effective SCMs that not only conserve cement but 
+also alleviate numerous environmental issues created by industrial waste [25–27]. Furthermore, it assists businesses and 
+governments in lowering the cost of pollution control. It is well accepted that using industrial waste as a mineral additive 
+in green concrete casting offers several benefits and promising future prospects [28]. 
+Rice husk is one of the most common agricultural wastes extracted from rice grain pods during milling [29, 30]. 
+Rice husk ash (RHA), like FA, is a pozzolanic material with a very high level of reactivity that may be used in concrete 
+mix designs to replace up to 30 percent of the total OPC. Concrete produced using RHA is still an ideal material in the 
+United States. FA supply has dropped in recent years due to decreasing coal use, overall economic stagnation, and 
+regulatory hurdles, despite a rise in its use in concrete industry. However, RHA has the ability to satisfy demand as FA 
+supplies decline [30]. Concrete has been proven to benefit from the use of rice husk ash and other mineral admixtures. 
+Due to its wide surface area, RHA is comparable to other pozzolans used in concrete production, notably micro silica 
+[31–34]. The compressive strength of concrete was substantially improved and the permeability of the concrete was 
+significantly lowered by adding RHA to the mix [30]. 
+Amin et al. [35] researched the impact of optimal replacement levels of rice husk ash and FA on the fresh and 
+hardened features of concrete mixes. Replacement levels from OPC amounts were 10, 20, and 30% for each recycled 
+material, respectively (RHA and FA). Hardened concrete was tested mechanically for bond strength, modulus of 
+Elasticity, modulus of rupture, splitting tensile strength, and compression strength. When compared to the control 
+combination, test findings showed that the fly and rice husk ash improved physical and mechanical properties. The 
+cementitious concentration of 450 kg/m3 produced better results than the alternative values tested. The mechanical 
+characteristics of RHA percentage replacement of 10 percent and 30 percent were more useful than FA in each group. 
+The water permeability of all mixes reduced as the cementitious quantity rose due to the reduction in entrapped air. As 
+the cementitious level reduced, the water permeability loss ratios rose. Mater et al. [36] developed an artificial neural 
+network (ANN) model to assess the compression strength of green concrete by combining waste disposal and artificial 
+intelligence (AI).The recommended technology allows for partial replacement of concrete components with recycled 
+coarse aggregate (RCA), recycled fine aggregate (RFA), and fly ash (FA).The model was built, trained, and evaluated 
+in Python using experimental data obtained from the literature. The results showed that replacing 10% FA with cement 
+caused a modest drop in compressive strength of up to 9%, particularly at young ages.  
+Naseri et al. [37] optimized the green and sustainable concrete mixture proportion. The model that needed to be 
+developed in this example considered concrete functional characteristics (such as fast chloride permeability test, 
+carbonation, and slump, compressive strength), unit cost, and environmental consequences. As a consequence, a novel 
+prediction approach is known as "Marine predator programming" was supplied to the model. ANN, support-vector 
+machines (SVMs), and second polynomial regression were used to evaluate the implementation of the generated ML 
+model. The findings showed that Marine predator programming was extremely capable of estimating many tangible 
+aspects. Eco-friendly combinations can lower the environmental score by 74.37% and 67.83%, respectively. Sustainable 
+mixing proportions have a sustainability rating of up to 80.03% lower than conventional experimental combination 
+proportions. Water absorption, split tensile strength, compression strength, and concrete slump test with varied amounts 
+of rice hull ash as a replacement for cement and fine particles substituted with coal bottom ash (CBA) were separated 
+and blended by Bruskheel et al. [38]. The modifiability and amount of water absorbed by concrete reduced as the 
+amounts of RHA and CBA in concrete increased. Furthermore, applying 5 percent RHA and 30 percent fine aggregate 
+(FAg) in concrete for 4 weeks consistently increased compression strength and split tensile strength by 9.10% and 
+7.73%, respectively. By partially substituting rice hulls ash as a cementing ingredient from 0 to 40 percent, Patnaik et 
+al. [39] studied the fresh, mechanical, and durability properties of concrete based on C30 grade rice hull ash. The test 
+findings also revealed that as the percentage of OPC substituted with rice hull ash increases, the compression strength 
+and tensile strength of cured concrete increases, before declining. For non-destructive concrete compressive strength 
+
+
+===== PAGE 3 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3914 
+ 
+testing, the rebound hammer test was used, and a mathematical relationship was developed between the compression 
+and rebound values of RHA concrete, which showed a strong correlation. 
+Current studies and allied sectors have started to concentrate on climate change and environmental problems. As a 
+result, numerous methods and indicators have been created to better identify the primary causes of these issues and to 
+take steps to mitigate their effects. For the environmental assessment of "green" concrete mixes, a systematic Life Cycle 
+Assessment (LCA) method is needed. Despite the importance of environmentally friendly infrastructure actions, the 
+rising costs of building materials and other building supplies, and the reality that even before concrete is poured in a 
+structure, its effects are imprinted for several years [40], a life-cycle framework is especially important for a systematic 
+detection and characterization of the environmental impacts of both traditional and "green" concrete production. LCA 
+is a method for statistically and comparably analyzing the environmental effect of a product/process [41]. The use of 
+SCMs instead of clinker/cement has been shown to have a lower environmental effect [17]. Despite various researches 
+focusing on ecologically friendly concrete mixes utilizing FA, the authors are unaware of any LCA of rice hull ash 
+concrete. Rice hull ash in concrete is not widely used in the U.S. since nowadays it is a novel product that requires 
+additional investigation into its environmental implications. Because RHA improves early strength development, which 
+is an issue with FA concrete, it can be used instead of OPC in the concrete mixture [42]. Figure 1 summarized the 
+structural and environmental benefits of using FA and RHA in concrete. The development of intelligent models to 
+optimize the utilization of the combined effect of rice husk ash (RHA) and fly ash (FA) in concrete would have solved 
+the inconsistency in the right proportions to achieve the required strengths for a more sustainable infrastructure. 
+Furthermore, a clearer understanding of the environmental impact of the inclusion of RHA and FA in concrete as partial 
+replacements for cement would have equally informed future research, design, and construction of concrete structures 
+on the optimal amount of replacement needed to achieve sustainable strength without further endangering the 
+environment. 
+In this study, intelligent models and mix design tools/charts have been proposed for rice husk ash and fly ash blend 
+concrete data points under environmental impact considerations for the hydro-mechanical properties (slump, 
+compressive strength, splitting tensile strength, flexural strength, bonding strength, elastic modulus, and permeability) 
+of concrete. 
+2. Background Literature Review 
+2.1. Green Concrete 
+During the last century, the building and construction industry have relied heavily on concrete, the most frequently 
+utilized and efficient man-made substance [43–47]. Concrete constructions can be customized to have any required 
+qualities and come in just about any required form. This is conceivable due to the robustness, foldability, and less life 
+cycle cost of the material [48–51]. The primary conventional binder for concrete manufacture is Ordinary Portland 
+Cement (OPC). By 2050, cement consumption is predicted to exceed 6 Gt/year [52–54]. OPC manufacture requires a 
+significant amount of fuel and natural resources. It is a multi-stage industrial process that produces massive amounts of 
+greenhouse gases such as CO2 [55–57]. Numerous environmentalists criticize the manufacturing industry for pollutant 
+emissions, claiming that it contributes for around 5–7% of worldwide CO2 emissions. For every kilogram of cement 
+created, around 0.8-0.9 kg of CO2 is released [58, 59]. There is worldwide agreement on the need to reduce the carbon 
+footprint of the cement industry via substantial substitution of cement in concrete. As a result, a solution for the long-
+term sustainability of concrete is required, as is the development of a new binder capable of overcoming the barriers 
+associated with the manufacture and implementation of OPC [60–62]. 
+Supplementary cementitious materials (SCMs) constitute substances that may be used in lieu of OPC in certain 
+situations. Many industrial and agricultural waste products are now being employed as SCMs on a global scale. Fly ash 
+(FA), rice husk ash (RHA), volcanic ash (VA), electric arc furnace slag (EAFS), zeolite (ZLT), metakaolin (MK), and 
+silica fume (SF) are the most frequently utilized SCMs [63, 64]. Different industrial wastes have been employed to 
+enhance the mechanical and durability qualities of concrete throughout the years. This also contributes to reducing 
+reliance on OPC. Among the many types of industrial waste, FA is widely utilized and has been seen as a viable 
+substitute for OPC [65–67]. FA is a coal combustion byproduct that is also collected from coal-fired thermal power 
+plants. It has been used in place of OPC or clinker cement as a partial substitute for a long period of time. The amount 
+of FA in the combination is limited to 15%–20% by weight of the OPC [68–70]. The concrete produced with high-
+volume FA has such a low per-unit cost of manufacture. Attributed to the prevalence of SiO2 and Al2O3, FA has a 
+unique pozzolana characteristic. SiO2 and Al2O3 combine with calcium hydroxide during the hydration process, 
+generating additional calcium silicate hydrate (CSH) and calcium aluminate hydrate (CAH). The concrete appears to be 
+getting denser when CSH and CAH are present. Additionally, it plugs voids in the concrete and strengthens the matrix. 
+It contributes to the reduction of the difficulties associated with sustainable building, including its environmental effects 
+[71]. 
+
+
+===== PAGE 4 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3915 
+ 
+Alternatively, it should be mentioned that RHA has grown to become one of the most important SCMs in the world. 
+Among the SCMs derived from rice crop agricultural waste is RHA, which is derived from the waste of the rice crop 
+[72, 73]. Rice grains are wrapped with rice husks (RH), which are then used as a fuel in rice mills to boil the paddy that 
+has been harvested. As a silica-containing material, it has the potential to be utilized effectively as an SCM in the 
+production of concrete [74]. As a result, RHA may be used as a cementitious material with efficiency in certain 
+applications. RHA does not emit a significant quantity of carbon dioxide into the atmosphere. It has the potential to be 
+employed as a structural concrete. Not only does it add to the overall strength of the concrete, but it also contributes to 
+the long-term durability of the concrete's qualities [75]. 
+2.2. Machine Learning Approach 
+2.2.1. Evolutionary Polynomial Regression (EPR) 
+Genetic Algorithm (GA) is famous optimization technique depends on simulating the evolution process of biological 
+creatures. It depends on one simple rule “The most fitting creature will survive”. To apply this principal on optimization, 
+there must be a pool of solutions for the considered problem, a fitting criterion and a procedure to generate new solutions 
+by mixing the existing ones. Biological creatures transfer their data to the next generation as an arranged series of genes 
+called “Chromosome”, similarly, (GA) presents the solution (chromosome) as an arranged list of steps (genes). (EPR) 
+is a direct application of (GA), it depends on optimizing the number of terms of the “Traditional Polynomial Regression 
+(TPR)”. (TPR) is a well-known mathematical regression technique uses “Least Squared Error” principal to find the 
+optimum coefficient values of a certain polynomial function to fit a certain dataset. The considered polynomial may be 
+single or multi variables depending on the considered problem configuration (dataset). The chosen polynomial degree 
+(its highest power) depends on the complexity of the considered problem, first degree polynomial (linear) may be used 
+for simple problems, for more complicated ones, second degree (quadratic), third degree (cubic) of higher degrees may 
+be required. The number of polynomial terms dramatically increases with increasing the variable numbers and 
+polynomial degree, for example, a two variables second degree polynomial have only six terms (X2+Y2+ XY+X+Y+C), 
+while three variables third degree polynomial have 20 terms and four variables forth degree polynomial have 70 terms 
+and so on. As the number of polynomial terms increases, it becomes more difficult to apply less practical. Hence, (EPR) 
+technique aims to optimize the (TPR) by eliminating the less important terms and keep only the most effective ones 
+using (GA) technique. So, the population (solutions) consists of a set of polynomials, the fitting criteria is the “Sum of 
+Squared Errors (SSE)” and the chromosome consists of a list of polynomial terms, the length of the chromosome is the 
+chosen number of terms. Cycles after cycle, the most important terms accumulate in the survival chromosomes and the 
+less important ones deleted. 
+2.2.2. Artificial Neural Network (ANN) 
+(ANN) is an umbrella of a wide range of (AI) techniques that depends of mimicking the behavior of biological 
+neurons. They all consist of nodes (cells or neurons) and links to connect the nodes, but they have different neurons 
+arrangement and connection patterns. “Multi-Layer Perceptron (MLP)” is one of the earliest and most (ANN) types. It 
+is the commonly used type for regression problems. It consists of a number of nodes arranged in layers, the first layer is 
+called “Input layer” and it is used to receive the input values, while the last layer is called “Output layer” and it is used 
+to deliver outputs values. Between the input and the output layers there are a number of intermediate layers called 
+“Hidden layers”, they are responsible of predicting the outputs from the inputs. (MLP) must have one hidden layer at 
+least. Each node in a certain layer is connected to all the nodes in the previous and the next layers by links, but the nodes 
+of each layer are not connected to each other. Each link has an importance factor called “Weight” and each node has a 
+triggering formula called “Activation Function”, this could be any nonlinear function, but the most popular ones are the 
+sigmoid, the hyper-tan and the ramp functions, they are responsible of the nonlinear capability of the (ANN). Due to the 
+variation in ranges of input values, all inputs must be scaled to a unified range, this process is called “Standardization” 
+if the input variance is divided by its standard deviation (SD) and called “Normalization” if the inputs are scaled between 
+(0 to 1) and called “Hyper normalization” if the inputs are scaled between (-1 to 1). The scaled inputs propagate from 
+the input layer to the output layer through the hidden layers. The output of certain node is the result of applying its 
+activation function on the summation the node inputs multiplied by corresponding links’ weights. After the output layer, 
+the outputs must be de-scaled to its original renege. Any (ANN) model must be trained using a given dataset, during the 
+training process the weight values of the model’s links are adjusted to predict the correct outputs from the inputs. There 
+many training techniques could be used to find the optimum values for links’ weights such as “Back Propagation (BP)”, 
+“Gradually Reduced Gradient (GRG)” and “Genetic Algorithm (GA)”. 
+2.3. Life Cycle Assessment 
+Climate change is attributed to the increase in greenhouse gas emissions (GHG) in the atmosphere. Approximately 
+54 giga-tons of carbon dioxide (CO2-eq) were recorded as the total annual GHGs emissions in 2017. Concrete is one of 
+the main contributors to these emissions and concrete usage and demand for cement in the construction industry is 
+
+
+===== PAGE 5 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3916 
+ 
+expected to be increased in the future due to the rapid urban development in emerging countries. Annually about 20 
+billion tons of concrete are produced worldwide, and Portland Cement (PC) production is responsible for 7–10% of total 
+CO2 emissions. When considering the construction and building sector, approximately 80% of the GHG emissions and 
+energy consumption are generated during the operation phase of the buildings. Many studies have been conducted and 
+introduced new technologies, policies, and mitigation measures/techniques to reduce GHG emissions during the 
+operation stages [76]. However, around 10–20% of GHG emission and energy consumption is from material 
+manufacturing, construction, and demolition, with limited studies reported related to reducing GHG emissions and other 
+environmental impacts during material production and construction stages [77]. Life Cycle Assessment (LCA) is an 
+established and well-known method that can evaluate the environmental impacts of products throughout its life cycle. 
+To date, limited studies have been conducted to compare the detailed environmental impact of using blended alkali-
+activated binders against PC binders in the construction industry. Adapting the waste products (fly ash and RHA) by 
+replacing cement in the construction industry reduces the environmental impact and cost obtained from source material 
+manufacturing and solves problems associated with landfill disposal activities [78, 79]. The utilization of such industrial 
+and agricultural waste could be a massive benefit to the environment. Hence this study investigates the GHG emissions 
+from cradle to end of building construction stage (cradle to end of construction), a life cycle impact and benefit 
+assessment of the manufacturing stage (cradle to gate) and initial cost analysis of fly ash geopolymer concrete (100FA), 
+alkali-activated fly ash-RHA blended concrete (hereafter, used as blended alkali-activated concrete) and comparing with 
+PC concrete. The outcomes of this study will useful when adapting feasible, sustainable alternatives in alkali activated 
+concrete manufacturing and construction considering the environmental and economic aspects [59, 80]. 
+As previously stated, the substitution of OPC with SCMs has long been considered as one of the most efficient 
+methods of reducing greenhouse gas emissions. Additionally, it is essential mentioning that the amount of cement in the 
+mix has a direct correlation with the concrete's durability, environmental impact, quality, and other characteristics. 
+Scholars employed experimental methods to investigate the effect of SCMs on the mechanical properties of green 
+concrete. Pitroda et al. [81] examined the mechanical properties of concrete by varying the fly-ash concentration. The 
+fly-ash content was tested by substituting fly-ash for cement. When the qualities of conventional strength concrete were 
+compared to those of concrete containing 10% fly ash, it was determined that the latter possessed superior properties. 
+Once the fly-ash concentration approached ten percent, the concrete's mechanical properties deteriorated as the fly-ash 
+amount grew. Saha [82] studied the use of class F fly ash as a partly cement replacement in concrete. Compared with 
+the control samples, the fly ash specimens had an exceedingly low early compressive strength. Nonetheless, the 
+pozzolanic activity improved the specimens' strength over time, whereas the reference samples' strength paused after 56 
+days of curing. Increasing the fly ash content in the mix reduced drying shrinkage. Using fly ash as a binder reduced the 
+porosity of the concrete. As a result, the fly ash concrete's water sorptivity and chloride permeability were lowered. 
+Giaccio & Malhotra and Feldman et al. [83, 84] conducted extensive study on high-volume FA concrete. The 
+experimental findings indicated that concrete containing a high proportion of Class F FA enhanced mechanical qualities, 
+had extremely little chloride ion penetration, exhibits adequate resistance to repeated freezing and thawing cycles, and 
+had no adverse effect when reactive aggregate was added. Bouzoubaâ et al. [85] observed that test results of concrete 
+comprising class C and class F FA were equivalent to or superior to those achieved using ordinary concrete. As a 
+consequence, FA concrete offers equivalent or superior properties in comparison with ordinary concrete while being 
+less costly. Over the course of 28 days, Poon et al. [86] explored the compressive strength of concrete comprising 45% 
+FA and discovered that the concrete attained a compressive strength of 80 MPa and exhibited lesser heat of hydration 
+and chloride diffusivity when compared to OPC. The influence of plastic waste (PW) and graphene nanoplatelets (GNP) 
+on the characteristics of high-volume fly ash (HVFA) concrete was explored by Adamu et al. [68], and the outcomes 
+indicated that the response surface methodology was utilized for experiment design, data modeling, and process 
+optimization. PW, HVFA, and GNP were used as variables, and the materials' strength and water absorption were used 
+as responses. PW and HVFA both diminish strength and absorption, but GNP strengthens both of these features. Each 
+suggested model was statistically substantial and had a high level of correlation [85-87].  
+Rice husk is among the most common agricultural wastes, obtained from the outer coating of rice grains throughout 
+the milling operation. It is one of the most common crop wastes. Twenty percent of the 500 million tons of paddy 
+produced across the globe comes from this region. More academics have thus concentrated their efforts on the impact 
+of this ecologically friendly substance on the qualities of concrete as a result. For example, in 2005 Bui et al. [64] 
+evaluated the effect of particle size on the strength of blended gap-graded Portland cement concrete made with RHA. 
+This study investigated the strength activity index of mortars including residual RHA created during the burning of rice 
+husk pellets and RHA derived via grinding residual RHA. The compressive strength and durability of concrete were 
+examined when ground RHA was partially substituted for cement. Ameri et al. [87] implemented a study about concrete 
+including RHA. According to the findings, concrete with RHA exhibited a significant increase in early compressive 
+strength. Increases in RHA concentrations greater than 15% resulted in a decrease in compressive strength. This is due 
+to the presence of an overabundance of silica in RHA which was not been reacted with other components. Iqtidar et al. 
+[88] employed machine learning to forecast the qualities of RHA-containing concrete. This research evaluated the 
+compressive strength of rice husk ash mixed concrete using 192 data points. Age, quantity of cement, RHA, 
+
+
+===== PAGE 6 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3917 
+ 
+superplasticizer, water, and aggregates were all input factors. This study used four approaches of soft computing and 
+machine learning, including artificial neural networks (ANN), adaptive neuro-fuzzy inference system (ANFIS), multiple 
+nonlinear regression (NLR), and linear regression. The acquired data were evaluated using sensitivity analysis, 
+parametric analysis, and the correlation factor (R2). The findings indicated that ANN and ANFIS outperformed other 
+approaches. Amin et al. [63] employed sophisticated machine learning approaches to estimate the compressive strength 
+of RHA. Six inputs were chosen based on the available literature: specimen age, percentage of rice husk ash, percentage 
+of superplasticizer, aggregates, water, and quantity of cement. The results of machine learning techniques were 
+compared to those of more conventional techniques such as linear and non-linear regressions. The performance of 
+machine learning approaches was shown to be superior to that of conventional methods for calculating the compressive 
+strength of RHA. Iftikhar et al. [89] used machine learning methods to anticipate and establish an empirical formula for 
+the compressive strength of concrete containing RHA. Gene expression programming (GEP) and Random Forest 
+Regression (RFR) were used in this investigation. The models were developed using a dependable database of 192 data 
+points. The most significant factors in the creation of RHA-based concrete models were age, cement, RHA, water, 
+superplasticizer, and aggregate. Models were evaluated using a variety of statistical variables. 
+ 
+Figure 1. The structural and environmental benefits of FA and RHA in concrete 
+2.4. Novelty and Innovation 
+In an effort to propose models; analytical and numerical in order to solve the problems of sustainability in concrete 
+production and also those of repeated visits to laboratories prior to design and construction activities, databases of 
+various sizes have been explored as well as different artificial intelligent techniques. In this present research work, an 
+extensive literature search was done to collect a rich database comprising of concrete constituents, which include rice 
+husk ash (RHA) and fly ash (FA), which form the focus of this work in terms of sustainable concrete devoid of or with 
+less amount of greenhouse emission footprint. Also, these concrete constituents were reduced to ratios, which make 
+easier unlike in previous works to handle and predict more accurate functions. In addition, the evaluation of the 
+environmental impact of the concrete constituents was conducted to determine the life cycle assessment potential, which 
+was incorporated into further research considerations in this work. Moreover, multiple AI techniques have been 
+deployed in this research work to a step further to propose concrete design tools/charts, which works in synergy with 
+the closed-form AI models to predict concrete design mixes of desirable strength and accompanying reduced 
+environmental impact. With all these innovative considerations, this research work stands out from what has been 
+researched previously in this field of sustainable and artificial intelligence applications. 
+3. Methodology 
+3.1. Collection of Concrete Experimental Data 
+An extensive literature study was conducted, which gave rise to multiple points of concrete mixes containing the 
+following; cement, rice husk ash, fly ash, water, plasticizer, fine aggregates, and coarse aggregates [90]. The following 
+concrete hydraulic and mechanical properties were studied; air content, slump, hydraulic conductivity, compressive 
+strength, splitting tensile strength, flexural strength, bonding strength and elastic modulus. In Figure 2, the theoretical 
+framework of the research methodology and modelling operations are presented. 
+Enhances compressive, tensile, 
+and flexural &bond strengths 
+FA/RHA in Concrete 
+Enhances voids removal 
+Enhances workability, flow 
+ability and self-compaction 
+Reduces Ecotoxicity of fresh 
+water, terrestrial and marine  
+Improves durability, long term 
+strength & shrinkage cracks 
+Enhances pozzolanic reactivity 
+and sulphate resistance 
+ 
+Reduces human carcinogen & 
+non-carcinogen toxicity  
+Reduces terrestrial 
+acidification, global warming 
+
+
+===== PAGE 7 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3918 
+ 
+ 
+Figure 2. The theoretical framework of the research methodology and modeling 
+3.2. Collected Database and Statistical Analysis 
+At the end of the literature study, 105 records were collected for experimental tested concrete mixtures with different 
+components’ ratios. Each record contains the following data: cement to binder ratio (C/B), aggregates (coarse plus fine) 
+to binder ratio (Ag/B), super-plasticizer to binder ratio (PL/B), concrete mix slump (S) mm, cylinder compressive 
+strength of concrete after 3, 7, 28, 60 & 90 days (Fc03, Fc07, Fc28, Fc60 & Fc90) MPa, splitting tensile strength after 
+28 days (Ft28) MPa, flexural tensile strength after 28 days (Ff28) MPa, bond strength after 28 days (Fb28) MPa, modulus 
+of elasticity after 28 days (Ec28) GPa, water permeability after 28 days (K28) pico-meter/sec (10-12 m/sec) and 
+environmental impact factor (P). 
+Where (B) is binder content (cement content + fly ash or rice husk ash content). For all collected concrete mixes, the 
+additional cementitious material was either fly ash (FA) or rice husk ash (RHA) but not a combination of them. Also, 
+Experimental data
+Data arrangement
+Data tabulation
+Literature researches
+LCA evaluation (P)
+Statistical analysis
+Pearson correlation 
+Histogram presentation
+Environmental impact factor (P)
+EPR model
+ANN model
+Statistical study
+General data analysis
+AI models
+Physical Properties
+Sub-model 3
+Sub-model 3
+Sub-model 1
+Sub-model 1
+Concrete strengths
+Mix design 
+aid
+Sub-model 2
+Sub-model 2
+
+
+----- TABLE p7#1 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Experimental data |  |  |  |  | Data arrangement |  |  |  |  | Data tabulation |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  | Literature researches |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  | LCA evaluation (P) |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Statistical analysis |  |  |  |  | Pearson correlation |  |  |  |  | Histogram presentation |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  | Statistical study |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  | General data analysis |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  | AI models |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | EPR model |  |  |  |  |  |  |  | ANN model |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sub-model 1 |  |  |  |  |  |  |  | Sub-model 1 |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | Concrete strengths |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | Mix design
+aid |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  | Sub-model 2 |  |  |  |  |  | Sub-model 2 |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | Physical Properties |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Sub-model 3 |  |  |  |  |  |  |  | Sub-model 3 |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  | Environmental impact factor (P) |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 8 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3919 
+ 
+the ratio between coarse and fine aggregates (CAg/FAg) is constant and equals to 2.0 in all collected design mixes, 
+hence, both of them are equivalent to only one independent variable presented by total aggregate content (Ag). The 
+collected records were divided into training set (85 records) and validation set (20 records). Table 1 includes the 
+complete combinatorial dataset, while Tables 2 and 3 summarize their statistical characteristics and the Pearson 
+correlation matrix. Finally, Figure 3 shows the histograms for both inputs and outputs. This presents the internal 
+consistency of the studied parameters, which shows their distribution frequency in the array of the concrete mix points. 
+It can be observed that C/B and Ag/B have the more central distribution within the central bin of the database for the 
+inputs while S has the most central distribution bin for the outputs. 
+Table 1. Combinatorial utilized database 
+C/B 
+Ag/B 
+PL/B 
+S 
+Fc03 
+Fc07 
+Fc28 
+Fc60 
+Fc90 
+Ft28 
+Ff28 
+Fb28 
+Ec28 
+K28 
+P 
+(--) 
+(--) 
+(--) 
+(mm) 
+(MPa) 
+(MPa) 
+(MPa) 
+(MPa) 
+(MPa) 
+(MPa) 
+(MPa) 
+(MPa) 
+(GPa) 
+(pm/s) 
+(--) 
+Training dataset 
+0.68 
+4.71 
+0.03 
+115 
+36.05 
+62.43 
+66.22 
+96.95 
+92.51 
+7.10 
+10.70 
+11.18 
+39.15 
+4.07 
+8.38 
+1.00 
+5.10 
+0.00 
+85 
+12.40 
+23.30 
+31.10 
+32.90 
+34.50 
+3.10 
+4.50 
+5.00 
+22.40 
+8.50 
+6.36 
+1.00 
+4.10 
+0.03 
+90 
+37.10 
+55.20 
+73.50 
+78.60 
+82.30 
+6.70 
+10.80 
+12.20 
+41.00 
+5.20 
+8.90 
+0.66 
+4.01 
+0.03 
+104 
+40.28 
+53.22 
+86.79 
+73.60 
+101.78 
+7.85 
+11.83 
+11.14 
+36.38 
+3.17 
+3.48 
+0.90 
+3.32 
+0.03 
+110 
+45.10 
+65.60 
+86.80 
+93.80 
+98.10 
+7.70 
+12.80 
+14.40 
+43.90 
+4.20 
+8.95 
+0.90 
+2.83 
+0.03 
+119 
+47.41 
+75.65 
+82.63 
+89.01 
+116.96 
+7.83 
+15.26 
+13.55 
+52.21 
+3.81 
+11.40 
+0.70 
+4.72 
+0.00 
+66 
+11.74 
+21.54 
+27.29 
+35.23 
+31.86 
+2.91 
+4.75 
+4.47 
+21.71 
+4.85 
+2.69 
+1.00 
+4.80 
+0.00 
+74 
+11.28 
+23.07 
+32.34 
+33.56 
+38.64 
+2.91 
+4.68 
+5.00 
+19.04 
+8.93 
+6.53 
+0.88 
+5.66 
+0.00 
+76 
+16.07 
+28.30 
+30.71 
+41.03 
+36.36 
+3.16 
+4.60 
+6.16 
+21.84 
+5.55 
+6.15 
+0.79 
+4.44 
+0.03 
+124 
+48.92 
+71.28 
+81.87 
+97.14 
+84.91 
+9.09 
+11.35 
+12.33 
+39.25 
+3.76 
+5.30 
+0.70 
+3.32 
+0.03 
+127 
+46.27 
+66.10 
+77.16 
+81.52 
+100.88 
+8.14 
+11.74 
+15.88 
+45.22 
+2.70 
+10.90 
+0.82 
+4.68 
+0.00 
+80 
+15.84 
+26.90 
+35.70 
+42.07 
+36.52 
+3.40 
+5.41 
+5.30 
+29.04 
+5.19 
+4.41 
+0.89 
+4.51 
+0.03 
+92 
+40.28 
+76.95 
+80.37 
+104.31 
+87.09 
+8.10 
+11.66 
+12.58 
+47.57 
+4.10 
+6.83 
+0.66 
+4.26 
+0.03 
+128 
+42.33 
+68.77 
+78.90 
+75.29 
+88.50 
+7.20 
+12.76 
+11.92 
+44.84 
+3.49 
+3.37 
+1.00 
+3.62 
+0.03 
+96 
+31.91 
+55.20 
+72.03 
+75.46 
+75.72 
+5.96 
+10.58 
+14.03 
+45.10 
+5.67 
+9.77 
+0.80 
+4.13 
+0.03 
+110 
+45.30 
+66.00 
+87.10 
+93.40 
+97.60 
+7.90 
+12.90 
+14.50 
+44.10 
+3.80 
+5.65 
+0.79 
+4.52 
+0.03 
+94 
+49.83 
+66.66 
+92.33 
+103.67 
+85.89 
+6.72 
+13.93 
+13.49 
+44.54 
+4.14 
+5.18 
+0.67 
+5.50 
+0.00 
+68 
+11.39 
+24.38 
+27.26 
+38.99 
+36.57 
+2.88 
+5.20 
+4.34 
+23.94 
+5.20 
+6.07 
+0.70 
+2.78 
+0.03 
+132 
+53.42 
+62.80 
+96.24 
+87.14 
+85.05 
+6.19 
+13.80 
+14.70 
+41.71 
+2.76 
+12.10 
+0.89 
+5.45 
+0.00 
+72 
+12.92 
+25.10 
+42.38 
+39.80 
+47.96 
+3.96 
+5.28 
+5.58 
+27.81 
+6.22 
+4.72 
+0.64 
+4.40 
+0.03 
+136 
+45.36 
+57.72 
+86.47 
+79.24 
+100.43 
+6.67 
+10.01 
+14.56 
+42.94 
+3.57 
+8.94 
+0.77 
+3.15 
+0.03 
+103 
+51.31 
+61.42 
+97.73 
+100.60 
+100.03 
+6.62 
+12.33 
+17.58 
+52.67 
+2.94 
+5.94 
+0.70 
+3.38 
+0.03 
+150 
+50.02 
+59.45 
+81.10 
+101.84 
+112.40 
+6.72 
+11.70 
+13.17 
+45.39 
+2.67 
+4.50 
+0.69 
+3.36 
+0.03 
+122 
+41.50 
+62.13 
+78.03 
+104.01 
+91.98 
+7.78 
+14.71 
+15.88 
+39.95 
+3.33 
+10.70 
+0.80 
+5.13 
+0.00 
+75 
+14.60 
+27.20 
+36.10 
+38.80 
+40.50 
+3.50 
+5.30 
+5.80 
+26.00 
+5.50 
+6.52 
+0.88 
+3.66 
+0.03 
+106 
+46.45 
+57.73 
+97.22 
+90.05 
+106.93 
+8.09 
+13.57 
+12.38 
+47.85 
+3.70 
+8.00 
+0.73 
+3.98 
+0.03 
+127 
+42.12 
+63.02 
+72.45 
+93.57 
+81.05 
+6.46 
+10.47 
+13.52 
+45.47 
+4.26 
+9.52 
+0.70 
+3.75 
+0.03 
+112 
+45.70 
+68.80 
+78.48 
+99.02 
+90.71 
+7.67 
+11.96 
+16.58 
+43.17 
+2.38 
+4.12 
+0.89 
+5.06 
+0.00 
+79 
+14.59 
+25.38 
+39.38 
+41.79 
+46.70 
+3.96 
+6.27 
+5.10 
+28.08 
+5.38 
+4.82 
+0.75 
+4.07 
+0.03 
+112 
+42.33 
+55.61 
+84.42 
+82.06 
+95.58 
+7.99 
+12.30 
+13.62 
+44.42 
+3.46 
+4.92 
+0.90 
+3.10 
+0.03 
+120 
+49.90 
+69.40 
+90.80 
+98.90 
+103.50 
+7.60 
+13.50 
+15.40 
+45.40 
+3.40 
+10.90 
+0.89 
+5.36 
+0.00 
+68 
+13.07 
+25.38 
+38.25 
+35.42 
+35.86 
+3.85 
+4.90 
+5.46 
+23.49 
+5.54 
+4.95 
+1.00 
+3.09 
+0.03 
+95 
+43.00 
+61.10 
+80.80 
+87.20 
+91.20 
+6.90 
+11.90 
+13.70 
+42.40 
+4.20 
+10.80 
+0.83 
+2.97 
+0.03 
+115 
+43.69 
+71.31 
+97.73 
+104.58 
+105.24 
+6.78 
+14.80 
+13.35 
+50.84 
+2.55 
+7.69 
+0.91 
+2.79 
+0.03 
+121 
+45.85 
+82.15 
+101.33 110.59 
+111.28 
+6.87 
+15.93 
+16.10 
+41.39 
+2.58 
+9.56 
+0.72 
+5.12 
+0.00 
+68 
+12.03 
+27.01 
+30.12 
+34.92 
+36.57 
+3.32 
+4.37 
+5.10 
+25.76 
+5.30 
+6.81 
+0.90 
+3.05 
+0.03 
+121 
+39.24 
+61.01 
+80.72 
+90.05 
+95.16 
+6.85 
+14.59 
+13.10 
+39.07 
+3.95 
+9.77 
+0.80 
+3.84 
+0.03 
+115 
+48.79 
+72.49 
+100.21 
+81.79 
+104.37 
+7.44 
+11.31 
+14.75 
+42.02 
+3.88 
+9.47 
+0.81 
+4.58 
+0.00 
+71 
+15.62 
+29.65 
+40.43 
+42.68 
+35.24 
+3.54 
+6.10 
+6.21 
+25.48 
+5.83 
+7.14 
+0.90 
+3.87 
+0.03 
+99 
+51.86 
+62.78 
+83.94 
+89.96 
+89.09 
+7.53 
+14.41 
+13.32 
+43.94 
+4.45 
+7.87 
+
+
+===== PAGE 9 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3920 
+ 
+0.82 
+4.90 
+0.00 
+73 
+13.54 
+24.48 
+36.77 
+33.73 
+41.29 
+3.82 
+5.62 
+6.50 
+25.70 
+5.83 
+4.16 
+0.76 
+3.42 
+0.03 
+118 
+45.99 
+75.05 
+101.26 
+89.14 
+109.08 
+8.97 
+12.42 
+17.06 
+47.02 
+2.91 
+10.50 
+0.67 
+3.42 
+0.03 
+153 
+40.55 
+66.76 
+98.84 
+98.39 
+88.02 
+6.34 
+14.06 
+12.64 
+46.53 
+2.88 
+10.60 
+0.90 
+3.10 
+0.03 
+115 
+52.10 
+72.70 
+94.70 
+102.40 
+107.00 
+7.90 
+14.10 
+16.10 
+46.50 
+3.00 
+8.79 
+0.89 
+3.31 
+0.03 
+123 
+57.31 
+67.61 
+82.39 
+94.21 
+107.00 
+8.06 
+13.82 
+14.81 
+51.62 
+2.91 
+8.34 
+0.88 
+5.38 
+0.00 
+82 
+17.18 
+31.02 
+39.75 
+42.98 
+42.12 
+3.70 
+5.50 
+5.10 
+23.76 
+4.93 
+4.79 
+0.90 
+5.13 
+0.00 
+75 
+15.20 
+28.20 
+37.50 
+39.80 
+41.70 
+3.70 
+5.50 
+6.00 
+27.00 
+5.60 
+5.10 
+0.80 
+4.12 
+0.03 
+115 
+45.60 
+66.50 
+87.90 
+95.10 
+99.40 
+8.00 
+13.00 
+14.60 
+44.70 
+4.00 
+9.11 
+0.73 
+4.93 
+0.00 
+73 
+11.26 
+24.62 
+36.14 
+37.63 
+37.28 
+2.82 
+4.46 
+5.25 
+25.54 
+5.05 
+6.54 
+0.70 
+4.14 
+0.03 
+115 
+41.10 
+59.80 
+78.90 
+84.60 
+88.50 
+7.20 
+11.60 
+13.10 
+42.30 
+3.60 
+4.03 
+0.91 
+4.40 
+0.00 
+87 
+14.24 
+24.89 
+39.44 
+35.06 
+40.66 
+3.71 
+5.35 
+6.05 
+28.11 
+6.02 
+7.17 
+1.00 
+2.99 
+0.03 
+101 
+44.72 
+67.21 
+70.30 
+77.61 
+82.08 
+7.73 
+11.31 
+15.62 
+41.55 
+3.86 
+11.20 
+1.00 
+4.56 
+0.03 
+100 
+40.07 
+57.41 
+72.03 
+70.74 
+74.89 
+6.03 
+10.58 
+10.49 
+41.00 
+5.30 
+8.32 
+0.79 
+3.06 
+0.03 
+113 
+58.25 
+70.09 
+99.40 
+104.34 
+103.78 
+8.27 
+13.11 
+13.90 
+52.55 
+2.70 
+10.90 
+0.70 
+2.72 
+0.03 
+137 
+46.18 
+73.48 
+82.84 
+80.16 
+85.78 
+6.79 
+11.18 
+15.39 
+41.39 
+2.73 
+5.36 
+1.00 
+2.69 
+0.03 
+84 
+36.98 
+66.60 
+71.91 
+92.43 
+91.20 
+5.87 
+13.45 
+15.48 
+43.25 
+3.57 
+11.90 
+0.78 
+4.61 
+0.03 
+102 
+48.34 
+57.19 
+80.87 
+97.00 
+109.34 
+9.04 
+14.43 
+12.85 
+45.59 
+3.88 
+8.27 
+0.90 
+2.94 
+0.03 
+112 
+48.40 
+61.77 
+97.16 
+112.75 
+104.54 
+6.84 
+13.64 
+16.94 
+43.13 
+3.57 
+11.10 
+0.64 
+5.57 
+0.00 
+68 
+13.16 
+21.78 
+33.38 
+34.20 
+34.01 
+3.14 
+4.61 
+4.73 
+20.56 
+4.80 
+1.68 
+1.00 
+3.12 
+0.03 
+98 
+38.70 
+64.77 
+82.42 
+95.05 
+78.43 
+7.80 
+13.45 
+14.25 
+36.89 
+4.79 
+10.80 
+0.80 
+4.84 
+0.03 
+99 
+45.14 
+73.15 
+77.35 
+83.69 
+88.47 
+7.04 
+13.26 
+14.16 
+39.78 
+4.60 
+7.94 
+0.82 
+4.81 
+0.00 
+69 
+12.67 
+29.86 
+37.84 
+40.17 
+34.54 
+3.64 
+4.78 
+6.50 
+22.87 
+5.19 
+4.39 
+1.00 
+4.00 
+0.03 
+100 
+37.47 
+49.68 
+69.83 
+88.82 
+86.42 
+7.71 
+9.18 
+12.08 
+35.67 
+5.30 
+9.18 
+0.80 
+4.58 
+0.00 
+67 
+14.75 
+31.28 
+38.63 
+38.02 
+35.64 
+3.57 
+5.14 
+5.92 
+23.92 
+6.22 
+7.11 
+0.80 
+4.71 
+0.03 
+104 
+45.14 
+72.49 
+81.75 
+101.76 
+109.34 
+8.32 
+12.22 
+12.99 
+48.72 
+3.96 
+8.34 
+0.70 
+4.57 
+0.00 
+62 
+13.57 
+24.14 
+34.55 
+29.49 
+37.99 
+2.91 
+5.24 
+5.61 
+24.85 
+4.85 
+7.49 
+0.68 
+3.19 
+0.03 
+129 
+54.35 
+58.78 
+97.66 
+87.70 
+107.47 
+7.15 
+13.65 
+13.47 
+41.83 
+2.43 
+4.48 
+0.92 
+3.20 
+0.03 
+109 
+44.65 
+64.29 
+77.25 
+97.55 
+106.93 
+6.85 
+10.88 
+15.41 
+37.75 
+4.79 
+9.34 
+0.70 
+5.14 
+0.00 
+70 
+12.80 
+23.90 
+31.70 
+33.90 
+35.50 
+3.10 
+4.60 
+5.10 
+22.80 
+5.10 
+6.61 
+0.70 
+4.13 
+0.03 
+120 
+40.50 
+58.90 
+77.90 
+84.30 
+88.10 
+7.10 
+11.50 
+13.00 
+42.10 
+3.80 
+9.22 
+0.82 
+3.12 
+0.03 
+133 
+51.31 
+62.13 
+83.90 
+93.62 
+107.33 
+6.55 
+11.65 
+16.96 
+48.55 
+2.66 
+7.09 
+0.79 
+3.22 
+0.03 
+104 
+43.69 
+74.13 
+83.90 
+101.59 
+103.16 
+7.24 
+15.76 
+17.11 
+52.21 
+3.11 
+6.64 
+0.70 
+3.12 
+0.03 
+130 
+48.10 
+66.80 
+87.20 
+94.30 
+98.60 
+7.30 
+13.00 
+14.80 
+44.50 
+2.70 
+4.82 
+0.81 
+2.78 
+0.03 
+124 
+49.06 
+67.26 
+90.11 
+96.24 
+100.61 
+7.80 
+15.59 
+16.12 
+49.33 
+2.70 
+12.10 
+0.70 
+3.11 
+0.03 
+135 
+47.70 
+66.10 
+86.70 
+93.70 
+98.90 
+7.20 
+12.90 
+14.70 
+43.90 
+3.00 
+11.20 
+0.90 
+3.57 
+0.03 
+127 
+44.81 
+75.61 
+82.39 
+103.42 
+99.51 
+8.85 
+12.13 
+16.26 
+40.92 
+3.36 
+7.73 
+0.88 
+3.63 
+0.03 
+121 
+51.40 
+67.32 
+86.26 
+87.03 
+90.05 
+7.07 
+12.42 
+14.32 
+44.49 
+3.06 
+9.92 
+0.89 
+4.20 
+0.03 
+107 
+50.96 
+74.78 
+91.14 
+90.05 
+90.25 
+8.70 
+11.78 
+12.82 
+49.17 
+4.83 
+7.83 
+0.78 
+5.60 
+0.00 
+65 
+13.29 
+28.56 
+38.99 
+36.08 
+42.12 
+3.68 
+6.04 
+6.03 
+22.36 
+5.50 
+6.22 
+0.90 
+5.04 
+0.03 
+92 
+39.82 
+68.85 
+92.87 
+105.27 
+100.10 
+8.83 
+12.84 
+14.95 
+45.75 
+3.90 
+6.22 
+Validation dataset 
+0.90 
+4.12 
+0.03 
+100 
+46.30 
+67.50 
+89.30 
+95.70 
+100.10 
+8.10 
+13.10 
+14.80 
+45.30 
+3.90 
+7.28 
+1.00 
+4.60 
+0.03 
+84 
+34.87 
+51.34 
+63.21 
+83.32 
+75.72 
+6.90 
+9.83 
+11.83 
+36.49 
+5.36 
+8.00 
+0.67 
+4.29 
+0.03 
+133 
+40.91 
+51.24 
+77.12 
+77.56 
+98.67 
+6.46 
+10.24 
+13.39 
+46.31 
+4.18 
+8.89 
+0.88 
+3.37 
+0.03 
+125 
+53.39 
+74.26 
+79.00 
+91.98 
+92.12 
+7.45 
+14.99 
+15.55 
+47.22 
+3.91 
+10.40 
+0.80 
+4.23 
+0.03 
+94 
+41.22 
+69.30 
+80.13 
+99.00 
+105.41 
+7.43 
+12.64 
+15.81 
+48.07 
+4.10 
+5.71 
+0.82 
+2.98 
+0.03 
+136 
+46.50 
+80.71 
+92.90 
+111.43 
+98.49 
+7.57 
+13.94 
+14.54 
+52.09 
+2.73 
+11.10 
+0.89 
+4.77 
+0.00 
+90 
+15.09 
+23.58 
+32.46 
+38.79 
+42.23 
+3.16 
+5.60 
+6.33 
+23.09 
+6.43 
+6.62 
+1.00 
+5.09 
+0.00 
+82 
+11.78 
+24.93 
+32.66 
+34.87 
+31.40 
+2.85 
+4.77 
+4.75 
+24.19 
+8.59 
+6.29 
+1.00 
+3.68 
+0.03 
+90 
+42.57 
+69.04 
+84.03 
+82.84 
+92.11 
+7.94 
+10.95 
+12.74 
+39.86 
+4.28 
+9.55 
+0.70 
+4.65 
+0.00 
+62 
+10.97 
+25.17 
+34.35 
+31.12 
+33.65 
+2.78 
+4.23 
+5.67 
+21.25 
+4.85 
+2.71 
+1.00 
+5.49 
+0.00 
+89 
+13.76 
+20.27 
+32.66 
+28.95 
+31.74 
+3.04 
+3.87 
+4.75 
+19.26 
+8.50 
+5.87 
+
+
+===== PAGE 10 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3921 
+ 
+0.80 
+3.11 
+0.03 
+120 
+50.80 
+70.60 
+92.20 
+99.60 
+104.20 
+7.70 
+13.70 
+15.70 
+45.80 
+2.80 
+6.81 
+0.70 
+5.15 
+0.00 
+65 
+12.90 
+24.20 
+32.10 
+34.20 
+35.80 
+3.20 
+4.70 
+5.20 
+23.10 
+4.80 
+2.57 
+0.75 
+3.90 
+0.03 
+114 
+38.63 
+54.42 
+69.43 
+82.91 
+83.19 
+7.42 
+12.99 
+11.40 
+36.38 
+4.07 
+5.23 
+0.80 
+5.21 
+0.00 
+67 
+13.82 
+29.86 
+40.34 
+33.35 
+35.73 
+3.01 
+5.82 
+5.07 
+26.21 
+5.30 
+3.69 
+0.89 
+5.31 
+0.00 
+88 
+11.99 
+27.51 
+32.11 
+36.93 
+37.54 
+3.91 
+5.20 
+5.77 
+27.11 
+5.78 
+6.43 
+0.89 
+2.99 
+0.03 
+102 
+57.31 
+73.43 
+90.91 
+105.47 
+119.84 
+9.09 
+14.10 
+18.19 
+40.46 
+3.03 
+8.92 
+0.80 
+3.11 
+0.03 
+125 
+51.10 
+70.80 
+92.90 
+101.30 
+105.90 
+7.80 
+13.80 
+15.80 
+46.10 
+3.10 
+11.00 
+0.81 
+4.35 
+0.03 
+117 
+49.83 
+69.96 
+79.26 
+85.93 
+94.67 
+7.19 
+12.90 
+14.79 
+40.57 
+4.14 
+5.65 
+0.90 
+5.12 
+0.00 
+80 
+14.10 
+26.20 
+34.90 
+37.30 
+39.10 
+3.40 
+5.00 
+5.60 
+25.10 
+5.90 
+6.44 
+0.75 
+4.95 
+0.00 
+57 
+13.42 
+25.65 
+30.50 
+36.59 
+32.94 
+3.39 
+5.17 
+4.52 
+25.64 
+5.23 
+3.40 
+0.89 
+4.35 
+0.03 
+87 
+39.82 
+72.23 
+92.87 
+91.87 
+96.10 
+7.21 
+11.79 
+12.58 
+45.75 
+3.78 
+6.77 
+0.80 
+5.14 
+0.00 
+70 
+14.40 
+26.90 
+35.70 
+37.90 
+39.70 
+3.50 
+5.20 
+5.70 
+25.70 
+5.30 
+3.83 
+1.00 
+5.26 
+0.00 
+98 
+14.01 
+26.56 
+30.79 
+29.61 
+29.33 
+2.73 
+4.01 
+5.15 
+19.71 
+9.52 
+6.37 
+0.83 
+4.42 
+0.00 
+69 
+15.04 
+27.20 
+36.46 
+41.90 
+38.07 
+3.71 
+4.66 
+5.45 
+29.64 
+4.90 
+7.11 
+Table 2. Statistical analysis of collected database 
+ 
+Mean 
+Median 
+Mode 
+S.D. 
+Variance 
+Skewness 
+Kurtosis 
+Range 
+Minimum 
+Maximum 
+C/B 
+0.83 
+0.81 
+1.00 
+0.11 
+0.01 
+0.11 
+-0.98 
+0.36 
+0.64 
+1.00 
+Ag/B 
+4.12 
+4.14 
+3.11 
+0.86 
+0.73 
+-0.02 
+-1.28 
+2.97 
+2.69 
+5.66 
+PL/B 
+0.02 
+0.03 
+0.03 
+0.01 
+0.00 
+-0.72 
+-1.51 
+0.03 
+0.00 
+0.03 
+S 
+100.30 
+101.00 
+115.00 
+23.12 
+534.6 
+-0.01 
+-0.99 
+96.00 
+57.00 
+153.00 
+Fc03 
+34.83 
+41.10 
+39.82 
+15.80 
+249.7 
+-0.47 
+-1.47 
+47.28 
+10.97 
+58.25 
+Fc07 
+52.59 
+61.10 
+25.38 
+19.88 
+395.2 
+-0.47 
+-1.47 
+61.88 
+20.27 
+82.15 
+Fc28 
+68.04 
+78.90 
+32.66 
+24.80 
+614.9 
+-0.47 
+-1.43 
+74.07 
+27.26 
+101.33 
+Fc60 
+73.86 
+84.60 
+90.05 
+27.74 
+769.3 
+-0.49 
+-1.46 
+83.80 
+28.95 
+112.75 
+Fc90 
+76.71 
+88.50 
+36.57 
+29.26 
+856.1 
+-0.49 
+-1.46 
+90.51 
+29.33 
+119.84 
+Ft28 
+6.08 
+6.85 
+2.91 
+2.05 
+4.22 
+-0.46 
+-1.38 
+6.36 
+2.73 
+9.09 
+Ff28 
+10.13 
+11.65 
+5.20 
+3.84 
+14.71 
+-0.42 
+-1.43 
+12.06 
+3.87 
+15.93 
+Fb28 
+11.32 
+13.00 
+5.10 
+4.41 
+19.48 
+-0.43 
+-1.44 
+13.85 
+4.34 
+18.19 
+Ec28 
+37.55 
+41.39 
+25.70 
+10.11 
+102.1 
+-0.44 
+-1.27 
+33.63 
+19.04 
+52.67 
+K28 
+4.40 
+4.10 
+5.30 
+1.44 
+2.09 
+1.24 
+2.19 
+7.14 
+2.38 
+9.52 
+P 
+7.33 
+7.11 
+10.90 
+2.50 
+6.27 
+0.02 
+-0.82 
+10.42 
+1.68 
+12.10 
+Table 3. Pearson correlation matrix 
+ 
+C/B 
+Ag/B PL/B 
+S 
+Fc03 Fc07 Fc28 Fc60 Fc90 Ft28 
+Ff28 Fb28 Ec28 
+K28 
+P 
+C/B 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Ag/B -0.02 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+PL/B -0.03 -0.75 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+S 
+-0.21 -0.73 
+0.80 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fc03 -0.05 -0.80 
+0.95 
+0.83 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fc07 
+0.00 
+-0.78 
+0.94 
+0.79 
+0.95 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fc28 -0.06 -0.80 
+0.94 
+0.81 
+0.96 
+0.95 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fc60 -0.01 -0.78 
+0.94 
+0.78 
+0.94 
+0.96 
+0.95 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fc90 -0.06 -0.79 
+0.95 
+0.81 
+0.96 
+0.94 
+0.96 
+0.95 
+1.00 
+ 
+ 
+ 
+ 
+ 
+ 
+Ft28 
+0.00 
+-0.70 
+0.95 
+0.74 
+0.93 
+0.94 
+0.92 
+0.93 
+0.94 
+1.00 
+ 
+ 
+ 
+ 
+ 
+Ff28 -0.03 -0.81 
+0.94 
+0.79 
+0.94 
+0.94 
+0.95 
+0.95 
+0.95 
+0.91 
+1.00 
+ 
+ 
+ 
+ 
+Fb28 -0.01 -0.84 
+0.94 
+0.79 
+0.95 
+0.95 
+0.94 
+0.95 
+0.95 
+0.91 
+0.93 
+1.00 
+ 
+ 
+ 
+Ec28 -0.06 -0.77 
+0.92 
+0.78 
+0.93 
+0.93 
+0.93 
+0.93 
+0.94 
+0.90 
+0.92 
+0.91 
+1.00 
+ 
+ 
+K28 
+0.45 
+0.72 
+-0.72 -0.66 -0.78 -0.76 -0.78 -0.77 -0.78 -0.73 -0.78 -0.77 -0.78 
+1.00 
+ 
+P 
+0.30 
+-0.63 
+0.54 
+0.49 
+0.53 
+0.55 
+0.53 
+0.54 
+0.52 
+0.49 
+0.55 
+0.57 
+0.53 
+-0.31 
+1.00 
+
+
+===== PAGE 11 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3922 
+ 
+ 
+Figure 3. Distribution histograms for inputs (in blue) and outputs (in green) 
+3.3. Research Program 
+Two different models were used to predict the twelve outputs of concrete mix using the gathered dataset. The 
+implemented techniques are “Artificial Neural Network (ANN)” and “Evolutionary Polynomial Regression (EPR)”. 
+Each implemented technique is based on different approach mimicking human brain for ANN, optimization of 
+mathematical regression for EPR and simulating evolution of natural creatures for GA. However, for all techniques, 
+their accuracies were evaluated in terms of “Sum of Squared Errors (SSE)”, “Root of Mean of Squared Errors (RMSE)” 
+and “Determination Coefficient (R2)”. 
+The values listed in Table 2 illustrated the different correlations between considering inputs and outputs, based on 
+these values the predicting models were constructed as shown in Figure 4. Where the concrete strengths (Fc03, Fc07, 
+Fc28, Fc60, Fc90, Ft28, Ff28 & Fb28) were predicted using the design mix ratios (C/B), (Ag/B) & (PL/B), while the 
+predicted Fc28 is used besides the design mix ratios to predict the values of (S, Ec28 & K28). Finally, the predicted 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 12 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3923 
+ 
+Fc28, S, Ec28 in addition to the design mix ratios are used to predict (P) values. The next sections present the results of 
+each technique and its accuracy metrics.  
+ 
+Figure 4. Theoretical framework for concrete design mix and models development and predicting 
+4. Results and Discussions 
+4.1. General Remarks on the Concrete Mixes’ Strength and Environmental Impact 
+The concrete mixes collected from literature was reduced to the following ratios; cement to binder (cement + fly ash 
++ rice husk ash) ratio (C/B), aggregate (FAg + CAg) to binder ratio (Ag/B), and plasticizer to binder ratio (PL/B) and 
+the behaviour of the hydro-mechanical properties of the concrete were observed under life cycle assessment (P) 
+considerations. It can be observed that none of the concrete constituents’ ratios reacted independent of the other. But 
+more emphasis is placed on the binders and their ratios (C/B and PL/B) as they constitute the contribution to the global 
+warming potential (GWP) of cement use in concrete production, transportation and utilization during construction 
+activities. It is observed that a reduction in the C/B ratio brings about an equivalent reduction in P, though it is not 
+consistent with all the points of the database. This indicates that there is a portion of environmental impact contribution 
+from the Ag/B ratio [35, 85]. This further implies that aggregates (Ag) equally consume energy and release considerable 
+amount of greenhouse emission during the production process (quarrying) and transportation. However, closed-form 
+equations, intelligent models and intelligent mix design tools have been proposed for fly ash/rice husk ash blend in 
+concrete to solve this optimal materials selection and sampling riddles. Furthermore, this development can be employed 
+to solve infrastructural design and problems dealing with concrete structures as well as concrete containment liner 
+systems which need a compressive strength as low as 0.2MPa and hydraulic conductivity (k) of 1E-09m/s for singles 
+liner systems and 1E-07 for double liner systems [25]. It can also be noted that air content was not considered in the 
+parametric study and the models’ execution. This was because voids have minor effect on concrete strength, for normal 
+weight, non-air-entrained concrete; the void ratio is ranged between 0.5% and 2.5% with average value of 1.5+/-1%, 
+that affect the strength by +/-5% as per ACI-212 and E4-12. 
+4.2. Prediction of Outputs 
+4.2.1. Using ANN Technique 
+As shown in Figure 4, the predictive model consists of three sub-models. The first is for concrete strengths; the 
+second is for concrete physical properties; and the third is for environmental impact factor. The three sub-models were 
+developed using the ANN technique with a layout of (3:8:8), (4:8:3), and (6:8:1), respectively. All the sub-models used 
+the traditional "Back Propagation (BP)" training algorithm, standardization method (Var/S.D.), and activation function 
+(Hyper Tan). The used network layout is illustrated in Figures 5 to 7, while the weight matrices of each model are shown 
+in Tables 4 to 6. The prediction error % values of the first sub-models were ranged between 6.9% and 9.4% with an 
+average value of 8.2%, and the error % of the second sub-model were ranged between 5.9% and 7.6% with an average 
+value of 7.0%, while the error % of the third sub-model was 6.8%. On the other hand, the R2 values of the first sub-
+model were ranged between 0.925 and 0.965 with an average value of 0.945, and for the second sub-model, the R2 
+values were ranged between 0.878 and 0.949 with an average value of 0.894, and finally, the R2 value of the third sub-
+model was 0.960. This compares well with previous research works which utilized fly ash-silica combination and fly 
+ash alone in concrete production [91-96], and had used other intelligent methods in their prediction of the concrete 
+mechanical properties. 
+
+
+===== PAGE 13 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3924 
+ 
+ 
+Figure 5. Structure layout for sub-model (1) to predict concrete strengths 
+ 
+Figure 6. Structure layout for sub-model (2) to predict concrete physical properties 
+
+
+===== PAGE 14 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3925 
+ 
+ 
+Figure 7. Structure layout for sub-model (3) to predict the environmental impact factor 
+Table 4. Weights matrix for the developed sub-model (1) 
+ 
+ 
+Hidden Layer 
+ 
+ 
+ 
+H1 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+ 
+Inputs 
+Bias 
+1.66 
+1.70 
+-2.61 
+-1.59 
+-4.07 
+-5.80 
+1.47 
+1.99 
+ 
+C/B 
+0.74 
+3.91 
+-1.54 
+10.34 
+2.70 
+9.90 
+-1.10 
+-2.12 
+ 
+Ag/B 
+1.11 
+0.93 
+-3.63 
+-1.55 
+0.88 
+4.91 
+-2.21 
+0.96 
+ 
+PL/B 
+-0.34 
+9.26 
+-1.20 
+11.06 
+0.94 
+-5.67 
+-5.39 
+6.68 
+ 
+ 
+ 
+Hidden Layer 
+ 
+ 
+H1 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+Bias 
+Outputs 
+Fc03 
+-0.57 
+-0.78 
+-0.25 
+0.26 
+-0.26 
+0.01 
+0.08 
+1.56 
+-0.37 
+Fc07 
+0.09 
+0.94 
+0.08 
+0.16 
+-0.42 
+0.14 
+0.09 
+-0.06 
+-0.63 
+Fc28 
+-1.33 
+-6.01 
+0.78 
+0.33 
+-0.55 
+0.30 
+-1.62 
+5.11 
+1.39 
+Fc60 
+2.02 
+0.19 
+0.05 
+-0.10 
+-0.54 
+0.20 
+1.47 
+2.48 
+-2.60 
+Fc90 
+0.07 
+-3.59 
+0.89 
+0.05 
+-0.46 
+0.17 
+-0.90 
+3.63 
+0.14 
+Ft28 
+1.07 
+1.21 
+-0.76 
+0.03 
+-0.61 
+0.31 
+1.57 
+1.48 
+-2.51 
+Ff28 
+0.29 
+0.72 
+0.30 
+0.10 
+-0.45 
+0.15 
+0.05 
+0.15 
+-0.65 
+Fb28 
+-2.39 
+3.01 
+1.53 
+0.27 
+-0.41 
+0.26 
+-3.21 
+-5.56 
+3.09 
+
+
+===== PAGE 15 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3926 
+ 
+Table 5. Weights matrix for the developed sub-model (2) 
+ 
+ 
+Hidden Layer 
+ 
+ 
+ 
+H1 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+ 
+Inputs 
+Bias 
+-1.41 
+1.70 
+-0.99 
+-3.24 
+0.78 
+-1.74 
+5.63 
+1.18 
+ 
+C/B 
+0.83 
+0.33 
+-0.66 
+6.94 
+-2.39 
+-0.23 
+9.43 
+-1.07 
+ 
+Ag/B 
+-0.25 
+0.15 
+-0.13 
+8.32 
+1.28 
+-0.22 
+-5.07 
+0.39 
+ 
+PL/B 
+0.31 
+-1.88 
+1.36 
+10.16 
+0.09 
+1.45 
+-4.11 
+-0.16 
+ 
+Fc28 
+-0.18 
+-0.49 
+-0.51 
+5.24 
+1.00 
+0.78 
+10.89 
+0.39 
+ 
+ 
+ 
+Hidden Layer 
+ 
+ 
+H1 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+Bias 
+Outputs 
+S 
+0.20 
+-1.12 
+0.41 
+-0.06 
+-0.41 
+-0.66 
+0.18 
+0.45 
+0.08 
+Ec28 
+4.15 
+-8.99 
+-2.41 
+-0.55 
+-0.63 
+-6.95 
+0.43 
+3.50 
+0.10 
+K28 
+-3.11 
+-2.38 
+-1.02 
+0.13 
+0.47 
+-2.11 
+-0.25 
+-3.00 
+-1.64 
+Table 6. Weights matrix for the developed sub-model (3) 
+ 
+ 
+Hidden Layer 
+ 
+ 
+ 
+H1 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+ 
+Inputs 
+Bias 
+-2.32 
+1.24 
+-10.05 
+-1.11 
+1.59 
+2.73 
+1.44 
+1.76 
+ 
+C/B 
+1.06 
+1.69 
+-5.68 
+0.40 
+-0.79 
+7.84 
+1.62 
+-0.27 
+ 
+Ag/B 
+2.48 
+-0.04 
+-4.41 
+-2.87 
+3.77 
+0.04 
+7.32 
+0.39 
+ 
+PL/B 
+-1.24 
+0.94 
+2.55 
+-1.56 
+2.89 
+2.67 
+16.07 
+-2.18 
+ 
+Fc28 
+-0.61 
+-2.57 
+8.47 
+1.15 
+-2.76 
+-8.81 
+0.24 
+-0.38 
+ 
+S 
+0.75 
+3.26 
+-11.13 
+-2.05 
+2.37 
+12.36 
+1.87 
+1.34 
+ 
+Ec28 
+-0.38 
+-3.53 
+-5.13 
+0.56 
+-0.11 
+-12.45 
+-2.61 
+-1.77 
+ 
+ 
+ 
+Hidden Layer 
+ 
+ 
+H1 
+H2 
+H3 
+H4 
+H5 
+H6 
+H7 
+H8 
+Bias 
+Outputs 
+P 
+-2.55 
+2.43 
+-1.14 
+-3.59 
+-3.06 
+-1.49 
+-2.73 
+-1.50 
+-1.48 
+Figure 8 illustrates the relative importance values of each input parameter for P and it indicates that all input 
+parameters have almost the same importance level except (Ag/B) which has a slightly higher importance. This 
+conclusion confirms the proposed theoretical framework shown in Figure 4. 
+ 
+Figure 8. Relative importance of input parameters for (P) 
+4.2.2. Using EPR Technique 
+Similarly, the developed EPR model was divided into three sub-models as per Figure 4. The first sub-model was 
+concerned in predicting the concrete strengths using a set of eight optimized cubic polynomials. All polynomials have 
+the same three inputs (C/B, Ag/B & PL/B), hence, each polynomial have 20 possible terms (10+6+3+1=20) as follows: 
+14%
+14%
+25%
+16%
+16%
+15%
+Ec28
+PL/B
+Ag/B
+Fc28
+C/B
+S
+
+
+===== PAGE 16 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3927 
+ 
+∑
+∑
+∑
+𝑋𝑖. 𝑋𝑗. 𝑋𝑘
+𝑘=3
+𝑘=1
+𝑗=3
+𝑗=1
+𝑖=3
+𝑖=1
++ ∑
+∑
+𝑋𝑖
+𝑗=3
+𝑗=1
+𝑖=3
+𝑖=1
+. 𝑋𝑗+ ∑
+𝑋𝑖
+𝑖=3
+𝑖=1
++ 𝐶  
+(1) 
+GA technique was applied on these polynomials to select the most effective five terms of each polynomial to predict 
+(Fc03, Fc07, Fc28, Fc60, Fc90, Ft28, Ff28 and Fb28). The outputs are illustrated in Equations 2 to 9 and its fitness is 
+shown in Figure 9. The error% values were ranged between 9.2% and 10.9% with average value of 9.7%, while (R2) 
+values were ranged between 0.917 and 0.938 with average value of 0.928. This also compares well with previous 
+research works, which utilized fly ash-silica fume combination and fly ash alone in concrete production [91, 96], and 
+had used other intelligent methods in their prediction of the concrete mechanical properties. 
+Fc03 = 13.8 −7785 (
+C
+B) (
+PL
+B ) −5000 (
+B
+C) (
+PL
+B ) −131 (
+Ag
+B ) (
+PL
+B ) + 14100 (
+PL
+B )  
+(2) 
+Fc07 = 26.2 −10280 (
+C
+B) (
+PL
+B ) −6960 (
+B
+C) (
+PL
+B ) + 1595 (
+B
+Ag) (
+PL
+B ) + 17915 (
+PL
+B )  
+(3) 
+Fc28 = −241 + 612 (
+C
+B) −356 (
+C
+B)
+2
++ 73 (
+B
+C) (
+B
+Ag) + 1378 (
+PL
+B )  
+(4) 
+Fc60 = −233 + 656 (
+C
+B) −395 (
+C
+B)
+2
++ 4132 (
+PL
+B ) −74600 (
+PL
+B )
+2
+  
+(5) 
+Fc90 = 21 + 101 (
+C
+B) (
+B
+Ag) −14240 (
+C
+B) (
+PL
+B ) −8486 (
+B
+C) (
+PL
+B ) + 23905 (
+PL
+B )  
+(6) 
+Ft28 = −18.1 + 52 (
+C
+B) −31 (
+C
+B)
+2
++ 0.5 (
+B
+C) (
+PL
+B ) + 135 (
+PL
+B )  
+(7) 
+Ff28 = −35.4 + 100 (
+C
+B) −60 (
+C
+B)
+2
++ 12.5 (
+Ag
+B ) (
+PL
+B ) + 730 (
+B
+Ag) (
+PL
+B )  
+(8) 
+Fb28 = 1.2 −158 (
+C
+B) (
+B
+Ag) −106 (
+B
+C) (
+B
+Ag) + 283 (
+B
+Ag) + 230 (
+PL
+B )  
+(9) 
+The second sub-model was concerned in predicting the physical properties of concrete using a set of three optimized 
+cubic polynomials. All polynomials have the same four inputs (C/B, Ag/B, PL/B & Fc28), hence, each polynomial have 
+35 possible terms (20+10+4+1=35) as follows: 
+∑
+∑
+∑
+𝑋𝑖. 𝑋𝑗. 𝑋𝑘
+𝑘=4
+𝑘=1
+𝑗=4
+𝑗=1
+𝑖=4
+𝑖=1
++ ∑
+∑
+𝑋𝑖
+𝑗=4
+𝑗=1
+𝑖=4
+𝑖=1
+. 𝑋𝑗+ ∑
+𝑋𝑖
+𝑖=4
+𝑖=1
++ 𝐶  
+(10) 
+GA technique was applied on these polynomials to select the most effective seven terms of each polynomial to 
+predict (S, Ec28 & K28). The outputs are illustrated in Equations 11 to 13 and its fitness is shown in Figure 9. The error 
+% values were ranged between 8.6% and 10.5% with average value of 9.3%, while R2 values were ranged between 
+0.831& 0.887 with average value of 0.868. 
+S = 22 + 42 (
+C
+B) + 4.2 (
+C
+B) (
+Ag
+B ) −5015 (
+C
+B) (
+PL
+B ) −465 (
+Ag
+B ) (
+PL
+B ) + 8570 (
+PL
+B ) −41510 (
+PL
+B )
+2
+  
+(11) 
+Ec28 = −333 + 570 (
+C
+B) −300 (
+C
+B)
+2
++ 60 (
+B
+C) + 64 (
+B
+C) (
+PL
+B ) + 106 (
+Ag
+B ) (
+PL
+B ) + 66 (
+B
+Ag)  
+(12) 
+K28 = 309 −388 (
+C
+B) −154 (
+C
+B) (
+PL
+B ) + 168 (
+C
+B)
+2
+−79 (
+B
+C) −9.5 (
+B
+Ag) + 2595 (
+PL
+B )
+2
+  
+(13) 
+Finally, the third sub-model was concerned in predicting the environmental impact factor using six inputs cubic 
+polynomials, which are (C/B, Ag/B, PL/B, Fc28, S and K28), hence, the polynomial has 84 possible terms 
+(56+21+6+1=84) as follows: 
+∑
+∑
+∑
+𝑋𝑖. 𝑋𝑗. 𝑋𝑘
+𝑘=6
+𝑘=1
+𝑗=6
+𝑗=1
+𝑖=6
+𝑖=1
++ ∑
+∑
+𝑋𝑖
+𝑗=6
+𝑗=1
+𝑖=6
+𝑖=1
+. 𝑋𝑗+ ∑
+𝑋𝑖
+𝑖=6
+𝑖=1
++ 𝐶  
+(14) 
+GA technique was applied on these polynomials to select the most effective nine terms of each polynomial to predict 
+P. The output is illustrated in Equation 15 and its fitness is shown in Figure 9. The error% and (R2) values were (21.4% 
+- 0.371).  
+P = −40.5 + 66 (
+C
+B) −9.8 K28 (
+C
+B) −0.22 S (
+C
+B) −4.3 (
+Ag
+B ) + 0.53 K28 (
+Ag
+B ) + 2358 (
+PL
+B )
+2
++ 7.6 K28 + 0.21 S  
+(15) 
+The results of all developed models are summarized in Table 7. Figure 9 compare the accuracies of the developed 
+models graphically. 
+
+
+===== PAGE 17 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3928 
+ 
+Table 7. Accuracies of developed models 
+Item 
+Technique 
+Model 
+SSE 
+Error % 
+R2 
+Fc03 
+ANN 
+Figure 5, Table 4 
+1123 
+9.4 
+0.955 
+EPR 
+Equation 2 
+1527 
+10.9 
+0.938 
+Fc07 
+ANN 
+Figure 5, Table 4 
+2093 
+8.5 
+0.947 
+EPR 
+Equation 3 
+2837 
+9.9 
+0.926 
+Fc28 
+ANN 
+Figure 5, Table 4 
+2493 
+7.2 
+0.960 
+EPR 
+Equation 4 
+4954 
+10.1 
+0.917 
+Fc60 
+ANN 
+Figure 5, Table 4 
+2740 
+6.9 
+0.965 
+EPR 
+Equation 5 
+4817 
+9.2 
+0.936 
+Fc90 
+ANN 
+Figure 5, Table 4 
+3590 
+7.6 
+0.958 
+EPR 
+Equation 6 
+5548 
+9.5 
+0.934 
+Ft28 
+ANN 
+Figure 5, Table 4 
+31 
+8.9 
+0.925 
+EPR 
+Equation 7 
+33 
+9.2 
+0.920 
+Ff28 
+ANN 
+Figure 5, Table 4 
+81 
+8.7 
+0.944 
+EPR 
+Equation 8 
+93 
+9.3 
+0.936 
+Fb28 
+ANN 
+Figure 5, Table 4 
+90 
+8.2 
+0.954 
+EPR 
+Equation 9 
+131 
+9.9 
+0.931 
+S 
+ANN 
+Figure 6, Table 5 
+6026 
+7.6 
+0.878 
+EPR 
+Equation 11 
+8068 
+8.7 
+0.831 
+Ec28 
+ANN 
+Figure 6, Table 5 
+516 
+5.9 
+0.949 
+EPR 
+Equation 12 
+1088 
+8.6 
+0.887 
+K28 
+ANN 
+Figure 6, Table 5 
+11 
+7.4 
+0.946 
+EPR 
+Equation 13 
+22 
+10.5 
+0.887 
+P 
+ANN 
+Figure 7, Table 6 
+26 
+6.8 
+0.960 
+EPR 
+Equation 15 
+258 
+21.4 
+0.371 
+ 
+(a) 
+(b) 
+(c) 
+(d) 
+
+
+===== PAGE 18 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3929 
+ 
+(e) 
+(f) 
+(g) 
+(h) 
+(i) 
+(j) 
+(k) 
+(l) 
+
+
+===== PAGE 19 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3930 
+ 
+(m) 
+(n) 
+(o) 
+(p) 
+(q) 
+(r) 
+(s) 
+(t) 
+
+
+===== PAGE 20 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3931 
+ 
+(u) 
+(v) 
+(w) 
+(x) 
+Figure 9. Relation between predicted and calculated values using the developed models 
+4.3. The Developed Mix Design Aid 
+Although the developed predicting models for (Fc28) using (ANN) and (EPR) are accurate enough, they are still 
+hard to implement in practical mix designs, especially for manual calculations [91–96]. Hence, concrete mix design 
+tools were developed by substituting in the developed ANN model different combinations of input parameter values that 
+varied at constant intervals. Figure 10 presents the corresponding binder content (B) and water-binder ratio (W/B) for 
+each input parameter combination, while the calculated (Fc28) values were plotted on the contour charts shown in Figure 
+11. The key chart indicates the changes in mix design when moving toward each side of the design chart; moving 
+vertically changes the concrete strength and plasticizer-binder ratio, while moving horizontally changes the binder 
+content and water-binder ratio. 
+ 
+Figure 10. Concrete mix design aid, corresponding binder content (B) and water-binder ratio (W/B) for diffident 
+combinations of (PL/B), (Ag/B) 
+PL/B
+PL/B
+0.035 0.31 0.34 0.37 0.41 0.44 0.48 0.51
+0.035 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+0.030 0.31 0.34 0.38 0.41 0.45 0.48 0.51
+0.030 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+0.025 0.32 0.35 0.38 0.42 0.45 0.49 0.52
+0.025 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+0.020 0.32 0.35 0.39 0.42 0.46 0.49 0.52
+0.020 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+0.015 0.33 0.36 0.39 0.43 0.46 0.50 0.53
+0.015 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+0.010 0.33 0.36 0.40 0.43 0.47 0.50 0.53
+0.010 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+0.005 0.34 0.37 0.40 0.44 0.47 0.51 0.54
+0.005 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+0.000 0.34 0.37 0.41 0.44 0.48 0.51 0.54
+0.000 0.63 0.55 0.49 0.44 0.40 0.37 0.34
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+W/B
+B(t/m3)
+
+
+----- TABLE p20#1 -----
+
+PL/B PL/B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+0.035 | 0.31 | 0.34 | 0.37 | 0.41 | 0.44 | 0.48 | 0.51 | 0.035 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+0.030 | 0.31 | 0.34 | 0.38 | 0.41 | 0.45 | 0.48 | 0.51 | 0.030 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+0.025 | 0.32 | 0.35 | 0.38 | 0.42 | 0.45 | 0.49 | 0.52 | 0.025 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+0.020 | 0.32 | 0.35 | 0.39 | 0.42 | 0.46 | 0.49 | 0.52 | 0.020 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+0.015 | 0.33 | 0.36 | 0.39 | 0.43 | 0.46 | 0.50 | 0.53 | 0.015 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+0.010 | 0.33 | 0.36 | 0.40 | 0.43 | 0.47 | 0.50 | 0.53 | 0.010 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+0.005 | 0.34 | 0.37 | 0.40 | 0.44 | 0.47 | 0.51 | 0.54 | 0.005 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+0.000 | 0.34 | 0.37 | 0.41 | 0.44 | 0.48 | 0.51 | 0.54 | 0.000 | 0.63 | 0.55 | 0.49 | 0.44 | 0.40 | 0.37 | 0.34 | 
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B 2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+W/B B(t/m3) |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 21 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3932 
+ 
+ 
+Figure 11. Concrete mix design aid, key chat, (Fc28) for diffident combinations of (PL/B), (Ag/B) & (C/B) 
+Using this tool is very simple, requiring only the desire (Fc28) and cement-binder ratio (C/B). Just select the correct 
+chart in Figure 11 based on the (C/B) value, then locate the required (Fc28) on the selected chart to determine both 
+(Ag/B) and (PL/B). From the corresponded cells in Figure 10, both binder content (B) (ton/m3) and water-binder ratio 
+(W/B) could be determined. Finally, the absolute values of water, plasticizer, cement, (fly ash or rich husk ash), and fine 
+and coarse aggregates [92, 94] could be calculated by multiplying their ratios by the binder content, considering that the 
+coarse aggregate content is twice the fine aggregate content. 
+PL/B
+PL/B
+0.035
+95
+86
+81
+76
+73
+70
+68
+0.035 102
+96
+91
+87
+84
+82
+80
+0.030
+88
+80
+74
+69
+66
+63
+61
+0.030
+96
+89
+84
+80
+77
+75
+73
+0.025
+81
+73
+67
+63
+59
+57
+54
+0.025
+89
+82
+77
+73
+70
+68
+66
+0.020
+74
+66
+60
+56
+52
+50
+47
+0.020
+82
+75
+70
+66
+63
+61
+59
+0.015
+67
+59
+53
+49
+45
+43
+41
+0.015
+75
+68
+63
+59
+56
+54
+52
+0.010
+60
+52
+46
+42
+39
+36
+34
+0.010
+68
+61
+56
+52
+50
+47
+45
+0.005
+53
+45
+39
+35
+32
+29
+27
+0.005
+61
+54
+49
+46
+43
+40
+38
+0.000
+46
+38
+32
+28
+25
+22
+20
+0.000
+54
+47
+42
+39
+36
+33
+32
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+C/B= 0.60
+C/B= 0.70
+PL/B
+PL/B
+0.035 105
+99
+95
+91
+89
+87
+85
+0.035 102
+96
+92
+89
+87
+85
+84
+0.030
+98
+92
+88
+84
+82
+80
+78
+0.030
+95
+89
+85
+83
+80
+79
+77
+0.025
+91
+85
+81
+78
+75
+73
+71
+0.025
+88
+82
+79
+76
+73
+72
+70
+0.020
+84
+78
+74
+71
+68
+66
+65
+0.020
+81
+75
+72
+69
+67
+65
+63
+0.015
+77
+71
+67
+64
+61
+59
+58
+0.015
+74
+69
+65
+62
+60
+58
+56
+0.010
+71
+64
+60
+57
+54
+52
+51
+0.010
+67
+62
+58
+55
+53
+51
+49
+0.005
+64
+58
+53
+50
+48
+45
+44
+0.005
+60
+55
+51
+48
+46
+44
+43
+0.000
+57
+51
+46
+43
+41
+39
+37
+0.000
+53
+48
+44
+41
+39
+37
+36
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+C/B= 0.80
+C/B= 0.90
+PL/B
+PL/B
+0.035
+92
+87
+83
+81
+79
+77
+76
+0.035
+0.030
+85
+80
+77
+74
+72
+70
+69
+0.030
+0.025
+78
+73
+70
+67
+65
+63
+62
+0.025
+0.020
+71
+66
+63
+60
+58
+57
+55
+0.020
+0.015
+64
+59
+56
+53
+51
+50
+48
+0.015
+0.010
+57
+52
+49
+46
+44
+43
+41
+0.010
+0.005
+50
+46
+42
+40
+38
+36
+35
+0.005
+0.000
+44
+39
+35
+33
+31
+29
+28
+0.000
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+C/B= 1.00
+Key chart
+Dec. B 
+Inc. W
+Inc. B 
+Dec. W
+
+
+----- TABLE p21#1 -----
+
+PL/B PL/B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+0.035 | 95 | 86 | 81 | 76 | 73 | 70 | 68 | 0.035 | 102 |  | 96 | 91 | 87 |  | 84 | 82 | 80 |  | 
+0.030 | 88 | 80 | 74 | 69 | 66 | 63 | 61 | 0.030 | 96 |  | 89 | 84 | 80 |  | 77 | 75 | 73 |  | 
+0.025 | 81 | 73 | 67 | 63 | 59 | 57 | 54 | 0.025 | 89 |  | 82 | 77 | 73 |  | 70 | 68 | 66 |  | 
+0.020 | 74 | 66 | 60 | 56 | 52 | 50 | 47 | 0.020 | 82 |  | 75 | 70 | 66 |  | 63 | 61 | 59 |  | 
+0.015 | 67 | 59 | 53 | 49 | 45 | 43 | 41 | 0.015 | 75 |  | 68 | 63 | 59 |  | 56 | 54 | 52 |  | 
+0.010 | 60 | 52 | 46 | 42 | 39 | 36 | 34 | 0.010 | 68 |  | 61 | 56 | 52 |  | 50 | 47 | 45 |  | 
+0.005 | 53 | 45 | 39 | 35 | 32 | 29 | 27 | 0.005 | 61 |  | 54 | 49 | 46 |  | 43 | 40 | 38 |  | 
+0.000 | 46 | 38 | 32 | 28 | 25 | 22 | 20 | 0.000 | 54 |  | 47 | 42 | 39 |  | 36 | 33 | 32 |  | 
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B 2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+C/B= 0.60 C/B= 0.70
+PL/B PL/B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+0.035 | 105 | 99 | 95 | 91 | 89 | 87 | 85 | 0.035 | 102 |  | 96 | 92 | 89 |  | 87 | 85 | 84 |  | 
+0.030 | 98 | 92 | 88 | 84 | 82 | 80 | 78 | 0.030 | 95 |  | 89 | 85 | 83 |  | 80 | 79 | 77 |  | 
+0.025 | 91 | 85 | 81 | 78 | 75 | 73 | 71 | 0.025 | 88 |  | 82 | 79 | 76 |  | 73 | 72 | 70 |  | 
+0.020 | 84 | 78 | 74 | 71 | 68 | 66 | 65 | 0.020 | 81 |  | 75 | 72 | 69 |  | 67 | 65 | 63 |  | 
+0.015 | 77 | 71 | 67 | 64 | 61 | 59 | 58 | 0.015 | 74 |  | 69 | 65 | 62 |  | 60 | 58 | 56 |  | 
+0.010 | 71 | 64 | 60 | 57 | 54 | 52 | 51 | 0.010 | 67 |  | 62 | 58 | 55 |  | 53 | 51 | 49 |  | 
+0.005 | 64 | 58 | 53 | 50 | 48 | 45 | 44 | 0.005 | 60 |  | 55 | 51 | 48 |  | 46 | 44 | 43 |  | 
+0.000 | 57 | 51 | 46 | 43 | 41 | 39 | 37 | 0.000 | 53 |  | 48 | 44 | 41 |  | 39 | 37 | 36 |  | 
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B 2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+C/B= 0.80 C/B= 0.90
+PL/B PL/B |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+0.035 | 92 | 87 | 83 | 81 | 79 | 77 | 76 | 0.035 |  |  |  |  |  |  |  |  |  |  | 
+0.030 | 85 | 80 | 77 | 74 | 72 | 70 | 69 | 0.030 |  |  |  |  |  |  |  |  |  |  | 
+0.025 | 78 | 73 | 70 | 67 | 65 | 63 | 62 | 0.025 |  |  |  |  |  |  |  |  |  |  | 
+0.020 | 71 | 66 | 63 | 60 | 58 | 57 | 55 | 0.020 |  | Inc. B Dec. B |  |  |  |  |  |  |  |  | 
+0.015 | 64 | 59 | 56 | 53 | 51 | 50 | 48 | 0.015 |  | Dec. W Inc. W |  |  |  |  |  |  |  |  | 
+0.010 | 57 | 52 | 49 | 46 | 44 | 43 | 41 | 0.010 |  |  |  |  |  |  |  |  |  |  | 
+0.005 | 50 | 46 | 42 | 40 | 38 | 36 | 35 | 0.005 |  |  |  |  |  |  |  |  |  |  | 
+0.000 | 44 | 39 | 35 | 33 | 31 | 29 | 28 | 0.000 |  |  |  |  |  |  |  |  |  |  | 
+2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B 2.50 3.00 3.50 4.00 4.50 5.00 5.50 Ag/B
+C/B= 1.00 Key chart |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 22 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3933 
+ 
+For example, to design a concrete mix with (Fc28=60MPa) and (C/B=80%), the middle left chart in Figure 11 will 
+be used, (Ag/B) is 3.5 and (PL/B) is 1%. From Figure 10, the binder content is 0.49 t/m3 and (W/B) is 40%. Hence, 1.0 
+m3 of this mix contains 390kg cement, 100kg fly ash or rice husk ash, 195 litter of water, 4.9kg plasticizer, 570kg fine 
+aggregate (sand) and 1140kg coarse aggregate. 
+5. Conclusions 
+This research presents three models using two techniques (ANN, and EPR) to predict concrete compressive strength 
+at different ages (Fc03, Fc07, Fc28, Fc60, Fc90), splitting, flexural and bond strengths after 28 days (Ft28, Ff28 and 
+Fb28), slump, elastic modulus and permeability after 28 days (S, Ec28 and K28) besides the environmental impact factor 
+(P) using cement-binder ratio (C/B), total aggregate-binder ratio (Ag/B) and super-plasticizer-binder ratio (PL/B). Also, 
+the research presented a concrete mix design tool developed based on the developed predictive models. The results of 
+comparing the accuracies of the developed models could be concluded in the following points: 
+ Based on the correlations between the considered variables, the two developed models were constructed using 
+three sub-models, the first to predict the strengths, the second to estimate the physical properties, and the third to 
+evaluate the environmental impact factor. 
+ ANN models showed the best accuracy, with average values of 91.8%, 93.0%, and 93.2% for the three sub-models, 
+respectively. The total average accuracy was 92.3%. In spate of its high accuracy, it is too difficult to implement 
+manually. The developed mix design tool provides a quick and easy alternative to the long and complicated 
+calculations of ANN. 
+ The EPR model presented a less complicated and also less accurate alternative for the ANN, where its accuracies 
+were 90.3%, 90.7%, and 78.6% for the three sub-models, respectively. The total average accuracy was 89.4%. 
+ The limited accuracy of the third EPR sub-model indicated that the relation between P and the considered inputs 
+is too complicated to be captured by polynomial regression, even for the optimized one. On the other hand, the 
+highly complicated third ANN sub-model was capable of capturing this relationship accurately. 
+ The sum of the absolute weights of each neuron in the input layer of the developed third ANN sub-model indicated 
+that P is almost equally affected by all input values, which is confirmed by the developed formula in the third EPR 
+sub-model that contains all the considered inputs. 
+ The GA technique successfully reduced the 20, 35, and 84 terms of the conventional polynomial regression cubic 
+formula to only 5, 7, and 9 terms for the three sub-models, respectively, without having a significant impact on its 
+accuracy. 
+ Like any other regression technique, the generated formulas are valid within the considered range of parameter 
+values; beyond this range, the prediction accuracy should be verified. 
+ Figures 10 and 11 present the mapping for (Fc28) values corresponding to all possible mix combinations (within 
+the limits of the available dataset). Studying these charts leads to the following additional remarks. 
+ This tool (charts) is limited to the following ranges: 
+o Binder content, 340 to 630 kg/m3; 
+o Water-binder ratio, 31% to 54%; 
+o Fly ash or rice husk ash– binder ratio, 0.0% to 40%; 
+o Total aggregate – binder ratio, 2.5 to 5.5; 
+o Coarse –fine aggregate ratio is constant and equals to 2.0; 
+o Fc28, 20 to 105 MPa. 
+ The maximum Fc28 values occur when the cement-binder ratio is 80%. 
+ Decreasing the aggregate-binder ratio increases the (Fc28) due to increased binder content and reduces the water-
+binder ratio, and vice versa. 
+ Increasing the plasticizer–binder ratio increases the concrete strength (Fc28) regardless of the cement-binder ratio. 
+ Further studies may be carried out to predict the same outputs using a wider range of databases that include high- 
+and ultra-high-performance concrete, besides special types of concrete such as self-healing concrete. 
+6. Declarations  
+6.1. Author Contributions 
+Conceptualization, K.C.O.; methodology, A.M.E.; formal analysis, A.S.; investigation, H.J.; data curation, F.D.; 
+writing—original draft preparation, K.C.O., A.M.E., A.S., H.J., F.D., and H.A.M.; writing—review and editing, K.C.O., 
+A.M.E., A.S., H.J., F.D., and H.A.M.; supervision, H.A.M. All authors have read and agreed to the published version of 
+the manuscript. 
+
+
+===== PAGE 23 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3934 
+ 
+6.2. Data Availability Statement 
+The data presented in this study are available in the article. 
+6.3. Funding 
+The authors received no financial support for the research, authorship, and/or publication of this article. 
+6.4. Conflicts of Interest 
+The authors declare no conflict of interest.  
+7. References  
+[1] Kamiya, K., Oka, A., Nasu, H., & Hashimoto, T. (2000). Comparative study of structure of silica gels from different sources. 
+Journal of Sol-Gel Science and Technology, 19(1–3), 495–499. doi:10.1023/A:1008720118475. 
+[2] Maraghechi, H., Avet, F., Wong, H., Kamyab, H., & Scrivener, K. (2018). Performance of Limestone Calcined Clay Cement 
+(LC3) with various kaolinite contents with respect to chloride transport. Materials and Structures/Materiaux et Constructions, 
+51(5), 125. doi:10.1617/s11527-018-1255-3. 
+[3] Pillai, R. G., Gettu, R., Santhanam, M., Rengaraju, S., Dhandapani, Y., Rathnarajan, S., & Basavaraj, A. S. (2019). Service life 
+and life cycle assessment of reinforced concrete systems with limestone calcined clay cement (LC3). Cement and Concrete 
+Research, 118, 111–119. doi:10.1016/j.cemconres.2018.11.019. 
+[4] Danner, T., Norden, G., & Justnes, H. (2018). Characterisation of calcined raw clays suitable as supplementary cementitious 
+materials. Applied Clay Science, 162, 391–402. doi:10.1016/j.clay.2018.06.030. 
+[5] Yang, X., Teng, F., & Wang, G. (2013). Incorporating environmental co-benefits into climate policies: A regional study of the 
+cement industry in China. Applied Energy, 112, 1446–1453. doi:10.1016/j.apenergy.2013.03.040. 
+[6] Li, C., Nie, Z., Cui, S., Gong, X., Wang, Z., & Meng, X. (2014). The life cycle inventory study of cement manufacture in China. 
+Journal of Cleaner Production, 72, 204–211. doi:10.1016/j.jclepro.2014.02.048. 
+[7] Oh, D. Y., Noguchi, T., Kitagaki, R., & Park, W. J. (2014). CO2 emission reduction by reuse of building material waste in the 
+Japanese cement industry. Renewable and Sustainable Energy Reviews, 38, 796–810. doi:10.1016/j.rser.2014.07.036. 
+[8] Saeli, M., Novais, R. M., Seabra, M. P., & Labrincha, J. A. (2018). Green geopolymeric concrete using grits for applications in 
+construction. Materials Letters, 233, 94–97. doi:10.1016/j.matlet.2018.08.102. 
+[9] Thomas, B. S., & Chandra Gupta, R. (2016). Properties of high strength concrete containing scrap tire rubber. Journal of Cleaner 
+Production, 113, 86–92. doi:10.1016/j.jclepro.2015.11.019. 
+[10] Thomas, B. S., & Gupta, R. C. (2015). Long term behaviour of cement concrete containing discarded tire rubber. Journal of 
+Cleaner Production, 102, 78–87. doi:10.1016/j.jclepro.2015.04.072. 
+[11] Siddique, R., Singh, K., Kunal, P., Singh, M., Corinaldesi, V., & Rajor, A. (2016). Properties of bacterial rice husk ash concrete. 
+Construction and Building Materials, 121, 112–119. doi:10.1016/j.conbuildmat.2016.05.146. 
+[12] Kumar, S., Gupta, R. C., Shrivastava, S., Csetenyi, L., & Thomas, B. S. (2016). Preliminary study on the use of quartz sandstone 
+as a partial replacement of coarse aggregate in concrete based on clay content, morphology and compressive strength of 
+combined gradation. Construction and Building Materials, 107, 103–108. doi:10.1016/j.conbuildmat.2016.01.004. 
+[13] Mehra, P., Gupta, R. C., & Thomas, B. S. (2016). Properties of concrete containing jarosite as a partial substitute for fine 
+aggregate. Journal of Cleaner Production, 120, 241–248. doi:10.1016/j.jclepro.2016.01.015. 
+[14] Mehra, P., Gupta, R. C., & Thomas, B. S. (2016). Assessment of durability characteristics of cement concrete containing jarosite. 
+Journal of Cleaner Production, 119, 59–65. doi:10.1016/j.jclepro.2016.01.055. 
+[15] Thomas, B. S., Damare, A., & Gupta, R. C. (2013). Strength and durability characteristics of copper tailing concrete. 
+Construction and Building Materials, 48, 894–900. doi:10.1016/j.conbuildmat.2013.07.075. 
+[16] Thomas, B. S., Gupta, R. C., & Panicker, V. J. (2016). Recycling of waste tire rubber as aggregate in concrete: Durability-related 
+performance. Journal of Cleaner Production, 112, 504–513. doi:10.1016/j.jclepro.2015.08.046. 
+[17] Pradhan, S., Chang Boon Poh, A., & Qian, S. (2022). Impact of service life and system boundaries on life cycle assessment of 
+sustainable concrete mixes. Journal of Cleaner Production, 342, 130847. doi:10.1016/j.jclepro.2022.130847. 
+[18] Valipour, M., Shekarchi, M., & Arezoumandi, M. (2017). Chlorine diffusion resistivity of sustainable green concrete in harsh 
+marine environments. Journal of Cleaner Production, 142, 4092–4100. doi:10.1016/j.jclepro.2016.10.015. 
+[19] Al-Khalaf, M. N., & Yousif, H. A. (1984). Use of rice husk ash in concrete. International Journal of Cement Composites and 
+Lightweight Concrete, 6(4), 241–248. doi:10.1016/0262-5075(84)90019-8. 
+
+
+===== PAGE 24 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3935 
+ 
+[20] James, J., & Subba Rao, M. (1986). Reactivity of rice husk ash. Cement and Concrete Research, 16(3), 296–302. 
+doi:10.1016/0008-8846(86)90104-3. 
+[21] Saraswathy, V., & Song, H. W. (2007). Corrosion performance of rice husk ash blended concrete. Construction and Building 
+Materials, 21(8), 1779–1784. doi:10.1016/j.conbuildmat.2006.05.037. 
+[22] Thomas, B. S., Gupta, R. C., Mehra, P., & Kumar, S. (2015). Performance of high strength rubberized concrete in aggressive 
+environment. Construction and Building Materials, 83, 320–326. doi:10.1016/j.conbuildmat.2015.03.012. 
+[23] Thomas, B. S., Gupta, R. C., & John Panicker, V. (2015). Experimental and modelling studies on high strength concrete 
+containing waste tire rubber. Sustainable Cities and Society, 19, 68–73. doi:10.1016/j.scs.2015.07.013. 
+[24] Valipour, M., Pargar, F., Shekarchi, M., & Khani, S. (2013). Comparing a natural pozzolan, zeolite, to metakaolin and silica 
+fume in terms of their effect on the durability characteristics of concrete: A laboratory study. Construction and Building 
+Materials, 41, 879–888. doi:10.1016/j.conbuildmat.2012.11.054. 
+[25] Wang, Y., Tan, Y., Wang, Y., & Liu, C. (2020). Mechanical properties and chloride permeability of green concrete mixed with 
+fly ash and coal gangue. Construction and Building Materials, 233, 117166. doi:10.1016/j.conbuildmat.2019.117166. 
+[26] Tkaczewska, E. (2014). Effect of the superplasticizer type on the properties of the fly ash blended cement. Construction and 
+Building Materials, 70, 388–393. doi:10.1016/j.conbuildmat.2014.07.096. 
+[27] Shehab, H. K., Eisa, A. S., & Wahba, A. M. (2016). Mechanical properties of fly ash based geopolymer concrete with full and 
+partial cement replacement. Construction and Building Materials, 126, 560–565. doi:10.1016/j.conbuildmat.2016.09.059. 
+[28] Khodair, Y., & Raza, M. (2017). Sustainable self-consolidating concrete using recycled asphalt pavement and high volume of 
+supplementary cementitious materials. Construction and Building Materials, 131, 245–253. doi:10.1016/j.conbuildmat.2016.11.044. 
+[29] Givi, A. N., Rashid, S. A., Aziz, F. N. A., & Salleh, M. A. M. (2010). Assessment of the effects of rice husk ash particle size on 
+strength, water permeability and workability of binary blended concrete. Construction and Building Materials, 24(11), 2145–
+2150. doi:10.1016/j.conbuildmat.2010.04.045. 
+[30] Gursel, A. P., Maryman, H., & Ostertag, C. (2016). A life-cycle approach to environmental, mechanical, and durability properties 
+of “green” concrete mixes with rice husk ash. Journal of Cleaner Production, 112, 823–836. doi:10.1016/j.jclepro.2015.06.029. 
+[31] Mazlum, F., & Uyan, M. (1992). Strength of Mortar Made with Cement Containing Rice Husk Ash and Cured in Sodium Sulfate 
+Solution. Special Publication, 132, 513-532. 
+[32] Mehta, P. K. (1986). Concrete. Structure, properties and materials. Prentice Hall, Hoboken, United States. 
+[33] Zhang, M. H., & Malhotra, V. M. (1996). High-performance concrete incorporating rice husk ash as a supplementary cementing 
+material. ACI Materials Journal, 93(6), 629–636. doi:10.14359/9870. 
+[34] McLellan, B. C., Williams, R. P., Lay, J., Van Riessen, A., & Corder, G. D. (2011). Costs and carbon emissions for geopolymer 
+pastes in comparison to ordinary Portland cement. Journal of Cleaner Production, 19(9–10), 1080–1090. 
+doi:10.1016/j.jclepro.2011.02.010. 
+[35] Amin, M., & Abdelsalam, B. A. (2019). Efficiency of rice husk ash and fly ash as reactivity materials in sustainable concrete. 
+Sustainable Environment Research, 29(1), 1-10. doi:10.1186/s42834-019-0035-2. 
+[36] Mater, Y., Kamel, M., Karam, A., & Bakhoum, E. (2022). ANN-Python prediction model for the compressive strength of green 
+concrete. Construction Innovation. doi:10.1108/CI-08-2021-0145. 
+[37] Naseri, H., Jahanbakhsh, H., Khezri, K., & Shirzadi Javid, A. A. (2022). Toward sustainability in optimizing the fly ash concrete 
+mixture ingredients by introducing a new prediction algorithm. Environment, Development and Sustainability, 24(2), 2767–
+2803. doi:10.1007/s10668-021-01554-2. 
+[38] Bheel, N., keerio, M. A., Kumar, A., Shahzaib, J., Ali, Z., Ali, M., & sohu, S. (2022). An Investigation on Fresh and Hardened 
+Properties of Concrete Blended with Rice Husk Ash as Cementitious Ingredient and Coal Bottom Ash as Sand Replacement 
+Material. Silicon, 14(2), 677–688. doi:10.1007/s12633-020-00906-3. 
+[39] Patnaik, B., Buony, G., Mekuria, Z. (2022). Rice Husk Ash as a Sustainable Cementing Material for Concrete in Ethiopia. Recent 
+Developments in Sustainable Infrastructure (ICRDSI-2020)—Structure and Construction Management. Lecture Notes in Civil 
+Engineering, 21. Springer, Singapore. doi:10.1007/978-981-16-8433-3_43. 
+[40] Gursel, A. P. (2014). Life-cycle assessment of concrete: decision-support tool and case study application. PhD Thesis, University 
+of California, Berkeley, United States. 
+[41] Pradhan, S., Tiwari, B. R., Kumar, S., & Barai, S. V. (2019). Comparative LCA of recycled and natural aggregate concrete using 
+Particle Packing Method and conventional method of design mix. Journal of Cleaner Production, 228, 679–691. 
+doi:10.1016/j.jclepro.2019.04.328. 
+
+
+===== PAGE 25 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3936 
+ 
+[42] Ehrlich, B. (2010). Reducing environmental impacts of cement and concrete. Environmental Building News, BuildingGreen, 
+Inc. Available online: https://www.buildinggreen.com/feature/reducing-environmental-impacts-cement-and-concrete (accessed 
+on May 2022). 
+[43] Dabbaghi, F., Sadeghi-Nik, A., Ali Libre, N., & Nasrollahpour, S. (2021). Characterizing fiber reinforced concrete incorporating 
+zeolite and metakaolin as natural pozzolans. Structures, 34, 2617–2627. doi:10.1016/j.istruc.2021.09.025. 
+[44] Mousavi, M. A., Sadeghi-Nik, A., Bahari, A., Jin, C., Ahmed, R., Ozbakkaloglu, T., & de Brito, J. (2021). Strength optimization 
+of cementitious composites reinforced by carbon nanotubes and Titania nanoparticles. Construction and Building Materials, 
+303(124510). doi:10.1016/j.conbuildmat.2021.124510. 
+[45] Bahari, A., Sadeghi‐Nik, A., Shaikh, F. U. A., Sadeghi‐Nik, A., Cerro‐Prada, E., Mirshafiei, E., & Roodbari, M. (2022). 
+Experimental studies on rheological, mechanical, and microstructure properties of self‐compacting concrete containing 
+perovskite nanomaterial. Structural Concrete, 23(1), 564-578. doi:10.1002/suco.202000548. 
+[46] Kafi, M. A., Sadeghi-Nik, A., Bahari, A., Sadeghi-Nik, A., & Mirshafiei, E. (2016). Microstructural Characterization and 
+Mechanical Properties of Cementitious Mortar Containing Montmorillonite Nanoparticles. Journal of Materials in Civil 
+Engineering, 28(12). doi:10.1061/(asce)mt.1943-5533.0001671. 
+[47] Li, Y., Han, D., Wang, H., Lyu, H., & Zou, D. (2022). Carbonation curing of mortars produced with reactivated cementitious 
+materials for CO2 sequestration. Journal of Cleaner Production, 135501. doi: 10.1016/j.jclepro.2022.135501. 
+[48] Amiri, H., Azadi, S., Karimaei, M., Sadeghi, H., & Farshad Dabbaghi. (2022). Multi-objective optimization of coal waste 
+recycling 
+in 
+concrete using 
+response 
+surface 
+methodology. 
+Journal 
+of 
+Building 
+Engineering, 
+45(103472). 
+doi:10.1016/j.jobe.2021.103472. 
+[49] Rashad, A. M. (2018). Lightweight expanded clay aggregate as a building material – An overview. Construction and Building 
+Materials, 170, 757–775. doi:10.1016/j.conbuildmat.2018.03.009. 
+[50] Bahari, A., Berenjian, J., & Sadeghi-Nik, A. (2016). Modification of Portland cement with Nano SiC. Proceedings of the 
+National Academy of Sciences, India Section A: Physical Sciences, 86(3), 323–331. doi:10.1007/s40010-015-0244-y. 
+[51] Sadeghi-Nik, A., Berenjian, J., Alimohammadi, S., Lotfi-Omran, O., Sadeghi-Nik, A., & Karimaei, M. (2019). The Effect of 
+Recycled Concrete Aggregates and Metakaolin on the Mechanical Properties of Self-Compacting Concrete Containing 
+Nanoparticles. Iranian Journal of Science and Technology - Transactions of Civil Engineering, 43, 503–515. 
+doi:10.1007/s40996-018-0182-4. 
+[52] Dabbaghi, F., Tanhadoust, A., Nehdi, M. L., Nasrollahpour, S., Dehestani, M., & Yousefpour, H. (2021). Life cycle assessment 
+multi-objective optimization and deep belief network model for sustainable lightweight aggregate concrete. Journal of Cleaner 
+Production, 318(128554). doi:10.1016/j.jclepro.2021.128554. 
+[53] Sadeghi-Nik, A., Berenjian, J., Bahari, A., Safaei, A. S., & Dehestani, M. (2017). Modification of microstructure and mechanical 
+properties of cement by nanoparticles through a sustainable development approach. Construction and Building Materials, 155, 
+880–891. doi:10.1016/j.conbuildmat.2017.08.107. 
+[54] Bahari, A., Sadeghi-Nik, A., Roodbari, M., Sadeghi-Nik, A., & Mirshafiei, E. (2018). Experimental and theoretical studies of 
+ordinary Portland cement composites contains nano LSCO perovskite with Fokker-Planck and chemical reaction equations. 
+Construction and Building Materials, 163, 247–255. doi:10.1016/j.conbuildmat.2017.12.073. 
+[55] Dabbaghi, F., Nasrollahpour, S., Dehestani, M., & Yousefpour, H. (2022). Optimization of Concrete Mixtures Containing 
+Lightweight Expanded Clay Aggregates Based on Mechanical, Economical, Fire-Resistance, and Environmental Considerations. 
+Journal of Materials in Civil Engineering, 34(2). doi:10.1061/(asce)mt.1943-5533.0004083. 
+[56] Bajpai, R., Choudhary, K., Srivastava, A., Sangwan, K. S., & Singh, M. (2020). Environmental impact assessment of fly ash 
+and silica fume based geopolymer concrete. Journal of Cleaner Production, 254(120147). doi:10.1016/j.jclepro.2020.120147. 
+[57] Habert, G., D’Espinose De Lacaillerie, J. B., & Roussel, N. (2011). An environmental evaluation of geopolymer based concrete 
+production: 
+Reviewing 
+current 
+research 
+trends. 
+Journal 
+of 
+Cleaner 
+Production, 
+19(11), 
+1229–1238. 
+doi:10.1016/j.jclepro.2011.03.012. 
+[58] Dabbaghi, F., Fallahnejad, H., Nasrollahpour, S., Dehestani, M., & Yousefpour, H. (2021). Evaluation of fracture energy, 
+toughness, brittleness, and fracture process zone properties for lightweight concrete exposed to high temperatures. Theoretical 
+and Applied Fracture Mechanics, 116(103088). doi:10.1016/j.tafmec.2021.103088. 
+[59] Zhang, Y., Luo, W., Wang, J., Wang, Y., Xu, Y., & Xiao, J. (2019). A review of life cycle assessment of recycled aggregate 
+concrete. Construction and Building Materials, 209, 115–125. doi:10.1016/j.conbuildmat.2019.03.078. 
+[60] Juenger, M. C. G., & Siddique, R. (2015). Recent advances in understanding the role of supplementary cementitious materials 
+in concrete. Cement and Concrete Research, 78, 71–80. doi:10.1016/j.cemconres.2015.03.018. 
+
+
+===== PAGE 26 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3937 
+ 
+[61] Rashidi, M., Joshaghani, A., & Ghodrat, M. (2020). Towards eco-flowable concrete production. Sustainability (Switzerland), 
+12(3), 1–17. doi:10.3390/su12031208. 
+[62] Dabbaghi, F., Dehestani, M., Yousefpour, H., Rasekh, H., & Navaratnam, S. (2021). Residual compressive stress–strain 
+relationship of lightweight aggregate concrete after exposure to elevated temperatures. Construction and Building Materials, 
+298(123890). doi:10.1016/j.conbuildmat.2021.123890. 
+[63] Amin, M. N., Iqtidar, A., Khan, K., Javed, M. F., Shalabi, F. I., & Qadir, M. G. (2021). Comparison of machine learning 
+approaches with traditional methods for predicting the compressive strength of rice husk ash concrete. Crystals, 11(7). 
+doi:10.3390/cryst11070779. 
+[64] Bui, D. D., Hu, J., & Stroeven, P. (2005). Particle size effect on the strength of rice husk ash blended gap-graded Portland cement 
+concrete. Cement and Concrete Composites, 27(3), 357–366. doi:10.1016/j.cemconcomp.2004.05.002. 
+[65] Fan, K., Li, D., Damrongwiriyanupap, N., & Li, L. yuan. (2019). Compressive stress-strain relationship for fly ash concrete 
+under thermal steady state. Cement and Concrete Composites, 104(103371). doi:10.1016/j.cemconcomp.2019.103371. 
+[66] Naik, T. R. (2008). Sustainability of Concrete Construction. Practice Periodical on Structural Design and Construction, 13(2), 
+98–103. doi:10.1061/(asce)1084-0680(2008)13:2(98). 
+[67] Mathew, G., & Joseph, B. (2018). Flexural behaviour of geopolymer concrete beams exposed to elevated temperatures. Journal 
+of Building Engineering, 15, 311–317. doi:10.1016/j.jobe.2017.09.009. 
+[68] Adamu, M., Trabanpruek, P., Jongvivatsakul, P., Likitlersuang, S., & Iwanami, M. (2021). Mechanical performance and 
+optimization of high-volume fly ash concrete containing plastic wastes and graphene nanoplatelets using response surface 
+methodology. Construction and Building Materials, 308(125085). doi:10.1016/j.conbuildmat.2021.125085. 
+[69] Shaikh, F. U. A., & Supit, S. W. M. (2015). Compressive strength and durability properties of high volume fly ash (HVFA) 
+concretes 
+containing 
+ultrafine 
+fly 
+ash 
+(UFFA). 
+Construction 
+and 
+Building 
+Materials, 
+82, 
+192–205. 
+doi:10.1016/j.conbuildmat.2015.02.068. 
+[70] Siddique, R. (2004). Performance characteristics of high-volume Class F fly ash concrete. Cement and Concrete Research, 34(3), 
+487–493. doi:10.1016/j.cemconres.2003.09.002. 
+[71] Gartner, E. (2004). Industrially interesting approaches to “low-CO2” cements. Cement and Concrete Research, 34(9), 1489–
+1498. doi:10.1016/j.cemconres.2004.01.021. 
+[72] Thomas, B. S. (2018). Green concrete partially comprised of rice husk ash as a supplementary cementitious material – A 
+comprehensive review. Renewable and Sustainable Energy Reviews, 82, 3913–3923. doi:10.1016/j.rser.2017.10.081. 
+[73] Dabbaghi, F., Dehestani, M., & Yousefpour, H. (2022). Residual mechanical properties of concrete containing lightweight 
+expanded clay aggregate (LECA) after exposure to elevated temperatures. Structural Concrete, 23(4), 2162–2184. 
+doi:10.1002/suco.202000821. 
+[74] Khan, K., Ullah, M. F., Shahzada, K., Amin, M. N., Bibi, T., Wahab, N., & Aljaafari, A. (2020). Effective use of micro-silica 
+extracted from rice husk ash for the production of high-performance and sustainable cement mortar. Construction and Building 
+Materials, 258(119589). doi:10.1016/j.conbuildmat.2020.119589. 
+[75] Ebid, A. M., Deifalla, A. F., & Mahdi, H. A. (2022). Evaluating Shear Strength of Light-Weight and Normal-Weight Concretes 
+through Artificial Intelligence. Sustainability, 14(21), 14010. doi:10.3390/su142114010. 
+[76] Penadés-Plà, V., Martí, J. V., García-Segura, T., & Yepes, V. (2017). Life-cycle assessment: A comparison between two optimal 
+post-tensioned concrete box-girder road bridges. Sustainability (Switzerland), 9(10). doi:10.3390/su9101864. 
+[77] O’Brien, K. R., Ménaché, J., & O’Moore, L. M. (2009). Impact of fly ash content and fly ash transportation distance on embodied 
+greenhouse gas emissions and water consumption in concrete. International Journal of Life Cycle Assessment, 14(7), 621–629. 
+doi:10.1007/s11367-009-0105-5. 
+[78] AzariJafari, H., Taheri Amiri, M. J., Ashrafian, A., Rasekh, H., Barforooshi, M. J., & Berenjian, J. (2019). Ternary blended 
+cement: An eco-friendly alternative to improve resistivity of high-performance self-consolidating concrete against elevated 
+temperature. Journal of Cleaner Production, 223, 575–586. doi:10.1016/j.jclepro.2019.03.054. 
+[79] Seto, K. E., Churchill, C. J., & Panesar, D. K. (2017). Influence of fly ash allocation approaches on the life cycle assessment of 
+cement-based materials. Journal of Cleaner Production, 157, 65–75. doi:10.1016/j.jclepro.2017.04.093. 
+[80] Celik, K., Meral, C., Petek Gursel, A., Mehta, P. K., Horvath, A., & Monteiro, P. J. M. (2015). Mechanical properties, durability, 
+and life-cycle assessment of self-consolidating concrete mixtures made with blended portland cements containing fly ash and 
+limestone powder. Cement and Concrete Composites, 56, 59–72. doi:10.1016/j.cemconcomp.2014.11.003. 
+[81] Pitroda, J., Zala, L. B., & Umrigar, F. S. (2012). Experimental Investigations on Partial Replacement of Cement with Fly ash in 
+design mix concrete. International Journal of Advanced Engineering Technology, 3(4), 126-129. 
+
+
+===== PAGE 27 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 8, No. 12, December, 2022 
+3938 
+ 
+[82] Saha, A. K. (2018). Effect of class F fly ash on the durability properties of concrete. Sustainable Environment Research, 28(1), 
+25–31. doi:10.1016/j.serj.2017.09.001. 
+[83] Giaccio, G. M., & Malhotra, V. M. (1988). Concrete incorporating high volumes of ASTM Class F fly ash. Cement, Concrete 
+and Aggregates, 10(2), 88–95. doi:10.1520/cca10088j. 
+[84] Feldman, R. F., Carette, G. G., & Malhotra, V. M. (1990). Studies on mechanics of development of physical and mechanical 
+properties of high-volume fly ash-cement pastes. Cement and Concrete Composites, 12(4), 245–251. doi:10.1016/0958-
+9465(90)90003-G. 
+[85] Bouzoubaâ, N., Zhang, M. H., & Malhotra, V. M. (2001). Mechanical properties and durability of concrete made with high-
+volume fly ash blended cements using a coarse fly ash. Cement and Concrete Research, 31(10), 1393–1402. doi:10.1016/S0008-
+8846(01)00592-0. 
+[86] Poon, C. S., Lam, L., & Wong, Y. L. (2000). Study on high strength concrete prepared with large volumes of low calcium fly 
+ash. Cement and Concrete Research, 30(3), 447–455. doi:10.1016/S0008-8846(99)00271-9. 
+[87] Ameri, F., Shoaei, P., Bahrami, N., Vaezi, M., & Ozbakkaloglu, T. (2019). Optimum rice husk ash content and bacterial 
+concentration 
+in 
+self-compacting 
+concrete. 
+Construction 
+and 
+Building 
+Materials, 
+222, 
+796–813. 
+doi:10.1016/j.conbuildmat.2019.06.190. 
+[88] Iqtidar, A., Khan, N. B., Kashif-ur-Rehman, S., Javed, M. F., Aslam, F., Alyousef, R., Alabduljabbar, H., & Mosavi, A. (2021). 
+Prediction of compressive strength of rice husk ash concrete through different machine learning processes. Crystals, 11(4). 
+doi:10.3390/cryst11040352. 
+[89] Iftikhar, B., Alih, S. C., Vafaei, M., Elkotb, M. A., Shutaywi, M., Javed, M. F., Deebani, W., Khan, M. I., & Aslam, F. (2022). 
+Predictive modeling of compressive strength of sustainable rice husk ash concrete: Ensemble learner optimization and 
+comparison. Journal of Cleaner Production, 348(131285). doi:10.1016/j.jclepro.2022.131285. 
+[90] Onyelowe, K. C., Ebid, A. M., Mahdi, H. A., Riofrio, A., Eidgahee, D. R., Baykara, H., Soleymani, A., Kontoni, D.-P. N., 
+Shakeri, J., & Jahangir, H. (2022). Optimal Compressive Strength of RHA Ultra-High-Performance Lightweight Concrete 
+(UHPLC) and Its Environmental Performance Using Life Cycle Assessment. Civil Engineering Journal, 8(11), 2391–2410. 
+doi:10.28991/cej-2022-08-11-03. 
+[91] Onyelowe, K. C., Ebid, A. M., Riofrio, A., Soleymani, A., Baykara, H., Kontoni, D. P. N., Mahdi, H. A., & Jahangir, H. (2022). 
+Global warming potential-based life cycle assessment and optimization of the compressive strength of fly ash-silica fume 
+concrete; environmental impact consideration. Frontiers in Built Environment, 8(992552). doi:10.3389/fbuil.2022.992552. 
+[92] Dao, P.-L., Bui, V.-D., Onyelowe, K. C., Ebid, A. M., Le, V. D., & Ahaneku, I. E. (2022). Effect of metakaolin on the mechanical 
+properties of lateritic soil. Geotechnical Research, 9(4), 211–218. doi:10.1680/jgere.22.00046. 
+[93] Onyelowe, K. C., Ebid, A. M., Mahdi, H. A., Soleymani, A., Jayabalan, J., Jahangir, H., Samui, P., & Singh, R. P. (2022). 
+Modeling the confined compressive strength of CFRP-jacketed noncircular concrete columns using artificial intelligence 
+techniques. Cogent Engineering, 9(1). doi:10.1080/23311916.2022.2122156. 
+[94] Onyelowe, K. C., Gnananandarao, T., Ebid, A. M., Mahdi, H. A., Razzaghian Ghadikolaee, M., & Al-Ajamee, M. (2022). 
+Evaluating the Compressive Strength of Recycled Aggregate Concrete Using Novel Artificial Neural Network. Civil 
+Engineering Journal (Iran), 8(8), 1679–1693. doi:10.28991/CEJ-2022-08-08-011. 
+[95] Onyelowe, K. C., Ebid, A. M., Riofrio, A., Baykara, H., Soleymani, A., Mahdi, H. A., Jahangir, H., & Ibe, K. (2022). Multi-
+Objective Prediction of the Mechanical Properties and Environmental Impact Appraisals of Self-Healing Concrete for 
+Sustainable Structures. Sustainability (Switzerland), 14(15). doi:10.3390/su14159573. 
+[96] Onyelowe, K. C., Kontoni, D. P. N., Ebid, A. M., Dabbaghi, F., Soleymani, A., Jahangir, H., & Nehdi, M. L. (2022). Multi-
+Objective Optimization of Sustainable Concrete Containing Fly Ash Based on Environmental and Mechanical Considerations. 
+Buildings, 12(7), 948. doi:10.3390/buildings12070948. 

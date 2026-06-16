@@ -1,0 +1,1077 @@
+
+===== PAGE 1 =====
+
+Page | 1  
+ 
+ Experimental characterisation of non-encapsulated bio-based concrete with self-healing 
+capacity 
+Hazha Mohammed1, Montserrat Ortoneda-Pedrola1, Ismini Nakouti2, Ana Bras1  
+1Built Environment and Sustainable Technologies (BEST) Research Institute, Liverpool John Moores University, 
+UK 
+2Centre for Natural Products Discovery (CNPD), School of Pharmacy and Biomolecular Sciences, Liverpool John 
+Moores University, UK 
+ 
+*Corresponding Author: a.m.armadabras@ljmu.ac.uk 
+ 
+ 
+Abstract  
+The main reason for early corrosion in Reinforced Concrete (RC) structures is crack formation within the 
+concrete cover. Cracks can lead to leakage problems, allowing chloride, oxygen, water and other aggressive 
+chemicals to enter into concrete and eventually causes corrosion of steel reinforcement. The paper shows some 
+results of a novel bio concrete with biological self-healing agent, which added into the concrete mixture, 
+autonomously and actively, inhibits the concrete cracks and potential premature reinforcement corrosion. Two 
+compositions of concrete samples were prepared and casted – CEMI and CEMIII with 60% of Ground 
+Granulated Blast Furnace Slag (GGBS) with and without non-encapsulated bio-product utilising iron respiring 
+bacteria. The developed bio-mineral is capable of sealing cracks and blocking pores resulting in a delay of water-
+born ions in RC structures, acting as a diffusion barrier of oxygen to protect steel reinforcement's passivity 
+towards corrosion. The fresh test results show that these concretes have the potential to be used in RC heavily 
+reinforced and manually compacted sections with vibrations. The water absorption velocity has been significantly 
+reduced with the inclusion of bio-agent in CEMI and CEMIII concretes samples, which was associated with pores 
+sealing. Maximum water absorption via capillary tends to reduce at least 25% when bio-agent was introduced to 
+concrete type CEMIII. Other results emphases the efficiency of the bio-product in CEMIII medium. The bio-agent 
+does not decrease the compressive strength of tested concretes either for CEMI and CEM III. SEM observation 
+shows that the crystals were well developed near the surface of the crack. 
+ 
+1. INTRODUCTION 
+ 
+Nowadays, developed countries already spending a huge share of their infrastructure maintenance budget on, 
+repair and replacing of new and existing structures, (between 35% to 45% within the UK and 50% in the EU), this 
+reflecting major deficiencies in past practise and current design and the techniques of the construction. Cracking 
+of concrete and degradation are known to be a major problem in today’s concrete structures within the UK [1].   
+Reinforced Concrete (RC) corrosion costs the UK £23b per year and is one of the major durability challenges 
+leading to rust formation, cracking, spalling, delamination and degradation of structures. Corrosion is a natural 
+process of electrochemical degradation of metals. Generally, it is due to either chloride ion ingestion from de-
+icing salts and marine exposure or concrete carbonation. Corrosion caused by chloride normally results in 
+reinforced steel pitting whereas, carbonation causes a uniform corrosion in a failure of the passive layer. 
+Reinforcing steel corrosion mainly causing two major deterioration problems in reinforced concrete structures. 
+Initially is reducing the reinforcement cross-sectional area that will decrease the structural element's overall 
+
+
+===== PAGE 2 =====
+
+Page | 2  
+ 
+strength. This will reduce the transverse ribs size on the deformed rebar, decreases the primary bonding strength 
+mechanism among the deformed bars and the concrete surrounding also, the concrete surrounding mechanical 
+interlocking will be weakened. In fact, bond deterioration problems occur prior the bars ' cross-sectional area 
+reduction becomes an issue. Both reinforcement section loss and bond deterioration are serious issues affecting 
+the performance of reinforced concrete [2]. 
+The second issue of deterioration is that the reinforcement corrosion produces expansive products. Eventually, 
+corrosion expansive nature will inevitably trigger stresses higher than the tensile capacity of the concrete nearby 
+and results in crack development. When concrete cracked, significantly reduces the bond performance as the 
+confinement diminishes. Davis, et al. [2], noted a considerable reduction in bonding strength when cracks started 
+to progress where after the width of the cracks becomes 1mm, the bond strength for the uncorroded sample was 
+around 15% of the ultimate bonding strength. Cracks will further propagate, can cause spalling and delamination 
+if not properly dealt with. Furthermore, it must be emphasized that cracks as such are not considered as 
+reinforced concrete (RC) failure. However, the existence of cracks can decrease the durability of RC structures 
+[3].  
+The most serious threats to the integrity, safety and durability of RC structures is the cracking related 
+deterioration of cement-based materials [4]. For this service life problem caused by cracks, conventional repair 
+methods are a common solution. Even though, conventional repair can extend RC structures ' service life, it has 
+several drawbacks. Most of these repairs can last just 10 to 15 years; therefore, it is known that is difficult to 
+realize durable repairs. Moreover, the cracks which are not accessible, such as cracks in underground concrete 
+structures, are difficult to repair. In addition to these technical aspects, the repair costs are usually very high. The 
+indirect costs are therefore typically several times higher than the structure's direct costs [3].  
+Besides this, cement and concrete are extremely energy-intensive, and they generate large quantities of CO2 [1]. 
+Cement manufacturing is known to be the major source of atmospheric CO2. Cement production accounts for 
+88% of anthropogenic CO2 emissions whereas land-use shifts, with the remaining 12% primarily responsible for 
+deforestation [5].  To achieve the sustainability targets, it is essential to reduce the environmental impact of RC 
+strictures [6]. Due to the unique properties of concrete it is hard to replace, however, more significantly concrete 
+is a versatile material with many alternatives ways of mixture design to attain the similar material functionality [6]. 
+Thus, there are numerous ways available to improve concrete durability and sustainability as well as reducing the 
+environmental effects. There have been many research studies in recent years, with different technologies 
+interested in reducing CO2 concentration in the atmosphere and minimising the environmental impact of RC 
+structures [5]. 
+Research is therefore conducted to develop a concrete that capable of self-healing cracks, and possibly 
+minimise the cost of maintenance and repair on key infrastructure. The use of Microbiologically Induced Calcite 
+Precipitation (MICP) is a method for autonomous self-healing. This innovative method employs the metabolic 
+behaviour of microorganisms and bio-mineral precursors incorporated in concrete in order to produce an 
+inorganic compound acting as a healing-agent. This is normally calcium carbonate (CaCO3), usually in calcite 
+form, where the microbial material can precipitate soon after forming into small cracks, and it is capable of 
+reducing water permeation, aggressive chemicals and dissolved ions. Without the need for manual intervention, 
+the concrete service life could be extended [7].  
+In accordance to Talaiekhozan, et al.,[8] and  Alshalif, et al.,[5] various types of microorganisms have been 
+introduced to the concrete such as: ureolytic strains, Bacillus sphaericus, Bacillus megaterium, Bacillus lentus 
+Bacillus pasteurii,  Bacillus pseudofirmus, Bacillus alkalinitrilicus, Halomonas euryhaline, Pseudomonas 
+aeruginosa, Bacillus cohnii, and Bacillus amyloliquefaciens, as natural self-heading agent to develop a new 
+concrete named bio-concrete. According to literature review, the Bacillus genus family can be considered as the 
+most common type of microorganisms used in the development of self-healing concrete.  
+
+
+===== PAGE 3 =====
+
+Page | 3  
+ 
+A MICP healing process has three primary pathways: (i) aerobic metabolic conversion of calcium salts (ii) nitrate 
+dissimulation, (iii) enzymatic urea hydrolysis and. Healing occurs in the aerobic metabolic conversion pathway 
+due to inducing the oxidation of organic calcium salts by bacteria, such as calcium lactate or calcium acetate to 
+calcium carbonate under good circumstances. The latter refers to optimum pH, temperature and with the 
+presence of oxygen, water and nutrient. Carbon dioxide (CO2) and water are the byproducts of the 
+transformation of calcium acetate (Ca (C4H6O4) to calcium carbonate (CaCO3,) both compatible with concrete 
+(Equation (1)). In addition, in the present of water and carbon dioxide, a weak carbonic acid may be formed that 
+can contribute to the calcium hydroxide carbonation in the concrete (Equation (2)).This results in an improved 
+form of autogenous healing, since the un-carbonated molecule is smaller than the carbonated version [7].  
+ 
+Ca (C4H6O4) + 4O2   
+CaCO3 + 3CO2 +3H2O                 (1) 
+3CO2 +3Ca (OH)2  
+    3CaCO3 + 3H2O                            (2) 
+Nowadays, many self-healing approaches have been proposed by researchers, among them the calcium 
+carbonate (CaCO3) generating microorganisms is the most common technology of microbial induced self-healing 
+concrete cracks.     
+An experimental study performed by Chahal, et al.,[9] to determine the effect of “Sporoscarcina pasteurii” 
+microorganism on the rapid chloride migration and compressive strength of concrete prepared with and without 
+fly ash. Cement was partially substituted with fly ash (FA) by three different percentages of (10%, 20% and 30%) 
+by weight. The concrete mixes are made using three different cell concentrations (0, 103,105,107cells/ml). After 
+28 incubation at room temperature, tests were conducted for rapid chloride permeability, water absorption and 
+compressive strength. From the experimental results they observed that the addition of S. pasteuriii (105 cells/ml) 
+to the control concrete samples with 0% FA enhanced the compressive strength from 24MPa to 28MPa. 
+Whereas, the 30% FA replacement the concrete increased strength from 21MPa to 24MPa. Similarly, the 
+inclusion of FA with bacteria resulted in reduction of water absorption by four times less than normal concrete 
+(control).   
+Siddique, et al.,[10], investigated the impact of Bacillus aerius (of concentration 105 cells/mL) on the concrete 
+properties prepared with and without rice husk ash (RHA).  Cement partially was replaced by RHA of 
+percentages 0%, 5%, 10%, 15% and 20% by weight, prior to performing tests for abrasion resistance, porosity, 
+compressive strength, chloride permeability and water absorption following (7, 28 and 56-days) incubation. The 
+results indicated that the addition of B. aerius in RHA-concrete improved the strength of concrete at all testing 
+ages, however, the best possible output was attained with 10% replacement of RHA and the maximum strength 
+improvement was 36.1MPa to 40.0MPa with bacteria 9% following 28 days incubation. As well as, the inclusion 
+of bacteria led to a reduction from 4% to 2% in water absorption, porosity, and permeability at 28 days. 
+Andalib, et al.,[11] examined Bacillus megaterium of five different cell concentrations (1×106 to 5×106cfu/ml) were 
+directly added into the fresh concrete mixture to achieve optimal bacterial concentration. The substantial 
+increase in strength was observed at different ages for 3×106cfu/ml. The compressive strength of highest grade 
+of bio-concrete (50MPa) had enhanced by (24%) relative to lowest grade (30MPa) (12.8%). while, 107(cfu/ml) 
+had decreased the strength by (6%) in. SEM analysis was used to image the structural concrete samples 
+porosity with and without bacteria of cell concentrations of 103 to 107cfu/mL, the results of micro-structural 
+investigations clearly demonstrated that bacterial suspension of 3×106cfu/ml was intended to improve concrete 
+characteristics, while the porosity of concrete samples increased with the bacterial suspension of 107cfu/ml.   
+ De Belie, et al.,[12] In their research, Bacillus sphaericus suspension spores (109cells/mL) was encapsulated 
+into hydrogels and then introduced into fresh mortar samples to investigate the effects on water permeability and 
+their healing efficiency. The carbonate precipitating capacity of the hydrogel-encapsulated spores was in / on the 
+
+
+===== PAGE 4 =====
+
+Page | 4  
+ 
+hydrogel matrix to form CaCO3. After the addition of spores, the hydrogel's water absorption capacity was slightly 
+increased, and the absorbed water would be released gradually into the surroundings during hydration of 
+cemented materials. However, the result demonstrated that the mortar samples containing the hydrogel-
+encapsulated spores enhanced self-healing performance in both water permeability and crack filling, the greatest 
+healed crack width was around 0.5mm and in average 68% reduction in water permeability. However, the healed 
+crack width for the concrete samples made without bacteria were between 0 to 0.3mm and 15%-55% reduction 
+in water permeability.    
+An experimental research by Tziviloglou, et al.,[8], focused on the bacterial-based healing agent embedded into 
+light weight aggregates (LWA) and combined with fresh mortar mixture. Alkaliphilic bacteria of the Bacillus 
+genus, 108spores/L, were incorporated into LWA (Liapor GmbH Germany, Liapor 0/4mm, and expanded clay 
+particles,) by vacuum impregnation with yeast extract (4g/L), calcium lactate (200g/L). This study examined the 
+influence of the bacterial healing agent when added into fresh mortar mixes and the evaluation of fluid tightness 
+recovery after exposure and cracking to two separate healing regimes (wet-dry cycles and water immersion) 
+through water permeability tests. The study discovered that replacing sand by LWA in mortar samples resulted in 
+a significant reduction in compressive strength and bulk density of mortar. The presence of healing agent 
+seemed to have an effect on workability, produced more workable (liquidly) mortar paste with higher air void 
+content, besides, the cement hardening was also delayed by one day. As a result, the compressive and flexural 
+strength of the bacterial prisms in the early age (3 days) was 54% and 63% respectively, which was less than the 
+control samples. The lightweight mortar with the presence of bacteria, however, showed an improvement in crack 
+sealing, especially in the case of wet / dry cycles, rather than continuous water immersion. 
+Encapsulation in coated perlite was studied by K. Paine [7] team. It is shown that this type of encapsulation leads 
+to decreased mechanical properties. Replacing normal weight sand with LWA can reduce the strength of bio-
+based mortar samples by about 37%. 
+Although numerous studies have been conducted on the possibility of using MICP for concrete self-healing, 
+insufficient studies have been conducted on the use of iron respiratory bacteria Fe (III) to protect steel from 
+corrosion and optimising self-healing efficiency by taking into account the bacterial concentration required to 
+effectively promote concrete self-healing and nutrient composition. The unique characteristic of these 
+microorganisms is that they thrive in environments containing low dissolved oxygen (anaerobic conditions) and 
+high ferric iron concentrations. Therefore, they are suitable candidates for RC structures. In iron respiration the 
+terminal electron acceptor, Fe (III) is insoluble. As a novel idea, this study focused on utilising iron respiring 
+bacteria Fe (III) respiration targeted to protect steel indirectly against corrosion, by utilising Fe (II) to reduce O2 as 
+a promising method to address the concerns associated to the concrete corrosion problems.  
+Figure (1) shows O2 consumption mediated by direct microbial O2 respiration and Fe (II) indirect reduction 
+(produced by Fe (III) respiration) protects steel against corrosion. The general corrosion equation is given. The 
+ovals are cells that constantly respiring on the surface of the metal. Fe (II) iron formed by Fe (III) oxides 
+respiration is a reduction shield that prevents O2 from attacking the steel surface layer [13]. 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 5 =====
+
+Page | 5  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1- Schematic representation of O2 consumption mediated by direct microbial O2 respiration Fe (II) indirect 
+reduction (produced by Fe (III) respiration) protects steel against corrosion (based on Dubiel et al.,[13]).  
+This paper is focused on biological self-healing process as a promising technique to address the concerns 
+associated with concrete corrosion problems. Two compositions of concrete samples were prepared and casted 
+– CEMI and CEMIII with 60% of Ground Granulated Blast Furnace Slag (GGBS) with and without bio-product. 
+Bacteria spores at different concentrations were directly added into the fresh concrete mixture to determine the 
+best possible combinations without sacrificing concrete properties. A Shewanella like strain was chosen as a 
+biological candidate as it is a facultative bacterium meaning it can grow in the presence and absence of O2. The 
+last point is valuable as the strain is easy to handle inside and outside the concrete. It also thrives in versatile 
+habitats and it is known to reduce a variety of metals, including iron. Bacteria spores at different concentrations 
+were directly added into the fresh concrete mixture to determine the best possible combinations without 
+sacrificing concrete properties. To assess the effectiveness of the self-healing concrete the following tests 
+carried out such as, compressive strength, water absorption via capillary, open porosity test, growing bacteria 
+evolution analysis, Scanning electron microscope (SEM).  
+ 
+2. MATERIALS AND METHODS  
+2.1 Ordinary Portland cement (CEM I) 
+This experimental study used type one cement (CEMI) according to BS EN 197-1, with a strength class of 52.5N. 
+CEM I can be considered as a most widely used cement type in many different applications.  
+2.2 Ground granulated blast furnish slag (GGBS) 
+GGBS used for this research was sourced in the United Kingdom (Hanson Cement Limited); reported 
+compliance with the specifications of the British Standard BS EN 15167-1 for use in mortar and concrete. 
+ 
+The Chemical Composition of CEM I and GGBS  
+Table 1 describes the chemical components of the components used in the preparation of concrete specimens. 
+The products therefore have different chemical characteristics. 
+ 
+ 
+Table 1- Oxide percentages (%) of CEM I and GGBS [14]. 
+ 
+
+
+===== PAGE 6 =====
+
+Page | 6  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+2.3 Kiln Dried Sand  
+The sand used in this research came from the Tarmac plant, UK. It has been tested packaged by the supplier to 
+confirm the procedures required for quality control that comply with the British Standard BS EN ISO 9001. 
+ 
+2.4 Coarse aggregates  
+The aggregate used in this research sourced in UK, 10mm and 20mm aggregates used to make concrete, which 
+they were provided, by Specialist Aggregate provided and Travis Perkins.  
+ 
+3 
+MICROBIAL SELF-HEALING AGENT  
+3.1 Bacterial strain and growth conditions 
+Bacterial strain and growth conditions Shewanella like strain (iron-respiring bacteria) was used in this study. The 
+cells are usually rod-shaped Gram-negative and belong toproteobacteria (Abboud, et al., 2005). These strains 
+are mesophilic, facultative anaerobic with respiratory metabolism, with a maximum growth temperature of 35°C. 
+The optimum pH of the growth medium for this strain is around 7.5 (Ghosh & Mandal, 2006). The organism is 
+Biosafety Category 1, environmentally innocuous and safe to handle. 
+ 
+ 
+3.2 Sub-culturing and growth conditions of the bio-agent: 
+Initially, bacterial colonies were suspended in a vail containing 20 ml of Maximum Recovery Diluent (MRD) 
+(OXOID) and stored at 2°C (see figure 2). This culture was used when fresh inoculum was required for concrete 
+preparation. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Chemical Compositions
+CEM I
+GGBS
+SiO2
+19.60
+54.70
+Al2O3
+4.71
+40.87
+Fe2O3
+3.25
+0.80
+CaO
+64.00
+40.00
+MgO
+1.17
+0.24
+Na2O
+0.27
+0.20
+K2O
+0.73
+1.95
+SO3
+2.94
+0.00
+TiO2
+0.26
+0.02
+LOI
+3.22
+0.94
+
+
+----- TABLE p6#1 -----
+
+Chemical Compositions | CEM I | GGBS
+SiO
+2 | 19.60 | 54.70
+Al O
+2 3 | 4.71 | 40.87
+Fe O
+2 3 | 3.25 | 0.80
+CaO | 64.00 | 40.00
+MgO | 1.17 | 0.24
+Na O
+2 | 0.27 | 0.20
+K O
+2 | 0.73 | 1.95
+SO
+3 | 2.94 | 0.00
+TiO
+2 | 0.26 | 0.02
+LOI | 3.22 | 0.94
+
+===== PAGE 7 =====
+
+Page | 7  
+ 
+ 
+ 
+ 
+Figure 2 - Sub-culturing bio-agent. 
+ 
+Shake flasks (500ml) containing 125ml of sterile TSB were inoculated with 400µl of  bacteria (2.3×108 cfu/ml) 
+and incubated in a Benchtop Shaking Incubator for  72 hours at 30°C,150rpm shown in figure 3.  
+Through serial dilution technique the growth measurement of the new culture was identified, the bio-agent 
+concentration was 1.7 ×108cfu/ml, therefore, the new culture was found to be more concentrated than the original 
+culture. Additionally, the second 500ml of bacteria cells were grown again from the same inoculum and 
+procedure, more concentrated bio-agent was 8 ×109 achieved. In addition, another 500ml of Shewanella cells 
+were grown from different inoculum at temperature 30°C and speed 200rpm, bigger flasks were placed in 
+Benchtop Shakier for almost around 19 hours, the highest suspension of bacteria was attained 1 ×1010.  In order 
+to control the bio-agent concentration this study preferred to use the same procedure each time, furthermore, the 
+bio-agent concentration have been regularly checked using Spectrophotometer while the flasks were still in the 
+Benchtop Shaking Incubator. The techniques of the spectrophotometer are used for determining the 
+concentration of solutes in solution through measuring the amount of light that the solution absorbs in a cuvette 
+that is put in the spectrophotometer. This is the quick way to check whether the cells are growing or dying.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3 - Benchtop Shaking Incubator for growing bio-agent. 
+ 
+4 
+CONCRETE MIX DESIGN AND SAMPLE PREPARATION  
+4.1 Self-healing Concrete mix design 
+Design of a concrete mix needs to meet the performance requirements of the fresh and hardened concrete. 
+Thus, the concrete mixture design is to optimise the concrete constituents to achieve the best possible output in 
+terms of performance. This is done by designing two concrete mixture compositions; the first series designed and 
+casted with 100% Ordinary Portland Cement OPC (CEMI 52.5 N), with and without bio-agent.   
+Bacteria was cultivated on Tryptone Soya Agar (TSA) and in shake flasks containing Tryptone Soya Broth (TSB) 
+when liquid cultures were required. 
+Cultures were incubated at 30°C overnight and colony forming units were calculated by performing serial 
+dilutions and the spread plate technique to achieve the concentration of 2.3×108cfu/ml shown in figure 4. Table 2 
+shows the mixture design.  
+
+
+===== PAGE 8 =====
+
+Page | 8  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 - Serial dilution for bio-agent. 
+ 
+Table 2 - CEMI concrete mix design. 
+Concrete Composition
+kg/m3
+Quantities (kg)
+CEMI 52.5N
+450
+11.4
+Agg. 20mm
+712
+18.1
+Agg. 10mm
+610
+15.5
+Sand
+335
+8.5
+Water
+202.5
+5.1
+w/b
+0.45
+Bio-agent (ml)
+0% and 2.1%
+ 
+In the second concrete composition, 60% of OPC replaced with GGBS (CEMIII) with and without bio-agent 
+CEMIII, table 3 shows the mixture design. The same concentration of bio-agent used in both compositions 2.1% 
+to binder ratio. Further, the water to binder ratio w/b kept constant through the research.      
+ 
+Table 3 - CEMIII concrete mix design. 
+ 
+ 
+Concrete Composition
+kg/m3
+Quantities (kg)
+CEMI 52.5N
+180
+4.6
+GGBS
+270
+6.9
+Agg. 20mm
+712
+18.1
+Agg. 10mm
+610
+15.5
+Sand
+335
+8.5
+Water
+202.5
+5.1
+w/b
+0.45
+Bio-agent (ml)
+0% and 2.1%
+
+
+----- TABLE p8#1 -----
+
+Concrete Composition | kg/m
+3 | Quantities (kg)
+CEMI 52.5N | 450 | 11.4
+Agg. 20mm | 712 | 18.1
+Agg. 10mm | 610 | 15.5
+Sand | 335 | 8.5
+Water | 202.5 | 5.1
+w/b | 0.45 | 
+Bio-agent (ml) |  | 0% and 2.1%
+
+----- TABLE p8#2 -----
+
+Concrete Composition | kg/m
+3 | Quantities (kg) | 
+CEMI 52.5N | 180 | 4.6 | 4.6
+GGBS | 270 | 6.9 | 
+Agg. 20mm | 712 | 18.1 | 18.1
+Agg. 10mm | 610 | 15.5 | 
+Sand | 335 | 8.5 | 8.5
+Water | 202.5 | 5.1 | 
+w/b | 0.45 |  | 
+Bio-agent (ml) |  | 0% and 2.1% | 
+
+===== PAGE 9 =====
+
+Page | 9  
+ 
+ 
+4.2 Casting and curing concrete specimens. 
+Two series compositions of concrete samples were prepared and casted – CEMI and CEMIII with 60% of Ground 
+GGBS with and without bio-agent. For each concrete composition three cubes of size (150 x 150 x 150mm), and 
+six cylinders with diameter of 100mm and a height of 200mm prepared and casted (figure 5). The bacteria at 
+different concentrations were directly introduced to the fresh concrete mixture. However, the amount of bacteria 
+added into each concrete batch from any concentration were calculated to carry the same number of cells. After 
+casting the mould cured under laboratory condition (20oC), the concrete samples were demoulded approximately 
+after 24 hours, and preserved in water until the testing dates (7, 14 and 28). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5 - Concrete cubes and cylinder casting. 
+ 
+5 
+EXPERIMENTAL PROCEDURES AND TESTING METHODOLOGY  
+5.1 Slump test  
+Slump is the most common test method utilised for determining the flow properties of fresh concrete mixture. 
+Concrete workability is considered as a crucial property of concrete, quantified by slump test. The concrete 
+workability can have significant effect on strength, flowability, compatibility, durability and the consistency. 
+According to BS EN 12350-2:2009, this research study recorded slump test results for all concrete mixtures 
+during casting. 
+The test was performed by filling the slump cone in three equal layers and tamping down the mixture 25 times for 
+each layer then the cone raised upright. The difference in height among the cone and the concrete is the 
+consistency of the slump (slump value in mm) see figure 6. The slump test is sensitive to changes in concrete 
+consistency between 10mm and 220mm that correlates to slumps. Beyond these limits, the slump measurement 
+may be inappropriate and other approaches should be considered for determining the consistency. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 10 =====
+
+Page | 10  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6 - Concrete slump test. 
+ 
+ 
+5.2 Concrete Fresh Density 
+Density, it’s also recognised as concrete unit weight, it is significant as part of the concrete design process since 
+unit weight of concrete can classify the concrete categories. Some factors affecting concrete density including air 
+content, water cement ratio w/c in the mix design and the aggregate density. Typical concrete densities are 
+2040kg/m3 for low density concrete, 2540kg/m3 for medium density concrete, and 3040 kg/m3 for high density 
+concrete [17].  
+The theory of Archimede’s used to determine the fresh concrete density by weighing out 2kg of fresh concrete 
+mixture and poring it into the Archimedes’ can that containing water. Then the water collected from Archimedes’ 
+can that was displaced by the concrete see figure 7. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7 - Fresh concrete density measurement. 
+ 
+5.3 Capillary water absorption 
+To determine the short term absorption capacity of each sample, a capillary test was carried out as per EN 1015-
+18: 2002(CEN, 2002). Samples were placed in oven at 30°C for a period of 8 days until the mass change was 
+less than 0.1%. This test was continued until the water absorption for each sample had stabilised. The concrete 
+cylinders with 50mm thickness were placed in 5mm of water over the absorbent paper within an airtight container 
+to keep hydrothermal conditions consistent shown in figure 8.  Weight of the samples were registered at 0’, 5’, 
+15’, 30’, 1h, 2h, 3h, 21h up to 28 days), until the water absorption reached to asymptotic value. It is expected that 
+the water absorption coefficient to act as a performance characteristic for mixtures that have a direct impact on 
+their durability. 
+ 
+ 
+
+
+===== PAGE 11 =====
+
+Page | 11  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8 - Concrete water absorption via capillary. 
+5.4 Open porosity 
+Porosity test performed in compliance with BS EN 1936:2006, for concrete samples with and without bio-product 
+in order investigate the effect of bio-agent content. Three cylindrical samples used in each composition with a 
+diameter of 100mm and 50mm in length, the specimens placed in oven at temperature 30°C for 8 days to dry, 
+then the dry mass (M1) of each sample has measured. The cylinder samples placed in the vacuum chamber with 
+30kPa vacuum pump approximately for 24 hours. In the second day, the water pumped into the vacuum 
+chamber slowly and with the vacuum pump working for the next 24 hours. In the third day, vacuum led was 
+removed and the vacuum pump switched off, the samples remained in water in contact with atmospheric 
+pressure for another 24 hours shown in figure 9. Lastly, the hydrostatic (M2) and saturated (M3) mass of each 
+samples were measured in day four. The porosity was calculated using the following formula. 
+Open porosity (%) = (M3-M1)/(M3-M2)x100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9 - Concrete porosity test.    
+
+
+===== PAGE 12 =====
+
+Page | 12  
+ 
+0
+20
+40
+60
+80
+100
+120
+140
+160
+Slump (mm)
+Concrete Compositions 
+CEM III + BIO
+CEM III
+CEM I + BIO
+CEM I
+5.5 Concrete Compressive strength.  
+In compliance with BS EN 12390-3:2009, the structural properties of the 150mm concrete cubes are subjected to 
+strength testing. In a compression testing machine in compliance with EN 12390-4, samples were loaded to 
+failure see Figure 10. The samples peak load is recorded, then the concrete compressive strength is calculated. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10 – Concrete compressive test. 
+5.6 Scanning electron macroscopy (SEM) 
+SEM used to investigate the role of microbiologically induced mineral precipitation in healing associated with 
+micro crack closure, enhancing the durability and strength aspects of concrete. The concrete specimens of each 
+composition were crushed to size of 2 mm approximately and gold coated to examine healing associated with 
+cracks closure. SEM was performed using a Scanning Electron Microscope, Fei quanta 200 esem that has the 
+capacity to examine small cracks in high magnification. 
+6 
+RESULTS AND DISCUSSION 
+ 
+6.1 Slump test  
+ Figure 11 presents the concrete slump test values recorded for each composition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11 – Concrete slump test values recorded for each composition for w/b=0.45. 
+Overall, the results show that these concretes present a slump between 100 to 150mm, which corresponds to a 
+medium workability mixes that can be either used in manually compacted flat slabs using crushed course 
+aggregates, either in normal manually compacted RC and heavily reinforced units with vibrations. It is also 
+
+
+===== PAGE 13 =====
+
+Page | 13  
+ 
+shown that the inclusion of bio-agent improved the workability by 10% in CEMIII particularly. However, the 
+presence of bio-agent seemed to have no effect on CEMI.  
+On the other hand, the slump value of CEMIII concretes was 19% lower than for CEMI, with and without bio-
+agent. This reduction was attributed to GGBS high-water absorption ability. Nevertheless, the slump values for all 
+concrete compositions were classified as S3 – Medium workability, according to BS EN 12350-2:2009.  
+It is highlighted here that this non-encapsulation method shows positive results from a workability perspective, 
+increasing the facility to manufacture concrete specimens. From the opposite side, encapsulation of bacteria can 
+lead to a decrease of workability making it enormously difficult to produce a reliable cube sample after the wall 
+had been cast. De Belie team [12], for example, studied hydrogel encapsulated bacteria. It was found that the 
+hydrogel water absorption capacity was increased after the inclusion of bacterial spores. Therefore, this 
+demonstrates that the non-encapsulated bacteria can have a positive effect on workability of the cementitious 
+materials.  
+ 
+6.2 Fresh density of concrete  
+Figure 12 shows the average fresh concrete densities measured for both compositions CEMI and CEMIII with 
+and without bio-agent content.  
+ 
+Figure 12 – Average fresh concrete density measured. 
+Form the results it was observed that the addition of bio-agent appears to not affect the concrete fresh density as 
+only slightly changes were detected. Partial OPC replacement with GGBS (CEMIII) resulted in a little reduction in 
+the concrete unit weight. The reason for this is that the specific gravity of OPC is 3.10g/cm3, which is higher than 
+the specific gravity of GGBS which is 2.90g/cm3 [18].  
+ 
+6.3 Capillary water absorption test. 
+Water absorption via capillary for concrete cylinders tested at 28 days is presented in the following figure (Figure 
+13).  
+ 
+ 
+ 
+
+
+===== PAGE 14 =====
+
+Page | 14  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0.00
+0.10
+0.20
+0.30
+0.40
+0.50
+0.60
+0.70
+0.80
+0
+50
+100
+150
+200
+250
+water absorption (kg/m²)
+Time √min
+CEM I
+CEM I+
+BIO
+CEM III
+CEM III+
+BIO
+ 
+Figure 13 - Water absorption via capillary for concretes tested at 28 days and for 2 weeks. 
+Figure 13 demonstrates that the use of the bio-agent resulted in a reduction in water absorption slope (the 
+angular coefficient of the curve) either for CEMI and CEMIII. Beside this, the asymptotic values that correspond 
+to the maximum absorption, is smaller for concretes with the bio-agent. Water absorption via capillary tends to 
+reduce at least 25% when bio-agent was introduced to concrete type CEMIII (CEMIII+Bio). However, for CEMI 
+concrete, the bio-agent self-healing behaviour does not change the maximum water absorbed. The analysis 
+during the first 24 hours (figure 14) illustrates that there is a reduction in the water absorption velocity when bio-
+agent is introduced to CEM I and CEMIII concretes.  
+
+
+===== PAGE 15 =====
+
+Page | 15  
+ 
+0.00
+0.10
+0.20
+0.30
+0.40
+0.50
+0.60
+0.70
+0.80
+0
+5
+10
+15
+20
+25
+30
+35
+40
+water absorption (kg/m²)
+Time √min
+CEM I
+CEM I+
+BIO
+ 
+ 
+Figure 14 - Water absorption via capillary during the first 24 hours. 
+When considering the durability of RC and the service life it may provide, the consideration of the long-term 
+water absorption and initial absorption velocity is imperative.  Figure 13 shows the results of water absorption via 
+capillary during the first 24 hours. It was found that there was a significant reduction in the water absorption 
+velocity with the inclusion of bio-agent in CEM I and CEMIII concretes samples, which was associated with pores 
+sealing. Same behaviour has reported in literature by [9][10][11]. Therefore, the incorporation of self-healing 
+agent resulted in higher resistance toward the external aggressive substances, which is associated with a 
+service life increase of the RC structures.   
+The previous results also demonstrate that this bioproduct presents benefits to minimise migration of water-born 
+ions in RC structures exposed to tidal-splash zones (water absorption in a non-saturated medium) if CEMIII+bio 
+is used. Same results are obtained for under water RC structures, which would be equivalent to the plateau 
+obtained in the saturated part of the capillary test. 
+ 
+6.4 Open Porosity test 
+Porosity of cement-based materials is a fundamental characteristic that affects physical properties, mechanical 
+strength, service life and durability of RC structures. To understand the dynamics of water transport in the pore 
+structure and the relationship between water and concrete, this research work carried out porosity tests for both 
+concrete compositions CEMI and CEMIII with and without bio-agent. The porosity measured for concrete 
+cylinders tested at 28 days is shown in Figure 15. It was observed that the incorporation of bio-agent resulted in 
+porosity reduction of 6% in CEM1 and 28% CEMIII after the incorporation of bio-agent.  
+Reduction in porosity of CEMIII+Bio was more relevant than for CEMI+Bio in comparison to the plain 
+compositions, emphasising the efficiency of the bioproduct in CEMIII medium. This further reduction could be 
+referred to replacing 60% cement to GGBS, as it has high amount iron content that could be used as nutrient for 
+
+
+===== PAGE 16 =====
+
+Page | 16  
+ 
+0.00
+0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+0
+2.1
+Porosity %
+Bio-product/Cement
+CEM I
+CEM III
+iron respiring bacteria (S. oneidensis). Siddique, et al.[10] reported similar findings in literature, where the 
+addition of bio-agent directly into the fresh concrete mixture resulted in porosity reduction.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 15 – Concrete open porosity test for CEM I and CEMIII with and without bio-product at 28 days. 
+The interaction between water and the porous structure is one of the main cause RC deterioration. Due to the 
+availability of unfilled voids and pores, concrete is known as a porous composite material. The permeability of 
+concrete, similar to other porous materials, is characterised as the rate at which water or other liquids can 
+ingress to concrete under a pressure head. Permeability is considered as a significant property for concrete 
+construction, since it is negatively affecting the concrete durability that subjected to aggressive environment. 
+Concrete permeability is not just a function of porosity, it depends on pore size, distribution, porosity and 
+tortuosity of concrete pore channels [19]. 
+Inevitable microcracking of the surface can result in permeability increase of the RC, make it more vulnerable to 
+aggressive agents (atmospheric carbon dioxide CO2, water, dissolved chlorides in water) and therefore affects 
+the long-term durability [2]. Therefore, the self-healing concrete innovative technology might allow the repair of 
+the open micro-cracks in concrete that can threaten the integrity of structural durability, due to access of 
+aggressive liquids and gasses. The principle of using iron respiring bacteria (S. oneidensis) Fe (III) respiration is 
+aimed at protecting steel indirectly from corrosion, through using Fe (II) to minimise O2, as a promising technique 
+to address the concerns related to concrete corrosion problems.  
+The laboratory experimental results proved that the bacteria (S. oneidensis) treated concrete samples, had lower 
+values of porosity when compared to control samples. This demonstrates that longer time needed for water to 
+rise through capillary actions in bio-concrete and therefore it has been revealed that the bio-concrete was less 
+porous when compared to the control concrete samples, the principal justification for this is calcite mineral 
+precipitation in concrete pores due to the bacterial activity.  
+6.5 Concrete compressive strength  
+The following figure present the average compressive strength results for concrete type CEMI and CEMIII with 
+and without bio-product – 28 days. 
+
+
+===== PAGE 17 =====
+
+Page | 17  
+ 
+20
+25
+30
+35
+40
+45
+50
+Compressive Strenght (MPa)
+Concrete Compositions 
+CEMI+Bio
+CEM I
+CEM III + BIO
+CEM III
+16%
+24%
+17%
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 16 – Average compressive strength and coefficient of variation of concretes tested at 28 days.  
+The previous results show that the addition of the bio-agent does not reduce the concrete compressive strength 
+either for CEM I and CEM III. However, for CEMI it is detected an improvement by 5% of the strength with the 
+use of the bio-agent. Similar outcomes were reported in literature [9][10][11], where the direct addition of bio-
+agent into the fresh concrete/mortar mixtures had contributed in improving compressive strength.  Whereas, the 
+use of light weigh aggregates (LWA) impregnated bacteria caused a considerable reduction in mortar 
+compressive strength, also, delayed the cement hardening around one day reported by [20]. 
+ 
+6.6 Scanning Electron Microscope (SEM)  
+The precipitations produced at the cracks surface of the cement-based materials were analysed through SEM. 
+The results presented in figure 17 shows CEMIII concrete with (a) and without (b) bio-agent. It is shown a clear 
+precipitation by bacterial action remediated the micro cracks within the concrete samples CEMIII. There was no 
+precipitation observed in the control samples as shown in figure 17b. On closer observation of CEMIII concrete 
+with bio-agent (figure 18) shows the traces of bacterial activity present on crystal surfaces formed in the cracks of 
+bacterial samples that were subjected to continuous water immersion for 28 days.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 17 - SEM analysis for concrete CEMIII with (17a) and without (17b) bio product. 
+ 
+ 
+ 
+a:  CEMIII + Bio 
+b:  CEMIII +  No Bio 
+6% 
+
+
+----- TABLE p17#1 -----
+
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+6% |  | 16% |  |  |  | 
+ |  |  |  | 24% |  | 17%
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+ |  |  |  |  |  | 
+
+===== PAGE 18 =====
+
+Page | 18  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 18 - Analysis of the microstructure via the SEM at 28 days for CEMIII and CEMI with bio-agent. 
+ 
+Figure 18 shows evidence of the development of biofilms. On the cracks remediated in the specimens containing 
+the bacterial cells, a clear precipitation was observed. Upon closer inspection, the crystals are found to be well 
+developed near the crack surface. 
+The significant role of bio-agent induced in cement-based materials is demonstrated. When oxygen and water 
+enter the cracks the dormant spores possibly will be activated. Then, a series of biochemical reactions will be 
+produced, and a self-healing will be obtained.  
+ 
+7. CONCLUSION  
+The previous results demonstrated that incorporating bacteria with fresh concrete during casting (mixing process) 
+allows this method to be a promising technique to increase the performance of RC. Therefore, it is expected that 
+the proposed application of sustainable biological self-healing agent will substantially decrease the maintenance 
+and repair costs of RC structures. The potential of self-healing concrete through bio-mineralization processes in 
+which bacteria influences the mineral precipitation is promising. In order to integrate a microorganism into 
+cement-based materials, the primary challenges of this study were to find a suitable microorganism (bacteria) 
+that can withstand the high alkaline environments, stay viable with minimal access to nutrients, and survive 
+during mixing process.  
+Slump test showed that the addition of bio-agent increased workability up to 10% in CEMIII particularly and does 
+not change in CEMI. The addition of bio-agent appears to not affect the concrete fresh density as only slightly 
+changes were detected. Water absorption via capillary tends to reduce at least 25% when bio-agent was 
+a: CEMIII + Bio 
+b: CEMIII + Bio
+c: CEMI + Bio 
+d: CEMI + Bio 
+
+
+===== PAGE 19 =====
+
+Page | 19  
+ 
+introduced to concrete type CEMIII. However, for CEMI concrete, the self-healing behaviour does not change the 
+maximum water absorbed. The first 24h shows a considerable reduction in water absorption velocity if self-
+healing is used in CEM I and CEMIII concretes, which is associated with pores sealing. Beside this, the 
+incorporation of bio-agent resulted in porosity reduction of concrete compositions at least 6% in CEMI and 28% 
+in CEMIII and improving compressive strength for CEMI by 5% at 28 days of age while, having no negative effect 
+in CEMIII. The porosity reduction and improve in mechanical strength regains confirmed by the bio-concrete, can 
+lead into durability and service life improvement. From the SEM analysis, it was found that the crystals 
+precipitated by bacteria action filled the micro cracks within the concrete samples.  
+As a result, the experimental outcomes were very promising based on the available information and presented 
+results, the novel method of the bio-based self-healing system seems to be a promising method to address the 
+concerns associated with concrete corrosion problems. Further studies should encompass longer exposure of 
+samples to better characterise long term performance of this type of self-healing concrete.  
+ 
+Acknowledgment 
+The authors of this paper would like to take the Royal Society research grant RGS\R1\191304 - Research Grants 
+2019 Round 1 and the grant 272002/ S0001/ 911BUE that enabled the development of this work. 
+ 
+ 
+REFERENCES  
+ 
+[1] Gardner, D., Lark, R., Jefferson, T. & Davies, R., 2018. A survey on problems encountered in current concrete 
+construction and the potential benefits of self-healing cementitious materials. Case Studies in Construction 
+Materials, 8 February, Volume 8, pp. 238-247. 
+[2] Davis, M., Hoult , N. . A. & Scott , A., 2016. Distributed strain sensing to determine the impact of corrosion on 
+bond performance in reinforced concrete. Construction and Building Materials, July, Volume 114, pp. 481-491. 
+[3] Huang, H., 2014. Thermodynamics of Autogenous Self-healing in Cementitious Materials, Delft: Delft 
+University of Technology. 
+[4] Lv, L., Yang, z., Zhu, G., Han, N., Schlangen, E., Xing, F., 2016. Synthesis and characterization of a new 
+polymeric microcapsule and feasibility investigation in self-healing cementitious materials. Construction and 
+Building Materials, 15 February , Volume 105, pp. 487-495. 
+[5] Alshalif, A. F. Irwan, J.M., Othmam, N., Anneza, L. H., 2017. Carbon Dioxide (CO2) Sequestration In Bio-
+Concrete, An Overview. Johor, Malaysia, EDP Sciences, p. 8. 
+[6] Al-Ayish, N., 2017. Environmental Impact of Concrete Structures – with Focus on Durability and Resource 
+Efficiency, Stockholm: KTH. 
+[7] Alazhari, M., Sharma, T. Heath, A., Cooper, R., Paine, K., 2018. Application of expanded perlite encapsulated 
+bacteria and growth media for self-healing concrete. Construction and Building Materials, Volume 160, pp. 610-
+618. 
+[8] Talaiekhozan, A., Keyvanfar, A., Shafaghat, A., Andalib, R., Abd Majid, M. Z., Fulazzakay, M. A., Zin. R. M., 
+Lee, C. T., Hussaim, M. W., Hamzah, N., Marwar, N. F., Haidar, H.I., 2014. A Review of Self-healing Concrete 
+Research Development. Journal of Environmental Treatment Techniques, 26 February, 2(1), pp. 1-11. 
+
+
+===== PAGE 20 =====
+
+Page | 20  
+ 
+[9] Chahal, N. C., Rajor, A. & Siddique, R., 2012. Influence of bacteria on the compressive strength, water 
+absorptionand rapid chloride permeability of fly ash concrete. Construction and Building Materials, Volume 28, 
+pp. 351-356. 
+[10] Siddique, R., Singh, K., Kunal, Singh, M., Corinaldesi, V., Rajor, A.,  2016. Properties of bacterial rice husk 
+ash concrete. Construction and Building Materials, Volume 121, pp. 112-119. 
+[11] Andalib R, Majid M Z A, Hussin M W, Ponraj M, Keyvanfar A, Mirza J, Lee H S., 2016. Optimum 
+concentration ofBacillus megateriumfor strengtheningstructural concrete. Construction and Building Materials, 
+Volume 118, pp. 180-193. 
+[12] Wang J Y., Snoeck D., Van Vlierberghe S., Verstraete W., 2014. Application of hydrogel encapsulated 
+carbonate precipitating bacteria. Construction and Building Materials, Volume 68, pp. 110-119. 
+[13] Dubiel M, Hsu CH, Chien CC, Mansfeld F, Newman DK., 2002. Microbial Iron Respiration Can Protect Steel 
+from Corrosion. Appl Environ Microbiol, 68(3), p. 1440–1445. 
+[14] Sadique, M., Coakley, E, 2016. The influence of physico-chemical properties of fly ash and CKD on strength 
+generation of high-volume fly ash concrete. Advances in Cement Research, 24 August , 28(9), p. 95–605. 
+[15] R. Abboud, R., Popa, V., Souza-Egipsy, C. S., Giometti, S., Tollaksen, J. J., Mosher, R. H., Findlay and K. 
+H. Nealson, 2005. Low-Temperature Growth of Shewanella oneidensis MR-1. APPLIED AND 
+ENVIRONMENTAL MICROBIOLOGY, Febreuary, 71(2), p. 811–816. 
+[16] Ghosh, P. & Mandal, S., 2006. Development of bioconcrete material using an enrichment culture of novel 
+thermophilic anaerobic bacteria. Indian Journal of Experimental Biology, 44(4), pp. 336-339. 
+[17] Bai, Q. & Bai, Y., 2014. On-Bottom Stability. In: Subsea Pipeline Design, Analysis, and Installation. 
+s.l.:ScienceDirect, pp. 319-335. 
+[18] Mo, K. H., Alengaram, U. J. & Jumaat, Z., 2014. Utilization of ground granulated blast furnace slag as partial 
+cement replacement in lightweight oil palm shell concrete. Materials and Structures, 14 May, 48(8), p. 2545–
+2556. 
+[19] Srinivasa, V. R., Sreenivasa, d. R., Seshagiri, V. R. M. & Sasikala, C., 2013. Permeation Properties of 
+Bacterial Concrete. Journal of Mechanical and Civil Engineering (IOSR-JMCE), 5(6), pp. 08-16. 
+[20] Tziviloglou, E., Wiktor, V., Jonkers, H. M. & Schlangen, E., 2016. Bacteria-based self-healing concrete to 
+increase liquid tightness of cracks. Construction and Building Materials, Volume 122, pp. 118-125. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

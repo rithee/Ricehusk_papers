@@ -1,0 +1,2748 @@
+
+===== PAGE 1 =====
+
+141 
+Journal of Civil Engineering, Science and Technology 
+Volume 12, Issue 2, September 2021 
+EXPERIMENTAL STUDY OF STABILIZATION OF EXPANSIVE 
+SOIL USING THE MIXTURE OF MARBLE DUST, RICE HUSK 
+ASH AND CEMENT FOR SUB-GRADE ROAD CONSTRUCTION: A 
+CASE STUDY OF WOLDIA TOWN  
+Mulugeta Fentaw1*, Esayas Alemayehu2, Anteneh Geremew2 
+1 Woldia University, Department of Civil Engineering 
+2 Jimma University, Faculty of Civil and Environmental Engineering 
+Date received: 17/02/2021  Date accepted: 04/09/2021 
+*Corresponding author’s email: mulugetafentaw21@gmail.com
+DOI: 10.33736/jcest.3977.2021
+Abstract — Understanding the behavior of expansive soil and adopting the appropriate control measures should 
+be great for civil engineers. Extensive research has been going on to find the solutions associated with problems of 
+expansive soils. There have been many methods available to control the expansiveness of these soils. The removal 
+of expansive soils and replacement with suitable material has been widely practiced worldwide. Reasonable 
+material is available within economic distances; however, suitable materials is not readily an available in urban 
+areas for borrowing, which has to be hauled from a long distance. Instead of borrowing suitable soil from a long 
+distance away, after stabilization with cost effective and readily available industrial and agricultural waste 
+materials, it is economical to use locally available plastic soil. Such wastage products are also used to minimize 
+environmental hazards such as CO2 in the atmosphere to minimize the percentage of industrial products used for 
+stabilization, such as cement. Marble dust (MD), an industrial waste product, Rice husk ash (RHA), agricultural 
+waste products, and cement are industrial products in this present study. The general objective of study was to 
+examine the effects of poor subgrade soil stabilization using the mixture of MD, RHA and cement to enhance sub-
+standard soil engineering properties to be used as subgrade materials. Moisture content, Atterberg limits, grain size 
+analysis, 
+soil 
+classification, 
+free 
+swell 
+index, 
+basic 
+gravity, 
+compaction 
+(maximum dry density, optimum moisture content) and CBR value test have been calculated in this analysis. The 
+design 
+of 
+the 
+analysis 
+followed 
+by 
+the 
+experimental 
+method 
+of 
+study 
+were 
+adopted, which started with sample selection. A disturbed samples was collected from the pit at a depth of 1.5 m 
+to 2m from ground level in order to avoid the inclusion of organic matter by considering the free swell index value 
+and observation was considered. The chemical analysis of MD and RHA was conducted in laboratory and the main 
+oxides are (SiO2+Al2O3+Fe2O3) were 70.13% for RHA and 42.43% for MD. The RHA chemical properties satisfy 
+the requirement, while MD did not meet the requirement of ASTM C 618. The Gomata Teachers’ Condominium 
+(GTC) soil sample laboratory result have 42.72% plastic index (PI), 85% free swell index and its CBR value of 
+2.265%. The Millennium Secondary school (MSS) soil sample has a 48.79% PI, 87% free swell index and 2.121% 
+CBR value. Therefore this soil samples are highly expansive were checked before any stabilizations process based 
+on  their plasticity index and CBR value based on standard specification requirement , then stabilization was 
+achieved by stabilization by proposed (0,8MD,6MD+2C,4MD+4C,2MD+6C,8C,6MD+2RHA, 4MD+4RHA, 
+2MD+6RHA,8RHA,6RHA+2C,4RHA+4C,2RHA+6C,2MD+2RHA+4C,4MD+2RHA+2C, 
+2MD+4RHA+2C) 
+proportion. Then LL, PI, OMC, and CBR decreased as the cement ratio increased, while PL, MDD and CBR value 
+increases instead of MD and RHA increases, however, as MD and RHA increase, the quantity of cement decreases. 
+The laboratory outcome was compared with the requirement of Ethiopian road authority standard, ASTM and 
+AASHTO. Based on this study all mixing stabilizers (MD-cement, RHA-cement, MD-RHA, MD-RHA-cement) 
+and 8% of RHA and cement fulfill the ERA standard specification requirements for its CBR swell value. However, 
+8% of marble dust alone does not fulfill the Ethiopia road authority requirements for CBR swell. The MD and RHA 
+standalone does not improving some of the engineering properties of soil samples used for subgrade construction. 
+However, they mixed with different percentages of cement can effectively stabilizer for this expansive soil for road 
+sub-grade construction.  
+Copyright © 2021 UNIMAS Publisher. This is an open access article distributed under the Creative Commons Attribution-Non-commercial-Share Alike 4.0 
+International License which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. 
+Keywords: Expansive soil, RHA, MD, Cement, Percentage by weight 
+
+
+----- TABLE p1#1 -----
+
+ |  |  |  |  |  |  |  | free swell index value
+and observation was considered. |  |  |  | The chemical analysis of MD and RHA was conducted in laboratory and the main |  |  |  | 
+oxides are ( |  | SiO +Al O +Fe O ) were 70.13% for RHA and 42.43% for MD. The RHA chemical properties satisfy
+2 2 3 2 3 |  |  |  |  |  | 
+the requirement, while MD did not meet the requirement of ASTM C 618. The |  |  |  |  |  |  | Gomata Teachers’ Condominium | 
+( | GTC) soil sample laboratory result have 42.72% plastic index (PI), 85% free swell index and its CBR value of |  |  |  |  |  |  | 
+2.265%. The |  |  | Millennium Secondary school (MSS) |  |  | soil sample has a 48.79% PI, 87% free swell index and 2.121% |  | 
+CBR value. Therefore this soil samples are highly expansive were checked before any stabilizations process based |  |  |  |  |  |  |  | 
+on their plasticity index and CBR value based on standard specification requirement , then stabilization was |  |  |  |  |  |  |  | 
+achieved by stabilization by proposed |  |  |  |  | (0,8MD,6MD+2C,4MD+4C,2MD+6C,8C,6MD+2RHA, 4MD+4RHA, |  |  | 
+
+----- TABLE p1#2 -----
+
+proportion. Then |  | LL, PI, OMC, and CBR decreased as the cement ratio increased, while PL, MDD and CBR value
+increases instead of MD and RHA increases, however, as MD and RHA increase, the quantity of cement decreases. |  | 
+The laboratory outcome was compared with the requirement of Ethiopian road authority standard, ASTM and |  | 
+AASHTO. | Based on this study all mixing stabilizers (MD-cement, RHA-cement, MD-RHA, MD-RHA-cement) | 
+
+===== PAGE 2 =====
+
+142 
+ 
+1.0 INTRODUCTION  
+One of the major problems worldwide is the availability of natural construction material within reasonable hauling 
+distance from the project to be planned to build; this directly impacts the cost of a project[1]. However, in some 
+parts of the country, the natural resources construction materials do not satisfy the standard specification 
+requirements [2]. Specifically, the main problems associated with construction materials in the road industry was 
+failures of pavement before attain design period of pavement, and the engineering problems related to expansive 
+soils have been reported in many countries, but those mostly located in arid and semi-arid regions[3]. Expansive 
+soils, susceptible to detrimental volumetric changes, with the change in moisture. The cyclic wetting and drying 
+process causes vertical movements in expansive soils and movements to lead to the failure of pavements or 
+structures [4]. Such problems exist widely in Ethiopia. It’s estimated that the region covered by expansive soil in 
+Ethiopia is 23.7 million acres [5, 6].Roads constructed on expansive soil also have a problem on structural layers 
+on the embankment due to its unusual cyclic swell shrink behavior of expansive soil. This form of soil swells when 
+it comes into contact with water, and shrinks when the water evaporates. Due to this movement, loosely loaded 
+structures such as foundations, pavements, channels beds and linings and residential buildings constructed on then 
+are seriously damaged [7,8]. The annual damage to civil engineering structures on expansive soil has been predicted 
+to be $1000 million in the US, £150 millions in UK and several billions pounds worldwide [9-11]. Road pavements 
+typically consist of many layers of different layer materials during construction of embankments of road, and one 
+of them is sub-grade soil layer. The subbase layer can be either indigenous soil or imported material. Suppose the 
+native soil is found to be unacceptable as a sub-grade soil. In that case, it is typically adequately treated or stabilized 
+and is used to be prevent the high cost that may be incurred for the imported materials and to decide the types of 
+sub-grade soil materials that may be used, types of treatment that may be suitable and a series of soil investigations 
+must be carried out. Usually, subgrade soil stability is expressed in terms of bearing capacity, which is related to 
+the soil basic geotechnical properties [12]. Expansive soil composed of predominately of a specific types of clay 
+soil, is one of the types of foundation soil considered troublesome. This soil swells if its water content rises and 
+shrinks if the water table decreases due to seasonal condition, the fluctuation of moisture content occurs typically. 
+Either vertically or horizontally, the change in the soil volume associated with expansion or shrinkages results in 
+deformation of soil. This deformation will lead to significant distortion of the road surface in the case of pavement. 
+Therefore; stabilization is needed to mitigate these issues [13]. The pavement design assumes that the minimum 
+defined structural quality for each material layer in the paving system will be achieved. Each layer must resist 
+shearing, to avoid excessive deflections causing the layer or overlaying layers to crack fatigue, and to prevent 
+excessive permanent deformation. If the consistency of a soil layer increases, the capacity of that layer to spread 
+the load over a wider area increases, so that it is possible to reduce the necessary thickness of the soil and surface 
+layer [14]. Stabilization by compaction (mechanical) or stabilization by chemical additives are widely used methods 
+of stabilizing soils. Pozzolana is classified as a silica or alumino-siliceous material that chemically reacts at 
+normal room temperature with calcium with calcium hydroxide, released by the hydration of Portland cement, in  
+the finely divided form and moisture presence, to form compounds with Cementitious properties [12]. Materials 
+do not possess cementing properties of their own, but they contain silica and alumina in a reactive method. Forming 
+cementitious property compound, pozzolanic materials chemically react with calcium hydroxide in water [15]. 
+Silica reactions in calcium hydroxide and water to produce calcium silicate hydrates are the pozzolanic reaction 
+(C-S-H). C-S-H provides a denser microstructure that increases resilience, decreases concrete permeability and 
+enhances its chemical attack resistance. By adding pozzolana, pore size and porosity are decreases, leading to 
+increases strength [16]. Road designer tends to reuse an industrial waste material for soil sub-grade stabilization to 
+minimize the cost of sub-grade stabilization and to reduce adverse environmental impact on surrounding. One of 
+them was a marble dust (MD) industrial wastes and rice husk ash (RHA) agricultural wastes material were to be 
+utilized as a stabilizer material for over-all ground improvement purposes. The rice husks are burn-in uncontrolled 
+condition.  Marble dust (MD) and Rice husk ash (RHA) are commonly mixed with other stabilizing materials such 
+as cement or lime in stabilized road pavement layers. Because of the cost of high-quality materials required for 
+various geotechnical projects, engineers are trying to improve the physical property of local soils through various 
+method and techniques [17, 18].The research's main objective this research study is to increase the expansive soil's 
+strength of sub-grade soil by using the waste MD, RHA, and cement by mixing in appropriate proportion to prepare 
+sub-grade soil construction. 
+
+
+----- TABLE p2#1 -----
+
+structures [4]. | Such problems exist widely in Ethiopia. It’s estimated that the region covered by expansive soil in | 
+Ethiopia is 23.7 million acres [5, 6].Roads constructed on expansive soil also have a problem on structural layers |  | 
+on the embankment due to its unusual cyclic swell shrink behavior of expansive soil. This form of soil swells when |  | 
+it comes into contact with water, and shrinks when the water evaporates. Due to this movement, loosely loaded |  | 
+structures such as foundations, pavements, channels beds and linings and residential buildings constructed on then |  | 
+are seriously damaged [7,8]. The annual damage to civil engineering structures on expansive soil has been predicted |  | 
+to be $1000 million in the US, |  | £150 millions in UK and several billions pounds worldwide [9-11]. Road pavements
+
+----- TABLE p2#2 -----
+
+of stabilizing soils. Pozzolana is classified | as a silica or alumino-siliceous material that chemically reacts at | 
+normal room temperature with calcium with calcium hydroxide, released by the hydration of Portland cement, in |  | 
+the finely divided form and moisture presence, to form compounds with Cementitious properties [12]. |  | Materials
+
+===== PAGE 3 =====
+
+143 
+ 
+2.0 MATERIALS AND METHOD 
+2.1 Materials 
+The ingredients utilized in this experiments were expansive soil, MD, RHA and cement. The weak sub-grade soil 
+samples used for this research investigation were collected; Woldia town, Gomata Teachers’ Condominium (GTC) 
+and Millennium Secondary School (MSS) as shown in Figure 1. The soil is black in color for both sites, and 
+purposive sampling, which is a nonprobability method, was used to collect the disturbed sample at a depth of 1.5m 
+to 2.0m in order to avoid organic maters on the top surface of the ground. 
+ 
+ 
+Figure 1 Photos of sample taking at GTC (left) and MSS (right).                 
+Marble dust is obtained from a marble cutting and polishing industry that is locally accessible. The ADEWA mar
+ble industry is the location of ETHIOPIA's marble industry as shown in Figure 2 during sample collection. 
+ 
+ 
+Figure 2 Photos of the process of MD preparation 
+ 
+Portland cement is obtained from a locally available trading market and production industry in MEKELLE. 
+Ordinary 
+Portland 
+cement 
+(OPC) 
+with 
+grade 
+43N 
+was 
+purchased 
+for 
+this 
+research.  
+The uncontrilled burning of the rice husk produces Rice Husk Ash (RHA). Husk is a byproduct of the 
+Amhara region of Ethiopia's rice milling industry were taken for this study. 
+
+
+===== PAGE 4 =====
+
+144 
+ 
+ 
+ 
+Figure 3 Photos of the process of RHA preparation 
+2.2 Study design  
+An experimental comparative study design was employed in this study. 
+ 
+ 
+ 
+                                                            
+                                                                  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4 Study design flow chart 
+ 
+Statement of a problem
+Objective of the study 
+Book 
+AASHTO 
+ASTM 
+Journals 
+Review of literature 
+Collection of samples; 
+MD, Cement and RHA 
+Experimental 
+Investigation  
+
+Soil classification 
+
+Grain size analysis 
+
+Atterberg’s limits 
+
+Free swell index 
+
+Compaction test 
+
+CBR test.  
+Experimental out come  
+2 test pit with higher 
+swelling value was 
+selected for this study  
+Free swelling test 
+Purposively 3 different 
+test pit was investigated 
+for analysis 
+Soil samples + Additives 
+Result analysis 
+based on sub-
+grade soil 
+specification 
+Engineering property of 
+sub-grade soil 
+Conclusions 
+
+
+===== PAGE 5 =====
+
+145 
+ 
+2.3 Methods and standard testing procedure  
+The standards and specification for this study were adapted from AASHTO and ASTM. 
+Table 1 Standards and specifications for this study 
+No 
+Laboratory  tests 
+Standards 
+AASHTO 
+ASTM 
+1 
+Major and  minor Oxides 
+ 
+C-618 
+3 
+Moisture content 
+T-265 
+ 
+4 
+Grain size analysis 
+T88 
+ 
+5 
+Atterberg limits 
+T089-96 
+ 
+6 
+Soil classification 
+M-145 
+D2487-98 
+7 
+Specific gravity 
+ 
+D854-83 
+8 
+Standard proctor compaction 
+T-99 
+ 
+9 
+CBR 
+T193-93 
+ 
+10 
+Hydrometer analysis 
+ 
+D-422 
+2.4 Expansive soil 
+2.4.1 Sample preparation  
+Before treating the samples, the soils were classified according to the AASHTO and ASTM soil classification 
+system, the samples air-dried adequately, and the stabilizer mixed with the prepared soil sample.  
+ 
+First step: The air-dried sample mixed with the MD, RHA and cement based on the percent required with the 
+required percent started from 0% to 8% within 2% difference for all additives. The additives were MD, RHA, and 
+cement.  
+ 
+Second step: This properly mixed soil used for Atterberg limit, free swell index, compaction, the Californian 
+bearing ratio by adding water to the properly mixed soil sample by trying blended thoroughly until becomes 
+homogeneous based on  the required maximum effect on the desired moisture-density curve. 
+ 
+ 
+Figure 5 The sample containing mixing of MD, RHA and cement 
+3.0 RESULTS AND DISCUSSIONS 
+3.1 Laboratory result for chemical properties of RHA 
+The rate of pozzolana reaction depends on the basic characteristics of the pozzolana, such as its density, surface a
+rea and chemical composition. External factors such as mix proportions, water quantity,reaction temperature, curi
+ng condition and length can regulate the rate of pozzolanic reaction [16]. 
+
+
+----- TABLE p5#1 -----
+
+No | Laboratory tests | Standards | 
+ |  | AASHTO | ASTM
+1 | Major and minor Oxides |  | C-618
+3 | Moisture content | T-265 | 
+4 | Grain size analysis | T88 | 
+5 | Atterberg limits | T089-96 | 
+6 | Soil classification | M-145 | D2487-98
+7 | Specific gravity |  | D854-83
+8 | Standard proctor compaction | T-99 | 
+9 | CBR | T193-93 | 
+10 | Hydrometer analysis |  | D-422
+
+----- TABLE p5#2 -----
+
+The rate of pozzolana reaction depends on the basic characteristics of the pozzolana, such as its density, surface a | 
+rea and chemical composition. External factors such as mix proportions, water quantity,reaction temperature, curi | 
+ng condition and length can regulate the rate of pozzolanic reaction [16]. | 
+
+===== PAGE 6 =====
+
+146 
+ 
+Table 2 Chemical composition of RHA 
+Chemical composition 
+Test result, (%) 
+ASTM (C618) Requirement in (%) 
+Remark 
+Silica (Sio2) 
+68.2 
+35 Min. 
+Satisfied 
+Aluminum (AL2O3 ) 
+<0.01 
+ 
+ 
+Iron (Fe2O3) 
+1.92 
+ 
+ 
+Calcium (CaO) 
+<0.01 
+ 
+ 
+Magnesium (MgO) 
+0.16 
+5 Max. 
+Satisfied 
+Sodium (Na2o) 
+0.88 
+ 
+ 
+Potassium (K2O) 
+2.32 
+ 
+ 
+MnO 
+0.12 
+ 
+ 
+P2O5 
+0.57 
+ 
+ 
+TiO2 
+<0.01 
+ 
+ 
+H2O 
+4.45 
+ 
+ 
+LOI 
+23.65 
+ 
+ 
+SiO2 + Al2O3 + Fe2O3 
+70.13 
+70 Min. 
+Satisfied 
+Table 3 Chemical composition of MD 
+Chemical composition 
+Test result, (%) 
+ASTM (C618) Requirement in (%) 
+Remark 
+Silica (Sio2) 
+37.16 
+35 Min. 
+Satisfied 
+Aluminum (AL2O3 ) 
+5.27 
+ 
+ 
+Iron (Fe2O3) 
+1.66 
+ 
+ 
+Calcium (CaO) 
+26.40 
+ 
+ 
+Magnesium (MgO) 
+1.66 
+5 Max 
+Satisfied 
+Sodium (Na2o) 
+2.22 
+ 
+ 
+Potassium (K2O) 
+1.76 
+ 
+ 
+MnO 
+0.06 
+ 
+ 
+P2O5 
+0.1 
+ 
+ 
+TiO2 
+0.12 
+ 
+ 
+H2O 
+0.82 
+ 
+ 
+LOI 
+21.84 
+ 
+ 
+SiO2 + Al2O3 + Fe2O3 
+42.43166 
+70 Min 
+Un satisfied 
+ 
+Based on Table 2 and Table 3, all chemical properties of used for this study such as RHA and MD are with an 
+acceptable range of ASTM C618 except SiO2 + Al2O3 + Fe2O3 for marble dust.  As test result indicates, the 
+combined percent composition of main oxides (SiO2, Al2O3, Fe2O3) was 70.13% for rice husk ash 42.43% for 
+marble dust (MD), and the mixture of rice husk ash and marble dust have 111.56% which is above the minimum 
+of 70% of specified by ASTM (C618) which is acceptable as a good Pozzolana properties by having a cementitious 
+nature properties in terms to its physical and chemical compositions that satisfied a minimum requirement stated 
+standard specification.   
+3.2 Geotechnical properties of soil sample 
+Table 4 Geotechnical properties of soil samples 
+Parameters 
+Result 
+GTC 
+MSS 
+Natural moisture content,% 
+25.265 
+25.195 
+Percentage passing through No 200 sieve 
+97.94 
+97.86 
+liquid limit  (LL),% 
+73.4 
+79.70 
+Plastic limit (PL),% 
+30.68 
+30.91 
+Plasticity index (PI),% 
+42.72 
+48.79 
+AASHTO 
+A-7-5 
+A-7-5 
+USCS 
+CH 
+CH 
+Specific gravity 
+2.71 
+2.87 
+Free swell index,% 
+85 
+87 
+Maximum dry density, g/cm3 
+1.30 
+1.24 
+Optimum moisture content (OMC),% 
+38 
+38.89 
+
+
+----- TABLE p6#1 -----
+
+Chemical composition | Test result, (%) | ASTM (C618) Requirement in (%) | Remark
+Silica (Sio )
+2 | 68.2 | 35 Min. | Satisfied
+Aluminum (AL O )
+2 3 | <0.01 |  | 
+Iron (Fe O )
+2 3 | 1.92 |  | 
+Calcium (CaO) | <0.01 |  | 
+Magnesium (MgO) | 0.16 | 5 Max. | Satisfied
+Sodium (Na o)
+2 | 0.88 |  | 
+Potassium (K O)
+2 | 2.32 |  | 
+MnO | 0.12 |  | 
+P O
+2 5 | 0.57 |  | 
+TiO
+2 | <0.01 |  | 
+H2O | 4.45 |  | 
+LOI | 23.65 |  | 
+SiO2 + Al2O3 + Fe2O3 | 70.13 | 70 Min. | Satisfied
+
+----- TABLE p6#2 -----
+
+Chemical composition | Test result, (%) | ASTM (C618) Requirement in (%) | Remark
+Silica (Sio )
+2 | 37.16 | 35 Min. | Satisfied
+Aluminum (AL O )
+2 3 | 5.27 |  | 
+Iron (Fe O )
+2 3 | 1.66 |  | 
+Calcium (CaO) | 26.40 |  | 
+Magnesium (MgO) | 1.66 | 5 Max | Satisfied
+Sodium (Na o)
+2 | 2.22 |  | 
+Potassium (K O)
+2 | 1.76 |  | 
+MnO | 0.06 |  | 
+P O
+2 5 | 0.1 |  | 
+TiO
+2 | 0.12 |  | 
+H O
+2 | 0.82 |  | 
+LOI | 21.84 |  | 
+SiO2 + Al2O3 + Fe2O3 | 42.43166 | 70 Min | Un satisfied
+
+----- TABLE p6#3 -----
+
+Parameters | Result | 
+ | GTC | MSS
+Natural moisture content,% | 25.265 | 25.195
+Percentage passing through No 200 sieve | 97.94 | 97.86
+liquid limit (LL),% | 73.4 | 79.70
+Plastic limit (PL),% | 30.68 | 30.91
+Plasticity index (PI),% | 42.72 | 48.79
+AASHTO | A-7-5 | A-7-5
+USCS | CH | CH
+Specific gravity | 2.71 | 2.87
+Free swell index,% | 85 | 87
+Maximum dry density, g/cm3 | 1.30 | 1.24
+Optimum moisture content (OMC),% | 38 | 38.89
+
+===== PAGE 7 =====
+
+147 
+ 
+Soaked CBR value,% 
+2.265 
+2.121 
+CBR swell,% 
+4.29 
+4.90 
+Color  
+Black 
+Black 
+ 
+In general, low plasticity is in 
+between 35% and 50%, intermediate plasticity 
+is 
+between 50% and 70 %, 
+while high Plasticity value between 70% and 90 % also its liquid limit a maximum value less than 35% [19]. 
+Therefore based on above value soil samples property indicates that very high plasticity clay. 
+3.2.1 Particle size distribution of GTC and MSS 
+The soil sample GTC is dark, and almost 97.94% of the soil passes through No 200 sieve analysis as shown on 
+Grain size distribution curve. 
+ 
+ 
+Figure 6 Grain size distribution curve of GTC soil sample 
+The soil for sample MSS is black, and almost 97.86% of the soil passing through sieve No 200 analysis as shown 
+on Grain size distribution curve. 
+ 
+ 
+Figure 7 Grain size distribution curve of MSS soil sample 
+70
+80
+90
+100
+110
+0.001
+0.01
+0.1
+1
+10
+PERCENTAGE FINER, %
+GRAIN SIZE (MM)
+70
+80
+90
+100
+110
+0.001
+0.01
+0.1
+1
+10
+PERCENTAGE FINER, %
+GRAIN SIZE (MM)
+
+
+----- TABLE p7#1 -----
+
+Soaked CBR value,% | 2.265 | 2.121
+CBR swell,% | 4.29 | 4.90
+Color | Black | Black
+
+===== PAGE 8 =====
+
+148 
+ 
+Based on the unified soil classification system (USCS), the soils 50% minimum pass through sieve No 200 are 
+classified as fine-grained soil (i.e., silt and clay soil), and the minimum percentage pass through sieve No 200 for 
+the soil understudy is 97.94% and 97.86% and the soil categorized as fine-grained soil. 
+3.2.2 Atterberg test results 
+Atterberg limits (liquid limit and plastic limit) were determined according to AASHTO T-89 and AASHTO T-90, 
+respectively.   
+Table 5 Atterberg test results of GTC and MSS sample soil 
+                                                             100% natural soil 
+ 
+Sample name 
+Liquid limit (%) 
+Plastic limit (%) 
+Plasticity index (PI) 
+GTC 
+73.40 
+30.68 
+42.72 
+MSS 
+79.70 
+30.93 
+48.79 
+3.2.3 Soil Classification  
+Laboratory test result indicates based on AASHTO and USCS Soil classification system for GTC and MSS  soil 
+sample illustrated as in Table 6. 
+Table 6 Soil classification according to AASHTO and USCS for both soil sample 
+Sample 
+Liquid 
+limit % 
+Plastic 
+limit % 
+Plastic 
+index 
+Group 
+index 
+AASHTO 
+USCS 
+GTC 
+73.40 
+30.68 
+42.72 
+50 
+A-7-5 
+CH 
+MSS 
+79.70 
+30.91 
+48.79 
+57 
+A-7-5 
+CH 
+3.2.4 Specific gravity for subgrade soil  
+Specific gravity which is the measuring of the heaviness of soil particle is determined by the method of pycnometer 
+method using the soil sample passing sieve number 10 and oven dried at 1050c.The test includes the determination 
+the specific gravity for the natural soil. The test was conducted in accordance with ASTM-854 testing procedure. 
+Table 7 shows the Specific gravity of natural sub-grade soil. 
+Table 7 Specific gravity for natural sub-grade soil 
+Soil sample 
+GTC 
+MSS 
+Specific gravity 
+2.71 
+2.87 
+3.2.5 Free swell index  
+The free swell test value of for sample GTC and MSS indicates that 85% and 87% respectively. Soils having the 
+free swell value above 100% can cause damage whereas free swell as low as 100% can cause considerable damage 
+to light loaded structures and soils having a free swell value less than 50% seldom exhibits appreciable volume 
+change even under light loads. Hence the free swell value of the soil under study exceeds 50% such soils undergo 
+volumetric changes loading to pavement distortion, cracking and general unevenness due to seasonal wetting and 
+drying. 
+Table 8 Free swell index test results for natural subgrade soil sample 
+Sample Name 
+Free swell index (%) 
+GTC 
+85 
+MSS 
+87 
+3.2.6 Compaction test results of expansive sub-grade soil samples (AASHTO T-99) 
+The Standard proctor test was done to determine the maximum dry density (MDD) and optimum moisture content 
+(OMC) natural subgrade soil according to AASHTO T-99. Prepared a sufficient quantity of air dry soil were passing 
+
+
+----- TABLE p8#1 -----
+
+100% natural soil |  |  | 
+Sample name | Liquid limit (%) | Plastic limit (%) | Plasticity index (PI)
+GTC | 73.40 | 30.68 | 42.72
+MSS | 79.70 | 30.93 | 48.79
+
+----- TABLE p8#2 -----
+
+Sample | Liquid
+limit % | Plastic
+limit % | Plastic
+index | Group
+index | AASHTO | USCS
+GTC | 73.40 | 30.68 | 42.72 | 50 | A-7-5 | CH
+MSS | 79.70 | 30.91 | 48.79 | 57 | A-7-5 | CH
+
+----- TABLE p8#3 -----
+
+Soil sample | GTC | MSS
+Specific gravity | 2.71 | 2.87
+
+----- TABLE p8#4 -----
+
+Sample Name | Free swell index (%)
+GTC | 85
+MSS | 87
+
+===== PAGE 9 =====
+
+149 
+ 
+through sieve number 4 (4.75mm) and measured 3000gm of soil sample and compact in three layers for each 
+proctor compaction test. The GTC soil sample has optimum moisture content 38% and maximum dry density 
+1.30gm/cm3. Also, MSS soil sample has optimum moisture content 38.89% and maximum dry density 
+1.223gm/cm3 as shown below Figure 8. 
+ 
+ 
+Figure 8 Moisture density relation for natural sub-grade soil 
+3.2.7 CBR test results for natural sub-grade soil (AASHTO T-193)  
+Table 9 CBR test results of expansive soils 
+Sample 
+Number 
+of belows 
+Load (KN) 
+CBR (%) 
+Swell in (%) 
+2.5mm 
+5.0mm 
+2.5mm 
+5.0mm 
+GTC 
+56 
+0.299 
+0.381 
+2.265 
+1.93 
+4.29 
+MSS 
+56 
+0.280 
+0.36 
+2.121 
+1.80 
+4.90 
+ 
+The GTC soil sample had 2.265% soaked CBR value with 4.29% CBR swells, and the MSS soil sample 
+had 
+2.121% soaked CBR value with 4.90% its swell, according to the laboratory test result in Table 9. The socked CBR 
+test showed that, as compared to the Ethiopian Roads Authority Manual 2013 for both sub-grade soil has lower 
+CBR value and it does not meet the minimum requirements as sub-grade material. The CBR swell value are also 
+above the specified maximum value of 2%; therefore this soil must be stabilized before utilization.  
+3.3 Overall Characterization of the natural sub-grade soil 
+According to the laboratory test results of the natural sub-grade soil sample obtained during the present study, the 
+proportion of fines passing no 200 sieves are 97.94% and 97.86%, liquid limit 73.40% and 79.70%, and plasticity 
+index 42.72% and 48.79%, for GTC and MSS soil sample respectively, Both soils samples are classified into A-7-
+5 
+as 
+per 
+the 
+AASHTO 
+and 
+CH 
+as 
+per 
+the 
+USCS 
+classification 
+system. 
+As 
+far as the engineering efficiency of soils of this class is concerned, such soils are expansive soils that     have high
+ volume changing properties with moisture content variation [20]. The liquid limit and plastic index values are far 
+higher 
+than 
+the 
+Ethiopian 
+road 
+authority 
+standard 
+requirement; 
+i.e. 
+less 
+than 
+60% 
+liquid limit and less than 30% plasticity index. Therefore, soil 
+samples 
+show 
+an expansive 
+property. 
+The 85% free swell index and 87% for GTCand MSS soil samples, respectively, have indicated that the soils are 
+expansive soil because their free swell index is greater than 50%. In addition, the CBR value and free swell index 
+test value shows that 2.265%, 2.121% and 4.29%, respectively, 4.90% for GTC and MSS soil samples. This shows 
+1.00
+1.05
+1.10
+1.15
+1.20
+1.25
+1.30
+1.35
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+45.00
+50.00
+55.00
+DD(GM/CM3)
+OMC(%)
+MSS
+GTC
+OMC = 38       
+MDD = 1.30
+OMC = 38.89
+MDD = 1.223
+
+
+----- TABLE p9#1 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | O | M | C | = 3 | 8 |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  | M | D | D | = 1 | .3 | 0 |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | OM | C = 38.8 | 9 |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | MD | D = 1.22 | 3 |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p9#2 -----
+
+Sample | Number
+of belows | Load (KN) |  | CBR (%) | Swell in (%)
+ |  | 2.5mm | 5.0mm 2.5 | mm 5.0mm | 
+GTC | 56 | 0.299 | 0.381 2.2 | 65 1.93 | 4.29
+MSS | 56 | 0.280 | 0.36 2.1 | 21 1.80 | 4.90
+
+----- TABLE p9#3 -----
+
+The GTC soil sample had 2.265% soaked CBR value with 4.29% CBR swells, and the MSS soil sample had | 
+2.121% soaked CBR value with 4.90% its swell, according to the laboratory test result in Table 9. The socked CBR | 
+test showed that, as compared to the Ethiopian Roads Authority Manual 2013 for both sub-grade soil has lower | 
+CBR value and it does not meet the minimum requirements as sub-grade material. The CBR swell value are also | 
+above the specified maximum value of 2%; therefore this soil must be stabilized before utilization. | 
+
+===== PAGE 10 =====
+
+150 
+ 
+that when compared to Ethiopian road authority requirements of the CBR value more than 5% and percent of swell 
+was less than 2%, so that this soils have a low load-bearing capacity and high swelling potential, which renders it 
+unsuitable for construction without any suitable treatment techniques. However, the above comparisons between 
+the design manual of Ethiopian road authority and the soil laboratory findings indicates that the soil samples does 
+not 
+entirely 
+meet 
+the 
+criteria 
+as 
+sub-grade 
+soil 
+and is considered 
+inadequate for sub-
+grades in road construction. Therefore, prior to use as a road sub-grade soil; it should be treated with a suitable 
+improvement methods.  
+3.4 Laboratory test results of stabilization of expansive soil  
+3.4.1 Atterberg limits. 
+One of the important and the principal aims of presented this study was to evaluate the changes of liquid limits, 
+plastic limits and plasticity index with additions of marble dust, rice husk ash and cement to selected soil sample. 
+To achieve this objective, liquid limit and plastic limit tests were conducted on marble dust, rice husk ash and 
+cement-soil mixtures according to the consistency tests of AASHTO T-89 and AASHTO T-90 respectively. 
+Table 10 Atterberg limit test results of MD-RHA-cement to stabilize weak subgrade soils 
+Sample 
+name 
+Mix proportion of MD, RHA and 
+Cement 
+LL,% 
+PL,% 
+PI,% 
+Ethiopian 
+road 
+authority manual  
+(2013) 
+Requirement of PI 
+in % 
+Remark 
+MD,% 
+RHA,% 
+Cement,% 
+ 
+ 
+ 
+ 
+GTC 
+0 
+0 
+0 
+73.40 
+30.68 
+42.72 
+ 
+ 
+ 
+ 
+ 
+ 
+<30 
+Poor 
+8 
+0 
+0 
+63.38 
+42.76 
+20.62 
+Satisfied  
+6 
+0 
+2 
+62.38 
+46.97 
+15.41 
+Satisfied 
+4 
+0 
+4 
+58.73 
+47.27 
+11.46 
+Satisfied 
+2 
+0 
+6 
+58.05 
+50.70 
+7.35 
+Satisfied 
+0 
+0 
+8 
+56.97 
+52.35 
+4.62 
+Satisfied 
+6 
+2 
+0 
+63.12 
+46.86 
+16.26 
+Satisfied 
+4 
+4 
+0 
+65.15 
+48.13 
+17.02 
+Satisfied 
+2 
+6 
+0 
+68.71 
+51.26 
+17.45 
+Satisfied 
+0 
+8 
+0 
+73.09 
+51.58 
+21.51 
+Satisfied 
+0 
+6 
+2 
+65.50 
+49.19 
+16.31 
+Satisfied 
+0 
+4 
+4 
+64.73 
+50.50 
+14.23 
+Satisfied 
+0 
+2 
+6 
+64.17 
+51.77 
+12.40 
+Satisfied 
+0 
+0 
+8 
+56.97 
+52.35 
+4.62 
+Satisfied 
+2 
+2 
+4 
+58.92 
+49.51 
+9.41 
+Satisfied 
+4 
+2 
+2 
+65.94 
+53.26 
+12.68 
+Satisfied 
+2 
+4 
+2 
+66.00 
+45.61 
+20.43 
+Satisfied 
+ 
+ 
+ 
+ 
+ 
+MSS 
+0 
+0 
+0 
+79.70 
+30.91 
+48.79 
+ 
+ 
+ 
+ 
+ 
+ 
+<30 
+Poor 
+8 
+0 
+0 
+65.11 
+43.33 
+21.78 
+Satisfied  
+6 
+0 
+2 
+59.50 
+45.82 
+13.68 
+Satisfied 
+4 
+0 
+4 
+58.33 
+48.07 
+10.26 
+Satisfied 
+2 
+0 
+6 
+57.56 
+49.08 
+8.48 
+Satisfied 
+0 
+0 
+8 
+56.51 
+50.36 
+6.15 
+Satisfied 
+6 
+2 
+0 
+66.45 
+51.63 
+14.82 
+Satisfied 
+4 
+4 
+0 
+67.50 
+52.17 
+15.33 
+Satisfied 
+2 
+6 
+0 
+68.07 
+52.50 
+15.57 
+Satisfied 
+0 
+8 
+0 
+70.00 
+53.57 
+16.43 
+Satisfied 
+0 
+6 
+2 
+62.11 
+46.91 
+15.20 
+Satisfied 
+0 
+4 
+4 
+60.09 
+47.35 
+12.74 
+Satisfied 
+0 
+2 
+6 
+58.27 
+47.49 
+10.78 
+Satisfied 
+0 
+0 
+8 
+56.51 
+50.36 
+6.15 
+Satisfied 
+
+
+----- TABLE p10#1 -----
+
+not entirely meet the criteria as sub-grade soil |  | and is considered inadequate for sub-
+grades in road construction. Therefore, prior to use as a road sub-grade soil; it should be treated with a suitable |  | 
+improvement methods. |  | 
+
+----- TABLE p10#2 -----
+
+Sample
+name | Mix proportion of MD, RHA and
+Cement |  |  | LL,% | PL,% | PI,% | Ethiopian road
+authority manual
+(2013)
+Requirement of PI
+in % | Remark
+ | MD,% | RHA,% | Cement,% |  |  |  |  | 
+GTC | 0 | 0 | 0 | 73.40 | 30.68 | 42.72 | <30 | Poor
+ | 8 | 0 | 0 | 63.38 | 42.76 | 20.62 |  | Satisfied
+ | 6 | 0 | 2 | 62.38 | 46.97 | 15.41 |  | Satisfied
+ | 4 | 0 | 4 | 58.73 | 47.27 | 11.46 |  | Satisfied
+ | 2 | 0 | 6 | 58.05 | 50.70 | 7.35 |  | Satisfied
+ | 0 | 0 | 8 | 56.97 | 52.35 | 4.62 |  | Satisfied
+ | 6 | 2 | 0 | 63.12 | 46.86 | 16.26 |  | Satisfied
+ | 4 | 4 | 0 | 65.15 | 48.13 | 17.02 |  | Satisfied
+ | 2 | 6 | 0 | 68.71 | 51.26 | 17.45 |  | Satisfied
+ | 0 | 8 | 0 | 73.09 | 51.58 | 21.51 |  | Satisfied
+ | 0 | 6 | 2 | 65.50 | 49.19 | 16.31 |  | Satisfied
+ | 0 | 4 | 4 | 64.73 | 50.50 | 14.23 |  | Satisfied
+ | 0 | 2 | 6 | 64.17 | 51.77 | 12.40 |  | Satisfied
+ | 0 | 0 | 8 | 56.97 | 52.35 | 4.62 |  | Satisfied
+ | 2 | 2 | 4 | 58.92 | 49.51 | 9.41 |  | Satisfied
+ | 4 | 2 | 2 | 65.94 | 53.26 | 12.68 |  | Satisfied
+ | 2 | 4 | 2 | 66.00 | 45.61 | 20.43 |  | Satisfied
+MSS | 0 | 0 | 0 | 79.70 | 30.91 | 48.79 | <30 | Poor
+ | 8 | 0 | 0 | 65.11 | 43.33 | 21.78 |  | Satisfied
+ | 6 | 0 | 2 | 59.50 | 45.82 | 13.68 |  | Satisfied
+ | 4 | 0 | 4 | 58.33 | 48.07 | 10.26 |  | Satisfied
+ | 2 | 0 | 6 | 57.56 | 49.08 | 8.48 |  | Satisfied
+ | 0 | 0 | 8 | 56.51 | 50.36 | 6.15 |  | Satisfied
+ | 6 | 2 | 0 | 66.45 | 51.63 | 14.82 |  | Satisfied
+ | 4 | 4 | 0 | 67.50 | 52.17 | 15.33 |  | Satisfied
+ | 2 | 6 | 0 | 68.07 | 52.50 | 15.57 |  | Satisfied
+ | 0 | 8 | 0 | 70.00 | 53.57 | 16.43 |  | Satisfied
+ | 0 | 6 | 2 | 62.11 | 46.91 | 15.20 |  | Satisfied
+ | 0 | 4 | 4 | 60.09 | 47.35 | 12.74 |  | Satisfied
+ | 0 | 2 | 6 | 58.27 | 47.49 | 10.78 |  | Satisfied
+ | 0 | 0 | 8 | 56.51 | 50.36 | 6.15 |  | Satisfied
+
+===== PAGE 11 =====
+
+151 
+ 
+2 
+2 
+4 
+59.34 
+47.37 
+11.95 
+Satisfied 
+4 
+2 
+2 
+60.00 
+46.76 
+14.10 
+Satisfied 
+2 
+4 
+2 
+65.96 
+51.19 
+14.77 
+Satisfied 
+ 
+According to the laboratory test results the behavior of the soil sample was changed from highly plasticity soil to 
+low plasticity soil. As the result when the percentage of cement increased plasticity index of the treated soil sample 
+are significantly decrease. Whereas it becomes increase when the percentage of MD and RHA increase, this is the 
+reason because of the content of calcium ions in the MD and RHA not enough for replacement of sodium ions in 
+the soil particle, therefore it is necessary to certain amount of calcium ion from cement till replace the sodium ion. 
+ 
+ 
+Figure 9 Plasticity index chart for stabilizing GTC soil sample 
+ 
+Figure 10 Plasticity index chart for stabilizing MSS soil sample 
+42.72
+20.62
+15.41
+11.46
+7.35
+4.62
+16.2617.0217.45
+21.51
+16.31
+14.23 12.4
+9.41
+12.68
+20.43
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+Plasticity index (%)
+Mix proportion of MD,RHA & cement(%)
+NS
+8MD
+6MD+2C
+4MD+4C
+2MD+6C
+8C
+6MD+2RHA
+4MD+4RHA
+2MD+6RHA
+8RHA
+6RHA+2C
+4RHA+4C
+2RHA+6C
+2MD+2RHA+4C
+4MD+2RHA+2C
+2MD+4RHA+2C
+48.79
+21.78
+13.68
+10.26 8.48 6.15
+14.8215.3315.5716.43 15.2 12.7410.78
+6.15
+11.95 14.1 14.77
+0
+10
+20
+30
+40
+50
+60
+plasticity index (%)
+Mix proportion of MD,RHA & Cement
+NS
+8MD
+6MD+2C
+4MD+4C
+2MD+6C
+8C
+6MD+2RHA
+4MD+4RHA
+2MD+6RHA
+8RHA
+6RHA+2C
+4RHA+4C
+2RHA+6C
+8C
+2MD+2RHA+4C
+4MD+2RHA+2C
+2MD+4RHA+2C
+
+
+----- TABLE p11#1 -----
+
+ | 2 | 2 | 4 | 59.34 | 47.37 | 11.95 |  | Satisfied
+ | 4 | 2 | 2 | 60.00 | 46.76 | 14.10 |  | Satisfied
+ | 2 | 4 | 2 | 65.96 | 51.19 | 14.77 |  | Satisfied
+
+===== PAGE 12 =====
+
+152 
+ 
+3.4.2 Compaction characteristics of treated soil  
+The proctor compaction test was carried out according to AASTHO T-99. The moisture density relations are 
+determined based on AASTHTO T-99. Tests were conducted with different percentages of additives. The 
+percentages of additives shown below at Table 11. The Moisture content versus dry density graph is plotted in 
+Figure 11 and the optimum Moisture Content (OMC) and Maximum Dry Density (MDD) are determined from this 
+graph. The Summarized test results are tabulated in detail as shown Table 11 below. 
+Table 11 Moisture density relation test results of the mix-ratio of MD, RHA and Cement 
+ 
+ 
+As observed in Table 11 above, the MDD of untreated soil samples was observed to be 1.296g/cm3 and 1.223g/cm3 
+for GTC and MSS soil samples, respectively. Even though the compaction curve is normal, the curve shifted the 
+left upward in treating the soil with the mixture of MD, RHA, and cement, which also means MD-cement, MD-
+RHA additions RHA-Cement slightly decrease the OMC and increase the MDD for both soil samples. However, 
+at (2%MD+6%RHA, 8%RHA and 2%RHA+6%Cement), the MDD of the soil unexpectedly decrease, and at 
+8%RHA, the OMC increases, which might be due to data registration problem or some technical problem during 
+Sample 
+Name 
+Mix proportion of MD, RHA and 
+Cement 
+MDD 
+(g/cm3) 
+% decrease/ 
+Increase 
+OMC 
+(%) 
+% decrease/ 
+increase 
+MD,% 
+RHA,% 
+Cement,% 
+ 
+ 
+ 
+ 
+GTC 
+0 
+0 
+0 
+1.296 
+ 
+38 
+ 
+8 
+0 
+0 
+1.403 
+8.26 
+32.5 
+-14.47 
+6 
+0 
+2 
+1.386 
+6.94 
+31.02 
+-18.37 
+4 
+0 
+4 
+1.336 
+3.09 
+30.51 
+-19.71 
+2 
+0 
+6 
+1.379 
+6.40 
+31.33 
+-17.55 
+0 
+0 
+8 
+1.390 
+7.25 
+30.86 
+-18.79 
+6 
+2 
+0 
+1.383 
+6.71 
+27.54 
+-27.53 
+4 
+4 
+0 
+1.307 
+0.85 
+32.32 
+-14.95 
+2 
+6 
+0 
+1.291 
+-0.39 
+34.05 
+-10.39 
+0 
+8 
+0 
+1.165 
+-10.11 
+45 
+18.42 
+0 
+6 
+2 
+1.310 
+1.08 
+36 
+-5.26 
+0 
+4 
+4 
+1.314 
+1.39 
+37.5 
+-1.32 
+0 
+2 
+6 
+1.236 
+-4.63 
+35.94 
+-5.42 
+0 
+0 
+8 
+1.390 
+7.25 
+30.86 
+-18.79 
+2 
+2 
+4 
+1.380 
+6.48 
+30 
+-21.05 
+4 
+2 
+2 
+1.403 
+8.26 
+29.63 
+-22.03 
+2 
+4 
+2 
+1.314 
+1.39 
+37.5 
+-1.32 
+ 
+ 
+ 
+ 
+ 
+MSS 
+0 
+0 
+0 
+1.223 
+ 
+38.89 
+ 
+8 
+0 
+0 
+1.367 
+11.77 
+33.33 
+-14.30 
+6 
+0 
+2 
+1.370 
+12.02 
+31.02 
+-20.24 
+4 
+0 
+4 
+1.319 
+7.85 
+32.28 
+-17.00 
+2 
+0 
+6 
+1.331 
+8.83 
+33.13 
+-14.81 
+0 
+0 
+8 
+1.353 
+10.63 
+31.51 
+-18.98 
+6 
+2 
+0 
+1.363 
+11.45 
+30.18 
+-22.40 
+4 
+4 
+0 
+1.313 
+7.36 
+33.58 
+-13.65 
+2 
+6 
+0 
+1.267 
+3.60 
+35.22 
+-9.44 
+0 
+8 
+0 
+1.307 
+6.87 
+32.46 
+-16.53 
+0 
+6 
+2 
+1.300 
+6.30 
+35 
+-10.00 
+0 
+4 
+4 
+1.330 
+8.75 
+35.8 
+-7.95 
+0 
+2 
+6 
+1.287 
+5.23 
+36.11 
+-7.15 
+0 
+0 
+8 
+1.353 
+10.63 
+31.51 
+-18.98 
+2 
+2 
+4 
+1.364 
+11.53 
+34.48 
+-11.34 
+4 
+2 
+2 
+1.313 
+7.36 
+32.56 
+-16.28 
+2 
+4 
+2 
+1.345 
+9.98 
+34.35 
+-11.67 
+
+
+----- TABLE p12#1 -----
+
+Sample
+Name | Mix proportion of MD, RHA and
+Cement |  |  | MDD
+(g/cm3) | % decrease/
+Increase | OMC
+(%) | % decrease/
+increase
+ | MD,% | RHA,% | Cement,% |  |  |  | 
+GTC | 0 | 0 | 0 | 1.296 |  | 38 | 
+ | 8 | 0 | 0 | 1.403 | 8.26 | 32.5 | -14.47
+ | 6 | 0 | 2 | 1.386 | 6.94 | 31.02 | -18.37
+ | 4 | 0 | 4 | 1.336 | 3.09 | 30.51 | -19.71
+ | 2 | 0 | 6 | 1.379 | 6.40 | 31.33 | -17.55
+ | 0 | 0 | 8 | 1.390 | 7.25 | 30.86 | -18.79
+ | 6 | 2 | 0 | 1.383 | 6.71 | 27.54 | -27.53
+ | 4 | 4 | 0 | 1.307 | 0.85 | 32.32 | -14.95
+ | 2 | 6 | 0 | 1.291 | -0.39 | 34.05 | -10.39
+ | 0 | 8 | 0 | 1.165 | -10.11 | 45 | 18.42
+ | 0 | 6 | 2 | 1.310 | 1.08 | 36 | -5.26
+ | 0 | 4 | 4 | 1.314 | 1.39 | 37.5 | -1.32
+ | 0 | 2 | 6 | 1.236 | -4.63 | 35.94 | -5.42
+ | 0 | 0 | 8 | 1.390 | 7.25 | 30.86 | -18.79
+ | 2 | 2 | 4 | 1.380 | 6.48 | 30 | -21.05
+ | 4 | 2 | 2 | 1.403 | 8.26 | 29.63 | -22.03
+ | 2 | 4 | 2 | 1.314 | 1.39 | 37.5 | -1.32
+MSS | 0 | 0 | 0 | 1.223 |  | 38.89 | 
+ | 8 | 0 | 0 | 1.367 | 11.77 | 33.33 | -14.30
+ | 6 | 0 | 2 | 1.370 | 12.02 | 31.02 | -20.24
+ | 4 | 0 | 4 | 1.319 | 7.85 | 32.28 | -17.00
+ | 2 | 0 | 6 | 1.331 | 8.83 | 33.13 | -14.81
+ | 0 | 0 | 8 | 1.353 | 10.63 | 31.51 | -18.98
+ | 6 | 2 | 0 | 1.363 | 11.45 | 30.18 | -22.40
+ | 4 | 4 | 0 | 1.313 | 7.36 | 33.58 | -13.65
+ | 2 | 6 | 0 | 1.267 | 3.60 | 35.22 | -9.44
+ | 0 | 8 | 0 | 1.307 | 6.87 | 32.46 | -16.53
+ | 0 | 6 | 2 | 1.300 | 6.30 | 35 | -10.00
+ | 0 | 4 | 4 | 1.330 | 8.75 | 35.8 | -7.95
+ | 0 | 2 | 6 | 1.287 | 5.23 | 36.11 | -7.15
+ | 0 | 0 | 8 | 1.353 | 10.63 | 31.51 | -18.98
+ | 2 | 2 | 4 | 1.364 | 11.53 | 34.48 | -11.34
+ | 4 | 2 | 2 | 1.313 | 7.36 | 32.56 | -16.28
+ | 2 | 4 | 2 | 1.345 | 9.98 | 34.35 | -11.67
+
+===== PAGE 13 =====
+
+153 
+ 
+laboratory testing. Based on the below Figure 11 shown below, the MDD shows slight increases, and OMC 
+decreases the treatment of weak subgrade soil with MD-cement , MD-RHA, and RHA-Cement additive agents. 
+The MDD increases from 1.296g/cm3 to 1.403g/cm3 and OMC decreases from 38% to 27.54%. 
+ 
+ 
+Figure 11 Summary of OMC and MDD for treated soil sample of GTC 
+ 
+Figure 12 Summary of OMC and MDD for treated soil sample of MSS 
+0.80
+0.90
+1.00
+1.10
+1.20
+1.30
+1.40
+1.50
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+45.00
+50.00
+55.00
+60.00
+65.00
+MDD(g/cm3)
+OMC (%)
+8MD
+NS
+8RHA
+6MD+2C
+4MD+4C
+2MD+6C
+8C
+6MD+2RHA
+4MD+4RHA
+2MD+6RHA
+8RHA
+6RHA+2C
+4RHA+4C
+2RHA+6C
+2MD+2RHA+4C
+4MD+2RHA+2C
+2MD+4RHA+2C
+1.05
+1.10
+1.15
+1.20
+1.25
+1.30
+1.35
+1.40
+15.00
+20.00
+25.00
+30.00
+35.00
+40.00
+45.00
+50.00
+55.00
+MDD (g/cm3
+OMC (%)
+8MD
+NS
+6MD+2C
+4MD+4C
+2MD+6C
+8C
+6MD+2RHA
+4MD+4RHA
+2MD+6RHA
+8RHA
+6RHA+2C
+4RHA+4C
+2RHA+6C
+2MD+2RHA+4C
+4MD+2RHA+2C
+
+
+===== PAGE 14 =====
+
+154 
+ 
+According to the above Figure 12, the MDD shows small increases, and OMC reduces poor subgrade 
+soil treatment with MD-cement, MD-RHA, RHA-Cement, MD-RHA-Cement additives. The MDD rises to 
+1.37g/cm3 from 1.223g/cm3, and OMC falls from 38.89% to 30.18%. 
+3.4.3 CBR test results 
+CBR is a parameter which is used to measure the strength of sub-grade soil. The CBR tests were conducted with 
+the addition of the mixed of MD-Cement, MD-RHA, and RHA-Cement. The Specimens are molded at respective 
+optimum moisture content as determined in moisture density relationships. One-point CBR with 56 blows and 4 
+days (96 hours) socking is conducted and CBR value at 100% MDD is determined for all tests. The soaked CBR 
+test results for different percentage of MD-Cement, MD-RHA, RHA-cement, MD-RHA-cement are summarized 
+in the Tables 12 below. 
+Table 12 CBR test results of treated soil sample 
+Sample 
+Name 
+Mix proportion of MD, RHA 
+and Cement 
+CBR value (%) 
+(g/cm3) 
+below 56 
+Repeated  CBR 
+below 56 
+Ethiopian 
+road 
+authority 
+manual  
+(2013) 
+Requirement 
+Remarks 
+MD,% 
+RHA,% 
+Cement,% 
+2.54mm 
+5.0mm 
+2.54mm 
+5.0mm 
+ 
+ 
+ 
+ 
+GTC 
+0 
+0 
+0 
+2.265 
+1.91 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+>5% 
+Poor 
+8 
+0 
+0 
+3.644 
+3.21 
+ 
+ 
+poor 
+6 
+0 
+2 
+8.515 
+6.26 
+ 
+ 
+Satisfied 
+4 
+0 
+4 
+5.220 
+6.55 
+6.46 
+8.98 
+Satisfied 
+2 
+0 
+6 
+7.106 
+10.97 
+7.58 
+10.26 
+Satisfied 
+0 
+0 
+8 
+6.985 
+12.56 
+2.33 
+4.81 
+Satisfied 
+6 
+2 
+0 
+5.220 
+3.81 
+ 
+ 
+Satisfied 
+4 
+4 
+0 
+8.318 
+5.29 
+ 
+ 
+Satisfied 
+2 
+6 
+0 
+8.485 
+5.95 
+ 
+ 
+Satisfied 
+0 
+8 
+0 
+5.152 
+3.73 
+ 
+ 
+satisfied 
+0 
+6 
+2 
+8.758 
+6.73 
+ 
+ 
+Satisfied 
+0 
+4 
+4 
+9.205 
+6.73 
+ 
+ 
+Satisfied 
+0 
+2 
+6 
+11.068 
+8.77 
+ 
+ 
+Satisfied 
+0 
+0 
+8 
+6.985 
+12.56 
+2.33 
+4.81 
+Satisfied 
+2 
+2 
+4 
+9.091 
+7.65 
+ 
+ 
+Satisfied 
+4 
+2 
+2 
+7.576 
+6.44 
+ 
+ 
+Satisfied 
+2 
+4 
+2 
+8.508 
+6.43 
+ 
+ 
+Satisfied 
+ 
+ 
+ 
+ 
+ 
+MSS 
+0 
+0 
+0 
+2.121 
+1.80 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+>5% 
+poor 
+8 
+0 
+0 
+3.720 
+3.26 
+ 
+ 
+poor 
+6 
+0 
+2 
+7.750 
+6.28 
+ 
+ 
+Satisfied 
+4 
+0 
+4 
+9.864 
+7.22 
+ 
+ 
+Satisfied 
+2 
+0 
+6 
+10.273 
+9.12 
+ 
+ 
+Satisfied 
+0 
+0 
+8 
+11.538 
+9.01 
+ 
+ 
+Satisfied 
+6 
+2 
+0 
+5.303 
+3.88 
+ 
+ 
+Satisfied 
+4 
+4 
+0 
+8.144 
+6.42 
+ 
+ 
+Satisfied 
+2 
+6 
+0 
+8.333 
+5.95 
+ 
+ 
+Satisfied 
+0 
+8 
+0 
+5.220 
+4.12 
+ 
+ 
+Satisfied 
+0 
+6 
+2 
+7.750 
+6.38 
+ 
+ 
+Satisfied 
+0 
+4 
+4 
+10.955 
+9.55 
+ 
+ 
+Satisfied 
+0 
+2 
+6 
+11.311 
+9.18 
+ 
+ 
+Satisfied 
+0 
+0 
+8 
+11.538 
+9.01 
+ 
+ 
+Satisfied 
+2 
+2 
+4 
+9.598 
+8.06 
+ 
+ 
+Satisfied 
+4 
+2 
+2 
+8.000 
+6.29 
+ 
+ 
+Satisfied 
+2 
+4 
+2 
+8.909 
+6.43 
+ 
+ 
+Satisfied 
+
+
+----- TABLE p14#1 -----
+
+According to the above Figure 12, the MDD shows small increases, and OMC reduces poor subgrade | 
+soil treatment with MD-cement, MD-RHA, RHA-Cement, MD-RHA-Cement additives. The MDD rises to | 
+1.37g/cm3 from 1.223g/cm3, and OMC falls from 38.89% to 30.18%. | 
+
+----- TABLE p14#2 -----
+
+Sample
+Name | Mix proportion of MD, RHA
+and Cement |  |  | CBR value (%)
+(g/cm3)
+below 56 |  | Repeated CBR
+below 56 |  | Ethiopian
+road
+authority
+manual
+(2013)
+Requirement | Remarks
+ | MD,% | RHA,% | Cement,% |  |  |  |  |  | 
+ |  |  |  | 2.54mm | 5.0mm | 2.54mm | 5.0mm |  | 
+GTC | 0 | 0 | 0 | 2.265 | 1.91 |  |  | >5% | Poor
+ | 8 | 0 | 0 | 3.644 | 3.21 |  |  |  | poor
+ | 6 | 0 | 2 | 8.515 | 6.26 |  |  |  | Satisfied
+ | 4 | 0 | 4 | 5.220 | 6.55 | 6.46 | 8.98 |  | Satisfied
+ | 2 | 0 | 6 | 7.106 | 10.97 | 7.58 | 10.26 |  | Satisfied
+ | 0 | 0 | 8 | 6.985 | 12.56 | 2.33 | 4.81 |  | Satisfied
+ | 6 | 2 | 0 | 5.220 | 3.81 |  |  |  | Satisfied
+ | 4 | 4 | 0 | 8.318 | 5.29 |  |  |  | Satisfied
+ | 2 | 6 | 0 | 8.485 | 5.95 |  |  |  | Satisfied
+ | 0 | 8 | 0 | 5.152 | 3.73 |  |  |  | satisfied
+ | 0 | 6 | 2 | 8.758 | 6.73 |  |  |  | Satisfied
+ | 0 | 4 | 4 | 9.205 | 6.73 |  |  |  | Satisfied
+ | 0 | 2 | 6 | 11.068 | 8.77 |  |  |  | Satisfied
+ | 0 | 0 | 8 | 6.985 | 12.56 | 2.33 | 4.81 |  | Satisfied
+ | 2 | 2 | 4 | 9.091 | 7.65 |  |  |  | Satisfied
+ | 4 | 2 | 2 | 7.576 | 6.44 |  |  |  | Satisfied
+ | 2 | 4 | 2 | 8.508 | 6.43 |  |  |  | Satisfied
+MSS | 0 | 0 | 0 | 2.121 | 1.80 |  |  | >5% | poor
+ | 8 | 0 | 0 | 3.720 | 3.26 |  |  |  | poor
+ | 6 | 0 | 2 | 7.750 | 6.28 |  |  |  | Satisfied
+ | 4 | 0 | 4 | 9.864 | 7.22 |  |  |  | Satisfied
+ | 2 | 0 | 6 | 10.273 | 9.12 |  |  |  | Satisfied
+ | 0 | 0 | 8 | 11.538 | 9.01 |  |  |  | Satisfied
+ | 6 | 2 | 0 | 5.303 | 3.88 |  |  |  | Satisfied
+ | 4 | 4 | 0 | 8.144 | 6.42 |  |  |  | Satisfied
+ | 2 | 6 | 0 | 8.333 | 5.95 |  |  |  | Satisfied
+ | 0 | 8 | 0 | 5.220 | 4.12 |  |  |  | Satisfied
+ | 0 | 6 | 2 | 7.750 | 6.38 |  |  |  | Satisfied
+ | 0 | 4 | 4 | 10.955 | 9.55 |  |  |  | Satisfied
+ | 0 | 2 | 6 | 11.311 | 9.18 |  |  |  | Satisfied
+ | 0 | 0 | 8 | 11.538 | 9.01 |  |  |  | Satisfied
+ | 2 | 2 | 4 | 9.598 | 8.06 |  |  |  | Satisfied
+ | 4 | 2 | 2 | 8.000 | 6.29 |  |  |  | Satisfied
+ | 2 | 4 | 2 | 8.909 | 6.43 |  |  |  | Satisfied
+
+===== PAGE 15 =====
+
+155 
+ 
+As shown in Table 12, CBR result showed that the significant improvement in strength compared to untreated soil 
+sample. Results indicated that the CBR values of treated soils with MD-cement, RHA-cement, MD-RHA-cement, 
+MD-RHA mix increases as the quantity of cement increases rather than the MD and RHA. However, according to 
+ERA pavement design manual specification, the CBR values of treated soil with 8% RHA alone is full fill the 
+specification as a subgrade material but the 8% MD not fulfill the ERA specification. The significant increase in 
+CBR value may attributed to reactions between cement, MD, RHA, soil and water. Stabilization of weak subgrade 
+soil with MD, RHA and cement combination is a new concept that is the reaction of MD, RHA, cement, soil and 
+water is scanty in the literature. Therefore; one or more the following mechanisms cation exchange, hydration 
+reaction, pozzolanic reaction, adhesive property of MD and RHA may be responsible for significant increase in 
+CBR values. 
+3.4.4 CBR swell for stabilized soil samples  
+The swells of expansive soil samples mixed with MD-Cement, RHA-Cement, MD-RHA 
+are 
+measured 
+and 
+determined from soils. The percentage combination of MD and cement, RHA and cement, MD are RHA was 
+performed on CBR tests, from which swell measurement are taken at the time of soaking and after four days of 
+soaking. 
+Table 13 Swell value from CBR test 
+Sample 
+Name 
+Mix proportion of MD, RHA and 
+Cement 
+CBR Swell 
+% 
+ERA 
+Requirement 
+Remark 
+ 
+ 
+ 
+ 
+ 
+ 
+GTC 
+MD,% 
+RHA,% 
+Cement,% 
+ 
+ 
+ 
+0 
+0 
+0 
+4.29 
+ 
+ 
+ 
+ 
+ 
+ 
+<2% 
+Poor 
+8 
+0 
+0 
+2.49 
+Poor 
+6 
+0 
+2 
+1.80 
+Satisfied 
+4 
+0 
+4 
+1.72 
+Satisfied 
+2 
+0 
+6 
+1.46 
+Satisfied 
+0 
+0 
+8 
+1.12 
+Satisfied 
+6 
+2 
+0 
+1.89 
+Satisfied 
+4 
+4 
+0 
+1.85 
+Satisfied 
+2 
+6 
+0 
+1.72 
+Satisfied 
+0 
+8 
+0 
+1.72 
+Satisfied 
+0 
+6 
+2 
+1.72 
+Satisfied 
+0 
+4 
+4 
+1.55 
+Satisfied 
+0 
+2 
+6 
+1.46 
+Satisfied 
+0 
+0 
+8 
+1.12 
+Satisfied 
+2 
+2 
+4 
+1.63 
+Satisfied 
+4 
+2 
+2 
+1.76 
+Satisfied 
+2 
+4 
+2 
+1.72 
+Satisfied 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+MSS 
+0 
+0 
+0 
+4.90 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+<2% 
+Poor 
+8 
+0 
+0 
+2.75 
+Satisfied 
+6 
+0 
+2 
+1.80 
+Satisfied 
+4 
+0 
+4 
+1.37 
+Satisfied 
+2 
+0 
+6 
+1.37 
+Satisfied 
+0 
+0 
+8 
+1.29 
+Satisfied 
+6 
+2 
+0 
+1.98 
+Satisfied 
+4 
+4 
+0 
+1.80 
+Satisfied 
+2 
+6 
+0 
+1.72 
+Satisfied 
+0 
+8 
+0 
+1.89 
+Satisfied 
+0 
+6 
+2 
+1.63 
+Satisfied 
+0 
+4 
+4 
+1.33 
+Satisfied 
+0 
+2 
+6 
+1.29 
+Satisfied 
+0 
+0 
+8 
+1.29 
+Satisfied 
+2 
+2 
+4 
+1.20 
+Satisfied 
+4 
+2 
+2 
+1.63 
+Satisfied 
+2 
+4 
+2 
+1.55 
+Satisfied 
+
+
+----- TABLE p15#1 -----
+
+Sample
+Name | Mix proportion of MD, RHA and
+Cement |  |  | CBR Swell
+% | ERA
+Requirement | Remark
+GTC | MD,% | RHA,% | Cement,% |  |  | 
+ | 0 | 0 | 0 | 4.29 | <2% | Poor
+ | 8 | 0 | 0 | 2.49 |  | Poor
+ | 6 | 0 | 2 | 1.80 |  | Satisfied
+ | 4 | 0 | 4 | 1.72 |  | Satisfied
+ | 2 | 0 | 6 | 1.46 |  | Satisfied
+ | 0 | 0 | 8 | 1.12 |  | Satisfied
+ | 6 | 2 | 0 | 1.89 |  | Satisfied
+ | 4 | 4 | 0 | 1.85 |  | Satisfied
+ | 2 | 6 | 0 | 1.72 |  | Satisfied
+ | 0 | 8 | 0 | 1.72 |  | Satisfied
+ | 0 | 6 | 2 | 1.72 |  | Satisfied
+ | 0 | 4 | 4 | 1.55 |  | Satisfied
+ | 0 | 2 | 6 | 1.46 |  | Satisfied
+ | 0 | 0 | 8 | 1.12 |  | Satisfied
+ | 2 | 2 | 4 | 1.63 |  | Satisfied
+ | 4 | 2 | 2 | 1.76 |  | Satisfied
+ | 2 | 4 | 2 | 1.72 |  | Satisfied
+MSS | 0 | 0 | 0 | 4.90 | <2% | Poor
+ | 8 | 0 | 0 | 2.75 |  | Satisfied
+ | 6 | 0 | 2 | 1.80 |  | Satisfied
+ | 4 | 0 | 4 | 1.37 |  | Satisfied
+ | 2 | 0 | 6 | 1.37 |  | Satisfied
+ | 0 | 0 | 8 | 1.29 |  | Satisfied
+ | 6 | 2 | 0 | 1.98 |  | Satisfied
+ | 4 | 4 | 0 | 1.80 |  | Satisfied
+ | 2 | 6 | 0 | 1.72 |  | Satisfied
+ | 0 | 8 | 0 | 1.89 |  | Satisfied
+ | 0 | 6 | 2 | 1.63 |  | Satisfied
+ | 0 | 4 | 4 | 1.33 |  | Satisfied
+ | 0 | 2 | 6 | 1.29 |  | Satisfied
+ | 0 | 0 | 8 | 1.29 |  | Satisfied
+ | 2 | 2 | 4 | 1.20 |  | Satisfied
+ | 4 | 2 | 2 | 1.63 |  | Satisfied
+ | 2 | 4 | 2 | 1.55 |  | Satisfied
+
+===== PAGE 16 =====
+
+156 
+ 
+The above Table 13 show that the soil sample with the various percentage of MD-cement, RHA-cement, MD-RHA 
+mix ratio and 8% of MD, RHA and cement was conducted.  As a result, all the above mix ratios and the MD, RHA 
+and cement alone for both soil samples have met the requirements specified by the Ethiopian road design manual 
+of pavement design. 
+ 
+ 
+Figure 13 Summary of CBR swells for GTC soil sample. 
+The expansive soil treated with the mixed ratio of MD-cement, RHA-cement, MD-RHA, and 8% MD and RHA 
+alone showed the reduction of CBR swell compared to 4.29% and 4.90% of untreated soil for GTC and MSS soil 
+sample, 
+respectively. 
+The 
+soil 
+was 
+treated 
+with 
+(8MD,6MD+2C,4MD+4C,2MD+6C,8C,8RHA,6RHA+2C,4RHA+4C,2RHA+6C,6MD+2RHA,4MD+4RHA,2M
+D+6RHA,2MD+2RHA+4C,2MD+4RHA+2C,4MD+2RHA+2C)RHA-cement yielded a significant reduction in 
+CBR swelled when it compared to the mixed ratio of  MD-cement, MD-RHA and from the 8% CBR swell of  MD 
+and RHA alone.  
+ 
+The CBR swell decreases when increasing the percentage of cement in the mixture ratio for all mixed ratios for 
+both soil samples.   Also, the CBR swell reduced with increasing the RHA rather than MD.  The CBR swell for all 
+mixed ratio with its reduction are shown in Figure 13 and Figure 14. In general, these decreases swell characteristics 
+are 
+due 
+to 
+a 
+decrease 
+preference 
+for 
+calcium 
+saturated 
+clay 
+water 
+and 
+the 
+development 
+of a cementitious matrix that prevents volumetric expansions. 
+4.29
+2.49
+1.8
+1.72
+1.46
+1.12
+1.72 1.72
+1.55 1.46
+1.12
+1.89 1.85 1.72 1.63 1.72 1.76
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+CBR swell (%)
+Mixed ratio (%)
+NS
+8MD
+6MD+2C
+4MD+4C
+2MD+6C
+8C
+8RHA
+6RHA+2C
+4RHA+4C
+2RHA+6C
+8C
+6MD+2RHA
+4MD+4RHA
+2MD+6RHA
+2MD+2RHA+2C
+2MD+4RHA+2C
+4MD+2RHA+2C
+
+
+===== PAGE 17 =====
+
+157 
+ 
+Figure 14 Summary of CBR swells for MSS soil sample. 
+4.0 CONCLUSIONS 
+• 
+The chemical composition of RHA and MD test result indicates the chemical composition of main oxides (SiO2 
++ Al2O3 + Fe2O3) were 70.13% and 42.43%, respectively, which is above the minimum of (70%) specified by 
+ASTM (C618) standard specification to be satisfied as minimum requirement of Natural Pozzolanic materials 
+• 
+The general soil classification systems, AASHTO and USCS, show A-7-5 and CH, respectively. This indicates 
+that the soils are poor and unsuitable to use as the subgrade road construction material unless it is treated. 
+• 
+The additives mixed ratio (MD-cement, RHA-cement, MD-cement) and the 8% MD, RHA and cement alone 
+decreases the LL and PI for both untreated soil samples. The LL decreases with slight changes for both soil 
+samples from control value 73.4%-56.97% and 79.70%-56.51% for GTC and MSS soil samples, respectively. 
+The PL increases with stabilization of additives of the Mix-ratio from control value 30.68%-53.26% and 
+30.91%-53.51% for GTC and MSS soil sample respectively; however, PL of both soil samples radically 
+increase when the mix-ratio of cement increases rather than MD and RHA. The PI decreased from 42.72% to 
+4.62% and from 48.79% to 6.15% GTC and MSS soil samples, respectively. Also, in the MD-RHA mixed 
+ratio, the liquid limit decreases when increasing the RHA and the plastic index decreases when increasing the 
+RHA for both soil samples. The stabilizers (MD, RHA and cement) significantly change the PI, not 
+significantly changing the LL. This means that all treated soil samples fulfill the ERA specification according 
+to PI. 
+• 
+The MDD increases slightly, and OMC decreases in the treatment of weak sub-grade soil samples with (RHA-
+cement, MD-cement, MD-RHA-cement, MD-RHA) additive agents. For GTC treated soil sample, the MDD 
+increases from 1.296g/cm3 to 1.403g/cm3 and OMC decreases from 38% to 27.54%. The MDD increases from 
+1.223g/cm3 to 1.37g/cm3 and OMC decreases from 38.89% to 30.18% for MSS soil sample. Increasing the 
+percentage of cement in the mixed ratio leads to increasing the MDD and decreasing OMC for all mix-ratio 
+rather than other additives (MD and RHA). 
+• 
+Soil treated with rice husk ash showed substantial improvement. Soil treated with 8% rice husk ash gave CBR 
+value of 5.152% from a value of 2.265%, 5.220% from the value of 2.121% and the CBR swell of 1.72% from 
+4.29%  and 1.89%from 4.90% for GTC and MSS the natural soil respectively showed that strength of the 
+expansive soil substantially improved and swelling potential decreased considerably. The soil treated with MD 
+alone not satisfied the ERA requirement, so that MD alone cannot be used as a stabilizer, but it could be treated 
+mixed with RHA and cement. Furthermore, as the CBR value (%) increases with increasing the cement 
+percentage in a mixed ratio (MD-cement, RHA-cement MA-RHA-cement), comparatively, the   CBR value of 
+4.9
+2.75
+1.8
+1.37 1.37 1.29
+1.89
+1.63
+1.33 1.29 1.29
+1.98
+1.8
+1.72
+1.2
+1.55 1.63
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+CBR swell (%)
+Mixed ratio (%)
+NS
+8MD
+6MD+2C
+4MD+4C
+2MD+6C
+8C
+8RHA
+6RHA+2C
+4RHA+4C
+2RHA+6C
+8C
+6MD+2RHA
+4MD+4RHA
+2MD+6RHA
+2MD+2RHA+4C
+2MD+4RHA+2C
+4MD+2RHA+2C
+
+
+===== PAGE 18 =====
+
+158 
+ 
+RHA-Cement mixed ratio greater than the other mixed ratio. However, according to the ERA 
+specification, all proportions of mix ratios met the minimum specifications used as a road subgrade material. 
+• 
+All mixing stabilizers (MD-cement, RHA-cement, MD-RHA, MD-RHA-cement) and 8% of RHA and cement 
+fulfill the ERA specification requirements for CBR swell value. However, 8% of marble dust alone does not 
+fulfill the Ethiopia road authority requirements for CBR swell. The MD and RHA standalone not improving 
+some of the engineering properties of soil samples used for subgrade construction. However, they mixed with 
+different percentages of cement can effectively stabilizer for this expansive soil.  
+Acknowledgement 
+The authors wish to thank the Jimma Institute of Technology, Jimma University in providing the necessary 
+support for carrying out this research study. 
+References  
+[1]     
+Bah, E. M., Faye, I., & Geh, Z. F. (2018). The Construction Cost Conundrum in Africa. In E. M. Bah, I. Faye, & Z. 
+F. Geh, Housing Market Dynamics in Africa (pp. 159–214). Palgrave Macmillan UK. https://doi.org/10.1057/978-1-
+137-59792-2_5 
+[2]     
+Akadiri, P. O., Chinyio, E. A., & Olomolaiye, P. O. (2012). Design of A Sustainable Building: A Conceptual 
+Framework 
+for 
+Implementing 
+Sustainability 
+in 
+the 
+Building 
+Sector. 
+Buildings, 
+2(2), 
+126–152. 
+https://doi.org/10.3390/buildings2020126 
+[3]      
+Shi, B., Jiang, H., Liu, Z., & Fang, H. Y. (2002). Engineering geological characteristics of expansive soils in China. 
+Engineering Geology, 67(1–2), 63–71. https://doi.org/10.1016/S0013-7952(02)00145-X 
+[4]       Ikeagwuani, C. C., & Nwonu, D. C. (2019). Emerging trends in expansive soil stabilisation: A review. Journal of 
+Rock Mechanics and Geotechnical Engineering, 11(2), 423–440. https://doi.org/10.1016/j.jrmge.2018.08.013 
+[5]      Geremew, A., & Fayissa, B. (2018). Experimental Performance Studies on the Improved Expansive Subgrade Soil 
+Formation by Using Mechanical Stabilization with Natural Gravel Around Jimma Quarry Sites. American Journal of 
+Civil Engineering, 6(5), 154–161. https://doi.org/10.11648/j.ajce.20180605.13 
+[6]     Jemal, A., Agon, E. C., & Geremew, A. (2019). Utilization Of Crushed Stone Dust As A Stabilizer For Sub Grade 
+Soil: A Case Study In Jimma Town. International Journal of Engineering, XVII(4), 55–64. 
+[7]     She, J., Lu, Z., Yao, H., Fang, R., & Xian, S. (2019). Experimental Study on the Swelling Behavior of Expansive Soil 
+at Different Depths under Unidirectional Seepage. Applied Sciences, 9(6), 1233. https://doi.org/10.3390/app9061233 
+[8]     Geremew, A., Quezon, E. T., & Kebede, G. (2016). Influence Of Subsurface Courses Materials On Pavement 
+Performance: A Case Study in Yebu-Agaro Road. International Journal of Scientific & Engineering Research, 7(10), 
+1252–1260. 
+[9]      Viswanadham, B. V. S., Phanikumar, B. R., & Mukherjee, R. V. (2009). Swelling behaviour of a geofiber-reinforced 
+expansive soil. Geotextiles and Geomembranes, 27(1), 73–76. https://doi.org/10.1016/j.geotexmem.2008.06.002 
+[10]     Thyagaraj, T. (Ed.). (2019). Ground Improvement Techniques and Geosynthetics: IGC 2016 Volume 2 (Vol. 14). 
+Springer Singapore. https://doi.org/10.1007/978-981-13-0559-7 
+[11]    Phanikumar, B. R., & Singla, R. (2016). Swell-consolidation characteristics of fibre-reinforced expansive soils. Soils 
+and Foundations, 56(1), 138–143. https://doi.org/10.1016/j.sandf.2016.01.011 
+[12]     Dinka, O. G., Agon, E. C., & Geremew, A. (2019). Performance Studies on Subgrade Formation Using Lime and 
+Cement in Road Projects. Applied Journal of Environemntal Engineering Science, 5(4), 420–436. 
+https://doi.org/10.48422/IMIST.PRSM/ajees-v5i4.17836 
+[13]    Mesfun, R. T., Quezon, E. T., & Geremew, A. (2019). Experimental Study Of Stabilized Expansive Soil Using Pumice 
+Mixed With Lime For Subgrade Road Construction. International Journal of Research -GRANTHAALAYAH, 7(7), 
+118–124. https://doi.org/10.29121/granthaalayah.v7.i7.2019.736 
+[14]    Gupta, C., & Sharma, D. R. K. (2014). Influence of Marble Dust, Fly Ash and Beas Sand on Sub Grade Characteristics 
+of Expansive Soil. IOSR Journal of Mechanical and Civil Engineering, 13–18. 
+[15]    Kurdowski, W. (2014). Cement and Concrete Chemistry. Springer Netherlands. https://doi.org/10.1007/978-94-007-
+7945-7 
+[16]     Karim, Md., Hossain, Md., Khan, M., Zain, M., Jamil, M., & Lai, F. (2014). On the Utilization of Pozzolanic Wastes 
+as an Alternative Resource of Cement. Materials, 7(12), 7809–7827. https://doi.org/10.3390/ma7127809 
+[17]   Gonfa, L. G., Tucay Quezon, E. T. Q., & Geremew, A. (2020). Experimental Study On Application Of Marble Waste 
+As Conventional Aggregate For Base Course Materials. Journal of Civil Engineering, Science and Technology, 11(2), 
+144–163. https://doi.org/10.33736/jcest.2620.2020 
+[18]    Seyfe, M., & Geremew, A. (2019). Potential Use Of Cinder Gravel As An Alternative Base Course Material Through 
+Blending With Crushed Stone Aggregate And Cement Treatment. Journal of Civil Engineering, Science and 
+Technology, 10(2), 101–112. https://doi.org/10.33736/jcest.1465.2019 
+[19]   
+McCarthy, D. F. (2014). Essentials of soil mechanics and foundations: Basic geotechnics (Seventh edition). Pearson. 
+
+
+===== PAGE 19 =====
+
+159 
+ 
+[20]     Mamuye, Y., Quezon, E. T., & Geremew, A. (2018). Combined Effects of Molasses-Lime Treatment on Poor Quality 
+Natural Gravel Materials Used for Sub-Base and Base Course Construction. Global Scientific Journal, 6(7), 621–633. 
+https://doi.org/10.20372/nadre%2F4245 
+ 
+ 
+ 
+ 
+ 
+ 

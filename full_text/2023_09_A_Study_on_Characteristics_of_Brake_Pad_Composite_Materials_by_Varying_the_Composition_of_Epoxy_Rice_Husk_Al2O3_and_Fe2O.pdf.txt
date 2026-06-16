@@ -1,0 +1,510 @@
+
+===== PAGE 1 =====
+
+ 
+ 
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 
+International License. 
+Automotive Experiences 
+ 303 
+ 
+Automotive Experiences 
+Vol. 6 No. 2 (2023) pp. 303-319 
+p-ISSN: 2615-6202     e-ISSN: 2615-6636 
+ 
+ 
+A Study on Characteristics of Brake Pad Composite Materials by 
+Varying the Composition of Epoxy, Rice Husk, Al2O3 and Fe2O3 
+ 
+1
+2
+3
+3
+4
+5
+6
+7
+8 
+1Department of Mechanical Engineering, Universitas Islam Indonesia, Sleman 55584, Indonesia  
+2Department of Statistics, Universitas Islam Indonesia, Sleman 55584, Indonesia 
+3Department of Mechanical Engineering, Universitas Negeri Semarang, Semarang 50229, Indonesia 
+4Department of Mechanical Engineering, Universitas Diponegoro, Semarang 50275, Indonesia  
+5Faculty of Engineering, Universitas Tarumanagara, Jakarta Barat 11440, Indonesia 
+6Faculty of Engineering and Quantity Surveying, INTI International University, 71800, Negeri Sembilan, Malaysia 
+7Faculty of Mechanical & Automotive Engineering Technology, Universiti Malaysia Pahang, 26600, Malaysia 
+8Fakulti Kejuruteraan Mekanikal, Universiti Teknikal Malaysia Melaka, Hang Tuah Jaya 76100, Melaka, Malaysia 
+ khafidh@uii.ac.id  
+ 
+9121  
+ 
+Published by Automotive Laboratory of Universitas Muhammadiyah Magelang collaboration with Association of Indonesian Vocational Educators (AIVE) 
+ 
+Abstract
+ 
+Article Info 
+Submitted: 
+15/05/2023 
+Revised: 
+26/06/2023 
+Accepted: 
+12/07/2023 
+Online first: 
+27/08/2023 
+. 
+Keywords: Composites; Brake pad; Epoxy; Rice husk; Al2O3, and Fe2O3 
+1. Introduction 
+Along
+ 
+
+
+----- TABLE p1#1 -----
+
+ | Published by Automotive Laboratory of Universitas Muhammadiyah Magelang collaboration with Association of Indonesian Vocational Educators (AIVE) | 
+
+----- TABLE p1#2 -----
+
+Article Info
+Submitted:
+15/05/2023
+Revised:
+26/06/2023
+Accepted:
+12/07/2023
+Online first:
+27/08/2023 |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  | . | 
+ |  | Keywords: Composites; Brake pad; Epoxy; Rice husk; Al2O3, and Fe2O3 | 
+
+===== PAGE 2 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+ 304 
+ 
+Brake
+ 
+[2]
+(
+) 
+ 
+(WHO
+ °
+0  °
+.
+Composite
+Various
+ 
+results
+ 
+claim
+addition
+(
+)
+addition
+
+
+===== PAGE 3 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+ 305 
+ 
+Previous
+2. Methods 
+[21]
+[21], [22].
+ 
+ 
+[23]
+ 
+ 
+ 
+[24]
+ 
+(
+)
+(
+)  DSC
+Epoxy 
+ 
+(wt%) 
+ 
+
+
+----- TABLE p3#1 -----
+
+ |  |  |  | Epoxy |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | (wt%) | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 4 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+ 306 
+ 
+[23]  
+ 
+ 
+ 
+ 
+ 
+ ̶
+ 
+ 
+3. Results and Discussion 
+[25]  
+[14]  
+[26]
+[14]
+[27]
+ iron 
+ 
+Density in composite specimens with various 
+compositions 
+
+
+===== PAGE 5 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+ 307 
+ 
+[18], [28]  
+With 
+ 
+of 
+4 
+and 
+5.25 
+g/cm3, 
+respectively, Al2O3 and Fe2O3 are classified as 
+high-density materials. A higher density of 
+reinforcement makes achieving a uniform mixture 
+with the matrix more difficult, as it becomes 
+increasingly difficult to evenly disperse and 
+distribute the reinforcing material throughout the 
+matrix.  
+As 
+a 
+, 
+agglomerates 
+and 
+stress 
+concentrations occur in the matrix. The presence 
+of agglomeration in the composite can increase the 
+number of pores, cracks, and delamination, 
+greatly reducing interfacial bonding and density 
+[29], [30]. 
+This is 
+ by SEM images shown in 
+. SEM (Scanning Electron Microscope) 
+testing was carried out using specimens that had 
+been flexural tested with a magnification of X1500. 
+ 
+ shows the 
+results of the analysis on SEM images using the 
+ImageJ software. Image analysis on brake pad 
+specimens was carried out with reference to 
+previous studies [31]. ImageJ analysis results 
+show that the number of cracks, porosity, and 
+agglomeration in specimen 2 is 15.8%. Whereas in 
+specimen 6, the number of cracks, porosity, and 
+agglomeration is 2.7%. 
+uneven
+ [29], [30]  
+ 
+ 
+SEM images on the (a) specimen 2 and (b) specimen 6  
+ 
+
+
+===== PAGE 6 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+ 308 
+ 
+ 
+SEM image analysis using the ImageJ software on (a) specimen 2 and (b) specimen 6 
+[8] 
+[33]
+ 
+[34]
+[33]
+[35]
+[36], [37]
+Flexural strength and flexural modulus of 
+composite specimens 
+
+
+===== PAGE 7 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+309 
+ 
+[36]
+[38]
+[39].  
+[40]. 
+[40].
+[43].
+.
+ [8], 
+± 30 MPa [44], and ± 40 MPa [43]. 
+ 
+[45]–[48]. 
+Hardness of composite specimens with 
+various compositions 
+
+
+===== PAGE 8 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+310 
+ 
+ 
+ (approximately 40 HV)
+ [51]
+.
+[52] 
+[53]  
+[53]
+[54]. 
+[55]–[57].  
+ 
+[31], [58], [59]
+[60]. 
+[31], [59]. 
+, different results were found in this 
+study. Specimen 2 produces lower specific wear 
+ 
+ 
+Comparison of specific wear rates on 
+specimen 2 and specimen 6 
+
+
+===== PAGE 9 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+311 
+ 
+rates than the specific wear rates produced in 
+specimen 6. Even though specimen 2 has a much 
+lower density and hardness than specimen 6. 
+. Compared to specimen 2, 
+specimen 6 with compositions of 50% epoxy, 20% 
+rice husk, 15% aluminum oxide, and 15% iron 
+oxide, exhibited lower specific wear rates. 
+According to Mohapatra, the incorporation of rice 
+husks 
+significantly 
+decreased 
+the 
+thermal 
+conductivity of the composite [62].  
+Low-thermal-conductivity brake pads may 
+dissipate 
+ less efficiently, increasing the risk of 
+thermal damage and glazing. This reduces the 
+adhesion of the material used to create the brake 
+pads, resulting in increased wear. In their 
+investigation, Mahale et al. also discovered the 
+same result. Their research revealed that during 
+wear experiments, the surface temperature of Cu 
+pads was always lower than that of SS pads 
+because the thermal conductivity of SS pads was 
+lower than that of Cu pads. Consequently, Cu 
+particulates remain firmly adhered to the matrix, 
+resulting in less wear [63]. 
+[56]. 
+[56]. 
+[66]. 
+[56]. 
+ 
+ 
+ 
+ 
+ 
+[67], [68]  
+ 
+ 
+ 
+ 
+ 
+[67], [68]
+ 
+ 
+ 
+ 
+
+
+===== PAGE 10 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+312 
+ 
+. 
+ 
+ 
+ (
+).
+ 
+ 
+[71]. 
+ 
+ 
+[71]. 
+ 
+[71]. 
+ 
+ 
+[72]. 
+ 
+ 
+ 
+ 
+ 
+ 
+[68]
+ 
+ 
+TG curves on specimens 6 and 2 
+DTG curves on specimens 6 and 2 
+
+
+===== PAGE 11 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+313 
+ 
+DSC curve on specimens 6 and 2 
+ 
+ 
+ 
+ 
+ 
+[73]   
+, the results of this study are
+ 
+4. Conclusion 
+ 
+1
+1
+
+
+===== PAGE 12 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+314 
+ 
+ This study aligns with Sustainable 
+Development Goals (SDGs) 9, 12, and 13 by 
+advancing innovation, fostering sustainability, 
+and reducing emissions in automotive industry 
+applications. 
+ 
+Acknowledgements 
+ The 
+authors also 
+ all students who are 
+involved in this research.  
+ 
+_________________________________________ 
+Author’s Declaration 
+Authors’ contributions and responsibilities 
+The authors made substantial contributions to the 
+conception and design of the study. The authors took 
+responsibility for data analysis, interpretation and discussion 
+of results. The authors read and approved the final manuscript 
+ 
+Funding  
+Directorate of Research and Community Services 
+(Direktorat 
+Penelitian 
+dan 
+Pengabdian 
+Masyarakat) 
+Universitas Islam Indonesia with the contract number of 
+006/Dir/DPPM/70/Pen.Unggulan/XII/2022. 
+ 
+Availability of data and materials  
+All data are available from the authors.  
+ 
+Competing interests  
+The authors declare no competing interest. 
+ 
+Additional information 
+No additional information from the authors. 
+___________________________________________ 
+ 
+References 
+
+
+===== PAGE 13 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+315 
+ 
+
+
+===== PAGE 14 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+316 
+ 
+
+
+===== PAGE 15 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+317 
+ 
+
+
+===== PAGE 16 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+318 
+ 
+
+
+===== PAGE 17 =====
+
+© Muhammad Khafidh et al. 
+Automotive Experiences 
+319 
+ 
+ 
+ 

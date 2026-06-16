@@ -1,0 +1,2649 @@
+
+===== PAGE 1 =====
+
+Original Article
+Evaluation of structural performances of
+metakaolin based geopolymer concrete
+Fatheali A. Shilar a, Sharanabasava V. Ganachari b,*,
+Veerabhadragouda B. Patil c, Kottakkaran Sooppy Nisar d,*
+a Department of Civil Engineering, Jain College of Engineering, Belagavi 590014, INDIA
+b Department of Chemistry, School of Advanced Sciences, KLE Technological University, Hubballi 580031, INDIA
+c Institute of Energetic Materials, Faculty of Chemical Technology, University of Pardubice, Pardubice, CZECH
+REPUBLIC
+d Department of Mathematics, College of Arts and Sciences, Prince Sattam Bin Abdulaziz University, Wadi
+Aldawaser 11991, SAUDI ARABIA
+a r t i c l e i n f o
+Article history:
+Received 30 May 2022
+Accepted 4 August 2022
+Available online 28 August 2022
+Keywords:
+Compressive strength
+Temperature
+Alkaline to binder ratio
+Metakaolin
+Potassium
+a b s t r a c t
+Last few decades, there has been a substantial advancement of geopolymer (GP) as a
+Portland cement substitute. It is vital to investigate potential building uses for geopolymer
+concrete (GPC). Six different mixes were cast for an alkaline to binder (A/B) ratio of 0.25
+e0.50 with an interval of 0.05. Metakaolin-based geopolymer were cured at ambient tem-
+perature and tested for 7, 14, 28, and 90 days. Metakaolin-Marble (MM00) mix was observed
+to have a maximum slump. For an A/B ratio of 0.35, maximum compressive, split tensile,
+ﬂexural strength and modulus of elasticity was achieved. For elevated temperature resis-
+tance, geopolymer concrete cubes were exposed to temperatures (T) of 200, 400, to 600 C. As
+the temperature increased, compressive strength (CS) reduced. As the increase of the
+alkaline to binder (A/B) ratio, the strength of geopolymer concrete increases up to a speciﬁc
+limit beyond the limit strength decline. An empirical formula for split tensile (STS) value
+prediction using compressive strength values is proposed, valid for determining split
+tensile strength value. The correlation between compressive strength, split tensile
+strength, ﬂexural strength, and bulk density varies linearly for a quadratic polynomial.
+© 2022 The Author(s). Published by Elsevier B.V. This is an open access article under the CC
+BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/).
+1.
+Introduction
+With the rising demand for shelter needs to the growing pop-
+ulation, infrastructural expansion, and industrialization glob-
+ally, there is a need for innovative construction technology and
+alternative materials to meet these requirements [1]. Sustain-
+ability and environment are two signiﬁcant issues that must be
+addressed while researching alternative construction mate-
+rials [2]. In this context, geopolymer concrete (GPC) has
+emerged as a trending and unexplored area for researchers [3].
+GPC has several advantages over standard Portland concrete,
+* Corresponding authors.
+E-mail addresses: sharanu14@gmail.com (S.V. Ganachari), ksnisar1@gmail.com (K.S. Nisar).
+Available online at www.sciencedirect.com
+journal homepage: www.elsevier.com/locate/jmrt
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+https://doi.org/10.1016/j.jmrt.2022.08.020
+2238-7854/© 2022 The Author(s). Published by Elsevier B.V. This is an open access article under the CC BY-NC-ND license (http://
+creativecommons.org/licenses/by-nc-nd/4.0/).
+
+
+===== PAGE 2 =====
+
+including decreased carbon emissions, cheaper manu-factur-
+ing amount, potential to use waste materials as binders [4].
+The geopolymerization reaction mechanism of alumino-
+silicate dissolution in the activator solution from a chemical
+perspective (Fig. 1). Resource materials and an alkaline acti-
+vation solution are the two most essential criteria for geo-
+polymer (GP). The chemical composition of resource materials
+must contain alumina-silicate, and these materials come
+from
+waste
+by-products
+like
+Ground
+granulated
+blast-
+furnaces slag (GGBS), ﬂy ash (FA), and red mud (RM) [6]. Ac-
+cording to prior research, the ﬁneness of binders, the chemical
+composition of binders and activator, the activator agent to
+binder ratio, molar concentration, curing method, and tem-
+perature are some of the factors which enhance the rate of
+geopolymerization [7,8] shown in Fig. 1.
+The SiO₂/Al₂O₃ ratio denotes the proportion of silica SiO₂ to
+alumina Al₂O₃. The geopolymer compressive strength (CS) is
+improved when this ratio is increased. The SiO₂/Al₂O₃ ratio
+constraints the application domains [9]. The SiO₂/Al₂O₃ ratio
+was employed to categorize different GP applications. As per a
+past literature study, a substantial intensiﬁcation in Si/Al SiO₂/
+Al₂O₃ observed that setting time and the CS were decreased
+[10,11]. The surface area of the binder is more, which tends to
+accelerate the rate of the geopolymerization process, causing
+enhancement of mechanical performances [12,13].
+Many earlier experiments have shown that increasing the
+concentration of the activator agent increases CS up to a
+certain point, beyond which the CS drops [14]. Past literature
+study is the only parameter for selecting the molar of the
+activator. Several investigations have demonstrated that
+curing temperatures of 12 M NaOH and 60 C and 70 C tend to
+produce the optimum CS results. However, the research sug-
+gested using 13 M NaOH for excellent workability. As per past
+literature, 14 M NaOH has more excellent CS in concrete,
+whereas 16 M NaOH has the best CS for geopolymer mortar
+[15e17].
+Numerous investigations have established the maximum
+activator/binder ratio for many precursors [18]. According to
+literature research, the A/B ratio for GGBS and red-based
+geopolymer should be between 0.40 and 0.55 [16]. According
+to the study, for marble-based GPC, a water to binder (W/B)
+ratio of 0.36 is better suited for achieving maximum CS. Ac-
+cording to research, a W/B ratio of 0.30e0.40 is best for pro-
+ducing FA-based GPC. When adding a ﬁller material to FA-
+based GPC, W/B ratios in the range between 0.35 and 0.55 is
+the most suggested [15,17]. Enhanced mechanical properties
+of GPC are achieved by increasing heat curing and its duration
+until a speciﬁed value is obtained [9,18,19]. However, high
+temperatures induce fractures in the geopolymer binder; for
+GPC specimens, exposure to a long time for high curing tem-
+perature results in a detrimental impact on mechanical
+strength [20,21]. The optimum CS is attained with a 60e75 C
+as curing temperature, for a curing period of 5e7 days, for FA-
+based GPC, and 1e4 days for GGBS-based GPC [22,23].
+The calcination of kaolinite produces MK, a highly reactive
+pozzolana (China clay). It must be processed in a burning
+process similar to cement, albeit the manufacturing temper-
+ature is between 700 and 900 C rather than 1450 C [27,28]. MK
+is a dehydroxylated version of kaolinite, a clay mineral. MK is
+clay that is often used in the manufacture of ceramics and
+utilized as a cement substitute preparation of traditional
+concrete [25]. Compared to Portland cement, MK has a lower
+particle size (1e2 mm) and a higher surface area but a bigger
+particle size than silica fume [26]. MK reacts fast and de-
+creases the diffusion coefﬁcient compared to regular Portland
+cement because of its tiny particle size and large surface area
+[27]. The chemical composition of a marble powder majority
+consists of CaO, which helps develop better strength and
+helps achieve lower permeability [28,29].
+In general, waste generation at many phases of mining and
+processing activities has contributed to severe environmental
+concerns in the dimensional stone marble business [30] (see
+Fig. 1 e Schematic representation of geopolymerization process in GPC [recreated from Ref [5]].
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3209
+
+
+===== PAGE 3 =====
+
+Fig. 2). The sludge produced between 20% and 30% of the
+weight of the stone processed, depending on the type of pro-
+cedure used. Marble dust as a binder and sand substitute was
+studied on mechanical and durability properties. Most of the
+studies have had favorable results [31]. This application may
+be utilized to minimize the cost of GPC manufacturing by
+using waste marble dust as an additive ingredient, affecting
+mortar mechanical performance [32]. 10% sand replacement
+with marble in the presence of additives yielded a maximum
+CS equivalent to the reference combination for 28 days [33].
+This research aims to use marble as a binder with MK in the
+production of GPC. For the optimum percentage of marble
+content, the fresh and mechanical performances of MK based
+GPC were investigated in this article. The different pro-
+portions of A/B ranging from 0.30, 0.40 and 0.50, were also
+investigated for testing days of 7, 14, 28 and 90. An empirical
+formula is proposed for STS value prediction using CS values
+which were valid for the determination of STS value.
+2.
+Materials and method
+2.1.
+Materials
+The marble powder was procured from the Belagavi, Karna-
+taka, in this study. Table 1 shows the chemical composition
+used in marble and metakaolin (MK). Fig. 1 Production stages
+of marble. The MK was collected from Mayuri Nagar, Miyapur,
+Kachiguda, Hyderabad, and Telangana. MK is produced by
+calcination of kaolin at high temperature. River sand was used
+for our work. The sand was procured from Mundari and
+conﬁrmed to IS 383 with speciﬁc gravity as 2.4 and ﬁneness
+modulus as 2.6. Coarse aggregate was procured from Belagavi
+and conﬁrmed to IS 383 with speciﬁc gravity as 2.65 and
+ﬁneness modulus as 6. Alkaline agents such as potassium
+silicate (K₂SiO₃) and potassium hydroxide (KOH) were pro-
+cured from the Shree chemical from Belagavi. K₂SiO₃ and KOH
+were in pellet form. These pellets were converted in liquid of
+required concentration by adding water to these pellets. The
+activator was prepared with a 14 M concentration. After
+combining the two solutions, they were left to remain for 24 h
+before being used to ﬁnish the interaction. Fig. 3 represents
+the various ingredients of GPC. Table 2 Represents the phys-
+ical properties of ingredients of GPC.
+2.2.
+Mixing, casting, and curing
+The tested ingredients properties of GPC are shown in Fig. 4 in
+which MM refers to the mixture marble/MK. In the current
+study, six different MM mix proportions partially replacing
+marble by MK (Table 3). A/B was used to prepare GPC as 0.25, to
+0.50, with an interval of 0.05. As an activating agent, KOH
+concentration was kept at 14 M and cured at 50 C for 7, 14, 28,
+and 90 days. The Marble and MK as binders were carefully
+mixed manually until a homogeneous mixture was obtained.
+Activators were poured into the binders, and the mixtures
+were mixed using the concrete mixer. Binder and aggregates
+were dry mixed, and then the activators were poured into the
+mix. The mold's inner surface was applied with grease, and a
+three-layer paste of GPC was poured into them. Cubes were
+compacted using a table vibrator. The total mixing time was
+20 min. Cubes were heated at 50 C for 1 h in the oven after 24 h
+of the ﬁnal set of cubes, cooled at room temperature, and
+taken for testing at respectively days (see Table 4)
+3.
+Experimental tests
+The workability of GPC was carried out as per IS 1199 [34].
+Workability such as slump (SV), compaction factor (CF), and
+vee-bee consistometer (VBC) for a different proportion of
+marble waste along with various A/B ratios was carried out
+and results are shown in Fig. 5aec. The assembly consists of a
+cone frustum and a tamping rod that has been certiﬁed to IS
+1199 [38]. The inner surface of the slump cone was cleaned
+thoroughly. GPC was ﬁlled in the four layers. After each layer
+of GPC was poured into a cone, it was tamped for 25 strokes
+applied using a tamping rod. After ﬁlling GPC in the cone,
+surface was levelled using a trowel, and the ﬁnal height of the
+slump was measured. The SV value is the difference between
+the two heights, i.e., ﬁnal and initial (mm).
+3.1.
+Slump
+For different ratios of A/B values ranging from 0.25 to 0.50, an
+interval of 0.05, GPC matrix was prepared. SV value observed
+after experimentation ranging from 61 (minimum) to 89 mm
+(maximum) refers to Fig. 5a. For the A/B ratio 0.25, SV range
+from 61 to 76 mm as the minimum and maximum values. The
+MM00 shown maximum slump, as 76 mm, and MM25 mini-
+mum mix slump was observed as 61 mm. For an A/B ratio of
+0.30, the SV range from 68 to 79 mm as the minimum and
+Table 1 e Chemical composition of Metakaolin and Marble.
+Composition Binder
+SiO2
+Al2O3
+CaO
+MgO
+K2O
+Fe2O3
+Na2O
+SO3
+CaCO3
+LOI
+Metakaolin
+55.7
+38.6
+0.39
+2.08
+2.43
+2.03
+0.26
+1.1
+e
+1.74
+Marble
+1.28
+1.38
+50.10
+1.72
+e
+0.54
+0.29
+0.21
+44.1
+0.39
+Fig. 2 e Schematic of production stages of marble.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3210
+
+
+----- TABLE p3#1 -----
+
+ | Table 1 e Chemical composition of Metakaolin and Marble. | 
+ | Table 1 | 
+Composition Binder SiO Al O CaO MgO K O Fe O Na O SO CaCO LOI
+2 2 3 2 2 3 2 3 3 |  | 
+Metakaolin 55.7 38.6 0.39 2.08 2.43 2.03 0.26 1.1 e 1.74
+Marble 1.28 1.38 50.10 1.72 e 0.54 0.29 0.21 44.1 0.39 |  | 
+
+===== PAGE 4 =====
+
+maximum
+values,
+respectively.
+For
+MM00
+was
+shown
+maximum SV, as 79 mm, and MM25 mix minimum SV was
+observed as 68 mm. For the A/B ratio of 0.35, the SV value was
+seen from 70 to 82 mm as the minimum and maximum
+values. The MM00 shown maximum SV, as 82 mm, and MM25
+mix minimum SV was observed as 82 mm. For the A/B ratio of
+0.40, the SV range from 75 to 85 mm as the minimum and
+maximum values. The MM00 shown maximum SV as 75 mm,
+and MM25 mix minimum SV was observed as 85 mm. For the
+A/B ratio of 0.45, the SV range from 79 to 89 mm as the mini-
+mum and maximum values. The MM00 shown maximum SV,
+as 79 mm, and MM25 mix minimum SV was observed as
+89 mm. For an A/B ratio of 0.50, the SV range from 77 to 86 mm
+as the minimum and maximum values. The MM00 shown
+maximum SV, as 77 mm, and MM25 mix minimum SV was
+observed as 86 mm.
+3.1.1.
+VeB consistometer (VBC)
+For different ratios of A/B values ranging from 0.25 to 0.50, an
+interval of 0.05 GPC matrix was prepared, as shown in Fig. 5b.
+VBC value observed after experimentation ranging from 8 s
+(minimum) to 24 s (maximum) for an A/B ratio of 0.25e0.50.
+For the A/B ratio of 0.45, maximum VB-time was observed,
+compared with ratios and mixes. VBC value was observed
+from 15 to 24 s as the minimum and maximum values. The
+MM00 shown maximum VBC was observed as 24 s, and MM25
+mix minimum VBC was observed as 15 s. As the marble con-
+tent increased, VB time also increased to the speciﬁc limit, and
+time was reduced beyond that point. Marble content up to
+optimum usage of 20%, maximum VB time was seen. For an A/
+B ratio of 0.45, the MM00 mix proportion has the longest VB
+time compared to other mixes. For an A/B ratio of 0.45, MM00
+has a 37% VB time higher than MM25, indicating that MM00 is
+37% more workable than MM25. Similarly MM00 has a 8.33%,
+16.6%, 25%, and 29.1%, VB time higher than MM05, MM10,
+MM15, and MM20 respectively.
+3.1.2.
+Compaction factor (CF)
+For different ratios of A/B values ranging from 0.25 to 0.50, an
+interval of 0.05, GPC matrix was prepared, refer to Fig. 5c. For
+the A/B ratio of 0.25, the CF value was observed from 0.68 to
+0.75 as the minimum and maximum values. When comparing
+ratios and mixtures, the highest CF was found for the A/B ratio
+of 0.45. The lowest and highest CF values are 0.82 and 0.86,
+respectively. The MM00 mix had the highest maximum CF of
+0.86, whereas the MM25 mix have the lowest minimum CF of
+0.77. CF increased to the speciﬁc limit as the marble content
+increased, and CF was reduced beyond that point. Maximum
+CF was observed with marble content up to optimal utilization
+of 20%. Compared to other mixes, the MM00 mix percentage
+has the highest CF for an A/B ratio of 0.45. MM00 has a 4.6%
+greater CF than MM25 for an A/B ratio of 0.45, implying that
+MM00 is 2.3% more feasible than MM25. MM00 has a CF of
+2.3%, 2.33%, 1.1%, and 1.16%, respectively, greater than MM05,
+MM10, MM15, and MM20.
+3.1.3.
+Effect of activators on the workability of GPC
+GPC prepared with MK as a binder, shows more density dense
+concrete than that of metakaolin GGBS as a binder. The par-
+ticle shape and size of ingredients of GPC have greater inﬂu-
+ence in fresh and mechanical performances enhancement of
+GPC. MK has high ﬁneness resulting in enhanced workability
+[35]. Aggregate content in the polymer paste affects the fresh
+property of GPC, such as workability. When silicate reacts
+with free Naþ ions in the gel, it undergoes soluble phases of
+NASH gel due to excess KOH cracks developed in the matrix
+[36]. The particle shape of the binder has a more signiﬁcant
+impact on the structure performances of GPC. Metakaolin was
+observed to be irregular than spherical shape along with an
+edged shape leading to a lower slump [37]. Higher concen-
+tration of molarity signiﬁcances that intensiﬁcation in the
+viscosity of KOH. As the molarity of an activator is increased,
+the slump performances lower [38]. Higher content of SiO2 in
+Metakaolin led to the rapid development of the setting timing
+due to the formation of the C-A-S-H structure, which tends to
+reduce the SV. Metakaolin indicates heterogeneous micro-
+structure and particles from an agglomeration and makes
+dense with diverse particles. MK and marble are rich in SiO₂
+and CaO ions with increment KS/KH molar ratio during syn-
+thesis progression. MK reacts with silica led to the formation
+of a novel crystalline phase [39,40]. Alkali fusion of MK, some
+mineral phases transformed into amorphous, and new crys-
+talline
+phases
+formed
+in
+the
+GPC.
+Unreacted
+ions
+of
+Na þ deﬁned their paths in this way, either agglomerated or
+migrated at the boundary of remained. Metakaolin particles
+become less dense after the fusion process [41].
+3.2.
+Compression strength (CS)
+As per IS 516 code [42], the CS test was performed in a
+compression testing machine (CTM) with a 150 mm3 specimen
+size. The CS values for different proportions of GPC tested for
+the 7, 14, 28, and 90 days as shown in Fig. 6aed.
+Fig. 3 e Schematic representation of ingredients of GPC.
+Table 2 e Physical properties of ingredients of GPC.
+Materials
+Metakaolin
+Marble
+Aggregate
+R.Sand
+Physical Properties
+Speciﬁc gravity
+2.60
+2.55
+2.65
+2.6
+Zone
+e
+e
+e
+II
+Fineness modulus
+e
+e
+7.0
+3.0
+Silt content
+e
+e
+e
+4%
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3211
+
+
+----- TABLE p4#1 -----
+
+ | Table 2 e Physical properties of ingredients of GPC. | 
+ | Table 2 | 
+Materials Metakaolin Marble Aggregate R.Sand |  | 
+Physical Properties |  | 
+Specific gravity 2.60 2.55 2.65 2.6
+Zone e e e II
+Fineness modulus e e 7.0 3.0
+Silt content e e e 4% |  | 
+
+===== PAGE 5 =====
+
+The GPC was placed in the three-layer mixture into the
+cubes. Each layer was compacted with a tamping rod with 35
+strokes. After ﬁlling GPC into cubes, these cubes were
+compaction using a table vibrator before the ﬁnal concrete set.
+CTM with a capacity of 2000 N and a 140 kg/cm2/min loading
+rate was employed for crushing concrete.
+To determine CS results, GPC was cast for different ratios
+A/B ranging from 0.25 to 0.50, with an interval of 0.05 see
+Fig. 6a. CS value observed after experimentation ranging from
+30 (minimum) to 45 (maximum) MPa, for day 7. For an A/B
+ratio of 0.25, CS value was observed from 34 to 40 MPa as the
+minimum and maximum value. The MM00 was the mix for
+which maximum CS was observed as 40 MPa, and MM25 mix
+minimum CS was observed as 34 MPa. For an A/B ratio of 0.30,
+CS value was observed from 36 to 42 MPa as the minimum and
+maximum value. The MM00 was the mix for which maximum
+CS was observed as 42 MPa, and MM25 mix minimum CS was
+observed as 36 MPa. For an A/B ratio of 0.35, CS value was
+observed from 39 to 45 MPa as the minimum and maximum
+value. The MM00 was the mix for which maximum CS was
+Fig. 4 e Flow chart for methodology of marble-metakaolin (MM) based GPC.
+Table 3 e Mix proportions of GPC.
+Mix ID
+Binder
+Fine Aggregate
+(kg/m3)
+Coarse Aggregate
+(kg/m3)
+Alkali/Binder
+Ratio
+Alkaline Solution
+Metakaolin (%)
+Marble (%)
+KOH (kg/m3)
+K2SiO3
+(kg/m3)
+MM00
+100
+0
+552
+1290
+0.25
+14.66
+52.4
+MM05
+95
+05
+552
+1290
+0.30
+14.66
+52.4
+MM10
+90
+10
+552
+1290
+0.35
+14.66
+52.4
+MM15
+85
+15
+552
+1290
+0.40
+14.66
+52.4
+MM20
+80
+20
+552
+1290
+0.45
+14.66
+52.4
+MM25
+75
+25
+552
+1290
+0.50
+14.66
+52.4
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3212
+
+
+----- TABLE p5#1 -----
+
+ | Table 3 e Mix proportions of GPC. | 
+ | Table 3 | 
+Mix ID Binder Fine Aggregate Coarse Aggregate Alkali/Binder Alkaline Solution
+Metakaolin (%) Marble (%) (kg/m3) (kg/m3) Ratio KOH (kg/m3) K SiO
+2 3
+(kg/m3) |  | 
+MM00 100 0 552 1290 0.25 14.66 52.4
+MM05 95 05 552 1290 0.30 14.66 52.4
+MM10 90 10 552 1290 0.35 14.66 52.4
+MM15 85 15 552 1290 0.40 14.66 52.4
+MM20 80 20 552 1290 0.45 14.66 52.4
+MM25 75 25 552 1290 0.50 14.66 52.4 |  | 
+
+===== PAGE 6 =====
+
+observed as 45 MPa, and MM25 mix minimum CS was
+observed as 39 MPa. For an A/B ratio of 0.40, CS value was
+observed from 37 to 44 MPa as the minimum and maximum
+value. The MM00 was the mix for which maximum CS was
+observed as 44 MPa, and MM25 mix minimum CS was
+observed as 37 MPa. For an A/B ratio of 0.45, CS value was
+observed from 32 to 39 MPa as the minimum and maximum
+value. The MM00 was the mix for which maximum CS was
+observed as 32 MPa, and MM25 mix minimum CS was
+observed as 39 MPa. For an A/B ratio of 0.50, the CS value was
+seen from 30 to 37 MPa as the minimum and maximum value.
+The MM00 was the mix for which maximum CS was observed
+as 37 MPa, and MM25 mix minimum CS was observed as
+30 MPa.
+To determine CS results, GPC was cast for different ratios
+A/B ranging from 0.25 to 0.50, with the interval of 0.05 shown
+in Fig. 6b. CS value observed after experimentation ranging
+from 30 (minimum) to 45 (maximum) MPa, for day 14. For an
+A/B ratio of 0.25, CS value was observed from 35 to 42 MPa as
+the minimum and maximum value. For MM00 was the mix for
+which maximum CS was observed as 42 MPa, and MM25 mix
+minimum CS was observed as 35 MPa. For an A/B ratio of 0.30,
+CS value was observed from 37 to 44 MPa as the minimum and
+maximum value. MM00 was the mix for which maximum CS
+was observed as 44 MPa, and MM25 mix minimum CS was
+observed as 37 MPa. For an A/B ratio of 0.35, CS value was
+observed from 44 to 50 MPa as the minimum and maximum
+value. For MM00 was the mix for which maximum CS was
+observed as 50 MPa, and MM25 mix minimum CS was
+observed as 44 MPa. For an A/B ratio of 0.40, CS value was
+observed from 42 to 49 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+observed as 49 MPa, and MM25 mix minimum CS was
+observed as 42 MPa. For an A/B ratio of 0.45, CS value was
+observed from 39 to 45 MPa as the minimum and maximum
+Table 4 e Impact energy for various mixes.
+Mix ID
+1st crack
+blows
+Failure crack
+blows
+Impact
+Energy- Nm
+MM00
+20
+125
+1960.17
+MM05
+31
+135
+1862.93
+MM10
+43
+140
+1747.43
+MM15
+36
+138
+1623.94
+MM20
+24
+85
+1430.45
+MM25
+21
+60
+1247.31
+MM00
+MM05
+MM10
+MM15
+MM20
+MM25
+0
+20
+40
+60
+80
+100
+120
+)
+m
+m
+(
+p
+m
+u
+l
+S
+Mix ID
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50
+(a)
+MM00
+MM05
+MM10
+MM15
+MM20
+MM25
+0
+5
+10
+15
+20
+25
+)
+c
+e
+s
+(
+e
+m
+it
+B
+V
+Mix ID
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50
+(b)
+MM00
+MM05
+MM10
+MM15
+MM20
+MM25
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+F
+C
+Mix ID
+ 0.25
+ 0.30
+ 0.35
+ 0.40
+ 0.45
+ 0.50
+0.25
+0.50
+(c)
+Fig. 5 e a. Slump results for different values of the A/B ratio. b. VeB consistometer results for different values of A/B ratio. c.
+Compaction factor results for different values of A/B ratio.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3213
+
+
+----- TABLE p6#1 -----
+
+ | Table 4 e Impact energy for various mixes.
+ | Table 4
+Mix ID 1st crack Failure crack Impac
+blows blows Energy- | 
+MM00 20 125 1960.17
+MM05 31 135 1862.93
+MM10 43 140 1747.43
+MM15 36 138 1623.94
+MM20 24 85 1430.45
+MM25 21 60 1247.31 | 
+
+----- TABLE p6#2 -----
+
+b) 0.25
+0.30
+0.35
+0.40
+0.45
+0.50 |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | 
+
+===== PAGE 7 =====
+
+value. MM00 was the mix for which maximum CS was
+observed as 45 MPa, and MM25 mix minimum CS was
+observed as 39 MPa. For an A/B ratio of 0.50, the CS value was
+obtained after experimentation, ranging from 41 to 47 MPa as
+the minimum and maximum values. MM00 was the mix for
+which maximum CS was observed as 47 MPa, and MM25 mix
+minimum CS was observed as 41 MPa.
+Similarly, as in previous cases, determine CS results, GPC
+were cast for different ratios A/B ranging from 0.25 to 0.50,
+with the interval of 0.05 shown in Fig. 6c. CS value observed
+after experimentation ranging from 40 (minimum) to 53
+(maximum) MPa, for day 28. For an A/B ratio of 0.25, CS value
+was observed from 44 to 50 MPa as the minimum and
+maximum value. MM00 was the mix for which maximum CS
+was observed as 50 MPa, and MM25 mix minimum CS was
+observed as 44 MPa. For an A/B ratio of 0.30, CS value was
+observed from 42 to 48 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+observed as 48 MPa, and MM25 mix minimum CS was
+observed as 42 MPa. For an A/B ratio of 0.35, CS value was
+observed from 45 to 51 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+observed as 51 MPa, and MM25 mix minimum CS was
+observed as 45 MPa. For an A/B ratio of 0.40, CS value was
+observed from 47 to 53 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+observed as 53 MPa, and MM25 mix minimum CS was
+observed as 47 MPa. For an A/B ratio of 0.45, CS value was
+observed from 40 to 47 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+observed as 47 MPa, and MM25 mix minimum CS was
+observed as 40 MPa. For an A/B ratio of 0.50, CS value was
+obtained after experimentation, ranging from 38 to 45 MPa as
+the minimum and maximum value. MM00 was the mix for
+which maximum CS was observed as 45 MPa, and MM25 mix
+minimum CS was observed as 38 MPa.
+Following the CS results, GPC was cast for different ratios
+A/B ranging from 0.25 to 0.50, with the interval of 0.05 shown
+in Fig. 6d. CS value observed after experimentation ranging
+from 40 (minimum) to 55 (maximum) MPa, for day 90. For an
+A/B ratio of 0.25, CS value was observed from 44 to 51 MPa as
+the minimum and maximum value. MM00 was the mix for
+which maximum CS was observed as 51 MPa, and MM25 mix
+minimum CS was observed as 44 MPa. For an A/B ratio of 0.30,
+CS value was observed from 46 to 53 MPa as the minimum and
+maximum value. MM00 was the mix for which maximum CS
+was observed as 53 MPa, and MM25 mix minimum CS was
+observed as 46 MPa. For an A/B ratio of 0.35, CS value was
+observed from 48 to 55 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+observed as 55 MPa, and MM25 mix minimum CS was
+observed as 48 MPa. For an A/B ratio of 0.40, CS value was
+observed from 47 to 54 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+Fig. 6 e a. CS results for day 7 with various A/B ratio. b. CS results for day 14 with various A/B ratio. c. CS results for day 28
+with various A/B ratio. d. CS results for day 90 with various A/B ratio.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3214
+
+
+===== PAGE 8 =====
+
+observed as 54 MPa, and MM25 mix minimum CS was
+observed as 47 MPa. For an A/B ratio of 0.45, CS value was
+observed from 41 to 48 MPa as the minimum and maximum
+value. MM00 was the mix for which maximum CS was
+observed as 48 MPa, and MM25 mix minimum CS was
+observed as 41 MPa. For an A/B ratio of 0.50, CS value was
+obtained after experimentation, ranging from 40 to 46 MPa as
+the minimum and maximum value. MM00 was the mix for
+which maximum CS was observed as 46 MPa, and MM25 mix
+minimum CS was observed as 40 MPa.
+A total of six samples were taken and analyzed over 7, 14,
+28, and 90 days to determine CS. The average of the tested
+specimen ﬁndings was recorded, and they are all repre-
+sented in Fig. 6aed. According to a previous study, the re-
+action rate of GPC is much faster than the hydration rates of
+traditional concrete because of the tetrahedral structure.
+With MM100%, the mixture maximum CS was 51 MPa. The
+A/B ratio was increased, which boosted this number. The
+maximum CS strength was achieved with MM100% binder
+concentration.
+3.2.1.
+Effect of the activator and A/B on CS
+The CS and A/B ratio have a unique relationship. Initially, the
+A/B ratio increased to a speciﬁc range of CS increases beyond
+the limit. Because the KOH and KSi2O3 are acts as an alkaline
+agent, it produces more SiO2 gel from MK, and GGBS stimu-
+lates the formation of denser SieOeSi linkages during poly-
+merization. The SieOeSi connection, on the other hand, is
+much stronger than the SieOeAl and AleOeAl bonds. As a
+result, CS is enhanced. The NaOH solution detaches the SiO₂
+and Al₂O₃ in the matrix, leading to the monomer to polymer
+bond formation [10,14,43]. The inﬂuence of the A/B ratio on CS
+is shown in Fig. 6. The CS of a combination containing a
+marble powder MM100% -based GPC increases when the A/B
+ratio increases from 0.25 to 0.35, then decreases (in A/B ratio
+0.50). The best A/B ratio was different to produce maximum CS
+for each combination type [44]. As a result, it was discovered
+that the A/B ratio had a strong association with binder
+chemical composition since binder were rich in SiO₂ and Al₂O₃
+content, which led to strength development, causing accel-
+eration of the rate of geopolymerization. The strength of
+compression the CS of marble-Metakaolin based GPC develop
+with a parameter such as A/B ratio to a particular value
+reﬂecting the optimum-active ratio of A/B and then drops
+more or less than this value [45].
+Under extremely hot conditions, a comparison of FA based
+GPC with NaOH and KOH activators was investigated. Ac-
+cording to the ﬁndings, KOH based activators agent led to
+produce GPC with higher CS than NaOH. The KOH is appro-
+priate for structural uses. This is due to the better binding
+properties of KOH with GPC than NaOH activators [46].
+Compared to Na activators, KOH offers greater strength and
+durability
+with
+little
+quantity
+to
+accelerate
+the
+geo-
+polymerization reaction. Additionally, KSiO2 has less viscosity
+than Na2SiO3 [47]. Potassium alkali agent decreased viscosity
+results in greater strength and durability with less shrinkage
+and porosity [50,51]. When compared the curing condition of
+GPC
+with
+ambient
+and
+oven-cured
+conditions,
+it
+was
+concluded that the oven curing condition shows a higher CS
+value than the ambient condition [48]. When the A/B ratio
+surpasses the active-optimum value, the activator agent skips
+over the demands of the Geopolymerization process, resulting
+in decreased CS [49e51]. For mixes (MM00, MM05, MM10,
+MM15, MM20, and MM25), the optimum A/B ratio that pro-
+vided the maximum CS was (0.35, 0.30, 0.25, 0.40, and 0.50).
+3.3.
+Spit tensile strength (STS)
+As per IS 5816 code [52], the STS test was carried out in a CTM
+with a 150  300 mm cylinder specimen. GPC testing for STS
+was carried out for 7, 14, 28, and 90 days are shown in
+Fig. 7aed (results summarized in Table 5). IS 5816 was vali-
+dated by a split tensile test. The cylinder measures 150 (Dia.) x
+300 (Ht.) mm in dimension. The cylinder was tested using a
+CTM with a 1.2e2.4 N/(mm/min) load rate. Eq (1) is a formula
+for the computation of STS.
+Fc ¼ 2P
+pLD
+(1)
+where, p ¼ 3.142, Fc-measured STS -maximum Load (N), L-
+length of the specimen, D-cross-sectional diameter of the
+specimen.
+STS value observed after experimentation ranging from
+3.05 (minimum) to 4.35 (maximum) MPa, for day 7, refer Fig. 7a
+for A/B ratios ranging from 0.25 to 0.50. For the A/B ratio of
+0.25, the STS value was observed from 3.25 to 4.15 MPa as the
+minimum and maximum value.
+Fig. 7a indicates STS results of GPC for day 7, for various
+values of A/B ratios of 0.25e0.50. The STS value reduced as the
+A/B ratios increased from 0.25 to 0.50. For the A/B ratio of 0.35,
+a maximum STS value was observed. From the binder point of
+view, the marble content increases, the STS value reduces.
+MM00 has 0% marble; maximum STS was observed for an A/B
+ratio of 0.35. For an A/B ratio of 0.50, CS value was observed
+from 3.05 to 3.85 MPa as the minimum and maximum value.
+MM00 was the mix for which maximum STS was observed as
+3.85 MPa, and MM25 mix minimum STS was observed as
+3.05 MPa when tested for day 7. STS value observed for MM00
+mix is 12%,10.1% 12.98% 10.95%, 8% and 9.2% higher than
+MM25 mix for A/B ratio ranging from 0.25 to 0.50 respectively.
+MM00 for A/B ratio of 0.35 has a 12.98% higher STS value than
+MM25.
+STS value observed after experimentation ranging from
+3.08 (minimum) to 4.48 (maximum) MPa, for day 14, refer to
+Fig. 7b. For the A/B ratio of 0.25, the STS value was observed
+from 3.28 to 4.08 MPa as the minimum and maximum value.
+Fig. 7b indicates STS results of GPC for day 14, for various
+values of A/B ratios of 0.25e0.50. The STS value reduced as the
+A/B ratios increased from 0.25 to 0.50. For the A/B ratio of 0.35,
+a maximum STS value was observed. From the binder point of
+view, the marble content increases, the STS value reduces.
+MM00 has 0% marble; maximum STS was observed for an A/B
+ratio of 0.35. MM00 was the mix for which maximum STS was
+observed as 4.38 MPa, and MM25 mix minimum STS was
+observed as 3.58 MPa.For the A/B ratio of 0.50, the STS value
+was observed from 3.08 to 3.78 MPa as the minimum and
+maximum value. MM00 was the mix for which maximum STS
+was seen as 3.78 MPa, and MM25 mix minimum STS was
+observed as 2.08 MPa. STS value was seen for MM00 mix value
+is 7.3%, 5.1%, 7.9%, 8.15%, 8.3%, and 6% higher than MM25 mix
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3215
+
+
+===== PAGE 9 =====
+
+for A/B ratio ranging from 0.25 to 0.50 respectively. MM00 for
+A/B ratio of 0.35 has a 7.9% higher STS value than MM25.
+STS value observed after experimentation ranging from
+3.14 (minimum) to 4.54 (maximum) MPa, for day 28, refer
+Fig. 7c for A/B ratios ranging from 0.25 to 0.50. Fig. 7c indicates
+STS results of GPC for day 28, for various values of A/B ratios of
+0.25e0.50. The STS value reduced as the A/B ratios increased
+from 0.25 to 0.50. For the A/B ratio of 0.35, a maximum STS
+value was seen. From the binder point of view, the marble
+content increases, the STS value reduces. MM00 has 0%
+marble; maximum STS was seen for an A/B ratio of 0.35. For an
+A/B ratio of 0.25, the STS value was seen from 3.34 to 4.14 MPa
+as the minimum and maximum value. For MM00 was the mix
+for which maximum STS was seen as 4.14 MPa, and MM25 mix
+minimum STS was seen as 3.34 MPa. For the A/B ratio of 0.50,
+the STS value was seen from 3.14 to 3.84 MPa as the minimum
+and maximum value. MM00 was the mix for which maximum
+STS was seen as 3.84 MPa, and MM25 mix minimum STS was
+seen as 3.14 MPa.STS value was seen for MM00 mix value is
+7%, 5% 7.8%, 8%, 8.2%, and 5.9% higher than MM25 mix for A/B
+ratio ranging from 0.25 to 0.50 respectively. MM00 for A/B ratio
+of 0.35 has a 7.8% higher STS value than MM25.
+STS value observed after experimentation ranging from 3.2
+(minimum) to 4.56 (maximum) MPa, for day 90, refer Fig. 7d for
+A/B ratios ranging from 0.25 to 0.50. Fig. 7b indicates STS re-
+sults of GPC for day 90, for various values of A/B ratios of
+0.25e0.50. The STS value reduced as the A/B ratios increased
+from 0.25 to 0.50. For the A/B ratio of 0.35, a maximum STS
+value was observed. From the binder point of view, the marble
+content increases, the STS value reduces. MM00 has 0%
+marble. MM00 was the mix for which maximum STS was
+observed as 4.4 MPa, and MM25 mix minimum STS was
+observed as 3.5 MPa For the A/B ratio of 0.50, the STS value was
+seen from 3.2 to 3.9 MPa as the minimum and maximum
+value. For MM00 was the mix for which maximum STS was
+observed as 3.9 MPa, and MM25 mix minimum STS was
+observed as 3.2 MPa. STS value was observed for MM00 mix
+value is 7.1%, 5%,7.6%, 7.8%,8.1%, and 5.8% higher than MM25
+mix for A/B ratio ranging from 0.25 to 0.50 respectively. MM00
+for A/B ratio of 0.35 has a 7.6% higher STS value than MM25.
+3.3.1.
+Effect of activators on STS
+As the ratio of (KS/KH) was increased from 0.25 to 0.50, the STS
+value decreased (more details see Table 5). For KS/KH ratio of
+0.35, maximum STS value was observed for 7,14,28 and 90
+days of testing. It was also observed that percentage incre-
+ment of STS value from 90 days of testing to 7 days were in the
+range from 0.60 to 1.0 MPa MM00 i. e, MK as binder with 100%,
+shows maximum STS, but as the percentage of marble powder
+was increased the STS value will deline. The curing condition
+and the K₂SiO₃ and KOH (KS/KH) ratio inﬂuence the STS of the
+GPC. The maximum STS for varied KS/KH ratios ranging from
+Fig. 7 e a. Variation of STS data for day 7, with various A/B ratios. b. Variation of STS data for day 14, with various A/B ratios. c.
+Variation of STS data for day 28, with various A/B ratios. d. Variation of STS data for day 90, with various A/B ratios.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3216
+
+
+===== PAGE 10 =====
+
+0.5 to 3.0 with intervals of 0.5 at 90 days for ambient-curing is
+in the range of 2.7e3.6 MPa. At 90 days of ambient curing, the
+maximum STS for varied KS/KH ratios ranging from 0.5 to 3.0
+with intervals of 0.5 is in the range of 3.5e5.0 MPa. Compared
+to lower molarity, GPC performance for STS improves with
+increasing molarity. In comparison to standard concrete
+specimens, the potassium activator-based GPC exhibits sig-
+niﬁcant strength qualities. This is because the reaction be-
+tween
+aluminium
+silicate
+components
+and
+an
+alkaline
+solution gives GPC an excellent binding property and boosts
+its STS [50,53]. The activator requires an alkaline compound in
+an aqueous form. The mixture of silicates and hydroxides is
+Table 5 e Comparison of STS results values for various codes and proposed empirical formula.
+Study
+Expt.CS
+Expt.STS
+IS-code
+AS3600
+CEB-FIP
+ACI 363
+Verma and Dev
+Proposed
+Ref.
+Current Study
+55.0
+4.60
+5.19
+2.97
+4.22
+4.38
+7.54
+4.62
+54.0
+4.40
+5.14
+2.94
+4.17
+4.34
+7.43
+4.58
+53.0
+4.30
+5.10
+2.91
+4.12
+4.30
+7.32
+4.53
+52.0
+4.20
+5.05
+2.88
+4.07
+4.25
+7.21
+4.48
+50.0
+4.10
+4.95
+2.83
+3.97
+4.17
+6.98
+4.38
+48.0
+3.80
+4.85
+2.77
+3.86
+4.09
+6.76
+4.28
+0.00
+58.2
+5.54
+5.34
+3.05
+4.51
+2.14
+7.88
+4.77
+[92]
+49.5
+4.82
+4.92
+2.82
+4.05
+1.97
+6.93
+4.36
+35.4
+2.79
+4.16
+2.38
+3.23
+1.67
+5.30
+3.60
+28.9
+2.66
+3.76
+2.15
+2.38
+1.51
+4.51
+3.21
+46.1
+4.00
+4.75
+2.72
+3.86
+1.90
+6.54
+4.18
+36.1
+3.81
+4.21
+2.40
+3.28
+1.68
+5.38
+3.64
+40.4
+4.14
+4.45
+2.54
+3.54
+1.78
+5.89
+3.88
+41.3
+4.19
+4.50
+2.57
+3.59
+1.80
+5.99
+3.93
+33.5
+3.37
+4.05
+2.32
+3.12
+1.62
+5.07
+3.49
+30.5
+3.57
+3.87
+2.21
+2.93
+1.55
+4.70
+3.31
+35.1
+3.28
+4.15
+2.37
+3.21
+1.66
+5.26
+3.59
+37.1
+3.26
+4.26
+2.44
+3.34
+1.71
+5.50
+3.70
+37.6
+3.60
+4.29
+2.46
+3.37
+1.72
+5.56
+3.73
+35.2
+3.20
+4.15
+2.37
+3.22
+1.66
+5.28
+3.59
+1.00
+28.5
+2.10
+3.74
+2.34
+3.16
+1.64
+4.46
+3.19
+[20]
+36.6
+3.20
+4.23
+2.33
+3.13
+1.63
+5.44
+3.67
+47.9
+4.10
+4.84
+2.32
+3.10
+1.62
+6.75
+4.28
+33.1
+2.60
+4.03
+2.30
+3.08
+1.61
+5.02
+3.47
+45.3
+2.20
+4.71
+2.29
+3.05
+1.60
+6.45
+4.14
+43.8
+2.50
+4.63
+2.27
+3.02
+1.59
+6.28
+4.07
+2.00
+44.0
+3.60
+4.64
+2.26
+2.99
+1.58
+6.31
+4.08
+[87]
+46.0
+3.90
+4.75
+2.24
+2.96
+1.57
+6.53
+4.18
+47.0
+4.00
+4.80
+2.23
+2.93
+1.56
+6.65
+4.23
+54.0
+4.10
+5.14
+2.21
+2.90
+1.55
+7.43
+4.58
+46.0
+3.00
+4.75
+2.20
+2.88
+1.54
+6.53
+4.18
+44.0
+3.60
+4.64
+2.18
+2.85
+1.53
+6.31
+4.08
+42.0
+3.50
+4.54
+2.17
+2.82
+1.52
+6.08
+3.97
+3.00
+20.3
+2.70
+3.15
+2.16
+2.79
+1.51
+3.40
+2.63
+[92]
+24.0
+3.50
+3.43
+2.14
+2.76
+1.50
+3.88
+2.89
+25.0
+3.60
+3.50
+2.13
+2.73
+1.49
+4.01
+2.96
+25.4
+3.80
+3.53
+2.11
+2.70
+1.48
+4.06
+2.99
+25.8
+4.00
+3.56
+2.10
+2.68
+1.47
+4.12
+3.01
+4.00
+21.2
+2.92
+3.22
+2.08
+2.65
+1.46
+3.52
+2.70
+[93]
+25.3
+3.14
+3.52
+2.07
+2.62
+1.45
+4.05
+2.98
+33.3
+3.34
+4.04
+2.05
+2.59
+1.44
+5.04
+3.48
+44.3
+4.41
+4.66
+2.04
+2.56
+1.43
+6.34
+4.09
+25.3
+3.18
+3.52
+2.03
+2.53
+1.42
+4.05
+2.98
+30.2
+3.95
+3.84
+2.01
+2.50
+1.41
+4.66
+3.29
+46.3
+4.21
+4.76
+2.00
+2.48
+1.40
+6.56
+4.19
+48.3
+4.75
+4.86
+1.98
+2.45
+1.39
+6.79
+4.29
+5.00
+65.0
+2.30
+5.64
+1.97
+2.42
+1.38
+8.61
+5.08
+[46]
+72.0
+3.50
+5.94
+1.95
+2.39
+1.37
+9.35
+5.38
+74.0
+3.67
+6.02
+1.94
+2.36
+1.35
+9.55
+5.47
+60.0
+2.08
+5.42
+1.92
+2.33
+1.34
+8.08
+4.86
+66.0
+3.32
+5.69
+1.91
+2.30
+1.33
+8.72
+5.13
+65.0
+3.47
+5.64
+1.89
+2.28
+1.32
+8.61
+5.08
+53.0
+4.00
+5.10
+1.88
+2.25
+1.31
+7.32
+4.53
+57.0
+4.32
+5.28
+1.87
+2.22
+1.30
+7.75
+4.72
+59.0
+4.58
+5.38
+1.85
+2.19
+1.29
+7.97
+4.81
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3217
+
+
+----- TABLE p10#1 -----
+
+ | Table 5 e Comparison of STS results values for various codes and proposed empirical formula. | 
+ | Table 5 | 
+Study Expt.CS Expt.STS IS-code AS3600 CEB-FIP ACI 363 Verma and Dev Proposed Ref. |  | 
+Current Study 55.0 4.60 5.19 2.97 4.22 4.38 7.54 4.62
+54.0 4.40 5.14 2.94 4.17 4.34 7.43 4.58
+53.0 4.30 5.10 2.91 4.12 4.30 7.32 4.53
+52.0 4.20 5.05 2.88 4.07 4.25 7.21 4.48
+50.0 4.10 4.95 2.83 3.97 4.17 6.98 4.38
+48.0 3.80 4.85 2.77 3.86 4.09 6.76 4.28
+0.00 58.2 5.54 5.34 3.05 4.51 2.14 7.88 4.77 [92]
+49.5 4.82 4.92 2.82 4.05 1.97 6.93 4.36
+35.4 2.79 4.16 2.38 3.23 1.67 5.30 3.60
+28.9 2.66 3.76 2.15 2.38 1.51 4.51 3.21
+46.1 4.00 4.75 2.72 3.86 1.90 6.54 4.18
+36.1 3.81 4.21 2.40 3.28 1.68 5.38 3.64
+40.4 4.14 4.45 2.54 3.54 1.78 5.89 3.88
+41.3 4.19 4.50 2.57 3.59 1.80 5.99 3.93
+33.5 3.37 4.05 2.32 3.12 1.62 5.07 3.49
+30.5 3.57 3.87 2.21 2.93 1.55 4.70 3.31
+35.1 3.28 4.15 2.37 3.21 1.66 5.26 3.59
+37.1 3.26 4.26 2.44 3.34 1.71 5.50 3.70
+37.6 3.60 4.29 2.46 3.37 1.72 5.56 3.73
+35.2 3.20 4.15 2.37 3.22 1.66 5.28 3.59
+1.00 28.5 2.10 3.74 2.34 3.16 1.64 4.46 3.19 [20]
+36.6 3.20 4.23 2.33 3.13 1.63 5.44 3.67
+47.9 4.10 4.84 2.32 3.10 1.62 6.75 4.28
+33.1 2.60 4.03 2.30 3.08 1.61 5.02 3.47
+45.3 2.20 4.71 2.29 3.05 1.60 6.45 4.14
+43.8 2.50 4.63 2.27 3.02 1.59 6.28 4.07
+2.00 44.0 3.60 4.64 2.26 2.99 1.58 6.31 4.08 [87]
+46.0 3.90 4.75 2.24 2.96 1.57 6.53 4.18
+47.0 4.00 4.80 2.23 2.93 1.56 6.65 4.23
+54.0 4.10 5.14 2.21 2.90 1.55 7.43 4.58
+46.0 3.00 4.75 2.20 2.88 1.54 6.53 4.18
+44.0 3.60 4.64 2.18 2.85 1.53 6.31 4.08
+42.0 3.50 4.54 2.17 2.82 1.52 6.08 3.97
+3.00 20.3 2.70 3.15 2.16 2.79 1.51 3.40 2.63 [92]
+24.0 3.50 3.43 2.14 2.76 1.50 3.88 2.89
+25.0 3.60 3.50 2.13 2.73 1.49 4.01 2.96
+25.4 3.80 3.53 2.11 2.70 1.48 4.06 2.99
+25.8 4.00 3.56 2.10 2.68 1.47 4.12 3.01
+4.00 21.2 2.92 3.22 2.08 2.65 1.46 3.52 2.70 [93]
+25.3 3.14 3.52 2.07 2.62 1.45 4.05 2.98
+33.3 3.34 4.04 2.05 2.59 1.44 5.04 3.48
+44.3 4.41 4.66 2.04 2.56 1.43 6.34 4.09
+25.3 3.18 3.52 2.03 2.53 1.42 4.05 2.98
+30.2 3.95 3.84 2.01 2.50 1.41 4.66 3.29
+46.3 4.21 4.76 2.00 2.48 1.40 6.56 4.19
+48.3 4.75 4.86 1.98 2.45 1.39 6.79 4.29
+5.00 65.0 2.30 5.64 1.97 2.42 1.38 8.61 5.08 [46]
+72.0 3.50 5.94 1.95 2.39 1.37 9.35 5.38
+74.0 3.67 6.02 1.94 2.36 1.35 9.55 5.47
+60.0 2.08 5.42 1.92 2.33 1.34 8.08 4.86
+66.0 3.32 5.69 1.91 2.30 1.33 8.72 5.13
+65.0 3.47 5.64 1.89 2.28 1.32 8.61 5.08
+53.0 4.00 5.10 1.88 2.25 1.31 7.32 4.53
+57.0 4.32 5.28 1.87 2.22 1.30 7.75 4.72
+59.0 4.58 5.38 1.85 2.19 1.29 7.97 4.81 |  | 
+
+===== PAGE 11 =====
+
+often employed. The resulting solution's silicate serves as an
+additional source of SiO2, while the hydroxide ensures the
+solution's high alkalinity. The alkaline solution is vital during
+geopolymerization and inﬂuences STS growth. The SiO₂/Al₂O₃
+ratio, the efﬁcacy of the geopolymerization reaction, kind of
+cation utilized, molar concentration, and curing conditions all
+signiﬁcantly impact the STS of geopolymers [54e56].
+On the other hand, SiO₂/Al₂O₃ were engaged in the forma-
+tion of CSH and CASH gel, improving mechanical strength.
+The STS of samples activated with 12 M NaOH solution was
+5.12 MPa, which was greater than the STS of samples activated
+with higher or lower molarity solutions, which were 4.43 and
+5.08 MPa, respectively, for 10 M and 14 M. The most essential
+are reactive silica content and particle size (Ganachari, 2019).
+Changes in the quantity of SiO₂ and Al₂O₃, according to speciﬁc
+research, have a considerable effect on the characteristics of
+the geopolymers. Reactivity of the binder and the chemical
+composition of the activator is required for the speedy accel-
+eration of the geopolymerization process [57].
+3.4.
+Flexural strength
+Flexural strength (FS) test was conducted as per IS 516 code
+[42], in UTM. The FS test was performed following IS 516
+speciﬁcations. 100  100  500 mm was taken as the specimen
+size. Load of 180 kg/cm2/min was applied to the specimen up
+to it failed.
+FS ¼
+PL
+ðB D^2Þ
+(2)
+P-Failure load of the specimen, L-Length of the specimen-
+Width of the specimen.
+D-Depth of the specimen.
+After subjecting the beam under UTM, failure crack is
+observed in beam specimen refer to Fig. 8aed. After viewing
+Fig. 8c, it is clear that maximum impact was observed at the
+central portion of the beam. Failure of the beam has taken
+place at the mid-span of the beam. Fig. 9 shows the cross-
+section of the beam. Fig. 9b closed-loop observed are aggre-
+gate and surrounded by GPC matrix.
+Beams were cast to calculate FS for A/B ratios ranging from
+0.25 to 0.50, with a 0.05 interval. Fig. 10a shows the FS value
+following testing, ranging from 3.05 (minimum) to 4.35
+(highest) MPa on day 7. Fig. 10a shows GPC FS ﬁndings on day 7
+for different A/B ratios ranging from 0.25 to 0.50. The STS value
+decreased as the A/B ratios increased from 0.25 to 0.50. A
+maximum FS value was obtained for the A/B ratio of 0.35. The
+marble content increases as the FS value decreases from the
+binder's perspective. The maximum STS was found with an A/
+B ratio of 0.35 in MM00, with 0% marble. The minimum and
+highest FS values were recorded for an A/B ratio of 0.50,
+ranging from 3.38 to 4.08 MPa.
+The highest FS for MM00 was found to be 4.08 MPa, and the
+minimum FS for MM25 was found to be 3.38 MPa. For A/B ra-
+tios ranging from 0.25 to 0.50, the FS value observed for MM00
+mix is 9.3%, 5%, 7.6%, 7.8%, 8.1%, and 5.8% greater than MM25
+mix. MM00 has a 7.6% higher FS value than MM25 for an A/B
+ratio of 0.35.
+FS for A/B ratios ranging from 0.25 to 0.50, with a 0.05
+interval. Fig. 10b shows
+that the FS
+value measured
+following experiments varied from 3.68 (minimum) to 4.91
+(highest) MPa on day 14. Fig. 10b shows GPC FS ﬁndings for
+Fig. 8 e a to d. Beam cast for FS tests.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3218
+
+
+===== PAGE 12 =====
+
+day 14 for different A/B ratios ranging from 0.25 to 0.50.
+The STS value decreased as the A/B ratios increased from
+0.25 to 0.50. The lowest and highest FS values for the A/B
+ratio of 0.35 were 4.18 and 4.91 MPa, respectively. The
+highest FS for MM00 was found to be 4.91 MPa, and the
+minimum FS for MM25 was found to be 4.18 MPa. The
+lowest and highest FS values for an A/B ratio of 0.50 were
+3.48 and 4.18 MPa, respectively. The highest FS for MM00
+was found to be 4.18 MPa, and the minimum FS for MM25
+was found to be 3.48 MPa. For A/B ratios ranging from 0.25
+to 0.50, the FS value observed for MM00 mix is 6.6%, 4.6%,
+7.1%, 7.3%, 7.5%, and 5.4%, respectively, greater than MM25
+Fig. 10 e a. FS results for different values of A/B ratios. b. FS results for different values of A/B ratio day 14. c. FS results for
+different values of A/B ratios day 28. d. FS results for different values of A/B ratios day 90.
+Fig. 9 e a and b. Cross-section view of the beam.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3219
+
+
+===== PAGE 13 =====
+
+mix. MM00 has a 12.98% higher FS value than MM25 for an
+A/B ratio of 0.35.
+FS for A/B ratios ranging from 0.25 to 0.50, with a 0.05 in-
+terval. Fig. 10c shows the FS value following testing, ranging
+from 3.68 (minimum) to 4.91 (maximum) MPa on day 28.
+Fig. 10c shows GPC FS ﬁndings for day 28 for different A/B
+ratios ranging from 0.25 to 0.50. As the A/B ratios grew from
+0.25 to 0.50, the STS value decreased. The lowest and highest
+FS values for the A/B ratio of 0.35 were 4.24 and 5.04 MPa,
+respectively. The highest FS for MM00 was found to be
+5.04 MPa, and the minimum FS for MM25 was found to be
+4.24 MPa. The lowest and highest FS values for an A/B ratio of
+0.50 were 3.56 and 4.26 MPa, respectively. The highest FS for
+MM00 was found to be 4.26 MPa, and the minimum FS for
+MM25 was found to be 3.56 MPa. For A/B ratios ranging from
+0.25 to 0.50, the FS value observed for MM00 mix is 6.5%, 4.5%,
+7%, 7.2%, 7.3%, and 5.3%, respectively, higher than MM25 mix.
+The FS value of MM00 with an A/B ratio of 0.35 is 7% higher
+than that of MM25.
+FS for A/B ratios ranging from 0.25 to 0.50, with a 0.05 in-
+terval. Fig. 10d shows the FS value following testing, ranging
+from 3.68 (minimum) to 5.15 (highest) MPa on day 90. Fig. 10d
+shows GPC FS ﬁndings for day 28 for different A/B ratios
+ranging from 0.25 to 0.50. As the A/B ratios grew from 0.25 to
+0.50, the STS value decreased. The FS value for the A/B ratio of
+0.35 ranged from 4.35 to 5.15 MPa as the minimum and highest
+values. The highest FS for MM00 was found to be 5.15 MPa, and
+the minimum FS for MM25 was found to be 4.35 MPa. The
+lowest and highest FS values for an A/B ratio of 0.50 were 3.68
+and 4.38 MPa, respectively. The highest FS for MM00 was
+found to be 4.38 MPa, and the minimum FS for MM25 was
+found to be 3.68 MPa. For A/B ratios ranging from 0.25 to 0.50,
+the FS value observed for MM00 mix is 6.4%, 4.4%, 6.8%, 7%,
+7.1%, and 5.1%, respectively, greater than MM25 mix. The FS
+value of MM00 with an A/B ratio of 0.35 is 7% higher than that
+of MM25.
+3.4.1.
+Effect of activators on FS
+Quicker dissolution of alumina and silica from the binder into
+the solution, allowing for the creation of higher volumes of
+alumino-silicate polymeric gel and hence increased mechan-
+ical strength [58]. It's also clear from the data that with the
+increase of A/B ratio, FS increase up to speciﬁc values, later
+declining. Incremental in strength development of GPC with
+curing age which they ascribed to the dissolution of non-
+complexed species such Potassium ions, which led to frame-
+work instability in the aqueous environment [59]. Due to the
+high shrinkage in the matrix, this matrix includes a higher
+quantity of unreacted MK particles. Lower water requirement
+and the gel environment of the binder, a better quality of GPC
+than conventional concrete. GPC has a lower rate of hydration
+while setting [60e62]. Another signiﬁcant factor is the devel-
+opment of micro-cracks in ITZ. These micro-cracks inﬂuence
+FS as associated with CS, decreasing the FS with age. FS
+specimens were cured at ambient temperature does not
+withstand their weight after demoulding. Failure of beam
+specimens was found to be the brittle mode [63]. The presence
+of a more viscous activator agent reduces the amount of
+unreacted MK in the matrix, resulting in the formation of
+strong bonds between silica and alumina ions. The K₂SiO₃/
+KOH ratio is reduced, which causes potassium silicate to be
+less viscous than potassium hydroxide, resulting in a decrease
+in FS [36,64].
+3.5.
+Impact tests
+The impact resistance of cylindrical specimens was explored
+with a 150  50 mm, i.e., dia x ht. A steel ball weighing 3 kg was
+dropped freely from a height of 457 mm to evaluate impact
+resistance. Initial crack blows are the number of blows that
+generate a visible ﬁrst crack, while failure blows are the
+number of blows that induce total crack propagation was
+noted [65,66].
+Equation E ¼ Nmgh was used to compute impact energy
+(Nm).
+Whereas N: number of strikes that cause the specimen to
+fail,
+m: weight of the steel ball,
+h: freely falling height of the ball, and
+g: acceleration due to gravity.
+Fig. 11 shows the impact test results for the A/B ratio of
+0.35. The impact test is performed using an A/B ratio of 0.35.
+since it has been experimental that this ratio shows better
+mechanical performances than other ratios. The impact test is
+the measure of impact energy that GPC resists. The MM00 mix
+ID shows maximum impact energy and MM25 as minimum
+impact energy with 1960.17 Nm and 1247.31Nm, respectively.
+From Fig. 11, it can be clearly seen that as marble content
+increases, the impact energy decrease.
+3.6.
+Modulus of elasticity (MoE)
+MoE was carried out as per IS 516 [42]. Concrete cylinders with
+a diameter of 150 cm and a length of 300 cm will be used as test
+specimens. Other sizes of cylinders or square prisms may also
+be utilised, as long as the height/diameter or height/width
+ratio is at least two. BEESWARM graph is plotted for repre-
+sentation of MoE data. For 7, 14, 28, and 90 days strength of
+MoE, MM00 mix shows maximum, with CS of 30e40 MPa for 90
+days, MoE among all the mixes as shown in Fig. 12. As the
+Fig. 11 e Impact tests result for different mix ID for GPC for
+A/B ratio of 0.35.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3220
+
+
+===== PAGE 14 =====
+
+marble content increases in the mix, the MoE decline. As the
+curing day increases, the MoE also increases. From experi-
+mentation observation, MoE results for 90 days strength were
+marginal increases compared with 7, 14, and 28 days. A/B ratio
+of 0.25 shows maximum MoE among all curing days.
+Several variables inﬂuence the MoE of GPC, including the
+kind of alkali utilized, Kþ or Naþ, chemical composition, SiO₂/
+Al₂O₃ ratio, curing time, and temperature [67]. An increase in
+MoE is due mainly to good uniformity. Furthermore, differing
+viscosities and alkaline silicates of different cations might
+affect the processes throughout the geopolymerization pro-
+cess, resulting in variable microstructures and mechanical
+characteristics [68]. The microstructure of the GPC materials
+produced with potassium silicate was considerably denser
+(less porous) than that of the sodium silicate mortars. This, in
+turn, impacted the longitudinal MoE. Mixed mortars made
+from different elemental silicates and hydroxides exhibited
+intermediary [69].
+3.7.
+Water absorption and bulk density
+Water absorption (WA) test for GPC was carried out as per
+ASTM c1585 [70] code. The ASTM C1585-20 standard was used
+to conduct the water absorption test. At room temperature,
+the dry weight of the GPC cubes was noted, say (A). At room
+temperature, cubes were soaked in clean water for 24 h.
+Remove the specimen and use a moist towel to wipe away any
+traces of water on the GPC surface. The specimen weight was
+recorded (B).
+Eq’n 3 was used to compute the % of water absorption.
+Water Absorption ¼ ðB  AÞ=A 100
+(3)
+WA value observed after experimentation ranging from 8
+(minimum) to 19 (maximum) %, for day 90 as shown in Fig. 13a
+for A/B of 0.25e0.50. The WA value ranged from 8 to 13 percent
+as a minimum and maximum for an A/B ratio of 0.25. The
+highest WA for MM25 was observed to be 13%, whereas the
+minimum WA for MM00 was 8%. For an A/B ratio of 0.50, the
+WA value ranged from 12 to 19 percent as a minimum and
+maximum. The highest WA for MM25 was observed to be 19%,
+while the minimum WA for MM00 was observed to be 12%.
+The WA value observed for MM25 mix is 3.33%, 3.03%, 2.8%,
+2.66%, 2.9%, and 3.15% respectively, greater than MM00 mix.
+The WA value of MM25 with an A/B ratio of 0.50 is 3.15% higher
+than that of MM00.
+WA value observed after experimentation ranging from
+2212 (minimum) to 2316 (maximum) kg/m3 for day 90, as
+shown in Fig. 13b for A/B of 0.25e0.50. For an A/B ratio of 0.25,
+BD value was observed from 2212 to 2278 kg/m3 as the mini-
+mum and maximum value. The maximum BD was 2278 kg/m3
+for the MM25 mix, while the minimum BD was 2212 kg/m3 for
+the MM00 mix. With an A/B ratio of 0.50, the BD value ranged
+from 2250 to 2316 kg/m3 as the minimum and maximum
+value. Maximum BD was observed for MM25 at 2316 kg/m3,
+Fig. 12 e BEESWARM plots represent MoE for MK-based GPC for (a)7, (b)14, (c)28, and (d)90 days, respectively.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3221
+
+
+===== PAGE 15 =====
+
+and minimal BD was observed for MM00 at 2250 kg/m3. The BD
+value observed for MM25 mix is 1.7%, 1.71%, 1.6%, 1.66%,
+1.79%, and 1.8%,respectively, greater than MM00 mix. The BD
+value of MM25 with an A/B ratio of 0.50 is 1.66% higher than
+that of MM00.
+Abundant silicon the MK and marble also consists of a
+certain extent of CaO. Reactive alumina led to react with the
+alkaline agent to produce geopolymer gel. While access of vi-
+brationcarriedoutduringmakingGPCresultsin bleeding ofthe
+geopolymer paste and brings gel upward [71,72]. Effect of
+aggregate inhibits gel from dissipating causing high gel content
+into the aggregate bottom. The presence of gel below aggregate
+leads to lower activator molarity and weaker alkalinity, and a
+slower rate polymerization, developing a binder with a porous
+structure. An increase in A/B ratio reduces the absorption
+property of GPC. The enhancement in PC properties is a cause
+of the increasing A/B ratio [73]. The increase in the A/B ratio
+increases the content of Si SiO2because the activator contained
+KOH, which led to an enhancement in the SiO2/Al2O3 in the
+matrix and made SieOeSi bonds stronger [74].
+3.8.
+Elevated temperature resistance (ETR)
+For six different mix proportions, GPC was cast for A/B ranging
+from 0.25 to 0.50. Each specimen was heated in an elevated
+oven for 1 h at 200, 400, and 600 C and then chilled to room
+temperature. The purpose of the test is to see how high tem-
+peratures affect GPC specimens and test the CS property.
+Fig. 14a shows the loss of CS for when GPC was exposed to
+200 C.
+Cubes of 15 cm3 were cast with an A/B ratio ranging from
+0.25 to 0.50 to determine ETR. ETR value observed after
+experimentation
+ranging
+from
+31
+(minimum)
+to
+61
+(maximum) MPa for the A/B ratio of 0.25. The minimum and
+maximum ETR values were observed to be 34 and 54 MPa,
+respectively. The maximum ETR measured for MM00 was
+54 MPa, and the minimum ETR measured for MM25 was
+34 MPa. The lowest and highest ETR values for the A/B ratio of
+0.30 were 37 and 61 MPa, respectively. Maximum ETR was
+measured at 61 MPa for the MM00 mix, while minimum ETR
+was measured at 37 MPa for the MM25 mix. The ETR value was
+observed from 32 to 50 MPa as the lowest and maximum value
+for the A/B ratio of 0.35. Maximum ETR was measured at
+50 MPa for the MM00 mix, while minimum ETR was measured
+at 32 MPa for the MM25 mix. The lowest and highest ETR
+values for the A/B ratio of 0.40 were 29 and 48 MPa, respec-
+tively. The greatest ETR measured for MM00 was 48 MPa, and
+the minimum ETR measured for MM25 was 29 MPa. The
+lowest and highest ETR values for the A/B ratio of 0.45 were 25
+and 43 MPa, respectively. The highest ETR for the MM00 mix
+was 43 MPa, while the lowest ETR for the MM25 mix was
+25 MPa. The ETR value was recorded from 21 to 40 MPa as the
+lowest and maximum value for the A/B ratio of 0.50. The
+greatest ETR measured for MM00 was 47 MPa, and the mini-
+mum ETR measured for MM25 was 41 MPa.
+Fig. 14b depicts the loss of CS when GPC was heated to 400 C.
+After testing, ETR values ranged from 26 (minimum) to 58
+(highest) MPa for 400 C, with A/B ratios ranging from 0.25 to 0.50.
+For A/B ratios of 0.25, the lowest and greatest ETR values were 33
+and 58 MPa, respectively. Maximum ETR was measured at
+58 MPa for the MM00 mix, while the minimum ETR was
+measured at 33 MPa for the MM25 mix. The lowest and highest
+ETR values for the A/B ratio of 0.30 were 30 and 53 MPa, respec-
+tively. The highest ETR for MM00 was measured to be 53 MPa,
+while the minimum ETR for MM25 was observed to be 30 MPa.
+The lowest and highest ETR values for the A/B ratio of 0.35 were
+27 and 47 MPa, respectively. Maximum ETR was measured at
+47 MPa for the MM00 mix,while minimum ETR was measured at
+27 MPa for the MM25 mix. The lowest and highest ETR values for
+the A/B ratio of 0.40 were 25 and 43 MPa, respectively. The
+highest ETR for the MM00 mix was 43 MPa, while the lowest ETR
+for the MM25 mix was 25 MPa. The ETR value was observed from
+21 to 40 MPa as the lowest and maximum value for the A/B ratio
+of 0.45. Maximum ETR was measured at 40 MPa for the MM00
+mix, while minimum ETR was measured at 25 MPa for the MM25
+mix. The ETR value was recorded from 18 to 33 MPa as the
+minimum and maximum value for the A/B ratio of 0.50.
+MM00
+MM05
+MM10
+MM15
+MM20
+MM25
+8
+10
+12
+14
+16
+18
+20
+ 0.25
+ 0.30
+ 0.35
+ 0.40
+ 0.45
+ 0.50
+)
+%
+( 
+n
+o
+it
+p
+r
+o
+s
+b
+A
+ r
+e
+t
+a
+W
+Mix ID
+(a)
+MM00
+MM05
+MM10
+MM15
+MM20
+MM25
+2200
+2220
+2240
+2260
+2280
+2300
+2320
+ 0.25
+ 0.30
+ 0.35
+ 0.40
+ 0.45
+ 0.50
+)
+3
+m
+/
+g
+k
+(  
+y
+ti
+s
+n
+e
+D
+ 
+k
+l
+u
+B
+Mix ID
+(b)
+Fig. 13 e a. WA ﬁndings for various A/B ratios. b. BD
+ﬁndings for various A/B ratios.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3222
+
+
+----- TABLE p15#1 -----
+
+ | (a)
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50 |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+----- TABLE p15#2 -----
+
+ | (b)
+0.25
+0.30
+0.35
+0.40
+0.45
+0.50 |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+ |  |  |  |  |  |  | 
+
+===== PAGE 16 =====
+
+MaximumETRwasmeasuredat33MPaforthe MM00 mix, while
+minimum ETR was measured at 18 MPa for the MM25 mix.
+Fig. 14c depicts the loss of CS when GPC was heated to
+600 C. After testing, ETR values ranged from 24 (minimum) to
+58 (highest) MPa for 600 C. With an A/B ratio of 0.25, the ETR
+value ranged from 28 to 53 MPa as the minimum and highest
+value. The highest ETR for MM00 was seen to be 53 MPa, while
+the minimum ETR for MM25 was reported to be 28 MPa. The
+lowest and highest ETR values for the A/B ratio of 0.30 were 27
+and 52 MPa, respectively. The greatest ETR measured for MM00
+was 52 MPa, and the minimum ETR measured for MM25 was
+27 MPa. The lowest and highest ETR values for the A/B ratio of
+0.35 were 25 and 43 MPa, respectively. The highest ETR for the
+MM00 mix was 43 MPa, while the lowest ETR for the MM25 mix
+was 25 MPa. The ETR value was recorded from 23 to 40 MPa as
+the minimum and maximum value for the A/B ratio of 0.40.
+Maximum ETR was measured at 40 MPa for the MM00 mix,
+while the minimum ETR was measured at 23 MPa for the MM25
+mix. The lowest and highest ETR values for the A/B ratio of 0.45
+were 20 and 37 MPa, respectively. Maximum ETR was measured
+at 37 MPa for the MM00 mix, while minimum ETR was
+measured at 20 MPa for the MM25 mix. The lowest and highest
+ETR values for the A/B ratio of 0.50 were 16 and 31 MPa,
+respectively. The greatest ETR measured for MM00 was 31 MPa,
+and the minimum ETR measured for MM25 was 16 MPa.
+3.8.1.
+Effect of elevated temperature on GPC
+According to the research ﬁndings, most research on the
+thermal performance of MK-based GPC has been limited to
+paste composites [75]. Because coarse aggregate accounts for a
+considerable portion of the volume of concrete, the ITZ has a
+signiﬁcant impact on its behavior [76,77]. Furthermore, the
+thermal incompatibility of the aggregate and the GPC matrix
+inﬂuences the strength loss in concrete caused by exposure to
+high temperatures [78,79]. The literature study on binders is
+inadequate in several areas. As a result, the current work in-
+tends to close this gap by evaluating the behavior of MK-based
+GPC at ambient and increased temperatures of 200 C, 400 C,
+and 600 C [29,71,80]. All visual observations for fresh and
+hardened specimens, CS development, STS, WA, and weight
+loss % due to exposure to elevated temperatures were evalu-
+ated [48,81]. The principal causes of strength loss after high
+temperatures are mass loss and thermal deformation caused
+by
+moisture
+evaporation.
+Water
+within
+the
+specimen,
+including both free and chemically bound water, ﬂows to the
+outer surface and evaporates, producing internal micro-
+structure damage and, as a result, strength degradation
+[24,82,83]. This process happens predominantly in the tem-
+perature range of 100e300 C when water evaporation de-
+creases,
+and
+hence
+the
+rate
+of
+strength
+deterioration
+decreases. At higher temperatures, the evaporation of chem-
+ically linked water continues. Although spalling due to pore
+pressure decreases at higher temperatures, the phase transi-
+tion and composition change impact the residual strength of
+geopolymer
+[40,84,85].
+Crack
+development
+between
+the
+aggregate and GPC matrix signiﬁcantly impacts substantial
+strength loss, resulting in fractures and bond weakening at
+the aggregateepaste interface [31,69,86]. Since KOH has a
+more alkaline nature, its presence should cause raw materials
+containing aluminium silicate to dissolve and polymerize
+more readily, increasing CS. Additionally, it is claimed that
+KOH cations are better at zeolitizing in geopolymer-forming
+environments. This may be because they are smaller than
+sodium cations and can move more readily through the moist
+a
+b
+c
+Fig. 14 e a. Loss of CS values for GPC cast for 200 C
+compared for ambient curing. b. Loss of CS values for GPC
+cast for 400 C compared for ambient curing. c. Loss of CS
+values for GPC cast for 600 C compared for ambient curing.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3223
+
+
+===== PAGE 17 =====
+
+gel network [20,87]. MK slurry samples were evaluated at KS/
+KH molar ratios ranging from 1.03 to 2 at temperatures
+ranging from 300 C to 600 C [8,88,89]. The residual CS dropped
+(for KS/KH 1.5) and then rose (for KS/KH > 1.5) at 300 C. It was
+proposed that the ﬁrst reduction was caused by thermal
+shrinkage, which resulted in fracture development [19,90].
+The growing tendency for specimens with KS/KH > 1.5, on the
+other hand, was related to matrix densiﬁcation [91].
+3.9.
+Correlation and regression analysis between CS and
+STS in MK based GPC
+The relationship between CS and STS, from Australian stan-
+dard AS3600, is given by equation
+ft ¼
+0:4
+ﬃﬃﬃﬃ
+fc
+q
+(4)
+From; European code; CEB  FIP;
+ft ¼ 0:3 fc 2=3
+(5)
+From; American Concrete Institute;
+ft ¼ 0:59
+ﬃﬃﬃﬃ
+fc
+q
+(6)
+For the current work, the suggested empirical formula
+represented as
+Proposed empirical formula ft ¼ 0:4801  fc0:5652
+(7)
+where ft: STS,
+fc:CS in MPa.
+The values of Split Tensile strength value for experimental
+and results collected and calculated from various literature
+papers for different type codes are mentioned below in table.
+It can be observed that, of the six equations tested, the
+predicted results determined from column (6) were the
+closest to the experimental ones. A regression analysis was
+utilized to show correlations between the tested further and
+projected ﬁndings to assess various STS values. Refer to
+Fig. 15 for the linearity value (R2) derived from the proposed
+empirical formula ﬁndings. The data points presented in
+this graphic were gathered through GPC research. Exam-
+ining these data reveals that the tensile strength values of
+GPC
+grew
+with
+the
+rise
+of
+compressive
+strength
+and
+remained virtually constant.
+However, a previous study has demonstrated that GPC STS
+grew at a decreasing rate with incremental increases in CS.
+GPC's STS was proportionate to its CS multiplied by a special
+power. The association between the CS and STS of GPC, on the
+other hand, was linear (Fig. 11). The conﬁdence intervals are
+calculated using the experimental data and Equation (7), and
+they represent the boundaries of the area where the accurate
+prediction between GPC ft and fc should be located with 96%
+certainty. The AS3600 model was the furthest away from the
+conﬁdence and prediction intervals. This forecast continued
+to deviate from the actual points as its intensity increased.
+Only a tiny portion of the prediction lines generated by CEB-
+FIP and ACI 363 fell within the 95 and 97% conﬁdence in-
+tervals. The relationship between CS and STS was found to
+vary linearly with R2 value 0.98577 refer to Fig. 10b, Similarly
+for CS and FS, WA and BK, R2 value is 0.98485, 0.96887
+respectively refer to Fig. 10(c and d).
+Fig. 15 e Regression analysis (a) for various STS values and
+proposed formula. (b) For CS v/s STS. (c) CS v/s FS. (d) WA v/s
+BK.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3224
+
+
+===== PAGE 18 =====
+
+4.
+Conclusion
+In present work Metakaolin based geopolymer concrete
+studied intensively, CS was lost at a faster rate for practically
+all mixtures when the temperature was raised from 200 C to
+600 C; Although CS degraded as the exposure temperature
+increased. Even though several geopolymer mixes developed
+cracks, spalling, and corner breakage after being exposed to
+high temperatures, none of the mixes exhibited apparent
+cracks, spalling, or corner breakage. Since KOH is more alka-
+line, its inclusion ought to make raw materials containing
+aluminium silicate dissolve and polymerize more easily,
+enhancing CS. The potassium activator-based GPC demon-
+strates substantial strength properties as compared to ordi-
+nary concrete specimens. This is due to the interaction of
+aluminium silicate components with an alkaline solution,
+which provides GPC an excellent binding property and in-
+creases mechanical performances. During the curing process,
+the water in the liquids tended to escape from the sample
+bodies. It migrated towards the surfaces, causing tiny frac-
+tures to emerge due to the movement. The increased creation
+of microfractures was expected to boost the water absorption
+rates of the samples. Dissolution, N-A-S-H gel formation, and
+condensation are all steps in the geopolymerization process.
+At SiO₂/Al₂O₃ ratios less than 2:1, it was observed that soluble
+silicates accelerate metakaolin dissolution. When silicate is
+employed as an alkaline activator, Al₂O₃ dissolution becomes
+important in the creation of N-A-S-H gels, and large crystal-
+line contents are generated at SiO₂/Al₂O₃ ratios less than 1:1.
+Author contributions
+Conceptualization, FAS and SVG; formal analysis, FAS; fund-
+ing acquisition, SVG and KSN; investigation, FAS, SVG, and
+VBP,; resources, SVG, VBP; writing-original draft, FAS; writing-
+review and editing, FAS, SVG, VBP, and KSN. All authors have
+read and agreed to the published version of the manuscript.
+Data availability statement
+The data that support the ﬁndings of this study are available
+on request from the corresponding author [SVG].
+Declaration of Competing Interest
+The authors declare that they have no known competing
+ﬁnancial interests or personal relationships that could have
+appeared to inﬂuence the work reported in this paper.
+r e f e r e n c e s
+[1] Garcia-Lodeiro I, Palomo A, Fernandez-Jimenez A. 2 - an
+overview of the chemistry of alkali-activated cement-based
+binders. In: Pacheco-Torgal F, Labrincha JA, Leonelli C,
+Palomo A, Chindaprasirt P, editors. Handbook of alkali-
+activated cements, mortars and concretes. Oxford:
+Woodhead Publishing; 2015. p. 19e47. https://doi.org/
+10.1533/9781782422884.1.19.
+[2] Khalifa AZ, Cizer €O, Pontikes Y, Heath A, Patureau P,
+Bernal SA, et al. Advances in alkali-activation of clay
+minerals. Cement Concr Res 2020;132:106050. https://doi.org/
+10.1016/j.cemconres.2020.106050.
+[3] Hassan A, Arif M, Shariq M. Age-dependent compressive
+strength and elastic modulus of ﬂy ash-based geopolymer
+concrete. Struct Concr 2022;23:473e87. https://doi.org/
+10.1002/suco.202000372.
+[4] Bakthavatchalam K, Rajendran M. An experimental
+investigation on potassium activator based geopolymer
+concrete incorporated with hybrid ﬁbers. Mater Today Proc
+2021;46:8494e501. https://doi.org/10.1016/
+j.matpr.2021.03.506.
+[5] Mahmood A, Noman MT, Pechociakova M, Amor N, Petru M,
+Abdelkader M, et al. Geopolymers and ﬁber-reinforced
+concrete composites in civil engineering. Polymers
+2021;13:2099. https://doi.org/10.3390/polym13132099.
+[6] Ghannam S, Najm H, Vasconez R. Experimental study of
+concrete made with granite and iron powders as partial
+replacement of sand. Sustainable Materials and
+Technologies 2016;9:1e9. https://doi.org/10.1016/
+j.susmat.2016.06.001.
+[7] Padmakar M, Barhmaiah B, Leela Priyanka M. Characteristic
+compressive strength of a geo polymer concrete. Mater
+Today Proc 2021;37:2219e22. https://doi.org/10.1016/
+j.matpr.2020.07.656.
+[8] Das SK, Mishra J, Singh SK, Mustakim SM, Patel A, Das SK,
+et al. Characterization and utilization of rice husk ash (RHA)
+in ﬂy ash e blast furnace slag based geopolymer concrete for
+sustainable future. Mater Today Proc 2020;33:5162e7. https://
+doi.org/10.1016/j.matpr.2020.02.870.
+[9] Lee WKW, van Deventer JSJ. Chemical interactions between
+siliceous aggregates and low-Ca alkali-activated cements.
+Cement Concr Res 2007;37:844e55. https://doi.org/10.1016/
+j.cemconres.2007.03.012.
+[10] Amran YHM, Alyousef R, Alabduljabbar H, El-Zeadani M.
+Clean production and properties of geopolymer concrete; A
+review. J Clean Prod 2020;251:119679. https://doi.org/10.1016/
+j.jclepro.2019.119679.
+[11] Chindaprasirt P, Jaturapitakkul C, Chalee W, Rattanasak U.
+Comparative study on the characteristics of ﬂy ash and
+bottom ash geopolymers. Waste Manag 2009;29:539e43.
+https://doi.org/10.1016/j.wasman.2008.06.023.
+[12] Shilar FA, Ganachari SV, Patil VB, Nisar KS, Abdel-Aty A-H,
+Yahia IS. Evaluation of the effect of granite waste powder by
+varying the molarity of activator on the mechanical
+properties of ground granulated blast-furnace slag-based
+geopolymer concrete. Polymers 2022;14:306. https://doi.org/
+10.3390/polym14020306.
+[13] Shilar FA, Ganachari SV, Patil VB, Khan TMY, Dawood Abdul
+Khadar S. Molarity activity effect on mechanical and
+microstructure properties of geopolymer concrete: a review.
+Case Stud Constr Mater 2022;16:e01014. https://doi.org/
+10.1016/j.cscm.2022.e01014.
+[14] Garcia-Lodeiro I, Palomo A, Fernandez-Jimenez A,
+Macphee DE. Compatibility studies between N-A-S-H and C-
+A-S-H gels. Study in the ternary diagram
+Na2OeCaOeAl2O3eSiO2eH2O. Cement Concr Res
+2011;41:923e31. https://doi.org/10.1016/
+j.cemconres.2011.05.006.
+[15] Al-Majidi MH, Lampropoulos A, Cundy A, Meikle S.
+Development of geopolymer mortar under ambient
+temperature for in situ applications. Construct Build Mater
+2016;120:198e211. https://doi.org/10.1016/
+j.conbuildmat.2016.05.085.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3225
+
+
+===== PAGE 19 =====
+
+[16] Meesala CR, Verma NK, Kumar S. Critical review on ﬂy-ash
+based geopolymer concrete. Struct Concr 2020;21:1013e28.
+https://doi.org/10.1002/suco.201900326.
+[17] Huiskes DMA, Keulen A, Yu QL, Brouwers HJH. Design and
+performance evaluation of ultra-lightweight geopolymer
+concrete. Mater Des 2016;89:516e26. https://doi.org/10.1016/
+j.matdes.2015.09.167.
+[18] Ganesh AC, Muthukannan M. Development of high
+performance sustainable optimized ﬁber reinforced
+geopolymer concrete and prediction of compressive
+strength. J Clean Prod 2021;282:124543. https://doi.org/
+10.1016/j.jclepro.2020.124543.
+[19] Luhar S, Chaudhary S, Luhar I. Development of rubberized
+geopolymer concrete: strength and durability studies.
+Construct Build Mater 2019;204:740e53. https://doi.org/
+10.1016/j.conbuildmat.2019.01.185.
+[20] Nikoloutsopoulos N, Sotiropoulou A, Kakali G, Tsivilis S.
+Physical and mechanical properties of ﬂy ash based
+geopolymer concrete compared to conventional concrete.
+Buildings 2021;11:178. https://doi.org/10.3390/
+buildings11050178.
+[21] Zhang P, Wang K, Wang J, Guo J, Ling Y. Macroscopic and
+microscopic analyses on mechanical performance of
+metakaolin/ﬂy ash based geopolymer mortar. J Clean Prod
+2021;294:126193. https://doi.org/10.1016/
+j.jclepro.2021.126193.
+[22] Rashidian-Dezfouli H, Rangaraju PR. Study on the effect of
+selected parameters on the alkali-silica reaction of aggregate
+in ground glass ﬁber and ﬂy ash-based geopolymer mortars.
+Construct Build Mater 2021;271:121549. https://doi.org/
+10.1016/j.conbuildmat.2020.121549.
+[23] Sethi H, Bansal PP, Sharma R. Effect of addition of GGBS and
+glass powder on the properties of geopolymer concrete. Iran J
+Sci Technol Trans Civ Eng 2019;43:607e17. https://doi.org/
+10.1007/s40996-018-0202-4.
+[24] Lloyd RR, Provis JL, van Deventer JSJ. Pore solution
+composition and alkali diffusion in inorganic polymer
+cement. Cement Concr Res 2010;40:1386e92. https://doi.org/
+10.1016/j.cemconres.2010.04.008.
+[25] Singh SB, Munjal P. Bond strength and compressive stress-
+strain characteristics of brick masonry. J Build Eng
+2017;9:10e6. https://doi.org/10.1016/j.jobe.2016.11.006.
+[26] Lo K-W, Lin K-L, Cheng T-W, Chang Y-M, Lan J-Y. Effect of
+nano-SiO2 on the alkali-activated characteristics of spent
+catalyst metakaolin-based geopolymers. Construct Build
+Mater 2017;143:455e63. https://doi.org/10.1016/
+j.conbuildmat.2017.03.152.
+[27] Chithambaram SJ, Kumar S, Prasad MM, Adak D. Effect of
+parameters on the compressive strength of ﬂy ash based
+geopolymer concrete. Struct Concr 2018;19:1202e9. https://
+doi.org/10.1002/suco.201700235.
+[28] Boca Santa RAA, Soares C, Riella HG. Geopolymers with a
+high percentage of bottom ash for solidiﬁcation/
+immobilization of different toxic metals. J Hazard Mater
+2016;318:145e53. https://doi.org/10.1016/
+j.jhazmat.2016.06.059.
+[29] Albidah A, Alqarni AS, Abbas H, Almusallam T, Al-Salloum Y.
+Behavior of Metakaolin-Based geopolymer concrete at
+ambient and elevated temperatures. Construct Build Mater
+2022;317:125910. https://doi.org/10.1016/
+j.conbuildmat.2021.125910.
+[30] Chindaprasirt P, Chalee W. Effect of sodium hydroxide
+concentration on chloride penetration and steel corrosion of
+ﬂy ash-based geopolymer concrete under marine site.
+Construct Build Mater 2014;63:303e10. https://doi.org/
+10.1016/j.conbuildmat.2014.04.010.
+[31] Krishna Rao A, Kumar DR. Effect of various alkaline binder
+ratio on geopolymer concrete under ambient curing
+condition. Mater Today Proc 2020;27:1768e73. https://
+doi.org/10.1016/j.matpr.2020.03.682.
+[32] Aliabdo AA, Abd Elmoaty AEM, Salem HA. Effect of water
+addition, plasticizer and alkaline solution constitution on ﬂy
+ash based geopolymer concrete performance. Construct
+Build Mater 2016;121:694e703. https://doi.org/10.1016/
+j.conbuildmat.2016.06.062.
+[33] Ravikumar D, Neithalath N. Effects of activator
+characteristics on the reaction product formation in slag
+binders activated using alkali silicate powder and NaOH.
+Cement Concr Compos 2012;34:809e18. https://doi.org/
+10.1016/j.cemconcomp.2012.03.006.
+[34] IS 1199. Methods of sampling and analysis of concrete. 1959.
+p. 49.
+[35] Malkawi AB, Nuruddin MF, Fauzi A, Almattarneh H,
+Mohammed BS. Effects of alkaline solution on properties of
+the HCFA geopolymer mortars. Procedia Eng 2016;148:710e7.
+https://doi.org/10.1016/j.proeng.2016.06.581.
+[36] Mousavinejad SHG, Gashti MF. Effects of alkaline solution/
+binder and Na2SiO3/NaOH ratios on fracture properties and
+ductility of ambient-cured GGBFS based heavyweight
+geopolymer concrete. Structures 2021;32:2118e29. https://
+doi.org/10.1016/j.istruc.2021.04.008.
+[37] Hanjitsuwan S, Hunpratub S, Thongbai P, Maensiri S, Sata V,
+Chindaprasirt P. Effects of NaOH concentrations on physical
+and electrical properties of high calcium ﬂy ash geopolymer
+paste. Cement Concr Compos 2014;45:9e14. https://doi.org/
+10.1016/j.cemconcomp.2013.09.012.
+[38] EL Alouani M, Alehyen S, EL Achouri M, Hajjaji A,
+Ennawaoui C, Taibi M. Inﬂuence of the nature and rate of
+alkaline activator on the physicochemical properties of ﬂy
+ash-based geopolymers. Adv Civ Eng 2020;2020:e8880906.
+https://doi.org/10.1155/2020/8880906.
+[39] Alvarez-Ayuso E, Querol X, Plana F, Alastuey A, Moreno N,
+Izquierdo M, et al. Environmental, physical and structural
+characterisation of geopolymer matrixessynthesised from coal
+(co-)combustion ﬂy ashes. J Hazard Mater 2008;154:175e83.
+https://doi.org/10.1016/j.jhazmat.2007.10.008.
+[40] Gutierrez RM, Villaquiran-Caicedo M, Ramı´rez-Benavides S,
+Astudillo M, Mejı´a D. Evaluation of the antibacterial activity
+of a geopolymer mortar based on metakaolin supplemented
+with TiO2 and CuO particles using glass waste as ﬁne
+aggregate. Coatings 2020;10:157. https://doi.org/10.3390/
+coatings10020157.
+[41] John SK, Nadir Y, Girija K. Effect of source materials,
+additives on the mechanical properties and durability of ﬂy
+ash and ﬂy ash-slag geopolymer mortar: a review. Construct
+Build Mater 2021;280:122443. https://doi.org/10.1016/
+j.conbuildmat.2021.122443.
+[42] IS 516. Method of tests for strength of concrete. 1959. p. 30.
+[43] Perez-Cortes P, Escalante-Garcia JI. Gel composition and
+molecular structure of alkali-activated metakaolin-
+limestone cements. Cement Concr Res 2020;137:106211.
+https://doi.org/10.1016/j.cemconres.2020.106211.
+[44] Raijiwala DB, Patil HS. Geopolymer concrete A green
+concrete. 2010 2nd international conference on chemical,
+biological and environmental engineering. 2010. p. 202e6.
+https://doi.org/10.1109/ICBEE.2010.5649609.
+[45] Singh B, Ishwarya G, Gupta M, Bhattacharyya SK.
+Geopolymer concrete: a review of some recent
+developments. Construct Build Mater 2015;85:78e90. https://
+doi.org/10.1016/j.conbuildmat.2015.03.036.
+[46] Charkhtab Moghaddam S, Madandoust R, Jamshidi M,
+Nikbin IM. Mechanical properties of ﬂy ash-based
+geopolymer concrete with crumb rubber and steel ﬁber
+under ambient and sulfuric acid conditions. Construct Build
+Mater 2021;281:122571. https://doi.org/10.1016/
+j.conbuildmat.2021.122571.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3226
+
+
+===== PAGE 20 =====
+
+[47] Jayarajan G, Arivalagan S. An experimental studies of
+geopolymer concrete incorporated with ﬂy-ash & GGBS.
+Mater Today Proc 2021;45:6915e20. https://doi.org/10.1016/
+j.matpr.2021.01.285.
+[48] Mishra J, Das SK, Krishna R, Nanda B, Patro S, Mustakim S.
+Synthesis and characterization of a new class of geopolymer
+binder utilizing ferrochrome ash (FCA) for sustainable
+industrial waste management. 2020. https://doi.org/10.1016/
+j.matpr.2020.02.832.
+[49] Ganachari SV. Polymers for energy applications. In:
+Martı´nez LMT, Kharissova OV, Kharisov BI, editors. Handbook
+ofecomaterials.Cham:SpringerInternational Publishing; 2019.
+p. 3011e27. https://doi.org/10.1007/978-3-319-68255-6_194.
+[50] Hallad SA, Banapurmath NR, Khan TMY, Umarfarooq MA,
+Soudagar MEM, Hunashyal AM, et al. Statistical analysis of
+polymer nanocomposites for mechanical properties.
+Molecules 2021;26:4135. https://doi.org/10.3390/
+molecules26144135.
+[51] Oyebisi S, Ede A, Olutoge F, Omole D. Geopolymer concrete
+incorporating agro-industrial wastes: effects on mechanical
+properties, microstructural behaviour and mineralogical
+phases. Construct Build Mater 2020;256:119390. https://
+doi.org/10.1016/j.conbuildmat.2020.119390.
+[52] IS 5816. Method of test splitting tensile strength of concrete.
+1999. p. 14.
+[53] Hallad SA, Banapurmath NR, Bhadrakali AS, Patil AY,
+Hunashyal AM, Ganachari SV, et al. Nanoceramic
+composites for nuclear radiation attenuation. Materials
+2022;15:262. https://doi.org/10.3390/ma15010262.
+[54] Amran M, Al-Fakih A, Chu SH, Fediuk R, Haruna S,
+Azevedo A, et al. Long-term durability properties of
+geopolymer concrete: an in-depth review. Case Stud Constr
+Mater 2021;15. https://doi.org/10.1016/j.cscm.2021.e00661.
+[55] Amran M, Al-Fakih A, Chu SH, Fediuk R, Haruna S,
+Azevedo A, et al. Long-term durability properties of
+geopolymer concrete: an in-depth review. Case Stud Constr
+Mater 2021;15:e00661. https://doi.org/10.1016/
+j.cscm.2021.e00661.
+[56] de Azevedo ARG, Marvila MT, de Oliveira LB, Ferreira WM,
+Colorado H, Teixeira SR, et al. Circular economy and
+durability in geopolymers ceramics pieces obtained from
+glass polishing waste. Int J Appl Ceram Technol 2021:18.
+https://doi.org/10.1111/ijac.13780.
+[57] Marvila MT, De Azevedo ARG, De Matos PR, Monteiro SN,
+Vieira CMF. Materials for production of high and ultra-high
+performance concrete: review and perspective of possible
+novel materials. Mater 2021;14. https://doi.org/10.3390/
+ma14154304.
+[58] Ghafoor MT, Khan QS, Qazi AU, Sheikh MN, Hadi MNS.
+Inﬂuence of alkaline activators on the mechanical properties
+of ﬂy ash based geopolymer concrete cured at ambient
+temperature. Construct Build Mater 2021;273:121752. https://
+doi.org/10.1016/j.conbuildmat.2020.121752.
+[59] Lee NK, Lee HK. Inﬂuence of the slag content on the chloride
+and sulfuric acid resistances of alkali-activated ﬂy ash/slag
+paste. Cement Concr Compos 2016;72:168e79. https://
+doi.org/10.1016/j.cemconcomp.2016.06.004.
+[60] Shi H, Ma H, Tian L, Yang J, Yuan J. Effect of microwave
+curing on metakaolin-quartz-based geopolymer bricks.
+Construct Build Mater 2020;258:120354. https://doi.org/
+10.1016/j.conbuildmat.2020.120354.
+[61] Shilar FA, Ganachari SV, Patil VB. Investigation of the effect
+of granite waste powder as a binder for different molarity of
+geopolymer concrete on fresh and mechanical properties.
+Mater Lett 2021:131302. https://doi.org/10.1016/
+j.matlet.2021.131302.
+[62] Shi X, Zhang C, Wang X, Zhang T, Wang Q. Response surface
+methodology for multi-objective optimization of ﬂy ash-GGBS
+based geopolymer mortar. Construct Build Mater 2021:125644.
+https://doi.org/10.1016/j.conbuildmat.2021.125644.
+[63] He PY, Zhang YJ, Chen H, Liu LC. Development of an eco-
+efﬁcient CaMoO4/electroconductive geopolymer composite
+for recycling silicomanganese slag and degradation of dye
+wastewater. J Clean Prod 2019;208:1476e87. https://doi.org/
+10.1016/j.jclepro.2018.10.176.
+[64] Pilehvar S, Cao VD, Szczotok AM, Valentini L, Salvioni D,
+Magistri M, et al. Mechanical properties and microscale
+changes of geopolymer concrete and Portland cement
+concrete containing micro-encapsulated phase change
+materials. Cement Concr Res 2017;100:341e9. https://doi.org/
+10.1016/j.cemconres.2017.07.012.
+[65] Cai J, Pan J, Han J, Lin Y, Sheng Z. Impact behaviours of
+engineered geopolymer composite exposed to elevated
+temperatures. Construct Build Mater 2021;312:125421.
+https://doi.org/10.1016/j.conbuildmat.2021.125421.
+[66] Ondova M, Estokova A. Environmental impact assessment of
+building foundation in masonry family houses related to the
+total used building materials. Environ Prog Sustain Energy
+2016;35:1113e20. https://doi.org/10.1002/ep.12307.
+[67] Okoye FN, Durgaprasad J, Singh NB. Mechanical properties of
+alkali activated ﬂyash/Kaolin based geopolymer concrete.
+Construct Build Mater 2015;98:685e91. https://doi.org/
+10.1016/j.conbuildmat.2015.08.009.
+[68] Shehab HK, Eisa AS, Wahba AM. Mechanical properties of ﬂy
+ash based geopolymer concrete with full and partial cement
+replacement. Construct Build Mater 2016;126:560e5. https://
+doi.org/10.1016/j.conbuildmat.2016.09.059.
+[69] Moya JS, Cabal B, Sanz J, Torrecillas R. Metakaolin-
+nanosilver as biocide agent in geopolymer. Developments
+in strategic materials and computational design III. John
+Wiley & Sons; 2012. p. 1e11. https://doi.org/10.1002/
+9781118217542.ch1.
+[70] ASTM C1585-20 n.d. https://www.techstreet.com/standards/
+astm-c1585-20?product_id¼2189851 (accessed December 26,
+2021).
+[71] Duxson P, Provis JL, Lukey GC, van Deventer JSJ. The role of
+inorganic polymer technology in the development of ‘green
+concrete. Cement Concr Res 2007;37:1590e7. https://doi.org/
+10.1016/j.cemconres.2007.08.018.
+[72] Ismail I, Bernal SA, Provis JL, San Nicolas R, Hamdan S, van
+Deventer JSJ. Modiﬁcation of phase evolution in alkali-
+activated blast furnace slag by the incorporation of ﬂy ash.
+Cement Concr Compos 2014;45:125e35. https://doi.org/
+10.1016/j.cemconcomp.2013.09.006.
+[73] Liew Y-M, Heah C-Y, Li L, Jaya NA, Abdullah MMAB, Tan SJ,
+et al. Formation of one-part-mixing geopolymers and
+geopolymer ceramics from geopolymer powder. Construct
+Build Mater 2017;156:9e18. https://doi.org/10.1016/
+j.conbuildmat.2017.08.110.
+[74] Al Bakri Abdullah MM, Kamarudin H, Abdulkareem OAKA,
+Ghazali CMR, Raﬁza AR, Norazian MN. Optimization of
+alkaline activator/ﬂy ASH ratio on the compressive strength
+of manufacturing ﬂy ASH-BASED geopolymer. Appl Mech
+Mater 2012;110e116:734e9. https://doi.org/10.4028/
+www.scientiﬁc.net/AMM.110-116.734.
+[75] Luo Z, Li W, Wang K, Castel A, Shah SP. Comparison on the
+properties of ITZs in ﬂy ash-based geopolymer and Portland
+cement concretes with equivalent ﬂowability. Cement Concr
+Res 2021;143:106392. https://doi.org/10.1016/
+j.cemconres.2021.106392.
+[76] Vora PR, Dave UV. Parametric studies on compressive
+strength of geopolymer concrete. Procedia Eng
+2013;51:210e9. https://doi.org/10.1016/j.proeng.2013.01.030.
+[77] Sarkar M, Dana K. Partial replacement of metakaolin with red
+ceramic waste in geopolymer. Ceram Int 2021;47:3473e83.
+https://doi.org/10.1016/j.ceramint.2020.09.191.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3227
+
+
+===== PAGE 21 =====
+
+[78] Aly AM, El-Feky MS, Kohail M, Nasr E-SAR. Performance of
+geopolymer concrete containing recycled rubber. Construct
+Build Mater 2019;207:136e44. https://doi.org/10.1016/
+j.conbuildmat.2019.02.121.
+[79] Saloni, Parveen, Pham TM, Lim YY, Pradhan SS, Jatin, et al.
+Performance of rice husk Ash-Based sustainable geopolymer
+concrete with Ultra-Fine slag and Corn cob ash. Construct
+Build Mater 2021;279:122526. https://doi.org/10.1016/
+j.conbuildmat.2021.122526.
+[80] Yeoh MLY, Ukritnukun S, Rawal A, Davies J, Kang BJ, Burrough K,
+et al. Mechanistic impacts of long-term gamma irradiation on
+physicochemical, structural, and mechanical stabilities of
+radiation-responsive geopolymer pastes. J Hazard Mater
+2021;407:124805. https://doi.org/10.1016/j.jhazmat.2020.124805.
+[81] Ryu GS, Lee YB, Koh KT, Chung YS. The mechanical
+properties of ﬂy ash-based geopolymer concrete with
+alkaline activators. Construct Build Mater 2013;47:409e18.
+https://doi.org/10.1016/j.conbuildmat.2013.05.069.
+[82] Zerzouri M, Bouchenafa O, Hamzaoui R, Ziyani L, Alehyen S.
+Physico-chemical and mechanical properties of ﬂy ash
+based-geopolymer pastes produced from pre-geopolymer
+powders obtained by mechanosynthesis. Construct Build
+Mater 2021;288:123135. https://doi.org/10.1016/
+j.conbuildmat.2021.123135.
+[83] Medri V, Papa E, Mazzocchi M, Laghi L, Morganti M,
+Francisconi J, et al. Production and characterization of
+lightweight vermiculite/geopolymer-based panels. Mater
+Des 2015;85:266e74. https://doi.org/10.1016/
+j.matdes.2015.06.145.
+[84] Abeysundara UGY, Babel S. A quest for sustainable materials
+for building elements in Sri Lanka: Foundations. Environ
+Prog Sustain Energy 2010;29:370e81. https://doi.org/10.1002/
+ep.10420.
+[85] Al-QutaiﬁS, Nazari A, Bagheri A. Mechanical properties of
+layered geopolymer structures applicable in concrete 3D-
+printing. Construct Build Mater 2018;176:690e9. https://
+doi.org/10.1016/j.conbuildmat.2018.04.195.
+[86] Qin Y, Chen X, Li B, Guo Y, Niu Z, Xia T, et al. Study on the
+mechanical properties and microstructure of chitosan
+reinforced metakaolin-based geopolymer. Construct Build
+Mater 2021;271:121522. https://doi.org/10.1016/
+j.conbuildmat.2020.121522.
+[87] Saloni Parveen, Yan Lim Y, Pham TM. Inﬂuence of Portland
+cement on performance of ﬁne rice husk ash geopolymer
+concrete: strength and permeability properties. Construct
+Build Mater 2021;300:124321. https://doi.org/10.1016/
+j.conbuildmat.2021.124321.
+[88] Elyamany HE, Abd Elmoaty AEM, Elshaboury AM. Setting
+time and 7-day strength of geopolymer mortar with various
+binders. Construct Build Mater 2018;187:974e83. https://
+doi.org/10.1016/j.conbuildmat.2018.08.025.
+[89] Das SK, Shrivastava S. Siliceous ﬂy ash and blast furnace slag
+based geopolymer concrete under ambient temperature
+curing condition. Struct Concr 2021;22:E341e51. https://
+doi.org/10.1002/suco.201900201.
+[90] Ma C-K, Awang AZ, Omar W. Structural and material
+performance of geopolymer concrete: a review. Construct
+Build Mater 2018;186:90e102. https://doi.org/10.1016/
+j.conbuildmat.2018.07.111.
+[91] Nie Q, Hu W, Huang B, Shu X, He Q. Synergistic utilization of
+red mud for ﬂue-gas desulfurization and ﬂy ash-based
+geopolymer preparation. J Hazard Mater 2019;369:503e11.
+https://doi.org/10.1016/j.jhazmat.2019.02.059.
+[92] Verma M, Dev N. Sodium hydroxide effect on the mechanical
+properties of ﬂyash-slag based geopolymer concrete. Struct
+Concr 2021;22:E368e79. https://doi.org/10.1002/suco.202000068.
+[93] Jayarajan G, Arivalagan S. An experimental studies of
+geopolymer concrete incorporated with ﬂy-ash & GGBS.
+Mater Today Proc 2021;45(7):6915e20. https://doi.org/10.1016/
+j.matpr.2021.01.285.
+j o u r n a l o f m a t e r i a l s r e s e a r c h a n d t e c h n o l o g y 2 0 2 2 ; 2 0 : 3 2 0 8 e3 2 2 8
+3228

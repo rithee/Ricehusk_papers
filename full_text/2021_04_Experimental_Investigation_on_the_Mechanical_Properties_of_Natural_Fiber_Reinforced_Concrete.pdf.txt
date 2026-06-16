@@ -1,0 +1,719 @@
+
+===== PAGE 1 =====
+
+Experimental Investigation on the Mechanical Properties of Natural Fiber
+Reinforced Concrete
+Ismail Shah1,2, Jing Li1,2,*, Shengyuan Yang1, Yubo Zhang1 and Aftab Anwar1,2
+1School of Architecture and Civil Engineering, Yunnan Agricultural University, Kunming, 650000, China
+2Key Laboratory of Crop Growth and Intelligent Agriculture of Yunnan Province, Yunnan Agricultural University, Kunming,
+650000, China
+*Corresponding Author: Jing Li. Email: li_jing69@163.com
+Received: 16 May 2021
+Accepted: 12 July 2021
+ABSTRACT
+Recently, addition of various natural ﬁbers to high strength concrete has aroused great interest in the ﬁeld of
+building materials. This is because natural ﬁbers are much cheaper and locally available, as compare to synthetic
+ﬁbers. Keeping in view, this current research conducted mainly focuses on the static properties of hybridized
+(sisal/coir), sisal and coir ﬁber-reinforced concrete. Two types of natural ﬁbers sisal and coir were used in the
+experiment with different lengths of 10, 20 and 30 mm and various natural ﬁber concentrations of 0.5%, 1.0%,
+and 1.5% by mass of cement, to investigate the static properties of sisal ﬁber reinforced concrete (SFRC), coir ﬁber
+reinforced concrete (CFRC) and hybrid ﬁber reinforced concrete (HFRC). The results indicate that HFRC has
+increased the compressive strength up to 35.98% with the length of 20 mm and with 0.5% concentration, while
+the CFRC and SFRC with the length of 10 mm and with 1% concentration have increased the compressive
+strength up to 33.94% and 24.86%, respectively. On another hand, the split tensile strength was increased by
+HFRC with the length of 20 mm and with 1% concentration, CFRC with the length of 10 mm and with 1.5%
+concentration, and SFRC with the length of 30 mm and with 1% concentration have increased up to 25.48%,
+24.56% and 11.80%, respectively, while the HFRC with the length of 20 mm and with 0.5% concentration has
+increased the compressive strength of concrete but has decreased the split tensile strength up to 2.28% compared
+to PC. Overall, using the HFRC with the length of 20 mm and with 1% concentration provide the maximum
+output in terms of split tensile strength.
+KEYWORDS
+Sisal ﬁber reinforced concrete; coir ﬁber reinforced concrete; hybrid ﬁbers; compressive and tensile strength
+1 Introduction
+Since the beginning of human civilization, plant ﬁbers have a long history, in which natural ﬁbers are
+used as reinforce building materials to improve the mechanical properties of a material. Dating back to
+the Egyptian period, natural ﬁbers (such as straw and horsehair) were mixed used in the formation of
+mud walls and mud roofs [1,2]. Due to growing environmental concerns, the demand for environmental
+friendly building materials with good mechanical properties is increasing day by day [3–5]. With the
+support of environmental awareness and shortage of global energy resources, more and more chemical
+This work is licensed under a Creative Commons Attribution 4.0 International License, which
+permits unrestricted use, distribution, and reproduction in any medium, provided the original
+work is properly cited.
+DOI: 10.32604/jrm.2022.017513
+ARTICLE
+ech
+T
+Press
+Science
+
+
+----- TABLE p1#1 -----
+
+ |  | 
+ | ABSTRACT
+Recently, addition of various natural fibers to high strength concrete has aroused great interest in the field of
+building materials. This is because natural fibers are much cheaper and locally available, as compare to synthetic
+fibers. Keeping in view, this current research conducted mainly focuses on the static properties of hybridized
+(sisal/coir), sisal and coir fiber-reinforced concrete. Two types of natural fibers sisal and coir were used in the
+experiment with different lengths of 10, 20 and 30 mm and various natural fiber concentrations of 0.5%, 1.0%,
+and 1.5% by mass of cement, to investigate the static properties of sisal fiber reinforced concrete (SFRC), coir fiber
+reinforced concrete (CFRC) and hybrid fiber reinforced concrete (HFRC). The results indicate that HFRC has
+increased the compressive strength up to 35.98% with the length of 20 mm and with 0.5% concentration, while
+the CFRC and SFRC with the length of 10 mm and with 1% concentration have increased the compressive
+strength up to 33.94% and 24.86%, respectively. On another hand, the split tensile strength was increased by
+HFRC with the length of 20 mm and with 1% concentration, CFRC with the length of 10 mm and with 1.5%
+concentration, and SFRC with the length of 30 mm and with 1% concentration have increased up to 25.48%,
+24.56% and 11.80%, respectively, while the HFRC with the length of 20 mm and with 0.5% concentration has
+increased the compressive strength of concrete but has decreased the split tensile strength up to 2.28% compared
+to PC. Overall, using the HFRC with the length of 20 mm and with 1% concentration provide the maximum
+output in terms of split tensile strength.
+KEYWORDS
+Sisal fiber reinforced concrete; coir fiber reinforced concrete; hybrid fibers; compressive and tensile strength | 
+ |  | 
+
+===== PAGE 2 =====
+
+ﬁbers have been replaced by natural ﬁbers to strengthen the composite enhancer [6–10]. Compared with
+chemical ﬁbers, natural ﬁber have not only the characteristics to be renewable and recyclable, but also
+has few other advantages including high yield, low processing cost, and low density [11,12].
+Furthermore, the natural ﬁber industry accounts for 30% of global carbon dioxide (CO2), and it emits and
+consumes approximately 50% (weight%) of raw materials than other raw materials [13]. The production
+of ordinary Portland cement not only requires a lot of energy but also releases a large number of
+greenhouse gases. Because of high energy consumption and CO2 emissions, the researcher has
+investigated for alternative building materials [12]. Due to the increasing consideration towards the
+environment to develop of environmental friendly materials, natural ﬁbers are more favored than
+synthetic ﬁbers as concrete reinforcement materials for decades [14]. Due to the unsustainability of the
+modern construction industry, the search for alternative building materials has received great attention.
+Therefore, in recent years, researchers around the world have turned their attention to the study of natural
+ﬁber-reinforced composite materials [11,15–18]. Few researchers have recognized natural ﬁber to use as
+reinforced in the construction industry to attain a sustainable material [19,20]. By the use of natural ﬁber
+reinforced concrete is developed by using various types of ﬁbers, such as coir, sisal, bamboo, date, husk,
+pineapple, and ﬂax [21,22]. Moreover, in recent years, the usage of green materials in structures has
+developed remarkably due to its advantages in building construction [23,24]. More recently, the coir,
+sisal, and other natural ﬁbers (e.g., pine and wheat ﬁbers) are abundantly available in Yunnan Province of
+China, which are frequently used in the construction of walls and houses due to its economic and
+environmentally friendly characteristics as well as fully satisﬁed [25].
+Those reinforced structures in which we use two or more types of ﬁber together to make a single matrix
+structure are known as hybrid ﬁber-reinforced composites [26–28]. Till now a variety of methods have been
+applied to improve the mechanical properties of natural ﬁbers such as pre-treatment of ﬁber, using of
+compatibilizers or additives in matrix and hybridization of natural/synthetic/nanoﬁbers [29,30]. By
+selecting the proper ﬁber, not only the cost of materials can be reduced, but the performance of concrete
+composite can be signiﬁcantly produced by using the hybridization of two or more natural ﬁber matrix
+[31]. Sathishkumar et al. [32] studied three different natural ﬁbers composite of snake grass, coir and
+banana ﬁbers. He also determined the ﬂexural and tensile strength of snake grass, grass/coir, and grass/
+banana hybrid ﬁber-reinforced composite. The results showed that compared to snake grass the grass/coir
+and grass/banana hybrid ﬁber-reinforced composite improved the tensile and ﬂexural strength. Venkata
+Reddy et al. [33] studied the fabric content of kapok and sisal hybrid ﬁber composite and the relative
+volume ratio between ﬁbers. They determined that the higher sisal ﬁber content caused an enhanced
+rigidity and ﬂexural properties of concrete. While studying the sisal and banana as a hybrid ﬁber in
+different relative quantities with 1:1, 1:3, and 3:1, have shown the highest activation energy, tensile
+strength, and ﬂexural strength at 1:3 relative quantity [34].
+Ahamed et al. [35] studied coir including sisal, jute, hemp, banana, and pineapple ﬁbers to evaluate the
+properties of concrete. They determined that since each organic ﬁber has its properties, the natural ﬁber can
+increase as well as decrease some properties of concrete. However, Fadhil et al. [36] have arranged a study to
+determine the effect of sisal and palm ﬁber reinforced concrete, to investigate the inﬂuence of natural ﬁber
+concertation by using 0.6%, 1.20%, and 1.8% of total mixture volume, and determined compressive strength,
+split tensile strength ﬂexural strength and impact resistance of concrete. Similarly, Sivaraja et al. [37]
+reported that the addition of natural ﬁbers (coir and sugarcane) improves the compressive, split tensile
+and bending properties of concrete. Izquierdo et al. [38] presented a project to study the mechanical
+properties of masonry elements made of sisal ﬁbers and concrete. He has determined the compression
+behavior of hollow blocks individually, and the possible future development of the implementation model
+was précised. Concrete is weak in tensile strength, that’s why more researchers paying attention to
+improve the tensile performance of concrete [39,40]. Furthermore, suitable thermochemical properties
+1308
+JRM, 2022, vol.10, no.5
+
+
+===== PAGE 3 =====
+
+will have an impact on mechanical properties, especially depending on tensile strength and interfacial bond
+of concrete reinforced with sisal ﬁbers composites [41,42]. dos Santos et al. [43] arranged a relative study on
+the properties of sisal and pissava ﬁbers. He examined the compressive strength, tensile strength, workability,
+deformation, and bending ability are considered. Sisal was found to be more effective as reinforced. Prakash
+et al. [44] used coconut shell to replace conventional aggregate in concrete to produce lightweight coconut
+shell concrete. Furthermore, by adding the sisal ﬁber as reinforced concrete with the concentration of 1%,
+2%, 3%, and 4% based on the weight of binders, and studied the mechanical properties of concrete. The
+results showed by adding 3% of sisal ﬁbers increased the compressive strength by up to 6%, while
+increased tensile strength by up to 14%. Agopyan et al. [45] replaced the sisal and coir ﬁbers on asbestos
+and implemented three-point bending test. The experimental results showed that sisal and coir both had
+the maximum load endured but by comparing coir tile and sisal tile, the coir showed maximum strength.
+Sisal and coir ﬁber reinforced concrete has been broadly investigated by previous researchers, and it is
+commonly recognized that the optimum concentration of ﬁber varies as the source of ﬁber changes [11].
+Mechanical strength performance of natural ﬁber reinforced concrete is effected by the length of ﬁber,
+ﬁber concentration and orientation [46]. The excellency of natural ﬁbers reinforced concrete is mainly
+depending on the volume of ﬁber as well as on length of ﬁbers, thus different researcher has used
+different percentage of ﬁber volume and different length [47–49].
+The main objectives of this research are to ensure economic structure as well also to improve the rigidity
+of reinforced concrete pavements using natural ﬁbers. This research determines the mechanical properties of
+natural ﬁber in concrete over a certain percentage along using different lengths of ﬁbers to study the inﬂuence
+of the content of ﬁber and the length effects on the compressive strength and split tensile strength of concrete.
+2 Materials and Methods
+2.1 Cement
+The ordinary Portland cement type 1 (P.42.5) produced was used in this experiment for all mixes. It
+meets the requirement of ordinary cement ASTM C150 standard, having a speciﬁc surface area of
+346 m2/kg, and a speciﬁc gravity of 3.12 g/cm3 with the initial setting time and ﬁnal setting time of
+159 and 210 min, respectively.
+2.2 Aggregates
+The ﬁne aggregates were used dry sand in this study passed through a 4.75 mm sieve. The compacted
+and loose bulk density of ﬁne aggregates was 1688 and 1600 kg/m3, respectively. The coarse aggregates
+passed through 12.5 mm sieves and retained on a 4.75 mm sieve. The compacted and loose bulk density
+of ﬁne aggregates was 1530 and 1422 kg/m3. The aggregates used were not contained oversize or ﬂaky
+materials. They were angular, hard, and of required grade size and shall be blackish or grey.
+2.2.1 Preparation of Fibers
+Two types of ﬁbers were selected for this research, namely sisal and coir ﬁber. The coir ﬁber was selected
+from the Hainan Province of China and the sisal ﬁber was selected from the Yunnan Province of China as
+shown in Fig. 1. The available sisal and coir ﬁbers were dipped in fresh tap water for 15 to 20 min. The
+purpose of dipping is to remove the dust from the surface of the ﬁbers. After that, ﬁbers were air-dried for
+24 h, and then the thermal treatment was applied on ﬁbers, which were placed in a ventilated oven at
+150°C for 8 h and used in concrete. the thermal treatment achieved an improvement of initial crystallization
+of the cellulose to the improved strength and the resistance of the sisal ﬁber [40]. The surface treatment of
+natural ﬁber-reinforced composite can improve the performance of bonding between ﬁbers and ﬁller
+materials [50] studied the effect of mercerization (NaOH 4%), salination and heat treatment (150°C for 8 h)
+on the tensile strength in woven sisal fabric reinforced natural rubber composites. The study results showed
+that the maximum values are obtained by heat treatment composite instead of other chemical alterations.
+JRM, 2022, vol.10, no.5
+1309
+
+
+===== PAGE 4 =====
+
+Chemical composition and physical and mechanical properties of natural ﬁbers is shown in Tables 1
+and 2. respectively. In this study, the ﬁber was cut with the length of 10 mm, 20 mm, 30 mm and mixed
+with a different proportion of 0%, 0.5%, 1% and 1.5 % respectively added by mass of cement as shown
+in Table 3.
+2.2.2 Mixture Proportions and Preparation
+The specimens having a cylindrical shapes with a diameter of 100 mm and a height of 200 mm for
+determining the compressive and split tensile strength (AASHTO M 205). The concrete mix design ratio
+for cement, sand, and aggregate was kept 1:1:2 (M25) for all specimens with a 0.50 water-cement ratio.
+Clean and free of deleterious matter tap water was used in the concrete mix. A small drum mixing
+machine was used for mixing the concrete. Fine and coarse aggregates were mixed for two minutes, after
+mixing the aggregates put the cement and ﬁber and remixed for two minutes, and after adding water
+again mixed for two minutes. Finally, the concrete was cast in molds and vibrated for 180 s using an
+electric vibrating table machine to remove trapped air from the molds. All specimens were unmolded
+after 24 h of their casting and placed in a concrete automatic curing room till the age of testing.
+Table 1: Chemical composition of ﬁbers [51,52]
+Fiber type
+Cellulose (%)
+Lignin (%)
+Hemicellulose (%)
+Pectin (%)
+Wax (%)
+Sisal
+65
+9.9
+12
+-
+2
+Coir
+32–43
+40–45
+0.15–0.25
+1.8
+-
+Table 2: Physical and mechanical properties of ﬁbers [52,53]
+Fiber
+type
+Density
+(g/cm3)
+Tensile strength
+(MPa)
+Young’s modulus
+(GPa)
+Elongation on rupture
+(%)
+Sisal
+1.33
+600–700
+38
+2–3
+Coir
+1.25
+220
+6
+15–25
+Figure 1: (a) Coir ﬁbers and (b) sisal ﬁbers
+1310
+JRM, 2022, vol.10, no.5
+
+
+===== PAGE 5 =====
+
+The numeric ﬁgures along with labels show the number of samples for each specimen. All specimens of
+concrete were tested after 28 days according to ASTM C31/C31M. In Table 3. natural ﬁber is used by the
+mass of cement. PC represents a plain concrete specimen. SB, SC, and SD represent sisal ﬁber reinforced
+concrete specimens with the concentration of 0.5%, 1.0%, and 1.5% with the length of 10, 20, and
+30 mm, respectively. CB, CC, CD were labeled for coir ﬁber reinforced concrete specimens with different
+natural ﬁber concentrations of 0.5%, 1.0%, and 1.5% with the length of 10, 20, and 30 mm, respectively.
+while HB, HC, HD were labeled for hybrid (sisal/coir) ﬁber reinforced concrete specimens with different
+natural ﬁber concentrations of 0.5%, 1.0%, and 1.5% with the length of 10, 20, and 30 mm, respectively.
+2.2.3 Compressive Strength and Split Tensile Strength
+The cylindrical shape specimens were cast for compressive and split tensile strength, with a diameter of
+100 mm and a height of 200 mm for each mix of CFRP, SFRP, and HFRC. Prepared specimens for
+determining the compressive strength and split tensile were stored in a place with a minimum of 80%
+relative humidity at the temperature of 27 ± 2°C for 24 h. After that, the specimens are taken to place in
+a steam curing automatic temperature control system room with a temperature of 20 ± 2°C and a relative
+humidity of 95%. To obtain the compressive test results, the average of three specimens values was
+recorded after 28 days of casting by using the Electro-Hydraulic Pressure testing machine controlled by a
+computer with 5000 kN loading. All specimens were caped with sulphur for uniform distribution of load
+before testing. All test specimens applying load 1.2 N/(mm2/min) to 2.4 N/(mm2/min) and maintained the
+rate once adjusted until failure according to ASTM C 39. To determine the compressive strength,
+90 specimens were prepared and tested. While the same testing machine was used to perform the split
+tensile strength and a jig was used for the alignment of a specimen. The applied load without shock and
+increasing with the nominal rate from 1.2 N/(mm2/min) to 2.4 N/(mm2/min). The jig was used for the
+alignment of the concrete sample as shown in Fig. 2.
+Table 3: Specimen labeling scheme and ﬁber content
+Fiber concentration %
+Fiber length symbol
+0 mm
+10 mm
+20 mm
+30 mm
+0
+PC
+0
+-
+-
+-
+0.5
+SB
+-
+SB1
+SB2
+SB3
+1.0
+SC
+-
+SC1
+SC2
+SC3
+1.5
+SD
+-
+SD1
+SD2
+SD3
+0.5
+CB
+-
+CB1
+CB2
+SB3
+1.0
+CC
+-
+CC1
+CC2
+CC3
+1.5
+CD
+-
+CD1
+CD2
+CD3
+0.5
+HB
+-
+HB1
+HB2
+HB3
+1.0
+HC
+-
+HC1
+HC2
+HC3
+1.5
+HD
+-
+HD1
+HD2
+HD3
+JRM, 2022, vol.10, no.5
+1311
+
+
+===== PAGE 6 =====
+
+3 Results and Discussion
+3.1 Slump
+The slump test was performed to approach the workability of natural ﬁber concrete; the results show that
+due to the ﬁber water absorption, the slump was reduced by the increase of ﬁbers cement concentration. The
+addition of natural ﬁber to plane concrete can improve the stability and cohesion of the mixture, which leads
+to a decrease in the workability of the concrete [36]. Each ﬁber mix has shown different slump values. The
+plain concrete slump was 90 mm. HFRC has shown the highest slump compared to other ﬁber concrete
+mixes presented in Table 4. The concentration of 0.5% has shown a higher slump as compare to other
+natural ﬁber concentration, and with the higher concentration the slump value was decreased.
+3.2 Compressive Strength
+Compressive strength is a very important property of concrete. This research demonstrates that the
+compressive strength of concrete reinforced using sisal, coir, and hybrid of both sisal and coir has
+increased a speciﬁc percentage. Combining two or more natural ﬁbers in a mutual matrix to improve the
+mechanical properties of composite and obtain effective reinforced concrete [54–56]. Different ﬁbers are
+hybridized to improve the mechanical properties of concrete [57]. Both positive and negative results have
+been reported to add natural ﬁbers to the matrix [58–60]. It also shows a decrease in percentage in some
+samples. Three types of different ﬁbers were selected to be used including coir ﬁber and studied the
+compression behaviors of concrete by considering to use of different lengths and sizes of ﬁbers at the
+28 days of specimens are presented, as compared to PC. The decrease in strength can be attributed to the
+Figure 2: (a, b) Alignment jig was used for the specimen alignment during testing (c) Pressure testing
+machine controlled by a computer used to perform the split tensile strength
+Table 4: Slump test of natural ﬁber concrete
+Type of ﬁbers
+Slump of concrete for different ﬁber concentration (mm)
+0.5%
+1.0%
+1.5%
+PC
+90
+90
+90
+SFRC
+70
+60
+51
+CFRC
+72
+54
+49
+HFRC
+75
+63
+58
+1312
+JRM, 2022, vol.10, no.5
+
+
+===== PAGE 7 =====
+
+decrease in adhesion between ﬁber and cement slurry, which gave the results in the need for higher
+compaction energy and the required compressive strength [59,61].
+The SC1 and CC1 (both with 10 mm length and with 1% concentration) has shown the best effect on the
+compressive strength improvement of 24.86% and 33.94 respectively, as shown in Figs. 3 and 4. The SB2,
+SC2, SC3, SD3 and SD1 has also slightly increased the compressive strength up to 24.86%, 21.88%,
+21.66%, 13.39 % and 7.36 % respectively, while SD2, SB1 and SB3 have decreased the compressive
+strength of concrete by 12.17%, 10.62% and 6.02% respectively compared to PC. The results show that
+the hybrid ﬁber concrete compressive strength is slightly improved up to 35.98% by HB2 (20 mm length
+and with 0.5% concentration) as compared to PC Fig. 5. SFRC has shown fewer cracks on the concrete
+surface as compare to HFRC as shown in Fig. 6. CFRC showed the improvement in strength of CC1,
+CD3, CD1, CC2, CD2, CC3, CB1 and CB3 which slightly increased the compressive strength up to
+33.94%, 31.91%, 29.13%, 24.03%, 23.49%, 21.61% 15.45% and 11.05%, respectively, while CB2 has
+shown decrease in compressive strength of concrete by 1.64% as compared to PC shown Fig. 4.
+All mixes of hybrid reinforced concrete showed the maximum strength as compared to PC as well as
+SFRC and CFRC. HB2, HB1, HB3, HC2, HC3, HD1, HC1, HD2 and HD3 has increased the strength
+respectively up to 35.98%, 34.15%, 31.58%, 29.04%, 28.51%, 27.14%, 25.77%, 19.91% and 11.45%
+compared to PC shown Fig. 5. Natural ﬁber length as well as the ﬁber concentration has affected the
+compressive strength. The use of short ﬁber with a length of 10 mm and the concentration of 1% has
+increased the SFRC and CFRC, on another hand, the HFRC has shown the increment on different
+concentrations as compared to SFRC and CFRC. HFRC has increased the compressive strength by using
+the length of 20 mm and the concentration of 0.5%. SFRC and CFRC and shown higher improvement by
+Figure 3: Compressive strength of coir ﬁber reinforced concrete (CFRC)
+Figure 4: Compressive strength of hybrid (coir/sisal) ﬁber reinforced concrete (HFRC)
+JRM, 2022, vol.10, no.5
+1313
+
+
+===== PAGE 8 =====
+
+using 10 mm with 1% of ﬁber concentration, while HFRC has shown higher improvement by using 20 mm
+with 0.5% of ﬁber concentration. By using short ﬁber having the length of 10 mm has shown higher
+compressive strength by coir and sisal ﬁber reinforced concrete, while using hybrid ﬁber reinforced
+concrete has shown higher compressive strength by using 20 mm ﬁber length with different ﬁber
+concentrations.
+3.3 Split Tensile Strength
+Sisal and coir ﬁbers have extraordinary cellulose content that increases split tensile strength, ﬂexural and
+sensible tensile strength, and are also not expensive as compared to other natural ﬁbers [62]. Sisal ﬁber
+reinforced concrete SC3 (ﬁber content of 1.5% with the length of 20 mm) has shown the higher
+improvement in the strength up to 11.80% as shown in Fig. 7. The coir ﬁber reinforced concrete CD2
+(ﬁber content of 1.5% with the length of 20 mm) has improved up to 24.65% as shown Fig. 8. The
+hybrid ﬁber reinforced concrete HC2 (ﬁber content of 1% with the length of 20 mm) has increased split
+tensile strength up to 25.48% as shown in Fig. 9. Abass et al. [59] concluded that 1% of using SFRC has
+improved Young’s modulus split tensile strength of concrete. HFRC have shown highest improvement in
+tensile strength compared to SFRC and CFRC.
+The SC3, SC1, SB2, SC2, SB3, SB1 and SD3 has showed Increased in split tensile strength by 11.80%,
+11.51%, 10.33%, 8.19%, 3.58% and 0.74% respectively as compared to PC as shown in Fig. 6. The SFRC
+tensile strengths are not uniform lengthwise. Hence, different lengths of ﬁber has different mechanical
+properties [63]. The CFRC specimens have shown an incensement in split tensile strength of CD2, CB1,
+CD3, CD1, and CC1 with 24.65%, 10.45%, 4.27%, 2.54%, and 1.82%, respectively as compared to PC,
+as shown in Fig. 8. Some researchers also reported coir and sisal ﬁber to have a negative inﬂuence on the
+Figure 6: Examples of PC, SFRC, CFRC and HFRC after compressive tests specimens at the age of 28 days
+Figure 5: Compressive strength of hybrid (coir/sisal) ﬁber reinforced concrete (HFRC).
+1314
+JRM, 2022, vol.10, no.5
+
+
+===== PAGE 9 =====
+
+split tensile strength of CFRC [59,64,65]. The hybrid ﬁber reinforced concrete HC2, HB2, HB3, HD3, HC1,
+HC3, HD1, and HD2 has increased the split tensile strength of concrete by 25.48%, 16.02%, 12.57%,
+11.32%, 10.53%, 4.69%, and 1.94%, respectively, and HB1 has shown a decrease in the split tensile
+strength by 2.28% compared to PC as shown in Fig. 9. Natural ﬁber reinforced concrete has increased
+split tensile strength on different lengths as well as on the different volumes of ﬁber. Fig. 10. have
+presented the specimen after the test, the PC specimens have shown more ductility as compared to the
+addition of natural ﬁbers. Split tensile result has shown strength improvement by using ﬁber length of 20
+mm in CFRC and HFRC, while SFRC has shown higher split tensile strength on 30 mm length of ﬁber.
+Also, has SFRC and CFRC has shown strength improvement by using 1.5% of ﬁber concentration, while
+HFRC has shown the highest split tensile strength by using 1% ﬁber concentration.
+Figure 8: Split tensile strength of hybrid ﬁber reinforced concrete (HFRC)
+Figure 9: Split tensile strength of hybrid ﬁber reinforced concrete (HFRC).
+Figure 7: Split tensile strength of coir ﬁber reinforced concrete (CFRP)
+JRM, 2022, vol.10, no.5
+1315
+
+
+===== PAGE 10 =====
+
+4 Conclusion
+The study presented has shown that using natural ﬁber decreased the slump of concrete, while the
+increase of natural ﬁber concentration decreased the slump values by all specimens. Furthermore, the use
+of hybrid natural ﬁber has highly increased the compressive as well as split tensile strength as compare to
+the sisal and coir ﬁber reinforced. Several factors inﬂuence the mechanical properties of natural ﬁbers to
+reinforce concrete composite, such as ﬁber length, ﬁber structure, ﬁber treatment, and hybridization by
+combining different types of natural/natural ﬁbers. The best compressive strength of sisal and coir ﬁber
+was observed for 1% of ﬁber concentration and with the length of 10 mm, which increased up to 24.86%
+and 33.94%, respectively. However, the hybrid ﬁber concrete showed the best compressive strength up to
+35.98% with 20 mm length and with 0.5% concentration as compared to PC. While the split tensile
+strength was improved by most the ﬁber mixes, the best improvement of split tensile strength was shown
+by HFRC with the ﬁber content of 1% and 20 mm length up to 25.48%. However, the coir ﬁber has also
+slightly improved the split tensile strength up to 24.65% by using a ﬁber content of 1.5% with the length
+of 20 mm, whereas the sisal ﬁber has improved the split tensile results up to 11.80% by using ﬁber
+content of 1% with the length of 30 mm.
+5 Scope of the Future
+Further research is recommended to improve the mechanical properties and long-term effects of the
+approach used are recommended. For natural ﬁbers, further study is suggested to improve dynamic
+properties of natural ﬁber reinforced concrete and develop the reinforcement of recyclable ﬁbers, to
+practice more durable and environmental friendly composites materials. Finally, for waste materials, it is
+recommended to further study the long-term effect of waste ﬁbers and its use in construction materials.
+Acknowledgement: The authors thank Samantha C. Karunarathna (senior scientist) and Samiullah Khan for
+Proofreading, Nauman Khan for the ﬁber treatment, and for throughout the experiment.
+Funding Statement: This work has been supported by the Yunnan Science and Technology Major Project,
+Yunnan China under Grant No. 202002AE090010.
+Conﬂicts of Interest: The authors declare that they have no conﬂicts of interest to report regarding the
+present study.
+References
+1. da Fonseca, R. P., Rocha, J. C., Cheriaf, M. (2021). Mechanical properties of mortars reinforced with Amazon
+rainforest natural ﬁbers. Materials, 14(1), 155. DOI 10.3390/ma14010155.
+Figure 10: Examples of HFRC, CFRC, SFRC, and PC ﬁber reinforced concrete specimens after splitting
+test at the age of 28 days
+1316
+JRM, 2022, vol.10, no.5
+
+
+===== PAGE 11 =====
+
+2. Juarez, C., Duran, A., Valdez, P., Fajardo, G. (2007). Performance of “Agave lecheguilla” natural ﬁber in portland
+cement composites exposed to severe environment conditions. Building and Environment, 42(3), 1151–1157. DOI
+10.1016/j.buildenv.2005.12.005.
+3. Mahmud, S., Hasan, K. F., Jahid, M. A., Mohiuddin, K., Zhang, R. et al. (2021). Comprehensive review on
+plant ﬁber-reinforced polymeric biocomposites. Journal of Materials Science, 2021, 1–34. DOI 10.1007/
+s10853-021-05774-9.
+4. Memon, M. J., Jhatial, A. A., Murtaza, A., Raza, M. S., Phulpoto, K. B. et al. (2021). Production of eco-friendly
+concrete incorporating rice husk ash and polypropylene ﬁbres. Environmental Science and Pollution Research,
+2021, 1–17. DOI 10.1007/s11356-021-13418-3.
+5. Olivito, R. S., Cevallos, O. A., Carrozzini, A. (2014). Development of durable cementitious composites using sisal
+and ﬂax fabrics for reinforcement of masonry structures. Materials & Design, 57, 258–268. DOI 10.1016/j.
+matdes.2013.11.023.
+6. Poorsaheli, H. B., Behravan, A., Aghda, S. T. T. (2021). Durability performance of hybrid reinforced concretes
+(steel ﬁber + polyoleﬁn ﬁber) in a harsh marine tidal zone of Persian Gulf. Construction and Building
+Materials, 266, 121176. DOI 10.1016/j.conbuildmat.2020.121176.
+7. Qiao, X., Ni, S., Lu, H., Wang, X., Zhou, X. (2021). A novel method to prepare chemical ﬁbers by plasticizing
+cotton with 1-allyl-3-methylimidazolium chloride. International Journal of Biological Macromolecules, 166,
+1508–1512. DOI 10.1016/j.ijbiomac.2020.11.030.
+8. Rostami, R., Zarrebini, M., Mandegari, M., Sanginabadi, K., Mostoﬁnejad, D. et al. (2019). The effect of concrete
+alkalinity on behavior of reinforcing polyester and polypropylene ﬁbers with similar properties. Cement and
+Concrete Composites, 97, 118–124. DOI 10.1016/j.cemconcomp.2018.12.012.
+9. Rucka, M., Wojtczak, E., Knak, M., Kurpińska, M. (2021). Characterization of fracture process in polyoleﬁn ﬁbre-
+reinforced concrete using ultrasonic waves and digital image correlation. Construction and Building Materials,
+280, 122522. DOI 10.1016/j.conbuildmat.2021.122522.
+10. Suda, V. R., Sutradhar, R. (2021). Strength characteristics of micronized silica concrete with polyester ﬁbres.
+Materials Today: Proceedings, 38, 3392–3396. DOI 10.1016/j.matpr.2020.10.569.
+11. Shah, I., Jing, L., Fei, Z. M., Yuan, Y. S., Farooq, M. U. et al. (2021). A review on chemical modiﬁcation by using
+sodium hydroxide (NaOH) to investigate the mechanical properties of sisal, coir and hemp ﬁber reinforced
+concrete composites. Journal of Natural Fibers, 2021, 1–19. DOI 10.1080/15440478.2021.1875359.
+12. Silva, G., Kim, S., Aguilar, R., Nakamatsu, J. (2020). Natural ﬁbers as reinforcement additives for geopolymers–a
+review of potential eco-friendly applications to the construction industry. Sustainable Materials and Technologies,
+23, e00132. DOI 10.1016/j.susmat.2019.e00132.
+13. Pacheco-Torgal, F., Jalali, S. (2012). Earth construction: Lessons from the past for future eco-efﬁcient construction.
+Construction and Building Materials, 29, 512–519. DOI 10.1016/j.conbuildmat.2011.10.054.
+14. Matheu, P. S., Ellis, K., Varela, B. (2015). Comparing the environmental impacts of alkali activated mortar and
+traditional portland cement mortar using life cycle assessment. IOP Conference Series: Materials Science and
+Engineering. Vol. 96, No. 1, 012080. IOP Publishing. DOI 10.1088/1757-899X/96/1/012080.
+15. Asaithambi, B., Ganesan, G., Kumar, S. A. (2014). Bio-composites: Development and mechanical characterization
+of banana/sisal ﬁbre reinforced poly lactic acid (PLA) hybrid composites. Fibers and Polymers, 15(4), 847–854.
+DOI 10.1007/s12221-014-0847-y.
+16. Pandey, J. K., Ahn, S. H., Lee, C. S., Mohanty, A. K., Misra, M. et al. (2010). Recent advances in the application of
+natural ﬁber based composites. Macromolecular Materials and Engineering, 295(11), 975–989. DOI 10.1002/
+mame.201000095.
+17. Shen, X., Jia, J., Chen, C., Li, Y., Kim, J. K. et al. (2014). Enhancement of mechanical properties of natural ﬁber
+composites via carbon nanotube addition. Journal of Materials Science, 49(8), 3225–3233. DOI 10.1007/s10853-
+014-8027-4.
+18. Chen, X., Gu, S. Y., Ren, J. (2014). Research progress on processing of PLA/natural ﬁber composites. Engineering
+plastics application, pp. 9. Beijing: China Academic Journal Electronic Publishing House.
+JRM, 2022, vol.10, no.5
+1317
+
+
+===== PAGE 12 =====
+
+19. Cevallos, O. A., Olivito, R. S. (2015). Effects of fabric parameters on the tensile behaviour of sustainable
+cementitious composites. Composites Part B: Engineering, 69, 256–266. DOI 10.1016/j.compositesb.2014.
+10.004.
+20. Hakamy, A., Shaikh, F. U. A., Low, I. M. (2014). Characteristics of hemp fabric reinforced nanoclay–cement
+nanocomposites. Cement and Concrete Composites, 50, 27–35. DOI 10.1016/j.cemconcomp.2014.03.002.
+21. Kumar, K. S., Siva, I., Rajini, N., Jappes, J. W., Amico, S. C. (2016). Layering pattern effects on vibrational
+behavior of coconut sheath/banana ﬁber hybrid composites. Materials & Design, 90, 795–803. DOI 10.1016/j.
+matdes.2015.11.051.
+22. Shibata, S., Cao, Y., Fukumoto, I. (2005). Press forming of short natural ﬁber-reinforced biodegradable resin:
+Effects of ﬁber volume and length on ﬂexural properties. Polymer Testing, 24(8), 1005–1011. DOI 10.1016/j.
+polymertesting.2005.07.012.
+23. Lertwattanaruk, P., Suntijitto, A. (2015). Properties of natural ﬁber cement materials containing coconut coir and
+oil palm ﬁbers for residential building applications. Construction and Building Materials, 94, 664–669. DOI
+10.1016/j.conbuildmat.2015.07.154.
+24. Liew, K. M., Sojobi, A. O., Zhang, L. W. (2017). Green concrete: Prospects and challenges. Construction and
+Building Materials, 156, 1063–1095. DOI 10.1016/j.conbuildmat.2017.09.008.
+25. Wang, W., Zhang, T., Chouw, N., Li, Z., Xu, Z. (2020). Dynamic compressive behaviour of coconut ﬁbre-
+reinforced
+concrete
+composite.
+Magazine
+of
+Concrete
+Research,
+72(21),
+1125–1134.
+DOI
+10.1680/
+jmacr.18.00578.
+26. Haseena, A. P., Dasan, K. P., Unnikrishnan, G., Thomas, S. (2005). Mechanical properties of sisal/coir hybrid ﬁbre
+reinforced natural rubber. Progress in Rubber Plastics and Recycling Technology, 21(3), 155–181. DOI 10.1177/
+2F147776060502100301.
+27. Panthapulakkal, S., Raghunanan, L., Sain, M., Kc, B., Tjong, J. et al. (2017). Natural ﬁber and hybrid ﬁber
+thermoplastic composites: Advancements in lightweighting applications. Green composites. pp. 39–72.
+Woodhead Publishing, Sawston, United Kingdom. DOI 10.1016/B978-0-08-100783-9.00003-4.
+28. Rajak, D. K., Pagar, D. D., Menezes, P. L., Linul, E. (2019). Fiber-reinforced polymer composites: Manufacturing,
+properties, and applications. Polymers, 11(10), 1667. DOI 10.3390/polym11101667.
+29. Saba, N., Paridah, M. T., Abdan, K., Ibrahim, N. A. (2016). Effect of oil palm nano ﬁller on mechanical
+and morphological properties of kenaf reinforced epoxy composites. Construction and Building Materials, 123,
+15–26. DOI 10.1016/j.conbuildmat.2016.06.131.
+30. Senthilkumar, K., Saba, N., Rajini, N., Chandrasekar, M., Jawaid, M. et al. (2018). Mechanical properties
+evaluation of sisal ﬁbre reinforced polymer composites: A review. Construction and Building Materials, 174,
+713–729. DOI 10.1016/j.conbuildmat.2018.04.143.
+31. Jacob, M., Thomas, S., Varughese, K. T. (2004). Mechanical properties of sisal/oil palm hybrid ﬁber reinforced
+natural rubber composites. Composites Science and Technology, 64(7–8), 955–965. DOI 10.1016/S0266-3538
+(03)00261-6.
+32. Sathishkumar, T. P., Navaneethakrishnan, P., Shankar, S., Kumar, J. (2013). Mechanical properties of randomly
+oriented snake grass ﬁber with banana and coir ﬁber-reinforced hybrid composites. Journal of Composite
+Materials, 47(18), 2181–2191. DOI 10.1177/2F0021998312454903.
+33. Venkata Reddy, G., Venkata Naidu, S., Shobha Rani, T. (2009). A study on hardness and ﬂexural properties of
+kapok/sisal composites. Journal of Reinforced Plastics and Composites, 28(16), 2035–2044. DOI 10.1177/
+2F0731684408091682.
+34. Idicula, M., Malhotra, S. K., Joseph, K., Thomas, S. (2005). Dynamic mechanical analysis of randomly oriented
+intimately mixed short banana/sisal hybrid ﬁbre reinforced polyester composites. Composites Science and
+Technology, 65(7–8), 1077–1087. DOI 10.1016/j.compscitech.2004.10.023.
+35. Ahamed, M. S., Ravichandran, P., Krishnaraja, A. R. (2021). Natural ﬁbers in concrete–A review. IOP Conference
+Series: Materials Science and Engineering, Vol. 1055, No. 1, 012038. IOP Publishing, Erode, India. DOI 10.1088/
+1757-899X/1055/1/012038.
+1318
+JRM, 2022, vol.10, no.5
+
+
+===== PAGE 13 =====
+
+36. Fadhil, S., Yaseen, M. (2015). The effect of adding different types of natural ﬁbers on mechanical properties and
+impact resistance of concrete. Research Journal of Applied Sciences, Engineering and Technology, 9(12), 1091–
+1096. DOI 20407467-201504-201506220037-201506220037-1091-1096.
+37. Sivaraja, M., Velmani, N., Pillai, M. S. (2010). Study on durability of natural ﬁbre concrete composites using
+mechanical strength and microstructural properties. Bulletin of Materials Science, 33(6), 719–729. DOI
+10.1007/s12034-011-0149-6.
+38. Izquierdo, I. S., Izquierdo, O. S., Ramalho, M. A., Taliercio, A. (2017). Sisal ﬁber reinforced hollow concrete
+blocks for structural applications: Testing and modeling. Construction and Building Materials, 151, 98–112.
+DOI 10.1016/j.conbuildmat.2017.06.072.
+39. El-Nadoury, W. W. (2020). Applicability of using natural ﬁbers for reinforcing concrete. IOP Conference Series:
+Materials Science and Engineering, Vol. 809, No. 1, 012018. IOP Publishing, Lisbon, Portugal. DOI 10.1088/
+1757-899X/809/1/012018.
+40. Wei, J., Meyer, C. (2014). Improving degradation resistance of sisal ﬁber in concrete through ﬁber surface
+treatment. Applied Surface Science, 289, 511–523. DOI 10.1016/j.apsusc.2013.11.024.
+41. Prabhu, L., Krishnaraj, V., Sathish, S., Gokulkumar, S., Karthi, N. et al. (2021). A review on natural ﬁber
+reinforced hybrid composites: Chemical treatments, manufacturing methods and potential applications.
+Materials Today: Proceedings. DOI 10.1016/j.matpr.2021.01.280.
+42. Thomas, B. C., Jose, Y. S. (2019). Impact of sisal ﬁber reinforced concrete and its performance analysis: A review.
+Evolutionary Intelligence, 2019, 1–11. DOI 10.1007/s12065-019-00230-9.
+43. dos Santos, F. M., de Souza, T. F., Barquete, D. M., Amado, F. D. (2016). Comparative analysis of the sisal and
+piassava ﬁbers as reinforcements in lightweight cementitious composites with EVA waste. Construction and
+Building Materials, 128, 315–323. DOI 10.1016/j.conbuildmat.2016.10.035.
+44. Prakash, R., Thenmozhi, R., Raman, S. N., Subramanian, C., Divyah, N. et al. (2021). Mechanical characterisation
+of sustainable ﬁbre-reinforced lightweight concrete incorporating waste coconut shell as coarse aggregate and sisal
+ﬁbre. International Journal of Environmental Science and Technology, 18(6), 1579–1590. DOI 10.1007/s13762-
+020-02900-z.
+45. Agopyan, V., Savastano Jr, H., John, V. M., Cincotto, M. A. (2005). Developments on vegetable ﬁbre–cement
+based materials in São paulo, Brazil: An overview. Cement and Concrete Composites, 27(5), 527–536. DOI
+10.1016/j.cemconcomp.2004.09.004.
+46. Callister, W. D., Rethwisch, J. D. G. (2007). Materials science and engineering, an introduction. New York, USA:
+John Wiley & Sons. Inc.
+47. Cichocki Jr, F. R., Thomason, J. L. (2002). Thermoelastic anisotropy of a natural ﬁber. Composites Science and
+Technology, 62(5), 669–678. DOI 10.1016/S0266-3538(02)00011-8.
+48. Verma, D., Gope, P. C., Shandilya, A., Gupta, A., Maheshwari, M. K. et al. (2013). Coir ﬁbre reinforcement and
+application in polymer composites. Journal of Materials and Environmental Science, 4(2), 263–276.
+49. Zakaria, M., Ahmed, M., Hoque, M. M., Islam, S. (2017). Scope of using jute ﬁber for the reinforcement of
+concrete material. Textiles and Clothing Sustainability, 2(1), 1–10. DOI 10.1186/s40689-016-0022-5.
+50. Jacob, M., Thomas, S., Varughese, K. T. (2006). Novel woven sisal fabric reinforced natural rubber composites:
+Tensile and swelling characteristics. Journal of Composite Materials, 40(16), 1471–1485. DOI 10.1177/
+0021998306059731.
+51. Chandrasekar, M., Ishak, M. R., Sapuan, S. M., Leman, Z. et al. (2017). A review on the characterisation of natural
+ﬁbres and their composites after alkali treatment and water absorption. Plastics, Rubber and Composites, 46(3),
+119–136. DOI 10.1080/14658011.2017.1298550.
+52. Mohammed, L., Ansari, M. N., Pua, G., Jawaid, M., Islam, M. S. et al. (2015). A review on natural ﬁber reinforced
+polymer composite and its applications. International Journal of Polymer Science, 2015(1–15). DOI 10.1155/
+2015/243947.
+53. Jawaid, M. H. P. S., Khalil, H. A. (2011). Cellulosic/synthetic ﬁbre reinforced polymer hybrid composites: A
+review. Carbohydrate Polymers, 86(1), 1–18. DOI 10.1016/j.carbpol.2011.04.043.
+JRM, 2022, vol.10, no.5
+1319
+
+
+===== PAGE 14 =====
+
+54. Pothan, L. A., George, C. N., John, M. J., Thomas, S. (2010). Dynamic mechanical and dielectric behavior of
+banana-glass hybrid ﬁber reinforced polyester composites. Journal of Reinforced Plastics and Composites,
+29(8), 1131–1145. DOI 10.1177/0731684409103075.
+55. Saba, N., Paridah, M. T., Abdan, K., Ibrahim, N. A. (2016). Dynamic mechanical properties of oil palm nano ﬁller/
+kenaf/epoxy hybrid nanocomposites. Construction and Building Materials, 124, 133–138. DOI 10.1016/j.
+conbuildmat.2016.07.059.
+56. Sreekala, M. S., George, J., Kumaran, M. G., Thomas, S. (2002). The mechanical performance of hybrid phenol-
+formaldehyde-based composites reinforced with glass and oil palm ﬁbres. Composites Science and Technology,
+62(3), 339–353. DOI 10.1016/S0266-3538(01)00219-6.
+57. Kalaprasad, G., Joseph, K., Thomas, S. (1997). Inﬂuence of short glass ﬁber addition on the mechanical properties
+of sisal reinforced low density polyethylene composites. Journal of Composite Materials, 31(5), 509–527. DOI
+10.1177/002199839703100504.
+58. Fujiyama, R., Darwish, F., Pereira, M. (2013). Mechanical characterization of sisal ﬁber reinforced cement mortar.
+Proceedings of the 13th International Conference on Fracture, pp. 16–21, Beijing, China. DOI 10.1063/
+2.1406102.
+59. Okeola, A. A., Abuodha, S. O., Mwero, J. (2018). Experimental investigation of the physical and mechanical
+properties of sisal ﬁber-reinforced concrete. Fibers, 6(3), 53. DOI 10.3390/ﬁb6030053.
+60. Wei, J., Meyer, C. (2015). Degradation mechanisms of natural ﬁber in the matrix of cement composites. Cement
+and Concrete Research, 73, 1–16. DOI 10.1016/j.cemconres.2015.02.019.
+61. Zwawi, M. (2021). A review on natural ﬁber Bio-composites, surface modiﬁcations and applications. Molecules,
+26(2), 404. DOI 10.3390/molecules26020404.
+62. Müssig, J., Fischer, H., Graupner, N., Drieling, A. (2010). Testing methods for measuring physical and mechanical
+ﬁbre properties (plant and animal ﬁbres). Industrial applications of natural ﬁbres: Structure, properties and
+technical
+applications,
+pp.
+267–309.
+John
+Wiley
+&
+Sons,
+Ltd.,
+New
+York,
+USA.
+DOI
+10.1002/
+9780470660324.ch13.
+63. Li, Y., Mai, Y. W., Ye, L. (2000). Sisal ﬁbre and its composites: A review of recent developments. Composites
+Science and Technology, 60(11), 2037–2055. DOI 10.1016/S0266-3538(00)00101-9.
+64. Tolêdo, R. D., Joseph, K., Ghavami, K., England, G. L. (1999). The use of sisal ﬁbre as reinforcement in cement
+based composites. Revista Brasileira de Engenharia Agrícola e Ambiental, 3, 245–256. DOI 10.1590/1807-1929/
+agriambi.v3n2p245-256.
+65. Ranalli, P. (1999). Agronomical and physiological advances in hemp crops. Advances in hemp research, pp. 61–
+84. eBook:ISBN9780429076268.
+1320
+JRM, 2022, vol.10, no.5

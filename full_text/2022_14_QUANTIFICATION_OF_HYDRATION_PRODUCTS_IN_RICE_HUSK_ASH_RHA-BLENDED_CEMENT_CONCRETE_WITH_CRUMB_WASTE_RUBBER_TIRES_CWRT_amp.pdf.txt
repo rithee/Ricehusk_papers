@@ -1,0 +1,964 @@
+
+===== PAGE 1 =====
+
+126 
+ 
+QUANTIFICATION OF HYDRATION PRODUCTS IN RICE HUSK 
+ASH (RHA)-BLENDED CEMENT CONCRETE WITH CRUMB 
+WASTE RUBBER TIRES (CWRT) & ITS CORRELATION WITH 
+MECHANICAL PERFORMANCE 
+*John Mark David1, Richard M. De Jesus1 and Rodolfo P. Mendoza Jr.1 
+1Department of Civil Engineering, Gokongwei College of Engineering, De La Salle University, Philippines 
+*Corresponding Author, Received: 01 Aug. 2022, Revised: 07 Sept. 2022, Accepted: 20 Oct. 2022 
+ 
+ABSTRACT: Previous studies on the use of rice husk ash (RHA) as a replacement of cement focused on 
+attributing the strength enhancements in mechanical strength in hardened concrete to its pozzolanic reactivity. 
+Investigation of the pozzolanic reaction RHA in terms of cement hydration has yet to be examined. This study 
+intended to assess the pozzolanic activity of RHA by quantification of calcium hydroxide (CH) and calcium 
+silicate hydrate (C-S-H) gel in RHA-blended cement pastes using simultaneous thermogravimetric and 
+differential-thermal analysis (TG-DTA). Moreover, the application of crumb waste rubber tire (CWRT) in 
+concrete as fine aggregate replacement is known to reduce mechanical strength. Thus, the pozzolanic reaction 
+of RHA compensating the strength loss by CWRT was also investigated. Two types of RHA, from open-air 
+burning (RHA-O) and thermal power plant (RHA-T), were used in casting cement pastes and mortars with 0%, 
+7.5%, 12.5%, and 17.5% replacement of cement (by weight). Finally, concrete with fixed optimal RHA and 
+5%, 10%, and 15% CWRT (by volume) were tested for compression and splitting tensile strength. Results from 
+TG-DTA revealed reductions in quantified CH contents and increase in C-S-H gel contents in cement pastes 
+with RHA indicating pozzolanic reaction. Decreasing CH content corresponded to increasing compressive 
+strength highlighting the strength enhancement by pozzolanic activity, optimal at 17.5% using RHA-O. For 
+concrete, results showed that incorporating 17.5% RHA-O and 5% CWRT provided comparable compressive 
+strength and higher splitting tensile strength than normal concrete, signifying the compensation of strength loss 
+of CWRT by RHA. 
+  
+Keywords: Rice husk ash, Pozzolanic effect, Thermogravimetric analysis, Hydration product, Crumb rubber 
+ 
+ 
+1. INTRODUCTION 
+ 
+Concrete remains the single most widely used 
+material in the world. Production of cement 
+contributes to about five percent of the global 
+carbon dioxide (CO2) production due to human 
+activities [1]. One of the waste materials that have 
+been investigated to be an effective supplementary 
+cementitious material is rice husk ash (RHA). 
+Combustion of rice husk to run milling processes 
+will produce a huge amount of RHA, usually 
+dumped on bodies of water that cause pollution and 
+contamination [2]. RHA is described to have high 
+silica (SiO2) content ranging from 85% to 90% [3] 
+making it very reactive and pozzolanic. Amorphous 
+silica is highly reactive whereas crystalline silica 
+has no pozzolanic activity [4].  
+Notable increase in mechanical strength has 
+been observed in mortars and concrete with 
+replacements of cement with RHA [3], [5]. The 
+pozzolanic effect of RHA happens when the excess 
+calcium hydroxide (CH) from the hydration of 
+cement reacts with silica (SiO2) of RHA to form 
+additional calcium silicate hydrate (C-S-H) gel. The 
+C-S-H gel is considered as the main carrier of 
+strength in a hardened concrete hence increasing its 
+overall mechanical strength [6].  
+     Considering the abundant research on the effect 
+of RHA on the mechanical strength, the mechanism 
+of pozzolanic reaction by RHA in blended mortar 
+and concrete has yet to be studied. Therefore, one 
+of the main objectives of the study is to evaluate the 
+pozzolanic 
+activity 
+of 
+RHA 
+through 
+the 
+quantification of hydration products. Simultaneous 
+thermogravimetric and differential-thermal analysis 
+(TG-DTA) has been considered as the easiest and 
+most widely used methodology for the analysis of 
+hydration reactions in cementitious pastes [7]. In 
+this method, thermogravimetric analysis (TGA) 
+monitors the weight of the sample upon heating to 
+a constant rate while differential-thermal analysis 
+(DTA) detects the temperature at which the 
+reactions in the sample occur manifested by peaks 
+in the curve.  
+     The 
+hydration 
+products 
+have 
+unique 
+decomposition temperatures. This allows the 
+determination of their quantities based on the mass 
+losses 
+associated 
+with 
+the 
+decomposition 
+temperatures. For C-S-H gel, the temperature of 
+decomposition ranges from 110°C to 400°C [7] 
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+ISSN: 2186-2982 (P), 2186-2990 (O), Japan, DOI: https://doi.org/10.21660/2022.99.s8603 
+Geotechnique, Construction Materials and Environment 
+
+
+===== PAGE 2 =====
+
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+127 
+ 
+whereas for CH, the decomposition ranges from 
+400°C to 600°C [8]. Using this method, reduction 
+in the quantity of CH can be indicative of reaction 
+with SiO2 from RHA while increase in C-S--H can 
+be associated with the production of secondary C-
+S-H gel.  
+     Another potential material replacement in the 
+concrete mix is the crumb waste rubber tire 
+(CWRT) as fine aggregates. Although the addition 
+of CWRT reduces strength [9], the increase in 
+strength provided by the pozzolanic reaction of 
+RHA can compensate for this lack.  
+In this paper, two types of RHA will be 
+examined: RHA from open-air burning (RHA-O) 
+and RHA from a thermal plant (RHA-T). Using TG-
+DTA, C-S-H and CH contents from the hydration of 
+RHA-blended cement pastes will be quantified and 
+correlated to the compressive strength of mortar 
+with and without RHA to evaluate strength 
+improvement in relation to pozzolanic effect. The 
+final output of this study is a blended concrete with 
+optimal amount of RHA and CWRT.  
+ 
+2. RESEARCH SIGNIFICANCE 
+ 
+There are very limited studies on the pozzolanic 
+effect of RHA through hydration of RHA-cement 
+paste, as well as the combined effect of RHA and 
+CWRT in concrete. This research provides an 
+understanding on the mechanism for strength 
+development of these waste materials in hardened 
+concrete. Likewise, RHA-CWRT concrete is a 
+viable for commercial use in the future such as for 
+structural applications or an alternative to the 
+conventional concrete pavements for use in roads 
+and bridge decks. Aside from the environmental 
+benefits, the application of rubber for pavement can 
+give a concrete alternative with unique mechanical 
+and dynamic properties. 
+ 
+3. THEORETICAL BACKGROUND  
+ 
+3.1 Hydration of Portland Cement With RHA 
+ 
+     The hydration of C3S and C2S in Portland 
+cement produces CH and C-S-H gel in the form 
+C1.7SH4 where: C = CaO, S = SiO2 and H = H2O 
+[10]. The reaction of amorphous silica (SiO2) in 
+RHA with the excess CH from the hydration of 
+Portland cement forms another type of C-S-H given 
+by the formula [11]:   
+ 
+2S + 3CH + H → 2C1.5SH2.                                  (1)                                      
+ 
+3.2 Quantification of Hydration Products By 
+TG-DTA 
+  
+Various authors have observed the following 
+decomposition reactions that occur in cement pastes 
+upon heating during TG-DTA: a) 30 °C to 105 °C: 
+dehydration of evaporable water [12], b) 110 °C to 
+400 °C: dehydration or loss of chemically bound 
+water from C-S-H molecules [7], c) 400 °C to 
+600 °C: dehydroxylation of CH [8] following the 
+reaction: 
+ 
+Ca(OH)2 → CaO + H2O                                      (2) 
+ 
+and d) 600 °C to 1100 °C: decarbonation (loss of 
+carbon dioxide) in CaCO3 [10] based from the 
+reaction: 
+ 
+CaCO3 → CaO + CO2                                         (3)                             
+ 
+The amount of CH can be estimated using [10]: 
+  
+CH (%) = CHloss · 
+MW (CH)
+MW (H)                                   (4) 
+  
+where CH (%) is the percentage amount of CH, 
+CHloss is the mass loss in percentage due to 
+dehydroxylation of CH, and MW (CH) and MW (H) 
+are the molecular weights of CH and water, 
+respectively. Calcium silicate hydrate (C-S-H) gel 
+content can be computed using the equation [7]: 
+  
+C-S-H (%) = C-S-Hloss · 
+MW (C-S-H)
+Moles of water · MW (H)        (5) 
+  
+where C-S-H (%) is the percentage amount of C-S-
+H, C-S-Hloss is the mass loss in percentage due to 
+dehydration of C-S-H gel between 110°C - 400°C 
+and MW (C-S-H) and MW (H) are the molecular 
+weights of C-S-H gel and water, respectively. 
+ 
+4. METHODOLOGY 
+ 
+4.1 Preparation of RHA 
+  
+The burning of rice husks was performed in an 
+open area using a cylindrical hollow steel plate. The 
+fire was maintained for one hour without 
+controlling the combustion temperature and cooled 
+for 24 hours. Two types of RHA were utilized in 
+this study: (a) RHA from open-air burning (RHA-
+O) and (b) RHA from a thermal plant (RHA-T). 
+Both RHA were further ground using Los Angeles 
+Abrasion machine to attain the required fineness of 
+ASTM C618. 
+ 
+4.2 Characterization of OPC and RHA 
+  
+Characterization of OPC and RHA were 
+conducted as follows: a) Blaine Air-Permeability 
+Test (ASTM C204) and No. 325 mesh fineness test 
+(ASTM C430) for fineness, b) Scanning Electron 
+Microscope (SEM) Imaging using JEOL JSM-5310 
+for 
+microstructure, 
+c) 
+X-ray 
+fluorescence 
+spectrometry (XRF) for chemical compositions and 
+
+
+===== PAGE 3 =====
+
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+128 
+ 
+d) 
+X-ray 
+Diffraction 
+(XRD) 
+analysis 
+for 
+crystallinity. The degree of crystallinity (DOC) of 
+silica in each RHA was estimated using Eq. (6) 
+based on areas of crystalline peaks and residual area 
+in the diffraction curve attributed to the area of 
+amorphous peaks [13]: 
+  
+DOC(%)=100×
+Crystalline area
+Crystalline area + Amorphous area    (6) 
+  
+The weight fraction of amorphous silica is given by: 
+  
+Wamorphous (%)  = 100× (1-DOC)                            (7) 
+  
+4.3 
+Thermogravimetric 
+and 
+Differential-
+Thermal Analysis (TG-DTA) of RHA Cement 
+Pastes 
+  
+Two sets of cement pastes were prepared with 
+RHA-O and RHA-T, at levels of replacement of 
+pure cement equal to 0%, 7.5%, 12.5% and 17.5% 
+(Table 1). All pastes were mixed following ASTM 
+C305, casted into plastic jars (Ø30mm) with 10 mm 
+height and stored in a water bath 24 hours after 
+casting. 
+All hardened cement pastes cured for 120 days 
+were dried in an oven at 105 °C for at least 24 hours, 
+pulverized using mortar and pestle, and then sieved 
+using 
+No. 
+200 
+sieve. 
+Simultaneous 
+thermogravimetric and differential-thermal analysis 
+(TG-DTA) was performed using Perkin Elmer 
+Simultaneous Thermal Analyzer (STA) 6000 
+available in Advanced Device and Materials 
+Testing 
+Laboratory 
+(DOST-ADMATEL). 
+Approximately 20 mg of each powdered sample 
+was weighed and filled in a platinum crucible. The 
+heating program was set in the following manner: 
+(a) heat from 30 to 995 °C at 10 °C per min and (b) 
+hold for 5 min at 995 °C. All samples were heated 
+in Nitrogen gas atmosphere. 
+Quantification of CH and C-S-H contents in 
+pure and blended cement paste samples were based 
+on the proposed methods from previous works [7], 
+[8] calculated using Eq. (4) and (5), respectively. 
+ 
+Table 1 Mix proportion of pure Portland cement and 
+RHA-cement pastes 
+ 
+Mix 
+Design 
+Material 
+  
+Cement, 
+g 
+RHA, g 
+Water, 
+mL 
+RHA-
+O 
+RHA-
+T 
+CP 
+100 
+0 
+0 
+48.5 
+7.5PO 
+92.5 
+7.5 
+- 
+48.5 
+12.5PO 
+87.5 
+12.5 
+- 
+48.5 
+17.5PO 
+82.5 
+17.5 
+- 
+48.5 
+7.5PT 
+92.5 
+- 
+7.5 
+48.5 
+12.5PT 
+87.5 
+- 
+12.5 
+48.5 
+17.5PT 
+82.5 
+- 
+17.5 
+48.5 
+  
+4.4 Mortar Mix Proportioning and Testing 
+  
+Mortar cubes having 50 mm edge with 7.5%, 
+12.5% and 17.5% cement replacement (by weight) 
+by each RHA type (RHA-O and RHA-T) were 
+made using ASTM C109 and mixing per ASTM 
+C305 as shown in Table 2. Mortar fragments were 
+subjected to SEM imaging after testing. 
+ 
+Table 2 Mixture proportion of 6-cube batch RHA 
+mortars 
+ 
+Mix 
+Design 
+Material 
+Cement, 
+g 
+RHA, g 
+Sand, 
+g 
+Water, 
+mL 
+RHA
+-O 
+RHA-
+T 
+CM 
+500 
+0 
+- 
+1375 
+242 
+7.5MO 
+462.5 
+37.5 
+- 
+1375 
+242 
+12.5MO 
+437.5 
+62.5 
+- 
+1375 
+242 
+17.5MO 
+412.5 
+87.5 
+- 
+1375 
+242 
+7.5MT 
+462.5 
+- 
+37.5 
+1375 
+242 
+12.5MT 
+437.5 
+- 
+62.5 
+1375 
+242 
+17.5MT 
+412.5 
+- 
+87.5 
+1375 
+242 
+ 
+4.5 Concrete Mix Proportioning and Testing 
+  
+From the compression test on RHA mortars, the 
+most optimal RHA type is RHA-O at 17.5% cement 
+replacement. Concrete cylinders were prepared at 
+fixed 17.5% RHA-O with CWRT at replacement 
+levels 5%, 10% and 15% by volume. Mix 
+proportioning per 1m3 of each batch in Table 3 was 
+formulated according to ACI 211.1 at w/c equal to 
+0.5. Three replicates of Ø100mm×200mm cylinders 
+were tested for compression and splitting tensile 
+strength after 28 days as per ASTM C39 and ASTM 
+C496, respectively. 
+ 
+5. RESULTS AND DISCUSSION 
+ 
+5.1 Properties of RHA and OPC 
+ 
+5.1.1 Chemical composition 
+Both RHA-O and RHA-T manifested high silica 
+(SiO2) contents equal to 93.38% and 82.73%, 
+respectively, as shown in Table 4. Jamil et al. [11] 
+demonstrated that amorphous silica from RHA 
+reacts with CH from cement hydration process to 
+form secondary C-S-H gel. 
+  
+5.1.2 Crystallinity of silica in RHA 
+     The silica phase of RHA-T is partly crystalline 
+and partly amorphous due to narrow peaks at around 
+21.8° at the top of a broad peak between 10° and 
+28° and another at 29.4° as shown in Fig. 1. These 
+sharp peaks are indicative of crystalline silica while 
+the broad peak is attributed to amorphous silica. The 
+broad smooth hump between 10° and 30° of RHA-
+O indicated amorphous silica content. From the 
+DOC method, RHA-O and RHA-T contained  
+
+
+===== PAGE 4 =====
+
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+129 
+ 
+Table 3 Mixture proportion of concrete cylinders with RHA and CWRT in kg for 1 m3 concrete production. 
+ 
+Mix 
+RHA (%) 
+CWRT (%) 
+Cement 
+RHA 
+FAa 
+CWRT 
+CAb 
+Water 
+R0C0 
+0 
+0 
+418 
+0 
+779 
+0 
+1151 
+241 
+R0C10 
+0 
+10 
+418 
+0 
+701 
+38 
+1151 
+241 
+R17.5C0 
+17.5 
+0 
+345 
+73 
+779 
+0 
+1151 
+241 
+R17.5C5 
+17.5 
+5 
+345 
+73 
+740 
+19 
+1151 
+241 
+R17.5C10 
+17.5 
+10 
+345 
+73 
+701 
+38 
+1151 
+241 
+R17.5C15 
+17.5 
+15 
+345 
+73 
+662 
+57 
+1151 
+241 
+Note:   a fine aggregate, b coarse aggregate 
+ 
+       
+ 
+  
+ 
+Fig. 2     TG-DTA results for RHA-O cement pastes: (a) TG-DTA curve and (b) DTG curve 
+ 
+90.91% and 76.18% amorphous silica, respectively. 
+Hence, it can be concluded that RHA-O will be 
+more reactive than RHA-T since it has more 
+amorphous silica content. 
+ 
+Table 4 Chemical composition of RHA-O, RHA-T 
+and OPC 
+ 
+Chemical analysis (%) 
+RHA-O 
+RHA-T 
+OPC 
+Silicon Dioxide (SiO2) 
+93.38 
+82.73 
+16 
+Aluminum Oxide (Al2O3) 
+- 
+- 
+3.69 
+Ferric oxide (Fe2O3) 
+1.35 
+1.1 
+2.93 
+Calcium oxide (CaO) 
+1.65 
+11.22 
+67.6 
+Moisture content (%) 
+0.36 
+0.29 
+- 
+ 
+ 
+ 
+ 
+Fig. 1     XRD pattern of RHA-O and RHA-T 
+ 
+5.2 Thermogravimetric Analysis of Cement 
+Pastes 
+  
+Figures 
+2a 
+show 
+the 
+profiles 
+of 
+thermogravimetric (TG) curves of 120-day cement 
+pastes with RHA-O typical to cement pastes with 
+RHA-T where gradual weight loss with increasing 
+heating temperature can be observed. Differential 
+Thermal (DTA) curves are also presented in the 
+figure showing the temperatures at which reactions 
+in the samples occur. 
+ 
+5.2.1 Thermogravimetric curves 
+     From the DTG curves in Fig. 2b, four zones were 
+defined where the sharp peaks occurred for all 
+samples. Zone 1 is the first mass loss step 
+corresponding to dehydration or loss of evaporable 
+water [12]. Zone 2 characterizes the dehydration or 
+loss of chemically bound water from C-S-H 
+molecules [7]. Zone 3 indicates the dehydroxylation 
+of calcium hydroxide (CH) [7]. Lastly, Zone 4 is 
+associated with the decarbonation of calcium 
+carbonate or calcite (CaCO3) [8]. The temperature 
+of peaks and decompositions for all cement pastes 
+did not vary significantly thus no major change in 
+phase chemistry of the products. 
+ 
+5.2.2 Calcium silicate hydrate (C-S-H) content 
+The formation of C-S-H gel with chemical 
+composition 1.7CaO·SiO2 ·4H2O for cement pastes 
+with pure Portland cement [10] and 2Ca1.5SiO3.5 
+(a) 
+(b) 
+
+
+===== PAGE 5 =====
+
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+130 
+ 
+·2H2O for RHA-blended cement pastes [11] were 
+considered for its quantification by TG-DTA. 
+Figure 3 presents the computed C-S-H gel from 120 
+days of hydration with mass loss from 110 °C to 
+400 °C. The formation of C-S-H gel increased from 
+22.37% in CP (control) to 33.09%, 32.06% and 
+29.54% with 7.5PO, 12.5PO, and 17.5PO, 
+respectively. Similarly, the C-S-H content in 7.5PT, 
+12.5PT, and 17.5PT increased by 31.82%, 29.89% 
+and 30.14%, respectively. However, C-S-H gel 
+does not vary significantly with the replacement 
+level of RHA. 
+It can be inferred that the addition of both RHA 
+types as cement replacement can cause a significant 
+increase in the C-S-H content. The mechanism of 
+C-S-H increase can be explained by the pozzolanic 
+activity of RHA where secondary C-S-H is 
+produced from the consumption of CH from 
+Portland cement hydration [11]. For cement pastes 
+with RHA-O, the amount of C-S-H is higher than 
+pastes with RHA-T except at 17.5% replacement. 
+This is due to higher amorphous silica content and 
+higher fineness of RHA-O as compared to RHA-T. 
+  
+5.2.3 Calcium hydroxide (CH) content 
+The quantity of CH in cement pastes was 
+calculated from the mass loss from 400°C to 500°C 
+as shown in Fig. 3. The amount of CH decreased 
+from 16.22% in CP to 10.32%, 8.73%, and 7.35% 
+for 7.5PO, 12.5PO and 17.5PO, respectively. The 
+same trend was observed for cement pastes with 
+RHA-T where CH content diminished to 10.43%, 
+8.30% and 7.89% for 7.5PT, 12.5PT and 17.5PT, 
+respectively. Further, CH in blended cement 
+decreases with increasing RHA content. Between 
+RHA-O and RHA-T at same level of replacement, 
+CH content does not vary significantly.  
+ 
+     The reduction in the CH content confirmed the 
+pozzolanic activity of RHA-O and RHA-T. This is 
+consistent with the results of the quantification of 
+C- S-H gel where cement pastes with RHA 
+exhibited more C-S-H gel content than with plain 
+Portland cement. Boualleg et al. [14] reported that 
+as the hydration of pure cement progresses, 
+portlandite ions (Ca++ and OH-) are released and 
+captured by the pozzolan to form a new type of C-
+S-H gel. Based on the results, the reduction of CH 
+is greatest in cement paste with 17.5% RHA-O 
+(17.5PO) indicating the greatest pozzolanic reaction. 
+ 
+5.3 Effect of RHA in Mortar 
+  
+5.3.1 Compressive strength 
+     After 3 days, the compressive strengths of all 
+mortars with RHA are lower than the control mortar 
+(CM) except to the mortar with 7.5% RHA-O  
+ 
+ 
+Fig. 3 
+Hydration product contents of cement 
+pastes after 120 days  
+ 
+(7.5MO) as shown in Fig. 4. For 28-day samples, 
+12.5MO and 17.5MO exhibited comparable 
+strength increase equal to 29.1% and 27.3% of the 
+control, respectively. Mortars with 12.5% RHA-T 
+(12.5MT) and 17.5% RHA-T (17.5MT) also 
+increased in strength by 15.5% and 3.6% of the 
+control, respectively. After 120 curing days, similar 
+trend to 28 days is observed where 12.5MO, 
+17.5MO, 12.5MT, and 17.5MT showed strength 
+increase equal to 23.0%, 14.0%, 17.9%, and 1.6% 
+of the control, respectively. It is also evident that 
+mortars with 12.5% RHA-O and RHA-T performed 
+slightly better than mortars with 17.5%. Habeeb and 
+Mahmud [15] reported that CH from the hydration 
+of Portland cement may be insufficient to react with 
+the available silica in RHA, thus leading to the 
+incomplete pozzolanic reaction.  
+Researchers have reported that the compressive 
+strength increase of mortars with RHA may be 
+partially due to its high fineness and pozzolanic 
+reaction [11], particularly the presence of highly 
+amorphous silica in RHA enhancing its reactivity 
+[4]. 
+ 
+5.3.2 Microstructure 
+     Prismatic CH and dense C-S-H gel were visible 
+on the surface of control mortar (CM) at 120 curing 
+days as seen in Fig. 5a. The prismatic CH is 
+abundant and embedded on the C-S-H matrix since 
+it is one of the main products from the hydration of 
+Portland cement. In Fig. 5b, mortar containing 
+12.5% RHA-O showed a denser C-S-H than CM. 
+The presence of CH also diminished. Production of 
+secondary C-S-H from the pozzolanic reaction of 
+RHA-O contributed to a denser C-S-H matrix and 
+less CH when compared to the control. Pore 
+
+
+===== PAGE 6 =====
+
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+131 
+ 
+ 
+Fig. 4 Compressive strength development of RHA-blended mortars after 3, 28 and 120 days of curing. 
+ 
+ 
+ 
+ 
+ 
+Fig. 5 
+Microstructure of (a) control mortar (CM), (b) mortar with 12.5% RHA-O (12.5MO) and (c) mortar 
+with 12.5% RHA-T (12.5MT) after 120 days of curing 
+ 
+refinement of the microstructure of the mortar with 
+12.5% RHA-O resulted to the highest compressive 
+strength. On the other hand, the microstructure of 
+mortar with 12.5% RHA-T in Fig. 5c manifested 
+porous and flocculent C-S-H gel with the presence 
+of more voids and CH crystals. 
+ 
+5.4 Effect of RHA and CWRT on Concrete 
+  
+5.4.1 Compressive strength 
+ 
+It can be observed in Fig. 6, R17.5C0 recorded 
+the highest compressive strength improvement 
+equal to 12.4% when compared to the control 
+(R0C0). Comparing the results of sample concrete 
+with CWRT only (R0C10) and samples with both 
+RHA-O 
+and 
+CWRT 
+(R17.5C5, 
+R17.5C10, 
+R17.5C15), it can be inferred that the incorporation 
+of RHA-O can increase the compressive strength up 
+to 10% CWRT. The compressive strength of 
+R17.5C5 is comparable to the control with a slight 
+decrease of 3.4%. The enhancement in strength by 
+RHA-O is attributed to its pozzolanic effect. It is 
+also observed that replacing fine aggregates with 
+rubber decreases the compressive strength. 
+ 
+ 
+ 
+ 
+Fig. 6 
+Compressive and splitting tensile strength 
+of concrete with RHA-O and CWRT after 
+28 days 
+ 
+5.4.2 Splitting tensile strength 
+     In terms of splitting tensile strength, 
+R17.5C0 gained the highest strength at 3.06 MPa 
+with an increase of 31.2% of the control as shown 
+in Fig. 6. It is also noted that additions of both RHA-
+O and CWRT showed remarkable tensile strength 
+increases ranging from 7.2% up to 15.1% of the 
+dense C-S-H 
+prismatic CH 
+(a) CM 
+X7500 
+1μm 
+dense C-S-H 
+CH 
+(b) 12.5MO 
+X7500 
+1μm 
+CH 
+porous C-S-H 
+flocculent C-S-H 
+(c) 12.5MT 
+X7500 
+1μm 
+
+
+===== PAGE 7 =====
+
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+132 
+ 
+control unlike in compressive strength where 
+strength enhancement is only due to RHA-O. When 
+both RHA-O and CWRT are incorporated, the 
+concrete is seen to perform better than concrete with 
+CWRT only (R0C10) but still lower strength than 
+concrete with RHA-O only (R17.5C0). 
+ 
+6. CONCLUSION 
+ 
+Based on the analysis of results presented in the 
+study, the following conclusions can be derived: 
+1. RHA- RHA-O and RHA-T exhibited high 
+silica (Si02) contents equal to 93.38% and 
+82.73%, respectively. X-ray diffraction (XRD) 
+analysis revealed that silica in RHA-O is 
+mainly amorphous in form, whereas silica in 
+RHA-T is partly amorphous and partly 
+crystalline.  
+2. Simultaneous 
+thermogravimetric 
+and 
+differential-thermal analysis (TG-DTA) can be 
+used to quantify C-S-H and CH and examine the 
+extent of pozzolanic reaction in blended cement 
+pastes.  
+3. The amount of C-S-H gel is higher in RHA 
+cement pastes than plain cement pastes after 120 
+days. C-S-H gel does not vary significantly with 
+the RHA replacement level. Reductions in CH 
+are observed on RHA-blended cement pastes at 
+120 days of curing. Increasing RHA content 
+resulted in decreasing CH content confirming 
+the pozzolanic activity of RHA. 
+4. Mortars prepared with 12.5% and 17.5% RHA-
+O showed excellent compressive strength gain 
+after 28 and 120 days. To maximize RHA 
+content, 17.5% RHA-O is used in concrete since 
+their strengths are comparable. 
+5. Concrete with 17.5% RHA-O only yielded the 
+highest compressive and splitting tensile 
+strength after 28 days among all mix types. 
+Increasing 
+CWRT 
+content 
+decreases 
+compressive strength. Additions of both RHA-
+O and CWRT resulted in higher splitting tensile 
+strength than the control. Adding 17.5% RHA-
+O and 5% CWRT provided comparable 
+compressive strength and higher splitting tensile 
+strength than normal concrete which signifies 
+the compensation of strength loss of CWRT by 
+RHA. 
+ 
+7. ACKNOWLEDGMENTS 
+ 
+The authors acknowledge the Department of 
+Science and Technology (DOST-ERDT) of the 
+Philippines for providing the grant for this research. 
+ 
+8. REFERENCES 
+ 
+[1] Boden, T. A., Andres, R. J., & Marland, G., 
+Global, regional, and national fossil-fuel CO2 
+emissions, carbon dioxide information analysis 
+center, Oak Ridge National Laboratory, U.S. 
+Department of Energy, Oak Ridge, Tenn., USA, 
+2017.  
+[2] Rodríguez 
+De 
+Sensale, 
+G., 
+Strength 
+development of concrete with rice-husk ash. 
+Cement and Concrete Composites, 28(2), 2006, 
+pp. 158–160.  
+[3] Zareei, S. A., Ameri, F., Dorostkar, F., & 
+Ahmadi, M., Rice husk ash as a partial 
+replacement of cement in high strength concrete 
+containing micro silica: Evaluating durability 
+and mechanical properties. Case Studies in 
+Construction Materials, 2017, pp. 73–81.  
+[4] Xu, W., Lo, T. Y., & Memon, S. A., 
+Microstructure and reactivity of rich husk ash. 
+Construction and Building Materials, 29, 2012, 
+pp. 541–547. 
+[5] Isberto, C. D., Labra, K. L., Landicho, J. M. B., 
+& De Jesus, R., Optimized preparation of rice 
+husk 
+ash 
+(RHA) 
+as 
+a 
+supplementary 
+cementitious material. International Journal of 
+GEOMATE, 16(57), 2019, pp. 56–61.  
+[6] Alex, J., Dhanalakshmi, J., & Ambedkar, B., 
+Experimental investigation on rice husk ash as 
+cement replacement on concrete production. 
+Construction and Building Materials, 127, 2016, 
+pp. 353–362.  
+[7] Singh, L. P., Goel, A., Bhattacharyya, S. K., & 
+Mishra, G., Quantification of hydration products 
+in cementitious materials incorporating silica 
+nanoparticles. Frontiers of Structural and Civil 
+Engineering, 10(2), 2016, pp. 162–167.  
+[8] Collier, N. C., Transition and decomposition 
+temperatures of cement phases - a collection of 
+thermal analysis data. Ceramics - Silikaty, 60(4), 
+2016, pp. 338–343.  
+[9] Bisht, K., & Ramana, P. V., Evaluation of 
+mechanical and durability properties of crumb 
+rubber concrete. Construction and Building 
+Materials, 155, 2017, pp. 811–817. 
+[10] Mounanga, P., Khelidj, A., Loukili, A., 
+Baroghel-Bouny, V., Predicting Ca (OH)2 
+content and chemical shrinkage of hydrating 
+cement pastes using analytical approach. 
+Cement and Concrete Research, Elsevier, 34 (2), 
+2017, pp. 255-265.  
+[11] Jamil, M., Kaish, A. B. M. A., Raman, S. N., & 
+Zain, M. F. M., Pozzolanic contribution of rice 
+husk ash in cementitious system. Construction 
+and Building Materials, 47, 2013, pp. 588–593.  
+[12] Fagerlund, G., Chemically bound water as 
+measure of degree of hydration: method and 
+potential errors. In Division of Building 
+Materials, 315, 2009.  
+[13] [Madsen, I. C., Scarlett, N. V. Y., & Kern, A., 
+Description and survey of methodologies for 
+the determination of amorphous content via X-
+
+
+===== PAGE 8 =====
+
+International Journal of GEOMATE, Nov, 2022, Vol.23, Issue 99, pp.126-133 
+133 
+ 
+ray 
+powder 
+diffraction. 
+Zeitschrift 
+Fur 
+Kristallographie, 226(12), 2011, pp. 944–955.  
+[14] Boualleg, S., Bencheikh, M., Belagraa, L., 
+Daoudi, A., & Chikouche, M. A., The 
+combined effect of the initial cure and the type 
+of cement on the natural carbonation, the 
+portlandite content, and nonevaporable water 
+in blended cement. Advances in Materials 
+Science and Engineering, 2017.  
+[15] Habeeb, G., & Mahmud, H., Study on 
+properties of rice husk ash and its use as cement 
+replacement material. Materials Research, 
+13(2), 2010, pp. 185–190.  
+ 
+ 
+Copyright © Int. J. of GEOMATE All rights reserved, 
+including making copies unless permission is obtained 
+from the copyright proprietors.  

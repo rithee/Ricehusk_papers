@@ -1,0 +1,1075 @@
+
+===== PAGE 1 =====
+
+Eurasian Chem.-Technol. J. 22 (2020) 285‒293
+*Corresponding author. 
+E-mail: seytkhan.azat@gmail.com
+© 2020 Eurasian Chemico-Technological Journal. 
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+https://doi.org/10.18321/ectj993
+Perspectives of the Silicon Dioxide Production from Rice Husk 
+in Kazakhstan: an Overview
+O. Kapizov1, S. Azat1,2,3*, K. Askaruly2,3, U. Zhantikeyev1,2, Z. Tauanov1,2, 
+N.S. Bergeneva1, A.R. Satayeva4
+1al-Farabi Kazakh National University, 71 Al-Farabi ave., Almaty, Kazakhstan
+2Institute of Combustion Problems, 172 Bogenbay batyr str. Almaty, Kazakhstan
+3Satbayev University, 22a Satpaev str., Almaty, Kazakhstan
+4Nazarbayev University, 53 Kabanbai Batyr Ave., Nur-Sultan, Kazakhstan
+Abstract
+Rice husks (RHs) are the hard-protecting coverings of grains of rice. Considering 
+the fact that this agricultural waste accumulates over the years, the need for prompt 
+resolve for RH waste is readily apparent. As claimed by the Food and Agriculture 
+Organization of the United Nations (FAO), the production of the global paddy rice 
+in 2016 is considered to be 748.0 million tons. Based on this, the amount of RHs 
+makes up about ~20% of paddy rice production by weight. Much of this production 
+is treated as waste and either thrown into rivers or tossed on landfills, often causing 
+pollution problems when it decays or simply returned to the fields where it can 
+become airborne. This work presents synthesis routes for the production of SiO2 
+from RH sourced in Kazakhstan. RH, chosen from Almaty, Kyzylorda and Turkystan 
+regions, was utilized as the major silica source. The results shown verified that the 
+highest purity (98.2–99.7%) amorphous silica with a certain surface area between 
+120–980 m2 g-1 could be extracted during acid treatment and controlled calcination. 
+The structure is amorphous, porosity diameter reduced from 26.4 nm to 0.9 nm, 
+certain pore volume raised from 0.5 to 1.2 cm3 g-1.
+Article info
+Received:
+11 March 2020
+Received in revised form:
+17 May 2020
+Accepted:
+30 June 2020
+Keywords: 
+Rice husk 
+Rice hull (RH) 
+Rice husk ash (RHA) 
+Amorphous silica 
+Silica oxide
+1. Introduction 
+Rice is grown in many countries around the 
+world. As reported by the data of the Food and 
+Agriculture Organization of the United Nations 
+(FAO), world rice production in 2016 was 748 mil­
+lion tons while it is 291 thousand tons in Kazakh­
+stan (see Table 1).
+There are three types of rice growing: irrigated, 
+dry and estuary. The difference among these vari­
+eties lies in the nature of the flooding of the areas 
+allocated for cultivation. The plots are divided into: 
+‒ irrigation (checks) ‒ the plant grows in such a 
+field in conditions of continuous being under wa­
+ter, only immediately on the eve of harvesting ripe 
+rice the plot is drained. This is the most widespread 
+method of cultivation (90% in the world); 
+‒ dry land ‒ the crop is grown in places with an 
+abundance of rainfall, without artificial irrigation. 
+It should be noted that the yield when growing rice 
+using this method is much lower than that of the 
+irrigation method; 
+‒ estuary ‒ the first of the emerging cultiva­
+tion methods, is used in the countries of Southeast 
+Asia. Rice with this method grows in river bays. It 
+is worth noting the low efficiency of this method.
+The world’s largest rice production mainly be­
+longs to China and India. Though its amount of rice 
+harvested is smaller than India’s, China’s rice pro­
+duction is much bigger as a result of higher yields 
+because almost all of China’s rice area is irrigated, 
+while more than half of India’s rice area is not irri­
+gated. After China and India, the third largest rice 
+producers are Indonesia, Bangladesh, Vietnam, 
+Myanmar and Thailand. All of these countries had 
+an average production of more than 30 million tons 
+of paddy rice in 2006-08 and make up more than 
+
+
+===== PAGE 2 =====
+
+Perspectives of the Silicon Dioxide Production from Rice Husk in Kazakhstan: an Overview
+286
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+80% of world production altogether. The main rice 
+cultivation developed in Kazakhstan mostly in the 
+lower reaches of the Syr Darya, Kyzylorda Region 
+such as Leader, Yantar, Marzhan, Novator, Favor­
+it, Lazurny, KazNIIR-5, KazNIIR-6 and Ai Saule 
+are grown. 
+The crop yield directly depends on the moisture 
+content of the soil. This is a shade-loving tropical 
+plant, when growing it is important to select the 
+correct water regime at each phase of cereal cultiva­
+tion. For example, as soon as seedlings emerge, the 
+soil is saturated with water as much as possible. Af­
+ter transplanting the seedlings to a permanent place 
+of growth, the field is covered with a layer of water.
+Temperature conditions directly affect the 
+swelling of grains:
+‒ when germinating, the seeds rapidly absorb 
+water within 5‒6 days, the optimum temperature is 
++13 degrees;
+‒ then the mode is set to +17 degrees for 2 days;
+‒ then for 15 h +27 degrees;
+‒ the grain will not sprout if the air temperature 
+drops to +12 degrees.
+The location of this region is below sea level, 
+the state of the soil is ameliorative and agricultural 
+conditions have become the reason for the creation 
+of a special irrigation engineering system for wa­
+tering rice fields. All the main regions in the ter­
+ritory of the Republic of Kazakhstan involved in 
+rice production are in the south part of the coun­
+try: Kyzylorda Region (78,4 thousand ha), Almaty 
+Region (11,1 thousand ha) and South Kazakhstan 
+Region (3 thousand ha) [2‒3].
+The agricultural waste provides about 33% of 
+total biofuel use, supplying 39%, 29%, and 13% of 
+biofuel use in Asia, Latin America and Africa, and 
+41% and 51% of the biofuel use in India and China. 
+In most varieties, rice consists of about 20% of rice 
+husk, which contains fibrous materials and silicon 
+dioxide. It is estimated that from 1 t of paddy it is 
+possible to produce 220 kg of rice husk. Howev­
+er, the amount of each component depends on the 
+climate and the geographical location of the rice 
+crop. Consequently, because of its high percentage 
+in the composition of grain, the husk is considered 
+a by-product in the mills and creates problems 
+of recycling [4‒5]. In the past decades, rice husk 
+is extensively used as a construction material to 
+produce concrete [6], or as an adsorbent for the 
+removal of organic dyes, such as indigo carmine 
+dye, and heavy metals such as lead, mercury, cad­
+mium and zinc from wastewater metal ions [7‒8]. 
+Because of its high silicon amount, rice husk can 
+be an economically-practical raw material for sil­
+icate production and silica materials. Every year 
+the volume of rice cultivation increases that is why 
+recycling the husks of this crop is an important 
+task for the countries involved in the cultivation 
+and processing of rice. The estimated annual har­
+vest of rice in Kazakhstan is about 291 thousand 
+tons, which produces roughly 64 thousand tons is 
+rice husk [9]. 
+Table 1
+Major world producers of paddy rice 2016/2017 in tons [1]
+Sr. no
+Country
+Paddy rice
+Rice husk
+Rice husk ash (estimated)
+1
+China
+144.850.000
+31.867.000
+1.274.680
+2
+India
+106.500.000
+23.430.000
+937.200
+3
+Indonesia
+37.150.000
+8.173.000
+326.920
+4
+Bangladesh
+34.578.000
+7.607.160
+304.286
+5
+Vietnam
+27.861.000
+6.129.420
+245.177
+6
+Thailand
+18.600.000
+4.092.000
+163.680
+7
+Burma
+12.400.000
+2.728.000
+109.120
+8
+Philippines
+11.500.000
+2.530.000
+101.200
+9
+Brazil
+8.160.000
+1.795.200
+71.808
+10
+Japan
+7.780.000
+1.711.600
+68.464
+47
+Kazakhstan
+291.000
+64.020
+2.561
+48
+Nicaragua
+290.000
+63.800
+2.552
+49
+Burkina
+250.000
+55.000
+2.200
+50
+Mozambique
+213.000
+46.860
+1.874
+
+
+===== PAGE 3 =====
+
+O. Kapizov et al.
+287
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+Rice husk is a fibrous substance containing lig­
+nin, carbohydrates, nitrogenous matters, vitamins, 
+organic acids, mineral components, provided that 
+their content depends on the variety of rice and 
+can vary depending on the cultivation location and 
+the agriculture technical methods of its cultivation 
+[10]. The main carbohydrate component of the rice 
+husk is cellulose, and hemicellulose (mainly pen­
+tosans) is contained in a smaller amount. Rice husk 
+is still an agricultural residue in many countries 
+that produce rice (Fig. 1).
+Rice husk is distinguished by high abrasive 
+properties, chemical resistance, low nutritional 
+value, low bulk density and high ash content. Sil­
+icon dioxide is the major mineral component of 
+rice husk determining its high ash content. Ashes 
+also contain sodium, potassium, magnesium, iron, 
+calcium, phosphorus, in much smaller quantities 
+ash contains iron, copper, manganese and other el­
+ements [11]. A major part of husk obtained from 
+the rice during the rice process is either burned 
+or tossed as waste. Even if the rice husk is turned 
+into finished products, such as raw materials and 
+adsorbents, the major part of the husk is burned 
+openly, leading to environmental pollution and 
+Fig. 1. Paddy rice grain (left) and its products after 
+husking.
+health problems, especially in poor and developing 
+countries [12‒13]. Combusting of rice husk as a 
+fuel interchange for power generation is one of the 
+best solution used in many industrial fields. How­
+ever, this leads to new wastes, called rice husk ash. 
+Therefore, it is very important to find solutions for 
+the full utilization of rice husk.
+The two principal directions for the recycling 
+of rice husk are the utilization of rice husk in agri­
+culture and as a raw material for the production of 
+various materials. In the first case, rice husk is used 
+as a nutritional supplement to animal feed, bedding 
+material, for soil treatment and mulching, and as a 
+ballast material for sowing small seeds. In the sec­
+ond case, despite the potential, its preparation and 
+processing are not always cost-effective [14]. Rice 
+husk-derived materials are used in insulating, con­
+struction, road-building and mild abrasive materi­
+als for cleaning and polishing, production of paper 
+and production of silica-containing and carbona­
+ceous materials and other organic compounds (see 
+Fig. 2) [15]. Also, rice husk ash (RHA) is largely 
+used as raw material for various fields of applica­
+tion, such as the production of building materials 
+and concrete. Ash can also be an adsorbent for the 
+adsorption of organic dyes, metals, waste gases 
+and as a catalyst carrier [16‒17]. 
+Many studies [18‒19] have been conducted to 
+change the composition of rice husk ash, depend­
+ing mostly on many factors. These experimental 
+studies contain practices in agricultural fields, such 
+as the use of fertilizers in rice cultivation, the type 
+of fertilizers used, and climatic or geographical 
+factors. Therefore, depending on the geographi­
+cal location, different authors have done different 
+works characterizing the composition of the rice 
+husk (see Table 2).
+ 
+Fig. 2. Principal directions for the recycling of rice husk.
+
+
+===== PAGE 4 =====
+
+Perspectives of the Silicon Dioxide Production from Rice Husk in Kazakhstan: an Overview
+288
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+Table 2
+The composition of elements in rice husk ash 
+by different countries
+Elemental 
+composition of 
+rice husk ash
+XRF 
+[20]
+ICP 
+[21]
+XRF 
+[22]
+XRF 
+[23]
+Canada
+Egypt
+Malaysia
+Kazakhstan
+SiO2
+91.56
+91.5
+91.25
+91.39
+K2O
+4.76
+1.23
+3.83
+1.25
+P2O5
+-
+2.30
+2.45
+0.5
+CaO
+0.78
+2.57
+0.88
+2.62
+SO3
+0.29
+-
+0.66
+2.02
+MgO
+-
+0.30
+0.57
+0.31
+Al2O3
+2.36
+1.46
+0.18
+0.23
+Fe2O3
+0.11
+0.42
+0.09
+0.57
+MnO
+0.07
+0.04
+0.07
+0.14
+Rb2O
+-
+-
+0.01
+-
+ZnO
+0.01
+-
+0.01
+0.04
+CuO
+0.06
+-
+-
+0.29
+Na2O
+-
+0.18
+-
+0.36
+Cl
+-
+-
+-
+0.28
+It can be seen from Table 2 that although the 
+composition of the rice husk depends on certain 
+factors, the content of silicon dioxide in the ash 
+range from 90‒92%.
+Due to the high silica content in the ash, the 
+RHA (80‒97%) can be a practical raw material for 
+the silicate manufacturing of and silica materials 
+[24‒25]. Rice husk combustion gives ash, which 
+contains a very heavy percentage of crystalline 
+silica dioxides. Nevertheless, if it is combusted 
+under controlled conditions at temperatures below 
+700 °C, an amorphous silica dioxide is obtained 
+which has high reactivity. Transformation of this 
+amorphous form into a crystalline form occurs 
+if the ash is exposed to high temperatures above 
+850 °C [26]. Rice husk ash obtained by combusting 
+rice husk can contain more than 90% silica diox­
+ide and some metallic impurities. Metallic impuri­
+ties like iron (Fe), manganese (Mn), calcium (Ca), 
+sodium (Na), potassium (K) and magnesium (Mg) 
+affect its purity and color of silica dioxide during 
+the process and can be removed by pretreatment 
+with hydrochloric acid, sulfuric acid or nitric acid 
+before combusting [27]. As crystalline silica di­
+oxide is utilized in ceramics [28] and the cement 
+industry [29], amorphous silica dioxide has been 
+used in more applications [30]. Therefore, this res­
+idue is believed to be a new practical raw material 
+for silica dioxide production [31]. 
+Rice husk is combusted straightly to manufac­
+ture silica dioxide to vary purity, with or without 
+the pretreatment utilization [32‒33]. The tempera­
+ture of incineration, holding time and the applied 
+pretreatment have an influence on the parameters 
+of silica dioxide, especially on the surface and 
+brightness (whiteness). As the temperature of in­
+cineration increases, some phase changes occur. 
+It should be noted that the silica dioxide produced 
+from rice husk at 500‒650 °C with a combusting 
+time of about 2.5 to 6 h is considered to be optimal 
+to obtain white amorphous silica dioxide, where­
+as crystallinity is obtained as the temperature of 
+incineration rises above 700 °C. The value for the 
+working phase, whether cristobalite or tridymite, 
+depends very much on the temperature variation 
+and the impurity level contained in the rice husk. 
+In addition, the temperature of incineration has a 
+heavy influence on the surface area, consequently, 
+the reacting capacity of the silica dioxide, obtained 
+as a result of the direct combusting process. Silica 
+dioxide, obtained from rice husk, can be utilized in 
+cement and concrete structures as good pozzolan 
+[34] and as an anticorrosive agent for other appli­
+cations. Various improved products, such as aero­
+gel [35], silica carbide, porous carbon [36], zeolites 
+[37], high-purity silica [38], and other products can 
+similarly be gained by applying the silica dioxide 
+from rice husk. 
+Currently, there are various methods for the 
+production of silica dioxide from the rice husk ash. 
+The present paper explains a new synthesis method 
+for the production of pure silica oxide from rice 
+husks originated from the rice-producing regions 
+of the Republic of Kazakhstan. 
+2. Materials and methods
+2.1. Raw Materials and chemicals
+Three different rice varieties were chosen for 
+this research work: Regul, Lider, and 42. The RHs 
+were collected from rice farms in Almaty, Kyzy­
+lorda, and Turkystan regions (Kazakhstan). All 
+obtained Rice Husks were previously treated with 
+DIW and dried in oven (Carbolite, PF 300, Keison, 
+UK) at 105 °C and 8 h. Hydrochloric acid (37%, 
+Sigma Aldrich, Germany) and sodium hydroxide 
+(98%, Sigma Aldrich, Sweden), which were pur­
+chased from Sigma Aldrich, were applied in ex­
+traction procedure without further purification.
+2.2. Sample characterization and analysis
+The inorganic chemical composition of rice 
+
+
+===== PAGE 5 =====
+
+O. Kapizov et al.
+289
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+husk ash and extracted silica were analyzed us­
+ing Axios mAX X-ray fluorescence spectrometer 
+(PANalytical, Inc., USA). The phase composition 
+and microstructure were checked by SmartLab 
+X-ray Diffractometer (Rigaku Corporation, USA) 
+with Cu Kα radiation (λ=1.540056 Å) at a scan rate 
+of 0.02°θ s-1 in the 2θ variety of 10–90°. Thermal 
+analysis was carried out by Simultaneous Thermal 
+Analyzer (STA) 6000 (Perkin Elmer, Inc., USA) 
+with a temperature of 10 °C min-1 in vary from 
+50 to 950 °C with nitrogen atmosphere. The sur­
+face structure and morphology of the obtained rice 
+husk and rice husk silica were represented using 
+Scanning electron microscopy of the brand Quan­
+ta 200i 3D (FEI Company, USA). The results of 
+surface and pore size were obtained by utilizing 
+the Brunauer-Emmett-Teller method (Autosorb-1, 
+Quantachrome, UK) from nitrogen adsorption and 
+desorption isotherms. The pore volume was taken 
+at five points of P/P0. 
+2.3. Extraction procedure 
+50 g of the raw RH was treated with 500 ml of 
+2 M HCl at 90 °C for 2 h. After that, it was con­
+stantly washed with water until the solution reach 
+to pH=7 and separated from the solution via filtra­
+tion. Thereupon, RH was dried at 105 °C overnight 
+and then calcined at 600 °C for 4 h in a muffle fur­
+nace to produce white rice husk (WRH). 50 g of 
+pristine RH produces about 8.71 g of WRH. Sub­
+sequently, the WRH was combined with 100 ml of 
+2M NaOH at 90 °C under constant intense blending 
+for 2 h to extract the solid silica that could become 
+water soluble sodium silicate (SS). The SS solution 
+was then ﬁltered to remove insoluble residues and 
+converted into insoluble silicic acid by reaction for 
+30 min with concentrated Hydrogen chloride under 
+intense blending. At last product was cleaned with 
+hot water to remove by-products and then dried. 
+The mechanism of the silica particles formation 
+from sodium silicate after treatment with HCl is as 
+follows:
+NaOH + SiO2 → Na2SiO3 +H2O
+(∆H773 K = −85 kJ mol-1).
+Na2SiO3 + 2HCl → H2SiO3↓+2NaCl 
+H2SiO3 → SiO2 + H2O
+The reaction of hydrochloric acid with sodium 
+silicate promotes silanol (R3Si–OH) groups for­
+mation and condensation causing the formation 
+of lengthened three-dimensional Si–O–Si network 
+[39].
+3. Results and discussion
+Preliminary acid treatment can influence the 
+chemical composition of rice husk-obtained 
+products but not the structural formation, wheth­
+er crystalline formation or amorphous formation. 
+The structure of SiO2 depends on the temperature 
+and duration of calcination and above 700–900 °C 
+crystalline forms are produced. Several factors can 
+cause the composition variation of the rice husk, 
+like agricultural factors and climatic change or 
+geographical factors. The main chemical elements 
+in the samples of obtained RH ash (RHA) and sili­
+ca are listed in Table 3. The chemical compositions 
+of the RHA indicate that SiO2 is the main part of 
+the siliceous acceleration and the amount of metal­
+lic impurities is low. The samples of RHA without 
+acid pretreatment contain from 73.9% to 84.4% 
+SiO2. After treatment with hydrochloric acid, the 
+content increased to 99.7%. This proved that the 
+application of the preliminary treatment method 
+is useful for removing metallic impurities and im­
+proving the purity of silica. The major impurities 
+of untreated RH ash are potassium oxide, calci­
+um oxide, and iron oxide with 18.5%, 8.3%, and 
+2.5% contents, respectively. Oxides of potassium 
+and calcium have been almost completely removed 
+from the RH ash after pretreatment with HCl. All 
+chemical treatments showed that the effective re­
+moval of oxides varies depending on the nature of 
+the reagent used in the treatment of RH ash.
+The X-ray diffraction patterns of silica samples 
+are shown in Fig. 3. The noticeable broad halo 
+with a maximum intensity rate at 23.0 2θ° cor­
+relates with the d-spacing of 0.36 nm and confirms 
+the amorphous structure of SiO2. The strong broad 
+hump, between 15 and 30° (2θ) indicates that the 
+silica SiO2 that was extracted from the powder is 
+amorphous and that no crystalline structure ap­
+peared and this is confirmed by the work of other 
+researchers [40, 41].
+Fig. 3. X-ray diffraction pattern of silica.
+
+
+===== PAGE 6 =====
+
+Perspectives of the Silicon Dioxide Production from Rice Husk in Kazakhstan: an Overview
+290
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+Table 3
+Results of X-ray fluorescent analysis of rice husk ash and silica samples
+Elemental 
+composition
+Rice husk ash 
+(untreated)
+Rice husk ash 
+(after treatment with HCl)
+Pure SiO2 sample
+RHA*1
+RHA*2
+RHA*3
+RHA*1
+RHA*2
+RHA*3
+HCl*1
+HCl*2
+HCl*3
+SiO2
+83.8
+73.9
+84.4
+97.2
+93.0
+98.2
+99.1
+99.7
+Na2O
+-
+-
+-
+-
+-
+-
+-
+-
+MgO
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Al2O3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+SO3
+-
+-
+-
+-
+-
+-
+-
+-
+-
+Cl
+-
+3.1
+-
+0.9
+6.1
+2.8
+1.8
+0.8
+-
+K2O
+8.6
+18.5
+4.8
+0.3
+-
+0.5
+-
+-
+0.1
+CaO
+6.7
+2.8
+8.3
+-
+-
+1.2
+-
+-
+0.2
+MnO
+0.2
+0.6
+-
+-
+0.2
+-
+-
+-
+-
+Fe2O3
+0.6
+0.6
+2.5
+1.2
+3.7
+2.2
+-
+0.02
+-
+CuO
+-
+-
+-
+0.3
+0.3
+0.1
+-
+-
+-
+ZnO
+0.2
+0.5
+-
+-
+-
+0.1
+-
+0.1
+0.4
+Cr2O3
+-
+-
+-
+-
+0.01
+-
+-
+-
+-
+*1 Almaty region, *2 Kyzylorda region, *3 Turkystan region
+SEM images of the original rice husks before 
+heat treatment and silica are displayed in Fig. 4. 
+The rice husk samples show a very dense and rough 
+surface while the SEM image of the silica sample 
+shows a nano-scale irregular surface coming from 
+the morphology of silica nanoparticles, scattered in 
+the big phase.
+Figure 5 TG analysis was conducted to confirm 
+the organic components existing in the rice husk. 
+It can also be found that the initial loss of weight 
+emerges within the variation of 50 to 250 °C. The 
+second stage shows a fast and greater weight loss 
+at the temperature range 300‒450 °C. This is the 
+Fig. 4. SEM images of (a) rice husks before heat treatment (a) and (b) SiO2.
+(a)
+(b)
+Fig. 5. TGA curves for rice husk.
+
+
+===== PAGE 7 =====
+
+O. Kapizov et al.
+291
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+main reason for the thermal decomposition of 
+hemicellulose and cellulose as a major organic 
+component in the rice husk. The third stage illus­
+trates a weight loss of between 25‒30% that could 
+be mainly caused by lignin, a thermally more sus­
+tainable aromatic polymer that can undergo steady 
+decomposition between 300 and 600 °C. The res­
+idue of ash is mostly the noncombustible silica 
+(~15%, >600 °C).
+The surface area and the pore characteristics 
+of the silica samples were determined by the 
+Brunauer-Emmett-Teller (BET) and density func­
+tional theory (DFT) methods. The specific surface 
+area of the silica samples was observed to be 120, 
+150, and 980 m2 g-1, respectively. Compared to 
+the surface area of the samples derived from RH 1 
+and RH 2, the surface area of the SiO2 HCl 2 was 
+indicated to be the largest specific surface area 
+(980 m2 g-1) due to the smallest pore size of the 
+extracted SiO2 sample. The pore volume of the 
+SiO2 HCl_1, SiO2 HCl_2, and SiO2 HCl_3 silica 
+samples were raised from 0.5 to 1.2 cm3 g-1 and 
+the average pore diameter reduced from 26.4 nm 
+to 0.9 nm. The specific surface areas, pore diame­
+ters, and pore volumes of the three silica samples 
+are outlined in Table 4.
+Table 4
+The surface area and pore characteristics 
+of the silica samples
+Sample
+BET surface 
+area, m2 g-1
+Pore characteristics 
+(DFT method)
+Pore volume, 
+cm3 g‒1
+Pore size, 
+nm
+SiO2_HCl_1
+120
+0.5
+26.4
+SiO2_HCl_2
+980
+12.
+0.9
+SiO2_HCl_3
+150
+0.8
+18.4
+The functional groups reveal in RHs and silica 
+precipitate was determined by FTIR-ATR spectra 
+(Fig. 6).
+The notable peak in Fig. 6 (red) at about 3500 
+cm-1 correlates with the –O-H-extending vibra­
+tions of water molecules. The absorption peak 
+at 2926 cm-1 can be associated with the symmet­
+ric and asymmetric extending vibrations of the 
+aliphatic C-H bonds in -CH3 and CH2 groups in 
+hemicellulose, cellulose and lignin, appropriately 
+and 2114, 1423, 1383 cm-1 are associated with the 
+C-H extended vibrations of the methylene groups. 
+The peak at 1632 cm-1 can correspond to the –
+C=O stretching vibrations of the carbonyl groups 
+in aldehydes and ketones. The peak at 1515 cm-1 
+is attributed to the C-O groups extending of car­
+boxylates. The peaks at 1095, 898, 796, 662, 471 
+cm-1 are related to the stretching vibrations of the 
+siloxane groups. The large absorption peak in Fig. 
+6 (blue) at 1055 cm-1 can be associated with the 
+siloxane (Si–O–Si) network vibration modes, re­
+vealing a highly condensed silica network [42] and 
+is in agreement with the literature [43]. The spectra 
+of the produced SiO2 illustrate no other band con­
+nected to organic or inorganic impurities.
+4. Conclusion
+The main rice cultivation developed in Kazakh­
+stan mostly in the Kyzylorda region and a small 
+amount in Turkystan. High purified amorphous sil­
+ica samples (98‒99%) with a surface area in the 
+range from 120 to 980 m2 g-1 was successfully syn­
+thesized utilizing rice husk from various regions of 
+Kazakhstan From different varieties Regul, Lider, 
+and 42. The leaching under HCl pretreatment and 
+controlled calcination at 600 °C for 4 h revealed 
+decreasing in metal oxide content in the rice husk 
+ 
+Fig. 6. FTIR spectra of RH (red) and SiO2 (blue).
+
+
+===== PAGE 8 =====
+
+Perspectives of the Silicon Dioxide Production from Rice Husk in Kazakhstan: an Overview
+292
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+composition. The purity of the synthesized silica 
+was observed by XRF analysis. With 99.7 pure sil­
+icon dioxide was synthesized from grade 42 from 
+Turkestan, which was obtained by further purifi­
+cation. The current approach was compared with 
+other studies, which also aimed to produce a silica 
+sample from rice husk. The comparison was car­
+ried out to show the importance of parameters such 
+as duration and temperature of thermal treatment, 
+rice variety, geographical location, and concentra­
+tion of used acid. 
+This research work shows the possibility of us­
+ing the described simple chemical method in the 
+production of large amounts of silica with lower 
+costs in the rice-producing countries, which also 
+solves the problem of the effect of burning rice 
+husk in the open air on the environment. If extract 
+silicon dioxide from rice husks only in Kazakhstan 
+per year, we can get about 13 thousand tons of sil­
+icon dioxide, which can be further used in other 
+industries.
+Acknowledgements
+This research has been funded by the Ministry 
+of Education and Science of the Republic of Ka­
+zakhstan (No. AP08857007) “Synthetic magnetic 
+composites produced from coal fly ash to resolve 
+water-environmental problems of mercury pol­
+lution” and the grant Best Teacher of University 
+2019, awarded to Dr Seitkhan Azat by the Ministry 
+of Education and Science of the Republic of Ka­
+zakhstan.
+References 
+[1].	 Crop Prospects and Food Situation ‒ Quarterly 
+Global Report, No. 1, March 2020. DOI: 
+10.4060/ca8032en
+[2].	 K. Askaruly, S. Azat, Z. Sartova, M. Yeleuov, 
+A. Kerimkulova, K. Bekseitova, Journal of 
+Chemical Technology and Metallurgy 55 (2020) 
+88–97. https://dl.uctm.edu/journal/node/j2020-
+1/12_19-76_p_88-97.pdf 
+[3].	 B. Meyer, L. Lundy, J. Watt, I. Abdullaev, 
+J.E. Capilla Roma, Journal of Environmental 
+Geography 9 (2016) 33–42. DOI: 10.1515/
+jengeo-2016-0010
+[4].	 Y. Shen, P. Zhao, Q. Shao, Micropor. Mesopor. 
+Mat. 188 (2014) 46‒76. DOI: 10.1016/j.
+micromeso.2014.01.005
+[5].	 S. Nagrale, H. Hajare, P. Modak, International 
+Journal 
+of 
+Engineering 
+Research 
+and 
+Applications (IJERA) 2 (2012) 1‒5. 
+[6].	 N. Sapawe, N.S. Osman, M.Z. Zakaria, S.A. 
+S.S.M. Fikry, M.A.M. Aris, Materials Today: 
+Proceedings 5 (2018) 21861‒21866. DOI: 
+10.1016/j.matpr.2018.07.043
+[7].	 A.R. Kerimkulova, S. Azat, L. Velasco, Z.A. 
+Mansurov, P. Lodewyckx, M.I. Tulepov, M.R. 
+Kerimkulova, I. Berezovskaya, А. Imangazy, 
+Journal of Chemical Technology and Metallurgy, 
+54 (2019) 578–584. https://www.kaznu.kz/
+content/files/pages/folder21071/azat04.pdf
+[8].	 S. Azat, V.V. Pavlenko, A.R. Kerimkulova, 
+Z.A. Mansurov, Advanced Materials Research 
+535–537 (2012) 1041–1045. DOI: 10.4028/
+www.scientific.net/AMR.535-537.1041
+[9].	 Statistic yearbooks. Agricultural, forest and 
+fish in the Republic of Kazakhstan for each 
+year 20002016 [Electronic source], 2016, URL: 
+http://stat.gov.kz/faces/almatyobl/
+[10].	S. Azat, Z. Sartova, K. Bekseitova, K. Askaruly, 
+Turk. J. Chem. 43 (2019) 1258–1269. DOI: 
+10.3906/kim-1903-53
+[11].	R.A. Bakar, R. Yahya, S.N. Gan, Procedia 
+Chemistry 19 (2016) 189–195. DOI: 10.1016/j.
+proche.2016.03.092
+[12].	I.J. Fernandes, F.A.L. Sánchez, José R. Jurado, 
+A.G. Kieling, T.L.A.C. Rocha, C.A.M. Moraes, 
+V.C. Sousa, Adv. Powder Technol. 28 (2017) 
+1228–1236. DOI: 10.1016/j.apt.2017.02.009
+[13].	M.F.M. Zain, M.N. Islam, F. Mahmud, M. Jamil, 
+Constr. Build. Mater. 25 (2011) 798–805. DOI: 
+10.1016/j.conbuildmat.2010.07.003 
+[14].	S. Kumar, P. Sangwan, R. Mor V. Dhankhar, 
+S. Bidra, Research Journal of Chemical and 
+Environmental Sciences 5 (2013) 126–129. 
+https://www.huutokauppa.com/content/ad/
+file/13/96/139665.pdf
+[15].	J. Alvarez, G. Lopez, M. Amutio, J. Bilbao, M. 
+Olazar, Bioresource Technol. 170 (2014) 132–
+137. DOI: 10.1016/j.biortech.2014.07.073
+[16].	Z.A. 
+Mansurov, 
+J.M. 
+Jandosov, 
+A.R. 
+Kerimkulova, S. Azat, A.A. Zhubanova, I.E. 
+Digel, A.S. Kistaubaeva, Eurasian Chem.-
+Technol. J. 15 (2013) 209–217. DOI: 10.18321/
+ectj224
+[17].	A.R. Kerimkulova, S. Azat, Z.A. Mansurov, M.K. 
+Gilmanov, S.A. Ibragimova, S.M. Adekenov, 
+B.B. Rachimova, Advanced Materials Research 
+535–537 (2012) 284–288. DOI: 10.4028/www.
+scientific.net/AMR.535-537.284
+[18].	Y.-B. Im, R. Wahab, S. Ameen, Y.-S. Kim, O-B. 
+Yang, H.-S. Shin, J. Nanosci. Nanotechno. 11 
+(2011) 5934–5938. DOI: 10.1166/jnn.2011.4386
+[19].	K. Kaviyarasu, E. Manikandan, J. Kennedy, 
+M. Jayachandran, M. Maaza, Adv. Mater. 
+Lett. 7 (2016) 684–696. DOI: 10.5185/
+amlett.2016.6192
+[20].	Q. Tang, T. Wang, J. Supercrit. Fluid. 35 (2005) 
+91–94. DOI: 10.1016/j.supflu.2004.12.003
+
+
+===== PAGE 9 =====
+
+O. Kapizov et al.
+293
+Eurasian Chemico-Technological Journal 22 (2020) 285‒293
+[21].	M. Ahmaruzzaman, V.K. Gupta, Ind. Eng. 
+Chem. Res. 50 (2011) 13589–13613. DOI: 
+10.1021/ie201477c
+[22].	R.M. Mohamed, R.M. Radwan, M.M. Abdel-
+Aziz, M.M. Khattab, J. Appl. Polym. Sci. 115 
+(2010) 1495–1502. DOI: 10.1002/app.31158
+[23].	S. Azat, A.V. Korobeinyk, K. Moustakas, V.J. 
+Inglezakis, J. Clean. Prod. 217 (2019) 352–359. 
+DOI: 10.1016/j.jclepro.2019.01.142
+[24].	H. Hamdan, M.N.M. Muhid, S. Endud, E. 
+Listiorini, Z. Ramli, J. Non-Cryst. Solids 
+211 (1997) 126–131. DOI: 10.1016/S0022-
+3093(96)00611-4
+[25].	B. Shi, Y.K. Shin, A.A. Hassanali, S.J. Singer, 
+Colloid. Surface. B 157 (2017) 83–92. DOI: 
+10.1016/j.colsurfb.2017.05.048
+[26].	I.J. Fernandes, D. Calheiro, F.A.L. Sánchez, 
+A.L.D. Camacho, T.L.A. de C. Rocha, C.A.M. 
+Moraes, V.C. de. Sousa, Mat. Res. 20 (2017) 
+512–518. DOI: 10.1590/1980-5373-mr-2016-
+1043  
+[27].	J.A.S. Costa, C.M. Paranhos, J. Clean. 
+Prod. 192 (2018) 688–697. DOI: 10.1016/j.
+jclepro.2018.05.028
+[28].	K.K. Larbi, Synthesis of high-purity silicon from 
+rice husks. MS.C. thesis, University of Toronto, 
+2010.
+[29].	F. Ledesma E., R. Acosta C., L. Garrido M., D. 
+Polanco I., C. Guarnaluce D., J. Mater. Environ. 
+Sci. 6 (2015) 114–118.
+[30].	R.A. Bakar, R. Yahya, S.N. Gan, Procedia 
+Chemistry 19 (2016) 189–195. DOI: 10.1016/j.
+proche.2016.03.092
+[31].	I.B. Ugheoke, O. Mamat, Maejo Int. J. Sci. 
+Technol. 6 (2012) 430–448. 
+[32].	K.A. Matori, M.M. Haslinawati, Z.A. Wahab, 
+H.A.A. Sidek, T.K. Ban, W.A.W.A.K. Ghani, 
+MASAUM Journal of Basic and Applied Sciences 
+1 (2009) 512–515. 
+[33].	G.R. de Sensale, Cement Concrete Comp. 
+32 
+(2010) 
+718‒725. 
+DOI: 
+10.1016/j.
+cemconcomp.2010.07.008
+[34].	J. Prasara, S.H. Gheewala, J. Clean. Prod. 
+167 
+(2018) 
+1020‒1028. 
+DOI: 
+10.1016/j.
+jclepro.2016.11.042
+[35].	R. Jauberthie, F. Rendell, S. Tamba, I. Cisse, 
+Constr. Build. Mater. 14 (2000) 419‒423. DOI: 
+10.1016/S0950-0618(00)00045-3
+[36].	Z.A. Mansurov, M.K. Atamanov, Z. Elemesova, 
+B.T. Lesbaev, M.N. Chikradze, Combust. 
+Explo. Shock 55 (2019) 402‒408. DOI: 10.1134/
+S0010508219040051
+[37].	V. 
+Kannan, 
+Constr. 
+Build. 
+Mater. 
+160 
+(2018) 
+169‒179. 
+DOI: 
+10.1016/j.
+conbuildmat.2017.11.043
+[38].	M.K. 
+Atamanov, 
+R. 
+Amrousse, 
+K. 
+Hori, 
+Z. 
+Mansurov, 
+Combust. 
+Sci. 
+Technol. 
+191 
+(2019) 
+645‒658. 
+DOI: 
+10.1080/00102202.2018.1498848
+[39].	J. Alvarez, G. Lopez, M. Amutio, J. Bilbao, 
+M. Olazar, Ind. Eng. Chem. Res. 54 (2015) 
+7241‒7250. DOI: 10.1021/acs.iecr.5b01589
+[40].	S. Wardiyati, W.A. Adi, Deswita, IOP Conf. 
+Ser.: Mater. Sci. Eng. 202 (2017). DOI: 
+10.1088/1757-899X/202/1/012059
+[41].	A. Mourhly, M. Khachani, A.El Hamidi, M. 
+Kacimi, M. Halim, S. Arsalane, Nanomat. 
+Nanotechno. 5 (2015). DOI: 10.5772/62033
+[42].	H.I. 
+Meléndez-Ortiz, 
+Y. 
+Perera-Mercado, 
+J.A. Mercado-Silva, Y. Olivares-Maldonado, 
+G. Castruita, L.A. García-Cerda, Ceram. 
+Int. 40 (2014) 9701‒9707. DOI: 10.1016/j.
+ceramint.2014.02.051
+[43].	J. Umeda, K. Kondoh, Ind. Crop. Prod. 32 (2010) 
+539‒544. DOI: 10.1016/j.indcrop.2010.07.002

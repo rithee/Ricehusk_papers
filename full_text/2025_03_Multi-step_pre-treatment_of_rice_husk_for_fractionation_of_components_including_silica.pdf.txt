@@ -1,0 +1,1021 @@
+
+===== PAGE 1 =====
+
+Multi-step pre-treatment of rice
+husk for fractionation of
+components including silica
+Shinnosuke Ishida 1, Shinji Kudo1,2*, Shusaku Asano1,2 and
+Jun-ichiro Hayashi1,2
+1Interdisciplinary Graduate School of Engineering Sciences, Kyushu University, Kasuga, Japan, 2Institute
+for Materials Chemistry and Engineering, Kyushu University, Kasuga, Japan
+Introduction: Rice husk, a widely available agricultural by-product lignocellulosic
+biomass, is a promising and sustainable feedstock for organic and inorganic
+chemicals due to the rich silica content. However, its current application is largely
+limited, with most being incinerated as waste. This study introduces a novel multi-
+step pre-treatment process to fractionate these components efﬁciently, enabling
+their comprehensive valorization.
+Methods: The process begins with hydrothermal treatment, selectively extracting
+hemicellulose while preserving the structural integrity of other components. This
+is followed by an organosolv treatment using ethanol/water mixture, optimized
+to dissolve and extract organosolv lignin effectively. Subsequently, alkaline
+aqueous
+solution
+treatment
+under
+nitrogen
+atmosphere
+facilitates
+the
+recovery of silica as sodium silicate, a valuable industrial precursor. To ensure
+high-purity cellulose recovery, the ﬁnal step employs alkaline hydrothermal
+processing
+under
+oxygen,
+achieving
+effective
+lignin
+depolymerization
+and removal.
+Results and discussion: Each step was carefully optimized, considering
+parameters such as temperature, solvent composition, and reaction time, to
+enhance selectivity and yield. Notably, this method reduces environmental
+negative impact by avoiding the use of acids while utilizing renewable
+solvents. The sequential application of these treatments resulted in separation
+exceeding 97% for hemicellulose, lignin, and silica, leaving high-purity cellulose
+with the loss of 22.8 wt%. Hemicellulose, organosolv lignin, and silica in the
+removed fractions were 66.5, 78.1, and 77.5 wt% at the ﬁrst, second, and third
+treatments, respectively.
+KEYWORDS
+biomass, rice husk, fractionation, pre-treatment, silica
+1 Introduction
+Lignocellulosic biomass has garnered attention as a renewable resource that can be
+converted into a variety of chemicals. Cellulose is the most valuable component in
+lignocellulose and can be directly or indirectly via its hydrolysis product, glucose,
+converted into a variety of compounds and materials (Delidovich et al., 2014).
+Similarly, hemicellulose, another carbohydrate, is expected to be used as a raw material
+for compounds such as furans or as xylooligosaccharides, food ingredients (Santibanez
+et al., 2021). Lignin is the only direct and renewable feedstock for aromatic compounds, and
+OPEN ACCESS
+EDITED BY
+Alessandro Pellis,
+University of Genoa, Italy
+REVIEWED BY
+Tengxiao Ji,
+University of British Columbia, Canada
+Lucia Gardossi,
+University of Trieste, Italy
+*CORRESPONDENCE
+Shinji Kudo,
+kudo.shinji.641@m.kyushu-u.ac.jp
+RECEIVED 03 December 2024
+ACCEPTED 08 January 2025
+PUBLISHED 23 January 2025
+CITATION
+Ishida S, Kudo S, Asano S and Hayashi J-i (2025)
+Multi-step pre-treatment of rice husk for
+fractionation of components including silica.
+Front. Chem. 13:1538797.
+doi: 10.3389/fchem.2025.1538797
+COPYRIGHT
+© 2025 Ishida, Kudo, Asano and Hayashi. This is
+an open-access article distributed under the
+terms of the Creative Commons Attribution
+License (CC BY). The use, distribution or
+reproduction in other forums is permitted,
+provided the original author(s) and the
+copyright owner(s) are credited and that the
+original publication in this journal is cited, in
+accordance with accepted academic practice.
+No use, distribution or reproduction is
+permitted which does not comply with these
+terms.
+Frontiers in Chemistry
+frontiersin.org
+01
+TYPE Original Research
+PUBLISHED 23 January 2025
+DOI 10.3389/fchem.2025.1538797
+
+
+===== PAGE 2 =====
+
+its conversion into phenolic compounds or materials is being
+actively studied (Li et al., 2024). To establish an economically
+viable biomass chemical industry, it is crucial to efﬁciently
+separate these components (Xu et al., 2020), which are intricately
+intertwined chemically and physically in biomass.
+Among lignocellulosic biomass, rice husk is particularly notable
+for its high ash content, especially silica (Zhang et al., 2022). Rice is
+the third most produced crop globally after sugarcane and maize,
+and it constitutes 20%–22% of the total rice weight, generating over
+100 million tons annually worldwide (Soltani et al., 2015; Bazargan
+et al., 2015). Thus, rice husk, containing 15–20 wt% silica, holds
+potential not only as feedstock for organic chemicals derived from
+the three main organic components but also as a raw material for
+inorganic chemicals. The ash in rice husks is being explored for use
+in various industrial ﬁelds, including rubber, electronics, concrete,
+soil conditioners, and catalyst (Soltani et al., 2015; Moayedi et al.,
+2019). Research and development on its use as an additive in tires are
+highly active (Shiva et al., 2024). However, rice husk utilization
+currently remains limited, with most being incinerated as waste,
+except for small quantities used as livestock feed (Bazargan et al.,
+2015). Furthermore, research on application development often
+focuses solely on extracting silica, leaving organic compounds to
+be
+incinerated.
+Technologies
+for
+valorizing
+all
+four
+major
+components in rice husk, hemicellulose, lignin, ash (silica), and
+cellulose, through an effective fractionation would contribute to its
+broad utilization due to sustainability and economic advantages.
+Numerous methods for selective fractionation of biomass
+components have been reported (Taylor et al., 2015). For
+instance, the traditional kraft pulping process removes lignin
+using alkaline aqueous solutions to obtain pulp (cellulose). In the
+“lignin-ﬁrst strategy,” which is a concept emerging during this
+decade, lignin is depolymerized and hydrogenated in organic
+solvents to produce lignin monomers alongside pulp. Conversely,
+in common methods for quantitatively analyzing components
+composition of lignocellulose (Sluiter et al., 2011), carbohydrates
+are ﬁrstly removed through concentrated and dilute sulfuric acid
+treatments, leaving lignin as solid residue (acid-insoluble lignin).
+There
+have
+been
+some
+pre-treatment
+technologies
+having
+technology readiness level of demonstration or commercial stage
+such as steam explosion, dilute acid pre-treatment and water-solvent
+pre-treatment (Gutierrez et al., 2023).
+In the present study, a multi-step pre-treatment consisting of
+hydrothermal treatment, organosolv (ethanol/water) treatment, and
+alkaline aqueous solution treatments was examined to achieve the
+fractionation of four components in rice husk. Although acids are
+often used in the component separation, they pose environmental
+problems, such as reactor corrosion and waste liquid disposal, and
+cost challenges. Hydrothermal reactions using only water are worth
+considering. Kumagai et al. (2004) applied the hydrothermal
+extraction with a two-step process at 200°C and 260°C in a
+percolation type reactor and obtained holocellulose with the yield
+of 84.3 wt%. Organosolv treatment, initially developed as an
+alternative to the kraft process for pulping, has seen extensive
+research, employing various organic solvents such as alcohols
+(methanol, ethanol, butanol, glycerol, ethylene glycol), ethylene
+carbonate, organic acids, and acetone (Sun et al., 2023). Its
+attractive feature is the ability to separate organosolv lignin (El
+Hage et al., 2009) without using alkali metal salts. The present study
+adopted ethanol, a solvent easily available from biomass, and used it
+as a mixed solvent with water to adjust the solubility parameter for
+organosolv lignin extraction. Various reports exist on ethanol/water
+extraction treatments; for instance, Di Francesco et al. (2021)
+employed an OrganoSoxhlet reactor with CO2 as an acid catalyst
+to treat sugarcane bagasse and wood, achieving high lignin
+extraction rates. Alkaline aqueous solutions are used for silica
+extraction and lignin removal, where the latter is as the ﬁnishing
+step for purifying the pulp. In industry, the treatment of feedstock
+with NaOH aqueous solution is used to produce sodium silicate,
+which is then converted to silica product with desired properties (Liu
+and Ott, 2020). Lignin extraction was conducted by adding oxygen
+to enhance removal rates. Bleaching with oxygen is used in the
+pulping process, which enables the removal through benzene ring
+opening and carboxyl groups formation by oxygen ions (O2
+−)
+(Ohmura et al., 2012; Wang et al., 2021; Wang et al., 2020).
+In this work, ﬁrst, the effects of reaction conditions in ethanol/
+water treatment on the removal of each component was investigated.
+Based on the ﬁndings, the treatments with alkaline aqueous
+solutions were also incorporated to attempt the fractionation of
+rice
+husk
+into
+four
+components.
+While
+combining
+known
+treatments, this study uniquely aimed to construct a rational
+multi-step process including silica extraction. Additionally, water
+and ethanol/water treatments were conducted under a pressurized
+CO2 to explore its inﬂuence on the fractionation performances.
+2 Methods
+Rice husk, sourced from Ishikawa Prefecture, Japan, was used as the
+raw material after crushing to under 3 mm. The component composition
+of the raw material and solid residues generated through pre-treatment
+was analyzed following a reported method (Sluiter et al., 2011). Brieﬂy,
+rice husk, extracted with water and then benzene/ethanol, was treated
+with 72% sulfuric acid (30°C, 1 h), then dilute sulfuric acid (4%, 121°C,
+3 h), followed by solid-liquid separation. Lignin in the ﬁltrate was
+quantiﬁed
+as
+acid-soluble
+lignin
+(ASL)
+using
+a
+UV-vis
+spectrophotometer (PerkinElmer, LAMDA365). Acetyl content was
+analyzed
+using
+liquid
+chromatography
+(Shimadzu,
+Prominence
+Series) with a BIO-RAD Aminex HPX-87H column, and saccharides
+were analyzed with a Shodex SPO0810 column. For saccharides analysis,
+TABLE 1 Composition of rice husk.
+Component
+wt%-dry
+Cellulose
+Glucan
+26.2
+Hemicellulose
+Xylan
+11.2
+Arabinan
+1.3
+Galactan
+0.8
+Acetyl
+4.0
+Lignin
+ASL
+0.8
+AIL
+21.6
+Ash
+20.5
+Extractives
+13.6
+Frontiers in Chemistry
+frontiersin.org
+02
+Ishida et al.
+10.3389/fchem.2025.1538797
+
+
+----- TABLE p2#1 -----
+
+Component |  | wt%-dry
+Cellulose | Glucan | 26.2
+Hemicellulose | Xylan | 11.2
+ | Arabinan | 1.3
+ | Galactan | 0.8
+ | Acetyl | 4.0
+Lignin | ASL | 0.8
+ | AIL | 21.6
+Ash |  | 20.5
+Extractives |  | 13.6
+
+===== PAGE 3 =====
+
+pH of the ﬁltrate was adjusted to 5–6 using barium carbonate
+octahydrate. The solid residue was dried, weighed, and classiﬁed as
+acid-insoluble lignin (AIL). Ash content was analyzed by ashing through
+gradual heating to 575°C with intermediate steps at 105°C and 250°C, in a
+mufﬂe furnace (Sluiter et al., 2008). The composition of rice husk ash was
+analyzed using an energy-dispersive X-ray ﬂuorescence analyzer
+(Malvern Panalytical, Epsilon 1).
+Tables 1, 2 show the component composition and ash
+composition
+of
+the
+feedstock
+rice
+husk,
+respectively.
+Hemicellulose in herbaceous biomass is comprised primarily of
+arabinoxylan (Farhat et al., 2017). Xylose and arabinose were
+indeed detected in the ﬁltrate of sulfuric acid-treatment. Cellulose
+and hemicellulose contents were calculated based on quantiﬁed
+glucan and other saccharides (xylan, arabinan, and galactan),
+respectively. The rice husk contained 20.5 wt% ash, with 93.6 wt
+% of it being silica.
+For all pre-treatment experiments, an autoclave (Taiatsu
+Techno, TPR1-VS2-500, 500 mL) was used. 10 g of rice husk or
+solid residue obtained from treatment was mixed with 200 mL of
+solvent. Pressure inside the reactor was set to 0.8 MPa with a ﬁlling
+gas (CO2, N2, or O2) after repeated purge. The slurry was heated,
+while stirred at 200 rpm, to a prescribed temperature, which was
+maintained for 1–4 h. Time zero was deﬁned as the moment, where
+the target temperature was reached. The heating rate was
+approximately 15°C/min. The reaction was conducted under
+autogenous pressure formed by the saturated vapor of water.
+After treatment, the autoclave was cooled with ice water, and the
+slurry was ﬁltered using a PTFE membrane ﬁlter. The ﬁlter cake was
+vacuum-dried (50°C, overnight) to obtain solid residues. The
+removal or extraction yields of components from solids were
+determined
+from
+the
+result
+of
+compositional
+analysis.
+All
+compositions and yields were calculated on a dry mass basis.
+Some experiments also involved quantifying mono-saccharides
+and oligo-saccharides in the extracts. The ﬁltrate was subjected to
+liquid chromatography analysis directly for analyzing mono-
+saccharides and after hydrolysis with diluted sulfuric acid for
+analyzing
+all
+saccharides.
+The
+extraction
+yield
+of
+oligo-
+saccharides was calculated by subtraction.
+3 Results and discussion
+3.1 Ethanol/water treatment
+The inﬂuence of conditions for treatments using ethanol/water
+as solvents on the removal of each component was analyzed.
+Figure 1 shows the effects of time and temperature on the
+removal of hemicellulose, lignin, and ash during the treatment
+with 25% ethanol/water. Because cellulose was hardly extracted
+under the conditions applied in this experiment as shown in the
+next section, its removal is not presented here. For the treatment at
+160°C and short time (≤2 h), the removal of all components was well
+below 30 wt%, and there was no signiﬁcant difference in the removal
+rates among them (Figure 1A). This suggested that each component
+contains fractions that were readily dissolved in the solvent. For ash,
+the removed fraction should include alkali and alkaline earth
+metallic species (AAEMs) in the form of salts.
+Figure 1B compares treatments at different temperatures at the
+ﬁxed time of 4 h. The removal of hemicellulose became marked with
+increase in the temperature, reaching 97.3 wt% at 200°C. This aligns
+with the general trend that hemicellulose is the most easily extracted
+component under hydrothermal conditions (Yu et al., 2007). In
+contrast, the removal rates of lignin and ash decreased with
+temperature. The decrease in lignin removal is attributed to the
+re-polymerization, condensation and precipitation of dissolved
+organosolv lignin and possibly hemicellulose (Wang et al., 2018).
+A similar phenomenon is thought to occur with ash, although the
+degree of decrease in removal is smaller (from 14.4 to 7.9 wt%),
+compared to lignin (from 30.7 to 17.6 wt%). Di Francesco et al.
+(2021) reported that treatment of woody biomass (Populus) with a
+20 vol% ethanol aqueous solution at 220°C for 4 h reduced the
+residual lignin to 3 wt%. Thus, higher temperatures may further
+improve lignin removal; however, higher temperatures may also lead
+to partial removal of cellulose. Because the removal of cellulose
+TABLE 2 Composition of ash in rice husk.
+Component
+wt%
+SiO2
+93.6
+K2O
+4.7
+CaO
+0.8
+MnO
+0.2
+Fe2O3
+0.1
+FIGURE 1
+Inﬂuence of (A) time and (B) temperature on the removal of each
+component during the pre-treatment with 25 vol% ethanol/water.
+Conditions: rice husk 10 g, ethanol/water 200 mL, CO2 0.8 MPa, (A)
+160°C, and (B) 4 h.
+Frontiers in Chemistry
+frontiersin.org
+03
+Ishida et al.
+10.3389/fchem.2025.1538797
+
+
+----- TABLE p3#1 -----
+
+Component | wt%
+SiO2 | 93.6
+K2O | 4.7
+CaO | 0.8
+MnO | 0.2
+Fe2O3 | 0.1
+
+===== PAGE 4 =====
+
+indeed increased to 3.7 wt% at 200°C, this study did not examine the
+treatment at higher temperatures.
+Figure 2 shows the inﬂuence of reaction temperature and
+ethanol concentration on the removal of each component. The
+cellulose removal in this test was equal to or below 3.7 wt%,
+conﬁrming
+that
+cellulose
+extraction
+was
+suppressed
+under
+employed conditions. The highest removal of hemicellulose was
+obtained in the absence of ethanol at 200°C, reaching 97.8 wt%. At all
+temperatures, increasing the ethanol concentration reduced the
+hemicellulose removal. The removal was below 20 wt% in
+ethanol-only
+conditions.
+Therefore,
+water-only
+system
+was
+concluded to be appropriate for hemicellulose extraction.
+Ash removal also tended to decrease with increasing ethanol
+concentration, although the removal level was low, 13.7 wt% even at
+the highest case, indicating that the amount of ash soluble in
+ethanol/water system is limited at temperatures up to 200°C.
+Since silica is insoluble in water, most of the removed ash is
+inferred to consist of other metal species. However, silicon exists
+in rice husk in various forms, such as silicic acid that is soluble to
+water (Vassilev et al., 2013). Vassilev et al. (2012) analyzed the water
+solubility of ash metal species in various biomass types, ﬁnding that
+2% of silicon was leached to water in average. The soluble portion of
+potassium was as high as 71% in average, the second element most
+easily leached into water after chlorine.
+Unlike other components, lignin had an optimum ethanol
+concentration (40–60 vol%) to be dissolved, with the highest
+removal of 55.9 wt%. This result can be explained by the
+solubility parameter. In general, polymers and macro-molecules
+like lignin exhibit higher solubility in solvents with solubility
+parameters (δ values) similar to their own. Ni and Hu (2003)
+experimentally demonstrated that the solubility of Alcel lignin in
+ethanol/water mixed solvents at room temperature reached its
+maximum at an ethanol concentration of 71.3%, corroborating
+this ﬁnding through δ value calculations for both the solvent and
+lignin. Renders et al. (2016) also reported that lignin solubility in
+ethanol/water was highest at 50% ethanol concentration during
+catalytic reductive fractionation of woody biomass. Considering
+that lignin structure and solvent temperature also affect δ values,
+the results obtained in this study are deemed reasonable.
+Next, the inﬂuence of pressurized CO2 on the removal of
+components was investigated. Figure 3 compares the removal of
+components between treatments with CO2 and N2. It was clear that
+the addition of CO2 had little effect. The aim of adding CO2 was to
+promote the extraction and removal of components such as
+hemicellulose by providing acidic environment. The pH of water
+can be lowered to around three by dissolving CO2 (Mohammadian
+et al., 2023). Under the experimental conditions of this study, if all
+the acetyl groups in the rice husk were released as acetic acid, the
+concentration would be 33 mmol/L, corresponding to a pH of 3.1.
+Thus, the pH achievable by acidiﬁcation using CO2 can be achieved
+solely by the acetyl groups. Pasquini et al. (2005) similarly attempted
+pre-treatment of sugar cane bagasse with ethanol/water under
+pressurized CO2 atmosphere, but the purpose was deligniﬁcation
+by the use of CO2 as solvent under supercritical conditions. Little
+inﬂuence of CO2 in the present study is attributed to the acidiﬁcation
+of the solvent even in the absence of CO2 by organic acids like acetic
+FIGURE 2
+Inﬂuence of temperature and ethanol concentration on the removal of (A) hemicellulose, (B) lignin, and (C) ash, during the pre-treatment with
+ethanol/water. Conditions: rice husk 10 g, ethanol/water 200 mL, CO2 0.8 MPa, and 4 h.
+FIGURE 3
+Comparison of CO2 and N2 as ﬁlling gas in terms of the inﬂuence on the removal of (A) hemicellulose, (B) lignin, and (C) ash, during the pre-
+treatment with ethanol/water. Conditions: rice husk 10 g, ethanol/water 200 mL, CO2 or N2 0.8 MPa, and 4 h.
+Frontiers in Chemistry
+frontiersin.org
+04
+Ishida et al.
+10.3389/fchem.2025.1538797
+
+
+===== PAGE 5 =====
+
+acid generated from hemicellulose, which does not allow for CO2 to
+contribute to further acidiﬁcation. Moreover, solubility of CO2 in
+ethanol/water decreases with temperature (Dalmolin et al., 2006),
+limiting its contribution to the liquid phase reactions under
+employed conditions. Nevertheless, taking the global demand for
+developing CO2 utilization technologies into consideration, the
+absence of any negative effects of CO2, compared to N2, is
+valuable information. Since the acidiﬁcation of water by CO2
+dissolution is more pronounced at lower temperatures (Toor
+et al., 2011), the effect of pressurized CO2 may be obtained if the
+treatment is conducted at sufﬁciently low temperatures while
+suppressing the generation of organic acids.
+3.2 Fractionation of four components in
+rice husk
+Based on the experimental results above, a method to separate
+the four components, including silica, is proposed in Figure 4. The
+ﬁrst step is to separate hemicellulose with water as solvent, which
+proved effective in isolating nearly all hemicellulose while having
+minimal impact on other components. For completing the
+treatment with short time and achieving high extraction, higher
+temperature is more suitable; however, saccharides derived from
+hemicellulose are thermally unstable and may convert into furans,
+organic acids, and humins when excess treatment conditions are
+applied (Mohammadian et al., 2023; Ramos, 2003). To conﬁrm this,
+the recovery of saccharides extracted during water treatment was
+analyzed (Figure 5). At 160°C, the recovery of saccharides in solvent
+was almost same with the removal of hemicellulose, but as the
+temperature increased, a difference between them emerged. At
+200°C, the removal of hemicellulose was 95 wt%, while the
+recovery of saccharides (mono-saccharides + oligo-saccharides)
+was only 12.0 wt%. Therefore, 180°C was chosen as the treatment
+temperature suitable for recovering saccharides in the solvent.
+Notably,
+xylooligosaccharides
+derived
+from
+lignocellulosic
+biomass have attracted great attention for the potential to be
+used in food, feed, health, and cosmetics applications (Santibanez
+et al., 2021; Amorim et al., 2019). The degree of polymerization (DP)
+of oligo-saccharides obtained from hydrothermal extraction is
+generally
+required
+to
+be
+reduced
+to
+lower
+level
+such
+as
+DP2–DP4 by further hydrolysis, depending on the applications.
+For instance, low-DP xylooligosaccharides have higher prebiotic
+potential (Sukri and Mimi Sakinah, 2018).
+The ﬁrst treatment also removed water-soluble ash, primarily
+composed of AAEMs, contributing to the puriﬁcation of silica in the
+ash. The subsequent treatment uses 60 vol% ethanol/water to
+FIGURE 4
+Proposed multi-step pre-treatment for recovering hemicellulose, lignin, silica and cellulose from rice husk.
+FIGURE 5
+Inﬂuence of temperature on (A) removal of hemicellulose and (B)
+recovery of mono- and oligo-saccharides during the pre-treatment
+with water. Conditions: rice husk 10 g, water 200 mL, CO2 0.8 MPa,
+and 1 h.
+Frontiers in Chemistry
+frontiersin.org
+05
+Ishida et al.
+10.3389/fchem.2025.1538797
+
+
+===== PAGE 6 =====
+
+remove lignin. The deligniﬁcation at this step is incomplete as
+indicated in Figure 2. However, harsh extraction conditions give
+damage to or remove ash and cellulose. Therefore, the fourth
+treatment was added for bleaching and obtaining high-purity
+pulp instead.
+Ideally, the main components remaining in the solid residue
+after the second treatment should be cellulose and ash (silica). To
+extract both as chemical raw materials, incineration should not be
+employed for obtaining silica. Therefore, it was determined to
+extract silica as silicate (Na2xSiyO2y+x) using an alkaline aqueous
+solution. The silica in rice husk is amorphous and can be extracted
+through this reaction (2xNaOH + ySiO2 →Na2xSiyO2y+x + xH2O)
+under mild conditions. In preliminarily test, when silica extraction
+was attempted using 0.3 M NaOH aqueous solution under CO₂, the
+extraction rate was only 26.6 wt%. Since silica extraction with
+alkaline aqueous solutions is strongly inﬂuenced by the solvent’s
+pH (Hsieh et al., 2009; Park et al., 2021), this result was attributed to
+the pH reduction caused by dissolved CO₂ (2NaOH + CO2 →
+Na2CO3 + H2O). Indeed, the pH of the solution after the reaction
+was 8.3. Thus, N₂ was employed as the ﬁlling gas for this treatment.
+The obtained sodium silicate can be used as a raw material for a wide
+variety of silica-based materials, as well as in applications such as
+binders and emulsiﬁers (Minju et al., 2021; Liu and Ott, 2020).
+The ﬁnal treatment applies alkaline hydrothermal processing
+under an oxygen atmosphere to remove residual lignin. As
+mentioned earlier, oxygen is effective for lignin depolymerization
+and extraction, while its lower oxidation ability, compared to other
+oxidative bleaching method, such as the one using hydrogen
+peroxide (More et al., 2021; Bazargan et al., 2020), allows
+minimal loss of cellulose when applying appropriate conditions.
+The composition of solid residues and the yields of extracted
+components after sequential application of these four treatments to
+rice husk are shown in Figure 6. The total extraction rates after all
+treatments were 97.6 wt% for hemicellulose, 98.4 wt% for lignin, and
+99.3 wt% for ash. Each stage selectively extracted the target
+component.
+Hemicellulose
+accounted
+for
+66.5
+wt%
+of
+the
+extracted components from the ﬁrst treatment, lignin accounted
+for 78.1 wt% of the second extracts, and ash accounted for 77.5 wt%
+of the third extracts. Such a selective fractionation of the four
+components was attributable to the stepwise treatment under
+appropriate conditions. The loss of cellulose during the process
+leading to pulp was 22.8 wt%. The fourth treatment accounted for
+more than half portion of extracted cellulose.
+The ﬁnal pulp obtained was of high purity, containing only
+1.6 wt% lignin and 0.6 wt% ash (Figure 7). For comparison example,
+Dagnino et al. (2017) used a two-step treatment with dilute sulfuric
+acid and NaOH/water/ethanol to produce pulp from rice husk,
+which retained 6 wt% lignin and 24 wt% ash. In the present study,
+Na2CO3 aqueous solution was used as the solvent for the fourth
+treatment. Considering pH of the solution, NaOH potentially results
+in greater lignin removal. The performance of these salts is
+compared
+in
+Figure
+7
+using
+their
+solution
+at
+the
+same
+concentration. When used NaOH, the lignin content in the pulp
+decreased only slightly to 1.4 wt%, but the loss of cellulose increased
+to 26.6 wt%. Thus, lignin removal in the fourth treatment was
+mainly dependent on the presence of oxygen, and the advantage of
+using
+NaOH
+aqueous
+solution
+was
+considered
+minimal.
+Furthermore, NaOH aqueous solution is carbonated during
+processing
+of
+biomass
+(Kudo
+et
+al.,
+2014).
+Taking
+the
+regeneration and reuse of alkaline aqueous solution into account,
+Na2CO3 would be a reasonable choice for this treatment. As
+mentioned
+earlier,
+lignin
+in
+this
+treatment
+is
+oxidatively
+depolymerized and extracted. Consequently, organic acids such
+as oxalic acid, acetic acid, and formic acid are selectively
+obtained. However, many other organic compounds are also
+included in the extracts. Considering the low lignin content in
+FIGURE 6
+Yield of extracted components (A) and composition of solid
+residue (B) during the multi-step pre-treatment of rice husk. Initial rice
+husk 10 g, solvent 200 mL and ﬁlling gas 0.8 MPa. Other conditions are
+described in Figure 4.
+FIGURE 7
+Comparison of 1 M Na2CO3 and 1 M NaOH aqueous solutions as
+solvents for the fourth step treatment. Images show pulps obtained
+from the treatment.
+Frontiers in Chemistry
+frontiersin.org
+06
+Ishida et al.
+10.3389/fchem.2025.1538797
+
+
+===== PAGE 7 =====
+
+the raw material of this step and the low concentration of lignin-
+derived compounds in the extract, the purpose of this treatment was
+set solely as cellulose puriﬁcation. For this reason, compositional
+analysis of the extract was not performed in the present study. A
+method for valorizing the extracted organics is also discussed later.
+In previous studies on biomass component fractionation, the
+main objective was to separate organic components, but there have
+been some reports that also considered the separation of ash. Zhang
+et al. (2015) applied a concept similar to that in the present study to
+separate rice husk into xylan, lignin, glucose-derived ethanol, and
+ash through hydrolysis, solvent extraction (butanediol), dilute acid
+hydrolysis, and then alcoholic fermentation, yielding 10, 22, 5, and
+17 wt% from rice husk, respectively. Furthermore, Durand et al.
+(2024) recently proposed a sequential pre-treatment process for
+extracting biopolymers (cellulose and lignin) along with silica from
+rice husks, achieving lignin recovery at 47% with 82% purity and
+extraction of cellulose with 1% ash content and 82% purity.
+Compared to these prior studies, the originality of the present
+research includes pursuing the pre-treatment without expensive
+reagents including catalytic species and successfully separating
+each component while maintaining their structure as natural as
+possible. The introduction of oxidative alkaline treatment resulted in
+the production of very high-purity pulp. Hemicellulose-derived
+saccharides and cellulose were indeed obtained while moderately
+retaining their degree of polymerization (DP), ensuring their
+usability in broad applications. Further studies on this type of
+process and ﬁne-tuning of treatment conditions are expected to
+enable even higher selectivity.
+However, the proposed process has challenges to be solved: 1)
+Further optimization of processing conditions is essential to improve
+the yield of each extract. Many operational factors inﬂuence the yields.
+Since the performance of each treatment affects others, an overall
+process consideration is necessary. 2) Performing multi-step pre-
+treatment using solvents raises concerns about the signiﬁcant energy
+required for heating the solution and materials. To address this,
+utilization of heat exchange is important. The residual heat from
+previous treatments can be used for the rice husk samples. While,
+heating of the solutions is recommended to proceed with heat
+exchange
+starting
+from
+the
+higher-temperature
+treatments.
+However, efﬁcient heat exchange may be challenging with batch
+processing, as used in this study. A potential alternative is ﬂow-
+through processing, where the extraction liquid ﬂows through a ﬁxed
+bed of rice husk samples. This system allows for easy heat exchange
+between the inﬂow and outﬂow solutions and enables all steps to be
+performed with a single reactor by changing the inﬂow solution and
+processing conditions. The ﬂow-through extraction has recently
+gained attention for its ability to extract components like lignin in
+a natural structure-preserved form (Brandner et al., 2021; Xu et al.,
+2021). 3) From a cost perspective, solvent recycling is essential. For
+water, ethanol/water, and the aqueous solution used in the third step,
+their evaporation is necessary to recover the extracts and reuse the
+solution. If impurities like organic acids are present in the recovered
+solution and difﬁcult to separate, it will be necessary to investigate
+their accumulation and impact on the treatments. An alternative to
+energy-intensive evaporation-based separation is the application of
+membrane separation technology. In the fourth step, the extract
+solution contains a mixture of organic compounds such as organic
+acids. Their recovery along with regeneration of the solution should be
+considered when they are valuable. Alkaline hydrothermal gasiﬁcation
+is considered to be a method for regenerating the alkaline solution. It
+has been reported that the reaction using solid catalysts enabled to
+recover high-calorie gas consisted mainly of methane from lignin and
+Na2CO3 aqueous solution free from organic matter (Kudo et al.,
+2014). 4) For the practical implementation of the process, it is
+necessary to ensure that the internal pressure is sufﬁciently low.
+For example, in Japan, if the operating pressure exceeds 1 MPa,
+the system is considered to contain high-pressure gas, raising
+regulatory hurdles for process implementation. The saturated
+vapor pressure of water increases rapidly within the temperature
+range targeted in this study, exceeding 1 MPa at temperatures above
+180°C. Therefore, it is essential to operate at the lowest feasible
+temperature and keep the pressure of any ﬁlling gas as low as possible.
+4 Conclusion
+This study demonstrates a multi-step pre-treatment process for the
+fractionation of rice husk into its primary components: hemicellulose,
+lignin, cellulose, and silica. The performance of ethanol/water pre-
+treatment was initially assessed due to the attractiveness in the use of
+only green solvents. Based on the results, the four-step pre-treatment was
+proposed, incorporating alkaline aqueous treatments. By systematically
+integrating those treatments, the process achieved their selective
+separation,
+overcoming
+limitations
+of
+one-step
+methods.
+The
+hydrothermal step effectively extracted hemicellulose (66.5 wt% in
+the extract), preserving its functional integrity as saccharides for
+subsequent applications. Organosolv treatment optimized lignin
+removal (78.1 wt% in the extract) using ethanol/water mixtures, a
+solvent chosen for its environmental compatibility and efﬁcacy. The
+treatment with NaOH aqueous solution under nitrogen enabled silica
+extraction (77.5 wt% in the extract) as sodium silicate, a versatile
+industrial precursor. The ﬁnal alkaline hydrothermal treatment with
+O2 achieved effective lignin removal, producing high-purity cellulose
+that included only 1.6 wt% lignin and 0.6 wt% ash, suitable for diverse
+applications. CO2 was applicable as a ﬁlling gas for the ﬁrst two
+treatments, although no positive effect was observed, compared to
+inert N2. This strategy highlights the potential of rice husk as a
+versatile feedstock for both organic and inorganic materials, paving
+the way for broader industrial applications. Future work should focus on
+further tuning pre-treatment conditions and evaluating economic
+viability to facilitate practical implementation.
+Data availability statement
+The original contributions presented in the study are included in
+the
+article,
+further
+inquiries
+can
+be
+directed
+to
+the
+corresponding author.
+Author contributions
+SI: Formal Analysis, Investigation, Validation, Writing–original
+draft. SK: Conceptualization, Formal Analysis, Methodology,
+Resources, Supervision, Visualization, Writing–original draft. SA:
+Methodology, Supervision, Writing–review and editing. J-IH:
+Frontiers in Chemistry
+frontiersin.org
+07
+Ishida et al.
+10.3389/fchem.2025.1538797
+
+
+===== PAGE 8 =====
+
+Conceptualization, Funding acquisition, Project administration,
+Supervision, Writing–review and editing.
+Funding
+The author(s) declare that ﬁnancial support was received for the
+research, authorship, and/or publication of this article. This work
+was ﬁnancially supported by MEXT/JSPS KAKENHI Grant No.
+JP21H04632
+and
+the
+Cross-Ministerial
+Strategic
+Innovation
+Promotion Program (SIP) “Technologies for smart bioindustry
+and agriculture” administered by the Biooriented Technology
+Research Advancement Institution, National Agriculture and
+Food Research Organization (NARO) ID 18087996.
+Acknowledgments
+The authors gratefully acknowledge the Cooperative Research
+Program of the “Network Joint Research Center for Materials
+and Devices.”
+Conﬂict of interest
+The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be
+construed as a potential conﬂict of interest.
+Generative AI statement
+The author(s) declare that no Generative AI was used in the
+creation of this manuscript.
+Publisher’s note
+All claims expressed in this article are solely those of the authors
+and
+do
+not
+necessarily
+represent
+those
+of
+their
+afﬁliated
+organizations, or those of the publisher, the editors and the
+reviewers. Any product that may be evaluated in this article, or
+claim that may be made by its manufacturer, is not guaranteed or
+endorsed by the publisher.
+References
+Amorim, C., Silverio, S. C., Prather, K. L. J., and Rodrigues, L. R. (2019). From
+lignocellulosic
+residues
+to
+market:
+production
+and
+commercial
+potential
+of
+xylooligosaccharides. Biotechnol. Adv. 37, 107397. doi:10.1016/j.biotechadv.2019.05.003
+Bazargan, A., Bazargan, M., and McKay, G. (2015). Optimization of rice husk
+pretreatment for energy production. Renew. Energy 77, 512–520. doi:10.1016/j.
+renene.2014.11.072
+Bazargan, A., Wang, Z., Barford, J. P., Saleem, J., and McKay, G. (2020). Optimization
+of the removal of lignin and silica from rice husks with alkaline peroxide. J. Clean. Prod.
+260, 120848. doi:10.1016/j.jclepro.2020.120848
+Brandner, D. G., Kruger, J. S., Thornburg, N. E., Facas, G. G., Kenny, J. K., Dreiling, R.
+J., et al. (2021). Flow-through solvolysis enables production of native-like lignin from
+biomass. Green Chem. 23, 5437–5441. doi:10.1039/D1GC01591E
+Dagnino, E. P., Felissia, F. E., Chamorro, E., and Area, M. C. (2017). Optimization of
+the soda-ethanol deligniﬁcation stage for a rice husk bioreﬁnery. Industrial Crops Prod.
+97, 156–165. doi:10.1016/j.indcrop.2016.12.016
+Dalmolin, I., Skovroinski, E., Biasi, A., Corazza, M. L., Dariva, C., and Oliveira, J. V.
+(2006). Solubility of carbon dioxide in binary and ternary mixtures with ethanol and
+water. Fluid Phase Equilib. 245, 193–200. doi:10.1016/j.ﬂuid.2006.04.017
+Delidovich, I., Leonhard, K., and Palkovits, R. (2014). Cellulose and hemicellulose
+valorisation: an integrated challenge of catalysis and reaction engineering. Energy and
+Environ. Sci. 7, 2803. doi:10.1039/c4ee01067a
+Di Francesco, D., Baddigam, K. R., Muangmeesri, S., and Samec, J. S. M. (2021).
+OrganoSoxhlet: circular fractionation to produce pulp for textiles using CO2 as acid
+source. Green Chem. 23, 9401–9405. doi:10.1039/d1gc03079e
+Durand, K., Daassi, R., Rodrigue, D., and Stevanovic, T. (2024). Study of biopolymers
+and silica recovery from pre-hydrolyzed rice husks. Biomass Conv. Bioref. doi:10.1007/
+s13399-024-05445-0
+El Hage, R., Brosse, N., Chrusciel, L., Sanchez, C., Sannigrahi, P., and Ragauskas, A. (2009).
+Characterization of milled wood lignin and ethanol organosolv lignin from miscanthus.
+Polym. Degrad. Stab. 94, 1632–1638. doi:10.1016/j.polymdegradstab.2009.07.007
+Farhat, W., Venditti, R. A., Hubbe, M., Taha, M., Becquart, F., and Ayoub, A. (2017).
+A review of water-resistant hemicellulose-based materials: processing and applications.
+ChemSusChem 10, 305–323. doi:10.1002/cssc.201601047
+Gutierrez, S., Mangone, F., Vergara, P., Gonzalez, V., Ferreira, J. P., Villar, J. C., et al.
+(2023). Lignocellulosic biomass pre-treatments by diluted sulfuric acid and ethanol-
+water mixture: a comparative techno-economic analysis. Bioresour. Technol. Rep. 23,
+101514. doi:10.1016/j.biteb.2023.101514
+Hsieh, Y., Du, Y., Jin, F., Zhou, Z., and Enomoto, H. (2009). Alkaline pre-treatment of
+rice hulls for hydrothermal production of acetic acid. Chem. Eng. Res. Des. 87, 13–18.
+doi:10.1016/j.cherd.2008.07.001
+Kudo, S., Hachiyama, Y., Takashima, Y., Tahara, J., Idesh, S., Norinaga, K., et al.
+(2014). Catalytic hydrothermal reforming of lignin in aqueous alkaline medium. Energy
+and Fuels 28, 76–85. doi:10.1021/ef401557w
+Kumagai, S., Hayashi, N., Sasaki, T., Nakada, M., and Shibata, M. (2004).
+Fractionation and sacchariﬁcation of cellulose and hemicellulose in rice hull by hot-
+compressed-water treatment with two-step heating. J. Jpn. Inst. Energy 83, 776–781.
+doi:10.3775/jie.83.776
+Li, J., Guan, D., Xia, S., Fan, Y., Zhao, K., Zhao, Z., et al. (2024). Recent advances,
+challenges, and opportunities in lignin valorization for value-Added chemicals, biofuels,
+and polymeric materials. Energy Convers. Manag. 322, 119123. doi:10.1016/j.
+enconman.2024.119123
+Liu, S., and Ott, W. K. (2020). Sodium silicate applications in oil, gas and
+geothermal well operations. J. Petroleum Sci. Eng. 195, 107693. doi:10.1016/j.
+petrol.2020.107693
+Minju, N., Balagopal, N. N., and Savithri, S. (2021). Sodium silicate-derived aerogels:
+effect of processing parameters on their applications. RSC Adv. 11, 15301–15322. doi:10.
+1039/d0ra09793d
+Moayedi, H., Aghel, B., Abdullahi, M. A. M., Nguyen, H., and Safuan A Rashid, A.
+(2019). Applications of rice husk ash as green and sustainable biomass. J. Clean. Prod.
+237, 117851. doi:10.1016/j.jclepro.2019.117851
+Mohammadian, E., Hadavimoghaddam, F., Kheirollahi, M., Jafari, M., Chenlu, X.,
+and Liu, B. (2023). Probing Solubility and pH of CO2 in aqueous solutions: implications
+for CO2 injection into oceans. J. CO2 Util. 71, 102463. doi:10.1016/j.jcou.2023.102463
+More, A., Elder, T., and Jiang, Z. (2021). A review of lignin hydrogen peroxide
+oxidation chemistry with emphasis on aromatic aldehydes and acids. Holzforschung 75,
+806–823. doi:10.1515/hf-2020-0165
+Ni, Y., and Hu, Q. (2003). Alcell® lignin solubility in ethanol–water mixtures. J. Appl.
+Polym. Sci. 57, 1441–1446. doi:10.1002/app.1995.070571203
+Ohmura, S., Yokoyama, T., and Matsumoto, Y. (2012). Progress of oxidation of non-
+phenolic lignin moiety in an oxygen bleaching process via the conversion of non-
+phenolic into phenolic lignin moiety. J. Wood Sci. 58, 243–250. doi:10.1007/s10086-011-
+1244-4
+Park, J. Y., Gu, Y. M., Park, S. Y., Hwang, E. T., Sang, B.-I., Chun, J., et al. (2021).
+Two-stage continuous process for the extraction of silica from rice husk using
+attrition ball milling and alkaline leaching methods. Sustainability 13, 7350. doi:10.
+3390/su13137350
+Pasquini, D., Pimenta, M. T. B., Ferreira, L. H., and Curvelo, A. A. D. S. (2005).
+Extraction of lignin from sugar cane bagasse and Pinus taeda wood chips using
+ethanol–water mixtures and carbon dioxide at high pressures. J. Supercrit. Fluids 36,
+31–39. doi:10.1016/j.supﬂu.2005.03.004
+Ramos, L. P. (2003). The Chemistry involved in the steam treatment of lignocellulosic
+Materials. Quim. Nova 26, 863–871. doi:10.1590/S0100-40422003000600015
+Renders, T., Van den Bosch, S., Vangeel, T., Ennaert, T., Koelewijn, S.-F., Van den
+Bossche, G., et al. (2016). Synergetic effects of alcohol/water mixing on the catalytic
+reductive fractionation of poplar wood. ACS Sustain. Chem. and Eng. 4, 6894–6904.
+doi:10.1021/acssuschemeng.6b01844
+Frontiers in Chemistry
+frontiersin.org
+08
+Ishida et al.
+10.3389/fchem.2025.1538797
+
+
+===== PAGE 9 =====
+
+Santibanez, L., Henriquez, C., Corro-Tejeda, R., Bernal, S., Armijo, B., and Salazar, O.
+(2021). Xylooligosaccharides from lignocellulosic biomass: a comprehensive review.
+Carbohydr. Polym. 251, 117118. doi:10.1016/j.carbpol.2020.117118
+Shiva, M., Golmohammadi, M., and Nouroozi, F. (2024). Extraction of silica from rice
+husk for rubber-cord adhesion systems of tire industry. Biomass Convers. Bioreﬁnery 14,
+17717–17729. doi:10.1007/s13399-023-03893-8
+Sluiter, A., Hames, B., Ruiz, R., Scarlata, C., Sluiter, J., and Templeton, D. (2008).
+Determination of ash in biomass, 510–42622. NREL Technical Report.
+Sluiter, A., Hames, B., Ruiz, R., Scarlata, C., Sluiter, J., Templeton, D., et al. (2011).
+Determination of structural carbohydrates and lignin in biomass, 510–42618. NREL
+Technical Report.
+Soltani, N., Bahrami, A., Pech-Canul, M. I., and González, L. A. (2015). Review on the
+physicochemical treatments of rice husk for production of advanced materials. Chem.
+Eng. J. 264, 899–935. doi:10.1016/j.cej.2014.11.056
+Sukri, S. S. M., and Mimi Sakinah, A. M. (2018). Production of high commercial value
+xylooligosaccharides from meranti wood sawdust using immobilised xylanase. Appl.
+Biochem. Biotechnol. 184, 278–290. doi:10.1007/s12010-017-2542-0
+Sun, C., Song, G., Pan, Z., Tu, M., Kharaziha, M., Zhang, X., et al. (2023). Advances in
+organosolv modiﬁed components occurring during the organosolv pretreatment of
+lignocellulosic biomass. Bioresour. Technol. 368, 128356. doi:10.1016/j.biortech.2022.128356
+Taylor, R., Nattrass, L., Alberts, G., Robson, P., Chudziak, C., Bauen, A., et al. (2015).
+From the Sugar Platform to biofuels and biochemicals. Final report for the European
+Commission Directorate-General Energy, European Commission. Available at: https://
+edepot.wur.nl/360244.
+Toor, S. S., Rosendahl, L., and Rudolf, A. (2011). Hydrothermal liquefaction of biomass: a
+review of subcritical water technologies. Energy 36, 2328–2342. doi:10.1016/j.energy.2011.03.013
+Vassilev, S. V., Baxter, D., Andersen, L. K., and Vassileva, C. G. (2013). An overview of the
+composition and application of biomass ash. Fuel 105, 19–39. doi:10.1016/j.fuel.2012.10.001
+Vassilev, S. V., Baxter, D., Andersen, L. K., Vassileva, C. G., and Morgan, T. J. (2012).
+An overview of the organic and inorganic phase composition of biomass. Fuel 94, 1–33.
+doi:10.1016/j.fuel.2011.09.030
+Wang, J. X., Asano, S., Kudo, S., and Hayashi, J. I. (2020). Deep deligniﬁcation of
+woody biomass by repeated mild alkaline treatments with pressurized O2. ACS Omega 5,
+29168–29176. doi:10.1021/acsomega.0c03953
+Wang, J. X., Hayashi, J. I., Asano, S., and Kudo, S. (2021). Analysis of primary
+reactions in biomass oxidation with O2 in hot-compressed alkaline water. ACS Omega 6,
+4236–4246. doi:10.1021/acsomega.0c05154
+Wang, T., Zhai, Y., Zhu, Y., Li, C., and Zeng, G. (2018). A review of the hydrothermal
+carbonization of biomass waste for hydrochar formation: process conditions,
+fundamentals, and physicochemical properties. Renew. Sustain. Energy Rev. 90,
+223–247. doi:10.1016/j.rser.2018.03.071
+Xu, J., Li, C., Dai, L., Xu, C., Zhong, Y., Yu, F., et al. (2020). Biomass fractionation and
+lignin fractionation towards lignin valorization. ChemSusChem 13, 4284–4295. doi:10.
+1002/cssc.202001491
+Xu, J., Shao, Z., Li, Y., Dai, L., Wang, Z., and Si, C. (2021). A ﬂow-through reactor for
+fast fractionation and production of structure-preserved lignin. Industrial Crops Prod.
+164, 113350. doi:10.1016/j.indcrop.2021.113350
+Yu, Y., Lou, X., and Wu, H. (2007). Some recent advances in hydrolysis of biomass in
+hot-compressed water and its comparisons with other hydrolysis methods. Energy and
+Fuels 22, 46–60. doi:10.1021/ef700292p
+Zhang, H., Ding, X., Chen, X., Ma, Y., Wang, Z., and Zhao, X. (2015). A new method
+of utilizing rice husk: consecutively preparing D-xylose, organosolv lignin, ethanol and
+amorphous superﬁne silica. J. Hazard Mater 291, 65–73. doi:10.1016/j.jhazmat.2015.
+03.003
+Zhang, P., Wei, S., Cui, G., Zhu, Y., and Wang, J. (2022). Properties of fresh and
+hardened self-compacting concrete incorporating rice husk ash: a review. Rev. Adv.
+Mater. Sci. 61, 563–575. doi:10.1515/rams-2022-0050
+Frontiers in Chemistry
+frontiersin.org
+09
+Ishida et al.
+10.3389/fchem.2025.1538797

@@ -1,0 +1,824 @@
+
+===== PAGE 1 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+139
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as
+Additive
+1*Odeyemi, S.O., 2Anifowose, M.A., 1Abdulwahab, R. and 3Oduoye, W.O.
+1Department of Civil and Environmental Engineering, Kwara State University, Malete, Nigeria
+2Department of Civil Engineering, The Federal Polytechnic Offa, Offa, Nigeria.
+3Department of Civil Engineering, Osun State University, Osogbo, Nigeria
+*Corresponding author E-mail: samson.odeyemi@kwasu.edu.ng; +2348054147596
+Abstract
+Consideration on High Performance Concrete (HPC) has risen drastically because of the
+requirement for application of concrete volume with high strengths for construction work. In this
+study, the mechanical properties of HPC with Guinea Corn Husk Ash (GCHA) as supplement of
+cement was investigated. The proportioning of Ordinary Portland Cement (OPC) with GCHA is
+from 0 - 20%. Design of the concrete mix was done to achieve a characteristic strength of 50
+N/mm². The chemical composition of the GCHA was determined using X-ray Fluorescence (XRF).
+Slump and compacting factor of fresh HPC were determined. Concrete cubes (for compressive
+strength), beams (for flexural strength) and cylinder (for split tensile strength) samples were cast
+and cured in water for 7 - 56 days. Density, compressive, flexural, and split tensile strengths were
+determined on the hardened HPC and were further examined using SEM analysis. Compressive
+strength at 56 days showed that control and inclusion of 5% GCHA gave strength 56.85 N/mm2
+and 57.76 N/mm2, respectively above the designed target strength of 56.56 N/mm2 while inclusion
+of 10% GCHA met characteristics strength of 50 N/mm2. However, 5% GCHA-concrete had the
+highest flexural and split tensile strengths at 56 days of curing. Integration of 10% GCHA as
+replacement of OPC would produce concrete of higher strengths compared to conventional HPC
+at longer curing age. Based on the SEM results, uniform distribution of filler was obtained at 10%
+GCHA inclusion. At higher percentage of GCHA, resulting composite presents multiple and
+distinct grains with possible weak interfaces.
+Keywords: Compressive strength, Flexural strength, Guinea Corn Husk Ash, High Performance
+Concrete, Split tensile strength
+Introduction
+High performance concrete (HPC) are in high demand because of its high strength, good
+workability, and better durability. The common strategy in increasing the strength of high-
+performance concrete is by lowering the water-cement ratio and increasing the cement content
+(Mahmud et al., 2016). HPC is a type of concrete that fulfils distinct performance and uniformity
+requirements which would not be accomplished by adopting conservative materials and standard
+mixing, placing, and curing practices (Rana et al., 2016). The focus on HPC has drastically risen
+because of the utilization of large volume of concrete, resulting to the growth in infrastructure
+such as Highways, Bridges, Buildings, Hydraulic Structures, and Industrial Structures (Choudhary
+et al., 2014). HPC possesses high durability, fluidity, workability, density, modulus of elasticity,
+dimensional stability, and compressive strength, self-compacting, easy mixing, low permeability,
+higher flexural strength, resistance to chemical attack, cost effectiveness, and environmental
+friendliness (Mondal and Banerjee (2017).
+HPC concrete is usually produced with materials such as Ground Blast Furnace Slag, Fly Ash or
+Silica fume in addition to cement to achieve its requirement. The materials are mixed with
+DOI: 10.36108/laujoces/0202/50(0131)
+
+
+===== PAGE 2 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+140
+Portland cement in varying proportions depending on the desired requirement (Choudhary et al.,
+2014).
+This research was aimed at using Guinea Corn Husk Ash (GCHA) as fractional replacement of
+cement in HPC to improve the strength of the concrete. GCHA is obtained from the combustion of
+Guinea Corn Husk (GCH) either in a furnace (controlled temperature) or open burning
+(uncontrolled temperature). Akinloye et al., (2014) described GCHA as agricultural waste which
+is derived from the processing of guinea corn. Close to ten (10) million tonnes of guinea corn husk
+are roduced yearly in the world. About two (2) million tonnes of Guinea corn are harvested per
+annum in Nigeria (Akinloye et al., 2014). GCH are regarded as wastes by farmers and large
+quantities of the husks are burnt in preparation for another farming season (Adebayo et al., 2017).
+However, commercial use of guinea corn husk (with its ash) is the alternative solution to disposal
+and environmental problems caused by farmers through these wastes.
+Ndububa and Nurudeen (2015) examined the influence of GCHA as fractional replacement for
+cement in concrete. The findings showed that GCHA meets the requirement of a pozzolan in
+accordance with standards and it was concluded that GCHA is a good pozzolan for normal
+concrete while the optimum replacement levels is between 5% - 10%. However, it was observed
+that much work have not been done on utilization of GCHA for production of concrete especially
+in Nigeria where large deposit of GCH can be found. Nonetheless, the study did not examine
+consistency and setting time of GCHA; flexural and split tensile strengths; Scanning Electron
+Microscopy (SEM) of hardened concrete; 56 days curing age and mechanical properties of HPC.
+Subbulakshmi et al., (2014) studied the strength behaviour of HPC using silica fume, fibres and
+fly ash. The study revealed that 20% fly ash plus 10% silica fume possess better flexural,
+compressive and split tensile strengths than the control mix. Farzadnia et al., (2011) reviewed the
+combination of inorganic admixtures in binary, ternary and quaternary blended mortars in concrete.
+It was concluded that metakaolin, rice husk ash, silica fume, blast furnace slag, fly ash and palm
+oil fuel ash can improve the dry shrinkage, compressive, creep and tensile strength of concrete.
+Ismeik (2009) studied the influence of inorganic admixtures on the mechanical properties of HPC
+made from local materials. The findings showed that the optimum compressive and flexural
+strengths was observed at a replacement level of 10% for silica fume content and at 15%
+replacement of fly ash content.
+A study by Kannan (2017) on HPC using silica fume and fly ash at 0 - 10% replacement of silica
+fume and 10% unchanging replacement of fly ash to investigate its mechanical properties at 7 and
+28 days. The findings showed that the HPC containing 7.5% of silica fume produced compressive,
+split tensile and flexural strengths of 61.33 N/mm2, 5.83 N/mm2 and 5.96 N/mm2, respectively at
+28 days when compared with conventional concrete. While HPC containing 7.5% of silica fume
+blended 10% fly ash produced compressive, split tensile and flexural strengths of 57.33 N/mm2,
+5.19 N/mm2 and 5.36 N/mm2, respectively. Hence, it was evident that concrete containing silica
+fume alone attains higher strength than those containing silica fume with fly ash.
+Magudeaswaran and Eswaramoorthi (2013) examined the mechanical properties on micro silica
+(silica fume) and fly ash as partial cement replacement. The study showed that 5% silica fume
+blended 10% fly ash gave maximum compressive strengths of 61.33 N/mm2 at 28 days compared
+to 54 N/mm2 for the control mix. The optimum replacement for the split tensile and flexural
+strengths were obtained at 15% silica fume blended 7.5% fly ash (3.60 N/mm2) and 5% silica
+fume blended 2.5% fly ash (9.91 N/mm2), respectively. Thus, HPC containing silica fume blended
+fly ash attained enough strength for structural use.
+
+
+===== PAGE 3 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+141
+Basavaraja et al., (2018) studied strength properties of HPC by means of ultra-fine fly ash and
+nano silica. Optimum compressive, split tensile and flexural strengths of 82.36 N/mm2, 5.51
+N/mm2 and 82.36 N/mm2, respectively was achieved at 10% of ultrafine fly ash blended 4.5%
+Nano-silica admixtures. This generated a higher strength when compared to conventional concrete.
+Banjare and Jaiswal (2017) determined the performance of Supplementary Cementitious Materials
+(SCM) on high strength concrete mixes with Fly ash, Metakaolin, Silica Fume and combinations
+of the ashes. The fulfilment of the compressive strength of the fly ash combined silica fume
+performed better than the control mix.
+Hunchate et al., (2014) studied HPC incorporated with silica fume and superplasticizer. It was
+observed that the compressive strength increased as the proportion of the silica fume rises to 15%.
+Likewise, as the proportion of cement replacement with silica fume rose, the workability of the
+HPC declined. Dembovska et al., (2017) studied the influence of pozzolanic additives on the
+strength development of HPC. In the study, silica fume (10% by weight of cement) led to increase
+in bending and compressive strengths (108MPa) of the HPC at 56 days.
+Sata et al., (2007) studied the inﬂuence of pozzolan obtained from waste materials on mechanical
+properties of high-strength concrete. Pulverized coal combustion ﬂy ash (FA), Fuidized bed
+combustion ﬂy ash (FB), Rice husk–bark ash (RHBA), and Palm oil fuel ash (POFA) were utilized
+in partly replacing Portland cement Type I to produce high-strength concrete. Their findings
+recommend that FA, FB, RHBA and POFA are suitable as substitutes to cement in the
+manufacture of high-strength concrete without altering the mechanical configuration of concrete.
+Based on the previous research, it was observed that much work have not been done on utilization
+of GCHA for production of concrete and no study was found on utilization of GCHA in HPC (as
+of the time of completing this study in 2019). However, the study of Ndububa and Nurudeen
+(2015) on GCHA was limited to normal strength concrete of mix ratio 1:2:4 (water cement ratio of
+0.65) with maximum strength of 26.27 N/mm2 and maximum curing age of 28 days. This study
+examined the oxide compositions of GCHA; consistency and setting time of GCHA; fresh
+properties (slump and compacting factor) of HPC produced with GCHA; compressive, flexural
+and split tensile strengths of HPC produced with GCHA, and Scanning Electron Microscopy
+(SEM) of HPC produced with GCHA.
+Materials and Methods
+Materials used in this study are Dangote cement brand of OPC (Grade 42.5R) with specific gravity
+of 3.13; clean water; natural sand passing through sieve 4.75 mm and crushed stone of maximum
+diameter 12.5 mm both meeting the standard specified in BS 882 (1992); Paracel Superplasticizer
+which conformed to ASTM C494 (1999) was used and guinea corn husk ash (GCHA) with
+specific gravity of 2.80. The GCH were sourced from a milling store at Ijagbo, Oyun Local
+Government of Kwara State. The husks were burnt to ashes at a temperature of 650 0C by
+Thermolyne Furnace at Foundry and Forging Workshop, Mechanical Engineering Department,
+The Federal Polytechnic Offa. The ashes were further ground to finer particles with a milling
+machine and allowed to pass through sieve 90 µm (micron). The GCH and GCHA are presented in
+Figures 1 and 2 while Table 1 shows the physical properties of the materials.
+
+
+===== PAGE 4 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+142
+Figure 1: Guinea corn husks
+Figure 2: Guinea corn husks ash
+The Fineness of OPC and GCHA were determined by sieving method, using sieve No. 9 (90
+microns). The empty pan was weighed, and the weight was recorded. One hundred (100) grams of
+the cement sample was added to the weighing pan with the help of spatula. The new reading was
+taken as weight of empty pan plus 100 grams of cement. The cement was placed in the sieve and
+continuously sieved through circular and vertical motion for a period of 15 minutes. The residue
+left on the sieve was weighed and the weight was recorded (this weight shall not exceed 10% by
+weight of 100g of cement used for OPC). The fineness was obtained using equation 1.
+Sieve
+on
+tained
+Sample
+of
+Percentage
+Fineness
+Re
+
+(1)
+The fineness modulus was conducted in accordance with BS EN 933-1 (2012). The test sample
+was oven dried at temperature of
+C
+0
+5
+110 
+and weighed. The sample was sieved with a set of BS
+sieves and electric sieve shaker. On completion of sieving, the materials on each sieve were
+weighed. Cumulative weight passing through each sieve was calculated as a percentage of the total
+sample weight. Fineness modulus was obtained (using equation 2) by adding cumulative
+percentage of aggregates retained on each sieve and dividing the sum by 100.
+100
+Re
+%
+tained
+e
+Cummulativ
+Total
+Modulus
+Fineness
+
+(2)
+Specific gravity of the materials was done in accordance with BS 1377:2 (1990). The samples
+were screened on BS sieve thoroughly to remove unwanted particles and other deleterious
+materials. The weight of empty bottle was recorded as
+1
+W . The sample were filled into the bottle
+and weighed; the weight was recorded as
+2
+W (weight of bottle + dry sample). The bottle was filled
+gradually with distilled water to gauge mark, soon after the end of soaking, air entrapped and
+bubbles on the surface of the sample was removed by shaking the bottle and the weight was
+recorded as
+3
+W (weight of bottle + dry sample + distilled water), after which the bottle was
+emptied and oven dry. The bottle was then filled with distilled water to the gauge mark and
+weighed as
+4
+W (weight of bottle + distilled water). The specific gravity was obtained using
+equation 3.
+
+
+
+2
+3
+1
+4
+1
+2
+w
+w
+w
+w
+w
+w
+Gravity
+Specific
+
+
+
+
+
+(3)
+
+
+===== PAGE 5 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+143
+Table 1: Physical properties of materials
+Test
+Materials
+OPC
+GCHA
+Fine Aggregate
+Coarse Aggregate
+Fineness (%)
+2.5
+7
+Fineness Modulus
+(%)
+2.8
+4.0
+Specific Gravity
+3.13
+2.80
+2.67
+2.69
+The replacement proportioning of OPC with GCHA were 0, 5, 10, 15 and 20%. This range of
+replacements was in conformity to a previous study by Ndububa and Nurudeen (2015).
+Consistency and setting time of GCHA were determined in accordance with BS EN 196-3
+2005+A1:2008 (2009) using the Vicat Apparatus. Slump and compacting factor were conducted
+on the fresh properties of HPC. Both tests conform to BS EN 12350-2 (2009) and BS EN 12350-4
+(2009), respectively. One (1) percent of superplasticizer (SP) by mass of cement was added to the
+mix to improve the strength of the concrete thereby reducing the water cement ratio. Concrete mix
+design was adopted in accordance with COREN Mix Design Manual (2017) with a characteristic
+strength of 50 N/mm² and designed target mean strength of 56.56 N/mm2. Forty-five (45) concrete
+cubes were produced (9 cubes for the control mix and 36 cubes for concrete with GCHA), Thirty
+(30) rectangular concrete beams (6 beams for the control mix and 24 beams specimen with GCHA)
+and a total number of 45 cylindrical concrete samples (9 cylindrical specimens for the control mix
+and 36 cylindrical specimens for concrete with GCHA) were formed. The concrete specimens
+were immersed in water for a period of 7, 28 and 56 days. At the end of each curing ages, density
+of the concrete cubes was conducted in conformity to BS EN 12390-7 (2009). While compressive,
+flexural and split tensile strengths of the concrete cubes, beams and cylindrical samples were
+carried out in accordance to BS EN 12390-3 (2009), BS EN 12390-5 (2009) and BS EN 12390-6
+(2000), respectively using Haida Universal Testing Machine (UTM) of 2000 kN capacity at the
+Materials and Structures Laboratory, Department of Civil Engineering, Osun State University,
+Osogbo, Nigeria. The oxide composition of the GCHA was carried out at the National Agency for
+Science and Engineering Infrastructure (NASENI), Centre of Excellence, Nanotechnology and
+Advanced Material, Akure, Nigeria with the aid of Skyray EDX 3600B Energy Dispersive X-ray
+Fluorescence (XRF) Spectrometer. Scanning Electron Microscopy (SEM) was conducted on
+GCHA hardened concrete specimens. The SEM images were conducted at Kwara State University,
+Malete and measured on a Scanning Electron Microscope (ASPEX 3020) at 16.0 kV accelerating
+voltage. The samples were coated with gold using Balzer’s sputtering device before observing
+them in the microscope.
+The mix proportions used are presented in Tables 2 to 4.
+Table 2: Mix proportions for concrete cube
+W/C
+Ratio
+Cement
+(kg)
+GCHA
+(%)
+GCHA
+(kg)
+SP
+(g)
+Aggregates
+Fine (kg)
+Coarse
+(kg)
+0.31
+24.60
+0
+0
+246
+19.35
+35.85
+0.31
+23.37
+5
+1.23
+246
+19.35
+35.85
+0.31
+22.14
+10
+2.46
+246
+19.35
+35.85
+0.31
+20.91
+15
+3.69
+246
+19.35
+35.85
+0.31
+19.68
+20
+4.92
+246
+19.35
+35.85
+
+
+===== PAGE 6 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+144
+Table 3: Mix proportions for concrete beam sample
+W/C
+Ratio
+Cement
+(kg)
+GCHA
+(%)
+GCHA
+(kg)
+SP
+(g)
+Aggregates
+Fine (kg)
+Coarse
+(kg)
+0.31
+24.60
+0
+0
+246
+19.08
+35.40
+0.31
+23.37
+5
+1.23
+246
+19.08
+35.40
+0.31
+22.14
+10
+2.46
+246
+19.08
+35.40
+0.31
+20.91
+15
+3.69
+246
+19.08
+35.40
+0.31
+19.68
+20
+4.92
+246
+19.08
+35.40
+Table 4: Mix proportions for concrete cylindrical sample
+W/C
+Ratio
+Cement
+(kg)
+GCHA
+(%)
+GCHA
+(kg)
+SP
+(g)
+Aggregates
+Fine (kg)
+Coarse
+(kg)
+0.31
+38.70
+0
+0
+387
+30.33
+56.25
+0.31
+36.76
+5
+1.94
+387
+30.33
+56.25
+0.31
+34.83
+10
+3.87
+387
+30.33
+56.25
+0.31
+32.89
+15
+5.81
+387
+30.33
+56.25
+0.31
+30.96
+20
+7.74
+387
+30.33
+56.25
+Results and Discussion
+Oxides composition of GCHA
+The oxide composition of the GCHA is presented in Table 5.
+Table 5: Oxides composition of GCHA
+Content
+Percentage (%)
+SiO2
+66.06
+Al2O3
+4.44
+Fe2O3
+4.36
+CaO
+2.90
+MgO
+0.00
+K2O
+10.79
+Na2O
+0.00
+SO3
+1.74
+Mn
+0.05
+Zn
+0.42
+The summation of the oxides - SiO2, Al2O3, and Fe2O3, of GCHA used in this research, is 74.86 %
+with silicon dioxide (SiO2) possessing the maximum percentage of oxide composition. This fulfils
+the condition for a supplementary cementing material given in BS EN 197-1 (2011). In addition,
+the sum of the oxides - SiO2, Al2O3, and Fe2O3 of the GCHA, which is above 70% agrees with the
+previous finding by Ndububa and Nurudeen (2015).
+Consistency and setting time of OPC-GCHA
+
+
+===== PAGE 7 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+145
+The consistency and setting time results of the OPC-GCHA are presented in Figures 3 and 4
+respectively.
+Figure 3: Consistency of OPC-GCHA HPC
+Figure 4: Setting time of OPC-GCHA HPC
+The results from Figure 3 shows that 20% GCHA by weight of OPC have the highest consistency
+while 0% have the lowest consistency. However, as the ratio of replacement of OPC increased, the
+consistency also increased. It should be noted that the speciﬁc gravity of GCHA is lower than that
+of OPC, resulting in larger volume of GCHA compared with the OPC, since the OPC was
+replaced by mass. This led to addition of more water to form a paste for consistency for the
+diﬀerent percentages of GCHA in the blended OPC (Adesanya and Raheem, 2009). ASTM
+
+
+===== PAGE 8 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+146
+C150/C150M (2012) recommends 45 minutes as the least for initial setting time and 375 minutes
+as the extreme for final setting time while BS EN 197-1 (2000) recommends 60 minutes as the
+least for initial setting time for 42.5R OPC. The outcome of the setting time (Figure 4) reveals that
+all percentage replacement (OPC/GCHA) conformed to the least initial time and highest final time
+specified by ASTM C150/C150M (2012). The behaviour of the consistency and setting correlates
+with the earlier study by Ige et al., (2017) and Anifowose et al., (2018).
+Workability of fresh concrete
+The results for the workability (slump and compacting factor) of fresh HPC are presented in
+Figures 5 and 6.
+Figure 5: Slump of OPC-GCHA HPC
+
+
+===== PAGE 9 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+147
+Figure 6: Compacting factor of OPC-GCHA HPC
+From Figure 5, the slump height values reduced as the proportion of GCHA by weight of OPC
+surges. This shows that the concrete became stiff as the proportion of GCHA by weight of OPC
+increases. This agrees with the submission by Ige et al., (2018) that SCM absorb more water in
+concrete which makes it become less workable. The high demand for water as the GCHA content
+increases is as a result of the increased amount of silica in the mixture (Obilade, 2014).
+Nonetheless, the compacting factor value (Figure 6) reduced at 10% replacement and afterwards
+increased at 15 and 20%. Compacting factor is suitable for concrete of low workability (Shetty,
+2000). The compacting factor values in Figure 6 fell within the minimum value of 0.70 and
+maximum value of 0.98 specified by BS EN 12350-4 (2009).
+Density of fresh concrete
+The mean density of the GCHA-HPC cubes conducted is as presented in Table 6.
+Table 6: Density of Concrete Cubes
+Replacement of
+GCHA (%)
+Mean Density (Kg/m3)
+7 Days
+28 Days
+56 Days
+0
+2489
+2607
+2610
+5
+2489
+2578
+2615
+10
+2459
+2419
+2582
+15
+2350
+2359
+2480
+20
+2300
+2330
+2476
+The densities of all the concrete cubes formed is within the boundary of 2300 kg/m3 - 2615 kg/m3
+for structural concrete as specified in BS EN 12390-7 (2009). The density of the concrete declined
+as the proportion of GCHA increased and this corresponds to the study by Magudeaswaran and
+Eswaramoorthi (2013) on HPC. However, the density of the cubes increased with increase in
+curing age, which leads to improvement in unit weight due to prolongation of curing (rate of
+hydration). The maximum unit weight of 2615 kg/m3 recorded at 5% GCHA signified the peak
+compressive strength obtained at 56 days curing.
+Compressive strength
+The compressive strength results of the GCHA-HPC at 7, 28 and 56 days are presented in Figure 7.
+
+
+===== PAGE 10 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+148
+Figure 7: Compressive strength of OPC-GCHA HPC
+The compressive strength results at 7 days curing shows that the control and 5% GCHA met the
+least required compressive strength of 36 N/mm2 for concrete grade 50 as contained in BS 8110-2
+(1985) while the strength of 10% GCHA, 15% GCHA and 20% GCHA are below the required
+strength. Likewise, at 28 days of curing, the compressive strength of 0% GCHA and 5% GCHA
+met the least required compressive strength of 50 N/mm2 for concrete grade 50 as contained in BS
+8110-2 (1985) while the strength of 10% GCHA, 15% GCHA and 20% GCHA falls below the
+required strength. At 56 days curing age, the compressive strength of the control and 5% GCHA is
+above the designed target mean strength of 56.56 N/mm2 while the compressive strength of 10%
+GCHA met the characteristics strength of 50 N/mm2 but that of 15% GCHA and 20% GCHA falls
+below the designed target mean strength and characteristics strength. Nonetheless, the findings
+reveal that the compressive strength of concrete rises with increase in curing age and 5% GCHA-
+concrete had the highest strength of 57.76 N/mm2. This is followed by the control (56.85 N/mm2),
+10% GCHA (50.87 N/mm2), 15% GCHA (45.82 N/mm2), and 20% GCHA (43.83 N/mm2).
+Since SCM in concrete tends to gain strength at a longer curing age, the optimum GCHA that
+conforms to the characteristic compressive strength of 50 N/mm² is 5% and 10% GCHA
+replacement. The highest compressive strength (57.76 N/mm2) obtained at 5% GCHA agrees and
+corresponds to the optimum replacement of GCHA reported by Ndububa and Nurudeen (2015) for
+use in concrete production. However, the study of Ndububa and Nurudeen (2015) was limited to
+normal concrete with maximum strength of 26.27 N/mm2 (obtained at 5% GCHA), compressive
+strength and maximum curing age of 28 days.
+Flexural strength
+Results of the flexural strength of GCHA-HPC at 7, 28- and 56-days curing are presented in
+Figure 8.
+
+
+===== PAGE 11 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+149
+Figure 8: Flexural Strength of OPC-GCHA HPC
+The outcome reveal that the flexural strength improved as the curing age increased. It was further
+observed that 5% GCHA have the peak flexural strength at 56 days of curing unlike 28th day and
+7 days where the conventional concrete has the peak strength. Nonetheless, 7 days flexural
+strength of 20% GCHA-Concrete was higher than that of 28th day curing. This is an indication of
+a drop in strength at 28th day which later improved at 56 days of curing age. At 56 days, 5%
+GCHA provides the highest flexural strengths which negates the optimum replacement reported
+by Ismeik (2009) and Subbulakshmi et al., (2014). This is due to the difference in the SCM used
+in this research as compared to the one used by the Authors.
+Split tensile strength
+The split tensile strength result on GCHA-HPC at 7, 28- and 56-days curing are presented in
+Figure 9.
+
+
+===== PAGE 12 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+150
+Figure 9: Split Tensile Strength of OPC-GCHA HPC
+Just as observed in the flexural strength, the results shown in Figure 9 reveal that the split tensile
+strength increased as the curing age increased. It was also observed that 5% GCHA replacement
+gave the highest splitting strength at 56 days of curing unlike 28th day and 7th day results where
+the conventional concrete had the highest strength. However, GCHA did not perform better in
+terms of optimum replacement of cement in HPC when compared with fly ash plus silica fume,
+silicafume and flyash, silicafume blended flyash, and micro silica (silica fume) blended fly ash
+used by Subbulakshmi et al., (2014), Ismeik (2009), Kannan (2017) and Magudeaswaran and
+Eswaramoorthi (2013), respectively.
+Microstructure of HPC
+The SEM images were measured and presented in Figures 10a-e.
+(a) 0% GCHA Inclusion
+(b) 5% GCHA Inclusion
+
+
+===== PAGE 13 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+151
+(c) 10% GCHA Inclusion
+(d) 15% GCHA Inclusion
+(e) 20% GCHA Inclusion
+Figure 10: SEM Images of OPC-GCHA HPC
+From the SEM micrographs in Figure 10, best uniform distribution of filler was obtained at 10%
+GCHA inclusion. At higher percentage of GCHA, resulting composite presents multiple and
+distinct grains with possible weak interfaces. These weak interfaces can provide weakness to the
+overall mechanical properties of the composite. On the other hand, the GCHA inclusion is
+expected to influence the mechanical properties of the composite with optimum values expected at
+10% GCHA after 56 days curing. These improved properties can be because of crack
+deflection/impediment by the GCHA filler at the appropriate content.
+The SEM results thus corroborates the results obtained from the compressive, flexural, and split
+tensile strength tests which reveals that OPC-GCHA HPC will perform optimally when GCHA is
+used as a replacement for OPC up to 10%.
+Conclusion
+The following inferences were made from the study:
+i.
+Guinea Corn Husk Ash meets the requirement for pozzolanic materials.
+ii.
+All proportions of replacement of OPC with GCHA considered in the study meets the
+requirement for minimum initial and maximum final setting time for OPC.
+iii.
+Concrete becomes stiff (less workable) as percentage of GCHA increases.
+iv.
+Up to 5% GCHA and 10% GCHA replacement can be used for production of concrete
+grade 50 provided the minimum curing days is 56 days.
+
+
+===== PAGE 14 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+152
+v.
+10% GCHA is recommended as the optimum replacement since it meets the 50 N/mm2
+characteristics strength at 56 days curing age.
+Acknowledgement
+The Authors acknowledge the input of the academic staff in the Department of Civil and
+Environmental Engineering, Kwara State University, Malete.
+References
+Adebayo, V. B., Adebayo, T. D. and Popoola, O. O. (2017). Effects of guinea corn husk ash and
+lime mixtures on lateritic soil for highway construction, Journal of Multidisciplinary
+Engineering Science and Technology (JMEST), 4(10): 8375-8381.
+Adesanya, D. A. and Raheem, A. A. (2009). Development of corn cob ash blended cement,
+Construction
+and
+Building
+Materials,
+23(1):
+347–352.
+Doi:
+10.1016/j.conbuildmat.2007.11.013
+Akinloye, S. A., Bankole, G. M. and Medubi, A. (2014). Effect of lime-guinea corn husk ash on
+the engineering properties of lateritic soil, EJGE, 19: 17693-17699.
+Anifowose, M. A, Ige, J. A, Yusuf, A. L, Adebara, S. A. and Abdulkarim, A. A. (2018). Physio-
+chemical assessment of Rice Husk Ash (RHA) Blended Calcium Chloride (CaCl2) as
+supplementary
+cementing
+materials,
+ANNALS
+of
+Faculty
+Engineering
+Hunedoara-
+International Journal of Engineering, 16(4): 111-114.
+ASTM C150/C150M (2012). Standard Specification for Portland Cement, American Society for
+Testing and Materials (ASTM International), West Conshohocken, PA 19428-2959, United
+States, pp.467-471.
+ASTM C494 (1999). Standard Specification for Chemical Admixtures for Concrete, American
+Society for Testing and Materials (ASTM International), West Conshohocken, PA 19428-
+2959, United States.
+Banjare, A. and Jaiswal, S. K. (2017). Influence of supplementary cementitious materials on high
+strength concrete, International Journal for Scientific Research & Development, 5(10): 695-
+697.
+Basavaraja, R., Somasekharaiah, H. M. and Gadag, P. R (2018). Study on strength properties of
+high-performance concrete using ultra-fine fly ash and Nano silica, International Research
+Journal of Engineering and Technology (IRJET), 5(1): 814-823.
+BS EN 12350-2 (2009). Testing Fresh Concrete - Slump Test, British Standards, London, W4
+4AL, UK, Standards Policy and Strategy Committee.
+BS EN 12350-4 (2009). Testing Fresh Concrete - Degree of Compactability, British Standards,
+London, W4 4AL, UK, Standards Policy and Strategy Committee.
+BS EN 12390-3 (2009). Testing Hardened Concrete - Compressive Strength of Test Specimens,
+British Standards, London, W4 4AL, UK, Standards Policy and Strategy Committee.
+BS EN 12390-5 (2009). Testing Hardened Concrete - Flexural Strength of Test Specimens, British
+Standards, London, W4 4AL, UK, Standards Policy and Strategy Committee.
+BS EN 12390-6 (2000). Testing Hardened Concrete - Tensile Splitting Strength of Test Specimens,
+British Standards, London, W4 4AL, UK, Standards Policy and Strategy Committee,
+(Amended 17th November, 2004).
+BS EN 12390-7 (2009). Testing Hardened Concrete - Density of Hardened Concrete, British
+Standards, London, W4 4AL, UK, Standards Policy and Strategy Committee.
+BS EN 196-3 2005+A1:2008 (2009). Methods of Testing Cement-Determination of Setting Time
+and Soundness, British Standards, London, W4 4AL, UK, Technical Committee B/516.
+BS EN 197-1 (2011). Cement-Composition, Specifications and Conformity Criteria for Common
+Cements, British Standards, London, W4 4AL, UK, Standards Policy and Strategy
+Committee.
+
+
+===== PAGE 15 =====
+
+LAUTECH Journal of Civil and Environmental Studies
+e-ISSN: 2714-3988
+Volume 5, September, 2020
+153
+BS EN 933-1 (2012). Tests for Geometrical Properties of Aggregates - Part 1: Determination of
+Particle Size Distribution - Sieving Method, British Standards, London, W4 4AL, UK,
+Standards Policy and Strategy Committee.
+BS 882 (1992). Specification for Aggregates from Natural Sources for Concrete, British Standards,
+London, W4 4AL, UK, Standards Policy and Strategy Committee (Amended 6th March,
+2002).
+BS 1377:2 (1990). Methods of Test for Soil for Civil Engineering Purposes. British Standards,
+London, W4 4AL, UK, Standards Policy and Strategy Committee.
+BS 8110-2 (1985). Structural Use of Concrete, Code of Practice for Design and Construction,
+British Standards, London, W4 4AL, UK, Civil Engineering and Building Structures
+Standards Committee (Amended May, 1989).
+Choudhary, S., Bajaj, R. and Sharma, R.K. (2014). Study of high-performance concrete, Journal
+of Civil Engineering and Environmental Technology, 1(5): 109-113.
+COREN Mix Design Manual (2017). Concrete Mix Design Manual “First Edition”, Council for
+The Regulation of Engineering In Nigeria, Special Publication NO. COREN/2017/016/RC.
+Dembovska, L., Bajarea, D., Pundieneb, I. and Vitola, L. (2017). Effect of pozzolanic additives on
+the strength development of high-performance concrete, Procedia Engineering, 172: 202–
+210. Doi: 10.1016/j.proeng.2017.02.050
+Farzadnia, N., Ali, A. A. A. and Demirboga, R. (2011). Incorporation of mineral admixtures in
+sustainable high-performance concrete, International Journal of Sustainable Construction
+Engineering & Technology, 2(1): 44-56.
+Hunchate, S. R., Chandupalle, S., Ghorpode, V. G. and Venkata-Reddy, T. C. (2014). Mix design
+of high-performance concrete using silica fume and superplasticizer, International Journal
+of Innovative Research in Science, Engineering and Technology, 3(3): 10735-10742.
+Ige, J. A., Anifowose, M. A., Odeyemi, S. O., Adebara, S. A. and Oyeleke, M. O. (2018).
+Assessment of Rice Husk Ash (RHA) and Calcium Chloride (CaCl2) on compressive
+strength of concrete grade 20, International Journal of Engineering Research in Africa
+(JERA), 40: 22-29. Doi: 10.4028/www.scientific.net/JERA.40.22
+Ige, J. A., Anifowose, M. A., Oyeleke, M. O., Bakare, S. B. and Akinjobi, T. F. (2017). Physio-
+chemical assessment of Groundnut Shell Ash (GSA) blended Calcium Chloride (CaCl2) as
+supplementary
+cementing
+material,
+ACTA
+TECHNICA
+CORVINIENSIS–Bulletin
+of
+Engineering Journal, 10(3): 155-158.
+Ismeik, M. (2009). Effect of mineral admixtures on mechanical properties of high strength
+concrete made with locally available materials, Jordan Journal of Civil Engineering, 3(1):
+78-90.
+Kannan, S. U. (2017). Experimental investigation on high performance concrete using silicafume
+and flyash, International Journal of Engineering Research and Development, 13(10): 42-49.
+Magudeaswaran, P. and Eswaramoorthi, P. (2013). Experimental investigations of mechanical
+properties on micro silica (silica fume) and fly ash as partial cement replacement of high-
+performance concrete, IOSR Journal of Mechanical and Civil Engineering (IOSR-JMCE),
+6(4): 57-63.
+Mahmud, H. B., Bahri, S., Yee, W. Y. and Yeap, Y. T. (2016). Effect of rice husk ash on strength
+and durability of high strength-high performance concrete, International Journal of Civil &
+Environmental Engineering, 10(3): 390-395. Doi.org/10.5281/zenodo.1123585
+Mondal, S. and Banerjee, S. (2017). High strength & high-performance concrete, International
+Journal of Civil Engineering and Technology (IJCIET), 8(6): 782-786.
+Ndububa, E. E. and Nurudeen, Y. (2015). Effect of guinea corn husk ash as partial replacement for
+cement in concrete, IOSR Journal of Mechanical and Civil Engineering (IOSR-JMCE,)
+12(2): 40-45. Doi: 10.9790/1684-12214045
+
+
+===== PAGE 16 =====
+
+Mechanical Properties of High-Performance Concrete with Guinea Corn Husk Ash as Additive
+154
+Obilade, I. O. (2014). Use of rice husk ash as partial replacement for cement in concrete,
+International Journal of Engineering and Applied Sciences, 5(4): 11-16.
+Rana, S. Tiwari, A. and Srivastava, A. K. (2016). High performance concrete and its applications
+in the field of civil engineering construction, International Journal of Current Engineering
+and Technology, 6(3): 982-985.
+Sata, V., Jaturapitakkul, C. and Kiattikomol, K. (2007). Inﬂuence of pozzolan from various by-
+product materials on mechanical properties of high-strength concrete, Construction and
+Building Materials, 21(7): 1589–1598. Doi: 10.1016/j.conbuildmat.2005.09.011
+Shetty, M. S. (2000). Concrete Technology: Theory and Practice, S.Chand and Company Ltd.,
+Ram Nagar, New Delhi.
+Subbulakshmi, T., Vidivelli, B. and Nivetha, K. (2014). Strength behaviour of high-performance
+concrete using fibres and industrial by products, International Journal of Engineering
+Research & Technology (IJERT), 3(8): 1219-1224.

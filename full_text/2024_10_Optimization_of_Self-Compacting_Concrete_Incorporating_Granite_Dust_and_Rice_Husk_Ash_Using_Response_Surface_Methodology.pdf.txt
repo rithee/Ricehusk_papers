@@ -1,0 +1,1614 @@
+
+===== PAGE 1 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 39 
+ 
+ 
+KJSET                                                                                                                                                                                     Research Article 
+ 
+ 
+Optimization of Self-Compacting Concrete Incorporating Granite Dust and Rice Husk Ash Using 
+Response Surface Methodology 
+ 
+1Sani Aliyu, & 2Adetoye Olubunmi 
+1 Department of Civil Engineering, Kampala International University, Western Campus, Uganda.  
+2Civil Engineering Department, Abubakar Tafawa Balewa University, Bauchi. 
+saliyu@kiu.ac.ug1 & adetoyeolubunmi@gmail.com2 
+ 
+Corresponding Author:  saliyu@kiu.ac.ug 
+ 
+Paper history: 
+Received 22 November 2023 
+Accepted in revised form 05 
+April 2024 
+ 
+Abstract 
+Concrete that can flow under its own weight, fully fill a space or formwork, and create a 
+dense, suitably homogenous material without the requirement for compaction is known as 
+self-compacting concrete, or SCC for short. Rice husk ash and granite dust were added to 
+self-compacting concrete, which was optimized using response surface approach. At 3, 7, 
+28, and 90 days at an unchanged water-binder ratio of 0.46, the effectiveness of the granite 
+dust and rice husk ash in self-compacting mixes of concrete was evaluated in terms of 
+compressive strength and workability using the V-funnel, J-ring, and slump flow tests.  The 
+findings suggest that discarded granite dust and rice husk ash can be effectively used to 
+make self-compacting concrete. The best percentage replacement values were found to be 
+10% for rice husk ash and 20% for granite dust in place of fine aggregate and cement. This 
+approach allows for the production of self-compacting concrete compositions that are 
+highly sustainable and efficient by optimizing the proportions of these two components.  
+ 
+  
+ 
+ 
+Keywords  
+ 
+Self-Compacting 
+Concrete, Granite 
+Dust, Rice Husk 
+Ash, Optimization, 
+Response Surface 
+Methodology. 
+ 
+ 
+ 
+ 
+ 
+  
+KIU  
+Journal of Science, Engineering 
+and Technology 
+
+
+===== PAGE 2 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 40 
+ 
+1.0 
+Introduction  
+The use of self-compacting concrete (SCC) has dramatically 
+increased in recent years (Jawad et al., 2023; Liu, 2010; Leemann 
+and Munch, 2010; Kou and Poon, 2009; Adetoye et al., 2023)). In 
+1988, self-compacting concrete (SCC) was created in Japan to 
+increase the homogeneity and reliability of concrete; it requires 
+no consolidation or compaction activity at the site (Okamura and 
+Ouchi, 1999).  The addition of mineral admixtures is one of the 
+key distinctions between SCC and conventional concrete. As a 
+result, numerous investigations on how mineral admixtures affect 
+SCC's characteristics have been carried out. These investigations 
+demonstrate the benefits of using mineral admixtures in SCC, 
+including better workability at lower cement concentrations (Ye 
+et al., 2007; Poppe and Schutter, 2005). Reducing the cement 
+content in concrete is a cost-effective approach because cement is 
+the most expensive component. Furthermore, the mineral 
+admixtures have the capacity to enhance particle packing and 
+reduce concrete's permeability. Therefore, the durability of 
+concrete is also increased (Assie et al., 2007). Industrial by-
+products or agricultural waste materials such as granite powder 
+and rice husk ash are generally used as mineral admixtures in SCC 
+(Ravinda and Rafat, 2017, Gzegorz et al., 2019). As a result, SCC 
+is more workable and more waste or by-products can be utilized.  
+  
+Large volumes of granite dust (GD) granules are created 
+in granite quarries as a byproduct of the stone crushers. There is 
+an accumulation of these powders in large quantities, and it is 
+difficult to suggest using these byproducts in terms of disposal, 
+environmental contamination, and health risks. (Prokopski et al., 
+2020, Adetoye et al., 2023).   Due to their detrimental effects on 
+the water requirement and toughness of the hardened concrete, 
+substantial quantities of mineral admixtures are not often used to 
+concrete mixtures in conventional concrete. These mineral 
+admixtures, however, are effective at enhancing viscosity, 
+especially in powder-type SCC. Moreover, granite dust has been 
+shown to significantly improve the workability and density of 
+concrete, as well as the compressive strength beyond 28days. 
+(Prokopski et al., 2020). 
+An estimated 148 million tons of rice husks are 
+generated annually, along with 742 million tons of rice produced 
+worldwide (FAO study, 2015). About 0.19 tons of ashes are 
+produced for every ton of husk. Rice husks are burned to create 
+rice husk ash (RHA). Generally, every ton of husk produces about 
+0.19 ton of ash (Prasad et al., 2000, Bouzoubaa and Fournier, 
+(2001). Rice husk has a high calorific value (Asavapisit and 
+Ruengrit, 2005; RHA market study, 2003). The concentration of 
+amorphous silica is primarily found on the surface of the rice 
+husk. (Jauberthie et al., 2000). The use of RHA in SCC results in 
+more affordable and environmental friendly concrete. RHA, a by-
+product of agricultural activities, is a valuable mineral admixture 
+(MA) because of its high surface area, quantity, and pozzolanic 
+character, and its utilization in SCC reduces building time and 
+energy consumption. Self-compacting concrete mixes have 
+unique characteristics not seen in ordinary concrete because of the 
+changed aggregate concentration and the inclusion of chemical 
+and mineral admixtures (Neville, 2003). 
+This work's primary goal is to create self-compacting 
+concrete (SCC) with varying amounts of superplasticizer (SP), 
+rice husk ash (RHA), and granite dust (GD) while maintaining a 
+steady water-to-binder (w/b) ratio. The specific objectives are to 
+assess the workability, filling capacity, and passing ability of SCC 
+in its fresh form. The study also intends to evaluate the effects on 
+the compressive strength of SCC by replacing fine aggregate with 
+granite dust (GD) and cement with RHA.  
+ 
+2.0 
+Materials and Methods  
+2.1 
+Materials 
+- Cement: Ordinary Portland cement (Grade 42.5) was used. The 
+physical and chemical properties of the Portland cement comply 
+with the requirements of NIS 444-14. 
+- Aggregates: Coarse aggregate used was crushed stone of 
+nominal maximum size of 20 mm, and fine aggregate was natural 
+river sand of maximum size less than 4.75mm, and both are 
+graded in accordance with EN 12620. 
+- Superplasticizer: Conmix SP – high-range superplasticizer based 
+on polycarboxylic ethers was used. 
+- Granite dust: The granite dust used for the study was obtained 
+from a granite processing industry. 
+2.1.2 
+Concrete Mix Design 
+The concrete mix design of M30 MPa was carried out according 
+to ACI-211, 2003. 
+Table 1: Mix design 
+ 
+Component 
+Value 
+Minimum strength (N/mm2) 
+30 
+Target strength (N/mm2) 
+38 
+Cement type 
+OPC 42.5 
+Maximum size of aggregate 
+20mm 
+Water/cement ratio 
+0.46 
+Cement content (kg/m3) 
+435 
+Fine aggregate (kg/m3) 
+980 
+Coarse aggregate (kg/m3) 
+795 
+Water content (kg/m3) 
+200 
+Superplasticizer (kg/m3) 
+8.7 
+Mix ratio 
+1:2.85:1.53:0.46 
+ 
+2.2.2 
+Experimental Design  
+Box Behnken response surface methodology was 
+adopted 
+in 
+the 
+design 
+of 
+experimental 
+combinations. 
+Experimental runs were created by Design-Expert software 13 for 
+M30 grade concrete. It was also used to quantify the relationship 
+between the controllable input parameters and the obtained 
+response surfaces. The Box–Behnken experimental design was 
+used to analyze, model and optimize the results of compressive 
+strength of SCC.  
+Table 2:  Factor and Factor Levels of Mixture. 
+ 
+ 
+Factor level 
+Factor 
+Low 
+High 
+GD (%) 
+20 
+60 
+RHA (%) 
+5 
+20 
+Superplasticizer 
+1 
+3 
+ 
+Table 3: Factor Combinations for BBD.  
+ 
+
+
+----- TABLE p2#1 -----
+
+Component | Value
+Minimum strength (N/mm2) | 30
+Target strength (N/mm2) | 38
+Cement type | OPC 42.5
+Maximum size of aggregate | 20mm
+Water/cement ratio | 0.46
+Cement content (kg/m3) | 435
+Fine aggregate (kg/m3) | 980
+Coarse aggregate (kg/m3) | 795
+Water content (kg/m3) | 200
+Superplasticizer (kg/m3) | 8.7
+Mix ratio | 1:2.85:1.53:0.46
+
+----- TABLE p2#2 -----
+
+ | Factor level | 
+Factor | Low | High
+GD (%) | 20 | 60
+RHA (%) | 5 | 20
+Superplasticizer | 1 | 3
+
+===== PAGE 3 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 41 
+ 
+Run 
+Factor 1 
+A:G.D 
+% 
+Factor 2 
+B:RHA 
+% 
+Factor 3 
+C:S.P 
+% 
+1 
+60 
+20 
+2 
+2 
+20 
+12.5 
+1 
+3 
+40 
+20 
+3 
+4 
+60 
+5 
+2 
+5 
+20 
+12.5 
+3 
+6 
+40 
+5 
+1 
+7 
+20 
+20 
+2 
+8 
+40 
+12.5 
+2 
+9 
+40 
+12.5 
+2 
+10 
+60 
+12.5 
+1 
+11 
+40 
+20 
+1 
+12 
+40 
+12.5 
+2 
+13 
+40 
+5 
+3 
+14 
+20 
+5 
+2 
+15 
+60 
+12.5 
+3 
+16 
+40 
+12.5 
+2 
+17 
+40 
+12.5 
+2 
+ 
+3.0 
+Results and Discussion 
+ 
+3.1 
+Fresh Properties 
+Table 4 and Figures 1, 2, and 3 present the results of slump flow, 
+V-funnel, and J-ring tests carried out on the SCC. The slump flow 
+and V-funnel tests indicate the filling ability of SCC, whereas the 
+J-ring test indicates its passing ability. All the SCC mixtures had 
+slump flows between 612 and 812 mm, which suggest reasonable 
+deformability (Divya et al., 2015). Mixtures containing 20% 
+RHA, 40% GD at SP dose of 3% had the lowest workability, 
+whereas mixtures containing 5% RHA, 40% GD with an SP dose 
+of 3% had the highest workability. As generally observed for the 
+mixtures, the workability decreased with an increase in the 
+contents of RHA and GD. For the V-funnel test, mixtures 
+containing 5% RHA and 40% GD had the least flow time, whereas 
+mixtures containing 12.5% RHA and 20% GD had the highest 
+flow time. The J-ring results indicated SCC mixtures containing 
+12.5% RHA and 60% GD had the lowest passing ability, whereas 
+SCC mixtures with 12.5% RHA and 40% GD had the highest 
+passing ability. Patil et al. (2024) and Divya et al. (2015) had 
+achieved similar results. The results are in accordance with the 
+requirements of EFNARC (2002). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 4: Results of Fresh Properties of SCC 
+ 
+Run 
+RHA  
+ 
+(%) 
+GD  
+ 
+(%) 
+Slump 
+flow 
+(mm) 
+550-850 
+V-
+funnel 
+(sec) 
+6-12s 
+J-ring  
+ 
+(mm) 
+0-10mm 
+C 
+0 
+0 
+620 
+8.9 
+7.6 
+1 
+5 
+20 
+632 
+7.8 
+7.2 
+2 
+5 
+60 
+712 
+6.6 
+6.8 
+3 
+12.5 
+20 
+646 
+7.5 
+7.5 
+4 
+12.5 
+60 
+765 
+6.3 
+6.4 
+5 
+20 
+20 
+702 
+7.1 
+7.3 
+6 
+20 
+60 
+788 
+6.3 
+5.1 
+ 
+*EFNARC(2002) range 
+  
+ 
+ 
+Figure 1: Results of slump flow test. 
+ 
+ 
+ 
+ 
+ 
+Figure 2: Results of V-funnel test  
+
+
+----- TABLE p3#1 -----
+
+Run | Factor 1
+A:G.D
+% | Factor 2
+B:RHA
+% | Factor 3
+C:S.P
+%
+1 | 60 | 20 | 2
+2 | 20 | 12.5 | 1
+3 | 40 | 20 | 3
+4 | 60 | 5 | 2
+5 | 20 | 12.5 | 3
+6 | 40 | 5 | 1
+7 | 20 | 20 | 2
+8 | 40 | 12.5 | 2
+9 | 40 | 12.5 | 2
+10 | 60 | 12.5 | 1
+11 | 40 | 20 | 1
+12 | 40 | 12.5 | 2
+13 | 40 | 5 | 3
+14 | 20 | 5 | 2
+15 | 60 | 12.5 | 3
+16 | 40 | 12.5 | 2
+17 | 40 | 12.5 | 2
+
+----- TABLE p3#2 -----
+
+Run | RHA
+(%) | GD
+(%) | Slump
+flow
+(mm)
+550-850 | V-
+funnel
+(sec)
+6-12s | J-ring
+(mm)
+0-10mm
+C | 0 | 0 | 620 | 8.9 | 7.6
+1 | 5 | 20 | 632 | 7.8 | 7.2
+2 | 5 | 60 | 712 | 6.6 | 6.8
+3 | 12.5 | 20 | 646 | 7.5 | 7.5
+4 | 12.5 | 60 | 765 | 6.3 | 6.4
+5 | 20 | 20 | 702 | 7.1 | 7.3
+6 | 20 | 60 | 788 | 6.3 | 5.1
+
+===== PAGE 4 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 42 
+ 
+ 
+Figure 3: Result of J-ring test. 
+ 
+3.2 Compressive strength 
+Compressive strength test was carried out on SCC cubic 
+specimens of size 100 mm x 100 mm x 100 mm, in accordance to 
+ASTM C109. The strength was recorded at 3, 7, 28, and 90 days, 
+respectively. The average reading of three cubes was recorded as 
+the compressive strength at the respective age.  The compression 
+test was conducted with a compression testing machine of 3000 
+kN capacity at a loading rate of 0.3 kN/min. The ultimate strength 
+was recorded after the specimens fail to resist any more loads. The 
+compressive strength was calculated using Equation 1: 
+  Compressive Strength =
+𝐹𝑎𝑖𝑙𝑢𝑟𝑒 𝐿𝑜𝑎𝑑 (𝑃)
+𝐶𝑟𝑜𝑠𝑠 𝑆𝑒𝑐𝑡𝑖𝑜𝑛𝑎𝑙 𝐴𝑟𝑒𝑎 (𝐴)     ... (1). 
+                                
+The compressive strength at various ages is shown in Table 5 and 
+the 3D reaction exterior plots in Figures 4–8. Increasing the 
+number of mineral admixtures usually results in a decrease in 
+strength at early ages if compared to the control combination. 
+Since GD and RHA solely function as inert mineral admixtures in 
+this situation, their roles are also better understood because they 
+lower the SCC's compressive strength. In comparison to the 
+control values of 9.1 N/mm2 and 18.9 N/mm2, respectively, the 
+compressive strength of the SCC mixes at three and seven days 
+after application ranged from 4 to 7 N/mm2 and 11 to 15 N/mm2, 
+respectively. The "dilution effect" (Sani, 2019) refers to the early-
+age reduction in the compressive strength of SCC mixtures caused 
+by the removal of cement out of the reacting system. This 
+reduction will cause a decrease in the rate of heat development 
+and strength gain corresponding to the amount of cement 
+replaced. The range of compressive strength at 28 days was 25 to 
+32.3 N/mm2, which is similar to the control value. When 
+compared to the control strength, the compressive strength at 90 
+days showed higher values, ranging from 20.5 to 36.1 N/mm2. 
+The metallic and micro-filling impact of RHA and GD on the 
+cellular and pore structure of the concrete are responsible for the 
+later age increase in compressive strength. The response surface 
+plots show that the influence of RHA is greater than the impacts 
+of GD and SP on the compressible strength of SCC at all ages. 
+The response spectrum models reach extremely substantial 
+significance (p < 0.0001) at all ages, according to the analysis of 
+variance (ANOVA) shown in Tables 6, 7, 8, and 9. The Model F 
+values also show significant models. The model terms' 
+significance is further supported by the P-values. The R2 values 
+show that there is a strong correlation amongst the actual and 
+expected outcomes and that the regression model matches the test 
+data. The adjusted R2 values have shown that the generated 
+models can explain response value change of 87.5%, 98.95%, 
+98.56%, and 98.98% at 3, 7, 28, and 90 days respectively. The 
+relationship between the forecast and the experimental values 
+(Predicted and Actual) as presented in Tables 10 and 11 show that 
+the values are distributed comparatively on a straight line. The 
+experimental results are in good agreement with the predicted. 
+The compressive strength models are given by the following 
+equations: 
+3 𝑑𝑎𝑦𝑠 𝑐𝑜𝑚𝑝𝑟𝑒𝑠𝑠𝑖𝑣𝑒 𝑠𝑡𝑟𝑒𝑛𝑔𝑡ℎ= 8.42 −0.04 ∗ 𝐺𝐷−
+0.112 𝑅𝐻𝐴 +  0.163 ∗ 𝑆𝑃                                                .. (2) 
+7 𝑑𝑎𝑦𝑠 𝑐𝑜𝑚𝑝𝑟𝑒𝑠𝑠𝑖𝑣𝑒 𝑠𝑡𝑟𝑒𝑛𝑔𝑡ℎ =  11.96 +  0.0031 ∗𝐺𝐷 +
+ 0.521 ∗ 𝑅𝐻𝐴 +  0.4208 𝑆𝑃 + −0.0035 𝐺𝐷 (𝑅𝐻𝐴) +
+ 0.0025 𝐺𝐷𝐶(𝑆𝑃) −0.0166667 𝑅𝐻𝐴 (𝑆𝑃) −
+ 0.00013 (𝐺𝐷)^2 + −0.0164 (𝑅𝐻𝐴)^2 − 0.1 (𝑆𝑃)^2  .. (3) 
+28-days compressive strength =  25.803 +  0.01083 𝐺𝐷 +
+ 0.9472 𝑅𝐻𝐴 +  1.4958 𝑆𝑃 − 0.0067 𝐺𝐷 (𝑅𝐻𝐴) −
+ 0.005 𝐺𝐷 (𝑆𝑃) − 0.0367 𝑅𝐻𝐴(𝑆𝑃) − 9.375𝑒−
+05(𝐺𝐷)^2 − 0.0295556 (𝑅𝐻𝐴)^2 − 0.3125 (𝑆𝑃)^2   .. (4) 
+ 
+90 
+days 
+compressive 
+strength 
+= 
+26.34 +  0.037𝐺𝐷 +
+ 1.041𝑅𝐻𝐴 +  4.612𝑆𝑃 − 0.007𝐺𝐷(𝑅𝐻𝐴) −
+0.006𝐺𝐷(𝑆𝑃) − 0.08𝑅𝐻𝐴 (𝑆𝑃) − 0.00053(𝐺𝐷)^2 −
+ 0.0291(𝑅𝐻𝐴)^2 − 1.013 (𝑆𝑃)^2                                    …(5) 
+ 
+ 
+ 
+ 
+Figure: 43D Reaction Surface for compressive strength after three 
+days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 5 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 43 
+ 
+ 
+Table 5: Results of compressive strength  
+ 
+Ru
+n 
+Response 1 
+Compressiv
+e strength 3 
+days 
+(N/mm2) 
+Response 2 
+7 days 
+Compressiv
+e strength 
+(N/mm2) 
+Response 3 
+28 days 
+Compressiv
+e strength 
+(N/mm2) 
+Response 4 
+90 days 
+Compressiv
+e strength 
+(N/mm2) 
+C 
+9.1 
+18.9 
+28.1 
+32.5 
+1 
+4 
+11.5 
+25 
+28.9 
+2 
+6.5 
+15.1 
+32 
+36.1 
+3 
+5.5 
+12.4 
+26.5 
+29.5 
+4 
+6.4 
+13.3 
+28.6 
+32.6 
+5 
+6.7 
+15 
+31.5 
+35.1 
+6 
+6.5 
+13.9 
+29.8 
+33.2 
+7 
+5.7 
+14.4 
+30.8 
+35 
+8 
+5.7 
+14.3 
+30.4 
+34.6 
+9 
+5.7 
+14.3 
+30.4 
+34.6 
+10 
+4.4 
+13.2 
+28.8 
+31.9 
+11 
+4.6 
+13 
+28 
+32.2 
+12 
+5.7 
+14.3 
+30.4 
+34.6 
+13 
+6.6 
+13.8 
+29.4 
+32.9 
+14 
+7 
+14.1 
+30.4 
+34.5 
+15 
+4.5 
+13.3 
+27.9 
+30.4 
+16 
+5.7 
+14.3 
+30.4 
+34.6 
+17 
+5.7 
+14.3 
+30.4 
+34.6 
+ 
+C* is Control. 
+ 
+ 
+ 
+Figure5: The 7-day compressive strength response surface in 
+three dimensions. 
+ 
+ 
+ 
+Figure 6: 3D response surface for 28-day compressive strength 
+ 
+ 
+Figure 7: 3D Response surface for 90 day compressive strength 
+ 
+ 
+Table 6: Analysis of variance for 3 days comprehensive strength 
+of GD/RHA concrete. 
+ 
+Source 
+Sum of 
+Squares 
+df 
+Mean 
+Square 
+F-
+value 
+p-value 
+Model 
+11.27 
+3 
+3.76 
+38.37 
+< 0.0001 
+A-G.D 
+5.44 
+1 
+5.44 
+55.63 
+< 0.0001 
+B-RHA 
+5.61 
+1 
+5.61 
+57.33 
+< 0.0001 
+C-S.P 
+0.2112 
+1 
+0.2112 
+2.16 
+0.1656 
+Residual 
+1.27 
+13 
+0.0979 
+Lack of 
+Fit 
+1.27 
+9 
+0.1414 
+Pure 
+Error 
+0.0000 
+4 
+0.0000 
+Cor 
+Total 
+12.54 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+----- TABLE p5#1 -----
+
+Ru
+n | Response 1
+Compressiv
+e strength 3
+days
+(N/mm2) | Response 2
+7 days
+Compressiv
+e strength
+(N/mm2) | Response 3
+28 days
+Compressiv
+e strength
+(N/mm2) | Response 4
+90 days
+Compressiv
+e strength
+(N/mm2)
+C | 9.1 | 18.9 | 28.1 | 32.5
+1 | 4 | 11.5 | 25 | 28.9
+2 | 6.5 | 15.1 | 32 | 36.1
+3 | 5.5 | 12.4 | 26.5 | 29.5
+4 | 6.4 | 13.3 | 28.6 | 32.6
+5 | 6.7 | 15 | 31.5 | 35.1
+6 | 6.5 | 13.9 | 29.8 | 33.2
+7 | 5.7 | 14.4 | 30.8 | 35
+8 | 5.7 | 14.3 | 30.4 | 34.6
+9 | 5.7 | 14.3 | 30.4 | 34.6
+10 | 4.4 | 13.2 | 28.8 | 31.9
+11 | 4.6 | 13 | 28 | 32.2
+12 | 5.7 | 14.3 | 30.4 | 34.6
+13 | 6.6 | 13.8 | 29.4 | 32.9
+14 | 7 | 14.1 | 30.4 | 34.5
+15 | 4.5 | 13.3 | 27.9 | 30.4
+16 | 5.7 | 14.3 | 30.4 | 34.6
+17 | 5.7 | 14.3 | 30.4 | 34.6
+
+----- TABLE p5#2 -----
+
+Source | Sum of
+Squares | df | Mean
+Square | F-
+value | p-value
+Model | 11.27 | 3 | 3.76 | 38.37 | < 0.0001
+A-G.D | 5.44 | 1 | 5.44 | 55.63 | < 0.0001
+B-RHA | 5.61 | 1 | 5.61 | 57.33 | < 0.0001
+C-S.P | 0.2112 | 1 | 0.2112 | 2.16 | 0.1656
+Residual | 1.27 | 13 | 0.0979 |  | 
+Lack of
+Fit | 1.27 | 9 | 0.1414 |  | 
+Pure
+Error | 0.0000 | 4 | 0.0000 |  | 
+Cor
+Total | 12.54 | 16 |  |  | 
+
+===== PAGE 6 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 44 
+ 
+ 
+Table 7: Analysis of variance for 7-days comprehensive strength 
+of GD/RHA concrete. 
+ 
+Source 
+Sum of 
+Squares 
+df 
+Mean 
+Square 
+F-value 
+p-value 
+Model 
+13.45 
+9 
+1.49 
+73.39 
+< 0.0001 
+A-G.D 
+6.66 
+1 
+6.66 
+327.22 
+< 0.0001 
+B-RHA 
+1.80 
+1 
+1.80 
+88.67 
+< 0.0001 
+C-S.P 
+0.0612 
+1 
+0.0612 
+3.01 
+0.1264 
+AB 
+1.10 
+1 
+1.10 
+54.16 
+0.0002 
+B² 
+3.60 
+1 
+3.60 
+176.97 
+< 0.0001 
+Residual 
+0.1425 
+7 
+0.0204 
+ 
+ 
+Lack of 
+Fit 
+0.1425 
+3 
+0.0475 
+Pure 
+Error 
+0.0000 
+4 
+0.0000 
+Cor Total 
+13.59 
+16 
+ 
+Table 8: Analysis of variance for 28-days comprehensive strength 
+of GD/RHA concrete. 
+Source 
+Sum of 
+Squares 
+df 
+Mean 
+Square 
+F-
+value 
+p-value 
+Model 
+51.83 
+9 
+5.76 
+102.71 
+< 0.0001 
+A-G.D 
+25.92 
+1 
+25.92 
+462.27 
+< 0.0001 
+B-RHA 
+7.80 
+1 
+7.80 
+139.13 
+< 0.0001 
+C-S.P 
+1.36 
+1 
+1.36 
+24.28 
+0.0017 
+AB 
+4.00 
+1 
+4.00 
+71.34 
+< 0.0001 
+B² 
+11.64 
+1 
+11.64 
+207.55 
+< 0.0001 
+C² 
+0.4112 
+1 
+0.4112 
+7.33 
+0.0303 
+Residual 
+0.3925 
+7 
+0.0561 
+Lack of 
+Fit 
+0.3925 
+3 
+0.1308 
+Pure Error 
+0.0000 
+4 
+0.0000 
+Cor Total 
+52.22 
+16 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 9: Analysis of variance for 90-days comprehensive 
+strength of GD/RHA concrete. 
+ 
+Source 
+Sum of 
+Squares 
+df 
+Mean 
+Square 
+F-value 
+p-value 
+Model 
+69.55 
+9 
+7.73 
+173.10 
+< 0.0001 
+A-G.D 
+35.70 
+1 
+35.70 
+799.71 
+< 0.0001 
+B-RHA 
+7.22 
+1 
+7.22 
+161.73 
+< 0.0001 
+C-S.P 
+3.78 
+1 
+3.78 
+84.70 
+< 0.0001 
+AB 
+4.41 
+1 
+4.41 
+98.78 
+< 0.0001 
+BC 
+1.44 
+1 
+1.44 
+32.26 
+0.0008 
+B² 
+11.29 
+1 
+11.29 
+252.90 
+< 0.0001 
+C² 
+4.32 
+1 
+4.32 
+96.69 
+< 0.0001 
+Residual 
+0.3125 
+7 
+0.0446 
+Lack of 
+Fit 
+0.3125 
+3 
+0.1042 
+Pure 
+Error 
+0.0000 
+4 
+0.0000 
+ 
+ 
+Cor 
+Total 
+69.86 
+16 
+ 
+ 
+ 
+ 
+Table 10: Table showing actual and predicted values of 3-day and 
+7-day compressive strength. 
+Run 
+Order 
+Actual 
+Value 
+Predicted 
+Value 
+Actual 
+Value 
+Predicted 
+Value 
+1 
+4.00 
+4.04 
+11.50 
+11.41 
+2 
+6.50 
+6.36 
+15.10 
+15.20 
+3 
+5.50 
+5.02 
+12.40 
+12.59 
+4 
+6.40 
+5.71 
+13.30 
+13.41 
+5 
+6.70 
+6.69 
+15.00 
+14.92 
+6 
+6.50 
+6.37 
+13.90 
+13.71 
+7 
+5.70 
+5.69 
+14.40 
+14.29 
+8 
+5.70 
+5.70 
+14.30 
+14.30 
+9 
+5.70 
+5.70 
+14.30 
+14.30 
+10 
+4.40 
+4.71 
+13.20 
+13.27 
+11 
+4.60 
+4.70 
+13.00 
+13.01 
+12 
+5.70 
+5.70 
+14.30 
+14.30 
+13 
+6.60 
+6.70 
+13.80 
+13.79 
+14 
+7.00 
+7.36 
+14.10 
+14.19 
+15 
+4.50 
+5.04 
+13.30 
+13.20 
+16 
+5.70 
+5.70 
+14.30 
+14.30 
+17 
+5.70 
+5.70 
+14.30 
+14.30 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+----- TABLE p6#1 -----
+
+Source | Sum of
+Squares | df | Mean
+Square | F-value | p-value
+Model | 13.45 | 9 | 1.49 | 73.39 | < 0.0001
+A-G.D | 6.66 | 1 | 6.66 | 327.22 | < 0.0001
+B-RHA | 1.80 | 1 | 1.80 | 88.67 | < 0.0001
+C-S.P | 0.0612 | 1 | 0.0612 | 3.01 | 0.1264
+AB | 1.10 | 1 | 1.10 | 54.16 | 0.0002
+B² | 3.60 | 1 | 3.60 | 176.97 | < 0.0001
+Residual | 0.1425 | 7 | 0.0204 |  | 
+Lack of
+Fit | 0.1425 | 3 | 0.0475 |  | 
+Pure
+Error | 0.0000 | 4 | 0.0000 |  | 
+Cor Total | 13.59 | 16 |  |  | 
+
+----- TABLE p6#2 -----
+
+Source | Sum of
+Squares | df | Mean
+Square | F-value | p-value
+Model | 69.55 | 9 | 7.73 | 173.10 | < 0.0001
+A-G.D | 35.70 | 1 | 35.70 | 799.71 | < 0.0001
+B-RHA | 7.22 | 1 | 7.22 | 161.73 | < 0.0001
+C-S.P | 3.78 | 1 | 3.78 | 84.70 | < 0.0001
+AB | 4.41 | 1 | 4.41 | 98.78 | < 0.0001
+BC | 1.44 | 1 | 1.44 | 32.26 | 0.0008
+B² | 11.29 | 1 | 11.29 | 252.90 | < 0.0001
+C² | 4.32 | 1 | 4.32 | 96.69 | < 0.0001
+Residual | 0.3125 | 7 | 0.0446 |  | 
+Lack of
+Fit | 0.3125 | 3 | 0.1042 |  | 
+Pure
+Error | 0.0000 | 4 | 0.0000 |  | 
+Cor
+Total | 69.86 | 16 |  |  | 
+
+----- TABLE p6#3 -----
+
+Source | Sum of
+Squares | df | Mean
+Square | F-
+value | p-value
+Model | 51.83 | 9 | 5.76 | 102.71 | < 0.0001
+A-G.D | 25.92 | 1 | 25.92 | 462.27 | < 0.0001
+B-RHA | 7.80 | 1 | 7.80 | 139.13 | < 0.0001
+C-S.P | 1.36 | 1 | 1.36 | 24.28 | 0.0017
+AB | 4.00 | 1 | 4.00 | 71.34 | < 0.0001
+B² | 11.64 | 1 | 11.64 | 207.55 | < 0.0001
+C² | 0.4112 | 1 | 0.4112 | 7.33 | 0.0303
+Residual | 0.3925 | 7 | 0.0561 |  | 
+Lack of
+Fit | 0.3925 | 3 | 0.1308 |  | 
+Pure Error | 0.0000 | 4 | 0.0000 |  | 
+Cor Total | 52.22 | 16 |  |  | 
+
+----- TABLE p6#4 -----
+
+Run
+Order | Actual
+Value | Predicted
+Value | Actual
+Value | Predicted
+Value
+1 | 4.00 | 4.04 | 11.50 | 11.41
+2 | 6.50 | 6.36 | 15.10 | 15.20
+3 | 5.50 | 5.02 | 12.40 | 12.59
+4 | 6.40 | 5.71 | 13.30 | 13.41
+5 | 6.70 | 6.69 | 15.00 | 14.92
+6 | 6.50 | 6.37 | 13.90 | 13.71
+7 | 5.70 | 5.69 | 14.40 | 14.29
+8 | 5.70 | 5.70 | 14.30 | 14.30
+9 | 5.70 | 5.70 | 14.30 | 14.30
+10 | 4.40 | 4.71 | 13.20 | 13.27
+11 | 4.60 | 4.70 | 13.00 | 13.01
+12 | 5.70 | 5.70 | 14.30 | 14.30
+13 | 6.60 | 6.70 | 13.80 | 13.79
+14 | 7.00 | 7.36 | 14.10 | 14.19
+15 | 4.50 | 5.04 | 13.30 | 13.20
+16 | 5.70 | 5.70 | 14.30 | 14.30
+17 | 5.70 | 5.70 | 14.30 | 14.30
+
+===== PAGE 7 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 45 
+ 
+ 
+ 
+Table 11: Table showing actual and predicted values of 28-day 
+and 90-day compressive strength. 
+ 
+Run 
+Order 
+Actual 
+Value 
+Predicted 
+Value 
+Actual 
+Value 
+Predicted 
+Value 
+1 
+25.00 
+24.91 
+28.90 
+28.64 
+2 
+32.00 
+32.16 
+36.10 
+36.05 
+3 
+26.50 
+26.75 
+29.50 
+29.71 
+4 
+28.60 
+28.89 
+32.60 
+32.64 
+5 
+31.50 
+31.54 
+35.10 
+34.92 
+6 
+29.80 
+29.55 
+33.20 
+32.99 
+7 
+30.80 
+30.51 
+35.00 
+34.96 
+8 
+30.40 
+30.40 
+34.60 
+34.60 
+9 
+30.40 
+30.40 
+34.60 
+34.60 
+10 
+28.80 
+28.76 
+31.90 
+32.08 
+11 
+28.00 
+28.13 
+32.20 
+32.29 
+12 
+30.40 
+30.40 
+34.60 
+34.60 
+13 
+29.40 
+29.27 
+32.90 
+32.81 
+14 
+30.40 
+30.49 
+34.50 
+34.76 
+15 
+27.90 
+27.74 
+30.40 
+30.45 
+16 
+30.40 
+30.40 
+34.60 
+34.60 
+17 
+30.40 
+30.40 
+34.60 
+34.60 
+ 
+3.3 
+Optimization of Self-Compacting Concrete Mixtures 
+The goals that were set for each response are presented in table 
+12. 
+Table 12: Goals used for numerical optimization of SCC. 
+ 
+Compressive strength 
+Goal 
+3 days 
+Maximize 
+7 days 
+Maximize 
+28 days 
+Maximize 
+90 days 
+Maximize 
+ 
+According to the Design-Expert software version 13's 
+optimization function, Figure 8 presents the ideal values of the 
+factors for the maximum concrete strength for RHA-GD SCC. 
+10% replacement of RHA content and 20% replacement of GD. 
+SP 2% substitution. The compressive strengths after 3, 7, 28, and 
+90 days are 6.8 N/mm2, 15.1 N/mm2, 32.N/mm2, and 36.3 N/mm2. 
+ 
+ 
+Figure 8: Contour graph showing the optimal values for 
+responses. 
+ 
+ 
+4.0 
+Conclusions  
+ 
+The findings suggest that self-compacting concrete can be 
+effectively made from waste GD and RHA. The investigation 
+leads to the following conclusions: 
+1. In their fresh form, all of the mixes exhibited good self-
+compacting capabilities.  
+2. The results of the slump flow, V-funnel, and J-ring tests 
+showed that the inclusion of GD and RHA improved the 
+workability. 
+ 
+3. RHA is an appropriate pozzolanic building material for 
+long-term growth in strength in SCC due to its high silica 
+concentration. 
+ 
+4. Compressive strength development at 3 and 7 days 
+decreased as dosage of GD and RHA increases. 
+ 
+5. At 28 days, the compressive strength is similar to the 
+control value; however, by 90 days, it surpasses the 
+control value. 
+ 
+6. The optimal percentage replacement levels are 20% GD 
+replacing fine aggregate and 10% RHA replacing 
+cement.  
+ 
+ 
+ 
+ 
+
+
+----- TABLE p7#1 -----
+
+Run
+Order | Actual
+Value | Predicted
+Value | Actual
+Value | Predicted
+Value
+1 | 25.00 | 24.91 | 28.90 | 28.64
+2 | 32.00 | 32.16 | 36.10 | 36.05
+3 | 26.50 | 26.75 | 29.50 | 29.71
+4 | 28.60 | 28.89 | 32.60 | 32.64
+5 | 31.50 | 31.54 | 35.10 | 34.92
+6 | 29.80 | 29.55 | 33.20 | 32.99
+7 | 30.80 | 30.51 | 35.00 | 34.96
+8 | 30.40 | 30.40 | 34.60 | 34.60
+9 | 30.40 | 30.40 | 34.60 | 34.60
+10 | 28.80 | 28.76 | 31.90 | 32.08
+11 | 28.00 | 28.13 | 32.20 | 32.29
+12 | 30.40 | 30.40 | 34.60 | 34.60
+13 | 29.40 | 29.27 | 32.90 | 32.81
+14 | 30.40 | 30.49 | 34.50 | 34.76
+15 | 27.90 | 27.74 | 30.40 | 30.45
+16 | 30.40 | 30.40 | 34.60 | 34.60
+17 | 30.40 | 30.40 | 34.60 | 34.60
+
+----- TABLE p7#2 -----
+
+Compressive strength | Goal
+3 days | Maximize
+7 days | Maximize
+28 days | Maximize
+90 days | Maximize
+
+===== PAGE 8 =====
+
+Sani et al. / KJSET:  Vol. 3, No. 1, (April 2024)   39-46.           https://doi.org/10.59568/KJSET-2024-3-1-04  
+KJSET | 46 
+ 
+Acknowledgements 
+The authors would like to express their gratitude to the Civil 
+Engineering Department, Faculty of Engineering and Engineering 
+Technology, Abubakar Tafawa Balewa University, Bauchi for the 
+support provided while carrying out this research.  
+ 
+Declaration of conflict of interest  
+The 
+authors 
+have 
+collectively 
+contributed 
+to 
+the 
+conceptualization, design, and execution of this study. They have 
+worked on drafting and critically revising the article to include 
+significant intellectual content. This manuscript has not been 
+previously submitted or reviewed by any other journal or 
+publishing platform. Additionally, the authors do not have any 
+affiliation with any organization that has a direct or indirect 
+financial stake in the subject matter discussed in this manuscript 
+ 
+References 
+ 
+ Adetoye Olubunmi A., Sani Aliyu and Ibrahim Hassan (2023): 
+Suitability of using Marble Dust Powder and Rice 
+HuskAsh in Production of Self-Compacting Concrete: A 
+Review. International Journal of Multidisciplinary 
+Research in Science, Engineering and Technology 
+(IJMRSET). ISSN: 2582-7219. Volume 6, Issue 9, 
+September 
+2023. 
+DOI:10.15680/IJMRSET.2023.0609001  
+Ahmad, J., Zhou, Z. & Deifalla, A.F. (2023). Self-Compacting 
+Concrete with Partially Substitution of Waste Marble: A 
+Review. Int J Concr Struct Mater 17, 25 (2023). 
+https://doi.org/10.1186/s40069-023-00585-5. 
+Asavapisit, S. & Ruengrit, N. (2005). The role of RHA blended 
+cement in stabilizing metal containing wastes.Cement 
+and  Concrete Composites,3, pp. 782-787. 
+Assie, S., Escadeillas,G. & Waller, W. (2007).Estimates of self-
+compacting concrete ‘potential’ durability. Construction 
+and Building  Materials, 21 (10), pp. 1909-1917. 
+Bouzoubaa, N. &  Fournier, B. (2001). Concrete incorporating 
+rice husk ash: compressive strength and chloride-ion 
+durability. Report MTL 2001-5 (TR), CANMET, 17. 
+Bronzeoak Ltd., Rice Husk Ash Market Study, 2003. Available 
+from: <http://www.berr.gov.uk/files/file15138.pdf 
+Divya, C. &  Rafat, S. (2015). Strength, permeability and 
+microstructure of self-compactingconcrete containing 
+rice husk ash. Biosystem engineering 130, 72-80. 
+EFNARC. (2002) “Specification and Guidelines for Self 
+Compacting 
+Concrete. 
+European 
+Federation 
+of 
+Producers and Applicators of Specialist Products for 
+Structures”, 2002.Www. Efnarc.Org 
+ 
+FAO 
+Rice 
+market 
+monitor 
+(2015). 
+Food 
+Agricultural  
+Organization, United Nations, 18, pp. 1-40. 
+Jauberthie,R., Rendell, F., Tamba, S. & Cisse, I. (2000). Origin of 
+the pozzolanic effect of rice husks.Construction and 
+Building Materials,14, pp. 419-423. 
+Leemann, R. Loser, & B. Münch (2010). Influence of cement type 
+on ITZ porosity and chloride resistance of self-
+compacting concrete. Cement and Concrete Composites, 
+32, pp. 116-120. 
+M. Liu (2010). Self-compacting concrete with     different levels 
+of pulverized fuel ash. Construction and Building 
+Materials, 24, pp.1245-1252. 
+NIS-444-14, Nigeria Industrial Standard specification for cement. 
+Okamura, H. & Ouchi, M. (1999). Self-compacting concrete. 
+Development, present use and future. First international 
+RILEM symposium on self-compacting concrete. Rilem 
+Publications SARL;  p. 3–14. 
+Patil, A.; Jayale, V.; Arunachalam, K.P.; Ansari, K.; 
+Avudaiappan, S.; Agrawal, D.; Kuthe, A.M.; Alharbi, 
+Y.R.; Amir Khan, M.; Roco-Videla, Á. (2024). 
+Performance Analysis of Self-Compacting Concrete 
+with 
+Use 
+of 
+Artificial 
+Aggregate 
+and 
+Partial 
+Replacement of Cement by Fly Ash. Buildings,14,143. 
+https://doi.org/10.3390/buildings14010143. 
+Poppe, A.M. &  Schutter, G.D. (2005). Cement hydration in the 
+presence of high filler contents. Cement and Concrete 
+Composites, 35 (12) , pp. 2290-2299. 
+Prasad, C.S.,  K.N. Maiti, K.N. & Venugopal, R. (2000). Effect of 
+RHA in white ware composition. Cement and Concrete 
+Research, 33 (9), pp. 1279-1286.Ceramics  International, 
+27, p. 629. 
+Prokopski G, Marchuk V, Huts A, (2020). The effect of using 
+granite dust as a component of concrete mixture, Case 
+Studies 
+in 
+Construction 
+Materials, 
+doi: 
+https://doi.org/10.1016/j.cscm.2020.e00349. 
+Ravinder, K.S. & Rafat, S. (2017). Influence of rice husk ash 
+(RHA) on the properties of self-compacting concrete: A 
+review. Construction and Building Materials, 153, pp. 
+751-764. 
+S.C. Kou, & C.S. Poon (2009). Properties of self-compacting 
+concrete prepared with coarse and fine recycled concrete 
+aggregates. Cement and Concrete Composites, 31, pp. 
+622-627. 
+Sani Aliyu, A. Mohammed. D.S.Matawal, S.Duna (2019). 
+Response Surfaces for Compressive Strenght of High 
+Performance Concrete with Corn Cob Ash. International 
+Journal of Engineering, Technology, Creativity and 
+Innovation, 2(2). 
+Unal, O., Topcu, IB., Uygunoglu, T. (2006). Use of marble dust 
+in self compacting concrete. In: Proceedings of V 
+symposium MERSEM0 2006 on marble and natural 
+stone. Afyon, Turkey; p. 413–20. 

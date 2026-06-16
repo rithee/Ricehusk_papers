@@ -1,0 +1,1290 @@
+
+===== PAGE 1 =====
+
+ 
+194 
+ 
+Effect Of Quarry Dust On Mechanical Properties Of Rice Husk Ash-Based Concrete 
+For Sustainable Environment 
+ 
+ 
+Sadaf Noshin a*, Ali Hamza a , Muhammad Uzair b ,Hafiz M Shahzad Aslam a, Atteq Ur Rehman a, Mazhar Yasin a,Frooq Mustafa Joyia a, 
+Abrar Ahmad c, Muhammad Hamza a, Hafiz Haseeb Ahmad a and Norheen Amina a 
+ 
+aUniversity of Lahore, Department of Engineering &Technology, 54000, Lahore, Pakistan 
+bRuhr University Bochum, Department of Civil & Environmental Engineering ,44801, Bochum, Germany 
+cDeputy Director in NTDC Department, WAPDA House, 55110, Lahore, Pakistan  
+ 
+ Corresponding author. Tel.: +92-347-741-9804; e-mail: Sadaf.noshin@tech.uol.edu.pk 
+ 
+Received 22 August 2023, Revised 27 October 2023, Accepted 14 November 2023 
+ 
+ABSTRACT 
+ 
+As the global population has continued to grow, the costs and environmental issues associated with traditional construction 
+materials like cement and river sand have become increasingly problematic. This research aimed to explore an alternative and eco-
+friendly approach to traditional building materials. The researchers conducted an experimental program to assess the mechanical 
+properties of the rice husk ash-based concrete at different curing ages 7, 14, 21, and 28 days. Following the mix design, the concrete 
+was produced using water to binder ratio of 0.5. A series of experiments were conducted on both fresh and hardened states to 
+investigate the impact of quarry dust on rice husk ash-based concrete. It was observed from the experimental results that when 40% 
+of the quarry dust was used as a replacement for fine aggregates, the concrete exhibited the highest strength. After 28 days of curing, 
+the compressive strength showed a 0.65% improvement, while the splitting tensile strength displayed a 1.77% enhancement 
+compared to the reference mix. To ensure the reliability of the experimental findings, a statistical analysis was conducted. The study 
+concluded that certain factors, such as quarry dust, curing duration, and rice husk ash, interacted synergistically to influence the 
+compressive and splitting tensile strengths of the concrete. The researchers also proposed equations to predict these strengths 
+based on the aforementioned parameters. 
+ 
+Keywords: Rice husk ash, quarry dust, compressive strength, splitting tensile strength, Statistical analysis 
+ 
+ 
+1. INTRODUCTION 
+ 
+According to the concept of sustainable development, 
+regular assets should be viewed as limited reserves, and 
+trash should be logically governed. Researchers have 
+created novel disposal techniques as a result of the 
+increased amount of waste, which is now gathered more 
+than 2500 million tonnes annually worldwide [1], [2]. Due 
+to economic and environmental factors, sustainable 
+construction is progressively getting more difficult. 
+Because the construction industry consumes the majority 
+of natural resources and generates a significant amount of 
+trash [3], [4]. The creation of sustainable concrete using 
+waste materials including fly ash, ground-granulated blast 
+furnace slag, rice husk ash (RHA), silica fume, bagasse, and 
+cement dust could result in long-lasting and reasonably 
+priced building materials. [5]. Pozzolanic material is one of 
+the most frequently used partial replacements for ordinary 
+Portland cement (OPC) in concrete, and it can improve the 
+quality and durability of concrete[6]. Throughout the 
+history of humanity, concrete has been utilized widely and 
+internationally. The demand for the resources used to 
+make concrete's constituents will rise as its use increases 
+[7].  
+ 
+ 
+ 
+ 
+ 
+ 
+Because all of the components of concrete are mostly 
+obtained from natural sources, the primary cause of the 
+depletion of natural resources might be linked to this [8]. 
+One of the expensive components of concrete, cement 
+produces 
+a 
+significant 
+amount 
+of 
+CO2 
+during 
+manufacturing [7].   
+ 
+The major constituents required for cement production are 
+calcium, silica, and alumina which are obtained from the 
+natural resources. Concrete has been widely utilized 
+throughout the world. The demand for the constituents of 
+concrete has been increased which may lead to depletion 
+of natural resources. Due to the increasing CO2 emissions, 
+rising temperatures, and loss of natural preserves, the 
+building industry has shifted its focus to creating 
+environmentally friendly and sustainable concrete [9].   
+Currently, it is quite difficult to dispose of agricultural and 
+industrial trash. Rice husk is one of these agricultural 
+wastes. About 120 million tonnes of rice husk are 
+produced annually in paddy fields. RHA has a non-
+crystalline silica concentration of 85%, which makes it a 
+
+
+===== PAGE 2 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+195 
+ 
+potential partial cement replacement material.[7], [10], [9]. 
+RHA is a pozzolanic substance that has been proven to be 
+effective since it has the most silica of any plant residue. 
+When finely ground, the material can consume calcium 
+hydroxide (Ca (OH)2) at room temperature when it is 
+present in water thanks to its pozzolanic capabilities. 
+Strength is increased as a result of the silica and Ca(OH)2 
+interaction. Utilizing RHA as a partial cement replacement 
+will help produce more cost-effective and environmentally 
+friendly concrete because it will reduce the cement 
+content. Additionally, the usage of RHA benefits the 
+environment because less of it would need to be dumped, 
+resulting in a decrease in environmental pollution [9]. 
+RHA can be used to make concrete and has an impact on 
+several characteristics, including the internal pore 
+structure, setting time, and development of compressive 
+strength. Therefore, 10%wt is the ideal RHA percentage to 
+produce concrete with good strength and performance 
+[11]. For up to 28 days, 10% of RHA concrete's 
+compressive strength was lower than the control mix's, but 
+after that point it was equal to or greater. Early in the 
+curing process, as the proportion of rice husk ash can be 
+increased in comparison to regular concrete, the 
+compressive strength of the concrete decreases. The rice 
+husk ash increases the strength of concrete because it has 
+a large quantity of silica and it is as effective as silica fume. 
+It produced more C- S - H gel, less portlandite, smaller 
+pores, and higher strength than conventional concrete 
+because the silica in RHA reacted with the Ca2+ ions and 
+OH- make CSH gel. The optimal option in this situation is a 
+30% substitution of the RHA value [12]. Concrete's 
+mechanical properties and durability are considerably 
+improved when fine aggregate is replaced with quarry dust 
+[13].  Numerous investigations on concrete with RHA have 
+mostly focused on mechanical qualities, according to the
+ prior literature. A summary of a few of these research 
+studies may be found in Table. 1. The novelty of this 
+research lies in its investigation of the mechanical 
+properties of concrete through the replacement of 10% of 
+the binder with rice husk ash (RHA) and the variation of 
+fine aggregate proportions with quarry dust (10%, 20%, 
+30%, 40%, and 50%).In this research, 10% rice husk ash 
+was used because it gives better strength at this optimal 
+proportion 
+which 
+is 
+recommended 
+by 
+previous 
+research[11],[12],[16]. This investigation adds to the 
+novelty of the research, as the specific combination of RHA 
+and varying proportions of quarry dust has not been 
+extensively studied before. The findings will provide 
+valuable insights for the development of more sustainable 
+and cost-effective concrete mixes, offering potential 
+benefits 
+for 
+the 
+construction 
+industry 
+and 
+the 
+environment. 
+ 
+2. CONCRETE MIX DESIGN AND COMPONENT 
+CHARACTERISTICS 
+ 
+Ordinary Portland cement grade 53 conforming from 
+ASTM C150 having a particle size of 18µm was used.  The 
+average particle size of rice husk was 80µm. Table 2 
+depicts all the characteristics of cement and rice husk ash. 
+In this research, rice husk ash, which is made by burning 
+rice husk at 650oC for 4 hours such that the color of RHA 
+turns into grey and after cooling thoroughly grinding it to 
+create a fine powder, was employed as a partial 
+replacement for binder. The binder plays a crucial part in 
+the production of concrete, and it is vital to finish the 
+experimental program within the allotted time from the 
+date of cement purchase to preserve quality and reduce 
+adverse effects from storage on the concrete's qualitie 
+   
+ 
+Table 1 Findings from research on the influence of RHA on the characteristics of concrete 
+ 
+Author 
+Investigational Methodology 
+Conclusion 
+L. A. Taiwo et 
+al   [14] 
+The sand and cement were replaced by quarry dust and 
+rice husk ash in specific proportions (5%, 10%, 15%, 
+20%, and 25% wt/wt) to produce concrete samples 
+By raising the RHA and QD percentages, the 
+decline in compressive strength was seen as 
+compared to conventional concrete samples. 
+S. Patil et al.   
+[15] 
+The mechanical characteristics of the concrete were 
+examined at 7, 14, and 28 days. The w/b ratio was kept 
+at 0.4. The ratios of rice husk ash, silica fume, and quarry 
+dust were 10%, 20%, and 30% respectively, with the 
+quarry dust at 20%. Glass fibers were added 0.25%, 
+0.5%, and 0.75% by volume of concrete. 
+The maximum strength qualities were 
+discovered to be achieved by substituting  
+the binder with a blend of 20% rice husk 
+ash, 20% silica fume, and 20% quarry dust 
+while adding glass  fiber at 0.75%. 
+S. Sahoo et al.  
+[16] 
+Mechanical properties and Durability attributes of 
+concrete were investigated by the addition of Silica fume 
+(SF) rice husk ash (RHA) and Portland slag cement. SF 
+and RHA are consumed as distinct amounts of 5%, 10%, 
+15%, and 20% of PSC, and the attributes of these mixes 
+are compared to those of the control mix, which contains 
+only PSC cement.  
+The compressive strength of the concrete 
+after 28 days is increased by 23.6% and 
+20.3%, 
+respectively, 
+compared 
+to 
+the 
+regular mix when 15% replacement SF and 
+RHA are used. However, compared to the 
+control mix, the concrete strength after 90 
+days increases by 31.7% and 30.95%. The 
+RHA trend is likewise strikingly comparable 
+to 
+the 
+SF 
+concrete's 
+durability 
+characteristics. 
+G. Singh et al.   
+[17] 
+Stone dust was consumed to partly substitute 20% of the 
+fine aggregate and RHA was used to partially replace the 
+binder in different proportions to determine the 
+mechanical properties, 
+The compressive, tensile, and flexural 
+strengths of the concrete were found to be 
+enhanced by 12.17%, 6.60%, and 2.92%, 
+respectively, during 28 days of curing when 
+15% of the cement had been replaced with 
+RHA. 
+
+
+----- TABLE p2#1 -----
+
+Author | Investigational Methodology | Conclusion
+L. A. Taiwo et
+al [14] | The sand and cement were replaced by quarry dust and
+rice husk ash in specific proportions (5%, 10%, 15%,
+20%, and 25% wt/wt) to produce concrete samples | By raising the RHA and QD percentages, the
+decline in compressive strength was seen as
+compared to conventional concrete samples.
+S. Patil et al.
+[15] | The mechanical characteristics of the concrete were
+examined at 7, 14, and 28 days. The w/b ratio was kept
+at 0.4. The ratios of rice husk ash, silica fume, and quarry
+dust were 10%, 20%, and 30% respectively, with the
+quarry dust at 20%. Glass fibers were added 0.25%,
+0.5%, and 0.75% by volume of concrete. | The maximum strength qualities were
+discovered to be achieved by substituting
+the binder with a blend of 20% rice husk
+ash, 20% silica fume, and 20% quarry dust
+while adding glass fiber at 0.75%.
+S. Sahoo et al.
+[16] | Mechanical properties and Durability attributes of
+concrete were investigated by the addition of Silica fume
+(SF) rice husk ash (RHA) and Portland slag cement. SF
+and RHA are consumed as distinct amounts of 5%, 10%,
+15%, and 20% of PSC, and the attributes of these mixes
+are compared to those of the control mix, which contains
+only PSC cement. | The compressive strength of the concrete
+after 28 days is increased by 23.6% and
+20.3%, respectively, compared to the
+regular mix when 15% replacement SF and
+RHA are used. However, compared to the
+control mix, the concrete strength after 90
+days increases by 31.7% and 30.95%. The
+RHA trend is likewise strikingly comparable
+to the SF concrete's durability
+characteristics.
+G. Singh et al.
+[17] | Stone dust was consumed to partly substitute 20% of the
+fine aggregate and RHA was used to partially replace the
+binder in different proportions to determine the
+mechanical properties, | The compressive, tensile, and flexural
+strengths of the concrete were found to be
+enhanced by 12.17%, 6.60%, and 2.92%,
+respectively, during 28 days of curing when
+15% of the cement had been replaced with
+RHA.
+
+===== PAGE 3 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+196 
+ 
+ 
+Table 2 Physical traits of the cement and rice husk ash 
+ 
+Property 
+Cement 
+RHA 
+Specific surface (m2/kg) 
+- 
+54.6 
+Specific gravity (gm/cm3) 
+3.15 
+2.14 
+Fineness (%) 
+94.3 
+98.5 
+Consistency 
+40 
+- 
+Initial setting time (min) 
+116 
+- 
+Final setting time (min) 
+392 
+- 
+ 
+During the process of quarrying, rocks undergo crushing to 
+get various sizes, resulting in the generation of particulate 
+matter known as quarry dust. The Sargodha crush, a type 
+of coarse aggregate, was utilized in the study. Its size was 
+evaluated by the process of sieve analysis, following the 
+guidelines outlined in ASTM C 116-04. The determined size 
+of the Sargodha crush was found to be 20 mm downwards. 
+Locally abundant sand, such as Lawrencpur sand, was 
+utilized as a fine aggregate or filler material. Table 3 
+presents further aggregate characteristics. The water 
+utilized in the experiment was sourced from a standard tap 
+water supply, exhibiting a pH range between 6 and 8, 
+rendering it suitable for human consumption. 
+ 
+Table 3 Physical properties of Aggregates 
+ 
+Property 
+Fine 
+aggregates 
+Quarry 
+Dust 
+Natural Coarse Aggregate 
+Specific gravity  (SSD)(gm/cm3) 
+2.67 
+2.62 
+2.75 
+Water absorption (%) 
+1.12 
+2.00 
+1.05 
+Fineness modulus (mm) 
+2.58 
+3.25 
+6.95 
+Bulk Density((kg/m3) 
+1595 
+1630 
+1613 
+ 
+The size distribution of natural sand and quarry dust is 
+shown in Figure 1. To get the desired slump range of 25-
+75mm, a concrete mix design was implemented by the ACI 
+Code 211.91-09. This entailed doing thorough testing on 
+the various components responsible for the formation of 
+the concrete mixture. To evaluate the impact of varying 
+concentrations of quarry dust on concrete including rice 
+husk ash, a concrete mixture denoted as M1 (consisting of 
+10% rice husk ash, 90% cement, and 0% quarry dust) was 
+formulated. The slump value of recycled aggregate 
+concrete without any rice husk ash is measured at 55mm. 
+However, the addition of 10 to 15% rice husk ash allows 
+the recycled aggregate concrete to maintain workability, 
+with slump values of about 50mm. This observation is 
+consistent with the experimental findings and aligns with 
+earlier 
+research 
+on 
+the 
+subject 
+matter[12].  
+ 
+This 
+study 
+involves 
+the 
+substitution 
+of 
+different 
+proportions of quarry dust for fine aggregate in concrete 
+produced using rice husk. The percentages of quarry dust 
+used range from 10% to 20%, 30%, 40%, and 50%. 
+Cylinders were cast and subjected to curing at the ages of  
+ 
+7, 14, 21, and 28 days, with a total of 144 specimens being 
+utilized for the assessment of mechanical characteristics. 
+The slump test was employed as a means of assessing the 
+workability of fresh concrete. The compression and 
+splitting tensile strength test were conducted to assess the 
+influence of quarry dust on concrete produced using rice 
+husk. Table 4 presents the data to the mixing patron. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1 Size distribution of Lawrencpur sand and quarry dust
+ 
+ 
+
+
+----- TABLE p3#1 -----
+
+Property | Cement | RHA
+Specific surface (m2/kg) | - | 54.6
+Specific gravity (gm/cm3) | 3.15 | 2.14
+Fineness (%) | 94.3 | 98.5
+Consistency | 40 | -
+Initial setting time (min) | 116 | -
+Final setting time (min) | 392 | -
+
+----- TABLE p3#2 -----
+
+Property | Fine
+aggregates | Quarry
+Dust | Natural Coarse Aggregate
+Specific gravity (SSD)(gm/cm3) | 2.67 | 2.62 | 2.75
+Water absorption (%) | 1.12 | 2.00 | 1.05
+Fineness modulus (mm) | 2.58 | 3.25 | 6.95
+Bulk Density((kg/m3) | 1595 | 1630 | 1613
+
+===== PAGE 4 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+197 
+ 
+ 
+Table 4 Mix proportion of concrete 
+ 
+ 
+Specimen 
+ID 
+Concrete Ingredients (Kg/m3) 
+Cement 
+Rice husk 
+ash 
+Sand 
+Coarse 
+Aggregate 
+Quarry 
+Dust 
+Water 
+M0 
+306 
+0 
+592 
+1029 
+0 
+205 
+M1 
+275 
+30.6 
+592 
+1029 
+0 
+205 
+M2 
+275 
+30.6 
+533 
+1029 
+59.2 
+205 
+M3 
+275 
+30.6 
+474 
+1029 
+118 
+205 
+M4 
+275 
+30.6 
+414 
+1029 
+178 
+205 
+M5 
+275 
+30.6 
+355 
+1029 
+237 
+205 
+M6 
+275 
+30.6 
+296 
+1029 
+296 
+205 
+ 
+ 
+ 
+ 
+3. RESULTS AND DISCUSSION 
+ 
+The evaluative assessment of the workability of the novel 
+concrete was conducted to ascertain the level of ease 
+associated with its laying process. A slump test was 
+performed following the specifications stated in the ASTM 
+C 143 standard. Figure 2 depicts the relationship between 
+slump values and quarry dust replacement ratios. It is 
+clear from the results that slump values drop linearly as 
+the replacement ratio of sand to quarry dust increases. The 
+potential explanation for this drop might be attributed to 
+the enhanced water absorption capability of quarry dust 
+and rice husk ash. Nevertheless, to get comparable 
+workability to that of fresh control concrete, a specific dose  
+of superplasticizer is required for RHA concrete [18]. The 
+rice husk ash has a significantly elevated specific surface 
+area, hence facilitating prompt water absorption upon its 
+incorporation. [3], [18]. As a result, it can be seen that for 
+various mixes, the slump values are lower than reference 
+mix M0 by roughly 9.33%, 13.7%, 17.8%, 21.9%, 26.0%, 
+and 31.5%, respectively.  
+ 
+To assess the compressive strength, the compression test 
+(ASTM C39) was carried out on concrete specimens made 
+from rice husk by substituting varying percentages of fine 
+aggregate with quarry dust. Following testing, the strength  
+values 
+are 
+shown 
+in 
+Figures 
+3 
+and 
+4. 
+ 
+ 
+ 
+ 
+ 
+ 
+The aforementioned results indicate that the substitution 
+of fine aggregate with quarry dust led to a decrease in the 
+compressive strength of rice husk ash-based mixtures, in 
+comparison to the control mix M0. However, when the 
+percentage replacement of fine aggregate with quarry dust 
+is increased, there is a noticeable gain in compressive 
+strength, as seen in Figure 3. The compressive strength of 
+Mix 5, which involved a 40% substitution of fine aggregate 
+with quarry dust, was found to be 0.65% greater than the 
+compressive strength of rice husk  ash-based concrete mix 
+M1. This increase in strength was observed after 28 days of 
+curing, which is the maximum duration required for 
+achieving optimal compressive strength. The observed 
+increase in strength may be attributed to the pozzolanic 
+interaction between rice husk ash (RHA) and quarry dust 
+with calcium hydroxide (Ca(OH)2), which is produced 
+during the hydration process of cement. Consequently, a 
+greater quantity of calcium silicate hydrate (CSH) was 
+generated. The deposition of this product within the pore 
+system resulted in an increased homogeneity and density 
+of the cement paste, surpassing that of mix M1. 
+Nevertheless, when the replacement level reaches 50%, 
+the compressive strength experiences a sudden decline of 
+0.56% during 28 days. This decline might perhaps be 
+attributed to the enhanced water absorption capacity of 
+quarry dust. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+----- TABLE p4#1 -----
+
+Specimen
+ID | Concrete Ingredients (Kg/m3) |  |  |  |  | 
+ | Cement | Rice husk
+ash | Sand | Coarse
+Aggregate | Quarry
+Dust | Water
+M0 | 306 | 0 | 592 | 1029 | 0 | 205
+M1 | 275 | 30.6 | 592 | 1029 | 0 | 205
+M2 | 275 | 30.6 | 533 | 1029 | 59.2 | 205
+M3 | 275 | 30.6 | 474 | 1029 | 118 | 205
+M4 | 275 | 30.6 | 414 | 1029 | 178 | 205
+M5 | 275 | 30.6 | 355 | 1029 | 237 | 205
+M6 | 275 | 30.6 | 296 | 1029 | 296 | 205
+
+===== PAGE 5 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+198 
+ 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+M0
+M1
+M2
+M3
+M4
+M5
+M6
+Slump Values (mm)
+Type of mixes
+ 
+ 
+Figure. 2 Slump Values
+0
+5
+10
+15
+20
+25
+M0
+M1
+M2
+M3
+M4
+M5
+M6
+Average Compressive Strength
+( MPa)
+Type of Mix
+7 days
+14 days
+21 days
+28 days
+ 
+ 
+Figure. 3 Compressive strength result 
+ 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+M0
+M1
+M2
+M3
+M4
+M5
+M6
+Average Splitting Tensile Strength 
+(MPa)
+Type of Mix
+7 days
+14 days
+21 days
+28 days
+ 
+ 
+Figure. 4. Splitting Tensile strength result 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 6 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+199 
+ 
+To determine the effects of replacing a percentage of 
+quarry dust with fine aggregate in concrete specimens 
+made from rice husk ash, the splitting tensile strength test 
+(ASTM C496 and BS 1881 117-83) was conducted. Figure 4 
+presents 
+the 
+splitting 
+tensile 
+strength 
+data 
+after 
+experimentation. The splitting tensile strength at 28 days 
+for rice husk ash-based concrete with a 40% substitution 
+of fine aggregate with quarry dust reaches a maximum 
+value of 2.25 MPa. Based on the findings of the experiment, 
+the inclusion of additional quarry dust in all combinations 
+leads to a notable enhancement in their splitting tensile 
+strength. Following a curing period of 28 days, the 
+compressive strength of mix M5 has exhibited a growth of 
+1.77% when compared to mix M1. The experimental 
+results indicate a reduction of 6.33% in the splitting tensile 
+strength when the fine aggregate is substituted with 50% 
+quarry dust.  
+ 
+The observed decrease in compressive and splitting tensile 
+strength can be attributed to the elevated silica (SiO2) 
+content present in the combination of RHA, quarry dust, 
+cement, and river sand, which led to the chemical reaction. 
+The reaction between calcium hydroxide (Ca(OH)2) 
+present in Portland cement and silicon dioxide (SiO2) and 
+aluminum oxide (Al2O3) derived from rice husk ash (RHA) 
+and quarry dust (QD), respectively, leads to the production 
+of calcium silicate hydrate (C-S-H) and calcium aluminate 
+silicate hydrate (C-A-S-H)[14]. The rice husk ash (RHA) has 
+an excessive amount of silica, which lacks an adequate 
+amount of CaO or Ca(OH)2 to undergo a reaction and 
+generate cementitious compounds such as C-S-H and C-A-
+S-H. Consequently, this deficiency leads to reduced 
+strength in the concrete made from rice husk ash and high 
+levels of quarry dust. Previous studies have demonstrated 
+a decrease in compressive strength when cement is 
+partially substituted with RHA and sand is replaced with 
+quarry dust [3], [11], [14]. In this research, the optimal 
+percentage of RHA was fixed as 10% and quarry dust 
+values would be varied because both waste material has 
+high silica content. Table 5 presents the percentage 
+strength variation to the control mix M0, as well as the 
+corresponding standard deviation for all mixes. 
+ 
+4. REGRESSION ANALYSIS 
+ 
+This study used statistical analysis using Minitab software 
+to evaluate the influence of quarry dust on the 
+compressive and tensile strength of concrete produced 
+from rice husk ash. Utilizing this methodology to establish 
+the correlation between a limited number of input and 
+output variables is a commendable proposition. In Table 6 
+and Table 7, the regression model's coded coefficients for 
+the input variables are displayed. In contrast to the linear 
+nature of single terms like Q.D and Time, Q.D*Time, 
+Q.D*Q.D, and Time*Time, respectively, reflect two-way and 
+quadratic interactions. Regression coefficients are referred 
+to by the abbreviation "Coef," and these coefficients 
+provide information on the strength and direction of the 
+link between the input and output variables. Additionally, 
+the constant terms that are multiplied in a regression 
+equation are these coefficients. While the sign indicates the 
+direction of the relationship, the size of the coefficients 
+tells us how much of an impact a term has on the response 
+variables. The standard error of the coefficients is denoted 
+by the phrase "SE Coef." It demonstrates the accuracy with 
+which can measure the coefficients; the less the error, the 
+greater accuracy with which we can estimate the 
+coefficients. Based on a 95% confidence interval, the "p" 
+values demonstrate the relevance of the term in the 
+regression equation. The terms that have a "p" value less 
+than 0.05 are significant and have a substantial impact on 
+the 
+intended 
+results.
+ 
+Table 5 Percentage variations in compressive and splitting tensile strength test results with control mix (M0) 
+Type of 
+Mix 
+28 days compressive strength 
+ 
+28 days split tensile strength 
+ 
+ 
+Mean value 
+(MPa) 
+ 
+ 
+Standard 
+Deviation 
+Decrease 
+in 
+compressive 
+strength (%) 
+ 
+Mean 
+value 
+(MPa) 
+ 
+ 
+Standard 
+Deviation 
+Decrease 
+in 
+Splitting 
+Tensile 
+strength (%) 
+M0 
+22.68 
+0.15 
+0 
+2.42 
+0.15 
+0 
+M1 
+21.31 
+0.14 
+6.04 
+2.21 
+0.06 
+8.68 
+M2 
+21.02 
+0.08 
+7.32 
+1.98 
+0.12 
+18.18 
+M3 
+21.09 
+0.26 
+7.01 
+2.06 
+0.09 
+14.87 
+M4 
+21.26 
+0.13 
+6.26 
+2.12 
+0.08 
+12.39 
+M5 
+21.45 
+0.35 
+5.42 
+2.25 
+0.08 
+7.02 
+M6 
+21.19 
+0.17 
+6.57 
+2.07 
+0.08 
+14.46 
+ 
+ 
+ 
+ 
+
+
+----- TABLE p6#1 -----
+
+Type of
+Mix |  |  | 28 days compressive strength |  |  |  |  |  |  | 28 days split tensile strength |  |  |  |  |  | 
+ |  |  | Mean value
+(MPa) |  |  | Standard
+Deviation | Decrease in
+compressive
+strength (%) |  |  | Mean value
+(MPa) |  |  | Standard
+Deviation | Decrease in
+Splitting Tensile
+strength (%) |  | 
+M0 |  |  | 22.68 |  |  | 0.15 |  | 0 |  |  | 2.42 |  | 0.15 |  | 0 | 
+ | M1 |  |  | 21.31 |  | 0.14 |  | 6.04 |  |  | 2.21 |  | 0.06 |  | 8.68 | 
+ | M2 |  |  | 21.02 |  | 0.08 |  | 7.32 |  |  | 1.98 |  | 0.12 |  | 18.18 | 
+ | M3 |  |  | 21.09 |  | 0.26 |  | 7.01 |  |  | 2.06 |  | 0.09 |  | 14.87 | 
+ | M4 |  |  | 21.26 |  | 0.13 |  | 6.26 |  |  | 2.12 |  | 0.08 |  | 12.39 | 
+ | M5 |  |  | 21.45 |  | 0.35 |  | 5.42 |  |  | 2.25 |  | 0.08 |  | 7.02 | 
+ | M6 |  | 21.19 |  |  | 0.17 | 6.57 |  |  | 2.07 |  |  | 0.08 | 14.46 |  | 
+
+===== PAGE 7 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+200 
+ 
+Table 6 Regression Analysis of Compressive Strength and Time 
+Term 
+Coef 
+SE Coef 
+T Value 
+P Value 
+VIF 
+Regression 
+Constant 
+8.20 
+0.712 
+11.5 
+0.00 
+ 
+Q.D 
+-0.009 
+0.0260 
+-0.37 
+0.717 
+17.72 
+Time 
+1.0194 
+0.0790 
+12.90 
+0.000 
+34.39 
+Q.D*Q.D 
+0.0002 
+0.0004 
+0.53 
+0.605 
+12.72 
+Time*time 
+-0.020 
+0.00215 
+-9.30 
+0.000 
+32.25 
+Q.D*Time 
+-0.00004 
+0.00078 
+0.05 
+0.961 
+8.41 
+ 
+Table 7 Regression Analysis of Splitting Tensile Strength and Time 
+ 
+Term 
+Coef 
+SE Coef 
+T Value 
+P Value 
+VIF 
+Regression 
+Constant 
+0.792 
+0.157 
+5.06 
+0.000 
+ 
+Q.D 
+-0.00280 
+0.00571 
+-0.49 
+0.630 
+17.72 
+Days 
+0.0999 
+0.0174 
+5.76 
+0.000 
+34.39 
+Q.D*Q.D 
+0.000097 
+0.000093 
+1.04 
+0.311 
+12.72 
+Days*Days 
+-0.001871 
+0.000473 
+-3.96 
+0.001 
+32.25 
+Q.D*Days 
+-0.000066 
+0.000173 
+-0.38 
+0.707 
+8.41 
+ 
+To examine the impacts of quarry dust and curing time on 
+concrete made from rice husk ash, a regression equation 
+for compressive and tensile strength is created. The 
+software creates equation 1 to link compressive strength 
+versus Q.D. and time on rice husk ash-based concrete. The 
+compressive strength R2 value after the regression analysis 
+is 97.30%, and the R2 adjusted value is 96.55%, which 
+provides an outstanding example of a regression model. 
+The coefficient of determination, or R2, always has a value 
+between 0 and 100%; a greater R2 number indicates a 
+better match[19].  After performing statistical analysis on  
+experimental values of compressive strength the residual 
+plots are shown in Figure 5. The link between splitting 
+tensile strength and the variable parameters Q.D and time 
+is also shown by equation (2). Following regression 
+analysis, the splitting tensile strength R2 value is 88.62%,  
+ 
+ 
+ 
+and R2 corrected is 85.64%. Here, R2 values are more 
+similar to R2 adjusted values, which demonstrate the 
+models' suitability. After performing statistical analysis on 
+experimental values of compressive strength the residual 
+plots are shown in Figure 6.  
+ 
+The major effect graphs of compressive and breaking 
+tensile strength are shown in Figure 7. These figures show 
+that when substituting quarry dust for some of the fine 
+aggregates, the strength is first reduced. However, 
+increasing the amount of quarry dust substitution will 
+significantly enhance the strength. In comparison to 
+reference mix M0, which contains no quarry dust, it 
+provides 
+greater 
+strength 
+at 
+40% 
+replacement. 
+Additionally, the impact of curing days on strength reveals 
+the tendency toward improvement. 
+ 
+ 
+ 
+C.S   =  
+8.200- 0.0096 Q.D+1.0194Days+0.00023Q.D*Q.D -0.02003Days*Days+0.000039 Q.D*Days                (1)   
+ 
+STS   =  
+0.792-0.00280Q.D+0.0999Days+0.000097Q.D*Q.D-0.001871Days*Days-0.000066Q.D*Days              (2) 
+ 
+
+
+----- TABLE p7#1 -----
+
+Term | Coef | SE Coef | T Value | P Value | VIF
+Regression
+Constant | 8.20 | 0.712 | 11.5 | 0.00 | 
+Q.D | -0.009 | 0.0260 | -0.37 | 0.717 | 17.72
+Time | 1.0194 | 0.0790 | 12.90 | 0.000 | 34.39
+Q.D*Q.D | 0.0002 | 0.0004 | 0.53 | 0.605 | 12.72
+Time*time | -0.020 | 0.00215 | -9.30 | 0.000 | 32.25
+Q.D*Time | -0.00004 | 0.00078 | 0.05 | 0.961 | 8.41
+
+----- TABLE p7#2 -----
+
+Term | Coef | SE Coef | T Value | P Value | VIF
+Regression
+Constant | 0.792 | 0.157 | 5.06 | 0.000 | 
+Q.D | -0.00280 | 0.00571 | -0.49 | 0.630 | 17.72
+Days | 0.0999 | 0.0174 | 5.76 | 0.000 | 34.39
+Q.D*Q.D | 0.000097 | 0.000093 | 1.04 | 0.311 | 12.72
+Days*Days | -0.001871 | 0.000473 | -3.96 | 0.001 | 32.25
+Q.D*Days | -0.000066 | 0.000173 | -0.38 | 0.707 | 8.41
+
+===== PAGE 8 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+201 
+ 
+ 
+ 
+Figure 5 Residual plot for compressive strength values 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6 Residual plot for splitting tensile strength values 
+ 
+
+
+===== PAGE 9 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+202 
+ 
+ 
+(a) Compressive strength vs Quarry dust and curing days 
+ 
+(b) Splitting Tensile strength vs Quarry dust and curing days 
+ Figure 7 Main effects plots (a); compressive strength (b) Splitting tensile strength 
+ 
+ 
+5. CONCLUSIONS 
+ 
+To check the influence of various percentages of quarry 
+dust on rice husk ash-based concrete, various experiments 
+were conducted. The findings of the experiment led to the 
+following conclusions. 
+ 
+• 
+The workability of the rice husk ash-based concrete 
+was reduced by increasing the percentages of quarry 
+dust compared to the control mix M0.  
+ 
+• 
+The compressive strength of rice husk ash-based 
+concrete with various percentages of quarry dust 
+initially decreased but at 10 to 40% replacement of 
+quarry dust with fine aggregate an increase in strength 
+was observed. In comparison to mix M1 having 10% 
+rice husk ash, the 28-day compressive strength was 
+increased by 0.65%, and the 28-day splitting tensile 
+strength was increased by 1.77% at 40% substitution of 
+fine aggregate with quarry dust. 
+ 
+• 
+The 
+compressive 
+and 
+splitting 
+tensile 
+strength 
+effectiveness of rice husk ash-based concrete was found 
+to be influenced by the combined effects of quarry dust 
+and curing days. The inclusion of quarry dust as a 
+parameter 
+has 
+a 
+substantial 
+influence 
+on 
+the 
+characteristics of concrete. Consequently, the equations 
+utilized for the computation of the CS and STS were 
+introduced, employing a regression statistical analysis. 
+As a result, a prognostic model was developed for the 
+compressive strength of rice husk ash-based concrete 
+ 
+ACKNOWLEDGMENTS 
+ 
+The authors would like to express their gratitude to 
+everyone kind enough to assist them in conducting this 
+research. The University of Lahore, Pakistan, is gratefully 
+acknowledged, especially by the authors. 
+ 
+ 
+
+
+===== PAGE 10 =====
+
+International Journal of Nanoelectronics and Materials (IJNeaM) 
+203 
+ 
+REFERENCES 
+ 
+[1] 
+J. Ahmad, F. Aslam, O. Zaid, R. Alyousef, and H. 
+Alabduljabbar, 
+“Mechanical 
+and 
+Durability 
+Characteristics of Sustainable Concrete Modified 
+with 
+Partial 
+Substitution 
+of 
+Waste 
+Foundry 
+Sand,” Struct. Concr., vol. 22, no. 5, pp. 2775–2790, 
+2021. 
+[2] 
+S. Noshin, M. Shahzad Aslam, H. Kanwal, M. Adil 
+Khan, and A. Ahmad, “Effects on Compressive and 
+Tensile Strength of Concrete by Replacement of 
+Natural Aggregates with Various Percentages of 
+Recycled Aggregates,” Mehran Univ. Res. J. Eng. 
+Technol., vol. 41, no. 1, pp. 195–201, 2022. 
+[3] 
+A. Siddika et al., “Performance of Sustainable Green 
+Concrete Incorporated with Fly Ash, Rice Husk Ash, 
+and Stone Dust,” Acta Polytech., vol. 61, no. 1, pp. 
+279–291, 2021. 
+[4] 
+F. Althoey and M.A. Hosen, “Physical and Mechanical 
+Characteristics of Sustainable Concrete Comprising 
+Industrial Waste Materials as a Replacement of 
+Conventional Aggregate,” Sustain., vol. 13, no. 8, 
+2021. 
+[5] 
+K.Y. Foong, U.J. Alengaram, M.Z. Jumaat, and K.H. Mo, 
+“Enhancement of the Mechanical Properties of 
+Lightweight Oil Palm Shell Concrete Using Rice Husk 
+Ash and Manufactured Sand,” J. Zhejiang Univ. Sci. A, 
+vol. 16, no. 1, pp. 59–69, 2015. 
+[6] 
+P. Rattanachu, P. Toolkasikorn, W. Tangchirapat, P. 
+Chindaprasirt, and C. Jaturapitakkul, “Performance 
+of Recycled Aggregate Concrete with Rice Husk Ash 
+as Cement Binder,” Cem. Concr. Compos., vol. 108, p. 
+103533, 2020. 
+[7] 
+N. Bheel, A.W. Abro, I.A. Shar, A.A. Dayo, S. Shaikh, 
+and Z.H. Shaikh, “Use of Rice Husk Ash as 
+Cementitious Material in Concrete,” Eng. Technol. 
+Appl. Sci. Res., vol. 9, no. 3, pp. 4209–4212, 2019. 
+[8] 
+S. Das, R.K. Patra, and B.B. Mukharjee, “Feasibility 
+Study of Utilisation of Ferrochrome Slag as Fine 
+Aggregate 
+and 
+Rice 
+Husk 
+Ash 
+as 
+Cement 
+Replacement 
+for 
+Developing 
+Sustainable 
+Concrete,” Innov. Infrastruct. Solut., vol. 6, no. 2, pp. 
+1–18, 2021. 
+[9] 
+A.A. Jhatial, W.I. Goh, K.H. Mo, S. Sohu, and I.A. Bhatti, 
+“Green and Sustainable Concrete – The Potential 
+Utilization of Rice Husk Ash and Egg Shells,” Civ. 
+Eng. 
+J., 
+vol. 
+5, 
+no. 
+1, 
+p. 
+74, 
+2019.
+ 
+[10] H. Ş. Arel and E. Aydin, “Use of Industrial and 
+Agricultural Wastes in Construction Concrete,” ACI 
+Mater. J., vol. 115, no. 1, pp. 55–64, 2018. 
+[11] G. Sua-iam, N. Makul, S. Cheng, and P. Sokrai, 
+“Workability 
+and 
+Compressive 
+Strength 
+Development 
+of 
+Self-Consolidating 
+Concrete 
+Incorporating Rice Husk Ash and Foundry Sand 
+Waste – A Preliminary Experimental Study,” Constr. 
+Build. Mater., vol. 228, p. 103533, 2020. 
+[12] S. Noshin et al., “Evaluating the Compressive 
+Strength of Concrete Containing Recycled Aggregate 
+in Different Curing Conditions,” J. Appl. Eng. Sci., vol. 
+11, no. 2, pp. 127–136, 2021. 
+[13] B.K. Meisuh, C.K. Kankam, and T.K. Buabin, “Effect of 
+Quarry Rock Dust on the Flexural Strength of 
+Concrete,” Case Stud. Constr. Mater., vol. 8, no. July 
+2017, pp. 16–22, 2018. 
+[14] L.A. Taiwo, I.I. Obianyo, A.O. Omoniyi, A.P. Onwualu, 
+A.B.O. Soboyejo, 
+and 
+O.O. 
+Amu, 
+“Mechanical 
+Behavior of Composite Produced with Quarry Dust 
+and Rice Husk Ash for Sustainable Building 
+Applications,” Case Stud. Constr. Mater., vol. 17, no. 
+April, p. e01157, 2022. 
+[15] S. Patil, T.H. Patel, and E. Yashodha, “The Effect of 
+Rice Husk Ash, Silica Fume, and Quarry Dust on 
+Glass 
+Fibre 
+Reinforced 
+Concrete’s 
+Strength 
+Properties,” Mater. Today Proc., vol. 59, pp. 918–925, 
+2022. 
+[16] S. Sahoo, P.K. Parhi, and B. Chandra Panda, 
+“Durability Properties of Concrete with Silica Fume 
+and Rice Husk Ash,” Clean. Eng. Technol., vol. 2, no. 
+March, p. 100067, 2021. 
+[17] G. Singh, “Influence of RHA and Stone Dust on 
+Properties of Concrete,” Mater. Today Proc., vol. 37, 
+no. Part 2, pp. 2441–2445, 2020. 
+[18] S. Bahri, H.B. Mahmud, and P. Shafigh, “Effect of 
+Utilizing Unground and Ground Normal and Black 
+Rice Husk Ash on the Mechanical and Durability 
+Properties of High-Strength Concrete,” Sadhana - 
+Acad. Proc. Eng. Sci., vol. 43, no. 2, pp. 1–12, 2018. 
+[19] G.M. Uddin et al., “Comparative Performance 
+Analysis of Cemented Carbide, TiN, TiAlN, and PCD 
+Coated Inserts in Dry Machining of Al 2024 
+Alloy,” Int. J. Adv. Manuf. Technol., vol. 112, no. 5–6, 
+pp. 1461–1481, 2021. 
+ 

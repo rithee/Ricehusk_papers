@@ -1,0 +1,1003 @@
+
+===== PAGE 1 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 10, No. 6, 2020, 6481-6487 
+6481 
+ 
+www.etasr.com 
+Oliko et al.: Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete
+ 
+Rice Straw and Eggshell Ash as Partial Replacements 
+of Cement in Concrete  
+ 
+Cyprian Oliko  
+Sustainable Materials Research and Technology Centre 
+Jomo Kenyatta University of Agriculture and Technology 
+Nairobi, Kenya 
+cyprianoliko@yahoo.com  
+Charles K. Kabubo 
+Sustainable Materials Research and Technology Centre 
+Jomo Kenyatta University of Agriculture and Technology 
+Nairobi, Kenya 
+kabcha@jkuat.ac.ke 
+John N. Mwero 
+Department of Civil Engineering 
+University of Nairobi 
+Nairobi, Kenya 
+johnmwero1@gmail.com 
+ 
+ 
+Abstract—This paper presents the properties of concrete made 
+with cement partially replaced with rice straw ash and eggshell 
+ash. The rice straws and eggshells were incinerated, sieved, and 
+ground, and the physical and chemical properties of the resultant 
+ash and the other materials incorporated in the concrete mixes 
+were determined. A class 35 concrete mix with no partial 
+replacement of cement with rice straw ash designed with the 
+British Research Establishment method with a water/cement 
+ratio of 0.5 was considered as the control mix. The cement in 
+concrete was partially replaced with rice straw ash by 5% to 30% 
+and its compressive and splitting tensile strength was determined 
+after 7, 14, 28, 56, and 90 days of curing. Durability, resistance to 
+acid attack, and other wet and hardened properties of concrete 
+with cement partially replaced with rice straw ash were also 
+determined. An increase in compressive strength above the 
+control mix was observed for concrete with 5% and 10% partial 
+replacement of cement with rice straw ash. When eggshell ash 
+was added to concrete mixes made with cement partially replaced 
+with rice straw ash at 15% and 20%, the 28, 56, and 90-day 
+compressive strength was found to increase. It can be concluded 
+that rice straw and eggshell ash can be used to partially replace 
+cement in concrete and result in a concrete whose properties 
+compare favorably with control. 
+Keywords-rice straw ash; eggshell ash; chemical composition; 
+partial replacement; concrete compressive and splitting tensile 
+strength; durability; water absorption 
+I. 
+INTRODUCTION  
+Concrete is the most popular construction material. It may 
+be used alone as mass concrete or with steel as reinforced or 
+pre-stressed concrete [1, 2]. Ordinary Portland Cement (OPC), 
+which is the main component of various concrete types, is one 
+of the most common construction materials worldwide. 
+However, there is a global effort to utilize industrial or 
+agricultural waste as raw materials for the concrete industry 
+which will replace, at least partially, cement [3]. This has been 
+inspired by economic, environmental, and technical reasons 
+and aims at mitigating the environmental impact of concrete 
+production and improving specific properties of the resultant 
+concrete [4]. Pozzolans are materials which are not 
+cementitious in nature but in processed forms react with water 
+to form cementitious compounds in the presence of water lime 
+[5]. Cement is manufactured from a mixture of calcium 
+carbonate in form of limestone, silica iron oxide and alumina 
+[6]. Four major compounds in cement are dicalcium silicate, 
+tricalcium silicate, tricalcium aluminate and tetra-calcium 
+aluminoferrite. Dicalcium silicate and tricalcium silicate are the 
+compounds responsible for the strength of hydrated cement 
+paste [7]. Upon wetting of cement the dicalcium silicate, 
+tricalcium silicate and tricalcium aluminate react with water to 
+form dicalcium silicate hydrate, tricalcium silicate hydrate (C-
+S-H), calcium alumino silicate hydrate and tricalcium alumino 
+ferrite hydrate. During the process, calcium hydroxide 
+(Ca(OH)2) is produced as a byproduct. The main strengthening 
+compound is  calcium silicate hydrate (C-S-H) [8]. Ca(OH)2 is 
+responsible for the deterioration of concrete through leaching. 
+When a pozzolanic material is added to Portland cement, the 
+silica in it reacts with the Ca(OH)2 produced by cement 
+hydration to produce additional calcium silicate hydrates and 
+thus improves the cementitious properties [8-9].  
+The rice plant absorbs silica from the ground and 
+assimilates in into its structure, so it is a good source of silica 
+when appropriately incinerated [10]. Rice straw is available in 
+large quantities from rice irrigation schemes at negligible cost. 
+Chicken eggshells are normally considered as waste and are 
+thrown away. They are available in large quantities from 
+hatcheries and confectioneries. Their main component is 
+calcium carbonate (CaCO3) with magnesium, potassium, 
+sodium, phosphorus, aluminum, zinc and copper found in small 
+proportions [11]. During the incineration of the eggshells, the 
+Ca(CO)3 decomposes to form CaO/lime and CO2. The CO2 will 
+escape while the CaO will remain in the ash [12]. Therefore, 
+Corresponding author: Cyprian Oliko
+
+
+===== PAGE 2 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 10, No. 6, 2020, 6481-6487 
+6482 
+ 
+www.etasr.com 
+Oliko et al.: Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete
+ 
+eggshells are a suitable, eco-friendly and sustainable alternative 
+to quarry limestone. 
+From the reviewed literature, it has been observed that at 
+higher percentages of partial replacement of cement with 
+pozzolans, there is a decrease in the compressive strength of 
+concrete, due to the high silica and low CaO content in the 
+pozzolans. Higher percentages of partial replacement of cement 
+with pozzolanic ash result in a reduction in the quantity of 
+available CaO in the mix which is required to react with silica 
+to form calcium silicate hydrates that are responsible for 
+concrete’s strength. This deficit can be remedied by the 
+addition of eggshell ash. This study aimed at establishing the 
+effect of partial replacement of cement in concrete with rice 
+straw ash and eggshell ash on concrete strength and the extent 
+to which rice straw ash and eggshell ash can partially replace 
+cement in concrete. 
+II. 
+METHODOLOGY 
+A. Materials  
+1) Rice Straw Ash 
+Oryza Sativa (Basmati) rice straws were used in this study 
+and were collected from Bunyala rice irrigation scheme, Busia 
+County, Kenya. The straws were dried and then incinerated at 
+650oC for 11/2 hours [13]. The ash was successively sieved 
+through 600µm, 425µm BS, and finally 75µm BS sieves. The 
+resultant ash was further ground in a ball mill for 4 minutes. 
+Only particles passing the above sieves were used for partial 
+cement replacement [14]. Chemical analysis of the ash was 
+done with an X-ray diffractometer at the Mines and Geology 
+laboratory in Nairobi. Particle size distribution was done on the 
+ash by hydrometer analysis. 
+2) Eggshell Ash  
+The eggshells used were obtained from small scale 
+hatcheries and hotels. They were cleaned to remove impurities, 
+dried in the sun until their surface became dry and incinerated 
+at 900oC for 2 hours. The resultant ash was ground in a ball 
+mill for 4 minutes. Chemical analysis of the ash was done by 
+an X-ray diffractometer at the Mines and Geology laboratory in 
+Nairobi. 
+3) Aggregates 
+River sand obtained from Malaba River in Western Kenya 
+was used as fine aggregates and crushed stone obtained from 
+Sirikwa quarry in Eldoret, Uasin Gishu county, Kenya as 
+coarse aggregates. 
+4) Cement 
+The cement used in this study was OPC type CEM 1- class 
+42.5N to Kenya Standard (KS EAS 18-1:2001). Chemical 
+analysis was also done on the cement. 
+B. Concrete Mix Proportions  
+The concrete mix design used in this research was done 
+according to Building Research Establishment (BRE) method 
+with target strength of 35N/mm2 at 28 days. Rice straw ash was 
+used to replace cement at 5, 10, 15, 20, 25, and 30% by weight 
+of cement. A water/cement ratio of 0.5 was used for all the 
+mixes. Fifteen concrete cubes and 15 cylinders were made for 
+each mix ratio. The wet properties of the resultant concretes 
+were determined immediately after mixing. The concrete was 
+cast in 150×150×150mm cubes and 150mm diameter and 
+300mm height cylinders that were demoulded after 24 hours 
+and cured in water for 7, 14, 28, 56, and 90 days. The hardened 
+concrete properties were determined from the cast cubes and 
+cylinders. 
+III. 
+CONCRETE TESTS 
+A. Slump Test 
+Slump tests were conducted on wet concrete to BS 1881 
+Part 102(1983). 
+B. Compaction Factor Test 
+Compaction factor tests were conducted on cement pastes 
+with various % partial replacement of cement to Indian 
+Standard 1199:1959. 
+C. Compressive Strength Test 
+The cast cubes were crushed in a compressive strength 
+testing machine according to BS 1881Part 116(1983).  
+D. Split Tensile Strength Test 
+Split tensile strength tests were conducted on the concrete 
+cylinders in a compressive strength testing machine according 
+to the BS 1881Part 117(1983). 
+E. Durability Test 
+Concrete cube specimens cured for 56 days were immersed 
+in 0.5% dilute sulphuric acid. They were tested for residual 
+compressive strength in a compressive strength testing 
+machine. 
+IV. 
+RESULTS AND DISCUSSION 
+A. Material Properties 
+Table I illustrates the chemical composition of rice straw 
+ash and OPC. In Table I, we notice that the main chemical 
+oxides in cement composition were within the tolerances 
+specified by the Kenyan standard for cement KS EAS 18-
+1:2001. The results of rice straw ash indicate that the rice straw 
+ash was found to be composed of 72.379% SiO2 (silica) by 
+weight. From Table I it can be observed that the combined 
+percentage of silica and alumina is 74.34% which satisfies the 
+70% minimum specified by ASTM C 618 [15] for a material to 
+be used as a pozzolan. The chemical composition of eggshell 
+ash is shown in Table II. It can be observed that eggshell ash 
+consists of 96.755% CaO. In comparison, Portland cement 
+consists of 72.04% CaO. 
+It can be observed in Figure 1 that the particles of rice straw 
+were to have smaller size than those of cement since they 
+recorded higher passing percentage than cement for all sieve 
+sizes. 
+B. Setting Time 
+The setting time test results on cement pastes are illustrated 
+in Figure 2. 
+ 
+
+
+===== PAGE 3 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 10, No. 6, 2020, 6481-6487 
+6483 
+ 
+www.etasr.com 
+Oliko et al.: Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete
+ 
+TABLE I.  
+CHEMICAL ANALYSIS OF CEMENT AND RICE STRAW ASH 
+OPC 
+Rice straw ash 
+Component 
+Percentage 
+Tolerance (KS EAS 
+18-1:2001) 
+Percentage 
+MgO 
+0.000 
+ 
+0.000 
+Al2O3 
+4.076 
+3% – 8% 
+1.094 
+SiO2 
+14.18 
+17% – 25% 
+72.379 
+P205 
+0.857 
+ 
+1.513 
+S 
+4.303 
+ 
+0.919 
+Cl 
+0.138 
+0% - 5% 
+1.450 
+K2O 
+0.746 
+ 
+16.174 
+CaO 
+72.041 
+60% – 67% 
+5.067 
+Ti 
+0.222 
+ 
+0.100 
+V 
+0.003 
+ 
+0.006 
+Cr 
+0.001 
+ 
+0.006 
+Mn 
+0.057 
+ 
+0.256 
+Fe 
+3.087 
+ 
+0.836 
+Co 
+0.000 
+ 
+0.000
+Ni 
+0.000 
+ 
+0.002 
+Cu 
+0.004 
+ 
+0.013 
+Zn 
+0.005 
+ 
+0.080 
+As 
+0.000 
+ 
+0.000 
+So 
+0.000 
+ 
+0.000 
+Rb 
+0.004 
+ 
+0.070 
+Sr 
+0.204 
+ 
+0.021 
+Y 
+0.003 
+ 
+0.000 
+Zr 
+ 
+ 
+0.007 
+Nb 
+ 
+ 
+0.003 
+Total 
+99.973 
+ 
+99.996 
+ 
+TABLE II.  
+CHEMICAL ANALYSIS OF EGGSHELL ASH 
+Component 
+Percentage 
+Standard deviation 
+CaO 
+96.755% 
+0.173 
+K2O 
+2.523% 
+0.116 
+SrO 
+0.606% 
+0.006 
+SO3 
+0.116% 
+0.006 
+Total 
+100% 
+ 
+ 
+ 
+Fig. 1.  
+Particle size distribution of cement and rice straw ash vs sieve size. 
+The initial and final setting times of concrete with 5 – 30% 
+partial replacement of cement with rice straw were found to 
+range between 85 and 615 minutes compared to the control 
+which recorded an initial setting time of 65 minutes and a final 
+setting time of 495 minutes. Two main factors affecting setting 
+time in cement are chemical composition and fineness. It can 
+be observed that as the partial replacement of cement with rice 
+straw increased, the initial and final setting time also increased. 
+Both initial and final setting time of concrete depend on 
+chemical reactions that take place in cement. Al2O3 present in 
+cement is responsible for the formation of tricalcium aluminate 
+which aids the quick hardening of cement. From the chemical 
+analysis of the cement in Table I, it can be observed that 
+cement was found to contain 4.076% Al2O3, while the rice 
+straw ash was found to contain 1.094% Al2O3. Thus the partial 
+replacement of cement with rice straw ash led to a reduction in 
+in Al2O3, hence the setting times for cement pastes with rice 
+straw ash was increased. 
+ 
+ 
+Fig. 2.  
+Setting time vs partial replacement of cement with rice straw ash. 
+C. Slump 
+The slump values for concrete with various percentages of 
+partial replacement of cement with rice straw ash are exhibited 
+in Table II and Figure 3. 
+TABLE III.  
+SLUMP VALUES FOR VARIOUS PERCENTAGES OF PARTIAL 
+REPLACEMENT OF CEMENT IN CONCRETE 
+ 
+% Partial replacement of cement with rice straw ash% 
+ 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+Slump, mm 
+62 
+51 
+47 
+39 
+10 
+0 
+0 
+ 
+ 
+Fig. 3.  
+Slump vs percentage of partial replacement of cement in concrete. 
+
+
+----- TABLE p3#1 -----
+
+OPC |  |  | Rice straw ash
+Component | Percentage | Tolerance (KS EAS
+18-1:2001) | Percentage
+MgO | 0.000 |  | 0.000
+AlO
+2 3 | 4.076 | 3% – 8% | 1.094
+SiO
+2 | 14.18 | 17% – 25% | 72.379
+P0
+2 5 | 0.857 |  | 1.513
+S | 4.303 |  | 0.919
+Cl | 0.138 | 0% - 5% | 1.450
+KO
+2 | 0.746 |  | 16.174
+CaO | 72.041 | 60% – 67% | 5.067
+Ti | 0.222 |  | 0.100
+V | 0.003 |  | 0.006
+Cr | 0.001 |  | 0.006
+Mn | 0.057 |  | 0.256
+Fe | 3.087 |  | 0.836
+Co | 0.000 |  | 0.000
+Ni | 0.000 |  | 0.002
+Cu | 0.004 |  | 0.013
+Zn | 0.005 |  | 0.080
+As | 0.000 |  | 0.000
+So | 0.000 |  | 0.000
+Rb | 0.004 |  | 0.070
+Sr | 0.204 |  | 0.021
+Y | 0.003 |  | 0.000
+Zr |  |  | 0.007
+Nb |  |  | 0.003
+Total | 99.973 |  | 99.996
+
+----- TABLE p3#2 -----
+
+Component | Percentage | Standard deviation
+CaO | 96.755% | 0.173
+KO
+2 | 2.523% | 0.116
+SrO | 0.606% | 0.006
+SO
+3 | 0.116% | 0.006
+Total | 100% | 
+
+----- TABLE p3#3 -----
+
+ | % Partial replacement of cement with rice straw ash% |  |  |  |  |  | 
+ | 0 | 5 | 10 | 15 | 20 | 25 | 30
+Slump, mm | 62 | 51 | 47 | 39 | 10 | 0 | 0
+
+===== PAGE 4 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 10, No. 6, 2020, 6481-6487 
+6484 
+ 
+www.etasr.com 
+Oliko et al.: Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete
+ 
+The results in Table III and Figure 3 indicate a steady 
+decline in the slump value with increase in partial percentage 
+replacement of cement with rice straw ash. The control mix had 
+the highest slump of 62.0mm while concrete mixes with 25% 
+and 30% partial cement replacement were found to have zero 
+slump. Thus, with increase in rice straw ash, the concrete 
+became less workable. These findings are consistent with those 
+of [13]. This reduction in consistency can be attributed to the 
+additional water requirement caused by the smaller particle 
+sizes of rice straw ash which also have porous surfaces, hence 
+increased surface area.  
+D. Compaction Factor 
+The results of the compaction factor tests are presented in 
+Table IV. 
+TABLE IV.  
+COMPACTION FACTOR FOR CEMENT/RICE STRAW PASTES 
+ 
+% Partial replacement of cement with rice straw ash% 
+ 
+0 
+5 
+10 
+15 
+20 
+25 
+30 
+Compaction 
+factor (%) 
+0.685 
+0.680 
+0.674 
+0.668 
+0.666 
+0.654 
+0.622 
+ 
+It can be observed that as the percentage of partial 
+replacement of OPC with rice straw ash increases, the 
+workability and hence the compaction factor of concrete 
+decreases. This occurs because when the cement is replaced 
+with an equal mass of rice straw ash, this leads to an increase in 
+both the volume of mass due to the lower relative density of 
+rice straw ash. The increased mass leads to increased number 
+of particles and hence specific surface area due to the fact that 
+the rice straw ash is less dense than the cement. This increase 
+in surface area leads to increased water demand by the rice 
+straw ash in the mix. This additional water demand reduces the 
+water available for the workability of concrete and hence the 
+workability decreases since the water to cement ratio was 
+unchanged for all the mixes. Comparing the results in Table III 
+and Table IV, it can be observed that the compaction factor is 
+more sensitive than slump test for stiffer concretes. 
+E. Compressive Strength 
+In Figure 4 we can notice an increase in compressive 
+strength above the control for concrete mixes with 5% and 10% 
+partial cement replacement for all the ages of testing. The 7, 14, 
+28, 56, and 90 days compressive strength was found to be 
+27.90, 33.00, 35.95, 36.55, and 38.70 for the control  mix while 
+the compressive strength was found to be 32.70, 36.70, 38.80, 
+40.25, and 41.30 representing 17.2%, 11.2%, 7.9%, 10.1%, and 
+6.7% increase above the control respectively for 5% partial 
+cement replacement. For 10% partial replacement of cement 
+the strength was found to be 33.65, 37.10, 40.20, 41.80, and 
+42.65 for 7, 14, 28, 56, and 90 days representing 20.6%, 
+12.42%, 11.8%, 14.3%, and 10.2% increase above the control 
+respectively. The increase in concrete strength can be attributed 
+to two factors: First, the filler effect of pozzolanic material 
+which has smaller particles than cement resulted in denser 
+packing of particles within the concrete matrix and at the 
+aggregate/concrete interface. The second is the pozzolanic 
+reaction between the silica in and Ca(OH)2 produced by cement 
+hydration which occurs after the hydration reaction and is 
+responsible for strength gain during the later days of concrete 
+curing. For mixes with partial cement replacement of 15, 20, 
+25, and 30%, a drop in compressive strength below the control 
+was observed. The 7, 14, 28, 56, and 90 day compressive 
+strengths were found to be 28.70, 31.60, 32.30, 33.70, and 
+34.70 respectively for 15% partial cement replacement and 
+28.40, 29.55, 31.80, 32.60, and 33.45 respectively for 20% 
+partial cement replacement. For 25% partial cement 
+replacement the strengths were found to be 24.00, 26.20, 28.70, 
+31.85, and 32.80 while for 30% partial cement replacement the 
+compressive strength was found to be 10.85, 15.25, 18.95, 
+20.05, and 23.10 for 7, 14, 28, 56, and 90 days curing age 
+respectively. 
+Since the rice straw ash was found to have a CaO: Silica 
+ratio of 1:14.3 instead of the recommended 3:13 and a CaO 
+content of 5.07% instead of the recommended 61-67% (Table 
+I), the partial replacement of cement with rice straw leads to a 
+reduction in CaO and an increase in silica. At low percentages 
+of replacement, the silica reacts with the CaO released by the 
+hydration of cement to form cementitious materials. At higher 
+replacement levels of cement, there is an increase in the 
+amount of pozzolan in the concrete mix however the 
+replacement of cement with pozzolan has an effect of reducing 
+the cement content in the concrete which in turn reduces the 
+quantity of released Ca(OH)2 by hydration of OPC. This 
+reduction in Ca(OH)2 production leads to the reduced 
+production of the cementitious product (C-S-H) that is 
+responsible for the strength development in concrete. The 
+optimum percentage of partial replacement of cement with rice 
+straw ash was found to be 10%, in which there is equilibrium 
+and all the Ca(OH)2 produced by the cement hydration reaction 
+combines with silica to form calcium silicate hydrates(C-S-H). 
+Beyond the optimum 10% of partial replacement of cement 
+there is less Ca(OH)2 produced by the cement hydration 
+reaction, hence there is a reduced opportunity for Ca(OH)2 to 
+react with silica to form additional C-S-H. To reduce this 
+deficit in CaO and facilitate continuation of the silica – 
+Ca(OH)2 pozzolanic reaction, eggshell ash was added to the 
+concrete mix in order to react with silica to form additional C-
+S-H and mitigate the strength loss of the concrete at higher 
+partial replacement levels of cement with rice straw ash. 
+ 
+ 
+Fig. 4.  
+Compressive strength vs the percentage of partial replacement of 
+cement with rice straw ash in concrete. 
+
+
+----- TABLE p4#1 -----
+
+ | % Partial replacement of cement with rice straw ash% |  |  |  |  |  | 
+ | 0 | 5 | 10 | 15 | 20 | 25 | 30
+Compaction
+factor (%) | 0.685 | 0.680 | 0.674 | 0.668 | 0.666 | 0.654 | 0.622
+
+===== PAGE 5 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 10, No. 6, 2020, 6481-6487 
+6485 
+ 
+www.etasr.com 
+Oliko et al.: Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete
+ 
+Figures 5, 6, and 7 illustrate the 28, 56, and 90 days 
+compressive strength of concrete with various percentages of 
+partial replacement of cement with rice straw ash and concrete 
+with partial replacement of cement with both rice straw and 
+eggshell ash.  
+ 
+ 
+Fig. 5.  
+28-day compressive strength for concrete with various percentages 
+of partial replacement of cement with rice straw ash and eggshell ash. 
+ 
+Fig. 6.  
+56-day compressive strength for concrete with various percentages 
+of partial replacement of cement with rice straw ash and eggshell ash. 
+From the compressive strength results, concretes with 15% 
+and above partial replacement of cement with rice straw ash 
+exhibited decrease in their strength. The 28, 56, and 90 days 
+compressive strength of concrete with 15% partial cement 
+replacement with rice straw ash and 0% eggshell ash were 
+found to be 32.3, 33.7, and 34.7N/mm2 while the compressive 
+strength for concrete with 15% partial cement replacement with 
+rice straw ash and 10% eggshell ash was 41.3, 42.7, and 44.85 
+representing strength increase of 25.3%, 26.7% and 29.2% 
+respectively. On the other hand the 28, 56, and 90 days 
+compressive strength for concrete with 20% partial cement 
+replacement with rice straw ash and 0% eggshell ash was found 
+to be 31.8, 32.6 and 33.8N/mm2 while the compressive strength 
+for concrete with 20% partial cement replacement with rice 
+straw ash and 10% eggshell ash was 33.5, 34.7 and 
+34.85N/mm2 representing strength increase of 5.34%, 3.26%, 
+and 3.88% respectively. 
+ 
+ 
+Fig. 7.  
+90-day compressive strength for concrete with various percentages 
+of partial replacement of cement with rice straw ash and eggshell ash. 
+Previous researchers reported a decrease in compressive 
+strength at higher levels of partial replacement of cement in 
+concrete with pozzolans. There is limited information on what 
+can be done to remedy the concrete strength loss at higher 
+partial cement replacement levels and still take advantage of 
+the silica present in the pozzolans. None of the reviewed 
+researches proposed a remedy. In the current research, eggshell 
+ash was added to concrete mixes with higher partial 
+replacement levels of cement with rice straw ash. Eggshell ash, 
+rich in CaO reduced the CaO deficit occasioned by replacing 
+cement with rice straw ash owing to their dissimilar chemical 
+composition. This ensured that even at higher cement 
+replacement levels with rice straw ash, CaO was available to 
+react with silica from the pozzolan and form additional calcium 
+silicate hydrates that are responsible for strength. This 
+increased the concrete strength that had been initially recorded 
+before the addition of eggshell ash as illustrated by the above 
+results. Thus, the objective of reducing the content of cement 
+and the cost of concrete was achieved. 
+F. Splitting Tensile Strength 
+Figure 8 illustrates the variation of splitting tensile strength 
+with the percentage partial replacement of cement with rice 
+straw ash for various ages of curing. It can be observed that the 
+splitting tensile strength for 5% and 10% replacement was 
+found to be above the control. For 15%, 20%, 25%, and 30% 
+partial replacement, the splitting tensile strength was found to 
+be lower than the control’s. Thus, for both compressive and 
+splitting tensile strength, it can be said that 10% partial cement 
+replacement in concrete is the optimum. Beyond 10% partial 
+replacement, the compressive strength decreases with the 
+increase in replacement percentage.  
+
+
+===== PAGE 6 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 10, No. 6, 2020, 6481-6487 
+6486 
+ 
+www.etasr.com 
+Oliko et al.: Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete
+ 
+ 
+Fig. 8.  
+Splitting tensile strength vs percentage of partial replacement of 
+cement with rice straw ash in concrete. 
+G. Accelerated Durability Test 
+The test results on concrete cubes cured for 56 days in 
+water and immersed in bath containing 0.5% dilute sulphuric 
+acid for 30 days are exhibited in Table V. 
+TABLE V.  
+MASS LOSS OF VARIOUS CONCRETE MIXES IMMERSED IN 
+0.5% SULPHURIC ACID 
+Concrete 
+Mix 
+Mass before 
+immersion (g) 
+Mass after 
+immersion (g) 
+Change 
+percentage
+0% Partial 
+replacement 
+8,529 
+8,443 
+-1.01 
+10% Partial 
+replacement 
+8,353 
+8,329 
+-0.29 
+ 
+In Table V it is noticed that the control recorded the highest 
+mass loss of 1.01%, while the concrete cubes with 10% 
+(optimum) partial cement replacement with rice straw ash 
+recorded the least loss in mass (0.29%) which is very close. 
+The mass loss in concrete cube specimens can be attributed to 
+the formation of gypsum, part of which dissolved in the 
+solution and part appeared as a precipitate in the acid solution 
+bath. Sulphuric acid (H2SO4) reacts with Ca(OH)2 in the 
+concrete matrix to form gypsum which is soluble [16]. For the 
+specimen with no partial replacement of cement with rice straw 
+ash, the Ca(OH)2 that was formed by the hydration reaction 
+reacts with sulphuric acid to form gypsum. These specimens 
+did not have a pozzolan in their mixes to consume the Ca(OH)2 
+formed by hydration hence there was greater opportunity for 
+the reaction between Ca(OH)2 and H2SO4 to occur and form 
+gypsum. They also lacked the packing effect of pozzolan 
+particles in their concrete matrix to prevent percolation of acid 
+solution into the concrete cube matrix. These factors could 
+explain why they recorded the highest mass loss on exposure to 
+acid solution. On the other hand, in the specimens with 10% 
+partial replacement of cement with rice straw ash, the Ca(OH)2 
+formed during hydration was consumed by the pozzolanic 
+reactions with silica in the rice straw ash to form additional 
+calcium silicate hydrates, hence reduced the opportunity for the 
+reaction that leads to the formation of gypsum and thus 
+reducing mass loss.  
+TABLE VI.  
+COMPRESSIVE STRENGTH OF VARIOUS CONCRETE MIXES 
+IMMERSED IN 0.5% SULPHURIC ACID 
+Concrete 
+Mix 
+Compressive 
+strength before 
+immersion 
+(MPa)
+Compressive 
+strength after 
+immersion (MPa) 
+Change 
+percentage 
+0% Partial 
+replacement 
+38.7 
+36.47 
+-5.77 
+10% Partial 
+replacement 
+42.65 
+41.1 
+-3.56 
+ 
+We can see in Table VI that the control mix without partial 
+replacement of cement with rice straw ash had the highest 
+reduction in compressive strength at 5.77% while the mix with 
+10% partial replacement was found to have a compressive 
+strength reduction of 3.56%. Rice straw particles were found to 
+be smaller in particle size than those of cement, as illustrated 
+by Figure 1, thus the concrete with partial replacement of 
+cement with rice straw ash achieved denser packing of particles 
+making them less porous to capillary penetration of the acid 
+solution. The impregnating effect of rice straw ash along with 
+the formation of additional calcium silicate hydrates by the 
+pozzolanic reaction filled voids in the concrete matrix and 
+enhanced the chemical resistance and capillary penetration of 
+the acid solution in the concrete matrix and hence slowed its 
+corrosion effect leading to reduced mass loss. 
+V. 
+CONCLUSIONS 
+• The studied rice straw ash meets the requirements of ASTM 
+C 618 specifications for pozzolans.  
+• The rice straw ash can partially replace OPC in concrete up 
+to an optimum percentage of 10%. The concrete 
+compressive strength was found to increase by 11.8%, 
+14.3%, and 10.2% above control for 28, 56, and 90 days of 
+curing. 
+• Eggshell ash used in this study was found to be composed 
+of 96.75% CaO when incinerated. The eggshell ash can be 
+used in combination with rice straw ash to increase the 
+strength of concrete with higher percentage of partial 
+replacement of cement with rice straw ash that otherwise 
+recorded a decrease in strength . 
+• The optimum combination of eggshell ash and rice straw 
+ash to be used together to partially replace cement in 
+concrete was found to be 10% for both. 
+• The rice straw ash was found to increase the resistance of 
+the concrete to the acid solution, hence it can be used for 
+concretes exposed to acidic environment and sulphate 
+attacks. 
+• Concrete with cement partially replaced with rice straw ash 
+was found to have lower capillary water absorption and 
+hence improved durability. 
+
+
+----- TABLE p6#1 -----
+
+Concrete
+Mix | Compressive
+strength before
+immersion
+(MPa) | Compressive
+strength after
+immersion (MPa) | Change
+percentage
+0% Partial
+replacement | 38.7 | 36.47 | -5.77
+10% Partial
+replacement | 42.65 | 41.1 | -3.56
+
+----- TABLE p6#2 -----
+
+Concrete
+Mix | Mass before
+immersion (g) | Mass after
+immersion (g) | Change
+percentage
+0% Partial
+replacement | 8,529 | 8,443 | -1.01
+10% Partial
+replacement | 8,353 | 8,329 | -0.29
+
+===== PAGE 7 =====
+
+Engineering, Technology & Applied Science Research 
+Vol. 10, No. 6, 2020, 6481-6487 
+6487 
+ 
+www.etasr.com 
+Oliko et al.: Rice Straw and Eggshell Ash as Partial Replacements of Cement in Concrete
+ 
+VI. 
+RECOMMENDATIONS 
+A. Recommendations for Use 
+• Rice straw ash can be used to partially replace cement in 
+concrete up in percentages up to 10%.  
+• Rice straw ash can be used to make concrete in 
+environments that are susceptible to acid attack  
+• Eggshell ash can be used in combination with rice straw ash 
+to partially replace cement and enable higher partial 
+replacement  of cement with pozzolans with reduced loss of 
+concrete strength. 
+B. Recommendations for Further Research 
+• Varying the water cement ratio above or below 0.5 and 
+compare the properties of concrete with the ones found in 
+the current study. 
+• Obtaining rice straw from other irrigation schemes and 
+using the ash for partial replacement of cement in concrete 
+and compare the properties of concrete with the ones found 
+in the current study. 
+• Incinerating the ashes at different temperatures and 
+durations from those used in this study. 
+REFERENCES 
+[1] 
+C. M. Ikumapayi, “Properties of groundnut shell (Arachis hypogaea) ash 
+blended 
+portland 
+cement,” 
+Journal 
+of Applied 
+Sciences 
+and 
+Environmental Management, vol. 22, no. 10, pp. 1553–1556, Nov. 2018, 
+https://doi.org/10.4314/jasem.v22i10.3. 
+[2] 
+F. A. Olutoge, H. A. Quadri, and O. S. Olafusi, “Investigation of the 
+Strength Properties of Palm Kernel Shell Ash Concrete,” Engineering, 
+Technology & Applied Science Research, vol. 2, no. 6, pp. 315–319, 
+Dec. 2012, https://doi.org/10.48084/etasr.238. 
+[3] 
+R. Srinivasan and K. Sathiya, “Experimental study on bagasse ash in 
+concrete,” International Journal for Service Learning in Engineering, 
+Humanitarian Engineering and Social Entrepreneurship, vol. 5, no. 2, 
+pp. 60–66, Oct. 2010, https://doi.org/10.24908/ijsle.v5i2.2992. 
+[4] 
+S. A. Chandio, B. A. Memon, M. Oad, F. A. Chandio, and M. U. 
+Memon, “Effect of Fly Ash on the Compressive Strength of Green 
+Concrete,” Engineering, Technology & Applied Science Research, vol. 
+10, no. 3, pp. 5728–5731, Jun. 2020, https://doi.org/10.48084/etasr.3499. 
+[5] 
+J. Manasseh, “A Review of Partial Replacement of Cement with Some 
+Agro Wastes,” Nigerian Journal of Technology, vol. 29, no. 2, pp. 12–
+20, 2010, https://doi.org/10.4314/njt.v29i2. 
+[6] 
+N. Amin, “Study of the Physical Parameters of Ordinary Portland 
+Cement of Khyber Pakhtoon Khwa Pakistan and their comparison with 
+Pakistan standard Specifications,” Chemical Engineering Research 
+Bulletin, 
+vol. 
+14, 
+no. 
+1, 
+pp. 
+7–10, 
+May 
+2010, 
+https://doi.org/10.3329/cerb.v14i1.3729. 
+[7] 
+M. S. Ali, I. A. Khan, and M. I. Hossain, “Chemical Analysis of 
+Ordinary Portland Cement of Bangladesh,” Chemical Engineering 
+Research 
+Bulletin, 
+vol. 
+12, 
+pp. 
+7–10, 
+2008, 
+https://doi.org/10.3329/cerb.v12i0.1491. 
+[8] 
+L. Ettu, C. Njoku, C. Awodiji, A. Amanze, and M. Arimanwa, 
+“Variation of OPC-Rice Husk Ash-Saw Dust Ash Composites Strength 
+with Mix Proportion,” International Journal of Engineering Sciences & 
+Research Technology, vol. 2, no. 8, pp. 1964–1969, Aug. 2013. 
+[9] 
+K. A. Kassim and K. K. Chern, “Lime stabilized Malaysian cohesive 
+soils,” Jurnal Kejuruteraan Awam, vol. 16, no. 1, pp. 13–23, 2004. 
+[10] N. M. Chanu and T. K. Devi, “Contribution of rice husk ash to the 
+properties of cement mortar and concrete,” International Journal of 
+Engineering Research and Technology, vol. 2, no. 2, 2013. 
+[11] H. A. Rathod and J. Pitroda, “A Study of Future Trend for Sustainable 
+Development by Incorporation of SCM’s,” International Journal of 
+Scientific Research, vol. 2, no. 2, pp. 110–115, Feb. 2013. 
+[12] M. O. A. Mtallib and A. Rabiu, “Effect of Egg Shell Ash (ESA) on 
+Setting Time of Cement,” Nigerian Journal of Technology, vol. 28, no. 
+2, pp. 29–38, Sep. 2009. 
+[13] S. Munshi, G. Dey, and R. Prasad Sharma, “Use of Rice Straw Ash as 
+Pozzolanic Material in Cement Mortar,” International Journal of 
+Engineering and Technology, vol. 5, no. 5, pp. 603–606, Oct. 2013, 
+https://doi.org/10.7763/IJET.2013.V5.626. 
+[14] A. E. Abalaka, “Strength and Some Durability Properties of Concrete 
+Containing Rice Husk Ash Produced in a Charcoal Incinerator at Low 
+Specific Surface,” International Journal of Concrete Structures and 
+Materials, vol. 7, pp. 287–293, 2013, https://doi.org/10.1007/s40069-
+013-0058-8. 
+[15] C09 Committee, “Specification for Coal Fly Ash and Raw or Calcined 
+Natural Pozzolan for Use in Concrete,” ASTM International. Accessed: 
+Nov. 
+22, 
+2020. 
+[Online]. 
+Available: 
+http://www.astm.org/cgi-
+bin/resolver.cgi?C618-19. 
+[16] B. M. Reddy, H. S. Rao, and M. P. George, “Effect of sulphuric acid 
+(H2SO4) on blended cement (fly ash based) and its concrete,” 
+International Journal of Applied Engineering and Technology, vol. 2, 
+no. 2, 2012. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

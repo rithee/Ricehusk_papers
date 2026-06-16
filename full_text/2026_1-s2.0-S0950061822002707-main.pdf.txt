@@ -1,0 +1,2584 @@
+
+===== PAGE 1 =====
+
+Construction and Building Materials 323 (2022) 126578
+Available online 1 February 2022
+0950-0618/© 2022 Elsevier Ltd. All rights reserved.
+Evaluating compressive strength of concrete made with recycled concrete 
+aggregates using machine learning approach 
+Van Quan Tran a,*, Viet Quoc Dang b, Lanh Si Ho a,c,* 
+a University of Transport Technology, 54 Trieu Khuc, Thanh Xuan, Hanoi 100000, Viet Nam 
+b Faculty of Bridge and Road Construction, Mientrung University of Civil Engineering (MUCE), 24 Nguyen Du Street, Ward 7, Tuy Hoa City, Phu Yen Province, Viet Nam 
+c Hiroshima University, Civil and Environmental Engineering Program, Graduate School of Advanced Science and Engineering, 1-4-1, Kagamiyama, Higashi-Hiroshima, 
+Hiroshima 739-527, Japan   
+A R T I C L E  I N F O   
+Keywords: 
+Compressive strength 
+Gradient boosting 
+Machine learning 
+Recycle concrete 
+Recycle concrete aggregate 
+A B S T R A C T   
+To reduce the environmental impact of construction and demolition waste of concrete, recycled concrete 
+aggregate (RCA) has been widely utilized in concrete. The compressive strength of recycled concrete is one of the 
+most important parameters governing the quality of concrete. The compressive strength is determined from the 
+compression test, which requires a huge amount of materials as well as consumes cost and time. Thus, to solve 
+those limitations, this study focused on evaluating the compressive strength of concrete made from RCA using 
+different single and hybrid models of machine learning. Six machine learning models including Gradient 
+Boosting (GB), Extreme Gradient Boosting (XGB), Support Vector Regression (SVR), and three hybrid models of 
+those single models with Particle Swarm Optimization (PSO) namely GB_PSO, XGB_PSO, and SVR_PSO were used 
+to estimate the compressive strength of recycled concrete. The input variables for modeling consisted of cement 
+content, water content, aggregate content, natural aggregate content, recycle concrete aggregate content, sand 
+content, water absorption rates of natural aggregate and RCA. The results of this study show that hybrid models 
+performed better than single models in terms of prediction accuracy. The results indicated that the GB_PSO has 
+the highest prediction accuracy with R = 0.9356, RMSE = 5.5604 MPa, and MAE = 4.2882 MPa. The results of 
+feature importance analysis and partial dependence plots (PDP) analysis revealed that the most important var­
+iable effect on compressive strength of concrete made with RAC is cement content, whatever performance 
+strategies of concrete made with RAC. From the results of PDP, the quantity of each material can be computed 
+easily for the designed compressive strength. In the end, this study provides a systematic evaluation of the 
+compressive strength prediction of recycled concrete and has a significant contribution to literature and practice.   
+1. Introduction 
+Concrete is one of the most common materials used in the con­
+struction industry. Due to the rapid development of the economy as well 
+as urbanization, the construction of new structures and the demolition of 
+old structures have increased significantly. In Vietnam, the annual 
+amount of waste from construction and demolition increased from 1.0 
+million tons in 2004 [1] to 1.9 million tons by 2011 [2]. If this waste 
+material can be not treated properly, a huge amount of solid waste 
+materials will cause many environmental problems. Besides, due to the 
+population explosion, there are limited landfill areas in Vietnam, 
+therefore, it is necessary to seek a new solution to utilize this waste 
+material. In parallel, the construction of new projects using natural 
+coarse and fine aggregates leads to a depletion of resources. The usage 
+and exploitation of natural aggregate produce a negative impact on the 
+environment. Thus, it is very crucial for the concrete industry to explore 
+a new approach to use this waste material as an aggregate for sustain­
+able development. 
+Many previous studies have successfully used recycled concrete 
+aggregate (RCA) in the production of concrete and mortar [3-9]. In 
+general, the replacement of natural coarse aggregate by RCA will lead to 
+a reduction of mechanical properties of concrete such as compressive 
+strength and tensile strength [6,9]. However, it was reported that 
+addition to 30% RCA to concrete has a small significant impact on the 
+strength, the high-strength concrete made with RCA has a similar per­
+formance in terms of engineering properties as well as durability 
+* Corresponding authors. 
+E-mail addresses: quantv@utt.edu.vn (V. Quan Tran), lanhhs@utt.edu.vn (L. Si Ho).  
+Contents lists available at ScienceDirect 
+Construction and Building Materials 
+journal homepage: www.elsevier.com/locate/conbuildmat 
+https://doi.org/10.1016/j.conbuildmat.2022.126578 
+Received 10 November 2021; Received in revised form 12 January 2022; Accepted 21 January 2022   
+
+
+===== PAGE 2 =====
+
+Construction and Building Materials 323 (2022) 126578
+2
+compared to the concrete using natural aggregate [7]. Furthermore, 
+other studies indicated that concrete with RCA has comparable fresh and 
+hardened properties to normal aggregate concrete, the ratio between 
+splitting tensile and compressive strength was revealed to be in good 
+alignment with that of normal aggregate [9]. In general, the compressive 
+strength is determined in the laboratory via the compression test for the 
+specimens at specified curing age. However, to conduct this test, it is also 
+required a quite huge amount of material as well as cost and time. Thus, 
+some researchers have used several empirical equations as well as a 
+method to estimate the compressive strength of concrete using natural 
+aggregate as well as RAC. 
+The compressive strength of recycled concrete has a strong relation 
+with aggregate (natural and recycled aggregates) content, water/cement 
+ratio, cement content, type of aggregate, and type and dosage of 
+admixture [10,11]. Nevertheless, those parameters and compressive 
+strength have a complicated and non-linear relationship, and there is no 
+universal equation, which can reflect and clarify accurately their cor­
+relations [12,13]. Thus, several authors used machine learning (ML) and 
+artificial intelligence (AI) to estimate the compressive strength of con­
+crete using recycled aggregate [3,4,14-17]. A previous study used 168 
+datasets from the literature to predict the compressive strength of RCA 
+concrete and they indicated that an artificial neural network (ANN) is a 
+promising algorithm to estimate the compressive strength of recycled 
+concrete considering different kinds and sources of recycled aggregates 
+[4]. Deshpande et al. [3] also used ANN to forest cast the compressive 
+strength of concrete containing RCA, they also revealed that this algo­
+rithm is a promising approach to estimate the compressive strength. 
+It was stated that the result modeled by ANN and fuzzy logic (FL) 
+models has a close value to that of experimental results [18]. Previous 
+studies stated that the ANN model performed better than the model tree 
+and linear regression analysis in predicting the compressive strength of 
+concrete with RAC [3,19]. Furthermore, Deng et al, [14] used 
+convolutional neural networks (CNN) to estimate the compressive 
+strength of concrete made with RCA, they revealed that the model used 
+CNN performed better than those using conventional neural networks. 
+Nunez et al. [20] used the Gaussian process, deep learning, and gradient 
+boosting (GB) to estimate the compressive strength of recycled concrete, 
+they revealed that GB produced the highest prediction accuracy with R 
+= 0.959 and MAE = 5.076. In almost the above-mentioned published 
+studies, they only used accuracy metrics to estimate the prediction ac­
+curacy of the model. However, only accuracy metrics may not be enough 
+to assess the prediction accuracy of the models, and another indicator 
+such as feature importance is also very crucial to evaluate properly the 
+prediction accuracy of the model. Furthermore, almost previous studies 
+used single machine learning approaches to estimate the compressive 
+strength of concrete using RCA. However, these single machine learning 
+methods have disadvantages in terms of evolutionary algorithms. Par­
+ticle swarm optimization (PSO) is known as a powerful technique, which 
+has been used widely for optimization problems in civil engineering 
+problems [21-23]. The PSO has been recognized as an optimization 
+technique, which has no complicated operators as evolutionary algo­
+rithms because it has fewer parameters that need to be adjusted [24]. 
+Thus, the PSO has been used to improve and optimize the prediction 
+ability of the hybrid model as reported in previous studies [25,26]. 
+Therefore, this study used six different machine learning methods to 
+estimate the compressive strength of concrete using RCA as a partial 
+coarse aggregate replacement. The six machine learning models 
+including single models (GB, extreme gradient boosting (XGB), and 
+support vector machine regression (SVR)) and hybrid models of GB_PSO, 
+XGB_PSO, and SVR_PSO, were employed for modeling. The input 
+parameter used in this study comprises cement content, water content, 
+aggregate content (including natural and RCA), sand content, water 
+absorption of natural aggregate and RCA. This state-of-the-art research 
+contributes valuable knowledge to literature and practive as follows. 
+Table 1 
+Database collection.  
+No. 
+Reference 
+Number of data 
+Proportion of data (%) 
+No. 
+Reference 
+Number of data 
+Proportion of data (%) 
+1 
+Ismail and Ramili [27] 
+40  
+5.55 
+35 
+Zega and Di Maio [28] 
+8  
+1.11 
+2 
+Kou et al. [29] 
+36  
+4.99 
+36 
+Yang et al. [30] 
+7  
+0.97 
+3 
+Thomas et al. [31] 
+36  
+4.99 
+37 
+Evangelista and De Brito [32] 
+6  
+0.83 
+4 
+Limbachiya et al. [7] 
+28  
+3.88 
+38 
+Fathifazl et al. [33] 
+6  
+0.83 
+5 
+Ulloa et al. [34] 
+25  
+3.47 
+39 
+Mohammed et al. [35] 
+6  
+0.83 
+6 
+Thomas et al. [36] 
+24  
+3.33 
+40 
+Somna et al. [37] 
+6  
+0.83 
+7 
+Thomas et al. [38] 
+24  
+3.33 
+41 
+Xiao et al. [39] 
+6  
+0.83 
+8 
+Thomas et al. [40] 
+24  
+3.33 
+42 
+Gomez-Sobreron [41] 
+5  
+0.69 
+9 
+Vivian et al. [42] 
+24  
+3.33 
+43 
+Manzi et al. [43] 
+5  
+0.69 
+10 
+Chaocan Zheng et al. [44] 
+20  
+2.77 
+44 
+Nepomuceno et al. [45] 
+5  
+0.69 
+11 
+Haitao and Shizhu [46] 
+20  
+2.77 
+45 
+Woubishet [47] 
+5  
+0.69 
+12 
+Sheen et al. [48] 
+20  
+2.77 
+46 
+Younis and Pilakoutas [49] 
+5  
+0.69 
+13 
+Pedro et al. [50] 
+18  
+2.50 
+47 
+Arezoumandi et al. [51] 
+4  
+0.55 
+14 
+Poon et al. [52] 
+17  
+2.36 
+48 
+Cakir and Sofyanli [53] 
+4  
+0.55 
+15 
+Butler et al. [54] 
+16  
+2.22 
+49 
+Choi et al. [55] 
+4  
+0.55 
+16 
+Duan and Poon [56] 
+16  
+2.22 
+50 
+Domingo-Cabo et al. [57] 
+4  
+0.55 
+17 
+Knaack and Kurama [58] 
+16  
+2.22 
+51 
+Etxeberria et al. [59] 
+4  
+0.55 
+18 
+Pereira et al. [60] 
+15  
+2.08 
+52 
+Etxeberria et al. [61] 
+4  
+0.55 
+19 
+SC Kou et al. [62] 
+15  
+2.08 
+53 
+Folino and Xargay [63] 
+4  
+0.55 
+20 
+Gayarre et al. [64] 
+14  
+1.94 
+54 
+Fonseca et al. [65] 
+4  
+0.55 
+21 
+Barbudo et al. [66] 
+12  
+1.66 
+55 
+Kang et al. [67] 
+4  
+0.55 
+22 
+Kim et al. [68] 
+11  
+1.53 
+56 
+Luis Ferreira et al. [69] 
+4  
+0.55 
+23 
+Andreu and Miren [70] 
+10  
+1.39 
+57 
+Rafi [71] 
+4  
+0.55 
+24 
+Beltran et al. [72] 
+10  
+1.39 
+58 
+Rao et al. [73] 
+4  
+0.55 
+25 
+Corinaldesi [74] 
+10  
+1.39 
+59 
+Sato et al. [75] 
+4  
+0.55 
+26 
+Matias et al. [76] 
+10  
+1.39 
+60 
+Wardeh et al. [77] 
+4  
+0.55 
+27 
+Rahal [78] 
+10  
+1.39 
+61 
+Cui et al. [79] 
+3  
+0.42 
+28 
+Casuccio et al. [80] 
+9  
+1.25 
+62 
+Pepe et al. [81] 
+3  
+0.42 
+29 
+Hoffmann et al. [82] 
+9  
+1.25 
+63 
+Carneiro et al. [83] 
+2  
+0.28 
+30 
+Belen et al. [84] 
+8  
+1.11 
+64 
+Dibas et al. [85] 
+2  
+0.28 
+31 
+Beltran et al. [86] 
+8  
+1.11 
+65 
+Ignjatovic et al. [87] 
+2  
+0.28 
+32 
+Gonzalez-Fonteboa et al. [88] 
+8  
+1.11 
+66 
+Kou and Poon [89] 
+2  
+0.28 
+33 
+Huda and Alam [90] 
+8  
+1.11 
+67 
+Radonjanin et al. [91] 
+2  
+0.28 
+34 
+Medina et al. [92] 
+8  
+1.11  
+Total 
+721  
+100.00  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 3 =====
+
+Construction and Building Materials 323 (2022) 126578
+3
+Table 2 
+Description of database used in this study.   
+Unit 
+count 
+Min 
+Q25% 
+Average 
+Median 
+Q75% 
+Max 
+Std 
+Skw 
+Water content 
+kg/m3 
+721  
+76.00  
+162.25  
+181.35  
+184.00  
+197.60  
+245.00  
+27.97  
+−0.30 
+Aggregate content 
+kg/m3 
+721  
+530.39  
+962.00  
+1065.73  
+1039.50  
+1120.00  
+1950.00  
+196.52  
+1.56 
+RAC content 
+kg/m3 
+721  
+0.00  
+187.00  
+531.56  
+495.00  
+920.70  
+1836.10  
+426.16  
+0.47 
+NA content 
+kg/m3 
+721  
+0.00  
+0.00  
+534.17  
+540.00  
+890.40  
+1950.00  
+435.65  
+0.12 
+Sand content 
+kg/m3 
+721  
+400.00  
+650.00  
+725.07  
+701.75  
+800.00  
+1283.33  
+132.71  
+0.43 
+Cement content 
+kg/m3 
+721  
+210.00  
+333.00  
+380.68  
+380.00  
+410.00  
+650.00  
+76.84  
+0.79 
+RCAWA 
+% 
+721  
+1.24  
+3.90  
+5.42  
+5.30  
+6.40  
+14.90  
+2.11  
+1.47 
+NAWA 
+% 
+721  
+0.10  
+0.70  
+1.09  
+1.00  
+1.30  
+3.00  
+0.58  
+1.04 
+Compressive strength 
+MPa 
+721  
+13.40  
+34.70  
+44.15  
+43.00  
+51.50  
+108.51  
+14.39  
+0.94 
+Sk = Skewness; Std = Standard deviation; 
+Fig. 1. Hex contour graph of input parameters (a) water content, (b) aggregate content, (c) RCA content, (d) NA content, (e) sand content, (f) cement content, (g) 
+RCAWA, and (h) NAWA. 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 4 =====
+
+Construction and Building Materials 323 (2022) 126578
+4
+First, this study can fill the gap in the literature related to the application 
+of ML model (particular hybrid-model) in evaluating the compressive 
+strength of concrete using RCA. Second, this study used both using 
+Shapley Additive exPlanations (SHAP) and Partial dependence plots 
+(PDP 1D and 2D) to assess the importance and the influence of each and 
+coupled variables on the prediction of the compressive strength. Third, 
+based on the results of PDP analysis, the practical engineering applica­
+tion related to design mix proportion for predicting compressive 
+strength was proposed. Fourth, statistical indicators were also employed 
+to completely evaluate the performance of the models for both training, 
+testing, and all datasets. Finally, this study will fill the gap of literate in 
+estimating the compressive strength of concrete using RCA using the 
+machine learning approach. Thus, it can be indicated that this is the first 
+and novel research to systematically predict the compressive strength of 
+recycled concrete. 
+2. Database description and analysis 
+In this study, a total of 721 data samples of experimental results 
+collected from 67 literature was used to train and test the machine 
+learning model for predicting the compressive strength of concrete using 
+recycled aggregate. Table 1 shows the detail of source references and the 
+number of data in each reference as well as the percentage of data in 
+each reference contributing to the total data. Table 2 presents the 
+database used in this study, a total of 8 input variables were employed to 
+build the machine learning models. The input variables consist of the 
+main input parameters, which strongly affect the compressive strength 
+of concrete. These input variables are water content, cement content, 
+Fig. 1. (continued). 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 5 =====
+
+Construction and Building Materials 323 (2022) 126578
+5
+aggregate content, recycled concrete aggregate (RCA) content, natural 
+aggregate (NA) content, sand content, RCA water absorption (RCAWA), 
+NA water absorption (NAWA). The minimum, average, median, 
+maximum values of these input variables are described in detail in 
+Table 2. 
+The effect of input variables on the compressive strength of concrete 
+with RCA was visualized using a Hex contour graph as shown in Fig. 1. 
+The darkish areas in this figure show the high concentration of input 
+variables. It can be observed that the input variables have a wide range 
+of values. Water content has a wide range from 120 ÷ 230 (kg/m3) but 
+mostly locates from 150 to 200 (kg/m3) (Fig. 1a). The aggregate content 
+is mainly concentrated in the range of 850 ÷ 120 kg/m3 (Fig. 1b). In 
+contrast, the RCA content has two main ranges, the first one is from 0 to 
+around 500 (kg/m3) with a high case without RCA content (i.e RCA 
+content equal to 0 kg/m3), the second one locates from 800 to approx­
+imately 1200 (kg/m3) (Fig. 1c). Regarding the NA content, there are 
+many cases without NA content, and a scattered number of NA content 
+varies widely from 250 to 1300 (kg/m3) (Fig. 1d). Fig. 1e shows the 
+distribution of sand content, it can be seen that sand content has a wide 
+range from 400 to 1000 kg/m3 with some values larger than 1000 kg/ 
+m3, the most concentrated value of NA content is 700 kg/m3. For the 
+case of cement content, its value largely varies from 250 to 450 kg/m3
+, 
+also there are some values greater than 500 kg/m3 (Fig. 1f). The RCAWA 
+mainly locates from 2.5% to 7%, and the most concentrated value is 5%, 
+in addition, there are several values greater than 10% (Fig. 1g). In terms 
+of NAWA, the values range from 0.5% to 2%, and there are some values 
+higher than 2% (Fig. 1h). With all those input variables, the values of 
+compressive strength of concrete using RCA are in the range from 10 to 
+70 MPa and mostly concentrate from 30 to 50 MPa. 
+Fig. 2 shows the multi-correlation matrix of the input parameters and 
+output used in this study. The different colors indicate the different 
+values of correlation. It can be observed that among the input variables, 
+the highest correlation (R = 0.3) between them was found between 
+water content and cement content. This is in good agreement with many 
+previous studies because cement content and water content are well 
+known as the most important factors affecting not only fresh properties 
+but also hardened characteristics (such as compressive, tensile, etc.) of 
+concrete [5-7,9]. In addition, there is a quite strong relation between 
+aggregate content versus NA content and RCA content. Because as re­
+ported that the amount of RCA has a significant impact on the 
+compressive strength, thus a partial replacement of NA content by RCA 
+will lead to a change in the strength of concrete [6-8]. For the case of 
+correlation between input variables and output variable (compressive 
+strength), as expected, the cement content has the strongest correlation 
+with compressive strength, followed by NA content. Overall, the corre­
+lation between input variables and output one is comparatively low. 
+Thus, all input variables are employed to improve the accuracy of the 
+model as well as to verify the role of the individual variable on the 
+estimated value of compressive strength. 
+3. Machine learning methods 
+3.1. Gradient boosting (GB) 
+The gradient boosting (GB) was firstly proposed by Friedman [93]. It 
+is an ensemble method whose fundamental algorithm is based on the 
+boosting technique. In the GB algorithm, the strong learner was created 
+by sequence addition of the weak learner to the model. The performance 
+of the model could be consolidated based on the incorporation of various 
+predictors from each iteration. The loss of the model or the overall error 
+Fig. 2. Multi-correlation matrix of the input parameters and output.  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 6 =====
+
+Construction and Building Materials 323 (2022) 126578
+6
+of the model could be minimized. Hence, the overfitting due to the GB 
+algorithm can be reduced [94]. The disadvantage of the GB algorithm 
+may lie in the poor generalization ability when the final model was too 
+close to the training dataset. During the GB technique, the regression 
+tree was used as the weak learners and the stochastic gradient descent 
+was used to train in each iteration of the model to minimize the error. 
+Particularly, the GB algorithm learned the first weak learner (first tree) 
+to eliminate the error in the first iteration. The GB algorithm continu­
+ously learned the second weak learner (second tree) to minimize the 
+error from the first tree in the second iteration. The process was repeated 
+until the desired error can be reached. Fig. 3 presents the structure of the 
+GB algorithm. 
+3.2. Extreme Gradient Boosting (XGB) 
+Extreme gradient boosting (XGB) is firstly introduced by Chen and 
+Guestrin [95]. It is a new ensemble technique incorporating multiple 
+weak learners. Basically, the XGB is conducted based on the boosting 
+algorithm where a strong learner was generated by the sequential 
+addition of the weak learners. Particularly, in each step, a weak learner 
+Fig. 3. The structure of the GB algorithm.  
+Fig. 4. The structure of the XGB algorithm.  
+Fig. 5. Structure of SVR algorithm.  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 7 =====
+
+Construction and Building Materials 323 (2022) 126578
+7
+was added to the current model to reduce the loss function of the pre­
+vious model by using the gradient descent optimization algorithm. The 
+XGB can be considered as an advantage technique of the gradient 
+boosting algorithm because it can effectively prevent overfitting prob­
+lems based on the compatible regulatory functions. The structure of XGB 
+is shown in Fig. 4. As can be seen from Fig. 4, the strategy of the XGB 
+algorithm was continuously added the residual error to the new tree and 
+trained the new tree to minimize the errors until the last iteration. Thus, 
+the superiority of the XGB algorithm is the formation of the reliable 
+objective function for creating the tree. The optimal value of the 
+objective function can be given as follows: 
+Obj = γT +
+∑T
+i=1
+[
+giwi + 1
+2 (hi + λ)w2
+i
+]
+(1)  
+where λ and γ are the regular factors used to avoid the overfitting; T is 
+the total number of tree leaves; gi and hi are the first and second-order 
+derivations, respectively; wi is the leaf weight. 
+3.3. Support vector machine regression (SVR) 
+The classification problems could be solved through the support 
+vector machine algorithm that was proposed by Vapnik [96]. The sup­
+port vector machine was later extended and called as support vector 
+machine regression (SVR) for the solution of regression and prediction 
+problems [97]. Based on the structural risk minimization principle, the 
+SVR algorithm attempted to minimize the generalization error and 
+obtain the optimal solution. In this study, the Gaussian radial basis 
+function was employed to transform from a lower-dimensional feature 
+space into a higher one so that it was possible to perform the linear 
+regression and better in fitting the training dataset, as shown in Fig. 5. 
+The output variable can be given as a linear function as follows: 
+f(x) = 〈ω∙φ(x)〉+ b
+(2)  
+where 〈∙〉indicates the dot function; φ(x) is a transformation that maps 
+the input feature to a higher dimensional feature space; b is the 
+parameter vector of the function (model bias); ω are the minimum 
+values which are derived by the following equation: 
+minimise
+[
+1
+2‖ω‖2 + C
+∑n
+j−i
+(
+ξj + ξ*
+j
+) ]
+(3)  
+subjectto
+⎧
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎩
+yj −ω∙φ(
+xj
+)
+−b ≤ε + ξjω∙φ
+(
+xj
+)
++ b −yj ≤ε + ξ*
+j ξj, ξ*
+j ≥0  
+where ξj, ξ*
+j are the slack variables; C is the regularization parameter; ε is 
+the insensitive loss function (error between the test and predicted 
+values); yj is the test value; n is the number of samples. 
+3.4. Partial dependence plots 
+Partial dependence plots (PDP) is a common technique that was 
+proposed by Friedman for visualizing the ML output [93]. By PDP re­
+sults, the partial relationship between the predicted values and input 
+features can be identified, i.e., linear, monotonic, or complex. In other 
+words, the PDP can illustrate how the predicted value could vary ac­
+cording to one or more input features. The average partial dependence 
+function, FS , on a subset of predictors kS is measured as follows: 
+FS(kS) =
+∫
+̂F(kS, kC)dP(kC)
+(4)  
+where kS is the target feature of the input variables; kC is the comple­
+ment such that kC ∪kS = S ; dP(kC) is the marginal effect of kC . 
+For training data {Si, i = 1, 2, ⋯, n} , the average partial dependence 
+function in Eq. (4) can be constructed as follows: 
+FS(zS) = 1
+N
+∑
+N
+i=1
+F
+(
+kS, ki,C
+)
+(5)  
+where N is the total number of samples; ki,C is the real value of the i-th 
+variable in the training dataset. Rather than only plot, the effect of one 
+input parameter on the target feature, an individual conditional expec­
+tation plot (PDP-1D) introduced by Goldstein et al. [98] was conducted 
+in this study. It insightfully visualized the marginal effect of a given 
+input feature on the predicted output. Besides, two-dimension partial 
+dependence plots (PDPs-2D) were also employed to obviously present 
+the interaction between the predicted output and two input parameters. 
+3.5. Particle swarm optimization (PSO) 
+Particle swarm optimization (PSO) is a global optimization method 
+that is applied in the machine learning model to adjust the hyper- 
+parameter. The PSO algorithm was inspired by the behavior of bird 
+swarming and fish training [99]. Ebeltagi et al. [100] concluded that the 
+PSO was the best technique by comparing five optimization algorithms, 
+i.e., PSO, ant colony systems, genetic algorithm, shuffled frog leaping, 
+and memetic algorithm. In the PSO, the potential solution known as a 
+particle was randomly initialized in the searching range. The global best 
+solution was then searched by iteratively updating the swarm of parti­
+cles. The particle direction can be modified based on the best position of 
+previous and other particles as follows: 
+X(t+1)
+id
+= X(t)
+id + V(t+1)
+id
+(6)  
+V(t+1)
+id
+= ω × V(t)
+id + C1 × R1 ×
+(
+Pid −X(t)
+id
+)
++ C2 × R2 ×
+(
+Pgd −X(t)
+id
+)
+(7) 
+where X(t)
+id and V(t)
+id are the location and velocity of “i-th” particle at 
+the “t-th” iteration, respectively; X(t+1)
+id 
+and V(t+1)
+id 
+are the location and 
+velocity of “i-th” particle at the “(t + 1)-th” iteration, respectively; ω is 
+the initial factor; C1 and C2 are acceleration constants in [0,4]; R1 and R2 
+are the random function in [0,1]; Pid is the best position of an individual 
+particle; Pgd is the best global position of the entire swarm. Table 3 shows 
+Table 3 
+Hyper-parameters space of machine learning (ML) models.  
+Gradient Boosting 
+Extreme Gradient Boosting 
+Support Vector Machine 
+Number of trees 
+1–500 
+Number of trees 
+1–500 
+C 
+1–500 
+Learning rate 
+0.01–0.9 
+Learning rate 
+0.01–0.9 
+Max features 
+1–8 
+– 
+– 
+Kernel 
+‘sigmoid’,‘poly’,‘rbf’ 
+Min samples split 
+0.001–0.9 
+– 
+– 
+Epsilon 
+1–100 
+Min samples leaf 
+0.001–0.9 
+– 
+– 
+– 
+– 
+Max depth 
+1–10 
+Max depth 
+1–6 
+– 
+– 
+Data used 
+10Fold CV 
+Data used 
+10Fold CV 
+Data used 
+10Fold CV 
+Performance index 
+R 
+Performance index 
+R 
+Performance index 
+R  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 8 =====
+
+Construction and Building Materials 323 (2022) 126578
+8
+the application of the PSO algorithm in this study to find out the best 
+hyper-parameter for the machine learning model. 
+3.6. Performance evaluation of models 
+After building the predicted model, it is necessary to evaluate its 
+performance. Hence, three statistical parameters were employed to 
+assess the accuracy of the proposed model in this study, i.e., root mean 
+square error (RMSE), mean absolute error (MAE), and correlation co­
+efficient (R). Although both RMSE and MAE explicitly measure the 
+magnitude of residual error [101], the best model was primarily chosen 
+from the RMSE results [102]. The lower values of RMSE and MAE, the 
+better the forecasting model. Meanwhile, R indicates the different de­
+grees between the actual and predicted values and varies from 0 to 1. 
+The higher R-value implies the better-proposed model. The formulations 
+of three statistical indexes are written as follows: 
+RMSE =
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+1
+N
+∑N
+j=1
+(
+p0,j-pt,j
+)2
+√
+(8)  
+MAE = 1
+N
+∑N
+j=1
+⃒⃒p0,j-pt,j
+⃒⃒
+(9)  
+R =
+∑N
+j=1
+(
+p0,j −p0
+)(
+pt,j −pt
+)
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+∑N
+j=1
+(
+p0,j −p0
+)2∑N
+j=1
+(
+pt,j −pt
+)2
+√
+(10)  
+where p0,j is the compressive strength compliance of i-th actual value in 
+the dataset; Pt,I is the compressive strength of i-th predicted value ob­
+tained from ML model; P0is the mean actual value of the compressive 
+strength compliance; pTis the mean predicted value of the compressive 
+strength; N is the total number of samples in the dataset. Moreover, 
+Saberi-Movahed et al. [103] recommended that the reliability of the ML 
+model should be carried out to assess its consistency. Therefore, the 
+reliability of the proposed ML model was also performed in this study. 
+More detail of the implementation can be found in the existing study 
+[103]. 
+3.7. Methodology flow chart 
+Fig. 6 shows the flowchart of ML model application for predicting the 
+compressive strength of RCA concrete in this study. Generally, three are 
+four main steps as follows: 
+Step 1. Preparing Dataset: 
+All input factors including water content, aggregate content, RCA 
+content, NA content, sand content, cement content, RCA water absorp­
+tion, NA water absorption, and compressive strength of RCA concrete 
+were collected to build the ML models in this step. The total dataset 
+comprises complete 721 RCA concrete samples which were obtained 
+from the previous studies. Then, the dataset was randomly split into 2 
+groups, i.e., 70% of the dataset (training dataset) was used for training 
+the ML model and 30% of the dataset (testing dataset) was used for 
+checking the performance of the ML model. 
+Step 2. Training the proposed ML models: 
+Fig. 6. The methodology flowchart of the ML model in this study.  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 9 =====
+
+Construction and Building Materials 323 (2022) 126578
+9
+The training dataset was used to train all proposed ML models in this 
+step. Three algorithms were applied to train three ML models, i.e., GB, 
+XGB, and SVR. Besides, the PSO algorithm was conducted to consolidate 
+the models. Specifically, the ML models in this study included two 
+groups. The first group included the individual ML models and the 
+second one was the combination of PSO and ML models. When a toler­
+ance error criterion was obtained, the best model was defined. 
+Step 3. Validating the ML models: 
+The testing dataset was used in this step to validate the ML models in 
+step 2. All ML models were then checked through three statistical pa­
+rameters including RMSE, MAE, and R. 
+Step 4. Evaluating the input parameters and comparing the ML 
+models: 
+The feature importance using SHAP value was employed to assess the 
+most importance and influence of the input parameters on the 
+compressive strength of RCA concrete. Besides, the sensitivity analysis 
+using PDP-1D and PDP-2D was carried out to evaluate the capability for 
+prediction of the compressive strength based on one or two input pa­
+rameters. Finally, the results obtained from predicted ML models were 
+compared with the actual experimental results. 
+4. Results and discussion 
+4.1. Performance evaluation of hybrid models 
+The optimum hyper-parameters of the used ML moded in this study 
+are presented in Table 4. The trial–error process was implemented to 
+achieve the optimal values, which correspond to the highest prediction 
+accuracy of the proposed models. In the process to achieve the optimal 
+value, each parameter changed in a specific range, while other param­
+eters were kept as default values. After that, the predictive accuracy of 
+each model is computed, then the fine-tuned process was conducted to 
+achieve the corresponding values. The more detailed information of 
+these parameters for the trial–error test can be referred to the previous 
+section (see Table 3). From Table 4, it can be seen that the Gradient 
+Boosting has the highest performance index of 0.8819, followed by 
+Extreme Gradient Boosting, and Support Vector Regression. The detailed 
+information related to the optimal para terms of each technique also can 
+be found in Table 4. 
+The R mean value of hybrid models versus the number of interactions 
+using 10-Fold cross-validation is shown in Fig. 7. Generally, all three 
+hybrid models have a high R score (lager than 0.73) with a range of 
+number interactions from 50 to 1000. For all number of iterations, the R 
+scores of GB_PSO and XGB_PSO were almost equal, the R score of 
+GB_PSO was slightly higher than that of XGB_PSO. The R score of 
+SVR_PSO was the lowest and there is a large gap of the R score between 
+SVR_PSO compared to the two remaining algorithms. The R score 
+Table 4 
+Optimum hyper-parameters of ML models.  
+Gradient Boosting 
+Extreme Gradient 
+Boosting 
+Support Vector Regresion 
+Number of 
+trees 
+151 
+Number of 
+trees 
+1–500 
+C 
+200 
+Learning rate 
+0.124 
+Learning rate 
+0.1 
+Max features 
+3 
+– 
+– 
+Kernel 
+‘rbf’ 
+Min samples 
+split 
+0.041 
+– 
+– 
+Epsilon 
+2 
+Min samples 
+leaf 
+0.0167 
+– 
+– 
+– 
+– 
+Max depth 
+6 
+Max depth 
+3 
+– 
+– 
+Performance 
+index 
+0.8819 
+Performance 
+index 
+0.8741 
+Performance 
+index 
+0.7433  
+ 
+0.65
+0.70
+0.75
+0.80
+0.85
+0.90
+0
+200
+400
+600
+800
+1000
+R score
+Number of iterations
+SVR_PSO
+XGB_PSO
+GB_PSO
+Fig. 7. R mean value versus a number of iterations using hybrid models and 10- 
+Fold cross-validation. 
+ 
+(a) 
+ 
+(b) 
+0.2
+0.4
+0.6
+0.8
+1.0
+SVR
+XGB
+GB
+SVR PSO
+XGB PSO
+GB PSO
+R value
+Training
+Testing
+0.0
+4.0
+8.0
+12.0
+16.0
+20.0
+SVR
+XGB
+GB
+SVR_PSO
+XGB_PSO
+GB_PSO
+RMSE value
+Training
+Testing
+ 
+(c) 
+0.0
+2.0
+4.0
+6.0
+8.0
+10.0
+12.0
+SVR
+XGB
+GB
+SVR_PSO
+XGB_PSO
+GB_PSO
+MAE value
+Training
+Testing
+Fig. 8. Performance of machine learning models after 3000 simulations.  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+----- TABLE p9#1 -----
+
+Testing |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p9#2 -----
+
+ |  |  | Train
+Testi |  | ing
+ng |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p9#3 -----
+
+12.0
+Training
+10.0 Testing
+8.0
+value
+6.0
+MAE
+4.0
+2.0
+0.0
+SVR XGB GB SVRPSO XGBPSO GBPSO |  |  |  | Train |  | ing |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  | Testi |  | ng |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 10 =====
+
+Construction and Building Materials 323 (2022) 126578
+10
+achieved a constant value when the number of iterations was larger than 
+200 for SVR_PSO and XGB_PSO, while the GB_PSO attained a constant 
+value of R when the number of iterations was greater than 800. 
+The performance of six machine learning models using 3000 simu­
+lations is shown in Fig. 8. The R-value of six algorithms is shown in 
+Fig. 8a. The R-value of the training set is always higher than that of the 
+testing set for all algorithms. In addition, the standard deviation of the 
+training set was smaller than that of the testing set for all models. Among 
+all models, the model using SVR has the lowest R score with the highest 
+standard deviation. With regard to RMSE and MAE, the highest values of 
+RMSE and MEA were obtained in the model using SVR (Fig. 8b and 8c), 
+this means that SVR has the lowest accuracy, and these results agreed 
+well with the result of R score. Similar to the R score case, the standard 
+deviation of the testing part is always higher than that of the training 
+part for all algorithms. The XGB model has the lowest value of RMSE and 
+MAE for the training part. Overall, the hybrid models of GB_PSO have 
+the best performance with a high R score, low values of RMSE and MAE 
+with the smallest standard deviation. 
+The comparison of the compressive strength prediction of six algo­
+rithms using mean performance values is shown in Table 4. In general, a 
+higher value of R and a smaller value of RMSE and MAE indicates that 
+the model has a higher and better prediction ability. Regarding the R- 
+value for the training set, all algorithms performed very well with R- 
+value larger than 0.900 except the SVR algorithm. Similar to the training 
+set, a high value of R (lager than 0.700) was found for all algorithms 
+except SVR. Among three single algorithms, XGB has the highest pre­
+diction ability, and the lowest was found for the case of SVR. In terms of 
+hybrid models, the GB_PSO shows the highest prediction ability with a 
+very high value of R and low values of RMSE and MAE for both training 
+and testing sets, followed by XGB_PSO and SVR_PSO. This means that 
+incorporated with PSO, the prediction of the GB_PSO was improved and 
+better than the single GB model. 
+Table 5 shows the comparison of six algorithms for the prediction of 
+compressive strength using the standard deviation of performance 
+value. All algorithms performed well with a very small value of standard 
+deviation, which indicates high accuracy of prediction. Overall, the 
+accuracies of hybrid models are higher than those of single models. This 
+can be explained by the advantages of PSO, which could optimize the 
+problem and enhance the prediction ability of the hybrid model as re­
+ported in previous studies [25,26]. Among these six algorithms, GB_PSO 
+has the lowest standard deviation, this indicates that GB_PSO has the 
+highest prediction ability. 
+Based on the results of the comparison in Tables 4 and 5, it can be 
+concluded that the performances of hybrid models are better than those 
+of single models. This is because PSO has some advantages concerning 
+evolutionary algorithms [25,26], for instance, PSO has no complicated 
+operators as evolutionary algorithms as it has fewer parameters that 
+need to be adjusted [24]. Thus, PSO could enhance the performance of 
+the single algorithm such as it can improve the speed of modeling. As a 
+result, the hybrid models are employed for modeling to predict the 
+compressive strength of recycled concrete. Fig. 9 shows the comparison 
+of predicted and actual values of compressive strength for both training 
+and setting parts. The comparisons between predicted and actual values 
+of compressive strength using GB_PSO for both training and testing sets 
+are shown in Fig. 9a and 9b. There is a very close relationship between 
+predicted and actual values with correlations R = 0.9789 and R =
+0.9356 for training and testing sets, respectively. The training set has a 
+higher value of R and lower values of RMSE and MAE than those of the 
+testing set. Similarly, for the case of the XGB_PSO model, the training set 
+has a better performance than the testing set. The values of R are 0.9728 
+and 0.9342 for the training and testing set, respectively, while the values 
+of RMSE are 3.2524 MPa and 8.1984 MPa and MAE are 2.2642 MPa and 
+6.0073 MPa for the training and testing set, respectively (Fig. 9c and 9d). 
+The lowest prediction accuracy is found for the SVR_PSO for both the 
+training and testing set (Fig. 9e and 9f). The R-values are 0.8969 and 
+0.8617, respectively; the values of RMSE and MAE are slightly higher 
+than those found in the XGB_PSO model. The results of Fig. 9 indicate 
+that the GB_PSO produced the highest prediction accuracy among three 
+hybrid models. This result is in agreement with the result of the previous 
+study [20]. In their study, they revealed that the GB performed better 
+Table 5 
+Comparison of six algorithms for compressive strength prediction using mean 
+performance value.  
+Algorithm 
+Training set   
+Test 
+set    
+R 
+RMSE/ 
+MPa 
+MAE/ 
+MPa  
+R 
+RMSE/ 
+MPa 
+MAE/ 
+MPa 
+SVR  
+0.502  
+12.420  
+8.885   
+0.451  
+12.798  
+9.325 
+XGB  
+0.991  
+1.855  
+0.645   
+0.850  
+7.478  
+5.193 
+GB  
+0.932  
+5.181  
+3.988   
+0.835  
+7.828  
+5.916 
+SVR_PSO  
+0.913  
+5.856  
+3.868   
+0.740  
+9.553  
+6.913 
+XGB_PSO  
+0.976  
+3.098  
+2.182   
+0.872  
+6.946  
+4.989 
+GB_PSO  
+0.983  
+2.666  
+1.782   
+0.875  
+6.890  
+5.008  
+ 
+(e) Training set of SVR_PSO 
+(f) Testing set of SVR_PSO 
+10
+30
+50
+70
+90
+110
+10
+30
+50
+70
+90
+110
+Predicted compressive strength (MPa)
+True compressive strength (MPa)
+Perfect fit
+Linear (Predict)
+R=0.8968
+RMSE=5.9916 
+MAE= 4.0191
+20
+40
+60
+80
+100
+20
+40
+60
+80
+100
+True compressive strength (MPa)
+Perfect fit
+Linear (Predict)
+R=0.8617
+RMSE=8.1984 
+MAE= 6.0073
+Fig. 9. Comparison of predicted compressive strength and actual values using train and test data with best case of each hybrid model.  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+----- TABLE p10#1 -----
+
+100 Perfect fit
+Linear (Predict)
+80
+60
+40
+R=0.8617
+RMSE=8.1984
+MAE= 6.0073
+20
+20 40 60 80 100
+True compressive strength (MPa) | 100 Perfect fit
+Linear (Predict)
+80
+60
+40
+R=0.8617
+RMSE=8.1984
+MAE= 6.0073
+20
+20 40 60 80 100
+True compressive strength (MPa) |  | 
+ |  | Perfect fit
+Linear (Predict)
+R=0.8617
+RMSE=8.1984
+MAE= 6.0073 | 
+
+===== PAGE 11 =====
+
+Construction and Building Materials 323 (2022) 126578
+11
+than that of the Gaussian process and deep learning. 
+Table 6 presents a comparison of statistical indexes in this study and 
+other previous works. From this table, we can see that this study used 
+three indicators for both training and testing sets, however, for other 
+previous studies, only one or two indicators were used for modeling, and 
+the results mainly came from the testing set. Thus, it can be indicated 
+that this study provided systematic information on modeling. The result 
+ 
+(a) Training set of GB_PSO 
+(b) Testing set of GB_PSO 
+   
+(c) Training set of XGB_PSO 
+(d) Testing set of XGB_PSO
+10
+30
+50
+70
+90
+110
+10
+30
+50
+70
+90
+110
+Predicted compressive strength (MPa)
+True compressive strength (MPa)
+Perfect fit
+Linear (Predict)
+R=0.9789 
+RMSE=2.8073 
+MAE= 1.9215
+20
+40
+60
+80
+100
+20
+40
+60
+80
+100
+True compressive strength (MPa)
+Perfect fit
+Linear (Predict)
+R=0.9356 
+RMSE=5.5604 
+MAE= 4.2882
+10
+30
+50
+70
+90
+110
+10
+30
+50
+70
+90
+110
+Predicted compressive strength (MPa)
+True compressive strength (MPa)
+Perfect fit
+Linear (Predict)
+R=0.9728
+RMSE=3.2524 
+MAE= 2.2642
+20
+40
+60
+80
+100
+20
+40
+60
+80
+100
+True compressive strength (MPa)
+Perfect fit
+Linear (Predict)
+R=0.9342
+RMSE=5.3913 
+MAE= 4.0191
+Fig. 9. (continued). 
+Table 6 
+Comparison of six algorithms for compressive prediction using the standard 
+deviation of performance value.  
+Algorithm 
+Training set   
+Test 
+set    
+R 
+RMSE/ 
+MPa 
+MAE/ 
+MPa  
+R 
+RMSE/ 
+MPa 
+MAE/ 
+MPa 
+SVR  
+0.015  
+0.297  
+0.204   
+0.031  
+0.855  
+0.517 
+XGB  
+0.002  
+0.236  
+0.072   
+0.037  
+0.675  
+0.369 
+GB  
+0.005  
+0.168  
+0.132   
+0.030  
+0.516  
+0.349 
+SVR_PSO  
+0.007  
+0.201  
+0.118   
+0.055  
+0.673  
+0.425 
+XGB_PSO  
+0.003  
+0.154  
+0.094   
+0.028  
+0.558  
+0.332 
+GB_PSO  
+0.002  
+0.165  
+0.088   
+0.024  
+0.501  
+0.328  
+Fig. 10. Feature importance analysis using the Sklearn_ permutatio­
+n_importance library in Python code. 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+----- TABLE p11#1 -----
+
+100 Perfect fit
+Linear (Predict)
+80
+60
+40
+R=0.9356
+RMSE=5.5604
+MAE= 4.2882
+20
+20 40 60 80 100
+True compressive strength (MPa) | 100 Perfect fit
+Linear (Predict)
+80
+60
+40
+R=0.9356
+RMSE=5.5604
+MAE= 4.2882
+20
+20 40 60 80 100
+True compressive strength (MPa) |  | 
+ |  | Perfect fit
+Linear (Predict)
+R=0.9356
+RMSE=5.5604
+MAE= 4.2882 | 
+
+----- TABLE p11#2 -----
+
+100 Perfect fit
+Linear (Predict)
+80
+60
+40
+R=0.9342
+RMSE=5.3913
+MAE= 4.0191
+20
+20 40 60 80 100
+True compressive strength (MPa) | 100 Perfect fit
+Linear (Predict)
+80
+60
+40
+R=0.9342
+RMSE=5.3913
+MAE= 4.0191
+20
+20 40 60 80 10
+True compressive strength (MPa) |  | 
+ |  | Perfect fit
+Linear (Predict)
+R=0.9342
+RMSE=5.3913
+MAE= 4.0191 | 
+
+===== PAGE 12 =====
+
+Construction and Building Materials 323 (2022) 126578
+12
+of the GB_PSO model in this study achieved better accuracy than that of 
+the previous study using five single machine models (see detail in 
+Table 6) conducted by Gholampour et al. [104], which has a similar 
+number of data samples (650 samples). The result of the GB_PSO model 
+has higher prediction accuracy than that of Naderpour et al. [105] using 
+ANN (139 data samples) and Deshpande et al. [3] using model tree and 
+non-linear regression model (257 samples) except model using ANN, but 
+lower than that of Duan et al. [4] using ANN (168 data samples) and 
+Topçu and Saridemir [18] (210 data samples). This means that although 
+higher data samples might produce a better generalization of the model, 
+the prediction accuracy can be lower. Because accuracy metrics alone 
+may not be sufficient to evaluate the prediction performance of the 
+model and another indicator such as feature importance is also crucial to 
+assess the predictive accuracy [20]. Moreover, it can be observed that 
+the result of the GB_PSO model in this study has almost similar predic­
+tion accuracy compared to the results in the previous study using GB 
+(1134 data samples) [20], or slightly lower than the results of another 
+previous study using ANN (1178 data samples) [17]. This indicates that 
+the PSO algorithm has improved the prediction ability of the hybrid 
+model of GB_PSO even the numbers of data samples in this study are 
+smaller than those in previous studies. Nevertheless, in the previous 
+study by Dantas et al. [17], the R-value (0.963) of the training set was 
+smaller than that (0.985) of the testing set, this means that the model in 
+the previous study using ANN was not trained appropriately or suffi­
+ciently as stated by Gulli and Pal [106]. 
+4.2. Feature importance analysis 
+The dependence of the compressive of concrete using RCA for each 
+input variable is shown in Fig. 10. From the figure, it can be observed 
+that cement content is known as the most important variable affecting 
+compressive strength. This is in alignment with the practical knowledge 
+of the concrete. The second important variable is obtained for the case of 
+water content, and this agreed well with the common practice of con­
+crete. The amount of RCAWA is known as the third important input 
+variable. From this figure, we can also see that the NA content is the least 
+important variable and RCA content is more important than NA content. 
+It is important to know how a proposed algorithm analyzes as well as 
+computes the detail process to predict the compressive strength. To 
+clarify the prediction and importance ranking of each input, a game 
+theory namely SHAP was adopted to compute the contribution of each 
+input [107]. The value of SHAP is the average marginal influence of each 
+input variable through all potential combinations of input variables. 
+Based on the absolute value of SHAP, the importance of each variable 
+can be estimated. The variables having a larger absolute value of SHAP 
+are known as crucial variables. To obtain the global feature importance, 
+the absolute value of SHAP for all variables is computed as the mean 
+value, and then the absolute values of SHAP were arranged in order from 
+large to small (from right to left in the x-axis). The SHAP value of each 
+variable is presented as each point on the graph. The x-axis indicates the 
+SHAP value of each variable, while the y-axis indicates the feature 
+importance. 
+The feature importance analysis of the compressive strength of 
+Fig. 11. Feature importance analysis using the SHAP library in Python code.  
+Fig. 12. Hex contour including correlation and histogram distribution of 
+compressive strength and substitution rate of RCA. 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 13 =====
+
+Construction and Building Materials 323 (2022) 126578
+13
+recycled concrete prediction is shown in Fig. 11. It can be seen that the 
+most crucial input variable that greatly influences the compressive 
+strength of concrete with RCA is the cement content, while the least 
+influence variable is the NA content. The result of the SHAP value is 
+consistent with the result of feature importance analysis using the 
+Sklearn_permuation_imortance in Fig. 10. The dot with red color in­
+dicates a large feature value corresponding to a larger value of SHAP. 
+Regarding cement content, we can see that the higher cement content 
+leads to a higher value of SHAP, and it is agreed very well with many 
+results of published experimental results. The second important variable 
+significantly affects the compressive strength is the water content. As 
+presented in the figure, the lower water content leads to higher feature 
+importance, and the higher water content results in the lower impor­
+tance of the variable. The result of SHAP is in alignment with the result 
+of many previous studies in recycled concrete [108-111]. From these 
+results of SHAP, it can be indicated that using the game theory approach 
+for SHAP could enhance the understandability of the proposed hybrid 
+machine learning models and also demonstrate that prediction accu­
+racies of the model are reasonable and acceptable. Thus, it can be 
+inferred that this game theory direction can increase the predictive 
+ability and workability of machine learning models. 
+It is worth noting that RCA content and NA content have the lowest 
+effect on the prediction capability and magnitude value of compressive 
+strength. Moreover, the aggregate content is one of the input variables 
+therefore it is interesting to introduce the substitution rate of RCA 
+content as a new input variable replacing the RCA and NA content in the 
+GB_PSO model with the tuned hyperparameters. The correlation be­
+tween substitution rate and compressive strength, the description range 
+value of substitution rate is shown in hex contour Fig. 12 and Table 7, 
+respectively. The performance of the GB_PSO model is investigated in 
+three different cases of variable (i) initial input variables, (ii) initial 
+input variables + substitution rate of RCA, and (iii) initial input 
+Table 7 
+Comparison of statistical indexes with previously published research.  
+Name of technique 
+Training 
+Testing 
+Total number of samples 
+Reference 
+R 
+RMSE 
+MAE 
+R 
+RMSE 
+MAE 
+SVR_PSO*  
+0.897  
+5.992  
+4.019  
+0.862  
+8.198  
+6.007 
+721 
+this study 
+XGB_PSO*  
+0.973  
+3.252  
+2.264  
+0.934  
+5.391  
+4.019 
+GB_PSO*  
+0.979  
+2.807  
+1.922  
+0.936  
+5.560  
+4.288 
+GB  
+–  
+–  
+–  
+0.959  
+5.076  
+– 
+1134 
+[20] 
+Deep learning  
+–  
+–  
+–  
+0.932  
+6.502  
+– 
+ANN  
+0.963  
+–  
+–  
+0.985  
+–  
+– 
+1178 
+[17] 
+ANN  
+0.903  
+–  
+–  
+0.829  
+–  
+– 
+139 
+[105] 
+ANN  
+0.999  
+2.047  
+–  
+0.999  
+2.395  
+– 
+210 
+[18] 
+Fuzzy logic (FL)  
+0.999  
+2.656  
+–  
+0.998  
+3.866  
+– 
+Multivariate adaptive regression splines  
+–  
+–  
+–  
+–  
+9.100  
+5.400 
+650 
+[104] 
+M5 tree  
+–  
+–   
+–  
+8.300  
+5.900 
+Least support vector regression  
+–  
+–  
+–  
+–  
+7.700  
+4.600 
+ANN  
+–  
+–  
+–  
+0.950  
+–  
+9.310 
+257 
+[3] 
+Model tree  
+–  
+–  
+–  
+0.870  
+–  
+12.020 
+Non-linear regression model  
+–  
+–  
+–  
+0.860  
+–  
+14.710 
+ANN  
+0.999  
+1.796  
+–  
+0.997  
+3.680  
+– 
+168 
+[4] 
+Note: “*” indicates model conducted in this study, “-” denotes not available. 
+Table 8 
+Description of RCA substitution rate value.  
+Unit 
+Mean 
+Min 
+Q25% 
+Median 
+Q75% 
+Max 
+Std 
+Skw 
+%  
+50.513 
+0 
+20 
+50 
+100 
+100  
+38.792  
+0.127 
+value of the testing part for case (iii) is the lowest in the three cases. 
+Fig. 13. Feature importance analysis using the SHAP Explanation in case (iii).  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 14 =====
+
+Construction and Building Materials 323 (2022) 126578
+14
+variables – (RCA content, NA content variables) + substitution rate of 
+RCA. A comparison of the performances is summarized in Table 8. 
+The comparison shows that if the GB_PSO model uses simultaneously 
+supplementary new input variable as substitution rate of RCA and the 
+initial input variables, the performance of this case is lowest. In (iii), if 
+the GB_PSO model considers the presence of “substitution rate of RCA” 
+and absence of RCA, NA content in the space of input variable, the 
+performance of this case (iii) is relatively lower than that of the initial 
+case. In fact, MAE Using the GB_PSO model of the case (iii) for global 
+interpretation by SHAP Explanation (cf. Fig. 13), the result shows that 
+the substitution rate of RCA has a higher effect on compressive strength 
+of concrete than sand content and aggregate content. The range of effect 
+will be quantified by Partial dependence analysis in the next section. 
+Fig. 14. Partial dependence plots (PDP) analysis 1D of the input variables for compressive strength of concrete made with recycled concrete aggregates (a) water 
+content, (b) aggregate content, (c) RCA content, (d) NA content, (e) sand content, (f) cement content, (g) RCAWA, (h) NAWA and (i) Substitution rate (%). 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 15 =====
+
+Construction and Building Materials 323 (2022) 126578
+15
+Fig. 14. (continued). 
+Table 9 
+Comparison of performance evaluation between three cases of variable.  
+Case 
+Performance evaluation 
+R_train 
+R_test 
+R_all 
+RMSE_train 
+RMSE_test 
+RMSE_all 
+MAE_train 
+MAE_test 
+MAE_all 
+i  
+0.9789  
+0.9356  
+0.9635  
+2.8073  
+5.5604  
+3.8490  
+1.9215  
+4.2882  
+2.6338 
+ii  
+0.9795  
+0.9310  
+0.9623  
+2.7679  
+5.7464  
+3.9107  
+1.8585  
+4.3580  
+2.6108 
+iii  
+0.9786  
+0.9331  
+0.9624  
+2.8264  
+5.6636  
+3.9037  
+1.9450  
+4.2258  
+2.6315  
+Table 10 
+Application PDP 1D in predicting compressive strength of concrete made with different values of RCA substitution rate.   
+True mix design 
+Gain value according PDP plot 
+Water content 
+184.9 
+184 
+114 
+171.5 
+184.8 
+−27 
+−27 
+−10 
+−24 
+−27 
+Aggregate content 
+1290 
+1104 
+900 
+967.26 
+1267.2 
+−7.5 
+−5 
+−6 
+−6 
+−7.5 
+Sand content 
+558 
+708 
+600 
+686 
+528 
+−1 
+−3 
+−2 
+−2 
+−2 
+Substitution rate 
+0 
+100 
+100 
+30 
+75 
+0 
+−5.5 
+−5.5 
+−3 
+−5.2 
+Cement content 
+430 
+460 
+600 
+343 
+528 
+20 
+27 
+31 
+12 
+29 
+RCAWA 
+0 
+3.47 
+7.8 
+1.93 
+14.9 
+0 
+−4 
+−5 
+−2 
+−5 
+NAWA 
+0.4 
+0 
+0 
+1.63 
+1.2 
+0 
+0 
+0 
+1 
+1  
+True compressive strength 
+Estimated = mean value (44.15) + ∑Gain  
+Compressive strength (MPa) 
+26.9 
+29.5 
+62.8 
+24.6 
+45.1 
+28.65 
+26.65 
+46.65 
+20.15 
+27.45  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 16 =====
+
+Construction and Building Materials 323 (2022) 126578
+16
+4.3. Partial dependence analysis 
+To assess the influence of input variables on the compressive strength 
+of the concrete with RCA, the partial dependence plots 1D (PDP) anal­
+ysis was conducted and shown in Fig. 14. Indeed, one of the important 
+advantages of PDP is that the quantity of each affected input variable 
+can be calculated easily from the results of PDP. In the PDP analysis, the 
+other remaining variables were kept constant when evaluating the effect 
+of each input variable. Fig. 14a indicates that the compressive strength is 
+strongly influenced by water content, the partial dependence decreases 
+almost linearly with the increasing of water content. This is in good 
+agreement with many previous studies on the compressive strength of 
+recycled concrete [41,52,64,112]. Because, in general, adding more 
+water to the concrete mixture, leading to excess free water, and when 
+the concrete becomes hardened, this free water will cause a higher 
+porosity, leading to a reduction in compressive strength. For the case of 
+aggregate content, when aggregate content increases from 0 to around 
+1000 kg/m3, the partial dependence decreases almost linearly, this in­
+dicates an increase in aggregate content for this rage negatively in­
+fluences the compressive strength (Fig. 14b). However, when the 
+amount of aggregate rises from 1000 to 2000 kg/m3, the compressive 
+strength seems to be not affected by aggregate content. Fig. 14c shows 
+the partial dependence of RCA content on the compressive strength. It 
+can be observed that the increase in RCA content from 0 to 1000 kg/m3 
+brings a negative impact on the strength, then the increase in RCA 
+content does not affect the compressive strength. This is also consistent 
+with the results found in the previously published works, the increase in 
+RCA content led to a decrease in compressive strength [6,9]. In contrast 
+with RCA content, the increase in the amount of NA content from 0 to 
+1000 kg/m3 leads to a significant positive impact on the strength, then 
+when NA content is larger than 1000 kg/m3, the partial dependence is 
+constant (Fig. 14d). It means that when NA content is larger than 1000 
+kg/m3, there is no influence of NA content on the compressive strength. 
+The sand content seems to have little impact on the strength of concrete 
+with RCA (Fig. 14e). The partial dependence increases linearly with 
+cement content, this indicates that cement content affects positively the 
+compressive strength (Fig. 14f). This result of partial dependence is 
+agreed well with the results of feature importance analysis using the 
+SHAP. It can be observed that RCAWA at a lower value has a significant 
+impact on the strength (Fig. 14g), but NAWA does not influence the 
+compressive strength (Fig. 14h). Overall, from Fig. 14, water content 
+and cement content are the most important factors affecting the strength 
+of RCA concrete. In order to quantify the effect range of RCA substitution 
+rate on compressive strength of concrete, the GB_PSO model of the case 
+(iii) is used for PDP 1D. The range of effect is shown in Fig. 14i. The 
+range of substitution rate effect on compressive strength is mean of 
+magnitude value varying from 0 to 5.5. This range is higher than that of 
+RCA content and NA content. Moreover, the variation of substitution 
+rate effect has lower noise than that of RCA and NA content. Therefore, 
+replacing two input variables “RCA content and NA content” with the 
+substitution rate can improve the performance of compressive strength 
+prediction. 
+In practical engineering applications, the results of PDP 1D can be 
+used for the preliminary mix designs of concrete as the quick calculation 
+of compressive strength can be carried out with the help of Fig. 14. In 
+fact, each graph of Fig. 14 can show a strength gain value due to one 
+component when using the initial mix component. For example, Table 9 
+shows the compressive strength values prediction of concrete made with 
+different values of RCA substitution rate. Using PDP 1D, the estimation 
+of compressive strength has not obviously reached the high performance 
+of the Gradient Boosting model, however, these estimations seem to be 
+useful in the preliminary study of mix design. (Table 10). 
+Indeed, among input parameters, there exists a mutual correlation 
+between them, and this mutual also greatly influences the compressive 
+strength of concrete using RCA. Thus, the partial dependence plot (PDP- 
+2D) is implemented to investigate the effect of coupled variables on the 
+strength as well as the interaction among the input variables (Fig. 15). 
+Fig. 15a shows the partial dependence of coupled variables of cement 
+Fig. 15. Partial dependence plots (PDP) analysis 2D of the input variables for compressive strength of concrete made with recycled concrete aggregates.  
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 17 =====
+
+Construction and Building Materials 323 (2022) 126578
+17
+and water content. The compressive strength strongly depended on the 
+water content and cement content, the higher cement content and lower 
+water content lead to greater compressive strength. In addition, the 
+results indicate that the dependence of the compressive strength on the 
+cement content was stronger at a lower water content. This is because 
+lower water content and cement content will result in a denser structure 
+of concrete as reported in many previous studies [6,11,41,52]. However, 
+when the water content is lower than 100 (kg/m3) the dependence of 
+compressive strength on the cement content with cement content higher 
+than 500 (kg/m3) is not significant. This is because, with very lower 
+water content, the cement hydration process will be limited due to lack 
+of water, as stated in the textbook the water/cement ratio should not be 
+smaller than 0.35 [113]. The dependence of compressive strength on 
+RCAWA was more dominant with a lower water content (Fig. 15b). This 
+is because, high values of RCAWA and RCA created a relatively loose 
+interface between RCA and cement paste in hardened concrete, which 
+results in a lower compressive strength [114]. Fig. 15c shows that the 
+dependence of compressive strength on cement content is not signifi­
+cantly dependent on NAWA content. The dependence of compressive 
+strength on water content is a little strong at a larger NAWA (Fig. 15d). 
+From Fig. 15e, it can be observed that the compressive strength is 
+moderately dependent on the cement content at lower RCAWA. This also 
+can be explained by the smaller porosity of hardened concrete with a 
+smaller RCAWA. The sand content does not affect significantly the 
+dependence of compressive strength on the cement content (Fig. 15f). 
+With a higher NA content, the cement content has a stronger influence 
+on the compressive strength (Fig. 15g). This is because natural aggregate 
+(NA) is known as the load-bearing skeleton of concrete. In contrast, the 
+dependence of compressive strength on cement content is greater at a 
+lower RCA content, this is in alignment with many previous studies 
+[6,7,9,112,114], which reported that the higher amount of RCA, the 
+lower compressive strength (Fig. 15h). The substitution rate has a sig­
+nificant effect in a range from 0 to 20%, out of that range, the substation 
+rate has a small impact on the compressive strength (Fig. 15i). In sum­
+mary, the results of PDP-2D indicate that cement content and water 
+content are the two most important parameters that affect the 
+compressive strength of concrete with RCA. 
+5. Conclusions 
+This study estimated the compressive strength of recycled concrete 
+using six machine learning approaches, including GB, XGB, SVR, 
+GB_PSO, XGB_PSO, and SVR_PSO. The input parameters used for 
+modeling are cement content, water content, aggregate content, natural 
+Fig. 15. (continued). 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 18 =====
+
+Construction and Building Materials 323 (2022) 126578
+18
+aggregate content, recycle concrete aggregate content, sand content, 
+water absorption of natural aggregate and RCA. 
+The result indicates that the performance of hybrid models of 
+GB_PSO, XGB_PSO, and SVR_PSO has higher prediction accuracy than 
+the single models of GB, XGB, and SVR. The GB_PSO has the highest 
+prediction accuracy (R = 0.9356, RMSE = 5.5604 MPa, and MAE =
+4.2882 MPa) among three hybrid models. 
+The best performance of the machine learning model using Gradient 
+Boosting with tuned hyperparameters is achieved and that is one of the 
+main results of this study. Based on the Gradient Boosting with the tuned 
+hyperparameters, soft computing can be developed in predicting the 
+compressive strength of concrete made with RCA. 
+The results of feature importance analysis using SHAP and partial 
+dependence plot (PDP) analysis revealed that the most important vari­
+able effect on compressive strength of concrete made with RAC is 
+cement content, whatever performance strategies of concrete made with 
+RAC. 
+Based on the partial dependence plot analysis PDP, the content of 
+each material can be computed easily for the required compressive 
+strength. The results also show that the substitution rate of RCA has a 
+higher effect on the compressive strength of concrete than that of RCA 
+and NA content. 
+In the end, this study provides a systematic evaluation of the 
+compressive strength prediction of recycled concrete and could 
+contribute to the literature and practice of the study on the compressive 
+strength prediction of recycled concrete. 
+This study mainly focused on main parameters for modeling related 
+to cement content, water content, and aggregate content (natural and 
+recycled aggregates), and water absorption of natural and recycled 
+aggregate, future research should consider more input parameters such 
+as type and content of additive, curing condition, and curing period, etc. 
+Moreover, it is worth noting that the performance of the machine 
+learning model may be enhanced by including more detailed and 
+appropriate variables such as the substitution rate of RAC. 
+Funding 
+This research did not receive any specific grant from funding 
+agencies in the public, commercial, or not-for-profit sectors. 
+7. Availability of data and material 
+Data will be made available on request. 
+CRediT authorship contribution statement 
+Van Quan Tran: Data curation, Conceptualization, Methodology, 
+Software, Visualization, Writing – original draft, Writing – review & 
+editing, Validation. Viet Quoc Dang: Methodology, Writing – original 
+draft. Lanh Si Ho: Conceptualization, Methodology, Visualization, 
+Writing – original draft, Writing – review & editing, Validation. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.conbuildmat.2022.126578. 
+References 
+[1] E. Manowong, C. Brockmann, Construction waste management in newly 
+industrialized countries, in: W107-Spec. Track 18th CIB World Build. Congr. May 
+2010 Salford U. K., 2015, pp. 12. 
+[2] T.T. Kien, L.T. Thanh, P.V. Lu, Recycling construction demolition waste in the 
+world and in Vietnam, in: Int. Conf. Sustain. Built Environ. Future Hanoi, 2013, 
+pp. 27. 
+[3] N. Deshpande, S. Londhe, S. Kulkarni, Modeling compressive strength of recycled 
+aggregate concrete by Artificial Neural Network, Model Tree and Non-linear 
+Regression, Int. J. Sustain. Built Environ. 3 (2) (2014) 187–198. 
+[4] Z.H. Duan, S.C. Kou, C.S. Poon, Prediction of compressive strength of recycled 
+aggregate concrete using artificial neural networks, Constr. Build. Mater. 40 
+(2013) 1200–1206. 
+[5] R.V. Silva, J. de Brito, R.K. Dhir, The influence of the use of recycled aggregates 
+on the compressive strength of concrete: A review, Eur. J. Environ. Civ. Eng. 19 
+(7) (2015) 825–849. 
+[6] K. McNeil, T.-K. Kang, Recycled concrete aggregates: A review, Int. J. Concr. 
+Struct. Mater. 7 (1) (2013) 61–69. 
+[7] M.C. Limbachiya, T. Leelawat, R.K. Dhir, Use of recycled concrete aggregate in 
+high-strength concrete, Mater. Struct. 33 (9) (2000) 574–580. 
+[8] K.K. Sagoe-Crentsil, T. Brown, A.H. Taylor, Performance of concrete made with 
+commercially produced coarse recycled concrete aggregate, Cem. Concr. Res. 31 
+(5) (2001) 707–712. 
+[9] C. Shi, Y. Li, J. Zhang, W. Li, L. Chong, Z. Xie, Performance enhancement of 
+recycled concrete aggregate–a review, J. Clean. Prod. 112 (2016) 466–472. 
+[10] A. Akbarnezhad, K.C.G. Ong, M.H. Zhang, C.T. Tam, T.W.J. Foo, Microwave- 
+assisted beneficiation of recycled concrete aggregates, Constr. Build. Mater. 25 
+(8) (2011) 3469–3479. 
+[11] P. Amorim, J. De Brito, L. Evangelista, Concrete made with coarse concrete 
+aggregate: influence of curing on durability, ACI Mater. J. 109 (2012) 195–204. 
+[12] W.-C. Choi, H.-D. Yun, Compressive behavior of reinforced concrete columns with 
+recycled aggregate under uniaxial loading, Eng. Struct. 41 (2012) 285–293. 
+[13] D. Cree, M. Green, A. Noumow´e, Residual strength of concrete containing 
+recycled materials after exposure to fire: A review, Constr. Build. Mater. 45 
+(2013) 208–223. 
+[14] F. Deng, Y. He, S. Zhou, Y. Yu, H. Cheng, X. Wu, Compressive strength prediction 
+of recycled concrete based on deep learning, Constr. Build. Mater. 175 (2018) 
+562–569. 
+[15] J. Duan, P.G. Asteris, H. Nguyen, X.-N. Bui, H. Moayedi, A novel artificial 
+intelligence technique to predict compressive strength of recycled aggregate 
+concrete using ICA-XGBoost model, Eng. Comput. 37 (4) (2021) 3329–3346. 
+[16] S.R. Salimbahrami, R. Shakeri, Experimental investigation and comparative 
+machine-learning prediction of compressive strength of recycled aggregate 
+concrete, Soft Comput. 25 (2) (2021) 919–932. 
+[17] A.T.A. Dantas, M. Batista Leite, K. de Jesus Nagahama, Prediction of compressive 
+strength of concrete containing construction and demolition waste using artificial 
+neural networks, Constr. Build. Mater. 38 (2013) 717–722. 
+[18] ˙I.B. Topçu, M. Sarıdemir, Prediction of mechanical properties of recycled 
+aggregate concretes containing silica fume using artificial neural networks and 
+fuzzy logic, Comput. Mater. Sci. 42 (1) (2008) 74–82. 
+[19] C. Deepa, K. SathiyaKumari, V.P. Sudha, Prediction of the compressive strength of 
+high performance concrete mix using tree based modeling, Int. J. Comput. Appl. 6 
+(2010) 18–24. 
+[20] I. Nunez, A. Marani, M.L. Nehdi, Mixture Optimization of Recycled Aggregate 
+Concrete Using Hybrid Machine Learning Model, Materials. 13 (2020) 4331. 
+[21] Y.M. Cheng, L. Li, S.-C. Chi, W.B. Wei, Particle swarm optimization algorithm for 
+the location of the critical non-circular failure surface in two-dimensional slope 
+stability analysis, Comput. Geotech. 34 (2) (2007) 92–103, https://doi.org/ 
+10.1016/j.compgeo.2006.10.012. 
+[22] B.T. Pham, L.H. Son, T.A. Hoang, D.M. Nguyen, D. Tien Bui, Prediction of shear 
+strength of soft soil using machine learning methods, Catena. 166 (2018) 
+181–191. Doi: 10.1016/j.catena.2018.04.004. 
+[23] D. Tien Bui, V.H. Nhu, N.D. Hoang, Prediction of soil compression coefficient for 
+urban housing project using novel integration machine learning approach of 
+swarm intelligence and Multi-layer Perceptron Neural Network, Adv. Eng. 
+Inform. 38 (2018) 593–604, https://doi.org/10.1016/j.aei.2018.09.005. 
+[24] T.B. Ludermir, W.R. de Oliveira, Particle Swarm Optimization of MLP for the 
+identification of factors related to Common Mental Disorders, Expert Syst. Appl. 
+40 (11) (2013) 4648–4652, https://doi.org/10.1016/j.eswa.2013.02.003. 
+[25] J. Kennedy, R. Eberhart, Particle swarm optimization, in: Proc. ICNN95-Int. Conf. 
+Neural Netw., IEEE, 1995: pp. 1942–1948. 
+[26] F. Han, H.-F. Yao, Q.-H. Ling, An improved evolutionary extreme learning 
+machine based on particle swarm optimization, Neurocomputing. 116 (2013) 
+87–93. 
+[27] S. Ismail, M. Ramli, Engineering properties of treated recycled concrete aggregate 
+(RCA) for structural applications, Constr. Build. Mater. 44 (2013) 464–476, 
+https://doi.org/10.1016/j.conbuildmat.2013.03.014. 
+[28] C.J. Zega, A.A. Di Maio, Recycled Concretes Made with Waste Ready-Mix 
+Concrete as Coarse Aggregate, J. Mater. Civ. Eng. 23 (3) (2011) 281–286, https:// 
+doi.org/10.1061/(ASCE)MT.1943-5533.0000165. 
+[29] S.C. Kou, C.S. Poon, D. Chan, Influence of fly ash as a cement addition on the 
+hardened properties of recycled aggregate concrete, Mater. Struct. 41 (7) (2008) 
+1191–1201, https://doi.org/10.1617/s11527-007-9317-y. 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 19 =====
+
+Construction and Building Materials 323 (2022) 126578
+19
+[30] K.-H. Yang, H.-S. Chung, A.F. Ashour, Influence of Type and Replacement Level of 
+Recycled Aggregates on Concrete Properties, Mater. J. 105 (2008) 289–296. 
+https://doi.org/10.14359/19826. 
+[31] J. Thomas, N.N. Thaickavil, P.M. Wilson, Strength and durability of concrete 
+containing recycled concrete aggregates, J. Build. Eng. 19 (2018) 349–365, 
+https://doi.org/10.1016/j.jobe.2018.05.007. 
+[32] L. Evangelista, J. de Brito, Mechanical behaviour of concrete made with fine 
+recycled concrete aggregates, Cem. Concr. Compos. 29 (5) (2007) 397–401, 
+https://doi.org/10.1016/j.cemconcomp.2006.12.004. 
+[33] G. Fathifazl, A. Ghani Razaqpur, O. Burkan Isgor, A. Abbas, B. Fournier, S. Foo, 
+Creep and drying shrinkage characteristics of concrete produced with coarse 
+recycled concrete aggregate, Cem. Concr. Compos. 33 (10) (2011) 1026–1037, 
+https://doi.org/10.1016/j.cemconcomp.2011.08.004. 
+[34] V.A. Ulloa, E. García-Taengua, M.-J. Pelufo, A. Domingo, P. Serna, New Views on 
+Effect of Recycled Aggregates on Concrete Compressive Strength, Mater. J. 110 
+(2013) 687–696. https://doi.org/10.14359/51686336. 
+[35] N. Mohammed, K. Sarsam, M. Hussien, T.S. Al-Attar, M.A. Al-Neami, W. 
+S. AbdulSahib, The influence of recycled concrete aggregate on the properties of 
+concrete, MATEC Web Conf. 162 (2018) 02020, https://doi.org/10.1051/ 
+matecconf/201816202020. 
+[36] C. Thomas, J. Seti´en, J.A. Polanco, P. Alaejos, M. S´anchez de Juan, Durability of 
+recycled aggregate concrete, Constr. Build. Mater. 40 (2013) 1054–1065, https:// 
+doi.org/10.1016/j.conbuildmat.2012.11.106. 
+[37] R. Somna, C. Jaturapitakkul, W. Chalee, P. Rattanachu, Effect of the Water to 
+Binder Ratio and Ground Fly Ash on Properties of Recycled Aggregate Concrete, 
+J. Mater. Civ. Eng. 24 (1) (2012) 16–22, https://doi.org/10.1061/(ASCE) 
+MT.1943-5533.0000360. 
+[38] C. Thomas, J. Seti´en, J.A. Polanco, A.I. Cimentada, C. Medina, Influence of curing 
+conditions on recycled aggregate concrete, Constr. Build. Mater. 172 (2018) 
+618–625, https://doi.org/10.1016/j.conbuildmat.2018.04.009. 
+[39] J. Xiao, H. Li, Z. Yang, Fatigue behavior of recycled aggregate concrete under 
+compression and bending cyclic loadings, Constr. Build. Mater. 38 (2013) 
+681–688, https://doi.org/10.1016/j.conbuildmat.2012.09.024. 
+[40] C. Thomas, I. Sosa, J. Seti´en, J.A. Polanco, A.I. Cimentada, Evaluation of the 
+fatigue behavior of recycled aggregate concrete, J. Clean. Prod. 65 (2014) 
+397–405, https://doi.org/10.1016/j.jclepro.2013.09.036. 
+[41] Jos´e.M.V. G´omez-Sober´on, Porosity of recycled concrete with substitution of 
+recycled concrete aggregate: an experimental study, Cem. Concr. Res. 32 (8) 
+(2002) 1301–1311, https://doi.org/10.1016/S0008-8846(02)00795-0. 
+[42] V.W.Y. Tam, D. Kotrayothar, J. Xiao, Long-term deformation behaviour of 
+recycled aggregate concrete, Constr. Build. Mater. 100 (2015) 262–272, https:// 
+doi.org/10.1016/j.conbuildmat.2015.10.013. 
+[43] S. Manzi, C. Mazzotti, M.C. Bignozzi, Short and long-term behavior of structural 
+concrete with recycled concrete aggregate, Cem. Concr. Compos. 37 (2013) 
+312–318, https://doi.org/10.1016/j.cemconcomp.2013.01.003. 
+[44] C. Zheng, C. Lou, G. Du, X. Li, Z. Liu, L. Li, Mechanical properties of recycled 
+concrete with demolished waste concrete aggregate and clay brick aggregate, 
+Results Phys. 9 (2018) 1317–1322, https://doi.org/10.1016/j.rinp.2018.04.061. 
+[45] M.C.S. Nepomuceno, R.A.S. Isidoro, J.P.G. Catarino, Mechanical performance 
+evaluation of concrete made with recycled ceramic coarse aggregates from 
+industrial brick waste, Constr. Build. Mater. 165 (2018) 284–294, https://doi. 
+org/10.1016/j.conbuildmat.2018.01.052. 
+[46] Y. Haitao, T. Shizhu, Preparation and properties of high-strength recycled 
+concrete in cold areas, Mater. Constr. 65 (318) (2015) e050, https://doi.org/ 
+10.3989/mc.2015.03214. 
+[47] W.Z. Taffese, Suitability Investigation of Recycled Concrete Aggregates for 
+Concrete Production: An Experimental Case Study, Adv. Civ. Eng. 2018 (2018) 
+1–11, https://doi.org/10.1155/2018/8368351. 
+[48] Y.-N. Sheen, H.-Y. Wang, Y.-P. Juang, D.-H. Le, Assessment on the engineering 
+properties of ready-mixed concrete using recycled aggregates, Constr. Build. 
+Mater. 45 (2013) 298–305, https://doi.org/10.1016/j.conbuildmat.2013.03.072. 
+[49] K.H. Younis, K. Pilakoutas, Strength prediction model and methods for improving 
+recycled aggregate concrete, Constr. Build. Mater. 49 (2013) 688–701, https:// 
+doi.org/10.1016/j.conbuildmat.2013.09.003. 
+[50] D. Pedro, J. de Brito, L. Evangelista, Performance of concrete made with 
+aggregates recycled from precasting industry waste: influence of the crushing 
+process, Mater. Struct. 48 (12) (2015) 3965–3978, https://doi.org/10.1617/ 
+s11527-014-0456-7. 
+[51] M. Arezoumandi, J. Drury, J.S. Volz, K.H. Khayat, Effect of Recycled Concrete 
+Aggregate Replacement Level on the Shear Strength of Reinforced Concrete 
+Beams, ACI Mater. J. 112 (2015) (accessed September 1, 2021), https://trid.trb. 
+org/view/1366668. 
+[52] C.S. Poon, Z.H. Shui, L. Lam, H. Fok, S.C. Kou, Influence of moisture states of 
+natural and recycled aggregates on the slump and compressive strength of 
+concrete, Cem. Concr. Res. 34 (1) (2004) 31–36, https://doi.org/10.1016/S0008- 
+8846(03)00186-8. 
+[53] ¨Ozgür Çakır, ¨Omer.¨Ozkan. Sofyanlı, Influence of silica fume on mechanical and 
+physical properties of recycled aggregate concrete, HBRC J. 11 (2) (2015) 
+157–166, https://doi.org/10.1016/j.hbrcj.2014.06.002. 
+[54] L. Butler, J.S. West, S.L. Tighe, Effect of recycled concrete coarse aggregate from 
+multiple sources on the hardened properties of concrete with equivalent 
+compressive strength, Constr. Build. Mater. 47 (2013) 1292–1301, https://doi. 
+org/10.1016/j.conbuildmat.2013.05.074. 
+[55] H.B. Choi, C.K. Yi, H.H. Cho, K.I. Kang, Experimental study on the shear strength 
+of recycled aggregate concrete beams, Mag. Concr. Res. 62 (2) (2010) 103–114, 
+https://doi.org/10.1680/macr.2008.62.2.103. 
+[56] Z.H. Duan, C.S. Poon, Properties of recycled aggregate concrete made with 
+recycled aggregates with different amounts of old adhered mortars, Mater. Des. 
+58 (2014) 19–29, https://doi.org/10.1016/j.matdes.2014.01.044. 
+[57] A. Domingo-Cabo, C. L´azaro, F. L´opez-Gayarre, M.A. Serrano-L´opez, P. Serna, J. 
+O. Casta˜no-Tabares, Creep and shrinkage of recycled aggregate concrete, Constr. 
+Build. Mater. 23 (7) (2009) 2545–2553, https://doi.org/10.1016/j. 
+conbuildmat.2009.02.018. 
+[58] A.M. Knaack, Y.C. Kurama, Behavior of Reinforced Concrete Beams with Recycled 
+Concrete Coarse Aggregates, J. Struct. Eng. 141 (2015) B4014009, https://doi. 
+org/10.1061/(ASCE)ST.1943-541X.0001118. 
+[59] M. Etxeberria, A.R. Marí, E. V´azquez, Recycled aggregate concrete as structural 
+material, Mater. Struct. 40 (5) (2007) 529–541, https://doi.org/10.1617/s11527- 
+006-9161-5. 
+[60] P. Pereira, L. Evangelista, J. de Brito, The effect of superplasticizers on the 
+mechanical performance of concrete made with fine recycled concrete 
+aggregates, Cem. Concr. Compos. 34 (9) (2012) 1044–1052, https://doi.org/ 
+10.1016/j.cemconcomp.2012.06.009. 
+[61] M. Etxeberria, E. V´azquez, A. Marí, M. Barra, Influence of amount of recycled 
+coarse aggregates and production process on properties of recycled aggregate 
+concrete, Cem. Concr. Res. 37 (5) (2007) 735–742, https://doi.org/10.1016/j. 
+cemconres.2007.02.002. 
+[62] S.-C. Kou, C.-S. Poon, M. Etxeberria, Influence of recycled aggregates on long 
+term mechanical properties and pore size distribution of concrete, Cem. Concr. 
+Compos. 33 (2) (2011) 286–291, https://doi.org/10.1016/j. 
+cemconcomp.2010.10.003. 
+[63] P. Folino, H. Xargay, Recycled aggregate concrete – Mechanical behavior under 
+uniaxial and triaxial compression, Constr. Build. Mater. 56 (2014) 21–31, https:// 
+doi.org/10.1016/j.conbuildmat.2014.01.073. 
+[64] F. L´opez Gayarre, C. L´opez-Colina P´erez, M.A. Serrano L´opez, A. Domingo Cabo, 
+The effect of curing conditions on the compressive strength of recycled aggregate 
+concrete, Constr. Build. Mater. 53 (2014) 260–266, https://doi.org/10.1016/j. 
+conbuildmat.2013.11.112. 
+[65] N. Fonseca, J. de Brito, L. Evangelista, The influence of curing conditions on the 
+mechanical performance of concrete made with recycled concrete waste, Cem. 
+Concr. Compos. 33 (6) (2011) 637–643, https://doi.org/10.1016/j. 
+cemconcomp.2011.04.002. 
+[66] A. Barbudo, J. de Brito, L. Evangelista, M. Bravo, F. Agrela, Influence of water- 
+reducing admixtures on the mechanical performance of recycled concrete, 
+J. Clean. Prod. 59 (2013) 93–98, https://doi.org/10.1016/j.jclepro.2013.06.022. 
+[67] T.-H.-K. Kang, W. Kim, Y.-K. Kwak, S.-G. Hong, Flexural Testing of Reinforced 
+Concrete Beams with Recycled Concrete Aggregates (with Appendix), Struct. J. 
+111 (2014) 607–616. https://doi.org/10.14359/51686622. 
+[68] K. Kim, M. Shin, S. Cha, Combined effects of recycled aggregate and fly ash 
+towards concrete sustainability, Constr. Build. Mater. 48 (2013) 499–507, 
+https://doi.org/10.1016/j.conbuildmat.2013.07.014. 
+[69] L. Ferreira, J. de Brito, M. Barra, Influence of the pre-saturation of recycled coarse 
+concrete aggregates on concrete properties, Mag. Concr. Res. 63 (8) (2011) 
+617–627, https://doi.org/10.1680/macr.2011.63.8.617. 
+[70] G. Andreu, E. Miren, Experimental analysis of properties of high performance 
+recycled aggregate concrete, Constr. Build. Mater. 52 (2014) 227–235, https:// 
+doi.org/10.1016/j.conbuildmat.2013.11.054. 
+[71] M.M. Rafi, Study of Bond Properties of Steel Rebars with Recycled Aggregate 
+Concrete. Analytical Modeling, Strength Mater. 51 (2019) 166–174. Doi: 
+10.1007/s11223-019-00062-z. 
+[72] M.G. Beltr´an, F. Agrela, A. Barbudo, J. Ayuso, A. Ramírez, Mechanical and 
+durability properties of concretes manufactured with biomass bottom ash and 
+recycled coarse aggregates, Constr. Build. Mater. 72 (2014) 231–238, https://doi. 
+org/10.1016/j.conbuildmat.2014.09.019. 
+[73] M. Chakradhara Rao, S.K. Bhattacharyya, S.V. Barai, Influence of field recycled 
+coarse aggregate on properties of concrete, Mater. Struct. 44 (1) (2011) 205–220, 
+https://doi.org/10.1617/s11527-010-9620-x. 
+[74] V. Corinaldesi, Mechanical and elastic behaviour of concretes made of recycled- 
+concrete coarse aggregates, Constr. Build. Mater. 24 (9) (2010) 1616–1620, 
+https://doi.org/10.1016/j.conbuildmat.2010.02.031. 
+[75] R. Sato, I. Maruyama, T. Sogabe, M. Sogo, Flexural Behavior of Reinforced 
+Recycled Concrete Beams, J. Adv. Concr. Technol. 5 (1) (2007) 43–61, https:// 
+doi.org/10.3151/jact.5.43. 
+[76] D. Matias, J. de Brito, A. Rosa, D. Pedro, Mechanical properties of concrete 
+produced with recycled coarse aggregates – Influence of the use of 
+superplasticizers, Constr. Build. Mater. 44 (2013) 101–109, https://doi.org/ 
+10.1016/j.conbuildmat.2013.03.011. 
+[77] G. Wardeh, E. Ghorbel, H. Gomart, Mix Design and Properties of Recycled 
+Aggregate Concretes: Applicability of Eurocode 2, Int. J. Concr. Struct. Mater. 9 
+(1) (2015) 1–20, https://doi.org/10.1007/s40069-014-0087-y. 
+[78] K. Rahal, Mechanical properties of concrete with recycled coarse aggregate, 
+Build. Environ. 42 (1) (2007) 407–415, https://doi.org/10.1016/j. 
+buildenv.2005.07.033. 
+[79] H.Z. Cui, X. Shi, S.A. Memon, F. Xing, W. Tang, Experimental Study on the 
+Influence of Water Absorption of Recycled Coarse Aggregates on Properties of the 
+Resulting Concretes, J. Mater. Civ. Eng. 27 (4) (2015) 04014138, https://doi.org/ 
+10.1061/(ASCE)MT.1943-5533.0001086. 
+[80] M. Casuccio, M.C. Torrijos, G. Giaccio, R. Zerbino, Failure mechanism of recycled 
+aggregate concrete, Constr. Build. Mater. 22 (7) (2008) 1500–1506, https://doi. 
+org/10.1016/j.conbuildmat.2007.03.032. 
+V. Quan Tran et al.                                                                                                                                                                                                                            
+
+
+===== PAGE 20 =====
+
+Construction and Building Materials 323 (2022) 126578
+20
+[81] M. Pepe, R.D. Toledo Filho, E.A.B. Koenders, E. Martinelli, Alternative processing 
+procedures for recycled aggregates in structural concrete, Constr. Build. Mater. C 
+69 (2014) 124–132, https://doi.org/10.1016/j.conbuildmat.2014.06.084. 
+[82] C. Hoffmann, S. Schubert, A. Leemann, M. Motavalli, Recycled concrete and 
+mixed rubble as aggregates: Influence of variations in composition on the 
+concrete properties and their use as structural material, Constr. Build. Mater. 35 
+(2012) 701–709, https://doi.org/10.1016/j.conbuildmat.2011.10.007. 
+[83] J.A. Carneiro, P.R.L. Lima, M.B. Leite, R.D. Toledo Filho, Compressive 
+stress–strain behavior of steel fiber reinforced-recycled aggregate concrete, Cem. 
+Concr. Compos. 46 (2014) 65–72. https://doi.org/10.1016/j. 
+cemconcomp.2013.11.006. 
+[84] G.-F. Bel´en, M.-A. Fernando, C.L´opez. Diego, S.-P. Sindy, Stress–strain 
+relationship in axial compression for concrete using recycled saturated coarse 
+aggregate, Constr. Build. Mater. 25 (5) (2011) 2335–2342, https://doi.org/ 
+10.1016/j.conbuildmat.2010.11.031. 
+[85] H. Dilbas, M. S¸ims¸ek, ¨O. Çakır, An investigation on mechanical and physical 
+properties of recycled aggregate concrete (RAC) with and without silica fume, 
+Constr. Build. Mater. 61 (2014) 50–59, https://doi.org/10.1016/j. 
+conbuildmat.2014.02.057. 
+[86] M.G. Beltr´an, A. Barbudo, F. Agrela, A.P. Galvín, J.R. Jim´enez, Effect of cement 
+addition on the properties of recycled concretes to reach control concretes 
+strengths, J. Clean. Prod. 79 (2014) 124–133, https://doi.org/10.1016/j. 
+jclepro.2014.05.053. 
+[87] I.S. Ignjatovi´c, Sneˇzana.B. Marinkovi´c, Z.M. Miˇskovi´c, A.R. Savi´c, Flexural 
+behavior of reinforced recycled aggregate concrete beams under short-term 
+loading, Mater. Struct. 46 (6) (2013) 1045–1059, https://doi.org/10.1617/ 
+s11527-012-9952-9. 
+[88] B. Gonz´alez-Fonteboa, F. Martínez-Abella, J. Eiras-L´opez, S. Seara-Paz, Effect of 
+recycled coarse aggregate on damage of recycled concrete, Mater. Struct. 44 (10) 
+(2011) 1759–1771, https://doi.org/10.1617/s11527-011-9736-7. 
+[89] S.-C. Kou, C.-S. Poon, Long-term mechanical and durability properties of recycled 
+aggregate concrete prepared with the incorporation of fly ash, Cem. Concr. 
+Compos. 37 (2013) 12–19, https://doi.org/10.1016/j.cemconcomp.2012.12.011. 
+[90] S.B. Huda, M.S. Alam, Mechanical behavior of three generations of 100% 
+repeated recycled coarse aggregate concrete, Constr. Build. Mater. 65 (2014) 
+574–582, https://doi.org/10.1016/j.conbuildmat.2014.05.010. 
+[91] M. Maleˇsev, V. Radonjanin, S. Marinkovi´c, Recycled Concrete as Aggregate for 
+Structural Concrete Production, Sustainability. 2 (2010) 1204–1225, https://doi. 
+org/10.3390/su2051204. 
+[92] C. Medina, W. Zhu, T. Howind, M.I. S´anchez de Rojas, M. Frías, Influence of 
+mixed recycled aggregate on the physical – mechanical properties of recycled 
+concrete, J. Clean. Prod. 68 (2014) 216–225, https://doi.org/10.1016/j. 
+jclepro.2014.01.002. 
+[93] J.H. Friedman, Greedy Function Approximation: A Gradient Boosting Machine, 
+Ann. Stat. 29 (2001) 1189–1232. 
+[94] Boosting Algorithms: Regularization, Prediction and Model Fitting, (n.d.). 
+https://projecteuclid.org/journals/statistical-science/volume-22/issue-4/ 
+Boosting-Algorithms-Regularization-Prediction-and-Model-Fitting/10.1214/07- 
+STS242.full (accessed October 29, 2021). 
+[95] T. Chen, C. Guestrin, XGBoost: A Scalable Tree Boosting System, in: Proc. 22nd 
+ACM SIGKDD Int. Conf. Knowl. Discov. Data Min., Association for Computing 
+Machinery, New York, NY, USA, 2016: pp. 785–794. https://doi.org/10.1145/ 
+2939672.2939785. 
+[96] C. Cortes, V. Vapnik, Support-vector networks, Mach. Learn. 20 (3) (1995) 
+273–297, https://doi.org/10.1007/BF00994018. 
+[97] A.J. Smola, B. Sch¨olkopf, A tutorial on support vector regression, Stat. Comput. 
+14 (3) (2004) 199–222, https://doi.org/10.1023/B: 
+STCO.0000035301.49549.88. 
+[98] A. Goldstein, A. Kapelner, J. Bleich, E. Pitkin, Peeking Inside the Black Box: 
+Visualizing Statistical Learning With Plots of Individual Conditional Expectation, 
+J. Comput. Graph. Stat. 24 (1) (2015) 44–65, https://doi.org/10.1080/ 
+10618600.2014.907095. 
+[99] R. Eberhart, J. Kennedy, A new optimizer using particle swarm theory, in: MHS95 
+Proc. Sixth Int. Symp. Micro Mach. Hum. Sci., 1995: pp. 39–43. https://doi.org/ 
+10.1109/MHS.1995.494215. 
+[100] E. Elbeltagi, T. Hegazy, D. Grierson, Comparison among five evolutionary-based 
+optimization algorithms, Adv. Eng. Inform. 19 (1) (2005) 43–53, https://doi.org/ 
+10.1016/j.aei.2005.01.004. 
+[101] T. Chai, R.R. Draxler, Root mean square error (RMSE) or mean absolute error 
+(MAE)?– Arguments against avoiding RMSE in the literature, Geosci. Model Dev. 
+7 (2014) 1247–1250, https://doi.org/10.5194/gmd-7-1247-2014. 
+[102] T. Chai, R.R. Draxler, Root mean square error (RMSE) or mean absolute error 
+(MAE)? – Arguments against avoiding RMSE in the literature, Geosci. Model Dev. 
+7 (2014) 1247–1250, https://doi.org/10.5194/gmd-7-1247-2014. 
+[103] F. Saberi-Movahed, M. Najafzadeh, A. Mehrpooya, Receiving More Accurate 
+Predictions for Longitudinal Dispersion Coefficients in Water Pipelines: Training 
+Group Method of Data Handling Using Extreme Learning Machine Conceptions, 
+Water Resour. Manag. 34 (2) (2020) 529–561, https://doi.org/10.1007/s11269- 
+019-02463-w. 
+[104] A. Gholampour, I. Mansouri, O. Kisi, T. Ozbakkaloglu, Evaluation of mechanical 
+properties of concretes containing coarse recycled concrete aggregates using 
+multivariate adaptive regression splines (MARS), M5 model tree (M5Tree), and 
+least squares support vector regression (LSSVR) models, Neural Comput. Appl. 32 
+(1) (2020) 295–308. 
+[105] H. Naderpour, A.H. Rafiean, P. Fakharian, Compressive strength prediction of 
+environmentally friendly concrete using artificial neural networks, J. Build. Eng. 
+16 (2018) 213–219. 
+[106] A. Gulli, S. Pal, Deep learning with Keras, Packt Publishing Ltd (2017). 
+[107] S.M. Lundberg, G. Erion, H. Chen, A. DeGrave, J.M. Prutkin, B. Nair, R. Katz, 
+J. Himmelfarb, N. Bansal, S.-I. Lee, From local explanations to global 
+understanding with explainable AI for trees, Nat. Mach. Intell. 2 (1) (2020) 
+56–67. 
+[108] Z.-H. Duan, C.-S. Poon, Factors affecting the properties of recycled concrete by 
+using neural networks, Comput Concr. 14 (5) (2014) 547–561. 
+[109] R. Kumar, B. Bhattacharjee, Study on some factors affecting the results in the use 
+of MIP method in concrete research, Cem. Concr. Res. 33 (3) (2003) 417–424. 
+[110] F. L´opez-Gayarre, P. Serna, A. Domingo-Cabo, M.A. Serrano-L´opez, C. L´opez- 
+Colina, Influence of recycled aggregate quality and proportioning criteria on 
+recycled concrete properties, Waste Manag. 29 (12) (2009) 3022–3028. 
+[111] V.A. Ulloa, E. García-Taengua, M.-J. Pelufo, A. Domingo, P. Serna, New views on 
+effect of recycled aggregates on concrete compressive strength, ACI Mater. J. 110 
+(2013) 1–10. 
+[112] S.W. Tabsh, A.S. Abdelfatah, Influence of recycled concrete aggregates on 
+strength properties of concrete, Constr. Build. Mater. 23 (2) (2009) 1163–1167. 
+[113] A.M. Neville, Properties of concrete, Longman London (1995). 
+[114] C.S. Poon, Z.H. Shui, L. Lam, Effect of microstructure of ITZ on compressive 
+strength of concrete prepared with recycled aggregates, Constr. Build. Mater. 18 
+(6) (2004) 461–468. 
+V. Quan Tran et al.                                                                                                                                                                                                                            

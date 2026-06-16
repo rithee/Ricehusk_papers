@@ -1,0 +1,1487 @@
+
+===== PAGE 1 =====
+
+1 
+ 
+Hydric and durability performances of compressed earth blocks stabilized with 
+1 
+industrial and agro by-product binders: calcium carbide residue and rice husk ash 
+2 
+Philbert Nshimiyimana, Ph.D. 1; Adamah Messan, Ph.D. 2; Luc Courard, Ph.D. 3 
+3 
+1 Post-doctoral researcher,  Laboratoire Eco-Matériaux et Habitats Durables (LEMHaD), 
+4 
+Institut International d’Ingénierie de l’Eau et de l’Environnement (Institut 2iE), Rue de la 
+5 
+Science, 01 BP 594 Ouagadougou 01, Burkina Faso ; Urban and Environmental Engineering 
+6 
+(UEE), Université de Liège (ULiege), Allée de la Découverte 9, 4000 Liège, Belgique. 
+7 
+E-mail: pnshimiyimana@doct.uliege.be 
+8 
+2 Associate Professor, Dept. Génie Civil et Hydraulique, Institut 2iE, Rue de la Science, 01 
+9 
+BP 594 Ouagadougou 01, Burkina Faso (corresponding author). 
+10 
+E-mail: adamah.messan@2ie-edu.org 
+11 
+3 Professor,  Dept. Architecture, Géologie et Construction, ULiege, Allée de la Découverte 9, 
+12 
+4000 Liège, Belgique. E-mail: luc.courard@uliege.be 
+13 
+Abstract 
+14 
+This study investigated the hydric and durability performances of compressed earth blocks (CEBs) 
+15 
+stabilized with calcium carbide residue (CCR) and rice husk ash (RHA). Dry mixtures were prepared 
+16 
+using kaolinite-rich earthen material and 0 to 25 % CCR or 20:0 to 12:8 % CCR:RHA of the weight of 
+17 
+earth. Moistened mixtures were manually compressed to produce CEBs (295x140x95 mm). Stabilized 
+18 
+CEBs were cured at 30±5 °C, wrapped in plastic bags for 45 days. The cured CEBs were dried and 
+19 
+tested for water absorption and other indicators of durability. Unstabilized CEBs immediately degraded 
+20 
+in water. The stabilized CEBs were stable in water, with very low coefficient of capillary absorption 
+21 
+(<20 g/cm².min1/2) and excellent durability indicators. They resisted erosion at standard water pressure 
+22 
+(50 kPa) and at a pressure of 500 kPa. The coefficient of surface abrasion improved far higher than 
+23 
+7 cm²/g recommended for the construction of facing masonry. It also increased after wetting-drying 
+24 
+
+
+===== PAGE 2 =====
+
+2 
+ 
+cycles and correlated with the evolution of compressive strength. This correlation can be used as the 
+25 
+non-destructive test of stabilized CEBs.  
+26 
+Keywords: abrasion; carbide lime; compressed earth block; erodability; non-destructive test; rice husk 
+27 
+ash; water absorption; wetting-drying cycles 
+28 
+Introduction 
+29 
+Earthen materials, particularly compressed earth blocks (CEBs), are currently regaining the 
+30 
+global popularity in modern building constructions for abiding by environmental sustainability 
+31 
+and circular economy. However, the society still  has some wrong perceptions about the raw 
+32 
+earth for construction, considering it as the material for the poor and/or less durable (Beckett et 
+33 
+al. 2020;  Dahmen 2015; Hughes et al. 2017; Medvey and Dobszay 2020; Morel and Charef 
+34 
+2019). The current popularity of earth is highlighted by the exponential increase of the scientific 
+35 
+studies of earth-based construction materials and techniques, and  durability testing methods 
+36 
+(Beckett et al. 2020; Medvey and Dobszay 2020). Among various techniques, the stabilization 
+37 
+using chemical binders such as cement, lime, pozzolanic or alkaline-activated binders not only 
+38 
+improves the mechanical properties, but also the hydric and durability indicators of earthen 
+39 
+material (Abhilash et al. 2020; Beckett et al. 2020; Bogas et al. 2018; Gomes et al. 2016; 
+40 
+Mango-Itulamya et al. 2020;  Sore et al. 2018).  
+41 
+The durability of earthen material is predominantly associated with the resistance to water and 
+42 
+other agents such as (micro) biological, chemical, thermal or physical attacks, which may affect 
+43 
+the longevity of the earth-based structure. “Broadly speaking, moisture ingress occurs primarily 
+44 
+from wind-driven rainfall, condensation, infiltration, absorption from the surrounding ground, 
+45 
+and from general building use” (Beckett et al. 2020). Depending on the rate of absorption, this 
+46 
+moisture/water may result in the weakening of the integrity and mechanical resistance of 
+47 
+earthen structure. Therefore, it is essential to test the durability of earthen materials. 
+48 
+
+
+===== PAGE 3 =====
+
+3 
+ 
+The tests of the durability of earthen materials, particularly CEBs, are most commonly carried 
+49 
+out in the laboratory vis-a-vis water ingress, either by capillary or total absorption, water erosion 
+50 
+(spray or drip test), wetting-drying cycles (wire brush test), freeze-thaw cycles, as well as other 
+51 
+tests in outdoor real conditions (Beckett et al. 2020; Medvey and Dobszay 2020). Additionally, 
+52 
+the resistance to surface abrasion and mechanical resistance, in dry or wet conditions, can 
+53 
+clearly indicate the durability of earthen material (AFNor 2001; CDI&CRATerre 1998). The 
+54 
+usefulness of either one or more tests would be determined by the envisaged applications of 
+55 
+CEBs in building: facing masonry in direct contact with rain or existence of protective eaves, 
+56 
+water rising or existence of water proof foundation, etc. However, it is essential to carry out 
+57 
+some of the tests in order to assess the suitability of earthen material and/or the efficiency of 
+58 
+stabilizer for the durability performance in extreme environment (Beckett et al. 2020). 
+59 
+While the stabilization using chemical industrial binders like cement and/or lime generally 
+60 
+improves the durability of stabilized CEBs,  these binders are scrutinized to increase the 
+61 
+embodied energy and CO2 emission and thus tempering with the sustainability and other 
+62 
+advantages of raw earthen materials (Arrigoni et al. 2017a; Medvey and  Dobszay 2020). 
+63 
+Therefore, further investigations have been carried out on alternative stabilization approaches 
+64 
+and binders that can allow to improve different durability indicators of earth, with relatively 
+65 
+limited environmental impact (Al-Fakih et al. 2019; Medvey and Dobszay 2020). These 
+66 
+attempts consist of incorporating aggregates or by-product binders from different origins in the 
+67 
+earthen materials (Abhilash et al. 2020; Arrigoni et al. 2017a; Azeko et al. 2018; Bogas et al. 
+68 
+2018; Latifi et al. 2018 ; Mango-Itulamya et al. 2020; Masuka et al. 2018; Seco et al. 2017).  
+69 
+The incorporation of aggregates (0-50 %) in clay-rich soil materials reduced the drying 
+70 
+shrinkage, water absorption and improved the compressive and abrasion resistance of CEBs 
+71 
+(Mango-Itulamya et al. 2020). Furthermore, Abhilash et al. (2020) incorporated wastes from 
+72 
+construction-demolition and industries as aggregates and alkaline activated binders in the 
+73 
+
+
+===== PAGE 4 =====
+
+4 
+ 
+earthen materials for the production of CEBs. The CEBs stabilized with the pozzolanic 
+74 
+materials: 5-15 % GGBS (ground granulated blast furnace slag) or FA (fly ash) activated by 
+75 
+NaOH (12 M) recorded comparable water absorption (14-15 %) by total immersion as CEBs 
+76 
+stabilized with 7-10 % cement.  Seco et al. (2017) similarly reported that the stabilization using 
+77 
+GGBS activated by hydrated lime or Portland cement allows to pass the durability tests, 
+78 
+estimated in lab and measured in real conditions, of unfired clay bricks containing different 
+79 
+fractions of sand (0-50 %). Additionally, Arrigoni et al. (2017a) reported that RE (rammed 
+80 
+earth) stabilized with cement (5-10 %) or mixture of CCR (calcium carbide residue), a  
+81 
+lime-rich industrial by-product, and FA in ratio of 6:25 % both passed the minimum required 
+82 
+compressive strength (2 MPa), accelerated erosion and wire brush tests. More advantageously, 
+83 
+the stabilization using CCR and FA, industrial by-products respectively from acetylene 
+84 
+production and thermal power plant using coal, improved the overall environmental 
+85 
+performance of the RE (Arrigoni et al. 2017a). In the present study, the CCR was mixed with 
+86 
+RHA (rice husk ash), an agricultural by-product, for the stabilization of CEBs. These alternative 
+87 
+binders were previously reported to undergo microstructural interactions with earthen materials 
+88 
+which improved the physico-mechanical and hygrothermal properties of CEBs (Nshimiyimana, 
+89 
+et al. 2020a, Moussa et al. 2019;  Nshimiyimana, et al. 2019).  
+90 
+The present study specifically aims to investigate “how the stabilization using by-product 
+91 
+binders affect the hydric and durability performances of CEBs?”, compared to the unstabilized 
+92 
+and cement-stabilized CEBs, mainly referring to the applications in the Sahelian climatic 
+93 
+context. This study was carried out in the framework of a research and development project: 
+94 
+“improving the quality of earth-based habitats in Burkina Faso” for implementation in this 
+95 
+region. According to the Köppen and Geigers classification, the climate of the capital city, 
+96 
+Ouagadougou (region Centre of Burkina Faso), is BSh: average annual rainfall of 788 mm and 
+97 
+temperature of 28.2 °C (https://fr.climate-data.org/afrique/burkina-faso-14/, July 30, 2020). 
+98 
+
+
+===== PAGE 5 =====
+
+5 
+ 
+This study specifically aims to improve the performances of CEBs, produced using local 
+99 
+earthen materials/by-products, to be as competitive as conventional masonry (cement blocks), 
+100 
+in order to encourage their applications in modern building constructions. This was achieved 
+101 
+by assessing the resistance of stabilized CEBs to water absorption. The effects of stabilization 
+102 
+with by-product binders were also assessed on other durability indicators of CEBs, such as the 
+103 
+resistance to abrasion, erodability, wetting-drying cycles, as well as the compressive strength.  
+104 
+Materials and experimental methods 
+105 
+Materials 
+106 
+The particle size under 5 mm of a kaolinite-rich earthen material was stabilized with calcium 
+107 
+carbide residue (CCR) and rice husk ash (RHA), available in the vicinity of Ouagadougou, 
+108 
+Burkina Faso. The physico-chemical and mineral compositions of the materials were reported 
+109 
+in previous studies (Nshimiyimana et al. 2020b and Nshimiyimana et al. 2018). The earthen 
+110 
+material, from Kamboinse, is a silt-clay of medium to high plasticity (average plasticity index 
+111 
+of 20 and average liquidity limit of 50). It contains 20 % clay particles (<2 µm), and mainly an 
+112 
+average of 55 % kaolinite and 20 % quartz minerals, and other minerals (Nshimiyimana et al. 
+113 
+2020b). It has a specific density of 2.75.  In the previous study, the kaolinite-rich earthen 
+114 
+material reached better pozzolanic reactivity with the CCR and improvement of the mechanical 
+115 
+properties than a quartz-rich material (Nshimiyimana et al. 2020c).  
+116 
+The CCR is finer than 125 µm, after grinding and sieving. It has median diameter D50 of 
+117 
+20.5 µm, a specific density of 2.49, and Blaine and BET specific surface area respectively of 
+118 
+8 286 cm²/g and 14 m²/g. The CCR contains up to 40 % of hydrated lime (Ca(OH2)) and 
+119 
+carbonates (Nshimiyimana et al. 2018). The RHA was produced by calcination of the rice husk 
+120 
+in optimum conditions (500 °C for 2 hours). It was ground and sieved on 80 µm to reach D50 
+121 
+of 11 µm, with a specific density of 2.25, and Blaine and BET surface area respectively of 
+122 
+
+
+===== PAGE 6 =====
+
+6 
+ 
+26 114 cm²/g and 154 m²/g. The RHA is mainly amorphous, with the reactive (amorphous) 
+123 
+fraction of 89 %, according to the test proposed by Mehta (US4105459 A, 1978). The difference 
+124 
+between the BET and Blaine, much higher for the RHA, is related to the internal porosity of 
+125 
+particles, which is took into consideration by BET and not by Blaine. 
+126 
+Production of stabilized CEBs 
+127 
+Firstly, the dry earthen material was mixed with 0 to 25 wt % CCR alone. Secondly, the earthen 
+128 
+material was mixed with 20 wt % CCR partially substituted by the RHA (CCR:RHA in 20:0 to 
+129 
+12:8 ratios). Moreover, control mixtures were produced using the earthen material and 8 wt % 
+130 
+cement (8CEM). The appropriate moisture content was added to the dry mixtures and mixed 
+131 
+until homogeneous moisture distribution. The optimum moisture content (OMC) was 
+132 
+determined by static compaction method, according to CDE (2000). The OMC (%) for 
+133 
+achieving maximum dry density of the mixtures linearly increased with the CCR content (%), 
+134 
+i.e. OMC=0.21xCCR+17. The moisture content of 22 % was used for the mixtures containing 
+135 
+the CCR:RHA. 
+136 
+CEBs were produced by manually compressing the moistened mixtures in prismatic mold 
+137 
+(295x140x95 mm3) of terastaram machine. Terastaram machine was designed to offer a 
+138 
+compaction pressure of about 35 bars (Sore et al. 2018). At least three (03) test specimens were 
+139 
+produced for each mix design. The stabilized CEBs were wrapped in plastic bags to prevent the 
+140 
+loss of moisture and eventual carbonation  and cured for 45 days in the ambient conditions of 
+141 
+laboratory (30±5 °C), as suggested by the previous study (Nshimiyimana et al. 2020c). Cured 
+142 
+CEBs were dried at 40±2 °C until the change of mass, between two consecutive weighing in 24 
+143 
+hours, was less than 0.1 %, before their characterizations.  
+144 
+
+
+===== PAGE 7 =====
+
+7 
+ 
+Characterization of stabilized CEBs 
+145 
+The capillary water absorption of CEBs was measured on the bottom face (surface, 
+146 
+S=29.5x14 cm²) of dry specimen which has a mass, Md (kg), immersed in water at a depth of 
+147 
+1±0.5 cm. The mass of wet specimen, Mwi (kg), was recorded over the time, i= 0.17 (10 min), 
+148 
+0.5, 1, 2, 4, 8, 16 and 24 hours of capillary immersion. The mass variation allowed to determine 
+149 
+the coefficient of capillary absorption, Cb10min (g/cm².min1/2), after 10 min (0.17 h) (AFNor 
+150 
+2001, revised 2017) and capillary water absorption, CWA (g/cm²), over time,  respectively using 
+151 
+equations 1 and 2. 
+152 
+Cb10min = 100x(Mw10min −Md)/(1000xSx√10) 
+(1) 
+CWA = (Mwi −Md)/S 
+(2) 
+TWA = 100x(Msat. air −Md)/Md 
+(3)  
+WAP = 100x(Mw. sat. air −Md)/(Mw. sat. air −Mw. sat. wat) 
+(4) 
+The total water absorption (TWA) of CEBs was measured, after capillary measurement, on the 
+153 
+specimens totally immersed in water (5 cm beneath water surface) for 24 hours, considered 
+154 
+enough for water saturation at atmospheric pressure. This allowed to carry out hydrostatic 
+155 
+weighing, referring to NF P 18-459 standard (AFNor 2010). The mass of saturated specimen 
+156 
+was weighed in water, MW.sat.wat (kg), and in air, MW.sat.air (kg).  The percentage of TWA (%) 
+157 
+was determined from equation 3. Additionally, the percentage of water accessible porosity, 
+158 
+WAP (%), was determined using equation 4.  
+159 
+The resistance to water erodability of CEBs was tested referring to the Bulletin 5 spray test 
+160 
+(NZS 1998). It prescribes to apply the water pressure of 50 kPa on a diameter of 150 mm of the 
+161 
+specimen, at a distance of 473 mm for 60 min (1 h). This diameter (150 mm) could not be 
+162 
+realized if testing the side external face of the CEBs (height <95 mm). The test was thus adapted 
+163 
+to a diameter of 90 mm. This did not only reduce the area exposed to erosion test, but also the 
+164 
+
+
+===== PAGE 8 =====
+
+8 
+ 
+amount of water falling on the specimen, and therefore, it can be presumed to achieve 
+165 
+equivalent erosion effect. Firstly, the erodability test was carried out in the same conditions as 
+166 
+the Bulletin 5 spray test (NZS 1998). Secondly, the water pressure was arbitrary increased to 
+167 
+500 kPa, keeping other parameters the same, to assess the effect of different stabilizers on the 
+168 
+erodability of CEBs. After the erosion test, the average depth of erosion was measured for each 
+169 
+specimen, by means of a needle inserted in each holes on the same specimen. The average 
+170 
+percentage of the eroded area was also estimated on the face of each specimen, with respect to 
+171 
+the total exposed area (diameter of 90 mm). Each eroded area was subdivided into geometric 
+172 
+shapes (circle, rectangle, and triangle) to determine the area.  These procedures were repeated 
+173 
+on three specimens of the same design in order to determine the average values of the depth of 
+174 
+erosion and eroded area of each design.  
+175 
+The resistance to abrasion of CEBs was tested referring to the XP P13-901 standard (AFNor 
+176 
+2001, revised 2017). The test was carried out by applying 60 cycles of abrasion on the side 
+177 
+external face of dry CEBs, using a metallic brush loaded with 3 kg. After abrasion test, the 
+178 
+weight loss and abraded area of the specimen were measured for determining the coefficient of 
+179 
+abrasion (Ca) and percentage weight loss with respect to the total weight of dry specimen. The 
+180 
+Ca (cm²/g) was determined as the ratio between the abraded area (cm²) and weight loss (g). The 
+181 
+higher is the Ca, the better is the resistance to abrasion of CEBs. 
+182 
+The resistance to wetting-drying (W-D) cycles of CEBs was tested referring to the standard 
+183 
+D559-03 revised in D559/D559M-15 (ASTM 2015). This assesses the weight loss of cement 
+184 
+stabilized soil subjected to 12 cycles of W-D. The dry specimens of CEBs were soaked in tap 
+185 
+water at room temperature (30±5 °C) for 6 hours, then dried in oven at 70±5 °C for 42 hours. 
+186 
+This constitutes one cycle of W-D, which was repeated 12 times. After each cycle, the 
+187 
+specimens were slightly brushed using a load of 1.5 kg to remove any degraded particles on all 
+188 
+faces, in order to determine the weight loss. Moreover, the compressive strength of CEBs was 
+189 
+
+
+===== PAGE 9 =====
+
+9 
+ 
+determined before and after 12 cycles of W-D, referring to the XP P13-901 standard (AFNor 
+190 
+2001, revised 2017).   
+191 
+Results and discussion 
+192 
+The stabilization of CEBs with by-product binders affected the hydric behaviors and generally 
+193 
+improved different durability indicators of CEBs, such as the resistance to erodability, abrasion 
+194 
+and wetting-drying cycles, and compressive strength.   
+195 
+Capillary water absorption 
+196 
+The measurement of water uptake by capillary immersion allowed to determine the amount of 
+197 
+capillary water absorption (g/cm²) through the bottom face of stabilized CEBs over the square 
+198 
+root of time (min1/2). Fig. 1a-b presents the linear correlations (R²>0.99) between the capillary 
+199 
+water absorption and square root of time in the range of 1-24 hours for CEBs stabilized with 
+200 
+CCR and CCR:RHA, respectively. The slopes of the lines allowed to determine the sorptivity. 
+201 
+This coefficient allows to qualitatively evaluate the rate of absorption in the capillary pores: the 
+202 
+lower is the coefficient, the smaller is the pore radius (Cassagnabère et al.  2011). The water 
+203 
+absorption was not determined for unstabilized CEBs which completely degraded in water. 
+204 
+Table 1 shows that the average sorptivity evolved in the range of 0.071-0.084 g/cm².min1/2 for 
+205 
+CEBs stabilized with 5-25 % CCR, reaching the minimum with 15 % CCR. For CCR:RHA 
+206 
+stabilized CEBs, the sorptivity evolved in the range of 0.056˗0.089 g/cm².min1/2, reaching the 
+207 
+minimum with 18:2 CCR:RHA (Table 1). This is higher than the sorptivity for the CEBs 
+208 
+stabilized with 8 % cement (0.045 g/cm²min1/2).  
+209 
+The evolution of the sorptivity suggested that the capillary pores reached the minimum radius 
+210 
+(-) for CEBs stabilized with 15 % CCR; beyond which it increased (+) (Table 1). CCR:RHA 
+211 
+stabilized CEBs recorded the lowest sorptivity with 18:2 % CCR:RHA, thus the smallest radius 
+212 
+(-) of the capillary pores (Table 1). Table 1 also shows that the stabilization with more than 
+213 
+
+
+===== PAGE 10 =====
+
+10 
+ 
+15 % CCR increased the pore size of CEBs produced at their respective OMC. This can be 
+214 
+explained by the increase of the sorptivity with increasing OMC for the production of stabilized 
+215 
+CEBs, as observed in a previous study (Morel et al. 2013). Moreover, the decrease of the pore 
+216 
+radius with the substitution of CCR by RHA (18:2-16:4 % CCR:RHA) can be explained by 
+217 
+better reactivity, forming more cementitious products (Nshimiyimana et al. 2019), and thus 
+218 
+reducing the pore size . 
+219 
+Furthermore, the coefficient of capillary absorption (Cb10min) was determined after 10 minutes 
+220 
+of capillary immersion. The Cb10min of 5-25 % CCR stabilized CEBs evolved in the range of 
+221 
+9-13 g/cm².min1/2, reaching the minimum value with 15 % CCR (Table 1). The Cb10min of 
+222 
+CCR:RHA stabilized CEBs evolved in the range of 10-12 g/cm²min1/2, reaching the minimum 
+223 
+with 14:6 % CCR:RHA, compared to 8.3 g/cm²min1/2 for CEBs stabilized with 8 % cement 
+224 
+(Table 1). Therefore, all stabilized CEBs have Cb10min < 20 g/cm²min1/2, and can be classified 
+225 
+as CEBs of very low capillary absorption (AFNor 2001). 
+226 
+The Cb10min can allow to evaluate the initial rate of water absorption in larger pores, in a sense 
+227 
+that CEBs record the highest rates in the first minutes of absorption which decreased with time 
+228 
+(Bogas et al. 2018). In fact, the Cb10min reported in the present study was much lower than that 
+229 
+of CEBs, produced using sandy soil and coarser recycled aggregates, stabilized with 8 % 
+230 
+cement (20.8 g/cm²min1/2) or 4:4 % cement:lime (29.8 g/cm²min1/2) (Bogas et al. 2018). This 
+231 
+confirms that finer earthen materials produce CEBs which have smaller pore size, as the finer 
+232 
+particles fill in pores left by coarser particles, and thus resulting in high packing density. This 
+233 
+was also reported by Mango-Itulamya et al. (2020) who observed that the soil containing higher 
+234 
+fraction of clay particles reached lower  Cb10min than the soil containing lower fraction of clay. 
+235 
+
+
+===== PAGE 11 =====
+
+11 
+ 
+Total water absorption  
+236 
+The water absorption by total immersion after 2 hours (Ab2h) and 24 hours (Ab24h: saturation) 
+237 
+respectively ranged in 17-24 % and 19-24 % for CEBs stabilized with 5-25 % CCR (Table 1). 
+238 
+For CCR:RHA stabilized CEBs, the Ab2h and Ab24h respectively evolved in the ranges of 
+239 
+17-18 % and 23-24 %, compared to 12 % and 16 % reached by cement stabilized CEBs  
+240 
+(Table 1).  
+241 
+The ratio Ab2h/Ab24h evolved in the range of 0.87-0.96 and 0.74-0.80 respectively for CEBs 
+242 
+stabilized with CCR and CCR:RHA (Table 1). The lower ratio for the CEBs stabilized with 
+243 
+CCR:RHA can also qualitatively suggest lower rate of water uptake. While the Ab24h increased 
+244 
+with CCR content, it was quasi-constant during the substitution of CCR by RHA. Nevertheless, 
+245 
+the Ab24h for all CEBs was slightly higher than the recommended limits (15-20 %) for 
+246 
+application in wet conditions (Bogas et al. 2018; Morel et al. 2013). Therefore, precaution 
+247 
+should be taken if these CEBs are used in wet environment, by applying either surface coating 
+248 
+or architectural protections. 
+249 
+Guettala et al. (2006) reported that the water absorption of CEBs decreased (Ab24h: 8.3-7.4 %) 
+250 
+with increasing cement content (5-8 %). Similar observation was reported by Masuka et al. 
+251 
+(2018),  Ab24h of 16-11 % for CEBs stabilized with 4-10 % cement. By contrast, other binders 
+252 
+may have an opposite effect. Indeed, Bogas et al. (2018) reported Ab24h of 13.6 and 16.5 % 
+253 
+respectively for CEBs stabilized with 8 % cement and 4:4 % cement:lime, produced using the 
+254 
+moisture content of 9.5 and 10 %. Sore (2017) similarly reported the Ab24h of 14-18 % for CEBs 
+255 
+stabilized with 10-20 % geopolymer and produced using the moisture of 17-22 %, compared to 
+256 
+Ab24h of 12 % for 8 % cement-CEBs produced with the moisture of 17 %. This is equivalent to 
+257 
+the ratio (Ab24h/production moisture) in the range of 0.7-0.8 for CEBs stabilized with cement 
+258 
+or geopolymer. This ratio is >1 and 0.8 respectively for CEBs stabilized with CCR (lime-rich 
+259 
+stabilizer) or CCR:RHA and cement in the present study (Table 1).  
+260 
+
+
+===== PAGE 12 =====
+
+12 
+ 
+This shows that the stabilization using cement or alkaline and thermal-activated geopolymer is 
+261 
+more effective than lime (CCR in the present study) with regard to water absorption. It also 
+262 
+shows that the water absorption capacity of CEBs is not only affected by the type and content 
+263 
+of stabilizer, but also the type of raw earthen material. The materials requiring high production 
+264 
+moisture would produce stabilized CEBs with high porosity resulting from the evaporation of 
+265 
+production moisture, and thus high water absorption. Other production parameters such as 
+266 
+compaction pressure and curing conditions also affect the hydric behaviors of stabilized CEBs. 
+267 
+Therefore, the final water absorption capacity of CEBs can be controlled by optimization of the 
+268 
+initial production and curing conditions (Nshimiyimana et al. 2020c).  
+269 
+Water accessible porosity 
+270 
+Fig. 2 presents the evolution of water accessible porosity (WAP), after saturation by total 
+271 
+immersion, with respect to the total porosity (TP) of stabilized CEBs.  Table 1 further 
+272 
+summarizes the values of the TP and WAP. The WAP is in range of 33-36 % for the CEBs 
+273 
+stabilized with 5-25 % CCR, equivalent to the ratios of 0.88-0.79 (WAP/TP) of total porosity 
+274 
+(Table 1). The WAP slightly increases in the range of 36-38 % for CEBs stabilized with 
+275 
+CCR:RHA, equivalent  to 0.89-0.96 of the total porosity. This is higher than the WAP of 29 % 
+276 
+for CEBs stabilized with 8 % cement, equivalent to 0.79 of total porosity (Table 1). 
+277 
+Bogas et al. (2018) reported the WAP of 25 and 29 % respectively for CEBs stabilized with 
+278 
+8 % cement and 4:4 % cement:lime, which is more than 0.80 of total porosity. Sore (2017) 
+279 
+reported the WAP in the range of 36-38 % for CEBs stabilized with 10-20 % geopolymer, 
+280 
+compared to 33 % with 8 % cement. In the present study, the CEBs stabilized with CCR:RHA 
+281 
+reached higher WAP than the CEBs stabilized with CCR alone, but comparable to that of 
+282 
+geopolymer-CEBs. This can be related to the production moisture (22 %) for CCR:RHA-CEBs 
+283 
+taken equivalent to the production moisture for 20 % CCR-CEBs. CEBs stabilized with 
+284 
+by-product binders in the present study reached comparable values of WAP as CEBs stabilized 
+285 
+
+
+===== PAGE 13 =====
+
+13 
+ 
+with common binders in the literature (Bogas et al. 2018).  Therefore, the WAP, similarly to 
+286 
+the Ab24h, can be further reduced by optimizing the production conditions.  
+287 
+While the TP represents the bulk fraction of pores in the CEBs, the WAP represents the fraction 
+288 
+which is readily accessible by water, i.e. the interconnected porosity. Fig. 2a clearly shows that 
+289 
+the bulk porosity increased at a relatively higher rate than the interconnected porosity with 
+290 
+respect to the CCR content, i.e. decreasing ratio WAP/TP (0.88-0.79: Table 1).  Fig. 2b shows 
+291 
+a quasi-constant evolution of the porosity around 18:2-14:6 % CCR:RHA, with the ratio 
+292 
+WAP/TP of  0.9 (Table 1). This indicates that the improvement of the durability of stabilized 
+293 
+CEBs was achieved around 18:2-14:6 % CCR:RHA. The sorptivity and initial rate of capillary 
+294 
+water absorption reached the minimum values with 15 % CCR, and increased beyond. These 
+295 
+parameters also reached the lowest values with 18:2 and 16:4 % CCR:RHA, respectively. 
+296 
+Moreover, while the increase of total porosity is beneficial for the structural and thermal 
+297 
+efficiency of stabilized CEBs (Nshimiyimana et al. 2020a), the WAP should decrease to 
+298 
+improve the durability. This would turn into the decrease of capillary and total water absorption. 
+299 
+Resistance to water erodability 
+300 
+The assessment of the resistance to water erodability was based on the depth of erosion per hour 
+301 
+(DE/hour) and percentage of eroded area, experimentally estimated with respect to the total 
+302 
+area exposed to water erosion. CEBs stabilized with by-product binders and tested in standard 
+303 
+conditions (50 kPa for 1 hour) were not eroded. The CEBs successfully passed the test, except 
+304 
+unstabilized CEBs which were completely degraded in lesser than 15 minutes (Fig. 3a). Similar 
+305 
+observation was reported for earth blocks stabilized with 8 % cement or 4:4 % cement:lime  
+306 
+(Bogas et al. 2018) or GGBS activated by cement or lime (Seco et al. 2017). The present study 
+307 
+presents the results obtained on stabilized CEBs tested using an arbitrary higher pressure 
+308 
+(500 kPa for 1 hour). This pressure was deliberately used for assessing the effect of different 
+309 
+types and contents of by-product binders on the erodability of CEBs (Fig. 3b-c). Other studies 
+310 
+
+
+===== PAGE 14 =====
+
+14 
+ 
+had previously used modified pressures, such as 300 kPa (Bogas et al. 2018) or 2070-4130 kPa 
+311 
+(Obonyo et al. 2010). 
+312 
+The depth of erosion and percentage of eroded area of CEBs stabilized with 5-25 % CCR 
+313 
+respectively decreased in the ranges of 7-4 mm/h and 41-3 % (Table 2).  Table 2 shows that the 
+314 
+depth of erosion and eroded area respectively ranged in 5-7 mm/h and 9-27 % for CEBs 
+315 
+stabilized with 20:0-12:8 % CCR:RHA, which are slightly higher than 3.5 mm/h and 7 % with 
+316 
+8 % cement. For the record, the depth of erosion was less than 1 mm/h for CEBs stabilized with 
+317 
+8 % cement or 4:4 % cement:lime tested with water pressure of 300 kPa (Bogas et al. 2018). 
+318 
+The depth was 1 mm/h and 20 mm/h respectively for CEBs stabilized with 7 % cement and 
+319 
+5:7 % cement:lime and tested at 4130 kPa (Obonyo et al. 2010). 
+320 
+Table 2 shows high coefficient of variation (CV up to 100) of the depth of erosion and eroded 
+321 
+area which can be related to surface defects constituting the weak spots. The weak spots, which 
+322 
+suffered aggressive erosion, were observed on some stabilized CEBs (Fig. 3b-c). In fact, cracks 
+323 
+were initially formed on the surface of some stabilized CEBs just after production. These cracks 
+324 
+may have been the origins of continuous and deep fissures: water penetrated through the cracks 
+325 
+and induced internal pressure. This not only affected the resistance to surface erosion but also 
+326 
+promoted the ingress of water and other agents and may compromise the durability and 
+327 
+mechanical resistance of CEBs. Therefore, precautions should be taken to limit surface defects 
+328 
+on CEBs or, if needed, apply surface treatment.   
+329 
+Although stabilized CEBs were tested using extremely high water pressure (500 kPa in the 
+330 
+present study), they still underwent depth of erosion far below the limit of 120 mm/h 
+331 
+recommended for a water pressure of 50 kPa. Therefore, they can be classified as no erodable 
+332 
+CEBs (NZS 1998). In fact, the spray erosion test can be considered more like the test of the 
+333 
+efficiency of stabilizer than a direct indicator of the durability of CEBs, given its severity 
+334 
+
+
+===== PAGE 15 =====
+
+15 
+ 
+(Beckett et al. 2020). However, this shows that CEBs stabilized with by-product binders can 
+335 
+resist the erosion, even if they are exposed to extremely harsh rainy conditions.   
+336 
+Moreover, the percentage of eroded area of CEBs stabilized with at least 10 % CCR reported 
+337 
+in the present study was less than 40 %, previously measured by Guettala et al. (2006), in the 
+338 
+real condition for wall masonry made of CEBs stabilized  with 8 % lime. That study (Guettala 
+339 
+et al. 2006) is only one of kind, to the best knowledge of the authors, where the masonry was 
+340 
+exposed to real rainfall (120 mm/year) for 4 years in Biskra region of Algeria and underwent 
+341 
+an erosion depth less than 1 mm.  
+342 
+This suggests that assessing the resistance to erodability only on the basis of the depth of erosion 
+343 
+may mislead into over-estimating the depth of erosion resulting from testing the weak spots. 
+344 
+Therefore, the depth should be accompanied by the percentage of eroded area for a better 
+345 
+interpretation. Nevertheless, there is still need for more studies to couple the analysis of the 
+346 
+common durability indicators and percentage of eroded area in order to establish the validation 
+347 
+criteria.  
+348 
+Testing the erodability with water pressure of 500 kPa was equivalent to an average water 
+349 
+discharge of 22.4 liter/minute. The knowledge of the total area (diameter of 90 mm) of the 
+350 
+specimen exposed to the erosion test and time of exposure (1 hour) allowed to estimate the total 
+351 
+amount of water (mm) which fell on the sample. Considering the average rainfall of 
+352 
+788 mm/year in Ouagadougou (region Centre of Burkina Faso) allowed to estimate the time, 
+353 
+equivalent to 270 years, for exposure to an equivalent amount of rain water used in the present 
+354 
+study. It is noteworthy that this is just an indicative comparison, between the water erosion in 
+355 
+the lab and rain erosion in real condition, given the differences in impact forces. The 
+356 
+(accelerated spray) erosion test in the lab is usually more severe than under normal rainfall 
+357 
+conditions (Beckett et al. 2020). 
+358 
+
+
+===== PAGE 16 =====
+
+16 
+ 
+This can theoretically imply that the CEBs stabilized by by-product binders (maximum depth 
+359 
+of erosion of 7 mm) would undergo a linear erosion rate less than 0.03 mm/year, if exposed to 
+360 
+the climatic conditions of Ouagadougou. It is noteworthy to mention that earth practically 
+361 
+undergoes a non-linear rate of erosion: it is high at the beginning and decrease over time (Bui 
+362 
+et al. 2009). Previous study reported an erosion rate of 0.1 mm/year for rammed earth walls 
+363 
+stabilized with 5 % hydraulic lime and exposed to real climatic conditions (average rainfall of 
+364 
+1000 mm/year) for 20 years in France (Bui et al. 2009). Moreover, the erosion rate was 
+365 
+0.25 mm/year, as deduced from Guettala et al. (2006).  
+366 
+Resistance to abrasion 
+367 
+The resistance to abrasion was assessed based on the evolution of the coefficient of abrasion, 
+368 
+increasing for high resistant CEBs. The average coefficient of abrasion increased in the range 
+369 
+of 1˗30 cm²/g for CEBs stabilized with 0-25 % CCR (Fig. 4a). The substitution of 20 % CCR 
+370 
+by RHA (20:0 to 12:8 % CCR:RHA) resulted in further increase of the coefficient of abrasion 
+371 
+in the range of 20˗70 cm²/g (Fig. 4b). The CEBs stabilized with CCR:RHA comparatively 
+372 
+reached the same average coefficient of abrasion as CEBs stabilized with 8 % cement 
+373 
+(70 cm²/g). The CEBs stabilized with CCR:RHA were very hard that they barely lost either 
+374 
+1 or 2 g during the abrasion test, which resulted in very high fluctuations of the average values 
+375 
+and standard deviations of the coefficient of abrasion (Fig. 4b). However, the coefficient of 
+376 
+abrasion for CEBs stabilized with by-product binders is far higher than 7 cm²/g required for 
+377 
+CEBs for application in facing wall masonry of three-storey buildings (CDI&CRATerre 1998). 
+378 
+For CEBs steam-cured for 24 hours, the coefficient of abrasion also increased (6-10 cm²/g) with 
+379 
+lime content (6-10 %) and reached the maximum value (23 cm²/g) with lime:natural pozzolan 
+380 
+(7:3 %) (Izemmouren et al. 2015). This highlights that coupling the lime-rich stabilizer (CCR) 
+381 
+with pozzolan (RHA) for the stabilization of CEBs yields better resistance to abrasion than lime 
+382 
+alone.  
+383 
+
+
+===== PAGE 17 =====
+
+17 
+ 
+Table 2 additionally presents the evolution of the average percentage weight loss by abrasion, 
+384 
+before W-D. The weight loss ranged in 2.43-0.06 % and 0.08-0.02 %, respectively, for CEBs 
+385 
+stabilized with CCR and CCR:RHA. The weight loss was far below the recommended value of 
+386 
+10 %, according to CRATerre  (Ngowi 1997). Table 2 also details the average values of the 
+387 
+coefficients of abrasion and weight loss, before wetting-drying (W-D), along with the 
+388 
+coefficients of variations (CV). It shows that the CV for the coefficient of abrasion is equal or 
+389 
+less than 27 for CCR stabilized CEBs, while it is as high as 71 or 47 for CEBs stabilized with 
+390 
+16:4 or 12:8 % CCR:RHA. This indicates that the coefficient of abrasion of CEBs stabilized 
+391 
+CCR:RHA has higher variability compared to CEBs stabilized with CCR alone. This variability 
+392 
+can again be related to the surface defects (weak spots: Fig. 3b-c) observed on the CEBs 
+393 
+containing the CCR:RHA.   
+394 
+Resistance to wetting-drying cycles 
+395 
+According to the standard ASTM D559-03 revised in D559 / D559M-15 (ASTM 2015), the 
+396 
+resistance to wetting-drying (W-D) test assesses the weight loss of cement stabilized soil 
+397 
+subjected to 12 cycles of W-D. In the present study, the test was adapted because the CEBs 
+398 
+stabilized with CCR (5-20 %) did not degrade or loss weight over the W-D cycles. Similar 
+399 
+observation was reported for earth blocks stabilized with GGBS activated by cement or lime 
+400 
+(Seco et al. 2017). The W-D test was rather combined with the abrasion and mechanical tests 
+401 
+for CCR stabilized CEBs. It was not tested for unstabilized (0 % CCR) CEBs, which 
+402 
+immediately degraded in water (Fig. 3a). 
+403 
+Table 2 shows that the coefficient of abrasion and compressive strength of CEBs increased with 
+404 
+CCR content, even after W-D cycles. The coefficient of abrasion and compressive strength 
+405 
+respectively evolved in the ranges of 14-52 cm²/g and 5.9˗6.8 MPa after W-D, compared to 
+406 
+12˗27 cm²/g and 4.3-4.6 MPa reached before W-D, for CEB stabilized with 10-25 % CCR 
+407 
+(Table 2). This is equivalent to the compressive strength of 0.4-0.5 times higher after 12 cycles 
+408 
+
+
+===== PAGE 18 =====
+
+18 
+ 
+of W-D than before W-D. It is indeed accompanied by the decrease of the weight loss on 
+409 
+abrasion after W-D (0.08-0.03 %) for CEBs stabilized with ≥10 % CCR, which is smaller than 
+410 
+the weight loss before W-D (0.12-0.06 %) (Table 2). By contrast, the value of the coefficient 
+411 
+of abrasion and compressive strength after W-D was smaller or comparable to the value before 
+412 
+W-D for CEBs stabilized with 5 % CCR. This suggests that the CEBs should be stabilized with 
+413 
+at least 10 % CCR for keeping the long term performances. 
+414 
+The increase of the coefficient of abrasion and compressive strength is explained by further 
+415 
+hygro-thermo-activation of the pozzolanic reaction between the clay earthen material and the 
+416 
+excess CCR (≥10 %) during the W-D cycles. In fact, above 10 %, the CCR could not effectively 
+417 
+react during the curing at ambient temperature (30±5 °C), which resulted in asymptotic 
+418 
+evolution of the compressive strength of CCR stabilized CEBs before W-D cycles (Table 2). 
+419 
+However, the W-D cycles created the favorable conditions of temperature (up to 70 °C) and 
+420 
+humidity (up to 100 %) for further pozzolanic reaction to take place. The same phenomenon 
+421 
+took place by increasing the curing temperature (40 °C), which resulted in continuous increase 
+422 
+of the compressive strength, up to 20 % CCR (Nshimiyimana et al. 2020c). 
+423 
+This reveals that the stabilization of CEBs with CCR (lime-rich stabilizer) is beneficial and 
+424 
+further improves the performances with W-D cycles, which is not the case with cement (CEM). 
+425 
+In fact, Arrigoni et al. (2017b) showed that the compressive strength of earthen material 
+426 
+stabilized with CEM and FA improved by 0.4 times after W-D curing compared to standard 
+427 
+curing, while that of the earthen material stabilized with CCR and FA improved by 1.6 times. 
+428 
+This was related to better consumption of the calcium hydroxide from the CCR through the 
+429 
+pozzolanic reaction with the earth and FA over the W-D cycles. Additionally, the compressive 
+430 
+strength decreased by 0.3 times for CEBs stabilized with 4 % cement (Hakimi et al. 1998) and 
+431 
+0.5 times with 8 % cement (Yogananth et al. 2019) respectively after 6 and 12 cycles of W-D, 
+432 
+with respect to the initial strength. 
+433 
+
+
+===== PAGE 19 =====
+
+19 
+ 
+Durability indicators versus compressive strength 
+434 
+The compressive strength is considered as an indirect indicator of the quality and durability of 
+435 
+CEBs (Abhilash et al. 2020; AFNor 2001). Its improvement can be related to the ability of 
+436 
+CEBs to resist to attacks of different environmental agents such as water ingress and erosion, 
+437 
+abrasion, etc. Indeed, the standard ARS 675:1996 (CDI&CRATerre 1998) recommends that “if 
+438 
+the test to establish the water absorption or abrasion are not feasible […], this deficiency can 
+439 
+be compensated by increasing the requirements for the dry and/or wet compressive strength by 
+440 
+one category.” The three structural categories of CEBs are defined by standard ARS 671:1996 
+441 
+(CDI&CRATerre 1998), with respect to the dry compressive strength  ≥2, ≥4, or ≥6 MPa. 
+442 
+In the present study, the evolution of the compressive strength (Rc in MPa) was tentatively 
+443 
+correlated with the coefficient of abrasion (Ca in cm²/g) of CEB stabilized with CCR 
+444 
+(before W-D) and CCR:RHA (Fig. 5a). It reached the best fit with an equation Rc=1.6xCa0.35, 
+445 
+R²=0.9. This suggests that the compressive strength can be predicted from the test of abrasion, 
+446 
+and vice versa. This can be useful as a non-destructive abrasion test of CEBs for preliminary 
+447 
+design or quality control in the lab or onsite, contrary to the destructive compressive test which 
+448 
+requires high end equipment. Fig. 5b shows a good agreement between the predicted and 
+449 
+measured compressive strength, mainly below the compressive strength of 4 MPa. However, 
+450 
+this correlation still needs validation for other type of materials, and also stabilized with 
+451 
+classical binders.   
+452 
+The durability of earthen materials is also commonly related to the compressive strength, 
+453 
+mainly the ratio between the wet (Rcwet) and dry (Rcdry) strength. This ratio, defined as the 
+454 
+coefficient of water strength (CWS=Rcwet/Rcdry), evolved in the range of 0.4-0.6 for CEBs 
+455 
+stabilized with CCR and CCR:RHA (Nshimiyimana et al. 2020a). The CWS of CEBs should 
+456 
+reach at least 0.5 to be considered durable, according to standards XP P13-901 (AFNor 2001) 
+457 
+
+
+===== PAGE 20 =====
+
+20 
+ 
+and ARS 675:1996 (CDI&CRATerre 1998). Although, CWS in the range of 0.3-0.7 are still 
+458 
+acceptable (Bogas et al. 2018;  Morel et al. 2013). 
+459 
+Moreover, the ratio between the compressive strength (Rcwet-dry) of CEBs after soaking in water 
+460 
+(2 h) and drying until constant mass (40 °C) and the initial compressive strength (Rcdry) of dry 
+461 
+CEBs, after curing, allowed to define the coefficient of strength reversibility 
+462 
+(CSR=Rcwet-dry/Rcdry). The CSR of CEBs stabilized with 5-25 % CCR ranged in 0.7-0.9 
+463 
+compared to 0.8 for CEBs stabilized with 8 % cement (Fig. 5c). This suggests that the stabilized 
+464 
+CEBs would not only resist the degradation and erosion in contact with water, but also almost 
+465 
+fully recover the strength after drying.   
+466 
+While the stabilization of CEBs with by-product binders was detrimental on the absorption 
+467 
+behaviors, it was beneficial on the resistance to erodability, abrasion and wetting-drying cycles. 
+468 
+In fact, Bogas et al. (2018) previously reported that binders have more direct effect on the 
+469 
+mechanical and durability properties than on total porosity, thus the water accessible porosity. 
+470 
+This confirms that the most challenging indicator of the durability of CEBs is still the resistance 
+471 
+to water absorption which is also a factor of the deterioration of mechanical performances in 
+472 
+wet conditions. Nevertheless, the reversibility of the compressive strength and its improvement 
+473 
+over the W-D cycles are promising indicators for the long term performances of CEBs stabilized 
+474 
+with by-product binders after exposure to environmental conditions.   
+475 
+Conclusions 
+476 
+This study investigated the durability of CEBs stabilized with by-product binders, mainly 
+477 
+referring to the applications in the Sahelian climatic context of Burkina Faso. Different 
+478 
+independent investigations showed that by-product binders are indeed valuable for the 
+479 
+stabilization and improvement of various durability indicators of CEBs. The durability 
+480 
+
+
+===== PAGE 21 =====
+
+21 
+ 
+indicators of CEBs reached optimum values with 10 to 15 % CCR or 18:2 to 16:4 % CCR:RHA, 
+481 
+such that: 
+482 
+The coefficient of capillary absorption was far below the recommended limit of 
+483 
+20 g/cm².min1/2 for very low capillary CEBs. It reached the minimum values of 9.9 g/cm².min1/2 
+484 
+with 15 % CCR and 10.4 g/cm².min1/2 with 16:4 % CCR:RHA. Nevertheless, the water 
+485 
+absorption increased (18-24 %) and exceeded the limits (15-20 %) recommended for usage in 
+486 
+wet environment. This affected the water accessible porosity which reached ratios of 0.96 with 
+487 
+respect to the total porosity. The WAP should ideally decrease for the improvement of the 
+488 
+durability. This would results in the decrease of capillary and total water absorption. 
+489 
+The resistance to erodability of stabilized CEBs was improved. Stabilized CEBs remained intact 
+490 
+when tested at standardized water pressure (50 kPa), while the unstabilized CEBs fully 
+491 
+degraded. At higher pressure (500 kPa), the stabilized CEBs underwent light erosion. The depth 
+492 
+of erosion and percentage of eroded area, respectively, reached 4.8 mm/h and 3 % with 15 % 
+493 
+CCR. They respectively reached 5.8 mm/h and 9 % with 18:2 % CCR:RHA. The lifespan 
+494 
+estimated in the Sahelian climatic context exceeds 270 years, equivalent to the linear rate of 
+495 
+erosion <0.03 mm/year. 
+496 
+The coefficient of abrasion of stabilized CEBs was far higher than 7 cm²/g required for 
+497 
+application in facing wall masonry; it reached 16 cm²/g with 15 % CCR and 46 cm²/g with 
+498 
+16:4 % CCR:RHA. The stabilization with the 10-25 % CCR further increased the resistance to 
+499 
+abrasion and compressive strength of CEBs after wetting-drying cycles. It suggested that the 
+500 
+stabilization with at least 10 % CCR is beneficial for the long term durability of CEBs.  
+501 
+The correlation (Rc=1.6xCa0.35) was established between the compressive strength (Rc in MPa) 
+502 
+and coefficient of abrasion (Ca in cm²/g). This can allows the production and construction 
+503 
+engineers to predict the compressive strength from the test of abrasion and vice versa. It can be 
+504 
+
+
+===== PAGE 22 =====
+
+22 
+ 
+useful as a non-destructive test of CEBs for preliminary design or quality control in the lab or 
+505 
+onsite. The correlation established in the present study was established for one type of 
+506 
+(kaolinite-rich) earthen materials and stabilized with by-product binders (CCR and RHA).  
+507 
+Therefore, it needs validation for other type of materials, and/or stabilized with common binders 
+508 
+(cement, lime).   
+509 
+While the stabilized CEBs would not meet the requirement of water absorption for application 
+510 
+in wet environment, their performances vis-a-vis other durability indicators are excellent. This 
+511 
+clearly confirms that the most challenging indicator of the durability/stability of stabilized 
+512 
+CEBs is the water absorption which also remarkably deteriorates the mechanical resistance in 
+513 
+wet conditions. Therefore, it is recommendable to take precautions during the usage of 
+514 
+stabilized CEBs, minimizing direct exposure to water by applying either surface coating or 
+515 
+architectural protections. 
+516 
+Data Availability Statement 
+517 
+All data, models, and code generated or used during the study appear in the submitted article. 
+518 
+Acknowledgement 
+519 
+The authors acknowledge the financial support provided by the “Académie  de  Recherche  et  
+520 
+de  l’Enseignement  Supérieur”  of  the  “Fédération Wallonie˗Bruxelles  (Belgium)  -  
+521 
+Commission  de  la  Coopération  au  Développement” (ARES-CCD) as part of an international 
+522 
+research and development project “Amélioration de la qualité de l’habitat en terre crue au 
+523 
+Burkina Faso-Improving the quality of earthen housing in Burkina Faso PRD2016-2021”.  
+524 
+Burkina Industrial Gas (BIG) generously provided the CCR. The first author also acknowledges 
+525 
+the comments and suggestions of the reviewers, which greatly improved the quality of the 
+526 
+original manuscript.  
+527 
+
+
+===== PAGE 23 =====
+
+23 
+ 
+References  
+528 
+Abhilash, H. N., Walker, P., Reddy, B. V. V., Heath, A., & Maskell, D. 2020. "Compressive Strength 
+529 
+of Novel Alkali-Activated Stabilized Earth Materials Incorporating Solid Wastes". J. Mater. Civ. 
+530 
+Eng. 32(2015): 1-8. https://doi.org/10.1061/(ASCE)MT.1943-5533.0003188 
+531 
+AFNor. 2001. XP P13-901: Blocs de terre comprimée pour murs et cloisons, Définitions-Spécifications-
+532 
+Méthodes d’essais-Conditions de réception. Saint-Denis La Plaine Cedex. 
+533 
+AFNor. 2010. NF P 18-459: Essai pour béton durci - Essai de porosité et de masse volumique. 
+534 
+Saint-Denis La Plaine Cedex. 
+535 
+AFNor. 2017. PR XP P13-901: Blocs de terre comprimée pour murs et cloisons - Définitions - 
+536 
+Spécifications - Méthodes d’essai - Conditions de réception. Saint-Denis La Plaine Cedex. 
+537 
+Al-Fakih, A., Mohammed, B. S., Liew, M. S., & Nikbakht, E. 2019. "Incorporation of waste materials 
+538 
+in the manufacture of masonry bricks: An update review." J. Build. Eng. 21: 37–54. 
+539 
+https://doi.org/10.1016/j.jobe.2018.09.023 
+540 
+Arrigoni, A., Beckett, C., Ciancio, D., & Dotelli, G. 2017a. "Life cycle analysis of environmental impact 
+541 
+vs. durability of stabilised rammed earth." Constr. Build. Mater. 142: 128–136. 
+542 
+https://doi.org/10.1016/j.conbuildmat.2017.03.066 
+543 
+Arrigoni, A., Pelosato, R., Dotelli, G., Beckett, C. T. S., & Ciancio, D. 2017b. "Weathering’s beneficial 
+544 
+effect on waste-stabilised rammed earth: a chemical and microstructural investigation." Constr. 
+545 
+Build. Mater. 140: 157–166. https://doi.org/10.1016/j.conbuildmat.2017.02.009 
+546 
+Azeko, S. T., Arthur, E. K., Danyuo, Y., and Babagana, M. 2018. “Mechanical and physical properties 
+547 
+of laterite bricks reinforced with reprocessed polyethylene waste for building applications.” J. 
+548 
+Mater. Civ. Eng. 30(4): 04018039. 10.1061/(ASCE)MT.1943-5533.0002205 
+549 
+ASTM. 2015. D559/D559M-15: Standard test methods for wetting and drying compacted soil-cement 
+550 
+mixtures. ASTM Interantional, West Conshohocken, PA. 
+551 
+Beckett, C. T. S., Jaquin, P. A., & Morel, J. 2020. "Weathering the storm : A framework to assess the 
+552 
+resistance of earthen structures to water damage." Constr. Build. Mater. 242: 118098. 
+553 
+https://doi.org/10.1016/j.conbuildmat.2020.118098 
+554 
+Bogas, J. A., Silva, M., & Gomes, M. da G. 2018. Unstabilized and stabilized compressed earth blocks 
+555 
+
+
+===== PAGE 24 =====
+
+24 
+ 
+with partial incorporation of recycled aggregates of recycled aggregates. "Inter. J. Archit. Herit." 
+556 
+3058: 1-16. https://doi.org/10.1080/15583058.2018.1442891 
+557 
+Bui, Q.-B., Morel, J. C., Venkatarama-Reddy, B. V., & Ghayad, W. 2009. "Durability of rammed earth 
+558 
+walls exposed for 20 years to natural weathering." Build. Envir. 44: 912–919. 
+559 
+Cassagnabère, F., Lachemi, M., Mouret, M., & Escadeillas, G. 2011. "Caractérisation performantielle 
+560 
+d’un liant ternaire à base de ciment, laitier et métakaolin." Can. J. Civ. Eng. 38(8): 837–848. 
+561 
+https://doi.org/10.1139/l11-043 
+562 
+CDE, CRATerre-EAG, & ENTPE. 2000. Compressed earth blocks: testing procedures guide-
+563 
+Technology series N° 16. (S. Boubekeur, V. Rigassi, A. Mesbah, J. C. Morel, & H. Houben, Eds.). 
+564 
+Brussels-Belgium: CDE (ARSO). 
+565 
+CDI&CRATerre. 1998. Compressed Earth Blocks- Standards: Guide technologies series N° 11. (S. 
+566 
+Boubekeur, H. Houben, P. Doat, S. D’Ornano, A. Douline, P. Garnier, … V. Rigassi, Eds.). 
+567 
+Brussels. 
+568 
+Dahmen, A. J. 2015. "Who’s afraid of raw earth? Experimental wall in New England and the 
+569 
+environmental cost of stabilization." In Rammed Earth Construction - Proceedings of the 1st 
+570 
+International Conference on Rammed Earth Construction, ICREC 2015 (85–88). 
+571 
+Gomes, M. I., Gonçalves, T. D., and Faria, P. 2016. “Hydric behavior of earth materials and the effects 
+572 
+of their stabilization with cement or lime: Study on repair mortars for historical rammed earth 
+573 
+structures.” J. Mater. Civ. Eng. 28(7): 04016041. 10.1061/(ASCE)MT.1943-5533.0001536.  
+574 
+Guettala, A., Abibsi, A., & Houari, H. 2006. "Durability study of stabilized earth concrete under both 
+575 
+laboratory and climatic conditions exposure." Constr. Build. Mater. 20(3): 119–127. 
+576 
+https://doi.org/10.1016/j.conbuildmat.2005.02.001 
+577 
+Hakimi, A., Ouissi, H., Kortbi, M. El, & Yamani, N. 1998. "Un test d’humidification-séchage pour les 
+578 
+blocs de terre comprimée et stabilisée au ciment." Mater. Struc. 31: 20–26. 
+579 
+Hughes, E., Valdes-Vasquez, R., & Elliott, J. W. 2017. "Perceptions of compressed earth block among 
+580 
+residential contractors in north carolina: an exploratory evaluation." J. Green Build. 12(4): 89–
+581 
+107. https://doi.org/10.3992/1943-4618.12.4.89 
+582 
+Izemmouren, O., Guettala, A., & Guettala, S. 2015. "Mechanical Properties and Durability of Lime and 
+583 
+
+
+===== PAGE 25 =====
+
+25 
+ 
+Natural Pozzolana Stabilized Steam-Cured Compressed Earth Block Bricks." Geotech. Geol. Eng. 
+584 
+33(5): 1321–1333. https://doi.org/10.1007/s10706-015-9904-6 
+585 
+Latifi, N., Vahedifard, F., Ghazanfari, E., and Rashid, A. S. A. 2018. “Sustainable usage of calcium 
+586 
+carbide 
+residue 
+for 
+stabilization 
+of 
+clays.” 
+J. 
+Mater. 
+Civ. 
+Eng. 
+30(6): 
+1–10. 
+587 
+10.1061/(ASCE)MT.1943-5533.0002313 
+588 
+Mango-Itulamya, L. A., Collin, F., & Fagel, N. 2020. "Improvement of lifetime of compressed earth 
+589 
+blocks by adding limestone, sandstone and porphyry aggregates." J. Build. Eng. 29. 
+590 
+https://doi.org/10.1016/j.jobe.2019.101155 
+591 
+Masuka, S., Gwenzi, W., & Rukuni, T. 2018. "Development, engineering properties and potential 
+592 
+applications of unfired earth bricks reinforced by coal fly ash, lime and wood aggregates." J. Build. 
+593 
+Eng. 18: 312–320. https://doi.org/10.1016/j.jobe.2018.03.010 
+594 
+Medvey, B., & Dobszay, G. 2020. "Durability of Stabilized Earthen Constructions: A Review." Geotech. 
+595 
+and Geol. Eng. 6. https://doi.org/10.1007/s10706-020-01208-6 
+596 
+Mehta, P. K. 1978. US4105459 A: Siliceous ashes and hydraulic cements prepared therefrom, US Patent, 
+597 
+USA. 
+598 
+Morel, J. C., Aubert, J. E., Millogo, Y., Hammard, E., & Fabbri, A. 2013. Some observations about the 
+599 
+paper “Earth construction: Lessons from the past for future eco-efficient construction” by F. 
+600 
+Pacheco-Torgal 
+and 
+S. 
+Jalali. 
+Constr. 
+Build. 
+Mater. 
+44: 
+419–421. 
+601 
+https://doi.org/10.1016/j.conbuildmat.2013.02.054 
+602 
+Morel, J. C., & Charef, R. 2019. "What are the barriers affecting the use of earth as a modern 
+603 
+construction material in the context of circular economy?" In IOP Conference Series: Earth 
+604 
+Environ. Sci. 225. https://doi.org/10.1088/1755-1315/225/1/012053 
+605 
+Moussa, S. H., Nshimiyimana, P., Hema, C., Zoungrana, O., Messan, A., & Courard, L. 2019. 
+606 
+"Comparative Study of Thermal Comfort Induced from Masonry Made of Stabilized Compressed 
+607 
+Earth Block vs Conventional Cementitious Material." J. Miner. Mater. Charact. Eng. 07(06): 
+608 
+385-403. https://doi.org/https://doi.org/10.4236/jmmce.2019.76026 
+609 
+Ngowi, A. B. 1997. "Improving the traditional earth construc- tion: A case study of Botswana." Constr. 
+610 
+Build. Mater. 11(1): 1–7. https://doi.org/10.1016/S0950-0618(97)00006-8. 
+611 
+
+
+===== PAGE 26 =====
+
+26 
+ 
+Nshimiyimana P., Messan A., Courard L. 2020a. "Physico-mechanical and hygrothermal properties of 
+612 
+compressed earth blocks stabilized with industrial and agro by-products: Calcium carbide residue 
+613 
+and rice husk ash". Mat. 13(17): 3769. https://doi.org/10.3390/ma13173769 
+614 
+Nshimiyimana, P., Fagel, N., Messan, A., Wetshondo, D. O., & Courard, L. 2020b. "Physico-chemical 
+615 
+and mineralogical characterization of clay materials suitable for production of stabilized 
+616 
+compressed 
+earth 
+blocks." 
+Constr. 
+Build. 
+Mater. 
+241: 
+1–13. 
+617 
+https://doi.org/10.1016/j.conbuildmat.2020.118097 
+618 
+Nshimiyimana, P., Messan, A., Zhao, Z., & Courard, L. 2019. "Chemico-microstructural changes in 
+619 
+earthen building materials containing calcium carbide residue and rice husk ash." Constr. Build. 
+620 
+Mater. 216: 622–631. https://doi.org/10.1016/j.conbuildmat.2019.05.037 
+621 
+Nshimiyimana, P., Miraucourt, D., Messan, A., & Courard, L. 2018. "Calcium Carbide Residue and 
+622 
+Rice Husk Ash for improving the Compressive Strength of Compressed Earth Blocks." MRS Adv. 
+623 
+3(34-35): 2009–2014. https://doi.org/10.1557/adv.2018.147 
+624 
+Nshimiyimana, P., Moussa, S. H., Messan, A., & Courard, L. 2020c. "Effect of production and curing 
+625 
+conditions on the performance of stabilized compressed earth blocks: Kaolinite vs quartz-rich 
+626 
+earthen material." MRS Adv. 5(25): 1277-1283. https://doi.org/10.1557/adv.2020.155 
+627 
+NZS. (1998). NZS 4298: Materials and workmanship for earth buildings. Wellington, New Zeland 
+628 
+Obonyo, E., Exelbirt, J., & Baskaran, M. 2010. "Durability of compressed earth bricks: Assessing 
+629 
+erosion resistance using the modified spray testing." Sustain. 2(12): 3639–3649. 
+630 
+https://doi.org/10.3390/su2123639 
+631 
+Seco, A., Urmeneta, P., Prieto, E., Marcelino, S., García, B., & Miqueleiz, L. 2017. "Estimated and real 
+632 
+durability of unfired clay bricks: Determining factors and representativeness of the laboratory 
+633 
+tests." Constr. Build. Mater. 131: 600–605. https://doi.org/10.1016/j.conbuildmat.2016.11.107 
+634 
+Sore, S. O. 2017. Synthèse et caractérisation des liants géopolymères à base des matériaux locaux du 
+635 
+Burkina Faso en vue d’une stabilisation des Briques en Terre Comprimées (BTC)-"Synthesis and 
+636 
+characterization of geopolymer binders based on local materials in Burkina Faso for the 
+637 
+stabilization of compressed earth blocks (CEBs)". Ph.D. thesis of the Institute 2iE, Ouagadougou, 
+638 
+Burkina Faso. 
+639 
+
+
+===== PAGE 27 =====
+
+27 
+ 
+Sore, S. O., Messan, A., Prud’homme, E., Escadeillas, G., & Tsobnang, F. 2018. "Stabilization of 
+640 
+compressed earth blocks (CEBs) by geopolymer binder based on local materials from Burkina 
+641 
+Faso." Constr. Build. Mater. 165: 333–345. https://doi.org/10.1016/j.conbuildmat.2018.01.051 
+642 
+Yogananth, Y., Thanushan, K., Sangeeth, P., Coonghe, J. G., & Sathiparan, N. 2019. "Comparison of 
+643 
+strength and durability properties between earth-cement blocks and cement–sand blocks." Innov. 
+644 
+Infrastr. Solut. 4(1): 1–9. https://doi.org/10.1007/s41062-019-0238-8 
+645 
+ 
+646 

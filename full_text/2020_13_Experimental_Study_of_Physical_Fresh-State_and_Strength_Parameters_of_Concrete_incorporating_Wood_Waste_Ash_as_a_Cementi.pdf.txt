@@ -1,0 +1,735 @@
+
+===== PAGE 1 =====
+
+ 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276  
+                           267 
+ 
+ 
+ 
+ 
+* Corresponding author. Tel.: +92345 2741790  
+E-mail address: saleemraza43@yahoo.com 
+ 
+e-ISSN: 2170-127X, 
+ 
+Research Paper 
+Experimental Study of Physical, Fresh-State and Strength Parameters of 
+Concrete incorporating Wood Waste Ash as a Cementitious Material 
+Muhammad Saleem Raza*, Kunal Rai, Danish Kumar, Mutahar Ali 
+Department of Civil Engineering, Mehran University of Engineering and Technology, Jamshoro-76062, Sindh, Pakistan 
+ 
+A R T I C L E  I N F O 
+Article history : 
+Received :  6 April 2020 
+Revised : 30 May 2020 
+Accepted : 3 June 2020 
+ 
+Keywords: 
+Wood Waste 
+Sustainable Environment 
+Compressive Strength 
+Tensile Strength 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+A B S T R A C T 
+The increasing demand and production of cement have caused a huge environmental 
+burden and thus researchers are involved in discovering waste materials having 
+cementitious properties to reduce the production and usage of cement in order to 
+contribute towards the development of a sustainable environment. The present study, 
+therefore, sought to quantify the influence of wood waste ash (WWA) as a cementitious 
+resource on the fresh-state, physical, and strength parameters of concrete. The water 
+absorption, workability, density, compression strength,  tensile strength, and flexural 
+strength of concrete was checked at various replacement levels i.e. 0%, 5%, 10%, 15%, 
+and 20% by weight fraction of cement. The density and water absorption were checked  
+on the 28th day of curing while the strength parameters were tested at 7, 28, 56, and 90 
+days of curing period. The water absorption, density, and workability of concrete reduced 
+with an increase in wood waste ash content while the strength values were increased up 
+to 10% replacement level. Hence, this study suggests that 10% WWA can be used instead 
+of cement for concrete structures. 
+1 Introduction 
+Concrete comprises a binder (cement or lime), aggregates (coarse and fine), and water. For many years, it is being utilized 
+in construction as a mandatory material due to its durability, versatility, and availability [1]. Apart from these merits, concrete 
+also  possesses  some negative properties such as less resistance to tensile forces and quasi-brittle failure, etc. [2]. These 
+deficiencies quest for an optimum solution and hence, steel is embedded in concrete to improve its tensile strength 
+conventionally up to an extent [2]. Moreover, the cement, which is used as a binder, adversely affects the environment. The 
+production of cement causes a burden on the environment due to its carbon footprint. It has been forecasted that half of the 
+overall carbon emissions will be resulting from the manufacturing of cement in the year 2020 [3]. Globally, a huge amount 
+of waste is ejected by different industries which quest for an efficient framework of debris management in cities. Recycling 
+of such waste materials into novel building materials can be a feasible solution to address the problems of pollution and the 
+
+
+----- TABLE p1#1 -----
+
+ |  |  |  | JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276 |  |  | 267 | 
+ |  |  |  |  |  |  |  | 
+
+===== PAGE 2 =====
+
+268 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276 
+ 
+high cost of conventional building materials [4]. Hence, many researchers studied the feasibility of replacing cement by some 
+recyclable, eco-friendly and efficient construction materials [5] such as sugarcane bagasse ash, palm oil fuel ash, rice husk 
+ash, sewage sludge ash, furnace slag, coal ash, silica fume, waste glass, etc. [6]. In a study intended to inspect the mechanical 
+characteristics of concrete by replacing cement with 10% rice husk ash keeping water-binder ratio at 0.45, 0.50 and 0.60. The 
+results revealed that the compression and tension resistance forces increased by 14.51% and 10.71%, respectively, at 0.45 
+w/b ratio with a curing time of 56 days [7]. The tensile and compressive strength of concrete mixes with Lakhra Fly Ash used 
+as a cement replacement material increased by 16% and 15% respectively at 25% replacement level [1]. An experimental 
+study conducted on traditional concrete by replacing cement with eggshell powder ash (ESPA) at 5%, 10%, and 15% by 
+weight of cement concluded that 10% replacement level is optimum and yields enhanced strength. The slump value decreased 
+consistently with the addition of eggshell powder ash in concrete. This indicates that there occurs a reduction in the 
+workability of concrete by the inclusion of ESPA in concrete [8]. Another research study conducted on the use of sugarcane 
+bagasse ash (SBA) as a cementitious material concluded that 5% SBA in the concrete matrix increased its compressive 
+strength up to 12% [9]. In another experimental program, the tile powder was incorporated at 0%, 10%, 20%, 30%, and 40% 
+levels of replacement by weight of binder at 0.5 water-cement ratios. The results depicted that at 10% replacement level, the 
+compression and tension resistance forces of concrete increased by 7.50% and 10.20% which is quite acceptable [10]. 
+One such industrial waste product that can be utilized as a pozzolanic material is wood waste which is abundant and 
+economical [11]. An enormous amount of wood waste is generated by cutting, milling, and drilling of wood. This waste wood 
+is fine in shape and texture and hence contains some pozzolanic and cementitious properties [12]. About 6-10% of ash is 
+obtained from the burning of wood waste [13]. This integration of waste wood ash in cement can have an established 
+significance in many ways as it aims to boost the strength of concrete, reduce the environmental burden, help in efficient 
+waste management and economical construction. Authors in [14] reported that higher magnitudes of wood waste ash result 
+in a reduction of the strength of concrete. Marthong studied the behaviour of concrete blended with woody ash for grade 33, 
+grade 43 and grade 53 cements and found that the inclusion of WWA results in low workability and compression resistance 
+of concrete [12]. The concrete units produced with the inclusion of WWA are lighter in weight and can withstand high 
+temperatures as reported by [15]. Moreover, concrete blended with WWA can resist freezing and thawing actions [16] but 
+will be less workable as argued by [4] and [17]. The WWA content also reduces the bulk density of concrete structural 
+elements because of its lower specific gravity than that of OPC [18]. Hence, it can be concluded that the wood waste ash can 
+be utilized as a cementitious resource but in light-weight concrete structures. This study, therefore, aims to find out the 
+optimum percentage of WWA that can be used for the preparation of structural grade concrete. Further objectives include 
+evaluation of fresh-state, physical and hardened properties viz. water absorption, density, workability and strength values of 
+concrete. 
+2 Materials, Mix Design and Methods 
+2.1 Materials 
+The materials utilized in this experiment were Ordinary Portland Cement (OPC), fine and coarse aggregates, water and 
+wood waste ash. 
+2.1.1 
+Wood Waste Ash (WWA) 
+ 
+The timber waste is the waste of cutting and crushing of wood and it carries pozzolanic properties. The timber waste 
+content was burned at 500-degree Celsius to obtain its ash having specific gravity 2.29 and a bulk density of 765 kg/m3. The 
+chemical properties of WWA and OPC utilized in this study are as under in Table. 1 
+Table 1- Chemical Composition of Wood Waste Ash and OPC 
+Oxide 
+SiO2 
+CaO 
+MgO 
+Na2O 
+Al2O3 
+Fe2O3 
+SO3 
+K2O 
+LOI 
+WWA  
+65.77% 
+2.07% 
+4.10% 
+0.07% 
+5.26% 
+9.60% 
+1.08% 
+2.47% 
+4.33% 
+OPC  
+20.67% 
+59.63% 
+3.66% 
+0.12% 
+6.03% 
+3.2% 
+2.49% 
+0.67% 
+8.44% 
+ 
+
+
+===== PAGE 3 =====
+
+ 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276  
+269 
+ 
+2.1.2 
+Water 
+ 
+Drinkable water with pH value of 7.6, complying with the prescriptions set in [19] and free from all impurities, was 
+used in this research. 
+2.1.3 
+Cement 
+ 
+In concrete, cement is used as a binding material that sets and solidifies other materials to bind them together. The 
+Ordinary Portland cement (OPC) of Grade 43 conforming to prescriptions set in [20] was used for the conduct of this research.  
+Further physical and fundamental properties of cement are tabulated in Table. 2. 
+Table 2- Physical and Mechanical Properties of Cement 
+Characteristics 
+Results 
+Limits [20] 
+Manufacturer 
+Lucky Cement Factory, Karachi. 
+- 
+Normal Consistency 
+32% 
+- 
+Initial Setting Time 
+50 minutes 
+≥45 minutes 
+Final Setting Time 
+215 minutes 
+≤375 minutes 
+Fineness 
+7.2 
+- 
+Compressive Strength 
+ 
+ 
+2 days 
+28.62 MPa 
+- 
+7 days 
+40.89 MPa 
+- 
+28 days 
+49.63 MPa 
+≥19MPa 
+ 
+- = Not Available/Not Applicable 
+2.1.4 
+Fine Aggregates 
+ 
+The natural sand or crushed stone passing through 4.75mm sieve is considered as fine aggregate and is used to fill 
+the voids to ensure adequate bonding of concrete ingredients. The fine aggregates should be subjected to sieve analysis before 
+utilization to ensure the complete filling of voids. Hence, it can be deduced that the strength of concrete grounds a lot on 
+quality and density of fine aggregates. For this experimental investigation, Zone-II fine aggregates, free from all impurities, 
+were obtained from Bolari, a renowned sand quarry of Sindh, Pakistan. The aggregates conformed to specifications set by 
+[21]. The physical attributes of aggregates are tabulated as under in Table. 3 while the gradation curve of fine aggregates is 
+shown in Figure. 1. 
+Table 3- Physical Properties of Fine Aggregates 
+Property 
+Value 
+Limits [21] 
+Fineness Modulus 
+2.76 
+2.3-3.1 
+Water Absorption 
+1.25% 
+0-4% 
+Specific Gravity 
+2.6 
+2.4-2.9 
+Density 
+1755 Kg/m3 
+- 
+Silt Quantity 
+4.39% 
+≤5% 
+ 
+-= Not Available/Not Applicable 
+ 
+
+
+===== PAGE 4 =====
+
+270 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276 
+ 
+ 
+Figure 1- Gradation Curve of Fine Aggregates 
+2.1.5 
+Coarse Aggregates 
+ 
+Coarse Aggregates of size not more than 20mm obtained from Nooriabad were used. The aggregates conformed to 
+specifications set by [21]. The properties of coarse aggregates are listed in Table. 3 while the gradation of CA is expressed 
+in Figure. 2. 
+Table 3- Physical Properties of Coarse Aggregates 
+Property 
+Value 
+Limits [21] 
+Fineness Modulus (FM) 
+- 
+- 
+Water Absorption 
+2.7% 
+0-4% 
+Specific Gravity 
+2.69 
+2.4-2.9 
+Density (Kg/m3) 
+1359 
+1200-1750 
+-= Not Available/Not Applicable 
+ 
+Figure 2- Gradation Curve of Coarse Aggregates 
+99%
+61.47%
+38.62%
+26.74%
+15.91%
+3.18%
+1.22%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+4.75mm
+2.36mm
+1.18mm
+600µm
+300µm
+150µm
+Pan
+% Passing
+Sieve Size
+100%
+99.5%
+86%
+46%
+26.10%
+1.40%
+0.01%
+0%
+20%
+40%
+60%
+80%
+100%
+120%
+37.5mm
+22.5mm
+19.5mm
+12.5mm
+9.5mm
+4.75mm
+Pan
+% Passing
+Sieve Size
+
+
+===== PAGE 5 =====
+
+ 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276  
+271 
+ 
+2.2 Detailing of Concrete Mixes 
+2.2.1 
+Control Concrete Matrices 
+ 
+In this research, a mix design with targeted strength of 30 MPa at 28 curing days with w/b ratio of 0.56 was prepared, 
+conforming to specifications set in [19]. These mixtures consisted of 0% of WWA and were tested for benchmarking of 
+strength values of concrete. The mix design ratio of 1: 1.52: 2.63 was adopted.  
+2.2.2 
+Wood Waste Ash Concrete Mixes 
+ 
+Concrete Mixes were prepared containing 5%, 10%, 15% and 20% WWA instead of cement by weight. The mixes 
+were kept under curing conditions for 7, 28, 56 and 90 days. 
+2.3 Specimens 
+ 
+In this study, 60 number of cubes of size (150x150x150mm) were cast for compressive strength test, 40 cylinders 
+of size (150x300mm) were cast for splitting tensile strength and 60 concrete beams of size (150x150x500mm) were cast for 
+flexural strength test with constant w/b ratio of 0.56. 
+2.3.1 
+Preparation of Specimens 
+ 
+The specimens were cast in well-lubricated cylinders, beams and cubes and were compacted, demolded and cured 
+for 7, 28, 56 and 90 days. This complete process was completed in compliance with the standards of [22].  
+2.3.2 
+Testing of Specimens 
+ 
+All specimens were subjected to tests conducted in order to investigate the physical, fresh-state, and strength 
+parameters of concrete. The workability or flowability of concrete mixes was recorded using a slump cone achieved in line 
+with specifications set in [23]. The values of density and water absorption of cubes were recorded in accordance with 
+protocols set in [24]. For the water absorption test, concrete specimens  were kept fully soaked in water for 24 hours at 25ºC 
+temperature. The concrete specimens  were then dried for 24 hours in an oven at a controlled temperature of 110ºC. During 
+this procedure, the increase occurred in the weights of blocks determined the value of water absorption [25]. The densities of 
+blocks were recorded after drying the blocks in an oven. The concrete blocks were weighed with electronic balance and the 
+dimensions were recorded using Vernier caliper. The oven-dry weight (kg) was divided by dry volume (m3) of blocks to 
+obtain the density values (kg/m3) [25]. Furthermore, Universal Testing Machine (UTM) was used to record compression 
+strength of concrete cubes as prescribed by [26], the flexural strength of beams as per [27] and [28] while the splitting indirect 
+tensile strength of concrete cylinders was recorded in accordance with the specifications set in [29]. The specimen subjected 
+to compression resistance test, tension strength test, and flexural strength test are shown as under in Figure. 3. 
+. 
+Figure 3- Specimen subjected to Compressive Strength Test, Flexural Strength Test and Tensile Strength Test 
+
+
+===== PAGE 6 =====
+
+272 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276 
+ 
+3 Results and Discussions 
+ 
+The present study sought to check the effect of wood waste ash on fresh-state, physical, and hardened properties of 
+concrete. The results obtained by performing various tests on WWA Concrete are explained as under: 
+3.1 Density and Water Absorption 
+Among physical properties, water absorption and density of concrete units are of high importance. The water absorption 
+of concrete mixes is the fundamental and important property which depicts the state of the pore size distribution of concrete 
+and is a measure of its durability [30]. The density of concrete is mainly dependent on its unit weight hence, both the terms 
+are often mixed and are used in the same meanings. Most of the standards set for concrete adopt 2400 kg/m3 as a value for 
+the density of concrete. Both the properties i.e. density and water absorption were checked at a curing period of 28 days. It 
+was observed in the results as presented below in Table. 4, that the density and water absorption values kept on decreasing 
+with the increase in WWA percentage. The results align with the findings of [15]. As per [31], the water absorption of 
+concrete less than 3% is regarded as good and 3% to 5% is considered as average. Hence, the water absorption of control 
+mixes concrete specimens, and specimens containing 5% wood waste ash can be labelled as average while that of concrete 
+specimens containing 10%, 15%, and 20% WWA can be termed as good.  
+Table 4- Physical Properties of WWA Concrete 
+S. No. 
+WWA (%) 
+Density (Kg/m3) 
+Variation (%) 
+Water Absorption (%) 
+Variation (%) 
+1. 
+0% 
+2379 
+- 
+3.61 
+- 
+2. 
+5% 
+2345 
+-1.43% 
+3.22 
+-10.80% 
+3. 
+10% 
+2308 
+-2.98% 
+2.79 
+-22.71% 
+4. 
+15% 
+2292 
+-3.65% 
+2.42 
+-32.96% 
+5. 
+20% 
+2261 
+-4.96% 
+1.98 
+-45.15% 
+3.2 Workability 
+Workability is the most significant fresh-state property of concrete. It determines the ease with which concrete flows and 
+can be used. The workability of concrete mixes was recorded with the help of slump cone and it was observed that with the 
+inclusion of WWA, the workability was reduced due to high water demand of WWA as quoted in the Table. 5. 
+Table 5- Slump Values (Workability in mm) of WWA Concrete 
+S. No. 
+WWA (%) 
+Slump Value (mm) 
+Variation (%) 
+1. 
+0% 
+73 
+- 
+2. 
+5% 
+66 
+-9.59% 
+3. 
+10% 
+63 
+-13.67% 
+4. 
+15% 
+15 
+-79.45% 
+5. 
+20% 
+02 
+-97.26% 
+3.3 Compressive Strength 
+The compressive strength of concrete is of extreme importance. The compressive strength trend is shown in Figure. 4. It 
+was noted that the use of WWA in concrete improved the compression strength up to 10% replacement level and then it 
+decreased gradually. The same value of compression strength i.e. 32.61 MPa was obtained for 5% and 10% replacement of 
+cement on the 28th day of curing and the compressive strength was recorded approximately 35 MPa for 90 days of curing. 
+
+
+===== PAGE 7 =====
+
+ 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276  
+273 
+ 
+Moreover, in comparison to control mix strength, the strength of concrete containing 15% and 20% WWA exhibited lesser 
+strength. 
+ 
+Figure 4- Compressive Strength of WWA Concrete 
+3.4 Tensile Strength 
+The tensile strength of concrete is considered very important as it is the property in which concrete lacks and numerous 
+endeavours are considered to overcome this drawback; steel reinforcement being the most adopted and conventional method. 
+The use of wood waste ash also increased the tensile strength of concrete up to 10% replacement level of cement but after 
+10% replacement, the tension strength reduced gradually. This is related with decrease in compressive strength due to increase 
+in surface area of filler material. The trend of tensile strength is presented in Figure. 5 as under: 
+ 
+Figure 5- Split Tensile Strength of WWA Concrete 
+3.5 Flexural Strength 
+Flexural strength determines the tension resistance capability of un-reinforced concrete beams [32]. The flexural strength 
+of WWA Concrete was recorded at 7, 28, 56, and 90 days of curing and it was observed that flexural strength values followed 
+23.54
+24.77
+25.01
+22.58
+21.09
+28.46
+32.61
+32.6
+24.43
+21.98
+29.27
+32.76
+33.05
+25.88
+23.34
+32.51
+34.74
+34.91
+28.26
+25.33
+0
+20
+40
+60
+80
+100
+120
+140
+0% WWA
+5% WWA
+10% WWA
+15% WWA
+20% WWA
+Compressive Strength (MPa)
+Mix Proportions
+7 days
+28 days
+56 days
+90 days
+2.88
+2.96
+2.98
+2.35
+2.29
+2.93
+3.52
+3.84
+2.67
+2.34
+3.11
+3.67
+4.02
+2.69
+2.48
+3.38
+3.8
+4.13
+2.92
+2.75
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0% WWA
+5% WWA
+10% WWA
+15% WWA
+20% WWA
+Tensile Strength (MPa)
+Mix Proportions
+7 days
+28 days
+56 days
+90 days
+
+
+===== PAGE 8 =====
+
+274 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276 
+ 
+the same curve as that of tensile strength. Figure. 6 shows that the flexural strength of 10% WWA concrete beams is greater 
+than that of control mix concrete beams and is within limits prescribed for structural grade concrete. The decrease in strength 
+after 10% replacement interval is justified as the excess silica worked as a filler rather than binder resulting gradual decrease 
+in strength of concrete. 
+ 
+Figure 6- Flexural Strength of WWA Concrete 
+4 Conclusions 
+The study focused on checking the effect of WWA as a pozzolanic ingredient on the engineering properties of 
+unreinforced concrete. The results reported that both the water absorption and density of concrete decreased with the increase 
+in wood waste ash content. This implies that WWA concrete is strong and light-weight concrete. The WWA content also 
+adversely affected the consistency and workability of concrete as with the increase of WWA content, the workability of 
+concrete kept on decreasing. The increase in water demand of cement matrix due to the higher water affinity of WWA  can 
+be held responsible for a decrease in the workability of concrete as argued by [25] and [33]. The compression, tension and 
+flexural strength of concrete increased by the addition of WWA content up to 5% and 10% weight fraction of cement. It can 
+thus be concluded that 10% of timber waste ash instead of cement is optimum as it not only gives the highest strength values 
+but also gives good workability test results. Such an improvement in strength values of concrete is because of pozzolanic and 
+cementitious characteristics of Silicon Dioxide (SiO2) present in wood waste ash. The reduction of strength values above 
+10% replacement level occurred because the excess silica worked as a filler material rather than a binding material resulting 
+in greater surface area of filler to be bonded by cement. 
+5 Future Directions 
+Although, the capability of timber waste in concrete is evident there is more need for in-depth study and analysis to 
+capture its complete structural response. This research aimed to quantify the effect of waste wood ash in normal strength 
+concrete but there remains a need for similar study for high-strength concrete. The recommended future research studies also 
+include a study of fire-resistant behavior, bending behavior, freezing and thawing resistance, cracking, stiffness, shrinkage, 
+strength-strain relationship, acid attack resistance, and bond characteristics, etc. of the WWA concrete. 
+REFERENCES 
+[1]-  M.A. Jatoi, G.S. Solangi, F.A. Shaikh, S. Khan, S. Ahmed, Effect of Lakhra Fly Ash as Partial Replacement of 
+Cement in Traditional Concrete. Mehran Univ. Res. J. Eng. Technol. 38(4) (2019) 1045–1056. 
+doi:10.22581/muet1982.1904.16. 
+[2]-  A.A. Okeola, S.O. Abuodha, J. Mwero, Experimental investigation of the physical and mechanical properties of 
+3.79
+4.38
+4.49
+3.68
+3.55
+3.96
+4.71
+4.97
+3.81
+3.57
+4.03
+5.08
+5.48
+4.01
+3.83
+4.12
+5.23
+5.51
+4.05
+3.84
+0
+5
+10
+15
+20
+25
+0% WWA
+5% WWA
+10% WWA
+15% WWA
+20% WWA
+Flexural Strength (MPa)
+Mix Proportions
+7 days
+28 days
+56 days
+90 days
+
+
+===== PAGE 9 =====
+
+ 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276  
+275 
+ 
+sisal fiber-reinforced concrete. Fibers 6(3) (2018) 1–16. doi:10.3390/fib6030053. 
+[3]-  A. Sebastian, A.S. Manapurath, D. Balachandran, D.M. Sebastian, D. Philip, Partial Replacement of Cement With 
+Wood Ash. Int. J. Sci. Technol. Eng. IJSTE 2(30) (2016) 666–670. 
+[4]-  A.A. Raheem, B.S. Olasunkanmi, C.S. Folorunso, Saw Dust Ash as Partial Replacement for Cement in Concrete. 
+Organ. Technol. Manag. Constr. An Int. J. 4(2) (2012) 474-480. doi:10.5592/otmcj.2012.2.3. 
+[5]-  P.S. Nimlyat, Y. Tok, Effect of Saw Dust ash (SDA) Pozzolana on the Performance of Blended Cement Paste 
+Concrete at High Temperatures. J. Civ. Environ. Res. 3(11) (2013) 22–29. 
+[6]-  J.M. Paris, J.G. Roessler, C.C. Ferraro, H.D. Deford, T.G. Townsend, A review of waste products utilized as 
+supplements to Portland cement in concrete. J. Clean. Prod. 121(2016) 1–18. doi:10.1016/j.jclepro.2016.02.013. 
+[7]-  N. Bheel, S.L. Meghwar, S.A. Abbasi, L.C. Marwari, J.A. Mugeri, R.A. Abbasi, Effect of Rice Husk Ash and Water-
+Cement Ratio on Strength of Concrete. Civ. Eng. J. 4 (10) (2018) 2373. doi:10.28991/cej-03091166. 
+[8]-  A.A. Jhatial, S. Sohu, M.J. Memon, N.-K. Bhatti, D. Memon, Eggshell powder as partial cement replacement and 
+its effect on the workability and compressive strength of concrete. Int. J. Adv. Appl. Sci. 6(9) (2019) 71–75. 
+doi:10.21833/ijaas.2019.09.011. 
+[9]-  S.A. Mangi, N. Jamaluddin, M.H.W. Ibrahim, A.H. Abdullah, A.S.M. Abdul Awal, S. Sohu, N. Ali, Utilization of 
+sugarcane bagasse ash in concrete as partial replacement of cement. IOP Conf. Ser. Mater. Sci. Eng. 271(1) (2017). 
+doi:10.1088/1757-899X/271/1/012001. 
+[10]-  N. Bheel, R.A. Abbasi, S. Sohu, S.A. Abbasi, A.W. Abro, Z.H. Shaikh, Effect of Tile Powder Used as a 
+Cementitious Material on the Mechanical Properties of Concrete. Eng. Technol. Appl. Sci. Res. 9(5) (2019) 4596–
+4599. 
+[11]-  M. Abdullahi, Characteristics of Wood ASH / OPC Concrete. Leonardo Electron. J. Pract. Technol. 8(2006) 9–16. 
+[12]-  C. Marthong, Sawdust Ash as partial replacement of Cement. Int. J. Eng. Res. Appl. 2(4) (2012) 1980–1985. 
+[13]-  S. Chowdhury, A. Maniar, O. M. Suganya, Strength development in concrete with wood ash blended cement and 
+use of soft computing models to predict strength parameters. J. Adv. Res. 6(6) (2014) 907–913.  
+doi:10.1016/j.jare.2014.08.006. 
+[14]-  F.F. Udoeyo, P.U. Dashibil, Sawdust ash as concrete material. J. Mater. Civ. Eng. 14(2) (2002) 173–176.  
+doi:10.1061/(ASCE)0899-1561(2002)14:2(173). 
+[15]-  R.P. Memon, L. Achekzai, A.R. Abdul, A.S. M. Abdul Awal, U. Memon, Performance of sawdust concrete at 
+elevated temperature. J. Teknol. 80(1) (2018) 165–171. doi:10.11113/jt.v80.9826. 
+[16]-  S. Chowdhury, M. Mishra, O. Suganya, The incorporation of wood waste ash as a partial cement replacement 
+material for making structural grade concrete: An overview. Ain Shams Eng. J. 6(2) (2015) 429–437, 
+doi:10.1016/j.asej.2014.11.005. 
+[17]-  A.U. Elinwa, Y.A. Mahmood, Ash from timber waste as cement replacement material. Cement Concrete Compos. 
+24(2) (2002) 219–222. doi:10.1016/S0958-9465(01)00039-7. 
+[18]-  A.U. Elinwa, S.P. Ejeh, I.O. Akpablo, Using metakaolin to improve sawdust-ash concrete. Concr. Int. 27(11) 49–
+52. 
+[19]-  ASTM C1602 / C1602M - 18 Standard Specification for Mixing Water Used in the Production of Hydraulic Cement 
+Concrete. https://www.astm.org/Standards/C1602.htm (accessed Mar. 23, 2020). 
+[20]-  ASTM C150 / C150M-19a, Standard Specification for Portland Cement, ASTM International, West Conshohocken, 
+PA. pp. 1–10, 2019, doi:10.1520/C0150_C0150M-19A. 
+[21]-  ASTM C33 / C33M-18, Standard Specification for Concrete Aggregates. 2018. 
+[22]-  ASTM C192 / C192M - 19 Standard Practice for Making and Curing Concrete Test Specimens in the Laboratory.” 
+https://www.astm.org/Standards/C192 (accessed Mar. 24, 2020). 
+[23]-  ASTM C143 / C143M - 15a Standard Test Method for Slump of Hydraulic-Cement Concrete.” 
+https://www.astm.org/Standards/C143 (accessed Mar. 24, 2020). 
+[24]-  ASTM C642 - 13 Standard Test Method for Density, Absorption, and Voids in Hardened Concrete.” 
+https://www.astm.org/Standards/C642 (accessed Mar. 24, 2020). 
+[25]-  J.M. Abed, B.A. Khaleel, Effect of wood waste as a partial replacement of cement, fine and coarse aggregate on 
+physical and mechanical properties of concrete blocks units. Int. J. Integr. Eng., 11(8) (2019) 229–239.  
+doi:10.30880/ijie.2019.11.08.023. 
+[26]-  BS 
+EN 
+12390-3:2019 
+- 
+Testing 
+hardened 
+concrete. 
+Compressive 
+strength 
+of 
+test 
+specimens.” 
+https://shop.bsigroup.com/ProductDetail/?pid=000000000030360097 (accessed Mar. 24, 2020). 
+
+
+===== PAGE 10 =====
+
+276 
+JOURNAL OF MATERIALS AND ENGINEERING STRUCTURES 7 (2020) 267–276 
+ 
+[27]-  ASTM C293 / C293M - 16 Standard Test Method for Flexural Strength of Concrete (Using Simple Beam With 
+Center-Point Loading).” https://www.astm.org/Standards/C293 (accessed Apr. 01, 2020). 
+[28]-  ASTM C78 / C78M - 18 Standard Test Method for Flexural Strength of Concrete (Using Simple Beam with Third-
+Point Loading).” https://www.astm.org/Standards/C78 (accessed Apr. 01, 2020). 
+[29]-  ASTM C496 / C496M - 17 Standard Test Method for Splitting Tensile Strength of Cylindrical Concrete Specimens.” 
+https://www.astm.org/Standards/C496 (accessed Mar. 24, 2020). 
+[30]-  G. De Schutter, K. Audenaert, Evaluation of water absorption of concrete as a measure for resistance against 
+carbonation and chloride migration. Mater. Struct. 37(9) (2004) 591–596. doi:10.1007/bf02483288. 
+[31]-  E.-I. C. for Concrete, CEB Bulletins : Diagnosis and Assessment of Concrete Structures (PDF). Lausanne, 
+Switzerland, 
+1989. 
+Accessed: 
+Mar. 
+24, 
+2020. 
+[Online]. 
+Available: 
+https://www.fib-
+international.org/publications/ceb-bulletins/diagnosis-and-assessment-of-concrete-structures-detail.html. 
+[32]-  B. Il Bae, H.K. Choi, C.S. Choi, Flexural Strength Evaluation of Reinforced Concrete Members with Ultra High 
+Performance Concrete. Adv. Mater. Sci. Eng. (2016) 2815247. doi:10.1155/2016/2815247. 
+[33]-  S. Jonathan, K.K. Charles, Study of brick mortar using sawdust as partial replacement for sand. J. Civ. Eng. Constr. 
+Technol. 8(6) (2017) 59–66. doi:10.5897/jcect2017.0450. 
+ 

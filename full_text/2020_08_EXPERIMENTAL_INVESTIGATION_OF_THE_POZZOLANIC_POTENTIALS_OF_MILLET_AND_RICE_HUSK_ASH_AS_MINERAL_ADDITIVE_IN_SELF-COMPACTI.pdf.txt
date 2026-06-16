@@ -1,0 +1,991 @@
+
+===== PAGE 1 =====
+
+DOI:10.14311/AP.2020.60.0359
+Acta Polytechnica 60(4):359–368, 2020
+© Czech Technical University in Prague, 2020
+available online at https://ojs.cvut.cz/ojs/index.php/ap
+EXPERIMENTAL INVESTIGATION OF THE POZZOLANIC
+POTENTIALS OF MILLET AND RICE HUSK ASH AS MINERAL
+ADDITIVE IN SELF-COMPACTING CONCRETE
+John Wasiu∗, Fashina Ayoola Oluwatosin
+Afe Babalola University, College of Engineering, Department of Civil Engineering, P.M.B. 5454, 23400
+Ado-Ekiti, Ekiti state, Nigeria
+∗corresponding author: johnwasiu@abuad.edu.ng
+Abstract.
+Self-compacting concrete (SCC) is a new concept of concrete mix which ﬂows in a
+formwork and consolidates itself without the need for compaction. Eﬀectively compacting concrete
+can be very diﬃcult especially in areas with a high number of reinforcement. Millet Husk Ash (MHA)
+and Rice Husk Ash (RHA) are agricultural waste materials obtained from farm and burnt to ashes to
+discard them since they are environmental waste. This research is focused on ﬁnding the pozzolanic
+potentials of MHA and RHA as a mineral additive in SCC to see if it will improve its properties rather
+than discarding them as environmental waste. Laboratory investigations were carried out on normally
+vibrated concrete (NVC) and SCC using MHA and RHA as an additive at a 10 % replacement with
+cement. Workability tests were carried out following the BS speciﬁcations. ASTM 293 C was used for
+the Flexural Capacity test on the beam specimen. The Results of the workability tests using MHA and
+RHA as mineral additive are within the speciﬁed standard values. The compressive strength test also
+revealed that the SCC using MHA is about 12.8 % higher than the RHA and NVC at 28 days with
+densities of 2487.5, 2516.5 and 2437.5 kg/m3 respectively. The Modulus of Rupture (MoR) and Split
+Tensile strength for MHA is 0-19.2 % and 17.2-22.2 % higher than the RHA and NVC respectively. It
+was concluded that the improvement in the pozzolanic properties of MHA and RHA may be due to the
+content of Lime (CaO), Silica (SiO2), Alumina (Al2O3), Iron oxide (Fe2O3) being greater than 70 %
+and in an accordance with BS 618 code. It is concluded that the MHA and RHA can ﬁnd suitable
+applications in the SCC as a mineral additive rather than discarding them as environmental waste.
+Keywords: Self-compacting concrete, millet husk ash, rice husk ash, compressive strength, workability.
+1. Introduction
+Self-Compacting Concrete (SCC) can be described as
+highly ﬂowable concrete that can spread, ﬁll and com-
+pact itself under its own weight onto every corner of
+a given formwork without the need of any mechanical
+vibration. This special concrete was ﬁrst discovered in
+Japan in 1988 due to the dearth of skilled workers in
+the Japanese Construction industry. The application
+of SCC in the construction industry requires fewer
+workforces especially in the mixing, placement and
+compaction of concrete [1]. The Construction indus-
+tries have regained conﬁdence in terms of durability
+and more eﬃcient concrete structures.
+In the design, preparation and mixing of SCC, the
+use of water reducer cannot be overruled. Water reduc-
+ers (Super plasticizer) are commonly used to enhance
+stability, mobility and to prevent segregation of the
+concrete mix. The reduction in the water content
+will help to increase the strength and durability of
+the SCC. Fillers are also employed in the SCC mix
+to prevent the occurrence of voids and to improve
+the setting time. Commonly used ﬁllers in the SCC
+are ﬂy ash, Calcium Carbonate, rice husk ash (RHA),
+silica fume, glass and quartzite. This research will,
+therefore, explore the pozzolanic properties of Rice
+Husk Ash (RHA) and Millet Husk Ash (MHA) in the
+SCC mix.
+The SCC mix design will include signiﬁcant amount
+of ﬁne-grained inorganic materials in their constituents
+and thereby increasing the possibilities for the use of
+mineral admixtures, which are currently agricultural
+waste products with no practical applications and are
+expensive to dispose of [2].
+2. Literature review
+The new invention behind the SCC involves the re-
+placement of cement (partially or wholly) with ﬁne
+materials (like silica fume, ﬂy ash) without a modiﬁ-
+cation to the water content. This process alters the
+mechanical behaviour of the concrete [3]. In general,
+to achieve an eﬀective workability of the SCC concrete
+mix, the ﬁne particles must be dense enough, usually
+about 520 to 560 kg/m3 [3]. The use of stabilizers or
+viscosity modifying agents (VMA) is common because
+the SCC is very susceptible to any changes in the
+water content.
+Based on the composition of the concrete mortar,
+the SCC is divided into: SCC with Powder only, SCC
+with VMA or SCC with a combination of both powder
+and VMA. Elyamany et al. [4] studied the eﬀect of
+359
+
+
+===== PAGE 2 =====
+
+John Wasiu, Fashina Ayoola Oluwatosin
+Acta Polytechnica
+Figure 1. Materials proportion used in regular con-
+crete and self-compacting concrete by absolute vol-
+ume [6].
+ﬁller types on physical, mechanical and microstructure
+of self-compacting concrete and Flowable concrete.
+In their research, ﬁller materials (i.e pozzolanic and
+non-pozzolanic ﬁllers) in the range of 7.5 % - 15 %
+were used as a partial replacement for cement. Their
+ﬁndings revealed a signiﬁcant eﬀect of ﬁllers on the
+properties of fresh and hardened concrete. The non-
+pozzolanic ﬁllers have an insigniﬁcant negative eﬀect
+on the properties of the SCC.
+For the SCC with powder, the necessary mortar
+is produced by the use of a high proportion of ﬁnes
+while for the SCC with VMA, the proportion of ﬁnes
+is in the same permissible range for normally vibrated
+concrete (NVC). The viscosity required to inhibit the
+segregation will then be adjusted by using a stabi-
+lizer [5]. The combination type is created by adding
+a minute amount of the stabilizer to the powder type
+in order to balance the moisture ﬂuctuations in the
+manufacturing process. This is the type adopted in
+this research. Mixture Proportions of the SCC by [6]
+as compared to normally vibrated concrete is shown
+in Fig. 1.
+In general, the ﬂowability of the SCC is heavily
+dependent on powder particle size and, in addition,
+on factors, such as mixing regimen and water/super
+plasticizer content [7, 8].
+Murthi et al [9] studied the permeability properties
+of lightweight self-consolidating concrete made with a
+coconut shell aggregate. The replacement of crushed
+rock with a coconut shell was in the range of 0-100 %
+in steps of 25 %. Their experimental investigations
+revealed a better performance of the coconut shell as
+aggregates and up to a replacement of 75 %.
+Millet husk has not been fully explored into as
+a mineral additive in the construction industry [10].
+However, some researchers have shown that the MHA
+can be used as a partial replacement of cement in con-
+crete mix, thereby improving its properties in fresh
+and hardened form [11]. Agricultural waste such as
+the MHA will provide a cost eﬀective construction ma-
+terial when used as a partial replacement for cement.
+It will also provide a less expensive soil block construc-
+tion with a proper strength being maintained [12]. The
+eﬀectiveness of the RHA in concrete mix is attributed
+to the high amount of silica present in its ash. It
+contains about 85 % to 95 % weight percent of amor-
+phous silica. They are found to be pozzolanic reactive
+material, which improves the microscopic structure
+of the cement paste and aggregates surface area in
+the SCC [13]. The RHA, as partial replacement for
+cement in concrete mix, is also found to perform well
+in ﬁre [14].
+A low-density SCC containing pumice and mineral
+admixtures was also studied by Arun Kumar et al [15].
+They applied the principle of artiﬁcial neural network
+for the modelling of the mechanical properties of a
+lightweight SCC. Their investigation yielded the best
+model for the tested concrete.
+3. Materials and methods
+The materials used in this research work includes: Or-
+dinary Portland Cement (OPC) obtained locally from
+Dangote distributor, river sand (ﬁne aggregate) and
+granite (coarse aggregate) obtained from Akure quarry
+site, mineral additives like Rice husk ash (RHA), Mil-
+let husk ash MHA) were obtained from Maiduguri,
+Nigeria; and chemical admixtures (superplasticizer i.e.
+SP430) obtained from PURECHEM. The [16] method
+of design was adopted in this research.
+The con-
+crete was designed using the characteristic strengths
+of 70 N/mm2. Table 1 shows the mix design ratios.
+All measurements are kg/m3. The maximum amount
+of mineral additives used in this research was obtained
+by carrying out a trial mix design consisting of 0 -
+15 % of the MHA and RHA in the SCC that would
+produce an optimum strength. The trial mix design
+revealed an optimum strength at 10 % of the MHA
+and RHA as mineral additives in the SCC and this
+value was adopted in this research work to determine
+the pozzolanic potentials of both additives. The MHA
+and RHA was burnt in a lift out furnace at a tem-
+perature of about 650 °C for 6 hours as recommended
+by [17].
+The Chemical properties of the MHA and RHA
+obtained are presented in Table 2.
+Many authors have proposed a variety of test meth-
+ods to assess and measure the fresh properties of the
+SCC. But none has proved satisfactorily well to assess
+all key parameters of the SCC. A brief summary of
+the common tests proposed by [18] in the assessment
+of fresh properties of the SCC and their acceptance
+criteria are given in Tables 3 and 4.
+3.1. Test for workability
+Workability tests are carried out according to the
+speciﬁcations of BS EN 12350-8 [19], BS EN 12350-
+9 [20] and BS EN 12350-10 [21] respectively. The test
+includes slump cone, V-Funnel and L-Box Test.
+In the Slump test, the materials required are the
+same as those used in carrying out the slump test
+of the NVC. However, this test method is diﬀerent
+from the conventional slump procedure in the sense
+that the concrete placed inside the slump cone is not
+tamped and the concrete collapses when the slump
+360
+
+
+===== PAGE 3 =====
+
+vol. 60 no. 4/2020
+Experimental investigation of the pozzolanic potentials. . .
+Cement
+MHA/RHA
+Fine aggregate
+Coarse aggregate
+SP430
+Water
+Quantity (Kg/m3)
+603.36
+64.1
+857.14
+754.25
+10.92
+182.59
+Mix ratio
+1
+0.106
+1.41
+1.24
+0.02
+0.302
+Table 1. Design Mix Proportion for MHA and RHA.
+Mineral composition
+Cement (%)
+RHA (%)
+MHA (%)
+Lime (CaO)
+60 to 67
+2.10
+3.30
+Silica (SiO2)
+17 to 25
+85.7
+50.9
+Alumina (Al2O3)
+3 to 8
+0.58
+28.16
+Iron oxide (Fe2O3)
+0.5 to 6
+1.22
+5.07
+Magnesia (MgO)
+0.1 to 4
+0.39
+0.98
+Sulphur trioxide (SO3)
+1 to 3
+0.11
+-
+Loss on ignition (L.O.I)
+1.73
+5.81
+0.20
+Phosphorus (P)
+-
+0.35
+-
+CaSO4
+-
+0.06
+-
+Alkalies (Na2O + K2O)
+0.5 to 1.3
+3.52
+1.99
+Table 2. Mineral components of cement and millet husk ash.
+Test method
+Property
+Slump ﬂow
+Filling ability
+V-funnel
+Filling ability
+V-funnel at T5 mins
+Segregation resistance
+L-box
+Passing ability
+Table 3. Test methods for SCC [15].
+Test
+Unit
+Typical range of values
+Minimum
+Maximum
+Slump ﬂow
+mm
+650
+800
+V-funnel
+Sec
+6
+12
+V-funnel at T5 mins
+Sec
+6
+15
+L-box
+H2/H1
+0.8
+1.0
+Table 4. Acceptance criteria for SCC [15].
+ 
+Figure 2. Slump ﬂow measurement of SCC.
+361
+
+
+===== PAGE 4 =====
+
+John Wasiu, Fashina Ayoola Oluwatosin
+Acta Polytechnica
+cone is raised. Also, the diameter of the spread of the
+sample is measured unlike for the NVC, where the
+height of the concrete is measured after the removal
+of the slump cone. better ﬂowability is achieved if the
+diameter of slump spread ranges between 650 and 800
+mm. Most SCC mixes produce collapse slumps due
+the high ﬂowability and self-compacting nature of the
+concrete as shown in Fig. 2. The water absorption of
+each concrete mix was estimated from equ. 1.
+(W1 −W0)
+W0
+× 100
+
+(1)
+3.2. Workability using V-funnel
+apparatus
+The V-funnel test was developed in Japan and involves
+the use of a v-shaped funnel shown in Fig. 3. The test
+is used in the determination of the ﬂowability of the
+SCC with a maximum coarse aggregate size of 20 mm.
+Although the measurement of the ﬂowability is the
+major aim of the v-funnel test, the ﬂowability results
+are greatly aﬀected by other concrete properties than
+just the ﬂow.
+To carry out the test, the trapdoor was closed
+and the apparatus was ﬁlled completely with about
+12 litres of concrete without tamping. The concrete is
+allowed to ﬂow out under gravity with the trap door
+opened. The time taken for the ﬂow was measured
+and recorded.
+3.3. Workability using the L-box
+apparatus
+The workability of the SCC using the L-box apparatus
+is used to check the extent by which the reinforcement
+is blocking the ﬂow of the concrete. It is an L-shaped
+rectangular apparatus with a vertical and horizontal
+parts. The apparatus was ﬁlled with about 14 litres
+of concrete, after which the gate was lifted and the
+concrete was allowed to ﬂow out freely into the hori-
+zontal section. When the concrete stops ﬂowing; the
+height, H1 of the concrete in the vertical section was
+measured and recorded. Also, the height, H2 of the
+concrete in the horizontal section was also measured
+and recorded.
+The blocking ratio, H1/H2 was then calculated.
+If the blocking ratio H1/H2 = 1, it implies a high
+workability. Generally, a minimum blocking ratio of
+0.8 is suggested by the EU research team. Fig. 4 shows
+the L-box and the execution of the test.
+3.4. Strength test using compression
+testing machine
+The load per unit area exerted on the concrete material
+under test and tending to shorten or reduce its size is
+called the compressive strength. Cubes of size 100 ×
+100 × 100 mm were tested following the speciﬁcation
+of BS EN 12390-3 [22]. The results will give an idea
+about the kind of concrete that is being delivered
+at site. Many industries apply this principle in the
+quality control of their products.
+Fig. 5 shows a
+2 000 kN compression testing machine in action.
+By this single test, one can judge whether the pro-
+cess has been done properly or not. Sixteen (16) cubes
+were cast for each type of concrete (NVC, MHA and
+RHA). These specimens were cured and tested after
+7 days, 14 days, 21 days and 28 days. The Load was
+applied at a constant rate of 140 kg/cm2 per minute
+until the specimen yields. The compressive strength
+at failure was measured and recorded accordingly.
+3.5. Split tensile test
+This is an indirect test method of determining the
+tensile resistance of concrete. The test was performed
+after the 28 days of curing of the specimen.
+The
+application of the load on the specimen by the univer-
+sal testing machine causes a development of tension
+around the plane containing the applied load. Split
+tensile test strength was carried out on concrete speci-
+mens based on ASTM C496-11 [23]using 75 by 150 mm
+cylindrical specimen for the NVC, MHA and RHA.
+A total of 48 specimens were prepared, 16 for each
+type. The samples were tested and the load caus-
+ing the tensile stresses was measured and recorded
+accordingly.
+3.6. Flexural strength test using
+ASTM C-2930
+A total of 32 beams were cast to perform the ﬂexural
+strength test (MoR) in an accordance with ASTM
+C293 / C293M-16 [24]using the centre-point loading
+system. The test was performed using a digital 100 kN
+Universal Testing Machine (UTM) at the ABUAD
+Structures laboratory. Fig. 6 shows the beam speci-
+men being tested using the UTM. The deﬂection of all
+tested samples were measured using a dial gauge at-
+tached to the UTM with its tip at the central position
+of the beam. As the specimen is loaded, the value of
+the load and the corresponding value of deﬂection are
+displayed. See Fig. 6.
+4. Results and discussion
+4.1. Chemical constituents of mineral
+additives
+Table 5 shows the comparison of the pozzolanic po-
+tentials of the MHA and RHA. following the recom-
+mendations of ASTM C618 – 78 [25], the RHA had
+87.5 % of the combined mineral constituents of silicon
+oxide, aluminium oxide and iron oxide (SiO2 + Al2O3
++ Fe2O3) while the MHA had 84.13 % of these com-
+binations. These values are both higher than 70 %
+indicating that the MHA and RHA have a high poz-
+zolanic potentials. But the slight diﬀerence in their
+potentials may be due to the absence of SO3 in the
+mineral constituents of the MHA.
+362
+
+
+===== PAGE 5 =====
+
+vol. 60 no. 4/2020
+Experimental investigation of the pozzolanic potentials. . .
+ 
+Figure 3. V-funnel apparatus and execution of V-funnel test.
+Figure 4. L-box apparatus and execution of L-box test.
+Chemical pozzolan (%)
+Class C
+Class N
+Class F
+RHA
+MHA
+SiO2 + Al2O3 + Fe2O3
+> 50
+> 70
+> 70
+87.5
+84.13
+SO3
+< 4
+< 5
+< 5
+0.11
+-
+MgO
+< 5
+< 5
+< 5
+0.39
+0.98
+Na2O
+< 1.5
+< 1.5
+< 1.5
+3.52
+1.99
+Loss on ignition
+< 6
+< 10
+< 2
+5.81
+0.20
+Table 5. Pozzolanic properties of RHA and MHA in accordance with ASTM C618-78.
+363
+
+
+===== PAGE 6 =====
+
+John Wasiu, Fashina Ayoola Oluwatosin
+Acta Polytechnica
+Figure 5. Crushing of concrete cube specimen.
+4.2. Results of the workability test
+The results of workability tests using the slump cone,
+V-Funnel and L-Box apparatus are presented in Ta-
+bles 6 and 7. These results are also validated using
+the speciﬁcations of EFNARC [18].
+The MHA and RHA as an additive in SCC exhibited
+high slump spread of 748 and 738 mm respectively.
+Although, the ﬂowability of the MHA being higher
+than in the case of the RHA may due to the high
+percentage of Na2O present in the mineral constituents
+(i.e. 3.52 % > 1.5 % as speciﬁed by EFNARC [18]. The
+NVC exhibited a higher ﬂowability than the MHA and
+RHA. Generally, the results of the workability tests
+revealed a highly workable concrete for all samples
+and within the acceptable criteria for SCC.
+4.3. Results of compressive strength,
+density and absorption tests
+The results of the compressive strength, density and
+absorption tests of the MHA, RHA and NVC are
+presented in Tables 8, 9 and 10 respectively. The
+compressive strength for the MHA, RHA and NVC
+increases with curing days. Their average densities
+are between 2 487.5 kg/m3, 2 516.5 kg/m3 and 2 437.5
+respectively, with the RHA having the highest density.
+These values are within the recommendations of [26].
+The MHA and RHA showed a promising pozzolanic
+properties in the concrete mixes.
+With reference to Table 8, 9 and 10, the SCC with
+the MHA as an additive had about 13.2 % higher com-
+pressive strength values over the RHA and NVC at
+28 days of curing. The higher compressive strength
+recorded with the use of the MHA as a mineral ad-
+ditive, and judging from the chemical composition,
+may be due to the higher alumina (Al2O3) and lime
+(CaO) contents present in the MHA as compared to
+the RHA. In terms of water absorption, the MHA
+has the highest absorption capacity (3.7 %) with the
+RHA recording the lowest (2.5 %). According to “the
+concrete Society” [27], water absorption should be in
+the range of 6-7 %. All samples tested have satisﬁed
+this requirement.
+4.4. Results of the split tensile test
+The Tensile strength for the NVC, RHA and MHA
+increases with an increase in curing days as shown in
+Fig. 7. The MHA shows an improvement in strength
+over the RHA and NVC due to the presence of poz-
+zolanic eﬀect of silica oxide, alumina and lime in
+the ash, thereby enhancing the cementitious reaction
+of the concrete mixes. Fig. 7 also showed that the
+SCC with the MHA as additive yielded higher ten-
+sile strength than the RHA and NVC at 28 days of
+curing. The range is about 17.2 −22.2 % higher than
+the tensile strength recorded by the RHA and NVC.
+This results are also in an accordance with other tests
+carried out.
+4.5. Results of flexural strength test
+(modulus of rupture)
+The Modulus of Rupture (MoR) of the SCC with the
+MHA and RHA as an additive increase with curing
+age. Their maximum Load-Deﬂection curve indicates
+a similar trend with that of the NVC. The deﬂection is
+generally higher with the MHA and RHA as mineral
+additives than that of the NVC. The maximum load
+(F) and MoR of the MHA and RHA are 19.8 % and
+19.2 % higher than that of NVC at 28 days curing
+respectively. The MHA and RHA have the same MoR
+(10.4 N/mm2) at 28 days of curing. The deﬂection
+curve of the SCC containing the MHA and RHA
+seemed to be higher than that of the NVC. Although
+all are within the allowable value of span/eﬀective
+depth ratio. Figs. 8, 9 and 10 shows the plots of the
+maximum load, MoR and deﬂection for the MHA,
+RHA and NVC respectively.
+5. Conclusions
+This research presents an experimental investigation
+of the pozzolanic potentials of the MHA and RHA as
+mineral additives in the SCC. The summary of the
+experimental program is summarized below:
+364
+
+
+===== PAGE 7 =====
+
+vol. 60 no. 4/2020
+Experimental investigation of the pozzolanic potentials. . .
+Figure 6. Flexural strength test of beam specimen using 100 kN-UTM.
+SCC grade
+Aggregate size (mm)
+Additive
+D1 (mm)
+D2 (mm)
+Slump value
+M70
+20
+MHA
+755
+741
+748
+M70
+20
+RHA
+740
+736
+738
+M70
+20
+NVC
+761
+757
+759
+Table 6. Slump cone test at 10 % MHA and RHA.
+Type of test
+MHA
+NVC
+RHA
+Code range
+Minimum
+Maximum
+V-funnel
+9 secs
+10 sec
+9 secs
+6 secs
+12 secs
+L-box
+
+T = H2
+H1
+
+12.4
+13.0 = 0.954
+13.8
+14.5 = 0.950
+14.6
+15.7 = 0.930
+0.8
+1.0
+Table 7. Results of V-funnel and L-box tests at 10 % MHA and RHA.
+No. of days
+W0 (kg)
+W1 (kg)
+Absorption (%)
+Force (kN)
+C.S (MPa)
+Density (kg/m3)
+7
+2.45
+2.47
+0.8
+507.7
+50.77
+2450
+14
+2.43
+2.48
+2.1
+664.6
+65.42
+2480
+21
+2.44
+2.50
+2.5
+716.7
+71.67
+2500
+28
+2.43
+2.52
+3.7
+839.0
+83.9
+2520
+Table 8. Absorption, density and compressive strength of SCC at 10 % MHA.
+No. of days
+W0 (kg)
+W1 (kg)
+Absorption (%)
+Force (kN)
+C.S (MPa)
+Density (kg/m3)
+7
+2.56
+2.60
+1.6
+739.5
+49.3
+2560
+14
+2.44
+2.46
+0.8
+826.5
+55.1
+2440
+21
+2.59
+2.67
+2.8
+1042.5
+69.5
+2593
+28
+2.47
+2.47
+1.6
+1092.0
+72.8
+2473
+Table 9. Absorption, density and compressive strength of SCC at 10 % RHA.
+365
+
+
+===== PAGE 8 =====
+
+John Wasiu, Fashina Ayoola Oluwatosin
+Acta Polytechnica
+No. of days
+W0 (kg)
+W1 (kg)
+Absorption (%)
+Force (kN)
+C.S (MPa)
+Density (kg/m3)
+7
+2.28
+2.31
+1.3
+395.3
+39.5
+2310
+14
+2.41
+2.45
+1.7
+527.4
+52.7
+2450
+21
+2.40
+2.49
+3.8
+661.4
+66.1
+2490
+28
+2.44
+2.50
+2.5
+731.7
+72.8
+2500
+Table 10. Absorption, density and compressive strength of NVC (0 % additive).
+0
+2
+4
+6
+8
+10
+12
+7
+14
+21
+28
+Split Tensile 
+Strength(N/mm^2)
+Days of Curing
+Split Tensile with MHA
+Split Tensile for NVC
+Split Tensile for RHA
+Figure 7. Variation of split tensile strength of SCC with MHA, RHA and NVC at grade M70.
+0
+5
+10
+15
+20
+25
+30
+0
+5
+10
+15
+20
+25
+30
+Maximum Load (kN)
+Curing Days
+Maximum Load SCC with
+MHA
+Maximum Load SCC with
+RHA
+Maximum Load for NVC
+Figure 8. Plot of maximum load of SCC with MHA, RHA and NVC against curing days.
+0
+2
+4
+6
+8
+10
+12
+0
+5
+10
+15
+20
+25
+30
+MoR (N/mm^2)
+Curing Days
+MoR with MHA
+MoR with RHA
+MoR for NVC
+Figure 9. Plot of MoR for SCC with MHA, RHA and NVC against curing days.
+366
+
+
+----- TABLE p8#1 -----
+
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | Maximum
+ |  |  |  |  | MHA
+ |  |  |  |  | Maximum
+RHA
+ |  |  |  |  | Maximum
+
+----- TABLE p8#2 -----
+
+ |  |  |  |  | 
+ |  |  |  |  | 
+ |  |  |  |  | MoR
+ |  |  |  |  | MoR
+ |  |  |  |  | MoR
+ |  |  |  |  | 
+
+===== PAGE 9 =====
+
+vol. 60 no. 4/2020
+Experimental investigation of the pozzolanic potentials. . .
+0
+5
+10
+15
+20
+25
+0
+2
+4
+6
+8
+10
+Maximum Load (kN)
+Deflection (mm)
+Load-
+Deflection for
+SCC with
+MHA
+Load-
+Deflection for
+SCC with
+RHA
+Load-
+Deflection for
+SCC for NVC
+Figure 10. Plot of maximum load against deﬂection for SCC with MHA, RHA and NVC.
+(1.) The mineral constituents (SiO2 + Al2O3 +
+Fe2O3) of the MHA and RHA are greater than
+70 % indicating their potentials as mineral additives
+in the SCC.
+(2.) The water absorption of both the MHA and RHA
+are within the speciﬁed standard and as such; ade-
+quate for use as mineral additives in the SCC.
+(3.) Workability tests using the L-box test, V-funnel
+and slump cone for the SCC for the MHA and RHA
+as an additive showed that they are suﬃciently
+workable like the NVC and revealed a workable
+concrete within the required speciﬁcation.
+(4.) The addition of the MHA and RHA as mineral
+additives in the SCC does not reduce the density
+of the SCC below the average speciﬁed value of
+2 400 kg/m3. All densities are within the acceptable
+range.
+(5.) Their compressive strengths are considerably
+higher than that of the NVC of the same grade
+M70. The tensile strength test for MHA as an ad-
+ditive revealed a higher resistance to tension than
+that of the RHA and NVC.
+(6.) The MoR of MHA and RHA revealed a higher
+modulus of rupture than the NVC. This also indi-
+cates a better quality control than NVC.
+MHA and RHA should not be discarded as a waste
+material since this research has proven them to be
+of high pozzolanic properties. Their use can help to
+reduce environmental waste and costs of disposal of
+such waste. The MHA and RHA are environmental
+waste that can be obtained easier than other additives
+used for the SCC. They can be explored as mineral ma-
+terials for the SCC in the Building and Construction
+Industry.
+Acknowledgements
+Thanks to ABUAD Concrete and Structures laboratory.
+References
+[1] J. Wasiu, O. Agbawhe, Z. Tuleun. The eﬀect of
+calcium carbonate ﬁller on self-compacting concrete
+using diﬀerent aggregate sizes. European Journal of
+Engineering Research and Science 4:9 – 16, 2019.
+doi:10.24018/ejers.2019.4.9.1485.
+[2] D. A. John. Concrete Petrography: A Handbook of
+Investigative Techniques. Wiley & Sons, New York, 1998.
+[3] K. Johansen, T. A. Hammer. Drying Shrinkage of
+Norwegian Self-Compacting Concrete. SINTEF,
+Trondheim, 2002.
+[4] H. E. Elyamany, A. E. M. Abd Elmoaty, B. Mohamed.
+Eﬀect of ﬁller types on physical, mechanical and
+microstructure of self compacting concrete and ﬂow-able
+concrete. Alexandria Engineering Journal 53(2):295 –
+307, 2014. doi:10.1016/j.aej.2014.03.010.
+[5] S. H. Kosmatka. Design and Control of Concrete
+Mixtures. Cement Association of Canada, Ottawa, 5th
+edn., 2002.
+[6] N. Nagamoto, K. Ozawa. Mixture proportions of
+self-compacting high performance concrete. In ACI
+international, vol. SP - 172, p. 623 – 636. 1997.
+[7] S. A. Rizwan, T. A. Bier. Blends of limestone powder
+and ﬂy-ash enhance the response of self-compacting
+mortars. Construction and Building Materials 27(1):398
+– 403, 2012. doi:10.1016/j.conbuildmat.2011.07.030.
+[8] G. Sua-iam, N. Makul. Utilization of limestone
+powder to improve the properties of self-compacting
+concrete incorporating high volumes of untreated rice
+husk ash as ﬁne aggregate. Construction and Building
+Materials 38:455 – 464, 2013.
+doi:10.1016/j.conbuildmat.2012.08.016.
+[9] M. Palanisamy, P. Kolandasamy, P. Awoyera, et al.
+Permeability properties of lightweight self-consolidating
+concrete made with coconut shell aggregate. Journal of
+Materials Research and Technology 9(3):3547 – 3557,
+2020. doi:10.1016/j.jmrt.2020.01.092.
+[10] O. A. U. Uche, M. Adamu, M. A. Bahuddeen.
+Inﬂuence of millet husk ash (MHA) on the properties of
+plain concrete. Epistemic In Science, Engineering And
+Technology Journal 2:68 – 73, 2012.
+[11] O. A. U. Uche, J. A. Ahmed. Eﬀect of millet husk
+ash on index properties of marginal lateritic soil.
+Research Journal in Engineering and Applied Sciences
+5:365 – 369, 2013.
+[12] M. T. Abdulwahab, O. A. U. Uche, G. Suleiman.
+Mechanical properties of millet husk ash bitumen
+stabilized soil block. Nigerian Journal of Technological
+Development 14:34 – 38, 2017. doi:10.4314/njtd.v14i1.5.
+367
+
+
+===== PAGE 10 =====
+
+John Wasiu, Fashina Ayoola Oluwatosin
+Acta Polytechnica
+[13] S. A. Zareei, F. Ameri, F. Dorostkar, M. Ahmadi.
+Rice husk ash as a partial replacement of cement in
+high strength concrete containing micro silica:
+Evaluating durability and mechanical properties. Case
+Studies in Construction Materials 7:73 – 81, 2017.
+doi:10.1016/j.cscm.2017.05.001.
+[14] R. I. Umasabor, J. O. Okovido. Fire resistance
+evaluation of rice husk ash concrete. Heliyon
+4(12):e01035, 2018. doi:10.1016/j.heliyon.2018.e01035.
+[15] B. Arun Kumar, G. Sangeetha, A. Srinivas, et al.
+Models for predictions of mechanical properties of low-
+density self-compacting concrete prepared from mineral
+admixtures and pumice stone. In Soft Computing for
+Problem Solving, pp. 677 – 690. Springer Singapore,
+Singapore, 2020. doi:10.1007/978-981-15-0184-5_58.
+[16] N. Su, K.-C. Hsu, H.-W. Chai. A simple mix design
+method for self-compacting concrete. Cement and
+Concrete Research 31(12):1799 – 1807, 2001.
+doi:10.1016/S0008-8846(01)00566-X.
+[17] C. Druta. Tensile Strength and Bonding
+Characteristics of Self-Compacting Concrete.
+Polytechnic University of Bucharest, 2003.
+[18] B. Poulson. Speciﬁcation and guidelines for
+self-compacting concrete. Tech. rep., European
+Federation of Producers and Applicators of Specialist
+Products for Structures, Hampshire, U.K., 2002.
+[19] BS EN 12350-8: Testing Fresh Concrete.
+Self-Compacting Concrete. Slump-Flow Test. Standard,
+British Standards Institution, London, 2010.
+[20] BS EN 12350-9: Testing Fresh Concrete.
+Self-Compacting Concrete. V-Funnel Test. Standard,
+British Standards Institution, London, 2010.
+[21] BS EN 12350-10: Testing Fresh Concrete.
+Self-Compacting Concrete. L Box Test. Standard,
+British Standards Institution, London, 2010.
+[22] BS EN 12390-3: 2019: - Testing Hardened Concrete -
+Part 3: Compressive Strength of Test Specimens.
+Standard, British Standards Institution, London, 2002.
+[23] ASTM C496-11: Spliting Tensile Strength of
+Cylindrical Concrete Specimens). Standard, American
+Society for Testing and Materials, West Conshohocken,
+2011.
+[24] ASTM C293/C293M-16 - Standard Test Method for
+Flexural Strength of Concrete (Using Simple Beam with
+Center-Point Loading). Standard, American Society for
+Testing and Materials, West Conshohocken, 2016.
+[25] ASTM C618 – 78: Standard Speciﬁcation for Fly
+Ash and Raw Or Calcined Natural Pozzolan For Use As
+A Mineral Admixture In Portland Cement Concrete.
+Standard, American Society for Testing and Materials,
+West Conshohocken, 1978.
+[26] A. M. Neville. Properties of concrete. 3rd edn.
+[27] The Concrete Society. Water absorption for
+lightweight concrete. https://www.concrete.org.uk.
+Accessed: 9 December 2019.
+368

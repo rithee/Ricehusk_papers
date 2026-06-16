@@ -1,0 +1,787 @@
+
+===== PAGE 1 =====
+
+ 
+ 
+Utilization of Fly Ash and Rice Husk Ash in Cold 
+Mix Asphalt as Filler 
+Pinki Deb1* and Kh.Lakshman Singh2  
+1Assistant Professor, Civil Engineering Department, Sharad Institute of Technology College of 
+Engineering, Yadrav, Ichalkaranji, India, Email: pinkinits93@gmail.com  
+2Associate Professor, Civil Engineering Department, National Institute of Technology Silchar, India, 
+Email: lakshman@civil.nits.ac.in  
+Abstract. Road infrastructures are pivotal to the development of 
+infrastructure, transport and overall economy of any country which has a 
+detrimental effect on the environment. So, adopting an eco-friendly 
+pavement technology with the utilization of waste is of paramount 
+importance. In this study, Cold mix asphalt (CMA) is produced with fillers 
+like Fly ash (FA) and Rice husk ash (RHA) and parameters like Marshall 
+stability, Marshall quotient, Indirect tensile strength, moisture susceptibility 
+and rutting resistance of CMA mixes were determined through laboratory 
+tests. Replacing SD with RHA and FA can improve the Marshall stability to 
+20.32% and 25.99% respectively. The Marshall quotient value of mixes with 
+SD, RHA and FA are 1.93 kN/mm, 2.68 kN/mm and 3.01 kN/mm at 8%, 
+9% and 8% optimum binder content respectively. The betterment in tensile 
+strength and moisture susceptibility of mixes was also found. The rutting 
+deformation of the mix with SD is 16.57 mm, the highest among other filler 
+mixes and the resistance has increased to 1.66 % and 52.16% after the 
+application of RHA and FA filler. Finally, a detailed cost analysis was 
+carried out and came upon that the mix with FA is the most cost-effective 
+mixture. 
+1 Introduction  
+Cold mix asphalt (CMA) comprising of bitumen emulsion, aggregates, fillers and water [1]. 
+It is an eco-friendly technology with significant advantages like less fuel consumption, no 
+heating of binder and aggregate, an easy mixing process etc. Besides these benefits, it has 
+some major drawbacks like lower strength at the initial stage, high moisture damage and high 
+air voids [2,3,4]. Different researchers have utilized several fillers, waste materials, and 
+additives in CMA to eliminate these issues. 
+ 
+The fillers are the finest portion of aggregate that occupies the space within the 
+mixture and are added upto12% by weight of mixes [5]. The filler stiffens the binder [6], 
+satisfying the gradation and volumetric requirements of the asphalt mix [7]. Different waste 
+materials were utilized in CMA as fillers to enhance the properties of the mixture. Some 
+ 
+* Pinki Deb: pinkinits93@gmail.com  
+© The Authors, published by EDP Sciences. This is an open access article distributed under the terms of the Creative Commons 
+Attribution License 4.0 (https://creativecommons.org/licenses/by/4.0/).
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+===== PAGE 2 =====
+
+ 
+ 
+developing counties like India have produced 960 million solid wastes, usually managed by 
+dumping into landfills and incineration. These wastes need to be managed or recycled by 
+utilizing those as a component of the mix to ensure safe disposal. Rice husk ash (RHA) and 
+Fly ash (FA) are the most commonly generated industrial wastes globally and adding these 
+materials as filler in CMA can increase its field utilization as well as it has reduced the 
+landfills. 
+ 
+Fly ash is the by-product material manufactured from flue ash's mechanical or 
+electrostatic precipitation during coal combustion of power stations [8]. Fly ash is widely 
+used in soil stabilization, concrete industry, and filler material in the asphalt mix. It has the 
+pozzolanic property, which provides a cementitious effect when combined with water. It is 
+preferable to use in cold mixes. Using FA can improve cold mixes' stability to 150% [9]. The 
+use of FA as filler at 0-6% in CMA can enhance the performance similar to hot mix asphalt. 
+The use of FA can also improve the stiffness of CMA [10]. 
+ 
+The use of RHA is also beneficial when it is utilized in the asphalt mix. RHA is 
+mainly produced by burning the rice husk in an uncontrolled process that is cheaper and 
+convenient but involves environmental pollution. In many literatures, the partial or full 
+replacement of conventional filler with RHA was observed and reported superior 
+performance compared to the conventional mix. The substitute of 50% limestone filler with 
+RHA has bettered the Marshall stability and volumetric properties of the asphalt mix [11]. 
+The particles of RHA reinforce the binder and subsequently improve the stiffness and 
+cohesion, which automatically enhance the Marshall stability of the mix [12, 13]. The asphalt 
+mixes modified with RHA had more significant resistance to moisture cracking and 
+deformation and long-term aging compared to Ordinary Portland cement and hydrated lime-
+modified mixes [12, 13]. However, the porous structure of RHA particles detrimentally 
+affects the performance like stability, moisture susceptibility, fatigue and rutting of mixes 
+than those with stone dust [14]. 
+ 
+These fillers are primarily utilized in HMA for improving the performance. However, 
+there is a need to utilize these fillers in CMA which was not extensively explored by existing 
+works of literature. In this experimental study, FA and RHA are added at 5% by weight of 
+the mixture in CMA as filler by replacing conventional stone dust. 
+2 Materials  
+The cationic bitumen emulsion is utilized as a binder in CMA. The bitumen emulsion was 
+collected from Bitchem Asphalt Technologies Limited, Guwahati. The specific gravity of 
+bitumen emulsion is 1 and storage stability of 0.1%. The penetration and ductility of bitumen 
+emulsion on its residue are 82 mm and 87 cm respectively. The river stone aggregate was 
+utilized in this study which has the maximum and minimum nominal size of 13.2 and 0.075 
+mm respectively. The continuously graded aggregate gradation is as per IRC SP:100:2014 
+[15] (suggested for the surface course), having the specific gravity and water absorption value 
+of 2.62 and 1.1%. The elongation and flakiness index of aggregate is 16.8% and 10.5% 
+respectively. The impact and abrasion value of aggregate is 23.1% and 28.65%. The RHA 
+and FA fillers passing through 0.075 mm sieve were incorporated in CMA. The maximum 
+amount of filler is added at 5% by mixture weight. The specific gravity of RHA and FA is 
+2.05 and 2.07, respectively. 
+ 
+2
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+===== PAGE 3 =====
+
+ 
+ 
+3 Experimental Programme 
+3.1 Coating test 
+ 
+The coating test was conducted to finalize the water dosage required to properly mix CMA. 
+The test displays the degree of affinity and compatibility between the mineral aggregate and 
+bitumen emulsion. The test is conducted at room temperature. The starting point of water is 
+2% by weight of aggregate with an increment of 1%. The fixed amount of bitumen emulsion 
+is added and mixed until an evenly coated mixture is found [16]. The pre-wetting water 
+appears to be a viscosity-reducing agent that promotes the workability and helps to coat the 
+aggregate surfaces [16]. 
+ 
+3.2 Marshall stability test 
+ 
+The Marshall test is a mix design procedure, widely used for CMA in most countries. The 
+Marshall stability test determines the optimum binder content (OBC) as per ASTM D6927-
+15 [17]. The volumetric properties of mixes are also calculated from the test results. Marshall 
+test is used to quantify the ability to counteract the plastic deformation of cylindrical CMA 
+samples under gradual loading of 50 mm/min along with the cylindrical body [17]. The flow 
+and stability value also calculates Marshall quotient. 
+ 
+3.3 Indirect tensile strength and moisture susceptibility test 
+The tensile strength of prepared Marshall samples (dry conditioned) were evaluated as per 
+ASTM D6931-17 [18]. The tensile strength of mixes is used to enumerate the quality of the 
+asphalt mix in conjunction with the potential of rutting and fatigue failure. The samples were 
+taken and performed ITS test after a specific curing period. Cylindrical Marshall samples are 
+subjected to the diametrical loading rate of 50± 5 mm/min. The peak load at failure is 
+determined as the tensile strength of the mixes. The ITS for each mix was calculated by: 
+       ITS = 2P!"#
+πtd                                
+Where, Pmax = Load (kN), t = Samples height and d = diameter of the sample. 
+Moisture susceptibility is a major mix design criteria that indicates the reduction in 
+tensile strength in the presence of water. The consequences of environmental changes along 
+the service life of pavement is measured in the laboratory by Tensile strength ratio (TSR) to 
+find the durability of an asphalt mix. AASHTO T283 is adopted to encounter the moisture 
+damage of CMA and HMA [19]. The TSR of the mixes is calculated by: 
+ 
+TSR =
+ITS of conditioned sample
+ITS of unconditioned sample × 100                     
+ 
+3.4 Rutting test 
+ 
+Rutting failure is the longitudinal depression along the path of the wheel. This phenomenon 
+is due to the consolidation of subgrade soil caused by repeated traffic loading, lateral 
+movement of pavement materials, shear failure of asphalt pavement or a combination. The 
+permanent deformation of CMA with FA and RHA fillers was determined by undergoing 
+3
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+===== PAGE 4 =====
+
+ 
+ 
+150 mm and 63.5 mm dia specimens under repeated wheel passes of 50 nos/minutes in the 
+Hamburg wheel tracking device [20]. The specimen should have an equal density to the 
+Marshall specimen. The wheel can provide a load of 705± 4.5 N on the rutting specimens. 
+The test temperature is 60℃ [21] and the frequency of 50 nos of wheel passes per minute 
+with the boundary condition of 10,000 cycles [22]. 
+4 Results and discussion 
+4.1 Marshall stability and volumetric properties of CMA 
+ 
+The optimum premixing water is 3% and 4% for the CMA with RHA and FA filler which 
+was determined by varying the water dosage from 2-5% by weight of mixture and observing 
+the coating ability of aggregate particles. The bitumen emulsion is added at 7-10% by weight 
+of the mix and the OBC was determined at 8%, 9% and 8% for SD, RHA and FA respectively. 
+The results are given in Fig. 1. The Marshall stability value of CMA with SD, RHA and FA 
+is 10.04 kN. 12.08 kN and 12.65 kN. The improvement is observed in the Marshall stability 
+value of CMA, results due to the hydration effect of FA and pozzolanic properties of RHA 
+in the presence of existing water that stiffens the mixture. This phenomenon also provides a 
+secondary bond in the mix [23]. The volumetric properties of mixes are given in Table 1. 
+ 
+Table 1. Volumetric properties of mixes 
+ 
+Name of ﬁller 
+Bulk density 
+(gm/cm3) 
+Volume of voids 
+in % (VV) 
+Voids in 
+mineral 
+aggregate in % 
+(VMA) 
+Voids ﬁlled with 
+bitumen in % 
+(VFB) 
+SD 
+1.98 
+9.16 
+24.52 
+62.65 
+RHA 
+2.11 
+7.91 
+30.09 
+73.71 
+FA 
+2.21 
+5.24 
+24.89 
+78.95 
+ 
+ 
+Figure 1. Marshall stability of CMA at different dosage of bitumen emulsion 
+2
+4
+6
+8
+10
+12
+14
+6.5
+7
+7.5
+8
+8.5
+9
+9.5
+10
+10.5
+Marshall stability (kN)
+Bitumen emulsion dosage (%)
+SD
+RHA
+FA
+4
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+----- TABLE p4#1 -----
+
+Name of filler | Bulk density
+(gm/cm3) | Volume of voids
+in % (V )
+V | Voids in
+mineral
+aggregate in %
+(VMA) | Voids filled with
+bitumen in %
+(VFB)
+SD | 1.98 | 9.16 | 24.52 | 62.65
+RHA | 2.11 | 7.91 | 30.09 | 73.71
+FA | 2.21 | 5.24 | 24.89 | 78.95
+
+===== PAGE 5 =====
+
+ 
+ 
+1.2 Marshall quotient of CMA mixes 
+ 
+The Marshall quotient (MQ) value indicates the stiffness of the mix that is measured by 
+dividing the stability value with flow value. A higher MQ value refers to the higher stiffness 
+of the mix which can efficiently distribute the applied load and withstand the deformation 
+caused by creep [24]. However, a very high MQ value means a brittle mix that results in 
+bleeding and cracking. MORT&H has recommended the value range from 2-5 kN/mm for 
+asphalt mix. The MQ value of mixes with different fillers is given in Fig. 2. The MQ value 
+for the mix with SD filler is 1.93 kN/mm (<), indicating a less stiff mixture. Furthermore, the 
+MQ of the mix with RHA and FA is 2.68 kN/mm and 3.01 kN/mm which refers to a robust 
+mixture. The mixture with FA shows the highest MQ value as FA particles utilize the excess 
+water for hydration [23]. 
+ 
+ 
+Figure 2 Marshall quotient values of CMA with different fillers 
+ 
+1.3 Indirect tensile strength (ITS) and tensile strength ratio (TSR) of CMA mixes 
+ 
+The ITS and TSR value of CMA with conventional SD filler is 200 kPa and 71.22% 
+respectively. The minimum requirement of TSR value for asphalt mix is 80% as per 
+AASTHO and 75% as per IRC SP:100:2014. ITS and TSR of mixes with RHA and FA are 
+given in Fig. 3 and Fig. 4. It is observed that with the increasing dosage of bitumen emulsion, 
+the ITS has increased and at OBC, the ITS value is highest following the lower ITS value. 
+The trend is similar to the Marshall stability graph for both mixes. The ITS and TSR value 
+of CMA with RHA filler is increased to 188.75% and 51.74% respectively, at 9% OBC. 
+Similarly, the ITS and TSR of CMA with FA filler is increased to 33.69% and 17.38% 
+separately. It is stated that the TSR value of CMA mixes exceeds the code requirements, 
+which is satisfactory. The high resistance of mixes against moisture is due to the film of 
+bitumen emulsion on the aggregate particles and the pozzolanic effect of fillers within the 
+mixture. 
+ 
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+SD
+RHA
+FA
+Marshall quotient (kN/mm)
+CMA mixes with different fillers
+SD
+RHA
+FA
+5
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+----- TABLE p5#1 -----
+
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+ |  |  |  | 
+
+===== PAGE 6 =====
+
+ 
+ 
+ 
+Figure 3 ITS and TSR of CMA with RHA filler 
+ 
+ 
+Figure 4 ITS and moisture susceptibility of CMA with FA filler 
+ 
+1.4 Rutting resistance of CMA mixes 
+ 
+The rutting test is an essential aspect in terms of determining the premature failure of the 
+asphalt mix. The rutting samples were tested with the same boundary condition to compare 
+the performance of the mixes. The test results are given in Figure 5. The rut depth is 
+increasing with the increasing no. of wheel passes and the final rut depth was recorded at 
+10,000 wheel passes. It was noticed that the rut depth obtained for mix with SD filler is 16.57 
+mm which is the highest among other mixes. The rut depth achieved for CMA with RHA and 
+FA is 16.3 mm and 10.89 mm respectively. The mixture with FA is the most rut resistant 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+0
+50
+100
+150
+200
+250
+7
+7.5
+8
+8.5
+9
+9.5
+10
+Indirect tensile stregth (kPa)
+Bitumen emulsion content (%)
+ITS
+TSR
+Tensile stregth ratio (%)
+64
+66
+68
+70
+72
+74
+76
+78
+80
+82
+84
+86
+0
+50
+100
+150
+200
+250
+300
+7
+7.5
+8
+8.5
+9
+9.5
+10
+Indirect tensile stregth (kPa)
+Bitumen emulsion content (%)
+ITS
+TSR
+Tensile strgth ratio (%)
+6
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+----- TABLE p6#1 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p6#2 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 7 =====
+
+ 
+ 
+under this test. The higher rut resistance of RHA and FA mixture is due to the pozzolanic 
+behaviour of these fillers and the hydration mechanism of fillers particles within the mixture. 
+ 
+ 
+Figure 5 Rutting resistance of CMA with different fillers 
+ 
+ 
+1.5 Cost analysis 
+ 
+The utilization of waste materials in pavement raised another concern related to the cost-
+effectiveness of any technology. The cost of pavement with these fillers is calculated for a 
+single lane 1 km road of 40 mm thick. The material and construction costs were calculated, 
+including the cost of machinery and equipment. Following are the calculation for the required 
+quantity of materials for single lane 1 km road:  
+i. 
+Quantity of material for CMA with SD filler 
+ 
+• 
+Density of mix with 5% SD filler and 8% bitumen emulsion content is 1980 kg/m3 
+• 
+Quantity of mix for 40 mm thick pavement layer 1000×3.75× 0.04×1980=297000 
+kg≅ 297 tons 
+• 
+Amount of bitumen emulsion required= 8%×297=23.76 tons 
+• 
+Total quantity of aggregate with filler = (297-23.76)/1.5 = 182.16 tons 
+• 
+Amount of stone dust = 182.16 × 5%= 9.108 tons 
+• 
+Quantity of aggregate = 182.16-9.108 = 173.052 tons 
+ 
+ii. 
+Quantity of material for CMA with FA filler 
+ 
+• 
+Density of mix with 5% FA filler and 8% bitumen emulsion content 2020 kg/m3 
+• 
+Quantity of mix for 40 mm thick pavement layer 1000×3.75× 0.04×2020=303000 
+kg≅ 303 tons 
+• 
+Amount of bitumen emulsion required= 8%×303 =24.24 tons 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+0
+2000
+4000
+6000
+8000
+10000
+Rut depth (mm)
+Wheel passes (no of cycles)
+SD
+RHA
+FA
+7
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+===== PAGE 8 =====
+
+ 
+ 
+• 
+Total quantity of aggregate with filler = (303 -24.24)/1.5 = 185.84 tons 
+• 
+Amount of RCAD = 185.84 × 5%= 9.29 tons 
+• 
+Quantity of aggregate = 185.84-9.29 = 176.55 tons 
+ 
+iii. 
+Quantity of material for CMA with RHA filler 
+ 
+• 
+Density of mix with 5% RHA filler and 9% bitumen emulsion content 2030 kg/m3 
+• 
+Quantity of mix for 40 mm thick pavement layer 1000×3.75× 0.04×2030=304500 
+kg≅ 304.5 tons 
+• 
+Amount of bitumen emulsion required= 9%×304.5 =27.41 tons 
+• 
+Total quantity of aggregate with filler = (304.5 -27.41)/1.5 = 184.73 tons 
+• 
+Amount of RCAD = 184.73 × 5%= 9.24 tons 
+• 
+Quantity of aggregate = 184.73-9.24 = 175.49 tons 
+The calculation of materials is given in Table 2 and the materials costs are also included. 
+It is observed that the cost per ton of mix with FA is Rs. 7196.55/- per ton which is the lowest. 
+However, the cost is higher for 1 km road length made with FA filler. This phenomenon is 
+due to the higher density of the mix, which requires more materials. Additionally, the cost of 
+CMA with RHA is Rs. 2412801.14 per lane km, i.e costliest mixture among them. As per the 
+study, it is suggested that the best suitable filler for CMA is FA considering the performance 
+and cost of the mixture. 
+ 
+Table 2  Cost calculation of mixes with different fillers 
+ 
+Sl. no. 
+Items 
+SD  
+FA  
+RHA  
+Remarks 
+1. 
+Bulk Density 
+(kg/m3) 
+1980 
+2020 
+2030 
+- 
+2. 
+Quantity of 
+mix 
+(tons/lane 
+km) 
+297 
+303 
+304.5 
+- 
+3. 
+Quantity of 
+bitumen 
+emulsion 
+(tons/lane 
+km) 
+23.76 
+24.24 
+27.41 
+- 
+4. 
+Cost of 
+bitumen 
+50500 
+50500 
+50500 
+Rate of 
+Meghalaya 
+Bitchem 
+Pvt.Ltd.Assam, 
+8
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+----- TABLE p8#1 -----
+
+Sl. no. | Items | SD | FA | RHA | Remarks
+1. | Bulk Density
+(kg/m3) | 1980 | 2020 | 2030 | -
+2. | Quantity of
+mix
+(tons/lane
+km) | 297 | 303 | 304.5 | -
+3. | Quantity of
+bitumen
+emulsion
+(tons/lane
+km) | 23.76 | 24.24 | 27.41 | -
+4. | Cost of
+bitumen | 50500 | 50500 | 50500 | Rate of
+Meghalaya
+Bitchem
+Pvt.Ltd.Assam,
+
+===== PAGE 9 =====
+
+ 
+ 
+emulsion  
+(Rs/ton) 
+(Including 
+18% GST) 
+5. 
+Filler cost 
+(Rs/ton) 
+1100 
+1000 
+(Rate as per 
+Skyward 
+Concricks 
+private Limited, 
+Kolkata, West 
+Bengal) 
+2000 
+(Rate as per 
+Krishna Udyog, 
+Kolkata, West 
+Bengal) 
+ 
+6. 
+Per ton cost 
+of CMA with 
+ﬁller ( Rs)  
+7207.73 
+7196.55 
+7923.81 
+Including, 
+contactor 
+proﬁt, water 
+charges, Chess 
+and GST 
+ 
+5 Conclusions 
+The laboratory analysis compares the performance of the CMA mixture made with 
+conventional SD, RHA and FA. Some highlights of the results are as follows: 
+ 
+• 
+The Marshall stability of CMA with RHA and FA filler is 20.32% and 25.99% higher 
+at 9% and 8% OBC than conventional filler mix. The Marshall quotient value of 
+CMA with SD, RHA and FA filler is 1.93 kN/mm, 2.68 kN/mm and 3.01 kN/mm 
+respectively. 
+• 
+The indirect tensile strength of the mix with RHA and FA is 15.5% and 25% higher 
+than CMA with SD filler. The moisture susceptibility of CMA with SD, RHA and 
+FA is 71.22%, 81.94% and 84.51% respectively, at OBC.  
+• 
+The rutting resistance of CMA with RHA and FA is 1.66% and 52.16% higher than 
+CMA with SD filler. 
+• 
+As per the cost analysis, the mixture with FA is 10.11% and 0.16% more cost-
+effective than CMA with RHA and SD filler.  
+• 
+The incorporated waste fillers have improved CMA's performance and proved 
+desirable in all aspects. It is found that the FA filler is the most effective, as per the 
+study. 
+References 
+1. Pinki Deb and Kh. Lakshman Singh. Mix design, durability and strength 
+enhancement of cold mix asphalt: a state‐of‐the‐art review. Innovative 
+Infrastructure Solutions (2022) 7:61, https://doi.org/10.1007/s41062-021-00600-2  
+9
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+----- TABLE p9#1 -----
+
+ | emulsion
+(Rs/ton) |  |  |  | (Including
+18% GST)
+5. | Filler cost
+(Rs/ton) | 1100 | 1000
+(Rate as per
+Skyward
+Concricks
+private Limited,
+Kolkata, West
+Bengal) | 2000
+(Rate as per
+Krishna Udyog,
+Kolkata, West
+Bengal) | 
+6. | Per ton cost
+of CMA with
+filler ( Rs) | 7207.73 | 7196.55 | 7923.81 | Including,
+contactor
+profit, water
+charges, Chess
+and GST
+
+===== PAGE 10 =====
+
+ 
+ 
+2. Needham, D. Developments in bitumen emulsion mixtures for roads. University of 
+Nottingham, Nottingham (1996). 
+3. Thanaya, I.N.A. Review and recommention of cold asphlat emulsion mixtures 
+CAEMS design. Civil Engineering Dimension, 9 (1), 49-56 (2007). 
+4. Read, J and Whiteoak, D. The shell bitumen handbook. Thomas Telford. (2003). 
+5. MORTH (Ministry of Road Transport and Highways) Specifications for Road and 
+Bridge Works (Fifth Revision) Indian Road Congress New Delhi (2013).  
+6. H. Wang, I. Al-Qadi, A. Faheem, H. Bahia, S.H. Yang, G. Reinke, Effect of mineral 
+filler characteristics on asphalt mastic and mixture rutting potential, Trans. Res. 
+Rec.: J. Transp. Res. Board 2208, 33–39 (2011).  
+7. A.H. Aljassar, S. Metwali, M.A. Ali, Effect of filler types on Marshall stability and 
+retained strength of asphalt concrete effect of filler types on Marshall stability and 
+retained strength of asphalt concrete, Int. J. Pavement Eng. 5 (1) 47–51(2016). 
+8. Feuerborn, H.-J. Coal ash utilisation over the world and in Europe. Workshop on 
+environmental and health aspects of coal ash utilization, 23rd–24th November,Tel-
+Aviv, Israel (2005). 
+9. Dash, S.S., Panda, M. Influence of mix parameters on design of cold bituminous 
+mix. Construct. Build. Mater. 191, 376e385 (2018). 
+       https://doi.org/10.1016/j.conbuildmat.2018.10.002. 
+10. Thanaya, I.N.A., Zoorob, S.E., Forth, J.P. A laboratory study on cold-mix, cold-lay 
+emulsion mixtures. Proc. Inst. Civ. Eng. Transp. (2009) 
+       https://doi.org/10.1680/tran.2009.162.1.47 
+11. Sargin S., Saltan M., Morova N., Serin S., Terzi S., Evaluation of rice husk ash as 
+filler in hot mix asphalt concrete, Constr. Build. Mater. 48,390–397, (2013)  
+12. Al-Hdabi A. Laboratory investigation on the properties of asphalt concrete mixture 
+with Rice Husk Ash as filler, Constr. Build. Mater. 126. 544– 551, (2016). 
+13. Mistry R., Karmakar S., T. Kumar Roy. Experimental evaluation of rice husk ash 
+and fly ash as alternative fillers in hot-mix asphalt, Road Mater. Pavement Des. 1–
+12( 2018). 
+14. Arabani M., Tahami S.A.,Taghipoor M. Laboratory investigation of hot mix asphalt 
+containing waste materials, Road Mater. Pavement Des. 1–17 (2017) 
+15. IRC:SP:100, Use of cold mix technology in construction and maintenance of roads 
+using bitumen emulsion, 2014. 
+16. Thanaya I.N.A. Improving the performances of cold bituminous emulsion mixture 
+incorporating waste materials. Ph.D thesis. School of civil engineering. The 
+University of Leeds (2003). 
+17. ASTM D6927-15. Standard test method for marshall stability and flow of asphalt 
+mixtures 
+18. ASTM D6931-17. Standard test method for Indirect tensile stregth (IDT) of asphalt 
+mixtures. 
+19. AASHTO T283, Resistance of Compacted Bituminous Mixture to Moisture 
+Induced Damage Standard Specifications for Transportation Materials and Methods 
+of Sampling and Testing. Part II Tests. Washington, DC (2009) 
+20. AASHTO T324. Standard method of test for Hamburg wheel-track testing of 
+compacted hot mix asphalt (HMA) (2011) 
+21. Du Shaowen. Effect of curing conditions on properties of cement asphalt mixtures. 
+Construction and building materials 164, 84-93 (2018) 
+https://doi.org/10.1016/j.conbuildmat.2017.12.179  
+22. Jince P. Zachariah , Partha Pratim Sarkar, Manish Pal. A study on the moisture 
+damage and rutting resistance of polypropylene modified bituminous mixes with 
+10
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023
+
+
+===== PAGE 11 =====
+
+ 
+ 
+crushed brick aggregate wastes. Construction and Building Materials 269, 121357 
+(2021). https://doi.org/10.1016/j.conbuildmat.2020.121357  
+23. Al-Busaltan, S., Al Nageim, H., Atherton, W., and Sharples, G. Mechanical 
+properties of an upgrading cold-mix asphalt using materials. Journal of Materials in 
+Civil Engineering, 24 (12), 1484-1491(2012). 
+24. Arabani, M., and Azarhoosh, A.R. The effect of recycled concrete aggregate and 
+steel slag on the dynamic properties of asphalt mixtures. Construction and Building 
+Materials, 35, 1-7, (2012). 
+ 
+11
+E3S Web of Conferences 455, 03009 (2023)	
+https://doi.org/10.1051/e3sconf/202345503009
+ICGEST 2023

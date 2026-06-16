@@ -1,0 +1,1380 @@
+
+===== PAGE 1 =====
+
+ 
+ 
+NIPES - Journal of Science and Technology Research 7(2) 2025 pp. 354-362 eISSN-2682-5821, pISSN-2734-2352 
+354 
+ 
+ 
+Gamma Radiation Shielding and Thermal Performance of Concrete with 
+Coconut Shell Ash Replacement  
+U. Rilwan1, M.A. Abdulazeez2, I. Maina1,2, O.W. Olasoji2, S.F. Olukotun3,4, A. El-Taher5,12, M. I. 
+Sayyed6,7, Chenko G.Y. Nimchang8, Jibrin Ahmed Guto9, O.A. Adeyeba10, M.W. Marashdeh11. 
+1* Department of Physics, Faculty of Natural and Applied Sciences, Nigerian Army University, P.O. Box 1500 Biu, Borno State, 
+Nigeria. 
+2 Department of Physics, Abubakar Tafawa Balewa University, Bauchi, Bauchi State, Nigeria. 
+3 Department of Physics and Engineering Physics, Obafemi Awolowo University, Ile-Ife, Nigeria. 
+4 Center for Applied Radiation Science and Technology (CARST), North-West University, Mahikeng Campus, Mahikeng, South 
+Africa. 
+5 Department of Physics, Faculty of Science, Al-Azhar University, Assuit 71452, Egypt 
+6 Department of Physics, Faculty of Science, Isra University, Amman, Jordan  
+7 Renewable Energy and Environmental Technology Center, University of Tabuk, Tabuk 47913, Saudi Arabia 
+8 Department of Physics, Faculty of Natural Sciences, Plateau State University, Bokkos, Plateau State, Nigeria. 
+9 Department of Building, Faculty of Environmental, Nigerian Army University, P.O. Box 1500, Biu, Borno State, Nigeria. 
+10 Department of Materials Science and Engineering, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Kingdom 
+of Saudi Arabia. 
+11 Department of Physics, College of Sciences, Imam Mohammad Ibn Saud Islamic University (IMSIU), P.O. Box 90950, Riyadh, 
+11623, Saudi Arabia. 
+12 Department of General Education Development, Faculty of Science and Information Technology, Daffodil International 
+University, Ashulia Dhaka-1441, Bangladesh 
+Corresponding author: rilwan.usman@naub.edu.ng (U. Rilwan): +234 8037772627 
+Article Info 
+ 
+Abstract 
+Keywords Radiation Shielding; GRSA; 
+CSA; Weight Percent; DTA; TGA. 
+ 
+This research assessed the influence of replacing cement with 
+coconut shell ash (CSA) on radiation shielding ability of a 
+concrete using Nist XCOM, Phy-X, and Geant4. Four concrete 
+C1, C2, C3, and C4 were prepared with water-to-cement (W/C) 
+ratio of 0.6 throughout the mixes. The densities of the resulting 
+concretes were altered (2.40 g/cm3 to 2.20 g/cm3) as the CSA 
+content raises from 0.00 kg to 0.15 kg. More so, adding CSA to 
+the concrete matrix, resulted in variation of linear attenuation 
+coefficients (LAC) (0.195 cm-1 for C1, 0.18 cm-1 for C2, 0.183 
+cm-1 for C3, and 0.177 cm-1 for C4) of the resulting composite at 
+0.662 MeV. Based on this study, it was observed that samples C4 
+reduces the incoming photons better than C2, C3, and C1 at 
+lower energy level (0.015 MeV to 0.04 MeV), while samples C1 
+reduces the incoming photons better than C2, C3, and C4 at 
+higher energy level (0.04 MeV to 15 MeV). The thermal 
+performance of the resulting concrete C2, C3, and C1 were 
+improved when compared with sample C4. Therefore, concrete 
+samples C2, C3, and C1 is the most effective for radiation 
+shielding for their resistance to thermal threats. 
+Received 21 April 2025 
+Revised   21 May 2025 
+Accepted 23 May 2025 
+Available online 11 June 2025 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+https://doi.org/10.37933/nipes/7.2.2025.27 
+ 
+eISSN-2682-5821, pISSN-2734-2352 
+© 2025 NIPES Pub. All rights reserved. 
+ 
+This article is open access under the CC BY license (http://creativecommons.org/licenses/by/4) 
+1.0 
+Introduction 
+Nuclear innovation is considered as the alternate source of energy which when utilized could mitigate the unexpected 
+power issues [1]. This energy coming from nuclear technology gives out ionizing rays which could be very dangerous 
+to human health [2]. It is for this reason that shielding becomes necessary in order to minimize the level of these rays 
+ 
+ 
+
+
+----- TABLE p1#1 -----
+
+11 Department of Physics, College of Sciences, Imam Mohammad Ibn Saud Islamic University (IMSIU), P.O. Box 90950, Riyadh, | 
+11623, Saudi Arabia. | 
+
+===== PAGE 2 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+355 
+ 
+coming from their source to the nearest minimal, so that the population leaving close to the facilities that emits such 
+hazardous radiation can be protected from the dangers of the rays [3, 4]. The massless and chargeless nature of gamma 
+rays made them highly penetrative, necessitating the need to search for high proton number (Z) and density materials 
+in order to achieve a better shielding against the harmful radiation [5]. 
+On that note, researchers suggested ceramics, lead, metal alloys and Clay for gamma radiation shielding because of their 
+high Z, high densities [6, 7]. But the limitations like frigidity for ceramics, low mechanical strength for Clay, health 
+risks for metal alloys, and high cost as well as toxicity for lead, calls for a serious concern [8]. Concretes has been the 
+substitute for these materials because of their high density and easy to operate, which makes them good for gamma 
+radiation shielding [9]. On the quest to improve the shielding ability of concretes, researchers suggested that, concrete 
+should be mixed with local wastes since some of these local wastes are high Z materials. Therefore, when local wastes 
+like coconut shell powder is mixed with concrete, because of the silicon in it, the shielding ability of the resulting 
+composite is expected to be altered, and also, because of the calcium content in it, the thermal resistance of the resulting 
+concrete could be improved [10]. 
+Therefore, it is vital to explore the addition of local content into concrete, and also to check the parameters like 
+differential thermal analysis (DTA), which gives the extent of the material to withstand high degree of temperature 
+generated by electromagnetic radiation before getting deformed [11-13]. 
+Thermal performance of a material to be utilized for gamma radiation shielding is also very important to be assessed, 
+as it gives the clear insight the amount of temperature (generated from electromagnetic radiation) that a material can 
+withstand before getting deformed or cracked. It was reported by [14] that, some of these local materials like coconut 
+shell ash (CSA), rice husk ash (RHA), bone ash (BA), palm nut shell ash (PNSA), and the rest, can improve the thermal 
+resistance of a material due to the presence of calcium in them [15]. It is also crucial to check the linear attenuation 
+coefficient (LAC, cm-1) which describes the easiness of a material to shield radiation [16, 17]. 
+By repurposing coconut shells, a typically discarded waste material, the utilization of CSA is viewed as a sustainable 
+practice that can lead to a reduction in concrete production's environmental impact [18]. Moreover, since it is relatively 
+cost-effective in comparison to alternative additives characterized by high density, CSA is a viable solution for 
+increasing concrete's ability to shield against radiation from an economic perspective [19]. 
+In this study, chemical content of the concrete-CSA is checked by the Energy Dispersive X-ray Fluorescence (EDXRF), 
+and the data obtained are used to compute the GRSA for the resulting concrete-CSA material with the aid of Phy-
+X/PSD, Nist XCOM, and Grant4 software. The thermal characterization of the fabricated materials is also conducted in 
+the work using DTA which depict the degree of temperature that a material can withstand before getting deformed or 
+cracked. 
+2.0. Methodology 
+2.1. Production of Concrete - Coconut Shell Ash (CSA) Materials  
+Figure 1 depicted how concrete samples were prepared. C1, containing 0 wt% of CSA content replacing cement, was 
+prepared by blending 0.5 kg of cement, 1 kg of sand, and 1 kg of granite. C2, with 10 wt% of CSA content as a substitute 
+of cement, was prepared as follows: 0.45 kg of cement, 1 kg of sand, 1 kg of granite, and 0.05 kg of CSA. C3, having 
+20 wt% of the content of CSA as replacement of cement, was achieved by the mixture of 0.4 kg of cement, 1 kg of sand, 
+1 kg of granite, and 0.1 kg of CSA. C4, which has 30 wt% of CSA content replacing cement in it, was prepared with 
+0.35 kg of cement, 1 kg of sand, 1 kg of granite, and 0.15 kg of CSA. In this research work, we adopted 0.6 as the 
+fraction of water-cement (W/C) for all mixtures [20, 21]. The resulting mixture was shaped like discs after a rigorous 
+stirring, later which the molded concretes were spread under the sun for some days to regularize their weight. In order 
+to make sure that the samples were free from the water content, the samples were put into an oven and the temperature 
+of the oven was set to low degree for two hours. 
+ 
+Figure 1: Illustration of Fabrication Processes of Concrete-Coconut Shell Ash 
+
+
+===== PAGE 3 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+356 
+ 
+The density (ρ, g/cm3) of the prepared samples were determined with the aid of Equation 1 based on the report of [22, 
+23] as presented in Table 1. The total masses (M, g) of the individual aggregates were recorded from a weighing balance 
+(digital) which is as accurate as ±1.0 x10-2 g. Then, the individual aggregate's volume (V, cm3) of used concretes were 
+determined by pouring the individual sample powders into a beaker of water and measuring the change in the water 
+level, which gives the volume of the particular aggregate. Summation of these individual volumes gives the total volume 
+(V).  
+𝜌 (
+𝑔
+𝑐𝑚3) =
+𝑀
+𝑉 
+(1) 
+Table 1: Mixing Proportion of Concrete and Coconut Shell Ash 
+Sample ID 
+Sand (g) 
+Granite (g) 
+Cement (g) 
+CSA (g)  
+Density (g/cm3) 
+A 
+1000.00 
+1000.00 
+500 
+0.00 
+2.40 
+B 
+1000.00 
+1000.00 
+450 
+50 
+2.28 
+C 
+1000.00 
+1000.00 
+400 
+100 
+2.24 
+D 
+1000.00 
+1000.00 
+350 
+150 
+2.20 
+2.2. Sample Analysis 
+The specimen's elemental composition was characterized through the analytical technique of energy-dispersive X-ray 
+(EDX) spectroscopy, whereby a sample was bombarded by a targeted electron beam which displaced electrons from 
+their atomic orbits, while distinctive X-rays are emitted. The bombardment of the sample with electrons causes ejection 
+of electrons, with vacancies being created and populated by electrons of a lower energy, while as they relax excess 
+energy in the X-ray form is subsequently released. During the period of relaxation, the energy given is absolutely distinct 
+for each and every of the element within present withing the sample. In essence, each and every element possesses their 
+own completely unique X-ray signature, as such, the X-rays emitted from the specimen furnished qualitative 
+compositional insights [14, 24]. This qualitative compositions of the elements for the produced samples in wt% were 
+carried out using ARL QUANT'X EDXRF Analyzer at Umaru Musa Yar’adua University (UMYU), Katsina, Nigeria, 
+and the results are presented in Table 2. 
+The research conducted DTA test to measure the thermal transition of each of the samples through observation of 
+temperature difference between the control material (Al2O3) and produced samples. Same quantity of both control and 
+produced samples were respectively placed on the control and sample pans, and they were both exposed to same quantity 
+of heat between room-temperature up to 200 0C. The graph of graph and sample temperature different was plotted as a 
+function of temperature, and the endothermic and exothermic transition in the samples was obtained. 
+3.0. Results and Discussion 
+Table 2 provides insights into the elemental composition of the samples, revealing that the major elements in the samples 
+are oxygen (O), silicon (Si), calcium (Ca), strontium (Sr), aluminum (Al), Fe and potassium (K), while the minor 
+elements include Sulphur (S). Similar findings have been reported by [12, 16, 21]. 
+Table 2: Qualitative Elemental Composition of the Fabricated samples in wt% 
+Elements 
+C1 
+C2 
+C3 
+C4 
+Fe 
+1.16235 
+1.34722 
+1.44845 
+2.10801 
+O 
+41.0922 
+40.8407 
+40.1273 
+39.1641 
+Si 
+18.9538 
+20.4865 
+21.0052 
+21.4102 
+
+
+===== PAGE 4 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+357 
+ 
+Al 
+5.69045 
+4.02491 
+2.76121 
+1.10823 
+Mg 
+5.87318 
+3.70901 
+2.10012 
+0.36555 
+S 
+0.57845 
+0.66876 
+0.72641 
+0.81601 
+Ca 
+19.8359 
+21.0657 
+22.0168 
+22.8282 
+K 
+1.88879 
+2.43303 
+2.99102 
+3.47862 
+Sr 
+4.92441 
+5.42402 
+6.82344 
+8.72101 
+In terms of the most prominent element in the sample there is the emergence of oxygen (O), with 41.0923 (C1) and 
+39.1643 (C4) as the maximum and minimum wt%, respectively. This is followed by calcium (Ca) ranking second with 
+22.8283 (C4) and 19.8360 (C1) as the maximum and minimum wt%, respectively. Silicon (Si) follows as the second 
+most abundant element, peaking at 21.4101 wt% (C4) and dropping to 18.9539 (C1). Magnesium (Mg) is also a 
+significant element, reaching a high of 5.8732 wt% (C1) and falling to 0.3656 (C4). Aluminum (Al) is another notable 
+element, with the highest wt% (C1) at 5.6905 and the lowest at 1.1082 (C4). Strontium (Sr) comes next, with a maximum 
+wt% of 8.7210 (C4) and a minimum of 4.9244 (C1). Potassium (K) follows with a high of 3.4786 wt% (C4) and a low 
+of 1.8888 (C1), and Iron (Fe) is seen with the highest value of 2.1080 wt% (C4) and the lowest at 1.1624 wt% (C1). 
+Sulfur (S) is the least abundant element, peaking at 0.8160 wt% (C4) and dropping to 0.5785 wt% (C3). 
+In this study, the results of the elemental composition from Table 2, as well as the densities presented in Table 1 were 
+then utilized to compute the parameters like LAC, which is the fundamental required for the analysis of the gamma 
+radiation shielding ability (GRSA) of a material. These computations were carried out using the Phy-X/PSD software 
+[25, 31] and Geant4 simulation [5, 25]. The results of two software were compared with Nist XCOM online software 
+[25], all at the gamma energy of 0.015 MeV to 15 MeV.  
+The values of LAC of different prepared concrete at different energies ranging from 0.15 MeV to 15 MeV were 
+calculated by Geant4 simulation, Phy-X/PSD and XCOM program and the relative deviation has been estimated 
+according the Equation 2 and 3 
+𝐷𝑒𝑣1 (%) =
+𝜇𝑋𝐶𝑂𝑀−𝜇𝑃ℎ𝑦−𝑥
+𝜇𝑃ℎ𝑦−𝑥
+× 100                                                                                                (2) 
+𝐷𝑒𝑣2 (%) =
+𝜇𝐺𝑒𝑎𝑛𝑡4−𝜇𝑃ℎ𝑦−𝑥
+𝜇𝑃ℎ𝑦−𝑥
+× 100                                                                                               (3) 
+The maximum deviation determined through the three different techniques was no more than 3% for the four samples 
+studied in the energies range from 0.15 MeV to 15 MeV as shown in Table 3. at very low energy, specially at 0.015 
+MeV, the LAC increased with increasing the CSA. By increasing the energy, the LAC decreased slightly with increasing 
+the CSA. 
+The LAC of the fabricated concretes at 0.015 MeV to 15 MeV gamma energies for all samples are plotted and presented 
+in Figure 2. It could be observed at each energy that the LAC of the entire samples decreased as the energy is 
+appreciating. As in literature, LAC depicts the fraction of a gamma rays beam at a given energy that is diffused or soak 
+up per unit fatness of the absorber. From Figure 2, a slight decrease in the values of LAC (25.555 cm-1 to 22.049 cm-1 
+for C1, 28.956 cm-1 to 21.098 cm-1 for C2, 28.067 cm-1 to 19.105 cm-1 for C3, and 30.482 cm-1 to 24.008 cm-1 for C4) 
+was observed between the lower energy range of 0.015 MeV to 0.02 MeV. 
+Table. 3. LAC of concrete samples at different energies using Geant4, Phy-X and XCOM. 
+Energy, 
+MeV 
+C1 
+C2 
+LAC, 
+XCOM 
+LAC, 
+Phy-X 
+Dev1 
+LAC, 
+Geant4 
+Dev2 
+LAC, 
+XCOM 
+LAC, 
+Phy-X 
+Dev1 
+LAC, 
+Geant4 
+Dev2 
+0.015 
+25.128 
+25.555 
+-1.67 
+25.272 
+-1.11 
+29.480 
+28.956 
+1.81 
+28.835 
+-0.42 
+0.02 
+21.689 
+22.049 
+-1.63 
+21.773 
+-1.25 
+21.475 
+21.098 
+1.79 
+20.559 
+-2.55 
+0.03 
+7.238 
+7.358 
+-1.62 
+7.193 
+-2.24 
+7.089 
+6.965 
+1.78 
+6.785 
+-2.58 
+0.04 
+3.413 
+3.469 
+-1.63 
+3.402 
+-1.94 
+3.320 
+3.260 
+1.82 
+3.182 
+-2.40 
+0.05 
+1.979 
+2.012 
+-1.63 
+1.970 
+-2.10 
+1.915 
+1.881 
+1.79 
+1.841 
+-2.12 
+0.06 
+1.321 
+1.343 
+-1.63 
+1.294 
+-3.66 
+1.273 
+1.251 
+1.78 
+1.229 
+-1.76 
+0.08 
+0.774 
+0.787 
+-1.63 
+0.783 
+-0.45 
+0.742 
+0.729 
+1.78 
+0.722 
+-1.01 
+
+
+===== PAGE 5 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+358 
+ 
+0.1 
+0.564 
+0.573 
+-1.65 
+0.579 
+1.05 
+0.539 
+0.530 
+1.78 
+0.528 
+-0.38 
+0.15 
+0.383 
+0.389 
+-1.65 
+0.386 
+-0.87 
+0.365 
+0.359 
+1.80 
+0.361 
+0.50 
+0.2 
+0.319 
+0.325 
+-1.64 
+0.321 
+-1.08 
+0.305 
+0.299 
+1.75 
+0.302 
+0.83 
+0.3 
+0.262 
+0.266 
+-1.59 
+0.261 
+-1.82 
+0.249 
+0.245 
+1.74 
+0.248 
+1.07 
+0.4 
+0.230 
+0.234 
+-1.64 
+0.229 
+-2.08 
+0.219 
+0.216 
+1.78 
+0.218 
+1.15 
+0.5 
+0.208 
+0.212 
+-1.63 
+0.212 
+-0.17 
+0.199 
+0.195 
+1.78 
+0.198 
+1.18 
+0.6 
+0.192 
+0.195 
+-1.63 
+0.198 
+1.42 
+0.183 
+0.180 
+1.78 
+0.182 
+1.20 
+0.8 
+0.168 
+0.171 
+-1.63 
+0.168 
+-1.66 
+0.160 
+0.158 
+1.78 
+0.159 
+1.21 
+1.0 
+0.151 
+0.153 
+-1.63 
+0.149 
+-2.79 
+0.144 
+0.141 
+1.78 
+0.143 
+1.22 
+1.5 
+0.123 
+0.125 
+-1.63 
+0.121 
+-2.86 
+0.117 
+0.115 
+1.79 
+0.116 
+1.23 
+2.0 
+0.106 
+0.108 
+-1.63 
+0.106 
+-1.56 
+0.101 
+0.100 
+1.77 
+0.101 
+1.21 
+3.0 
+0.087 
+0.089 
+-1.64 
+0.088 
+-1.10 
+0.083 
+0.082 
+1.77 
+0.083 
+1.16 
+4.0 
+0.077 
+0.078 
+-1.63 
+0.072 
+-7.28 
+0.074 
+0.072 
+1.79 
+0.073 
+1.11 
+5.0 
+0.070 
+0.071 
+-1.63 
+0.070 
+-1.68 
+0.067 
+0.066 
+1.80 
+0.067 
+1.06 
+6.0 
+0.066 
+0.067 
+-1.65 
+0.065 
+-2.58 
+0.063 
+0.062 
+1.79 
+0.063 
+1.01 
+8.0 
+0.061 
+0.062 
+-1.64 
+0.059 
+-3.93 
+0.059 
+0.058 
+1.78 
+0.058 
+0.91 
+10.0 
+0.058 
+0.059 
+-1.65 
+0.057 
+-3.52 
+0.056 
+0.055 
+1.78 
+0.056 
+0.83 
+15.0 
+0.055 
+0.056 
+-1.65 
+0.056 
+-0.55 
+0.054 
+0.053 
+1.80 
+0.053 
+0.70 
+Energy, 
+MeV 
+C3 
+C4 
+LAC, 
+XCOM 
+LAC, 
+Phy-X 
+Dev1 
+LAC, 
+Geant4 
+Dev2 
+LAC, 
+XCOM 
+LAC, 
+Phy-X 
+Dev1 
+LAC, 
+Geant4 
+Dev2 
+0.015 
+27.574 
+28.067 
+-1.75 
+28.708 
+2.28 
+30.492 
+30.482 
+0.03 
+29.680 
+-2.63 
+0.02 
+18.769 
+19.105 
+-1.76 
+19.627 
+2.73 
+23.914 
+24.008 
+-0.39 
+24.309 
+1.25 
+0.03 
+6.191 
+6.302 
+-1.76 
+6.197 
+-1.66 
+7.900 
+7.899 
+0.02 
+7.667 
+-2.93 
+0.04 
+2.914 
+2.966 
+-1.75 
+3.086 
+4.03 
+3.676 
+3.676 
+0.00 
+3.640 
+-1.00 
+0.05 
+1.697 
+1.728 
+-1.76 
+1.741 
+0.79 
+2.099 
+2.099 
+0.01 
+2.052 
+-2.24 
+0.06 
+1.142 
+1.163 
+-1.75 
+1.177 
+1.28 
+1.378 
+1.378 
+0.01 
+1.374 
+-0.29 
+0.08 
+0.682 
+0.694 
+-1.76 
+0.682 
+-1.79 
+0.781 
+0.781 
+0.00 
+0.752 
+-3.69 
+0.1 
+0.506 
+0.515 
+-1.74 
+0.525 
+1.98 
+0.554 
+0.554 
+0.00 
+0.541 
+-2.38 
+0.15 
+0.352 
+0.358 
+-1.75 
+0.357 
+-0.16 
+0.363 
+0.363 
+0.01 
+0.361 
+-0.42 
+0.2 
+0.296 
+0.302 
+-1.74 
+0.299 
+-0.97 
+0.298 
+0.298 
+0.01 
+0.299 
+0.40 
+0.3 
+0.244 
+0.249 
+-1.75 
+0.245 
+-1.52 
+0.242 
+0.242 
+0.01 
+0.244 
+0.96 
+0.4 
+0.215 
+0.219 
+-1.76 
+0.216 
+-1.69 
+0.212 
+0.212 
+0.01 
+0.214 
+1.14 
+0.5 
+0.195 
+0.199 
+-1.75 
+0.195 
+-1.76 
+0.192 
+0.192 
+0.01 
+0.194 
+1.22 
+0.6 
+0.180 
+0.183 
+-1.75 
+0.180 
+-1.79 
+0.177 
+0.177 
+0.01 
+0.179 
+1.26 
+0.8 
+0.158 
+0.160 
+-1.75 
+0.158 
+-1.83 
+0.154 
+0.154 
+0.00 
+0.156 
+1.29 
+1.0 
+0.142 
+0.144 
+-1.75 
+0.141 
+-1.84 
+0.139 
+0.139 
+0.02 
+0.140 
+1.31 
+1.5 
+0.115 
+0.117 
+-1.76 
+0.115 
+-1.85 
+0.113 
+0.113 
+0.02 
+0.114 
+1.32 
+2.0 
+0.100 
+0.101 
+-1.76 
+0.100 
+-1.82 
+0.098 
+0.098 
+0.01 
+0.099 
+1.28 
+3.0 
+0.082 
+0.083 
+-1.75 
+0.082 
+-1.71 
+0.080 
+0.080 
+0.01 
+0.081 
+1.17 
+4.0 
+0.072 
+0.073 
+-1.76 
+0.072 
+-1.59 
+0.071 
+0.071 
+0.00 
+0.072 
+1.04 
+5.0 
+0.066 
+0.067 
+-1.75 
+0.066 
+-1.47 
+0.065 
+0.065 
+-0.01 
+0.066 
+0.90 
+6.0 
+0.062 
+0.063 
+-1.74 
+0.062 
+-1.35 
+0.062 
+0.062 
+0.02 
+0.062 
+0.79 
+8.0 
+0.057 
+0.058 
+-1.76 
+0.058 
+-1.14 
+0.057 
+0.057 
+0.01 
+0.058 
+0.57 
+10.0 
+0.055 
+0.056 
+-1.76 
+0.055 
+-0.97 
+0.055 
+0.055 
+-0.01 
+0.055 
+0.38 
+15.0 
+0.052 
+0.053 
+-1.76 
+0.053 
+-0.65 
+0.053 
+0.053 
+0.01 
+0.053 
+0.07 
+
+
+===== PAGE 6 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+359 
+ 
+ 
+Figure 2: Linear attenuation coefficient (LAC) of the Fabricated Concretes against Energy 
+A fast drop in the values of LAC (22.049 cm-1 to 7.358 cm-1 for C1, 21.098 cm-1 to 6.965 cm-1 for C2, 19.105 cm-1 to 
+6.302 cm-1 for C3, and 24.008 cm-1 to 7.899 cm-1 for C4) was observed between the lower energy range of 0.02 MeV 
+to 0.03 MeV. Between the energy range of 0.03 MeV to 15 MeV, a smooth decrease in the values of LAC was observed 
+from 7.358 cm-1 to 0.056 cm-1 for C1, 6.965 cm-1 to 0.053 cm-1 for C2, 6.302 cm-1 to 0.053 cm-1 for C3, and 7.899 cm-
+1 to 0.053 cm-1 for C4. The overall reduction in the values of the LAC of the studied samples could be attributed to the 
+decrease in the number of interactions at higher energy, confirming that, the shielding ability of the fabricated concretes 
+is less at higher energy. On the other hand, at lower energy level, say 0.015 MeV, the values of the LAC of the studied 
+concretes sample tend to slightly increase (25.555 cm-1, for C1, 28.956 cm-1 for C2, 28.067 cm-1 for C3, and 30.482 cm-
+1 for C4) as the content of CSA is added to the concrete matrix. This increased in the values of LAC of concrete C4, 
+C3, and C2 compared to C1 could be attributed to the increase in the concentration by Wt.% of silicon, Sulphur, calcium, 
+potassium, and strontium in concrete C4, C3, and C2 compared to C1, confirming that, at lower energy, concrete C4 
+has the better gamma radiation shielding ability. Contrarily, at higher energy (5 MeV), the LAC of the studied concretes 
+samples tend to slightly decrease as the content of CSA is added to the concrete matrix. This decrease for example 0.071 
+cm-1 for C1, 0.066 cm-1 for C2, 0.067 cm-1 for C3, and 0.065 cm-1 for C4 could be related to the high penetration of 
+gamma radiation at higher energy, which resulted in a smaller number of interactions, confirming that, at higher energy 
+level, concrete C1 has the better gamma radiation shielding ability. This result is in line with the report of [8]. 
+The LAC at lower energy between 0.015 MeV to 0.04 MeV, raises as the content of CSA was slowly added to the 
+concrete matrix. Sample C4 which has 150 g of CSA replacing cement consistently exhibited the highest LAC values 
+at lower energies, making 150 g of CSA replacement a threshold for optimum concrete mix in radiation shielding 
+application. The raise in LAC within this energy interval could be connected to the continual increase in the high atomic 
+number (Z) elements like Strontium (Sr), Calcium (Ca), and Silicon (Si) concentrations with increase in the CSA content 
+from 0 g to 150 g across the concrete samples as presented in Table 2. Their high Z could be responsible for the raise 
+in the overall effective atomic number (Zeff) of the concretes, resulting in an increase in density, being the major factor 
+responsible for the improved LAC of our samples [15]. The superior LAC experienced at these energy intervals could 
+also be related to the fact that in the lower energy region, the possibility of interactions is high, which could result in 
+high absorption of the incoming photon radiation [14]. On the contrary, at higher energy, the LAC was observed to have 
+decreased with raise in the content of CSA across the concrete matrix. This reduction in the LAC values could be 
+attributed to the fact that, the probability of interaction reduces as the energy increase [25]. 
+The derived weight loss curve is generally more sensitive to subtle differences in weight loss than the DTA curve and 
+is therefore most commonly used for comparing similar materials. Figure 3 compares the curves derived for samples 
+C1, C2, C3 and C4 by traditional DTA (steady rate of heating), where a minimum variation was observed. The weight 
+loss in C2 was observed to be the least according to the figure, with sample C4 having the greatest loss of weight, which 
+could be attributed to the calcium carbonate decomposition and the CO2 gas evaporation. The temperatures obtained are 
+similar to those presented by [2, 26]. Each of such temperature of dehydroxylation is sufficient enough to offer each 
+sample an ability of withstanding the possible internal heat which could be generated from gamma rays. Based on the 
+results, sample C2 could withstand the heat generated by gamma radiation better than sample C3, then sample C1, and 
+sample C4. This result is in line with the report of [2, 14]. 
+ 
+0.01
+0.1
+1
+10
+0.1
+1
+10
+LAC, cm
+-1
+E, MeV
+ C1
+ C2
+ C3
+ C4
+
+
+----- TABLE p6#1 -----
+
+ | C1
+C2
+C3
+ | 
+ | 
+ | C1
+C2
+C3
+
+===== PAGE 7 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+360 
+ 
+ 
+Figure 3: Differential Thermal Analysis of the Fabricated Concretes against Temperature 
+ 
+ 
+Fig. 4: Comparison of LAC for the developed concrete with some recently published concrete. 
+To validate the radiation shielding characteristics of our sample, we compared the LAC values in the present study with 
+some lately published related concrete materials. Based on Figure 4, S4 and S5 recently published by [27] exhibited the 
+superior LAC values respectively of 0.197 cm-1 and 0.207 cm-1. The LAC of CSA- doped concretes at 0.662 MeV are 
+0.195, 0.18, 0.183, and 0.177 cm-1 for samples C1, C2, C3, and C4, respectively. The mentioned LAC values for the 
+developed concretes are close to that reported previously for samples B2C and BC2C [28] with LAC values of 0.175 
+and 0.178 cm-1, respectively. Developed concrete samples C1, C2, C3, and C4 have LAC values close to those of 
+concretes B2C and BC2C, which contain a high content of BaSO4 and BaCO3. On contrast, fabricated concrete samples 
+have LAC values higher than those reported for S1 (LAC = 0.192 cm-1), S2 (LAC = 0.93 cm-1), S3 (LAC = 0.194 cm-
+1) by [27], also has higher values compared to those reported for 0% (LAC= 0.146 cm-1), 10% (LAC= 0.151 cm-1), 20% 
+(LAC= 0.150 cm-1), 30% (LAC= 0.156 cm-1), 40% (LAC= 0.160 cm-1), EC (LAC= 0.167 cm-1), M0 (LAC= 0.030 cm-
+1), M1 (LAC= 0.048 cm-1), M2 (LAC= 0.054 cm-1), M3 (LAC= 0.069 cm-1), M4 (LAC=  0.076 cm-1), M5 (LAC= 0.089 
+0
+200
+400
+600
+800
+1000
+-5
+-4
+-3
+-2
+-1
+0
+1
+Derivative Weight, %/min
+Temperature, 
+0C
+ C1
+ C2
+ C3
+ C4
+C1
+C2
+C3
+C4
+A
+B
+C
+D
+M0
+M1
+M2
+M3
+M4
+M5
+M6
+M7
+S1
+S2
+S3
+S4
+S5
+BC2C
+B2C
+EC
+0
+10%
+20%
+30%
+40%
+CPNSA1
+CPNSA2
+CPNSA3
+CPNSA4
+0.00
+0.05
+0.10
+0.15
+0.20
+LAC Comparison of C1, C2, C3, and C4
+ 0.662, MeV
+
+
+----- TABLE p7#1 -----
+
+ | C1
+C2
+C3
+C4
+ | 
+ | 
+
+===== PAGE 8 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+361 
+ 
+cm-1), M6 (LAC= 0.102 cm-1), and M7 (LAC= 0.113 cm-1) [29, 30]. The comparison reveals that the produced concretes 
+have an excellent radiation shielding capability when compared to previously reported concretes. As a result, it is 
+suitable for radiation shielding applications in nuclear power plants and building construction. 
+4.0. Conclusion 
+At lower energy range (0.015 MeV to 0.04 MeV), it was observed that the composite samples C4 is better attenuating 
+than concrete C2, C3, and C1 in shielding gamma rays, making 150 g of CSA replacement a threshold for optimum 
+concrete mix in radiation shielding application at lower energy range between 0.015 MeV to 0.04 MeV. While at 
+medium and higher energy range (0.06 MeV to 0.15 MeV), it was observed that the composite samples C1 is better 
+attenuating than concrete C2, C3, and C4, making 0 g of CSA replacement a threshold for optimum concrete mix in 
+radiation shielding application at higher energy interval of 0.06 MeV to 0.15 MeV. The introduction of CSA into the 
+concrete matrix increases the thermal performance of the concrete as they were to withstand high degree heat generated 
+by electromagnetic (EM) radiation before getting deformed, confirming that, the samples with CSA content can be 
+applied in shielding of gamma radiation. Based on the findings of this study, the radiation subjections by staff during 
+procedures in the nuclear medicine rooms could be greatly minimize by application of concretes mixed with CSA as 
+shielding material. The application of concrete incorporated with CSA in shielding in a non-destructive testing (NDT) 
+laboratory, safety could be assured, since the radiation coming from inspection equipment can be blocked, particularly 
+at lower energies. Our materials could be utilized in the nuclear power plants as structural compositions in order to 
+safeguard the radiation workers as well as the environment from ionizing effects of radiation, donating greatly to the 
+operational safety and management of wastes. The high thermal resistance of our samples could be a great advantage 
+to building industries, especially where high temperature structural buildings are required. 
+References 
+[1] 
+S. Bello, J. Simon, A. S. Aliyu, A. Abdulqadir, U. Rilwan, and A. El-Taher, “The use of nuclear energy to solve Nigeria’s energy crisis 
+and 
+help 
+the 
+country 
+achieve 
+its 
+SDGs,” 
+J. 
+Rad. 
+Nucl. 
+Appl., 
+vol. 
+9, 
+no. 
+2, 
+pp. 
+77-28, 
+2024, 
+https://www.naturalspublishing.com/Article.asp?ArtcID=28169 
+[2] 
+U. Rilwan, M. A. Abdulazeez, I. Maina, O. W. Olasoji, A. El-Taher, I. S. Adeshina, and M. I. Sayyed, “Sustainable Gamma Radiation 
+Shielding: Coconut Shell Ash Modified Concrete for Radiation Protection Applications,” Journal of Radiation and Nuclear Applications, 
+vol. 10, no. 1, pp. 33-44, 2025b,  https://doi.org/10.18576/jrna/100106 
+[3] 
+A. H. Almuqrin, K. A. Mahmoud, U. Rilwan, and M. I. Sayyed, “Influence of various metal oxides (PbO, Fe2O3, MgO, and Al2O3) on the 
+mechanical properties and γ-ray attenuation performance of zinc barium borate glasses,” Nuclear Engineering and Technology, vol. 56, no. 
+7, pp. 2711-2717, 2024a, https://doi.org/10.1016/j.net.2024.02.032  
+[4] 
+A. H. Almuqrin, M. I. Sayyed, A. Kumar, and U. Rilwan, “Characterization of glasses composed of PbO, ZnO, MgO, and B2O3 in terms of 
+their structural, optical, and gamma ray shielding properties,” Nuclear Engineering and Technology, vol. 56, no. 7, pp. 2842-2849, 2024b, 
+https://doi.org/10.1016/j.net.2024.02.047 
+[5] 
+M. I. Sayyed, A. H. Almuqrin, M. Elsafi, and U. Rilwan, “Evaluation of incorporation of Granite waste and SnO2-NPs into coating mortar 
+for 
+gamma-ray 
+shielding,” 
+Radiation 
+Physics 
+and 
+Chemistry, 
+vol. 
+222, 
+no. 
+3, 
+pp. 
+2-12, 
+2024a,  
+https://doi.org/10.1016/j.radphyschem.2024.111818. 
+[6] 
+G. D. Danilatos, “Review and outline of environmental SEM at present,” Journal of Microscopy, vol. 162, no. 3, pp. 391–402, 1991. 
+https://doi.org/10.1111/j.13652818.1991.tb03149.x 
+[7] 
+A. M. Zayed, A. M. El-Khayatt, P. Petrounias, M. G. Shahien, K. A. Mahmoud, A. M. Rashad, A. H. Ragab, A. A. Hassan, B. R. Bakhit, 
+and M. A. Masoud, “From discarded waste to valuable products: Barite combination with chrysotile mine waste to produce radiation-
+shielding 
+concrete,” 
+Construction 
+and 
+Building 
+Materials, 
+vol. 
+417, 
+no. 
+1, 
+pp. 
+135334, 
+2024, 
+https://doi.org/10.1016/j.conbuildmat.2024.135334. 
+[8] 
+H. J. Alasali, U. Rilwan, K. A. Mahmoud, T. A. Hanafy, and M. I. Sayyed, “Comparative Analysis of TiO2, Fe2O3, CaO and CuO in borate-
+based glasses for gamma ray shielding,” Nuclear Engineering and Technology, vol. 56, no. 7, pp. 4050-4055, 2024, 
+https://doi.org/10.1016/j.net.2024.05.006. 
+[9] 
+M. Amin, W. E. Elemam, M. A. Kandil, and M. Samy, “Effect of heavy-weight recycled materials on radiation shielding and properties of 
+high-strength 
+concrete 
+with 
+CEM 
+III,” 
+Journal 
+of 
+Building 
+Engineering, 
+vol. 
+79, 
+no. 
+1, 
+pp. 
+107819, 
+2023, 
+https://doi.org/10.1016/j.jobe.2023.107819. 
+[10] 
+M. I. Sayyed, A.H. Almuqrin, C. V. More, U. Rilwan, M. Rashad, and M. Elsafi, “Exploring Gamma Radiation Shielding: The Role of BaO 
+in Borosilicate Glasses,” Silicon, vol. 16, no. 1, pp. 4857-4866, 2024c, https://doi.org/10.1007/s12633-024-03045-1 
+[11] 
+M. Scimeca, S. Bischetti, H. K. Lamsira, R. Bonfiglio, and E. Bonanno, “Energy dispersive X-ray (EDX) microanalysis: A powerful tool in 
+biomedical 
+research 
+and 
+diagnosis,” 
+European 
+Journal 
+of 
+Histochemistry, 
+vol. 
+62, 
+no. 
+1, 
+pp. 
+89–99, 
+2018, 
+https://doi.org/10.4081/ejh.2018.2841 
+[12] 
+S. F. Olukotun, S. T. Gbenu, F. I. Ibitoye, O. F. Oladejo, H.O. Shittu, M.K. Fasasi, and F. A. Balogun, “Investigation of gamma radiation 
+shielding capability of two clay materials,” Nuclear Engineering and Technology, vol. 50, no. 6, pp. 957-962, 2018, 
+https://doi.org/10.1016/j.net.2018.05.003. 
+[13] 
+S. F. Olukotun, K. S. Mann, S. T. Gbenu, F. I. Ibitoye, O. F. Oladejo, A. Joshi, H. O. Tekin, M. I. Sayyed, M.K. Fasasi, F.A. Balogun, and 
+T. Korkut, “Neutron-shielding behaviour investigations of some clay-materials,” Nuclear Engineering and Technology, vol. 51, no. 5, pp. 
+1444-1450, 2019, https://doi.org/10.1016/j.net.2019.03.019. 
+[14] 
+U. Rilwan, M. A. Abdulazeez, I. Maina, O. W. Olasoji, A. El-Taher, I. G. lhindawy, K. A. Mahmoud, M. I. Sayyed, M. Elsafi, M. Rashad, 
+and Y. Maghrbi, “The use of coconut shell ash as partial replacement of cement to improve the thermal properties of concrete and waste 
+management sustainability in Nigeria and Africa, for radiation shielding application,” Scientific African, vol. 27, no. 1, pp. 1-18 2025c, 
+https://doi.org/10.1016/j.sciaf.2025.e02578. 
+
+
+----- TABLE p8#1 -----
+
+[2] U. Rilwan, M. A. | Abdulazeez, I. Maina, O. W. Olasoji, A. El
+
+----- TABLE p8#2 -----
+
+[14] U. Rilwan, M. A. | Abdulazeez, I. Maina, O. W. Olasoji, A. El-Taher, I. G. lhindawy, K. A. Mahmoud, M. I. | Sayyed, M. | Elsafi, M. Rashad,
+and Y. Maghrbi, “The use of coconut shell ash as partial replacement of cement to improve the thermal properties of concrete and waste |  |  | 
+management sustainability in Nigeria and Africa, for radiation shielding application,” Scientific African, vol. 27, no. 1, pp. 1-18 2025c, |  |  | 
+https://doi.org/10.1016/j.sciaf.2025.e02578. |  |  | 
+
+===== PAGE 9 =====
+
+ 
+U. Rilwan, et al.  / NIPES Journal of Science and Technology Research 
+7(2) 2025 pp. 354-362 
+ 
+362 
+ 
+[15] 
+U. Rilwan, G. M. Aliyu, S. F. Olukotun, M. M. Idris, A. A. Mundi, S. Bello, I. Umar, A. El-Taher, K. A. Mahmoud, and M.I. Sayyed, 
+“Recycling and characterization of bone incorporated with concrete for gamma-radiation shielding applications,” Nuclear Engineering and 
+Technology, vol. 56, no. 7, pp. 2828-2834, 2024, https://doi.org/10.1016/j.net.2024.02.045. 
+[16] 
+S. F. Olukotun, S. T. Gbenu, O. F. Oladejo, F. A. Balogun, M. I. Sayyed, S. M. Tajudin, E. I. Obiajunwa, and M. K. Fasasi, “The effect of 
+incorporated recycled low-density polyethylene (LDPE) on the fast neutron shielding behaviour (FNSB) of clay matrix using MCNP and 
+PHITS 
+Monte 
+Carlo 
+codes,” 
+Radiation 
+Physics 
+and 
+Chemistry, 
+vol. 
+182, 
+no, 
+1, 
+pp. 
+109351, 
+2021, 
+https://doi.org/10.1016/j.radphyschem.2021.109351. 
+[17] 
+M. I. Sayyed, and H. Elhouichet, “Variation of energy absorption and exposure buildup factors with incident photon energy and penetration 
+depth for boro-tellurite (B2O3-TeO2) glasses,” Radiation Physics and Chemistry, vol. 130, no. 1, pp. 335-342, 2017, 
+https://doi.org/10.1016/j.radphyschem.2016.09.019. 
+[18] 
+M. I. Sayyed, M. C. Ersundu, A. E. Ersundu, G. Lakshminarayana, and P. Kostka, “Investigation of radiation shielding properties for MeO-
+PbCl2-TeO2 (MeO = Bi2O3, MoO3, Sb2O3, WO3, ZnO) glasses,” Radiation Physics and Chemistry, vol. 144, no. 1, pp. 419-425, 2018a, 
+https://doi.org/10.1016/j.radphyschem.2017.10.005. 
+[19] 
+M. I. Sayyed, U. Rilwan, K. A. Mahmoud, and M. Elsafi, “Experimental study of the radiation shielding characteristics of new PbO–Na2O–
+B2O3–BaO glasses,” Nuclear Engineering and Technology, vol. 56, no. 7, pp. 2437-2443, 2024b, https://doi.org/10.1016/j.net.2024.01.058 
+[20] 
+M. Smith, K. Thompson, and F. Lennard, “A literature review of analytical techniques for materials characterisation of painted textiles—
+Part 2: spectroscopic and chromatographic analytical instrumentation,” Journal of the Institute of Conservation, vol. 40, no. 3, pp. 252–266, 
+2017, https://doi.org/10.1080/19455224.2017.1365739 
+[21] 
+S. M. Tajudin, A. H. A. Sabri, M. Z. Abdul-Aziz, S. F. Olukotun, B. M. Ojo, and M. K. Fasasi, “Feasibility of clay-shielding material for 
+low-energy 
+photons 
+(Gamma/X),” 
+Nuclear 
+Engineering 
+and 
+Technology, 
+vol. 
+51, 
+no. 
+6, 
+pp. 
+1633-1637, 
+2019, 
+https://doi.org/10.1016/j.net.2019.04.020. 
+[22] 
+G. Velmathi, “A review on morphological, structural and electrical characterization techniques of thin films,” International Journal of 
+Engineering and Technology, vol. 8, no. 5, pp. 1925–1935, 2016, https://doi.org/10.21817/ijet/2016/v8i5/160805410 
+[23] 
+M. M. Idris, I. O. Olarinoye, M. T. Kolo, S. O. Ibrahim, U. Rilwan, and M. I. Sayyed, “A comparative study of the radiation dose 
+response of (ZnO)x(TeO2)1-x thin films for high energy X-ray application,” Ceramics International, vol. 51, no. 16, pp. 1-11, 2025, 
+https://doi.org/10.1016/j.ceramint.2025.03.290. 
+[24] 
+U. Rilwan, M. A. Abdulazeez, I. Maina, O. W. Olasoji, A. El-Taher, A. U. Maisalatee, M. U. Sarki, G. Mohammed, and M. I. Sayyed, 
+“Feasibility study on the possibility of utilizing e-nut shell ashes for gamma-radiation protection application,” Radiation Physics and 
+Chemistry, vol. 233, no. 1, pp. 112748, 2025d, https://doi.org/10.1016/j.radphyschem.2025.112748. 
+[25] 
+U. Rilwan, S. A. Edeh, M. M. Idris, I. I. Fatima, S. F. Olukotun, G. Z. Arinseh, P. Z. Bonat, A. El-Taher, K. A. Mahmoud, T. A. Hanafy, and M. I. 
+Sayyed, “Influence of waste glass on the gamma-ray shielding performance of concrete,” Annals of Nuclear Energy, vol. 210, no. 1, 
+pp. 110876, 2025a, https://doi.org/10.1016/j.anucene.2024.110876 
+[26] 
+Y. K. Kaika, I. Umaru, M. M. Idris, U. Rilwan, J. A. Guto, M. I. Sayyed, A. U. Maisalatee, A. A. Mundi, and K. A. Mahmoud, 
+“Microstructural, thermal analysis, and gamma-ray shielding properties of bricks made of various local natural materials,” Radiation 
+Physics and Chemistry, vol. 236, no. 3, pp. 112742, 2025, https://doi.org/10.1016/j.radphyschem.2025.112742. 
+[27] 
+S. Kumar, K. S. Mann, T. Singh, and S. Singh, “Investigations on the gamma-ray shielding performance of green concrete using theoretical, 
+experimental 
+and 
+simulation 
+techniques,” 
+Progress 
+in 
+Nuclear 
+Energy, 
+vol. 
+134, 
+no. 
+1, 
+pp. 
+103654, 
+2021, 
+https://doi.org/10.1016/j.pnucene.2021.103654. 
+[28] 
+V. Fugaru, S. Bercea, C. Postolache, S. Manea, A. Moanta, I. Petre, and M. Gheorghe, “Gamma Ray Shielding Properties of Some Concrete 
+Materials,” Acta Phys Pol A, vol. 127, no. 1, pp. 1427–1429, 2015, https://doi.org/10.12693/APhysPolA.127.1427. 
+[29] 
+R. S. Aita, K. A. Mahmoud, H. A. A. Ghany, E. M. Ibrahim, M. G. El-Feky, and I. E. El-Aassy, “Impacts of siltstone rocks on the ordinary 
+concrete’s physical, mechanical and gamma-ray shielding properties: An experimental examination,” Nuclear Engineering and Technology, 
+vol. 56, no. 6, pp. 2063-2070, 2024, https://doi.org/10.1016/j.net.2024.01.014. 
+[30] 
+A. S. Ouda, and H. S. Abdelgader, “Assessing the physical, mechanical properties, and γ-ray attenuation of heavy density concrete for 
+radiation shielding purposes,” Geosystem Engineering, vol. 22, no. 1, pp. 72–80, https://doi.org/10.1080/12269328.2018.1469434. 
+[31] 
+M. I. Sayyed, S. A. Issa, M. Büyükyıldız, and M. Dong, “Determination of nuclear radiation shielding properties of some tellurite glasses 
+using MCNP5 code,” Radiation Physics and Chemistry, vol. 150, no. 1, pp. 1-8, 2018b, https://doi.org/10.1016/j.radphyschem.2018.04.014. 
+ 
+
+
+----- TABLE p9#1 -----
+
+[24] U. Rilwan, M. A. | 
+ | “
+
+----- TABLE p9#2 -----
+
+[25] U. Rilwan, S. A. Edeh, M. M. |  | 
+ | Sayyed, “ | Influence of waste g
+
+----- TABLE p9#3 -----
+
+Rilwan, J. A. Guto, M. I. | Sayyed, A. U. Maisalatee, A. A.

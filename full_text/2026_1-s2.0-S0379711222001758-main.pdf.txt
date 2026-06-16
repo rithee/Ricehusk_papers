@@ -1,0 +1,1011 @@
+
+===== PAGE 1 =====
+
+Fire Safety Journal 135 (2023) 103698
+Available online 3 November 2022
+0379-7112/© 2022 Elsevier Ltd. All rights reserved.
+Residual compressive strength of concrete after exposure to high 
+temperatures: A review and probabilistic models 
+Marzieh Shahraki a,*, Nan Hua b, Negar Elhami-Khorasani c, Anthony Tessari c, Maria Garlock d 
+a Geotechnical Engineer, Arup, New York, NY, 10005, USA 
+b Tunnel Engineer, Mott MacDonald, Los Angeles, CA, 90017, USA 
+c Associate Professor, Dept. of Civil, Structural and Environmental Engineering, Univ. at Buffalo, Buffalo, NY, 14260, USA 
+d Professor, Dept. of Civil and Environmental Engineering, Princeton Univ, Princeton, NJ, 08544, USA   
+A R T I C L E  I N F O   
+Keywords: 
+Concrete 
+Post-fire 
+Residual compressive strength 
+Dataset 
+Probabilistic model 
+A B S T R A C T   
+The mechanical properties of concrete degrade after exposure to high temperatures during a fire event. Proper 
+assessment of damage, determination of the remaining capacity of the structure, and recommendations for repair 
+actions require the quantification of the reduction in the compressive strength of concrete after fire. This paper 
+collects and analyzes the existing data on residual compressive strength of normal strength concrete in the 
+literature. The analyses aim to identify the influential attributes that could be used to reduce scatter in the data. 
+Parameters related to aggregate type, concrete mix, and testing protocol are studied. Subsets of the dataset for 
+concrete with siliceous and calcareous aggregates are created. Data for siliceous concrete is further categorized 
+based on the retaining time of the maximum temperature during the test. The subsets are used to propose 
+probabilistic models for the residual compressive strength of concrete with siliceous and calcareous aggregates. 
+The models follow the Weibull distribution and are continuous functions that can be implemented in analytical 
+and computational frameworks. The medians of the proposed model and data are close to the Eurocode reduction 
+factors for the siliceous concrete but fall below the Eurocode reduction factors for concrete with calcareous 
+aggregate.   
+1. Introduction 
+Fire is a major societal hazard with the potential to disrupt infra­
+structure systems and drain valuable resources from a community. 
+Extreme fire events, such as the 1999 Mont Blanc Tunnel fire and the 
+2017 London Grenfell Tower fire, can lead to fatalities and significant 
+damage. The dollar cost of structure fires increases significantly when 
+accounting for indirect losses and expenditures, with estimates of 
+around 1% of the GDP in developed countries [25,77]. Concrete struc­
+tures typically behave well at high temperatures and do not collapse 
+when subjected to moderate fires. The superior performance of concrete 
+structures under fire, compared to other materials, relates to the low 
+thermal conductivity of the material and the large mass of the structural 
+components. Nonetheless, these structures experience damage and 
+require repair to resume function after a fire. 
+The available guidelines on damage assessment of concrete struc­
+tures after a fire are limited [2,3,23,24,32], and the evaluation is per­
+formed mostly on an ad hoc basis. Post-fire damage and repair 
+classifications in the current guidelines rely on visual inspection, 
+non-destructive testing, and sampling of material for laboratory testing. 
+Meanwhile, the information from visual inspections and non-destructive 
+testing can be supplemented with results from advanced modeling and 
+an analysis of the structure subjected to fire to guide the damage 
+assessment procedure and develop proper repair strategies. Aside from 
+the fire scenario, the models require input on the thermal and me­
+chanical properties of materials at high temperatures. Given the large 
+levels of uncertainty in fire events and the properties of materials at high 
+temperatures, a proper assessment of said performance involves sto­
+chastic evaluation of the structural response. Previous work studied and 
+quantified the variability in the mechanical properties of steel and 
+concrete at high temperatures [30,50], but additional research is needed 
+to quantify the post-fire mechanical properties of concrete for damage 
+and recovery assessment. 
+There is a relatively large number of experimental studies on the 
+residual compressive strength of concrete after exposure to high tem­
+peratures. Babalola et al. [11] conducted a review study on the residual 
+* Corresponding author. 
+E-mail address: marziehs@buffalo.edu (M. Shahraki).  
+Contents lists available at ScienceDirect 
+Fire Safety Journal 
+journal homepage: www.elsevier.com/locate/firesaf 
+https://doi.org/10.1016/j.firesaf.2022.103698 
+Received 6 May 2022; Received in revised form 23 October 2022; Accepted 29 October 2022   
+
+
+===== PAGE 2 =====
+
+Fire Safety Journal 135 (2023) 103698
+2
+mechanical properties of concrete exposed to elevated temperatures, 
+focusing on the effects of natural and recycled aggregates, mineral ad­
+mixtures, and fibers. The study provided some noteworthy findings for 
+improving the performance of concrete after exposure to elevated tem­
+peratures; however, estimating the residual strength of concrete remains 
+a challenge due to the large scatter in the data. The large variability in 
+existing datasets is related to the inherent uncertainty in the material 
+behavior in addition to variations in various attributes of the experi­
+ments, e.g., a lack of consistency in testing protocols. 
+The objective of this study is to provide a comprehensive review of 
+experimental investigations on the residual compressive strength of 
+concrete after exposure to high temperatures. The existing data are 
+analyzed to identify attributes that could affect the dispersion in residual 
+strength, such as the aggregate type, concrete mix, and testing protocol. 
+Categories with limited data points that require further research are 
+identified. The refined datasets are then used to develop probabilistic 
+models for the normalized residual compressive strength of concrete. 
+The proposed models have simple mathematical forms that can be 
+applied in analytical and computational frameworks. Both data and 
+proposed models are compared with the Eurocode [17,18] prescribed 
+values for the residual strength of concrete after fire and the suitability 
+of the Eurocode reduction factors is discussed. 
+2. Methodology 
+The content analysis approach proposed by Mayring [44] is applied 
+to collect and review the available literature on residual compressive 
+strength of concrete after exposure to high temperatures. The review is 
+carried out systematically, following a four-step process: 
+1. Material collection: comprises a well-organized search and delimi­
+tation of articles.  
+2. Descriptive analysis: identifies the general features of the literature 
+under review.  
+3. Category selection: builds a categorization framework based on 
+relevant dimensions. For this study, attributes of the data that could 
+influence the outcome are identified.  
+4. Material evaluation: reviews and interprets articles using the given 
+categorization framework. 
+The first three steps are discussed in the following subsections. The 
+final step is explored in greater detail along with the analysis of collected 
+data on the residual compressive strength of concrete. 
+3. Material collection 
+The following criteria were considered when conducting the litera­
+ture review: (1) papers that provided experimental data on the residual 
+compressive strength of concrete subjected to high temperatures were 
+collected, (2) papers that included experimental data on compressive 
+strength of concrete at high temperatures (i.e., measurements done 
+while specimens were hot) were excluded, and (3) published journals 
+papers for a time span of 30 years (from 1990 to 2020) were included. 
+Considering these criteria, a total of 60 articles containing 1400 data 
+points on the residual compressive strength of concrete as a function of 
+temperature were identified. Further, only the data points for concrete 
+with a compressive strength of less than 55 MPa at room temperature, i. 
+e., normal strength concrete (NSC), were kept in the dataset. Thus, 53 
+articles with a total of 1240 (out of 1400) data points were selected for 
+review and analysis. 
+3.1. Descriptive analysis 
+Fig. 1 presents the distribution of published experimental data from 
+1990 to 2020. The number of experimental studies on the residual 
+compressive strength of concrete subjected to high temperatures has an 
+increasing trend over time. 
+The distribution of specimen types in the examined literature is 
+shown in Fig. 2. There is a relatively uniform distribution between cube 
+versus cylinder specimens. In most of the European studies, the 
+compressive strength is measured using cubic specimens, whereas cyl­
+inders are used in the United States and Australia. Pacheco et al. [46] 
+proposed a cube to cylinder conversion factor of 0.81 for normal ag­
+gregates and 0.77 for recycled aggregates. The conversion factors were 
+applied to cubic samples before grouping the data based on concrete 
+strength (normal vs. high strength). 
+3.2. Category selection 
+The collected literature included variations in a series of attributes, 
+including the aggregate type, concrete mix, and testing protocol, when 
+investigating the residual compressive strength of concrete as a function 
+of temperature. These attributes are listed in Fig. 3 and their influence 
+on the residual strength of concrete is studied in this paper. 
+About 80% of concrete is made up of coarse aggregate and the 
+aggregate type has an effect on the residual compressive strength of 
+concrete that is exposed to high temperatures [16]. The most often used 
+categories for aggregate types are siliceous and calcareous aggregates. 
+Calcareous aggregates are sedimentary rocks that are primarily 
+composed of calcium carbonate (CaCO3), such as limestone or dolomite, 
+whereas siliceous aggregates are mainly composed of silica (SiO2, i.e., 
+combination of silicon and oxygen) and silicates (combination of silicon, 
+oxygen, and other elements). Thermal incompatibility between the 
+aggregate and cement paste causes degradation in mechanical proper­
+ties of concrete at high temperatures. The higher the aggregate’s coef­
+ficient of thermal expansion, the more damage the concrete experiences 
+when exposed to high temperatures [17]. 
+The rest of the considered parameters are related to the concrete mix 
+and testing protocol. Concrete mix includes the water/cement (w/c) 
+ratio and inclusion of any fibers and/or supplementary cementitious 
+materials (SCM). The testing protocol refers to the heating rate, retain­
+ing time, cooling rate, and cooling method (e.g., air or water). 
+Table 1 summarizes the type and range of parameters in the collected 
+Fig. 1. Distribution of reference papers by year.  
+Fig. 2. Distribution of specimen type in the collected data.  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 3 =====
+
+Fire Safety Journal 135 (2023) 103698
+3
+dataset. Note that other factors such as the size of the specimen, concrete 
+age at testing, moisture content, etc. could also influence the residual 
+strength of concrete but consistent information was not available across 
+studies in the literature, thus not included in this research. 
+4. Material evaluation 
+The following sections will categorize and analyze the dataset to 
+identify parameters that influence the residual compressive strength of 
+concrete. These parameters are used to define sub-groups within the 
+dataset that perform similarly and exhibit less scatter. Observations 
+from collected data are also compared with reduction factors from 
+Eurocode [17,18] to assess the suitability of prescribed values by the 
+code. Finally, analysis of data is used to identify areas that require 
+further investigation. 
+4.1. Effect of coarse aggregate 
+The selection and characterization of the coarse aggregate likely has 
+the most influence on the performance of concrete at high temperatures 
+[60]. As previously stated, siliceous and calcareous aggregates are the 
+two major coarse aggregate types utilized in concrete mixtures. Based on 
+the type of coarse aggregate, Eurocode 2 (EC2) [17] specifies the loss in 
+concrete strength due to temperature and provides reduction factors for 
+compressive strength at high temperatures. Eurocode 4 (EC4) [18] 
+recommends an additional 10% loss of strength, with respect to the 
+value at the maximum achieved temperature, to determine the residual 
+strength after exposure to high temperatures. 
+Table 2 lists the collected articles in this research based on the 
+aggregate type in tested specimens. The collected dataset, targeting 
+publications post 1990, includes 1240 data points with a substantial 
+percentage focusing on siliceous aggregate, accounting for roughly 87% 
+of the dataset. The available data on calcareous aggregate is very 
+limited, as shown in Fig. 4a. Considering different aggregate types, the 
+majority of the tests were conducted at 200 ◦C, 400 ◦C, and 600 ◦C, as 
+shown in Fig. 4b. 
+Fig. 5 presents the normalized residual compressive strength of 
+concrete as a function of temperature and based on aggregate type. The 
+residual compressive strength data (f’c) were normalized using the 
+average of values recorded at room temperature (f’c,20). The plots 
+include the EC2 reduction factors for the compressive strength of con­
+crete at high temperatures as well as the EC4 recommended reduction 
+factors for residual strength for comparison with the data. The 
+normalized residual compressive strength for both aggregate types show 
+large variations across different temperatures. The figures also include 
+box plots, indicating the first quartile (Q1), third quartile (Q3), median, 
+whiskers that span 1.5 times of the inter-quartile range, and the outliers. 
+The median of the data for siliceous aggregate is slightly higher than the 
+EC4 recommendation (EC_Si), whereas in the case of calcareous aggre­
+gate, the median of data falls below the EC4 recommendation (EC_Ca), 
+noting that there is a smaller number of data points available compared 
+to the siliceous category. 
+Given the need for more sustainable construction, partial or full 
+replacement of all natural aggregates with recycled aggregates has been 
+considered as an option, and several published papers included concrete 
+mixes with recycled aggregates. The experiments assessed the effects of 
+using recycled aggregate on various concrete qualities, including re­
+sidual compressive strength when subjected to harsh environments and 
+extreme events such as high temperatures. In the siliceous category, 24% 
+of the articles (11 out of 46) included experimental data on recycled 
+aggregate concrete, whereas only 1 out of 12 studies (i.e., 8%) in the 
+calcareous category was concerned with the use of recycled aggregate. 
+Most experiments looked at the effect of using different ratios of recycled 
+aggregates within the mix. Other design criteria such as w/c ratio, ad­
+ditives, and testing protocol are also investigated when recycled 
+aggregate is used. The relevant literature including specimens with 
+recycled aggregate is listed in Table 3. 
+Fig. 6 shows the normalized residual strength of siliceous concrete 
+grouped based on normal and recycled aggregates. Excluding the data 
+with recycled aggregate from the pool does not reduce the large 
+dispersion in the dataset. Based on the box plots and the overall trend in 
+the data, differentiation between recycled versus normal aggregates 
+does not have a noticeable effect on the residual compressive strength of 
+concrete; thus, the rest of this paper will continue to group recycled and 
+normal aggregates together. 
+Fig. 3. Collected parameters that could influence residual compressive strength 
+of concrete exposed to high temperatures. 
+Table 1 
+Description, variation, and range of parameters in the collected dataset.  
+Parameter 
+Unit 
+Range 
+Aggregate 
+– 
+Siliceous, calcareous 
+Fibers 
+– 
+Polypropylene fiber, steel fiber, 
+basalt fiber, hybrid fiber 
+Supplementary 
+cementitious 
+material   
+Fly ash, silica fume, pozzolan, 
+metakaolin, slag, sludge ash, husk 
+ash, etc.  
+w/c or w/ba 
+– 
+0.28–0.77 
+Heating rate 
+◦C/min 
+0.83–20 (Electric furnace) 
+ISO 834 or ASTM E119 (Gas 
+furnace) 
+Retaining time 
+hr. 
+1–9 
+Cooling rate 
+◦C/min 
+0.40–3 
+Cooling type 
+– 
+Air, water (spray, jet, or tank)  
+a The water to binder (w/b) ratio, instead of w/c ratio, was reported for 
+mixtures containing supplementary cementitious materials (i.e., fly ash, slag, or 
+silica fume). 
+Table 2 
+Distribution of articles based on aggregate type.  
+Aggregate type 
+References 
+Siliceous 
+[1,6,7,9,12–15,19–22,26,31,36,38–43,48,49,52–58,61–67, 
+69–76]a 
+Calcareous 
+[4,8–10,22,29,33,47,51,58,66,68]a  
+a Four articles investigated both calcareous and siliceous aggregates [Arioz 
+2007; Sarhat and Sherwood 2013; Chen et al. 2014; Tufail et al. 2017]. 
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 4 =====
+
+Fire Safety Journal 135 (2023) 103698
+4
+4.2. Effect of concrete mix 
+The effect of different concrete mixes on the residual strength of 
+concrete after exposure to high temperatures is the most common 
+attribute investigated in the literature. Variations in the concrete mix 
+can be classified based on a variety of factors, including the addition of 
+fibers and SCM, and the w/c ratio. Table 4 lists the articles that included 
+additives or studied the effect of w/c ratio on the residual strength of 
+concrete. The majority of the peer-reviewed articles investigated various 
+concrete mixes with the aim of identifying solutions to decrease spalling 
+and cracking, as well as to improve ductility at high temperatures (e.g., 
+[22]). 
+Fig. 4. Distribution of the dataset based on (a) aggregate type (b) the maximum temperature at which the test was conducted.  
+Fig. 5. Normalized residual strength of concrete as a function of temperature for experimental data, the EC2 reduction factors, and EC4 recommendation for (a) 
+siliceous and (b) calcareous aggregate types. 
+Table 3 
+List of studies with recycled aggregate in concrete mix.  
+Aggregate type 
+Varying parameter 
+References 
+Siliceous with recycled 
+aggregate 
+Ratio of recycled 
+aggregate 
+[15,36,42,56,58,69,71, 
+76] 
+w/c ratio 
+[71,74] 
+Additive 
+[53,56,70,73] 
+Retaining time 
+[74] 
+Cooling regime 
+[71] 
+Calcareous with recycled 
+aggregate 
+Additive and cooling 
+rate 
+[22]  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 5 =====
+
+Fire Safety Journal 135 (2023) 103698
+5
+A number of studies investigated the effects of fibers, namely, steel, 
+polypropylene, and hybrid (combination of steel and polypropylene), 
+and argued that introducing such fibers may mitigate the negative ef­
+fects of increasing temperatures on concrete’s compressive strength (e. 
+g., [29,38,68,70]). Fig. 7a and b shows that the residual strength of 
+fiber-reinforced concrete with silicious aggregates does not follow a 
+noticeable trend, but calcareous concrete with fibers tends to have lower 
+residual strength. It should be noted that data on calcareous concrete 
+with fibers is from a single study [29]; thus, a general conclusion cannot 
+be made. 
+Silica fume and fly ash were among the studied SCMs in the collected 
+dataset [53]. found that adding fly ash to concrete reduced strength loss 
+at temperatures up to 400 ◦C and increased strength loss at temperatures 
+over 400 ◦C. Poon et al. [48] found that pozzolanic concretes incorpo­
+rating fly ash had higher residual strength than pure cement concretes at 
+temperatures below 600 ◦C. Concrete containing silica, on the other 
+hand, exhibits a tendency for lower relative residual compressive 
+strength at different temperatures [73]. Despite specific conclusions in 
+individual studies, Fig. 7c and d do not show a particular trend in the 
+residual strength of concrete mixes with and without SCMs that could be 
+used to lower the dispersion in data. 
+Fig. 8 Groups the collected dataset based on the w/c ratio. In general, 
+calcareous concrete with a w/c ratio higher than 0.5 tends to retain 
+strength after exposure to high temperatures better than concrete mixes 
+with a lower w/c ratio, but the same conclusion does not hold true for 
+siliceous aggregates. Therefore, the rest of this paper does not differ­
+entiate the data based on w/c ratio. 
+4.3. Effect of testing protocol 
+Nassif [45] argued that knowing the maximum exposure tempera­
+ture is insufficient for estimating the postfire strength of concrete; 
+however, no standard testing protocol exists for evaluating the effects of 
+high temperatures on concrete, resulting in variations in conducted 
+experiments in the literature and the potential for a large scatter in the 
+published results [27]. The testing protocol includes the rate of heating, 
+maximum temperature, retaining time, rate of cooling, and type of 
+cooling. The maximum temperature for the test is typically varied to 
+obtain reduction factors as a function of temperature. Thus, the heating 
+rate and the retaining time are the two main variables for the heating 
+protocol. 
+The heating rate is the rate at which the furnace temperature rises 
+over time. A rapid heating rate decreases the time it takes to reach the 
+required temperature inside a furnace, but it can lead to considerable 
+temperature variations inside concrete specimens [37]. Sachin and 
+Suresh [54] studied the effect of heating rate using gas and electric 
+furnaces, and concluded that fire-exposed specimens had lower residual 
+compressive strength than specimens heated in an electric furnace at the 
+Fig. 6. Normalized residual strength of concrete with (a) normal siliceous aggregate and (b) recycled siliceous aggregate.  
+Table 4 
+List of studies investigating the effect of concrete mix on residual compressive 
+strength of concrete after exposure to high temperatures.  
+Investigated 
+parameter 
+List of articles 
+Siliceous 
+Calcareous 
+Fiber 
+[22,38,49,56,70,73] 
+[29,68] 
+SCM 
+[7,12,13,15,21,26,31,40,41,43,48,49,52,53, 
+56,57,61–63,65,70,73] 
+[8,33] 
+w/c ratio 
+[6,9,12,19,40,65,71] 
+[4,9,33, 
+47]  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 6 =====
+
+Fire Safety Journal 135 (2023) 103698
+6
+same temperature. Gas furnaces typically follow the standard fire curve 
+(ASTM E119 or ISO834) whereas electric furnaces have a lower heating 
+rate compared to standard fire curves. Although the compressive 
+strength of concrete appears to be affected by different heating rates, the 
+majority of the reviewed articles used an electric furnace due to the 
+safety requirements and expenses of a gas furnace. Fig. 9 groups the data 
+based on heating rate, demonstrating that limited data is available with 
+the standard fire curve as the heating protocol. 
+Zega and Maio [74], Sakr and Hakim [55], and Zhang et al. [75] 
+studied the effect of retaining time on the residual strength of concrete 
+with siliceous aggregate, as the core temperature of a concrete specimen 
+lags behind the surface temperature due to the low thermal diffusivity of 
+concrete. The retaining time (tR) is the duration that a specified furnace 
+temperature is maintained once it has been reached. In general, longer 
+Fig. 7. Normalized residual strength of concrete categorized based on addition of fibers and SCM for (a) and (c) siliceous aggregates, and (b) and (d) calcar­
+eous aggregates. 
+Fig. 8. Normalized residual strength of concrete with (a) siliceous and (b) calcareous aggregates categorized based on the w/c ratio.  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 7 =====
+
+Fire Safety Journal 135 (2023) 103698
+7
+exposure times ensure a greater volume of a specimen reaches thermal 
+equilibrium with the furnace environment, which has a considerable 
+impact on residual compressive strength [28]. Figs. 10 and 11 group the 
+normalized residual compressive strength data based on the retaining 
+time of less than and larger than 2 h for silicious and calcareous ag­
+gregates, respectively. Fig. 10 shows that introducing the retaining time 
+to categorize the experimental data reduces the scatter in data for sili­
+ceous aggregate, especially in the range of 400–700 ◦C. In Fig. 10, the 
+medians of the box plots for data with a retaining time greater than 2 h 
+are better matched with the EC4 recommendation, whereas the medians 
+of box plots for retaining time less than 2 h fall above the EC4 
+recommendation. Comparing the two categorizes emphasizes the need 
+to allow sufficient time for the heat to reach the specimens’ cores to 
+obtain proper measurements. After investigating multiple thresholds on 
+the dataset, the minimum 2 h of retaining time was found to be neces­
+sary for lowering the standard deviation of normalized concrete 
+strength. Fig. 11 plots similar data but for concrete with calcareous 
+aggregates. It is shown that data with retaining times greater than 2 h 
+fall below the EC4 recommendation, whereas those with less than 2 h of 
+retaining time match better with EC4. This implies that the EC4 
+recommendation may not be conservative for concrete with calcareous 
+aggregates. Overall, more data is needed for concrete with calcareous 
+Fig. 9. Normalized residual strength of concrete with (a) siliceous and (b) calcareous aggregates categorized based on different heating rate (*or ASTM E119).  
+Fig. 10. Normalized residual compressive strength of concrete with siliceous aggregate and retaining time (a) less than or equal to 2 h, (b) greater than to 2 h.  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 8 =====
+
+Fire Safety Journal 135 (2023) 103698
+8
+aggregates to confirm the conclusions. 
+Chen et al. [21] indicated that understanding the cooling process is 
+essential for assessing the structural behavior of concrete exposed to fire 
+as it affects the recovery of compressive strength. Only two studies, [22, 
+39], investigated the effect of the cooling rate, indicating that a faster 
+cooling rate causes the concrete strength and stiffness to degrade more 
+rapidly. A few studies [1,12,14,21,39,43,52,55,71] also looked at the 
+effect of cooling type (air vs. water) for siliceous concrete. Fig. 12 plots 
+the collected dataset for the residual compressive strength of concrete 
+based on the cooling type. All of the data for calcareous aggregate were 
+air-cooled. The majority of data for siliceous aggregate were also 
+air-cooled with some experiments using water. Most of the experiments 
+reported that the relative strength of water-cooled specimens was lower 
+than those of air-cooled specimens (e.g., [14,21,71]). However, the 
+identified pattern is not significant when comparing all of the data­
+points; thus, the rest of this paper will not differentiate the cooling type 
+in the data. 
+4.4. Discussion on the collected database 
+A few key observations can be made from the review and analysis of 
+the collected dataset on the residual compressive strength of concrete 
+Fig. 11. Normalized residual strength of concrete with calcareous aggregate and retaining time (a) less than or equal to 2 h, (b) greater than to 2 h.  
+Fig. 12. Normalized compressive strength of concrete with (a) siliceous (b) calcareous aggregates based on cooling type.  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 9 =====
+
+Fire Safety Journal 135 (2023) 103698
+9
+subjected to high temperatures: (1) the majority of existing research has 
+focused on concrete with siliceous aggregates, with limited studies tar­
+geting concrete with calcareous aggregate, (2) studies with variations in 
+the concrete mix are dominant when compared to other attributes, 
+stemming from the aim to investigate and improve the likelihood of 
+spalling and/or cracking at high temperatures, and (3) more studies are 
+needed to explore the effects of heating and cooling stages, and 
+recommend a systematic and uniform testing protocol for high- 
+temperature experiments. Given the variations in the attributes of the 
+dataset and the need for additional research for a more systematic and 
+uniform testing protocol, the scatter in the current dataset cannot be 
+reduced much further after categorizing the data based on aggregate 
+type (i.e., siliceous and calcareous) and the duration of retaining time 
+(less than and greater than 2 h). 
+The next section discusses a probabilistic model based on the 
+collected experimental data on the residual compressive strength of 
+concrete and compares the results with the EC4 reduction factors. To 
+this end, two models, one for concrete with siliceous aggregates and one 
+with calcareous aggregates will be proposed. For concrete with siliceous 
+aggregate, the refined dataset with a retaining time longer than 2 h will 
+be used to build the probabilistic model. Given the limited number of 
+data points for calcareous concrete, all collected data will be employed 
+when building the model. 
+4.5. Probabilistic model for post-fire residual strength of concrete 
+This section will discuss and develop a probabilistic model for the 
+residual compressive strength of concrete after exposure to high tem­
+peratures (i.e., post-fire) based on the collected and refined dataset in 
+the previous sections. Qureshi et al. [50] quantified uncertainties in 
+retained strengths of steel and concrete at high temperatures (i.e., dur­
+ing fire). Different distribution candidates were used with the collected 
+data to identify the most suitable probabilistic model. In addition, the 
+models were considered to be continuous functions that could be 
+implemented in analytical and computational frameworks. A similar 
+approach by Qureshi et al. [50] is used in this section to propose 
+probabilistic models for post-fire residual compressive strength of con­
+crete. The proposed models in this paper will complement the previously 
+developed ones for analysis of structures during and after fires. 
+4.6. Evaluate candidate distributions 
+A total of 401 and 159 data points, collected from the literature, were 
+used to develop the probabilistic models for residual compressive 
+strength of normal strength concrete containing siliceous and calcareous 
+aggregates, respectively. As stated previously, the data points for con­
+crete with siliceous aggregate are filtered to have a retaining time of 
+more than 2 h to remove some of the large dispersions at certain tem­
+perature intervals (refer to Figs. 5a and 10). Raw data were then grouped 
+at temperature intervals of 50 ◦C to capture variability in data at distinct 
+temperature intervals. Each temperature group comprised data points 
+within a ±10 ◦C range, and datasets containing less than 5 data points 
+were discarded. Consequently, 11 temperature groups for siliceous 
+aggregate concrete and 7 temperature groups for calcareous aggregate 
+concrete were created. Fig. 13 shows the raw data with dashed lines 
+indicating the selected temperature groups, which will be used in the 
+next step to develop the probabilistic models. The groups range between 
+50 ◦C and 800 ◦C. Noting that the data is normalized using the average 
+measured value of concrete compressive strength at 20 ◦C; therefore, the 
+variability of data at ambient temperature is minimal. To capture the 
+scatter in concrete compressive strength at room temperature, and for 
+consistency with existing models for ambient design, a mean value of 1.0 
+with a coefficient of variation (COV) of 0.12 is imposed at 20 ◦C when 
+developing the probabilistic models. The selected value of the COV is 
+based on the recommendation by Holický and Sýkora [34] for normal 
+strength concrete compressive strength at 20 ◦C. 
+In the next step, 13 distinct probability density functions (PDF) were 
+chosen as competing models, and their quality was assessed to select the 
+best candidate. The selected functions that were fit to the data groups at 
+each specific temperature are the: gamma, normal, lognormal, logistic, 
+loglogistic, inverse Gaussian, Gumbel, generalized t-distributions, beta, 
+Rician, Nakagami, Bimbaum-Saunders, and Weibull. To compare the 
+distributions, three information criteria were used to quantify the rela­
+tive goodness of each fit across all temperature groups, namely: (1) 
+Bayesian information criterion or BIC; (2) Akaike information criterion 
+or AIC; (3) Corrected AIC or AICc.  
+• The BIC calculates the maximum likelihood estimate, by adopting 
+the negative measure of the fit as −2 × loglikelihood and penalizing 
+complexity as a positive log(N) × k, where N is the number of 
+samples and k is the total number of model parameters [59].  
+• The AIC also applies the penalized likelihood criterion, but instead of 
+log(N), it weighs k with a constant value of 2 [5].  
+• The AICc is equal to AIC + 2k2+2k
+N−k−1, introducing an adjustment by the 
+inclusion of an additional penalty for small-sized datasets [35]. 
+The three listed criteria were first computed at every temperature 
+group for each of the 13 candidate distributions. Then, the mean across 
+all the temperature groups was evaluated for each of the three criteria. 
+Each bar in Fig. 14 represents the mean value for the three information 
+Fig. 13. Grouped data points for concrete with (a) siliceous (b) calcareous aggregates.  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 10 =====
+
+Fire Safety Journal 135 (2023) 103698
+10
+criteria and all candidate distributions. A model with a lower BIC, AIC, 
+or AICc value is considered to be of higher quality (noting that the values 
+in Fig. 14 are negative). The concrete data with calcareous aggregates 
+had a small number of datapoints, for which the AIC may overfit 
+whereas the BIC may underfit. Therefore, the AICc is a more suitable 
+criterion to identify models with a better fit. 
+Fig. 14 shows that several distributions perform relatively better 
+than the others considering both siliceous and calcareous datasets: 
+Bimbaum-Saunders, gamma, inverse Gaussian, lognormal, Nakagami, 
+and Weibull. A few additional requirements are imposed to select the 
+final stochastic functions: 
+• The chosen models should be a “continuous function” that appro­
+priately captures scatter within experimental data for material 
+strengths ranging from 20 ◦C to 1000 ◦C.  
+• There should be a “closed-form function” available for presenting 
+quantiles of the model in order to facilitate implementation in 
+analytical and computational frameworks. 
+On the basis of these additional requirements, the selected models 
+Fig. 14. Comparison of the mean criterion value for each of the 13 candidate PDF models for the residual compressive strength of concrete with (a) siliceous (401 
+points) and (b) calcareous (159 points) aggregates. 
+Fig. 15. Selected probabilistic models along with PDF for normalized residual strength for (a) siliceous and (b) calcareous concrete data at 200◦C, 300◦C, and 400◦C.  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 11 =====
+
+Fire Safety Journal 135 (2023) 103698
+11
+were narrowed down to two distribution models: Weibull and 
+lognormal. Fig. 15 shows the PDF for the Weibull and lognormal models 
+against data for 200 ◦C, 300 ◦C, and 400 ◦C. Both distributions could 
+represent the data; however, the Weibull function was chosen for both 
+aggregate types moving forward. This ensures compatibility with 
+established stochastic functions for concrete strength at high tempera­
+tures by Qureshi et al. [50] and prevents potential confusion in use the of 
+the models in future. 
+4.7. Temperature-dependent parameters of the Weibull distribution 
+The Weibull distribution is a PDF with two variables: scale (λ) and 
+shape (k) parameters, as defined below: 
+f(x; λ, k) =
+⎧
+⎨
+⎩
+k
+λ
+(x
+λ
+)k−1
+e
+−
+(
+x
+λ
+)k
+, x ≥0
+0, x < 0
+(1) 
+The two parameters of the Weibull distribution were determined for 
+each temperature group of the concrete data with siliceous and calcar­
+eous aggregates, as presented in Fig. 16. Nineteen alternative poly­
+nomial functions were selected to fit to the parameters as a function of 
+temperature. The R-squared value was calculated for each polynomial fit 
+and used to assess how well the data matched the regression function. A 
+larger R-squared value implies that the polynomial function provides a 
+better match with the data. Aside from the R-squared value, a few other 
+factors were considered to select the function with the best estimate. For 
+example, the scale parameter (λ) should have a decreasing trend for the 
+temperature range of 20–1000 ◦C, and the shape parameter (k) should be 
+greater than 1. The red lines in Fig. 16 are the best fit polynomial re­
+gressions for the scale and shape parameters of the Weibull distributions 
+for the residual strength of siliceous and calcareous concretes. The 
+following are the corresponding equations for the temperature- 
+dependent parameters of the Weibull distribution for siliceous concrete: 
+λ(T) = 1.06 × 10−3T + 1.11
+(2)  
+k(T) =
+95.27
+5.095 + 23.21 × 10−3T
+(3) 
+Similarly, temperature-dependent parameters of the Weibull distri­
+bution for calcareous concrete can be determined using the following 
+equations: 
+λ(T) = 1.06 × 10−3T + 1.068
+(4)  
+k(T) =
+18.92
+1.617 + 8.38 × 10−3T
+(5) 
+The temperature-dependent polynomial equations for λ and k are 
+used with the Weibull distribution function to plot the 0.5, 0.05, and 
+0.95 quantiles as shown Fig. 17. The recommended EC4 reduction fac­
+tors and experimental data from literature are also shown in the figure. It 
+can be seen that the EC4 recommendation is relatively close to the 
+median of the Weibull distribution for siliceous concrete, and the model 
+captures the uncertainty in collected data from the literature. For 
+calcareous concrete, the median of the Weibull distribution is lower than 
+the EC4 recommendation. If a refined dataset with a retaining time 
+greater than 2 h were used to develop the probabilistic model, the me­
+dian would have been even lower. Thus, it appears that the EC4 model 
+tends to overestimate the residual compressive strength of concrete with 
+calcareous aggregate. 
+5. Summary and conclusion 
+This paper collected and analyzed experimental data on the residual 
+Fig. 16. Temperature-dependent polynomial regression for λ and k representing (a) siliceous concrete and (b) calcareous concrete.  
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 12 =====
+
+Fire Safety Journal 135 (2023) 103698
+12
+compressive strength of normal-strength concrete after exposure to high 
+temperatures. A total of 53 papers, published after 1990, were reviewed 
+and 1240 datapoints on the residual compressive strength of concrete as 
+a function of temperature were collected. The dataset was first analyzed 
+to identify attributes that could affect the residual strength of concrete. 
+The refined dataset was then utilized to propose a probabilistic model 
+for the residual compressive strength of concrete to capture the un­
+certainties in material strength as a function of the maximum exposure 
+temperature. Conclusions of this study can be summarized as below:  
+• In the collected database, only 159 datapoints (of the 1240) studied 
+concrete with calcareous aggregates. Thus, the majority of existing 
+research has focused on siliceous concrete with limited data avail­
+able for calcareous concrete.  
+• There is no standard testing protocol to evaluate degradation of 
+mechanical properties of concrete at high temperatures. Thus, the 
+employed testing protocol in existing experiments varied. Analyses 
+of data showed that the duration of the retaining time at the 
+maximum temperature had a significant influence on the scatter of 
+the data. The specimen should be heated for enough time so that the 
+core reaches the target temperature. Based on the results of this 
+study, a minimum retaining time of 2 h is recommended to ensure 
+uniform temperature in the specimen. Overall, there is a need to 
+research a standard testing protocol that defines acceptable heating 
+rates, retaining times, and cooling rates.  
+• Probabilistic models utilizing Weibull distributions were established 
+to quantify uncertainties in the temperature-dependent residual 
+compressive strength of siliceous and calcareous concrete. The pa­
+rameters of the Weibull distributions were defined as continuous 
+closed-form solutions as a function of temperature. Data points with 
+a retaining time of at least 2 h were used to establish the probabilistic 
+model for siliceous concrete, whereas the full dataset for calcareous 
+concrete, including data with retaining times less than 2 h, was used 
+to develop the model. 
+• The medians of data and proposed probabilistic model for the sili­
+ceous concrete are close to the EC4 recommendation (i.e., EC2 
+retention factors with an additional 10% reduction in strength). 
+However, the EC4 recommendation tends to overestimate the 
+reduction factors for calcareous concrete when compared with the 
+medians of the data and the proposed model. 
+Author statement 
+Marzieh Shahraki: Conceptualization, Methodology, Data curation, 
+Formal analysis, Writing - original draft, Writing - review & editing, Nan 
+Hua: Conceptualization, Methodology, Data curation, Writing - review 
+& editing, Negar Elhami-Khorasani: Conceptualization, Methodology, 
+Writing - review & editing, Supervision, Funding acquisition, Anthony 
+Tessari: Conceptualization, Methodology, Writing - review & editing, 
+Supervision, Funding acquisition, Maria Garlock: Conceptualization, 
+Methodology, Writing - review & editing, Supervision, Funding 
+acquisition. 
+Declaration of competing interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+Acknowledgements 
+This work was supported by the CAIT Region 2 UTC Consortium, and 
+the Institute of Bridge Engineering (IBE) at the University at Buffalo. 
+Any opinions, findings, and conclusions or recommendations expressed 
+in this material are those of the authors and do not necessarily reflect the 
+views of the CAIT Region 2 UTC Consortium. 
+The authors are grateful for the work of Krystal Delonce and Jessica 
+Cui, undergraduate students at Princeton University, who collected the 
+data for this research. 
+Appendix A. Supplementary data 
+Supplementary data to this article can be found online at https://doi. 
+org/10.1016/j.firesaf.2022.103698. 
+References 
+[1] M. Abramowicz, R. Kowalski, The influence of short time water cooling on the 
+mechanical properties of concrete heated up to high temperature, J. Civ. Eng. 
+Manag. 11 (2) (2005) 85–90. 
+[2] ACI, Report on Nondestructive Test Methods for Evaluation of Concrete in 
+Structures, 228, American Concrete Institute Committee, Farmington Hills, MI, 
+2013. 
+[3] ACI, ACI 562-16: Code Requirements for Assessment, Repair, and Rehabilitation of 
+Existing Concrete Structures and Commentary, 228, American Concrete Institute 
+Committee, Farmington Hills, MI, 2016. 
+[4] S. Ahmad, Y.S. Sallam, M.A. Al-Hawas, Effects of key factors on compressive and 
+tensile strengths of concrete exposed to elevated temperatures, Arabian J. Sci. Eng. 
+39 (6) (2014) 4507–4513. 
+[5] H. Akaike, A new look at the statistical model identification, IEEE Trans. Automat. 
+Control 19 (6) (1974) 716–723. 
+Fig. 17. Temperature-dependent residual strength data for normal strength concrete versus the Weibull probabilistic model and EC4 recommendation for: (a) 
+siliceous concrete, and (b) calcareous concrete. 
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 13 =====
+
+Fire Safety Journal 135 (2023) 103698
+13
+[6] K.S. Al-Jabri, M.B. Waris, A.H. Al-Saidy, Effect of aggregate and water to cement 
+ratio on concrete properties at elevated temperature, Fire Mater. 40 (7) (2016) 
+913–925. 
+[7] N. Anagnostopoulos, K. Sideris, A. Georgiadis, Mechanical characteristics of self- 
+compacting concretes with different filler materials, exposed to elevated 
+temperatures, Mater. Struct. 42 (10) (2009) 1393–1405. 
+[8] K.M. Anwar Hossain, Macro-and microstructural investigations on strength and 
+durability of pumice concrete at high temperature, J. Mater. Civ. Eng. 18 (4) 
+(2006) 527–536. 
+[9] O. Arioz, Effects of elevated temperatures on properties of concrete, Fire Saf. J. 42 
+(8) (2007) 516–522. 
+[10] O. Arioz, Retained properties of concrete exposed to high temperatures: size effect, 
+Fire Mater.: Int. J. 33 (5) (2009) 211–222. 
+[11] O. Babalola, P.O. Awoyera, D.-H. Le, L.B. Romero, A review of residual strength 
+properties of normal and high strength concrete exposed to elevated temperatures: 
+impact of materials modification on behaviour of concrete composite, Construct. 
+Build. Mater. 296 (2021), 123448. 
+[12] B. Barrag´an, G. Giaccio, R. Zerbino, Fracture and failure of thermally damaged 
+concrete under tensile loading, Mater. Struct. 34 (5) (2001) 312–319. 
+[13] ¨O.S. Bideci, The effect of high temperature on lightweight concretes produced with 
+colemanite coated pumice aggregates, Construct. Build. Mater. 113 (2016) 
+631–640. 
+[14] A.F. Bing¨ol, R. Gül, Effect of elevated temperatures and cooling regimes on normal 
+strength concrete, Fire Mater.: Int. J. 33 (2) (2009) 79–88. 
+[15] N.K. Bui, T. Satomi, H. Takahashi, Effect of mineral admixtures on properties of 
+recycled aggregate concrete at high temperature, Construct. Build. Mater. 184 
+(2018) 361–373. 
+[16] B. CEB-FIP, Fire Design of Concrete Structures—Materials, Structures and 
+Modelling, State of art report, Lausanne, 2007. 
+[17] 1992-1-1 -E.N. CEN, Eurocode 2: Design of Concrete Structures - Part 1-1: General 
+Rules and Rules for Buildings, European standards, Brussels, Belgium, 2004. 
+[18] 1994-1-2 -E.N. CEN, Eurocode 4: Design of Composite Steel and Concrete 
+Structures - Part 1-2: General Rules - Structural Fire Design, European standards, 
+Brussels, Belgium, 2005. 
+[19] Y. Chan, G. Peng, M. Anson, Residual strength and pore structure of high-strength 
+concrete and normal strength concrete after exposure to high temperatures, 
+Cement Concr. Compos. 21 (1) (1999) 23–27. 
+[20] Y.-F. Chang, Y.-H. Chen, M.-S. Sheu, G.C. Yao, Residual stress-strain relationship 
+for concrete after exposure to high temperatures, Cement Concr. Res. 36 (10) 
+(2006) 1999–2005. 
+[21] B. Chen, C. Li, L. Chen, Experimental study of mechanical properties of normal- 
+strength concrete exposed to high temperatures at an early age, Fire Saf. J. 44 (7) 
+(2009) 997–1002. 
+[22] G.M. Chen, Y.H. He, H. Yang, J. Chen, Y. Guo, Compressive behavior of steel fiber 
+reinforced recycled aggregate concrete after exposure to elevated temperatures, 
+Construct. Build. Mater. 71 (2014) 1–15. 
+[23] CMI, Assessing the Condition and Repair Alternatives of Fire-Exposed Concrete and 
+Masonry Members. Fire Protection Planning Report, National Codes and Standards 
+Council of the Concrete and Masonry Industries, 1994. 
+[24] Concrete Society, Assessment, Design and Repair of Fire-Damaged Concrete 
+Structures, The Concrete Society, Camber- ley, UK, 2008. 
+[25] CTIF, International Assoc. Of Fire and Rescue Services, 2016. World fire statistics 
+no 21. 
+[26] B. Demirel, O. Keles¸temur, Effect of elevated temperature on the mechanical 
+properties of concrete produced with finely ground pumice and silica fume, Fire 
+Saf. J. 45 (6–8) (2010) 385–391. 
+[27] A.A. Deshpande, D. Kumar, R. Ranade, Influence of high temperatures on the 
+residual mechanical properties of a hybrid fiber-reinforced strain-hardening 
+cementitious composite, Construct. Build. Mater. 208 (2019) 283–295. 
+[28] A.A. Deshpande, D. Kumar, R. Ranade, Temperature effects on the bond behavior 
+between deformed steel reinforcing bars and hybrid fiber-reinforced strain- 
+hardening cementitious composite, Construct. Build. Mater. 233 (2020), 117337. 
+[29] J. Eidan, I. Rasoolan, A. Rezaeian, D. Poorveis, Residual mechanical properties of 
+polypropylene fiber-reinforced concrete after heating, Construct. Build. Mater. 198 
+(2019) 195–206. 
+[30] N. Elhami-Khorasani, P. Gardoni, M. Garlock, Probabilistic fire analysis: material 
+models and evaluation of steel structural members, J. Struct. Eng. 141 (12) (2015), 
+04015050. 
+[31] Y. Esen, The effect of cure conditions and temperature changes on the compressive 
+strength of normal and fly ash-added concretes, Int. J. Phys. Sci. 5 (17) (2010) 
+2598–2604. 
+[32] fib, Fire Design of Concrete Structures -structural Behavior and Assessment, 
+International Federation for Structural Concrete, Lausanne, Switzerland, 2008. 
+[33] M. Ghandehari, A. Behnood, M. Khanzadi, Residual mechanical properties of high- 
+strength concretes after exposure to elevated temperatures, J. Mater. Civ. Eng. 22 
+(1) (2010) 59–64. 
+[34] M. Holický, M. Sýkora, Stochastic models in analysis of structural reliability, in: 
+Proceedings of the International Symposium on Stochastic Models in Reliability 
+Engineering, Life Sciences and Operation Management, Beer Sheva, Israel, 8-11, 
+2010. 
+[35] C.M. Hurvich, C.L. Tsai, A corrected Akaike information criterion for vector 
+autoregressive model selection, J. Time Anal. 14 (3) (1993) 271–279. 
+[36] A.-u.-R. Khan, T. Aziz, S. Fareed, J. Xiao, Behaviour and residual strength 
+prediction of recycled aggregates concrete exposed to elevated temperatures, 
+Arabian J. Sci. Eng. 45 (10) (2020) 8241–8253. 
+[37] D. Kumar, R. Ranade, Influence of matrix-modification and fiber-hybridization on 
+high-temperature residual mechanical performance of strain-hardening 
+cementitious composites, Construct. Build. Mater. 302 (2021), 124157. 
+[38] A. Lau, M. Anson, Effect of high temperatures on high performance steel fibre 
+reinforced concrete, Cement Concr. Res. 36 (9) (2006) 1698–1707. 
+[39] J. Lee, Y. Xi, K. Willam, Properties of concrete after high-temperature heating and 
+cooling, ACI Mater. J. 105 (4) (2008) 334. 
+[40] M. Li, C. Qian, W. Sun, Mechanical properties of high-strength concrete after fire, 
+Cement Concr. Res. 34 (6) (2004) 1001–1005. 
+[41] X. Luo, W. Sun, Y. Chan, Residual compressive strength and microstructure of high 
+performance concrete after exposure to high temperature, Mater. Struct. 33 (5) 
+(2000) 294–298. 
+[42] David J. Martins, Jo˜ao R. Correia, Jorge de Brito, The effect of high temperature on 
+the residual mechanical performance of concrete made with recycled ceramic 
+coarse aggregates, Fire Mater. 40 (2) (2016) 289–304. 
+[43] G. Mathew, M.M. Paul, Influence of fly ash and GGBFS in laterized concrete 
+exposed to elevated temperatures, J. Mater. Civ. Eng. 26 (3) (2014) 411–419. 
+[44] P. Mayring, Qualitative content analysis, A Companion Qual. Res. 1 (2) (2004) 
+159–176. 
+[45] A. Nassif, Postfire full stress-strain response of fire-damaged concrete, Fire Mater.: 
+Int. J. 30 (5) (2006) 323–332. 
+[46] J.N. Pacheco, J. De Brito, C. Chastre, L. Evangelista, Probabilistic conversion of the 
+compressive strength of cubes to cylinders of natural and recycled aggregate 
+concrete specimens, Materials 12 (2) (2019) 280. 
+[47] L.T. Phan, J.R. Lawson, F.L. Davis, Effects of elevated temperature exposure on 
+heating characteristics, spalling, and residual properties of high performance 
+concrete, Mater. Struct. 34 (2) (2001) 83–91. 
+[48] C.-S. Poon, S. Azhar, M. Anson, Y.-L. Wong, Comparison of the strength and 
+durability performance of normal-and high-strength pozzolanic concretes at 
+elevated temperatures, Cement Concr. Res. 31 (9) (2001) 1291–1300. 
+[49] C.-S. Poon, S. Azhar, M. Anson, Y.-L. Wong, Performance of metakaolin concrete at 
+elevated temperatures, Cement Concr. Compos. 25 (1) (2003) 83–89. 
+[50] R. Qureshi, S. Ni, N. Elhami Khorasani, R. Van Coile, D. Hopkin, T. Gernay, 
+Probabilistic models for temperature-dependent strength of steel and concrete, 
+J. Struct. Eng. 146 (6) (2020), 04020102. 
+[51] M.M. Rafi, T. Aziz, S.H. Lodi, Effects of elevated temperatures on residual 
+properties of low-strength concrete, J. Test. Eval. 47 (5) (2018) 3448–3469. 
+[52] D. Rama Seshu, A. Pratusha, Study on compressive strength behaviour of normal 
+concrete and self-compacting concrete subjected to elevated temperatures, Mag. 
+Concr. Res. 65 (7) (2013) 415–421. 
+[53] Q. Ren, Y. Wu, X. Zhang, Y. Wang, Effects of fly ash on the mechanical and impact 
+properties of recycled aggregate concrete after exposure to high temperature, Eur. 
+J. Environ. Civ. Eng. (2019) 1–17. 
+[54] V. Sachin, N. Suresh, Residual properties of normal-strength concrete subjected to 
+fire and sustained elevated temperatures: a comparative study, J. Struct. Fire Eng. 
+12 (1) (2020) 1–16. 
+[55] K. Sakr, E. El-Hakim, Effect of high temperature or fire on heavy weight concrete 
+properties, Cement Concr. Res. 35 (3) (2005) 590–596. 
+[56] H. Salahuddin, A. Nawaz, A. Maqsoom, T. Mehmood, Effects of elevated 
+temperature on performance of recycled coarse aggregate concrete, Construct. 
+Build. Mater. 202 (2019) 415–425. 
+[57] E. Sancak, Y.D. Sari, O. Simsek, Effects of elevated temperature on compressive 
+strength and weight loss of the light-weight concrete with silica fume and 
+superplasticizer, Cement Concr. Compos. 30 (8) (2008) 715–721. 
+[58] S.R. Sarhat, E.G. Sherwood, Residual mechanical response of recycled aggregate 
+concrete after exposure to elevated temperatures, J. Mater. Civ. Eng. 25 (11) 
+(2013) 1721–1730. 
+[59] G. Schwarz, Estimating the dimension of a model, Ann. Stat. (1978) 461–464. 
+[60] M. Sollero, A.M. Junior, C. Costa, Residual mechanical strength of concrete 
+exposed to high temperatures-international standardization and influence of coarse 
+aggregates, Construct. Build. Mater. 287 (2021), 122843. 
+[61] P. Sullivan, R. Sharshar, The performance of concrete at elevated temperatures (as 
+measured by the reduction in compressive strength), Fire Technol. 28 (3) (1992) 
+240–250. 
+[62] W. Tang, T. Lo, Mechanical and fracture properties of normal-and high-strength 
+concretes with fly ash after exposure to high temperatures, Mag. Concr. Res. 61 (5) 
+(2009) 323–330. 
+[63] H. Tanyildizi, A. Çevik, Modeling mechanical performance of lightweight concrete 
+containing silica fume exposed to high temperature using genetic programming, 
+Construct. Build. Mater. 24 (12) (2010) 2612–2618. 
+[64] E. Tolentino, F.S. Lameiras, A.M. Gomes, C.A. Silva, W.L. Vasconcelos, Effects of 
+high temperature on the residual performance of Portland cement concretes, 
+Mater. Res. 5 (3) (2002) 301–307. 
+[65] N. Tori´c, I. Boko, S. Juradin, G. Baloevi´c, Mechanical properties of lightweight 
+concrete after fire exposure, Struct. Concr. 17 (6) (2016) 1071–1081. 
+[66] M. Tufail, K. Shahzada, B. Gencturk, J. Wei, Effect of elevated temperature on 
+mechanical properties of limestone, quartzite and granite concrete, Int. J. Concr. 
+Struct. Mater. 11 (1) (2017) 17–28. 
+[67] ˙I. Türkmen, A.F. Bing¨ol, A. Tortum, R. Demirbo˘ga, R. Gül, Properties of pumice 
+aggregate concretes at elevated temperatures and comparison with ANN models, 
+Fire Mater. 41 (2) (2017) 142–153. 
+[68] F.B. Varona, F.J. Baeza, D. Bru, S. Ivorra, Influence of high temperature on the 
+mechanical properties of hybrid fibre reinforced normal and high strength 
+concrete, Construct. Build. Mater. 159 (2018) 73–82. 
+M. Shahraki et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 14 =====
+
+Fire Safety Journal 135 (2023) 103698
+14
+[69] J. Xiao, Y. Fan, M. Tawana, Residual compressive and flexural strength of a 
+recycled aggregate concrete following elevated temperatures, Struct. Concr. 14 (2) 
+(2013) 168–175. 
+[70] J. Xie, Z. Zhang, Z. Lu, M. Sun, Coupling effects of silica fume and steel-fiber on the 
+compressive behaviour of recycled aggregate concrete after exposure to elevated 
+temperature, Construct. Build. Mater. 184 (2018) 752–764. 
+[71] H. Yang, H. Zhao, F. Liu, Residual cube strength of coarse RCA concrete after 
+exposure to elevated temperatures, Fire Mater. 42 (4) (2018) 424–435. 
+[72] M. Yaqub, C. Bailey, Non-destructive evaluation of residual compressive strength 
+of post-heated reinforced concrete columns, Construct. Build. Mater. 120 (2016) 
+482–493. 
+[73] W. Yonggui, L. Shuaipeng, P. Hughes, F. Yuhui, Mechanical properties and 
+microstructure of basalt fibre and nano-silica reinforced recycled concrete after 
+exposure to elevated temperatures, Construct. Build. Mater. 247 (2020), 118561. 
+[74] C. Zega, A. Di Maio, Recycled concrete exposed to high temperatures, Mag. Concr. 
+Res. 58 (10) (2006) 675–682. 
+[75] B. Zhang, N. Bicanic, C. Pearce, G. Balabanic, Residual fracture properties of 
+normal-and high-strength concrete subject to elevated temperatures, Mag. Concr. 
+Res. 52 (2) (2000) 123–136. 
+[76] H. Zhao, F. Liu, H. Yang, Residual compressive response of concrete produced with 
+both coarse and fine recycled concrete aggregates after thermal exposure, 
+Construct. Build. Mater. 244 (2020), 118397. 
+[77] J. Zhuang, V.M. Payyappalli, A. Behrendt, K. Lukasiewicz, Total Cost of Fire in the 
+United States, Fire Protection Research Foundation Buffalo, NY, USA, 2017. 
+M. Shahraki et al.                                                                                                                                                                                                                              

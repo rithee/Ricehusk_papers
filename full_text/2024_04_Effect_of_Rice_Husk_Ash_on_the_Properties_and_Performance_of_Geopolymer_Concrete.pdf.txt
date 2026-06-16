@@ -1,0 +1,1425 @@
+
+===== PAGE 1 =====
+
+SSRG International Journal of Civil Engineering 
+ 
+ 
+ Volume 11 Issue 11, 11-22, November 2024 
+ISSN: 2348-8352/ https://doi.org/10.14445/23488352/IJCE-V11I11P102 
+                                                 © 2024 Seventh Sense Research Group®         
+ 
+ This is an open access article under the CC BY-NC-ND license (http://creativecommons.org/licenses/by-nc-nd/4.0/) 
+Original Article 
+ 
+Effect of Rice Husk Ash on the Properties and 
+Performance of Geopolymer Concrete 
+Parmod Verma1, Dulal Goldar2, Md. Daniyal3, Sitesh Kumar Singh4 
+ 
+1,2Department of Civil Engineering, Lingaya’s Vidyapeeth, Haryana, India. 
+3Department of Civil Engineering, Sandip University, Bihar, India. 
+4Department of Civil and Environmental Engineering, College of Engineering, National University of Science and 
+Engineering, Muscat, Oman. 
+ 
+3Corresponding Author : daniyalzhcet@gmail.com  
+  
+Received: 02 September 2024 
+Revised: 06 October 2024               Accepted: 03 November 2024 
+ Published: 30 November 2024 
+ 
+Abstract - This study examines the influence of Rice Husk Ash (RHA) as an additional substance in geopolymer concrete (GPC), 
+specifically analyzing its impact on workability, setting times, compressive strength, and splitting tensile strength. The 
+experimental findings demonstrate that an increase in RHA concentration results in a decrease in workability and a speeding 
+up of setting times while yielding significant enhancements in both compressive and tensile strengths. More precisely, the 
+compressive strength experiences an increase from 16 MPa to 35 MPa, while the splitting tensile strength rises from 1.3 MPa 
+to 2.6 MPa as the amount of RHA increases. The changes are caused by the large surface area and water absorption qualities 
+of RHA, which affect the consistency and curing characteristics of the mixture. Although there have been significant 
+improvements in the mechanical qualities, the reduced workability and shorter setting periods pose issues that require more 
+investigation. The study highlights the potential of RHA as an environmentally friendly addition, providing a sustainable option 
+to traditional materials and aiding in reducing building waste. Suggestions for future research encompass enhancing the RHA 
+composition to achieve a harmonious blend of mechanical performance and workability, examining the long-term durability 
+and environmental resistance, establishing standardized production procedures, exploring other industrial by-products, and 
+conducting thorough assessments of the life cycle and economic aspects. By focusing on these specific areas, the development 
+of RHA-enhanced GPC will be promoted, facilitating its incorporation into sustainable building methods and improving its 
+overall effectiveness and environmental footprint. 
+Keywords - Geopolymer Concrete, Rice Husk Ash, Compressive Strength, Split Tensile Test, Setting Value. 
+1. Introduction 
+There are various problems associated with concrete. A 
+lot of research shows various methods to improve the 
+performance of concrete. Geopolymer concrete is a great 
+alternative with various applications, as shown in Figure 1, for 
+some concrete with good strength and durability. Geopolymer 
+Concrete (GPC) differs from traditional Portland cement 
+concrete in both composition and formation. There are some 
+research gaps in the basic literature investigations for the 
+performance evaluation of geopolymer concrete using rice 
+husk ash. Unlike conventional concrete, which relies on 
+cement hydration to form calcium-silicate-hydrate (C-S-H) 
+gel, GPC uses geopolymerization which is a sophisticated 
+technique that transforms various alumino-silicate minerals as 
+shown in Figure 2 which is materials containing anionic Si-O-
+Al linkages into useful substances known as inorganic 
+polymers or geopolymers., a chemical reaction between 
+alumino-silicate minerals and alkaline activators [1, 2].  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 1 Primary composition of geopolymer concrete 
+Geopolymer Concrete Components 
+Aluminosilicate  
+Source 
+Materials like 
+fly ash, GGBS, 
+and metakaolin 
+Aggregates 
+Natural or 
+recycled 
+aggregates used 
+in concrete 
+Alkaline Activator 
+Sodium hydroxide or potassium 
+hydroxide with sodium silicate 
+
+
+===== PAGE 2 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+12 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 2 Application of geopolymer concrete 
+This process produces alumino-silicate gels with a robust 
+network structure, enhancing GPC's durability, chemical 
+resistance, and mechanical properties [3, 4].GPC's main 
+components are alumino-silicate minerals (e.g., fly ash, 
+GGBFS, metakaolin, and RHA) that supply silicon and 
+aluminum for geopolymer networks [5, 6]. Alkaline activators 
+like sodium hydroxide (NaOH) and sodium silicate (Na₂SiO₃) 
+initiate and drive the geopolymerization reaction [7]. The 
+resulting GPC exhibits superior mechanical strength, thermal 
+stability, and chemical resistance, making it a viable 
+alternative to traditional concrete, especially in demanding 
+conditions [8].  
+Table 1 compares GPC's features, including its 
+manufacturing process and environmental benefits. 
+Table 1. Characteristics and composition of geopolymer concrete 
+Aspect 
+Material 
+Process 
+Components 
+References 
+Type 
+Geopolymer 
+Concrete 
+Geopolymerization 
+Alumino-Silicate 
+Materials, 
+Alkaline 
+Activators 
+[1], [2], [3], 
+[4] 
+Binder Formation 
+Geopolymer 
+Gels 
+Alumino-Silicate 
+Reaction 
+Silicon (Si), Aluminum (Al) 
+[3], [4], [5] 
+Comparison 
+Vs. Portland 
+Cement 
+No Cement 
+Hydration 
+Fly Ash, GGBFS, Metakaolin, RHA 
+[1], [2], [5], 
+[6] 
+Activators 
+Sodium 
+Hydroxide 
+Initiates 
+Geopolymerization 
+Sodium Silicate 
+[7] 
+Applications 
+Harsh 
+Environments 
+Chemical 
+Exposure 
+High Reactive Silica & Alumina 
+[8], [4], [6] 
+Environmental 
+Impact 
+Sustainability 
+Alternative to 
+Cement 
+Three-Dimensional 
+Alumino-Silicate 
+Frameworks 
+[4], [6], [7] 
+Suitable for 
+Aggressive 
+Chemicals 
+Cement-Free 
+Construction 
+Dissolution of Alumino-Silicate Materials 
+[7], [8] 
+Key Outcome 
+Improved 
+Durability 
+Non-Hydraulic 
+Binder 
+Gels Form Structural Framework 
+[3], [6], [8] 
+Overall Benefit 
+Enhanced 
+Properties 
+C-S-H Gel 
+Alternative 
+Alkaline Environment 
+[8], [7], [6] 
+ 
+ 
+Fig. 3 The geopolymerization processes 
+ 
+Dissolution: Alumino-silicate 
+materials dissolve in an alkaline 
+solution.  
+Reaction: Silicon and aluminum 
+ions react with hydroxide ions.
+Gel Formation: Sodium alumino-
+silicate hydrate (N-A-S-H) and 
+calcium-alumino-silicate-hydrate 
+(C-A-S-H) gels form.
+Sustainable 
+Construction 
+Used in green 
+building 
+projects 
+Infrastructure 
+Bridges, roads, and 
+pavements 
+benefiting from 
+durability 
+Precast 
+Ideal for panels, 
+blocks, and beams 
+
+
+----- TABLE p2#1 -----
+
+Aspect | Material | Process | Components | References
+Type | Geopolymer
+Concrete | Geopolymerization | Alumino-Silicate Materials, Alkaline
+Activators | [1], [2], [3],
+[4]
+Binder Formation | Geopolymer
+Gels | Alumino-Silicate
+Reaction | Silicon (Si), Aluminum (Al) | [3], [4], [5]
+Comparison | Vs. Portland
+Cement | No Cement
+Hydration | Fly Ash, GGBFS, Metakaolin, RHA | [1], [2], [5],
+[6]
+Activators | Sodium
+Hydroxide | Initiates
+Geopolymerization | Sodium Silicate | [7]
+Applications | Harsh
+Environments | Chemical
+Exposure | High Reactive Silica & Alumina | [8], [4], [6]
+Environmental
+Impact | Sustainability | Alternative to
+Cement | Three-Dimensional Alumino-Silicate
+Frameworks | [4], [6], [7]
+Suitable for | Aggressive
+Chemicals | Cement-Free
+Construction | Dissolution of Alumino-Silicate Materials | [7], [8]
+Key Outcome | Improved
+Durability | Non-Hydraulic
+Binder | Gels Form Structural Framework | [3], [6], [8]
+Overall Benefit | Enhanced
+Properties | C-S-H Gel
+Alternative | Alkaline Environment | [8], [7], [6]
+
+===== PAGE 3 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+13 
+1.1. Chemical Reactions and Mechanisms 
+The geopolymerization process involves key chemical 
+reactions between Alumino-silicate minerals and alkaline 
+activators [9]. When combined with an alkaline solution, 
+Alumino-silicate materials release silicon and Aluminum ions, 
+which then react with alkaline hydroxide ions to form 
+Alumino-silicate gels. The main reaction can be expressed as: 
+SiO2+Ca(OH)2+H2O→C-S-H gel                     (1)                                                                           
+The reaction of Alumino-silicate materials with sodium 
+hydroxide (NaOH) produces sodium Alumino-silicate hydrate 
+(N-A-S-H) gel, which is crucial for the geopolymer matrix’s 
+durability and structural integrity. Additionally, combining 
+calcium-containing materials like GGBFS with Alumino-
+silicate 
+materials 
+generates 
+Calcium-Alumino-Silicate-
+Hydrate (C-A-S-H) gels [10]. Figure 3 illustrates the 
+geopolymerization process, including the dissolution of 
+Alumino-silicate materials in an alkaline solution and the 
+formation of N-A-S-H and C-A-S-H gels. 
+1.2. Properties of Geopolymer Concrete 
+Geopolymer Concrete (GPC) provides comparable or 
+superior compressive and tensile strength compared to 
+traditional concrete [11]. It exhibits excellent durability, 
+highly resistant to chemicals, fire, and extreme temperatures 
+[12]. Environmentally, GPC lowers CO₂ emissions by 
+reducing reliance on Portland cement and requires less energy 
+for production [13]. Table 2 outlines GPC’s key attributes, 
+including 
+strength, 
+durability, 
+fire 
+resistance, 
+and 
+environmental benefits, and Figure 4 shows the properties. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 4 Properties of geopolymer concrete 
+ 
+Table 2. Properties of geopolymer concrete 
+Aspect 
+Property 
+Description 
+References 
+Compressive 
+Strength 
+Comparable or 
+higher 
+Matches or exceeds traditional concrete strength 
+[11] 
+Tensile Strength 
+Generally 
+higher 
+Stronger due to dense, well-bonded microstructure 
+[11] 
+Durability 
+Superior 
+Resists chemicals, high temperatures, and degradation 
+[12] 
+Fire Resistance 
+Better 
+Improved fire resistance and thermal stability 
+[12] 
+Environmental 
+Benefits 
+Reduced CO₂ 
+and energy 
+Lowers emissions, recycles waste, uses less energy 
+[13] 
+Durability 
+Longevity and Resistance 
+to wear and tear 
+Compressive 
+Strength 
+The ability to withstand axial 
+loads without failure 
+Tensile Strength 
+Resistance to breaking under 
+tension 
+Fire Resistance 
+Ability to withstand high 
+temperatures without damage 
+Environmental 
+Benefits 
+Positive impact on 
+sustainability and reduced 
+carbon footprint 
+
+
+----- TABLE p3#1 -----
+
+Aspect | Property | Description | References
+Compressive
+Strength | Comparable or
+higher | Matches or exceeds traditional concrete strength | [11]
+Tensile Strength | Generally
+higher | Stronger due to dense, well-bonded microstructure | [11]
+Durability | Superior | Resists chemicals, high temperatures, and degradation | [12]
+Fire Resistance | Better | Improved fire resistance and thermal stability | [12]
+Environmental
+Benefits | Reduced CO₂
+and energy | Lowers emissions, recycles waste, uses less energy | [13]
+
+===== PAGE 4 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+14 
+2. Rice Husk Ash (RHA): Characteristics and 
+Applications 
+2.1. Production and Properties 
+Rice Husk Ash (RHA) is a by-product of rice milling, 
+formed by burning rice husks at temperatures between 600°C 
+and 800°C [14]. This process converts organic material into 
+ash, which is then cooled, treated, and often ground into a fine 
+powder to improve its effectiveness as a cementitious 
+additive.RHA primarily consists of silica (SiO₂), making up 
+70% to 90% of its weight, which is crucial for its pozzolanic 
+activity. It also contains smaller amounts of alumina (Al₂O₃), 
+iron oxide (Fe₂O₃), and calcium oxide (CaO), along with other 
+trace elements. RHA’s physical properties include small 
+particle size, large surface area, and a porous structure, 
+enhancing its reactivity and effectiveness in concrete [15].  
+The pozzolanic activity of RHA involves its reaction with 
+Calcium Hydroxide (CH) from Portland cement hydration. 
+This reaction produces calcium-silicate-hydrate (C-S-H) gel, 
+improving the concrete's strength and durability [16]. 
+2.2. Benefits of Using RHA in Concrete 
+Integrating Rice Husk Ash (RHA) into concrete enhances 
+strength and sustainability. RHA increases compressive and 
+tensile strengths by forming additional C-S-H gel, boosting 
+compressive strength by up to 20% [17, 18]. Environmentally, 
+RHA reduces the need for Portland cement, lowering CO₂ 
+emissions and recycling agricultural waste [19]. This supports 
+circular economy principles by converting waste into valuable 
+resources. Table 3 outlines RHA’s production methods, 
+properties, and benefits, emphasizing its impact on concrete 
+performance and sustainability [20]. 
+2.3. Incorporation of RHA in Geopolymer Concrete 
+Rice Husk Ash (RHA) significantly affects the 
+workability of Geopolymer Concrete (GPC), typically 
+reducing slump and making the mix less fluid due to RHA's 
+fine particles and high water absorption [21].  
+This impact is more pronounced than with additives like 
+Silica Fume (SF) and Fly Ash (FA) due to RHA's larger 
+surface area. Ensuring a balanced RHA concentration is 
+crucial for maintaining workability while optimizing its 
+pozzolanic benefits. Adjustments to the water-to-binder ratio 
+or the use of superplasticizers can help counteract reduced 
+workability.  
+Figure 5 illustrates the RHA production process, its 
+chemical composition, and its advantages in concrete, such as 
+enhanced strength and sustainability. 
+ 
+Fig. 5 Characteristics and Applications of Rice Husk Ash (RHA) 
+ 
+ 
+Table 3. Characteristics and Applications of Rice Husk Ash (RHA) 
+Aspect 
+Production & Properties 
+Description 
+Details 
+References 
+Production 
+Rice husks burned at 
+600°C-800°C 
+Ash cooled, processed, and 
+ground into powder 
+[14] 
+Chemical Composition 
+High silica (70%-90% 
+SiO₂) 
+Contains alumina, iron oxide, 
+calcium oxide 
+[15] 
+Physical Properties 
+Fine, high surface area 
+Porous particles enhance 
+reactivity 
+[15] 
+Pozzolanic Activity 
+Mechanism 
+Reacts with calcium 
+hydroxide 
+Forms C-S-H gel, boosts 
+strength 
+[16] 
+Benefits in Concrete 
+Strength Enhancement 
+Up to 20% stronger 
+Improves compressive and 
+tensile strength 
+[17], [18] 
+Environmental Benefits 
+Reduces CO₂ emissions 
+Recycles waste, lowers carbon 
+footprint 
+[19] 
+Sustainability 
+Circular economy support 
+Converts waste into valuable 
+resources 
+[20] 
+Production
+• Rice husks burned at 600°C-800°C; processed into 
+powder.
+Physical 
+Properties
+• Fine particles; high surface area; porous.
+Chemical 
+Compositio
+n
+• High silica (70%-90% SiO₂); contains alumina, iron 
+oxide, calcium oxide.
+Strength 
+Enhanceme
+nt:
+• Increases strength by up to 20%.
+Pozzolanic 
+Activity
+• Reacts with calcium hydroxide; forms C-S-H gel.
+
+
+----- TABLE p4#1 -----
+
+Aspect
+Production & Properties | Description | Details | References
+Production | Rice husks burned at
+600°C-800°C | Ash cooled, processed, and
+ground into powder | [14]
+Chemical Composition | High silica (70%-90%
+SiO₂) | Contains alumina, iron oxide,
+calcium oxide | [15]
+Physical Properties | Fine, high surface area | Porous particles enhance
+reactivity | [15]
+Pozzolanic Activity |  |  | 
+Mechanism | Reacts with calcium
+hydroxide | Forms C-S-H gel, boosts
+strength | [16]
+Benefits in Concrete |  |  | 
+Strength Enhancement | Up to 20% stronger | Improves compressive and
+tensile strength | [17], [18]
+Environmental Benefits | Reduces CO₂ emissions | Recycles waste, lowers carbon
+footprint | [19]
+Sustainability | Circular economy support | Converts waste into valuable
+resources | [20]
+
+===== PAGE 5 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+15 
+The impact of Rice Husk Ash (RHA) on Geopolymer 
+Concrete (GPC) is critical for its application across various 
+uses[22]. RHA accelerates the setting times due to its 
+pozzolanic activity, which enhances geopolymerization. For 
+example, GPC with increased RHA content significantly 
+reduces initial and final setting times compared to mixes 
+without RHA, benefiting projects requiring rapid strength 
+development [23, 24]. However, this rapid setting may 
+complicate placement and finishing processes. RHA also 
+improves the mechanical properties of GPC, including 
+compressive and tensile strengths. Studies show that RHA can 
+increase compressive strength up to 35 MPa, compared to 16 
+MPa in control mixes without RHA, due to the formation of 
+additional geopolymer gels [26, 27].  
+Similarly, tensile strength is enhanced, with RHA-
+blended mixes reaching up to 2.6 MPa, compared to 1.3 MPa 
+in control mixes, attributed to improved microstructure and 
+reduced porosity [28]. Including RHA enhances GPC’s 
+durability, making it more resistant to chemical attacks and 
+freeze-thaw cycles. RHA’s pozzolanic reactions densify the 
+concrete’s microstructure, increasing resistance to sulfates, 
+acids, and freeze-thaw conditions, essential for structures 
+exposed to harsh environments [30, 31]. Over time, RHA’s 
+contribution to GPC enhances the material’s longevity, 
+making it more suitable for challenging applications [32]. 
+2.4. Research Findings and Analysis from the Literature 
+Numerous studies have explored the impact of 
+incorporating Rice Husk Ash (RHA) into Geopolymer 
+Concrete (GPC). Research indicates that RHA significantly 
+influences GPC's mechanical properties, workability, and 
+durability. A study by [35] found that increasing RHA content 
+from 0% to 30% led to a 120% improvement in compressive 
+strength compared to the control mix, attributed to enhanced 
+pozzolanic activity. Another study by [36] observed a 
+decrease in workability with higher RHA levels, suggesting 
+the use of superplasticizers or water-to-binder ratio 
+adjustments to maintain workability. Additionally, [37] 
+reported that RHA improved GPC's resistance to chemical 
+attacks and freeze-thaw cycles, enhancing its long-term 
+durability under harsh conditions. 
+2.5. Knowledge Gaps and Future Research Directions 
+Additional study is needed to fill in certain important gaps 
+in our understanding of Geopolymer Concrete (GPC) 
+combined with Rice Husk Ash (RHA). Examining how RHA-
+blended GPC holds up over time in different kinds of 
+environments is one important field. The material's long-term 
+stability, resistance to deterioration, and durability are 
+unknown due to a paucity of longitudinal studies, even if 
+short-term studies have shed light on the immediate 
+advantages. Optimizing mix designs is also necessary for 
+finding the optimal ratios of RHA and other components that 
+enhance 
+performance 
+without 
+sacrificing 
+workability. 
+Improving RHA's usefulness in GPC might be as simple as 
+creating application-specific prediction models. 
+ 
+3. Methodology 
+3.1. Materials and Properties 
+The study used sand and coarse aggregates (10 mm and 
+20 mm) with specific properties carefully measured to ensure 
+mix consistency. The specific gravities were 2.54 for sand, 
+2.65 for the 10 mm coarse aggregate, and 2.72 for the 20 mm 
+coarse aggregate. Water absorption values were 0.80% for 
+sand, 0.89% for the 10 mm coarse aggregate, and 0.35% for 
+the 20 mm coarse aggregate. Sand also had a silt content of 
+3.92% and bulking of 13.64%. Alkaline activators included 
+sodium hydroxide (NaOH) with 99.42% purity, dissolved to 
+create a 14M solution, and sodium silicate (Na₂SiO₃) with a 
+composition of 30.35% SiO₂ and 14.45% Na₂O. 
+ 
+3.2. Mix Design and Preparation 
+The mix design aimed to evaluate the impact of replacing 
+fly ash with silica fume and rice husk ash on geopolymer 
+concrete properties. Consistent mix proportions were 
+maintained, varying the silica fume-to-fly ash and rice husk 
+ash-to-fly ash ratios while keeping the sodium hydroxide 
+concentration at 14M. Proportions included 400 kg/m³ of fly 
+ash and varied amounts of rice husk ash, with 600 kg/m³ of 
+sand and specified quantities of coarse aggregates and 
+superplasticizers. The preparation involved dry mixing of the 
+materials for two minutes, followed by adding alkaline 
+solutions and superplasticizers for an additional three minutes. 
+ 
+Table 4. Mix proportions 
+Mix 
+Name 
+RHA/FA 
+Ratio 
+L/B 
+Ratio 
+SS/SH 
+Ratio 
+FA 
+(kg/m³) 
+RHA 
+(kg/m³) 
+SH 
+(kg/m³) 
+SS 
+(kg/m³) 
+SPs 
+(kg/m³) 
+Sand 
+(kg/m³) 
+CA 10 
+mm 
+(kg/m³) 
+CA 20 
+mm 
+(kg/m³) 
+GPRHA0 
+0/100 
+0.45 
+2 
+400 
+0 
+60 
+120 
+2 
+600 
+400 
+800 
+GPRHA1 
+10/90 
+0.45 
+2 
+360 
+40 
+60 
+120 
+2 
+600 
+400 
+800 
+GPRHA2 
+20/80 
+0.45 
+2 
+320 
+80 
+60 
+120 
+2 
+600 
+400 
+800 
+GPRHA3 
+30/70 
+0.45 
+2 
+280 
+120 
+60 
+120 
+2 
+600 
+400 
+800 
+
+
+----- TABLE p5#1 -----
+
+Mix
+Name | RHA/FA
+Ratio | L/B
+Ratio | SS/SH
+Ratio | FA
+(kg/m³) | RHA
+(kg/m³) | SH
+(kg/m³) | SS
+(kg/m³) | SPs
+(kg/m³) | Sand
+(kg/m³) | CA 10
+mm
+(kg/m³) | CA 20
+mm
+(kg/m³)
+GPRHA0 | 0/100 | 0.45 | 2 | 400 | 0 | 60 | 120 | 2 | 600 | 400 | 800
+GPRHA1 | 10/90 | 0.45 | 2 | 360 | 40 | 60 | 120 | 2 | 600 | 400 | 800
+GPRHA2 | 20/80 | 0.45 | 2 | 320 | 80 | 60 | 120 | 2 | 600 | 400 | 800
+GPRHA3 | 30/70 | 0.45 | 2 | 280 | 120 | 60 | 120 | 2 | 600 | 400 | 800
+
+===== PAGE 6 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+16 
+Table 4 details the mix proportions for four geopolymer 
+concrete formulations: GPRHA0, GPRHA1, GPRHA2, and 
+GPRHA3. Each mix varies in the ratio of Rice Husk Ash 
+(RHA) to Fly Ash (FA), with GPRHA0 having no RHA, 
+GPRHA1 at 10% RHA, GPRHA2 at 20% RHA, and GPRHA3 
+at 30% RHA. The liquid-to-binder (L/B) ratio is consistent at 
+0.45, and the sodium silicate to sodium hydroxide (SS/SH) 
+ratio is maintained at 2 for all mixes. The binder content 
+decreases from 400 kg/m³ to 280 kg/m³ of FA as RHA 
+increases from 0 kg/m³ to 120 kg/m³. Sodium hydroxide and 
+sodium silicate are kept constant at 60 kg/m³ and 120 kg/m³, 
+respectively, with superplasticizers added at 2 kg/m³. Sand 
+and coarse aggregates are consistently used at 600 kg/m³, 400 
+kg/m³, and 800 kg/m³ for all mixes, respectively. 
+ 
+3.3. Specimen Preparation and Curing 
+The mixed geopolymer concrete was cast into molds of 
+various sizes for different tests: 100 mm cubes for 
+compressive strength, 100 x 200 mm cylinders for splitting 
+tensile strength, and 100 x 100 x 500 mm prisms for flexural 
+strength. Molds were filled in layers and compacted to remove 
+air pockets. The specimens were initially cured in a controlled 
+environment at 23 ± 2°C and 70% ± 5% relative humidity for 
+24 hours. After demolding, they were further cured at 20°C 
+and 90% relative humidity until testing to ensure optimal 
+mechanical properties and result consistency. 
+ 
+3.4. Discussion of Results 
+The workability, setting times, compressive strength, and 
+splitting tensile strength of Geopolymer Concrete (GPC) with 
+Rice Husk Ash (RHA) added as an additive were among the 
+important qualities examined in the study.  
+Figure 6 presents the percentage composition of various 
+chemical components found in fly ash, significantly impacting 
+its use in concrete production. Silicon dioxide (SiO₂) is the 
+predominant component, constituting 51.2% of the fly ash. Its 
+high concentration is crucial for providing the pozzolanic 
+properties necessary for enhancing concrete's strength and 
+durability. Aluminum oxide (Al₂O₃), making up 29.1% of the 
+fly ash, also contributes to these pozzolanic activities, 
+improving the mechanical properties of concrete. Iron (III) 
+oxide (Fe₂O₃) accounts for 9.2% and affects the color and 
+magnetic properties of the fly ash, as well as its overall 
+chemical reactivity. Calcium oxide (CaO), present at 2.24%, 
+is essential for the cementitious properties of the fly ash; it 
+reacts with water to form calcium hydroxide, which then 
+interacts with other components to create cementitious 
+compounds. Magnesium oxide (MgO), at 1.43%, influences 
+concrete's time and expansion properties, requiring careful 
+management to avoid performance issues. Sodium oxide 
+(Na₂O) and potassium oxide (K₂O) are present at 0.78% and 
+2.38%, respectively; both can contribute to the alkali-silica 
+reaction, leading to expansion and cracking if not properly 
+controlled. Sulfur trioxide (SO₃), comprising 0.26%, affects 
+the setting time and strength development of concrete, with 
+high levels potentially causing expansive reactions that may 
+result in cracking. Finally, the loss on ignition (LOI) is 3.41%, 
+indicating the amount of unburned carbon and other volatile 
+materials in the fly ash, which can impact concrete’s 
+workability and air entrainment. Understanding these 
+components is vital for optimizing fly ash use in concrete 
+mixtures and ensuring its performance in construction 
+applications. 
+ 
+ 
+Fig. 6 Chemical composition of Fly Ash 
+SiO₂
+Al₂O₃
+Fe₂O₃
+CaO
+MgO
+Na₂O
+K₂O
+SO₃
+Loss on
+Ignition
+(LOI)
+Percentage (%)
+51.2
+29.1
+9.2
+2.24
+1.43
+0.78
+2.38
+0.26
+3.41
+0
+10
+20
+30
+40
+50
+60
+Percentages of Components 
+Components 
+
+
+----- TABLE p6#1 -----
+
+ | SiO₂ | Al₂O₃ | Fe₂O₃ | CaO | MgO | Na₂O | K₂O | SO₃ | Loss on
+Ignition
+(LOI)
+Percentage (%) | 51.2 | 29.1 | 9.2 | 2.24 | 1.43 | 0.78 | 2.38 | 0.26 | 3.41
+
+===== PAGE 7 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+17 
+ 
+Table 5. Properties of aggregates 
+Property 
+Sand 
+Coarse  
+Aggregate  
+10 mm 
+Coarse  
+Aggregate  
+20 mm 
+Specific  
+Gravity 
+2.54 
+2.65 
+2.72 
+Water  
+Absorption 
+0.80% 
+0.89% 
+0.35% 
+Silt Content  
+(Sand) 
+3.92% 
+- 
+- 
+Bulking 
+(Sand) 
+13.64% 
+ 
+ 
+ 
+Table 5 provides detailed properties of the aggregates 
+used in the study. It includes measurements for sand and 
+coarse aggregates of 10 mm and 20 mm sizes. The specific 
+gravities are 2.54 for sand, 2.65 for 10 mm coarse aggregate, 
+and 2.72 for 20 mm coarse aggregate. Water absorption values 
+are 0.80% for sand, 0.89% for the 10 mm c c cage aggregate, 
+and 0.35% for the 20 mm coarse aggregate. Sand has a silt 
+content of 3.92% and a bulking factor of 13.64%, with no 
+corresponding values provided for the coarse aggregates. This 
+table summarizes the essential properties that affect the 
+performance and consistency of the concrete mix. 
+ 
+Table 6. Slump values for geopolymer concrete with rice husk ash 
+Mix Name 
+RHA/FA Ratio 
+Slump (mm) 
+GPRHA0 
+0/100 
+125 
+GPRHA1 
+10/90 
+110 
+GPRHA2 
+20/80 
+95 
+GPRHA3 
+30/70 
+80 
+ 
+ 
+Fig. 7 Slump Values for Geopolymer Concrete with Rice Husk Ash 
+ 
+Table 6 presents the slump values for geopolymer 
+concrete mixes that incorporate varying rice husk ash (RHA) 
+ratios to Fly Ash (FA). The slump test measures concrete's 
+workability, with higher slump values indicating a more fluid 
+mix. In the mix GPRHA0, which contains no RHA (0/100 
+RHA/FA ratio), the slump value is the highest at 125 mm, 
+reflecting the most workable or fluid concrete. As the RHA 
+content increases in subsequent mixes, there is a noticeable 
+decrease in slump values, indicating reduced workability. 
+ 
+For GPRHA1, where 10% of the fly ash is replaced with 
+rice husk ash (10/90 RHA/FA ratio), the slump value 
+decreases to 110 mm, suggesting a slight reduction in fluidity. 
+In GPRHA2, with a 20% RHA content (20/80 RHA/FA ratio), 
+the slump value drops further to 95 mm, showing a continued 
+decrease in workability. The trend reaches its lowest point 
+with GPRHA3, which has the highest RHA content at 30% 
+(30/70 RHA/FA ratio), resulting in a slump value of 80 mm, 
+indicating the stiffest and least workable concrete mix. 
+ 
+Figure 7 visually represents these findings, showing a 
+clear inverse relationship between RHA content and the slump 
+values of geopolymer concrete. As the proportion of rice husk 
+ash increases, the workability of the concrete decreases, 
+leading to a stiffer mix. This trend highlights the impact of 
+increasing RHA content on the fresh properties of geopolymer 
+concrete, which can have practical implications for concrete 
+handling and placement during construction. 
+ 
+Table 7. Setting times for geopolymer concrete with rice husk ash 
+Mix Name 
+RHA/FA 
+Ratio 
+Initial 
+Setting 
+Time (min) 
+Final 
+Setting 
+Time (min) 
+GPRHA0 
+0/100 
+260 
+490 
+GPRHA1 
+10/90 
+220 
+440 
+GPRHA2 
+20/80 
+190 
+400 
+GPRHA3 
+30/70 
+160 
+360 
+ 
+GPRHA0
+GPRHA1
+GPRHA2
+GPRHA3
+Slump (mm)
+125
+110
+95
+80
+0
+20
+40
+60
+80
+100
+120
+140
+Slump(mm)
+Mix 
+
+
+----- TABLE p7#1 -----
+
+Property | Sand | Coarse
+Aggregate
+10 mm | Coarse
+Aggregate
+20 mm
+Specific
+Gravity | 2.54 | 2.65 | 2.72
+Water
+Absorption | 0.80% | 0.89% | 0.35%
+Silt Content
+(Sand) | 3.92% | - | -
+Bulking
+(Sand) | 13.64% |  | 
+
+----- TABLE p7#2 -----
+
+Mix Name | RHA/FA Ratio | Slump (mm)
+GPRHA0 | 0/100 | 125
+GPRHA1 | 10/90 | 110
+GPRHA2 | 20/80 | 95
+GPRHA3 | 30/70 | 80
+
+----- TABLE p7#3 -----
+
+ | GPRHA0 | GPRHA1 | GPRHA2 | GPRHA3
+Slump (mm) | 125 | 110 | 95 | 80
+
+----- TABLE p7#4 -----
+
+Mix Name | RHA/FA
+Ratio | Initial
+Setting
+Time (min) | Final
+Setting
+Time (min)
+GPRHA0 | 0/100 | 260 | 490
+GPRHA1 | 10/90 | 220 | 440
+GPRHA2 | 20/80 | 190 | 400
+GPRHA3 | 30/70 | 160 | 360
+
+===== PAGE 8 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+18 
+ 
+ 
+Fig. 8 Setting times for  geopolymer  concrete  with  rice  husk  Ash 
+ 
+ 
+Fig. 9 Compressive strength of geopolymer concrete with rice husk Ash 
+ 
+Table 7 outlines the setting times for geopolymer concrete 
+mixes with varying proportions of rice husk ash  (RHA)  to fly 
+ash  (FA).  The initial setting time refers to the period when 
+the concrete begins to harden,  while the final setting time 
+marks when the concrete has fully set. 
+ 
+For the mix GPRHA0, which contains no rice husk ash 
+(0/100 RHA/FA ratio), the initial and final setting times are 
+the longest, recorded at 260 minutes and 490 minutes, 
+respectively. This indicates a slower hardening process, 
+providing a longer working time before the concrete begins to 
+set. 
+ 
+As the RHA content increases, the setting times decrease, 
+indicating a faster setting process. For GPRHA1, with a 10% 
+RHA content (10/90 RHA/FA ratio), the initial setting time 
+drops to 220 minutes, and the final setting time decreases to 
+440 minutes. This trend continues with GPRHA2, where a 
+20% RHA content (20/80 RHA/FA ratio) results in an initial 
+setting time of 190  minutes and a final setting time of  400  
+minutes. The fastest setting times are observed in GPRHA3, 
+which has the highest RHA content at 30% (30/70 RHA/FA 
+ratio), with an initial setting time of 160 minutes and a final 
+setting time of 360 minutes. 
+ 
+Figure 8 visually illustrates these setting times, showing 
+a clear inverse relationship between the RHA content and the 
+duration of both initial and final setting times. As the RHA 
+content increases, the setting times decrease, indicating that 
+higher proportions of rice husk ash accelerate the setting 
+process of geopolymer concrete.  
+ 
+This quicker hardening process may influence the 
+scheduling and timing of construction activities, as well as the 
+overall workability of the concrete during placement. 
+ 
+GPRHA0
+Series1
+1
+Series2
+1
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+Mix Name
+Series1
+Series2
+Compressive Strength (MPa)
+16
+20
+28
+35
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Compressive Strenght (MPa)
+Mix name
+
+
+----- TABLE p8#1 -----
+
+ | GPRHA0
+Series1 | 1
+Series2 | 1
+
+----- TABLE p8#2 -----
+
+Compressive Strength (MPa) | 16 | 20 | 28 | 35
+
+===== PAGE 9 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+19 
+Table 8. Compressive strength of geopolymer concrete with rice husk 
+ash 
+Mix Name 
+RHA/FA 
+Ratio 
+Compressive 
+Strength (MPa) 
+GPRHA0 
+0/100 
+16 
+GPRHA1 
+10/90 
+20 
+GPRHA2 
+20/80 
+28 
+GPRHA3 
+30/70 
+35 
+ 
+Table 8 provides the compressive strength values for 
+geopolymer concrete mixes with varying ratios of Rice  Husk  
+Ash  (RHA)  to  Fly Ash  (FA). Compressive strength is a 
+critical indicator of concrete's ability to withstand axial loads 
+and is a key determinant of its structural performance. For the 
+GPRHA0 mix, which contains no rice husk ash (0/100 
+RHA/FA ratio), the compressive strength is recorded at 16 
+MPa. This serves as the baseline strength for geopolymer 
+concrete without RHA. As the RHA content increases, a 
+notable improvement in compressive strength is observed.  
+The GPRHA1 mix,  with a 10/90 RHA/FA ratio, shows an 
+increase in compressive strength to 20 MPa, indicating that 
+even a small addition of RHA positively affects the concrete's 
+strength. 
+ 
+Further increasing the RHA content to 20%, as seen in the 
+GPRHA2 mix, results in a compressive strength of 28 MPa. 
+This significant rise in strength suggests that RHA contributes 
+greatly to the overall performance of the geopolymer concrete. 
+The highest compressive strength is recorded in the GPRHA3 
+mix, where 30% of the fly ash is replaced with rice husk ash. 
+This mix achieves a compressive strength of  35 MPa, 
+demonstrating that including RHA substantially enhances the 
+concrete's ability to resist compressive forces. Overall, the 
+data in Table 6 and Figure 9 illustrate a clear trend: increasing 
+the proportion of rice husk ash in geopolymer concrete leads 
+to significant gains in compressive strength, with the highest 
+strength observed at the maximum RHA content. 
+ 
+Table 9. Splitting tensile strength of geopolymer concrete with rice  
+husk ash 
+Mix Name 
+RHA / FA 
+Ratio 
+Splitting  Tensile 
+Strength  (MPa) 
+GPRHA0 
+0/100 
+1.3 
+GPRHA1 
+10/90 
+1.8 
+GPRHA2 
+20/80 
+2.3 
+GPRHA3 
+30/70 
+2.6 
+ 
+ 
+Fig. 10 Splitting Tensile Strength of Geopolymer Concrete with Rice Husk Ash 
+ 
+Table 9 provides splitting tensile strength test values for 
+geopolymer concrete mixes with different ratios of Rice Husk 
+Ash  (RHA) to Fly Ash  (FA), highlighting the material's 
+ability to resist tensile stresses. The GPRHA0 mix contains no 
+RHA (0/100 RHA/FA ratio) and has the lowest tensile 
+strength at 1.3 MPa. As RHA is introduced into the mix, a 
+marked improvement in tensile strength is observed. In the 
+GPRHA1 mix, with a 10/90 RHA/FA ratio, the tensile 
+strength increases to 1.8 MPa, showing that even a small 
+amount of RHA positively impacts the tensile properties of the 
+concrete. The GPRHA2 mix, with a 20/80 RHA/FA ratio, 
+further enhances the tensile strength to 2.3 MPa, indicating 
+that increasing RHA content strengthens the material. The 
+highest tensile strength is recorded in the GPRHA3 mix, 
+where 30% of the FA is replaced with RHA, achieving a 
+tensile strength of 2.6 MPa.These results, as depicted in Figure 
+10, demonstrate a clear trend of increasing tensile strength 
+with higher RHA content, underscoring the beneficial role of 
+rice husk ash in improving the tensile performance of 
+geopolymer concrete. 
+In addition to its ability to increase concrete's strength, the 
+findings show that RHA might be a greener alternative to 
+traditional methods of making the material. As a waste product 
+GPRHA0
+GPRHA1
+GPRHA2
+GPRHA3
+Splitting Tensile Strength (MPa)
+1.3
+1.8
+2.3
+2.6
+0
+0.5
+1
+1.5
+2
+2.5
+3
+Splitting Tensile Strength 
+Mix name
+
+
+----- TABLE p9#1 -----
+
+Mix Name | RHA/FA
+Ratio | Compressive
+Strength (MPa)
+GPRHA0 | 0/100 | 16
+GPRHA1 | 10/90 | 20
+GPRHA2 | 20/80 | 28
+GPRHA3 | 30/70 | 35
+
+----- TABLE p9#2 -----
+
+Mix Name | RHA / FA
+Ratio | Splitting Tensile
+Strength (MPa)
+GPRHA0 | 0/100 | 1.3
+GPRHA1 | 10/90 | 1.8
+GPRHA2 | 20/80 | 2.3
+GPRHA3 | 30/70 | 2.6
+
+----- TABLE p9#3 -----
+
+ | GPRHA0 | GPRHA1 | GPRHA2 | GPRHA3
+Splitting Tensile Strength (MPa) | 1.3 | 1.8 | 2.3 | 2.6
+
+===== PAGE 10 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+20 
+from rice milling, RHA is an environmentally benign 
+substitute for conventional supplemental materials and helps 
+cut down on trash. Finding the sweet spot between RHA 
+strength, workability, and setting times should be the goal of 
+future studies. To further understand its potential use in 
+different building contexts, it is essential to study the 
+performance and longevity of RHA-blended GPC in various 
+environments.  
+As part of this process, we must investigate how well the 
+material withstands various types of deterioration, such as 
+chemical attacks and freeze-thaw cycles. More research into 
+these areas will help prove that RHA is useful for eco-friendly 
+building methods and can improve geopolymer concrete's 
+performance and environmental impact. 
+4. Conclusion 
+The study also highlights that incorporating Rice Husk 
+Ash (RHA) in Geopolymer Concrete (GPC) contributes to its 
+sustainability by utilizing agricultural waste, thus reducing the 
+environmental footprint associated with concrete production. 
+The enhanced mechanical properties, such as increased 
+compressive and tensile strengths, suggest that RHA not only 
+compensates for the reduced workability but also improves the 
+overall durability and longevity of the concrete. Additionally, 
+the accelerated setting times, while posing a challenge in terms 
+of workability, may be advantageous in specific construction 
+scenarios where rapid strength gain is desirable. The use of 
+RHA in GPC aligns with the growing demand for green 
+building materials and underscores its potential to advance 
+sustainable construction practices. Despite the need for 
+adjustments in mix design and handling, the benefits of RHA 
+in improving the structural performance and sustainability of 
+GPC make it a promising alternative to conventional concrete 
+materials. 
+ 
+Recommendations 
+1. RHA Content Optimization: Future studies should 
+investigate how to best balance the RHA content to 
+provide better mechanical characteristics, workability, 
+and setting times. Possible solutions to the problems with 
+workability and setting times include experimenting with 
+different RHA/FA ratios, adding chemical admixtures, or 
+using other curing techniques. 
+2. Research on the performance and longevity of RHA-
+blended GPC is crucial. To guarantee its appropriateness 
+for various building applications, further research should 
+investigate how well RHA-enhanced GPC withstands 
+environmental conditions such as chemical assaults, 
+freeze-thaw cycles, and other types of deterioration. 
+3. 3. Mix Design Standardization: To achieve consistent 
+quality and performance, it is helpful to develop defined 
+methods for producing and curing RHA-blended GPC. In 
+order to guarantee consistent and repeatable outcomes 
+across several projects, it is necessary to establish best 
+practices for mix design, handling, and curing. 
+4. 4. Investigation of Other By-Products: Studies should 
+investigate the feasibility and effectiveness of including 
+more industrial by-products, like slag and recycled 
+aggregates, into GPC with RHA. Improving GPC's 
+sustainability and cost-effectiveness can be achieved by 
+understanding the interactions between these materials 
+and RHA. 
+5. Evaluating 
+the 
+Environmental 
+and 
+Economic 
+Consequences: In order to thoroughly examine the 
+environmental and economic consequences of RHA-
+blended GPC, it is necessary to do comprehensive Life-
+Cycle Evaluations (LCA) and cost-benefit analyses. For a 
+more complete picture of RHA's overall sustainability in 
+GPC, these evaluations should take into account the full 
+production cycle, from sourcing raw materials to disposal 
+at the end of life. 
+In order to improve the overall efficiency and resilience 
+of concrete buildings, future research should address these 
+recommendations and progress the development of GPC 
+technologies. This will promote their widespread application 
+in sustainable construction practices.
+References  
+[1] Chandan Kumar Patnaikuni, and Malleswara Rao Palli, Rice Husk Ash Influence in Cement Concrete, Lulu Publication, pp. 1-173, 2021. 
+[Google Scholar] [Publisher Link] 
+[2] A.A. Ramezanianpour, M. Mahdi Khani, and Gh. Ahmadibeni, “The Effect of Rice Husk Ash on Mechanical Properties and Durability 
+of Sustainable Concretes,” International Journal of Civil Engineering, vol. 7, no. 2, pp. 83-91, 2009. [Google Scholar] [Publisher Link] 
+[3] Peem Nuaklong et al., “Influence of Rice Husk Ash on Mechanical Properties and Fire Resistance of Recycled Aggregate High-Calcium 
+Fly Ash Geopolymer Concrete,” Journal of Cleaner Production, vol. 252, 2020. [CrossRef] [Google Scholar] [Publisher Link] 
+[4] M. Jamil et al., “Physical and Chemical Contributions of Rice Husk Ash on the Properties of Mortar,” Construction and Building 
+Materials, vol. 128, pp. 185-198, 2016. [CrossRef] [Google Scholar] [Publisher Link] 
+[5] K. Sakr,  “Effects of Silica Fume and Rice Husk Ash on the Properties of Heavy Weight Concrete,” Journal of Materials in Civil 
+Engineering, vol. 18, no. 3, pp. 367-376, 2006. [CrossRef] [Google Scholar] [Publisher Link] 
+[6] Agbede Olufemi et al., “Production of Concrete Roofing Tiles Using Rice Husk Ash (RHA) in Partial Replacement of Cement,” 
+International Research Journal of Engineering and Technology, vol. 3, no. 6, pp. 2678-2685, 2016. [Google Scholar] [Publisher Link] 
+
+
+===== PAGE 11 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+21 
+[7] K. Ganesan, K. Rajagopal, and K. Thangavel, “Rice Husk Ash Blended Cement: Assessment of Optimal Level of Replacement for 
+Strength and Permeability Properties of Concrete,” Construction and Building Materials, vol. 22, no. 8, pp. 1675-1683, 2008. [CrossRef] 
+[Google Scholar] [Publisher Link] 
+[8] Ghassan Abood Habeeb, and Hilmi Bin Mahmud, “Study on Properties of Rice Husk Ash and its Use as Cement Replacement Material,” 
+Materials Research, vol. 13, no. 2, pp. 185-190, 2010. [CrossRef] [Google Scholar] [Publisher Link] 
+[9] Le Anh-tuan Bui et al., “Effect of Silica Forms in Rice Husk Ash on the Properties of Concrete,” International Journal of Minerals, 
+Metallurgy, and Materials, vol. 19, pp. 252-258, 2012. [CrossRef] [Google Scholar] [Publisher Link] 
+[10] Michael Toryila Tiza, “Sustainability in the Civil Engineering and Construction Industry: A Review,” Journal of Sustainable Construction 
+Materials and Technologies, vol. 7, no. 1, pp. 30-39, 2022. [CrossRef] [Google Scholar] [Publisher Link] 
+[11] Qingge Feng et al., “Study on the Pozzolanic Properties of Rice Husk Ash by Hydrochloric Acid Pretreatment,” Cement and Concrete 
+Research, vol. 34, no. 3, pp. 521-526, 2004. [CrossRef] [Google Scholar] [Publisher Link] 
+[12] Rahmat Madandoust et al., “Mechanical Properties and Durability Assessment of Rice Husk Ash Concrete,” Biosystems Engineering, vol. 
+110, no. 2, pp. 144-152, 2011. [CrossRef] [Google Scholar] [Publisher Link] 
+[13] Sachin Singh, and Abhilash Shukla, “Effect of Rice Husk Ash on the Properties of Concrete,” International Journal for Research in 
+Applied Science & Engineering Technology, vol. 11, no. 10, pp. 1056-1062, 2023. [CrossRef] [Publisher Link] 
+[14] Mahdi Koushkbaghi et al., “Acid Resistance and Durability Properties of Steel Fiber-Reinforced Concrete Incorporating Rice Husk Ash 
+and Recycled Aggregate,” Construction and Building Materials, vol. 202, pp. 266-275, 2019. [CrossRef] [Google Scholar] [Publisher 
+Link] 
+[15] Kishor Chandra Panda, Subhrasweta Behera, and Shradha Jena, “Effect of Rice Husk Ash on Mechanical Properties of Concrete 
+Containing Crushed Seashell as Fine Aggregate,” Materials Today: Proceedings, vol. 32, no. 4, pp. 838-843, 2020. [CrossRef] [Google 
+Scholar] [Publisher Link] 
+[16] Md. Safiuddin, J.S. West, and K.A. Soudki, “Hardened Properties of Self-Consolidating High Performance Concrete Including Rice Husk 
+Ash,” Cement and Concrete Composites, vol. 32, no. 9, pp. 708-717, 2010. [CrossRef] [Google Scholar] [Publisher Link] 
+[17] Ali Nazari, Ali Bagheri, and Shadi Riahi, “Properties of Geopolymer with Seeded Fly Ash and Rice Husk Bark Ash,” Materials Science 
+and Engineering: A, vol. 528, no. 24, pp. 7395-7401, 2011. [CrossRef] [Google Scholar] [Publisher Link] 
+[18] J. Sutas, A. Mana, and L. Pitak, “Effect of Rice Husk and Rice Husk Ash to Properties of Bricks,” Procedia Engineering, vol. 32, pp. 
+1061-1067, 2012. [CrossRef] [Google Scholar] [Publisher Link] 
+[19] Michael Toryila Tiza et al., “Integrating Sustainability into Civil Engineering and the Construction Industry,” Journal of Cement Based 
+Composites, vol. 4, no. 1, pp. 1-11, 2023. [CrossRef] [Google Scholar] [Publisher Link] 
+[20] Aysegul Petek Gursel, Helena Maryman, and Claudia Ostertag, “A Life-Cycle Approach to Environmental, Mechanical, and Durability 
+Properties of “Green” Concrete Mixes with Rice Husk Ash,” Journal of Cleaner Production, vol. 112, no. 1, pp. 823-836, 2016. [CrossRef] 
+[Google Scholar] [Publisher Link] 
+[21] Seyed Mahmoud Zabihi, Hamidreza Tavakoli, and Ehsan Mohseni, “Engineering and Microstructural Properties of Fiber-Reinforced Rice 
+Husk Ash Based Geopolymer Concrete,” Journal of Materials in Civil Engineering, vol. 30, no. 8, 2018. [CrossRef] [Google Scholar] 
+[Publisher Link] 
+[22] Bharat Bhushan Jindal, Parveen Jangra, and Atul Garg, “Effects of Ultra Fine Slag as Mineral Admixture on the Compressive Strength, 
+Water Absorption and Permeability of Rice Husk Ash Based Geopolymer Concrete,” Materials Today: Proceedings, vol. 32, no. 4, pp. 
+871-877, 2020. [CrossRef] [Google Scholar] [Publisher Link] 
+[23] Andri Kusbiantoro et al., “The Effect of Microwave Incinerated Rice Husk Ash on the Compressive and Bond Strength of Fly Ash Based 
+Geopolymer Concrete,” Construction and Building Materials, vol. 36, pp. 695-703, 2012. [CrossRef] [Google Scholar] [Publisher Link] 
+[24] Koti Chiranjeevi, M.M. Vijayalakshmi, and T.R. Praveenkumar, “Investigation of Fly Ash and Rice Husk Ash-Based Geopolymer 
+Concrete Using Nano Particles,” Applied Nanoscience, vol. 13, pp. 839-846, 2021. [CrossRef] [Google Scholar] [Publisher Link] 
+[25] Toryila Michael Tiza et al., “Assessing the Potentials of Bamboo and Sheep Wool Fiber as Sustainable Construction Materials: A Review,” 
+Materials Today: Proceedings, vol. 47, no. 14, pp. 4484-4489, 2021. [CrossRef] [Google Scholar] [Publisher Link] 
+[26] Ankur Mehta, and Rafat Siddique, “Sustainable Geopolymer Concrete Using Ground Granulated Blast Furnace Slag and Rice Husk Ash: 
+Strength and Permeability Properties,” Journal of Cleaner Production, vol. 205, pp. 49-57, 2018. [CrossRef] [Google Scholar] [Publisher 
+Link] 
+[27] Saraswati Verma, and Mayank Kumar, “Behaviour of Fly Ash and Rice Husk Ash Based Geopolymer Concrete,” Key Engineering 
+Materials, vol. 775, pp. 596-602, 2018. [CrossRef] [Google Scholar] [Publisher Link] 
+[28] Yamini J. Patel, and Niraj Shah, “Enhancement of the Properties of Ground Granulated Blast Furnace Slag Based Self Compacting 
+Geopolymer Concrete by Incorporating Rice Husk Ash,” Construction and Building Materials, vol. 171, pp. 654-662, 2018. [CrossRef] 
+[Google Scholar] [Publisher Link] 
+
+
+===== PAGE 12 =====
+
+Md. Daniyal et al. / IJCE, 11(11), 11-22, 2024 
+ 
+22 
+[29] Shaswat Kumar Das et al., “Characterization and Utilization of Rice Husk Ash (RHA) in Fly Ash – Blast Furnace Slag Based Geopolymer 
+Concrete for Sustainable Future,” Materials Today: Proceedings, vol. 33, no. 8, pp. 5162-5167, 2020. [CrossRef] [Google Scholar] 
+[Publisher Link] 
+[30] R. Prasanna Venkatesan, and K.C. Pazhani, “Strength and Durability Properties of Geopolymer Concrete made with Ground Granulated 
+Blast Furnace Slag and Black Rice Husk Ash,” KSCE Journal of Civil Engineering, vol. 20, pp. 2384-2391, 2016. [CrossRef] [Google 
+Scholar] [Publisher Link] 
+[31] Mahapara Abbass, and Gyanendra Singh, “Impact Strength of Rice Husk Ash and Basalt Fibre Based Sustainable Geopolymer Concrete 
+in Rigid Pavements,” Materials Today: Proceedings, vol. 61, no. 2, pp. 250-257, 2022. [CrossRef] [Google Scholar] [Publisher Link] 
+[32] Mahapara Abbass, and Gyanendra Singh, “Durability of Rice Husk Ash and Basalt Fibre Based Sustainable Geopolymer Concrete in 
+Rigid Pavements,” Materials Today: Proceedings, vol. 61, no. 2, pp. 558-570, 2022. [CrossRef] [Google Scholar] [Publisher Link] 
+[33] Ramesh Kumar Chouhan et al., “Rice-Husk-Based Superplasticizer to Increase Performance of Fly Ash Geopolymer Concrete,” Emerging 
+Materials Research, vol. 7, no. 3, pp. 169-177, 2018. [CrossRef] [Google Scholar] [Publisher Link] 
+[34] Z.A. Alrowaili et al., “Radiation Attenuation of Fly Ash and Rice Husk Ash-Based Geopolymers as Cement Replacement in Concrete for 
+Shielding Applications,” Radiation Physics and Chemistry, vol. 217, 2024. [CrossRef] [Google Scholar] [Publisher Link] 
+[35] Chao-Lung Hwang, and Trong-Phuoc Huynh, “Effect of Alkali-Activator and Rice Husk Ash Content on Strength Development of Fly 
+Ash and Residual Rice Husk Ash-Based Geopolymers,” Construction and Building Materials, vol. 101, no. 1, pp. 1-9, 2015. [CrossRef] 
+[Google Scholar] [Publisher Link] 
+[36] Mariam Abdulkareem et al., “Environmental and Economic Perspective of Waste-Derived Activators on Alkali-Activated Mortars,” 
+Journal of Cleaner Production, vol. 280, no. 1, pp. 1-11, 2021. [CrossRef] [Google Scholar] [Publisher Link] 
+[37] Subhashree Samantasinghar, and Suresh Prasad Singh, “Fresh and Hardened Properties of Fly Ash–Slag Blended Geopolymer Paste and 
+Mortar,” International Journal of Concrete Structures and Materials, vol. 13, pp. 1-12, 2019. [CrossRef] [Google Scholar] [Publisher 
+Link] 
+ 

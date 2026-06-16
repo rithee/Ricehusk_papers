@@ -1,0 +1,1316 @@
+
+===== PAGE 1 =====
+
+ 
+Available online at www.CivileJournal.org 
+Civil Engineering Journal 
+ Vol. 6, No. 1, January, 2020 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+98 
+ 
+ 
+The Sustainability of Cement Mortar with Raw Sewage Sludge 
+and Rice Husk Ash 
+ 
+Rawa Shakir Muwashee a* 
+a Faculty of Engineering, Department of Structures and Water Resources Engineering, University of Kufa, Kufa, Iraq. 
+Received 29 August 2019; Accepted 30 November 2019 
+Abstract 
+This study devotes to investigate the use of Raw Sewage Sludge (RSS) and Rice Husk Ash (RHA) to obtain sustainable 
+construction materials. This study focuses on the evaluation of using cement-based materials having RSS and RHA. The 
+methodology of this study could be summarized by replacing water by RSS and replacement of 10 %RHA from the weight 
+of cement. Five groups have been used with different ratios of RSS/binder; for each group with and without RHA. In 
+addition, the sand/binder ratio has been changed for Group 2. This method includes testing the flowability, compressive 
+strength, Total Water Absorption (TWA) and density for the mortar mixes containing these materials. The results indicate 
+that mixes with added materials encourage the results compared to control mixes. Addition of RHA considerably decreases 
+flowability; however it enhanced compressive strength for all groups especially for Groups 3, 4 and 5.  Moreover, the 
+minimum values of TWA were recorded when 10% RHA was utilized as a cement replacement for both RSS and water 
+mixes. Finally, it was found that replacing RSS by water, leads to the reduction in flowability and TWA in all mixes 
+especially at 10% RHA; whereas the strength and density increase. 
+Keywords: Raw Sewage Sludge; Rice Husk Ash; Sustainability; Cement Mortar; Concrete. 
+ 
+1. Introduction 
+To reduce the cost of concrete construction, different studies are trying to figure out alternatives for the ingredients 
+of concrete without a significant reduction in its strength [1]. These could be sustainable materials such as RHA and 
+RSS. 
+ The RHA is from the burning of rice husk which is very widespread in East and South-East Asia because rice 
+production is so high in this area. The RHA is then utilized as a substitute or admixture in cement. Therefore the entire 
+rice product is used in an efficient and environmentally friendly approach [2]. 
+ The RSS is a residual stream of suspended/dissolved organic and inorganic materials that result from the treatment 
+processes of municipal wastewaters. The RSS is a liquid or semisolid liquid state depending on the percentage of solid 
+by weight resulting from different processes applied [3]. The RSS may be collected from secondary and tertiary 
+settlement tanks. The RSS is approximately produced up to 35 million tons per year in the UK [4]. 
+The RSS as a water replacement was used with unprocessed fly ash as a cement replacement. The results of using 
+RSS and unprocessed fly ash were encouraging. Better properties of engineering, durability and environmental 
+comparing with the control mixes [5, 6]. 
+                                                          
+* Corresponding author: rawas.muwashee@uokufa.edu.iq 
+http://dx.doi.org/10.28991/cej-2020-03091456 
+ 
+© 2019 by the authors. Licensee C.E.J, Tehran, Iran. This article is an open access article distributed under the terms 
+and conditions of the Creative Commons Attribution (CC-BY) license (http://creativecommons.org/licenses/by/4.0/). 
+ 
+
+
+===== PAGE 2 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+99 
+ 
+ 
+Alawn [7] used the RHA with cement mortar to investigate the optimum value for compressive and flexural strengths. 
+The author used 5, 10, 15 and 20% of RHA as partial replacement by weight of cement. He found the 10% RHA gives 
+the optimum strengths at 28 days and 15% at 90 days.  
+Siddika et al. [1] concluded that using RHA as partial replacement of cement reduces environmental pollutants and 
+economy in concrete construction. In addition, they found that 10% RHA replacement gives the best values of 
+compressive, flexural and tensile strengths. Whereas, the value of slump decreases with increasing in RHA replacement.  
+Similarly, Zhang et al. [8] found that 10% RHA replacement gives the maximum strength than control mix at all ages. 
+Ramezanianpour et al. [9] indicated that 10% RHA replacement of cement enhanced compressive of concrete from 40.3 
+MPa for control mix to 44.8 MPA and tensile strength from 3.87 MPa for control to 4.19 MPa for same curing age at 28 
+days.  
+Compressive strength of normal mortar cubes (1:4 mix) increases to 16.43 MPa and 17.44 MPa for RHA composition 
+7.5% and 10.0% respectively compared to control strength of 10.39 MPa but for higher proportion of 12.50%, 15.0%and 
+17.5% compressive strength decreases to 12.74 MPa, 7.71 MPa respectively for 28 days curing age [10].  
+Jaya et al. [11] conducted an experimental work on cement paste using nano silica produced from Black Rice Husk 
+Ash (BRHA). The four ratios (0, 10, 20 and 30%) of BRHA by weight of cement were implemented. The authors were 
+found that the cement paste comprising 10% nano BRHA displays a better pozzolanic reaction because of the highest 
+weight loss of calcium silicate hydrate. 
+Having reported that 10% RHA gives better compressive and flexural strengths, this study has used 10% RHA 
+replacement as the only ratio for this study. Whereas, for water either it was replaced totally with RSS or not with 
+different RSS/cement ratios or water/cement ratio equals to 0.75 as in Hamood et al. (2017) and Hamood (2014) studies 
+[5, 6]. The use of these have been used in this study.  
+2. RHA    
+Added cementitious materials may consider the most effective requirements of durable concrete. The RHA is 
+considered as superior to other supplementary materials such as slag, silica fume and fly ash because they have high 
+pozzolanic activity in addition, both strength and durability of concrete are enhanced [12]. The utilization of RHA as 
+cement replacement is a new tendency in concrete technology. Moreover, to the extent that the sustainability is 
+concerned, it may help in solving problems otherwise encountered in another way in waste disposal [13]. Disposal of 
+husks is a major problem and open pile burning is unacceptable for environmental reasons, so most husks are currently 
+entering the landfill. The disposal of rice husks creates an environmental problem that leads to the idea of replacing RHA 
+with silica in the cement industry. The silica content in the ash is about 92-97%. Chemical compositions of RHA are 
+affected by the combustion process and temperature. The silica content in the ash increases as the burning temperature 
+increases. According to a study by Houston [14] RHA produced by burning RH between 600 and 700 ° C for two hours, 
+containing 90-95% SiO2, 1-3% K2O and <5% unburned carbon. Under controlled burning conditions in industrial 
+furnaces, conducted by Mehta [15], RHA contains silica in a highly amorphous and cellular form, with an area of 50-
+1000 m2 / g.  Therefore, the use of RHA with cement modifies the operability and stability, and reduces the development 
+of heat, thermal cracking and plastic shrinkage. This further develops strength, impermeability and durability by 
+enhancing the transition zone, improving the pore structure, and preventing large voids in the hydro-cement paste through 
+the pozzolanic reaction.  
+3. Sewage Sludge 
+The RSS is primarily obtained from the tanks of primary settlement. These tanks are large rectangular where heavier 
+particles are permitted to settle down and are subsequently dredged by scrapers to a submerged outlet. Stable current, a 
+thick slurry, is pumped to a sludge storage. 
+4. Materials Properties 
+The materials that have been utilized in the experimental program, containing Portland cement, fine aggregate, 
+drinking water, RSS and RHA. Hydrated lime was also used as an additional material for other applications. 
+4.1. Portland Cement 
+Ordinary Portland cement (Type I) manufactured by AL-Kufa factory was used throughout in this project conforming 
+to Iraqi specification [16].  
+4.2. Fine Aggregate  
+The graded standard sand used in this study was brought from engineering consulting bureau in Kufa University. 
+Table 1 indicates the grading of this sand. The table also includes the limits specified by ASTM C 778 [17]. 
+
+
+===== PAGE 3 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+100 
+ 
+ 
+Table 1. Grading of the standard sand 
+Sieve 
+Percent retained 
+ASTM C778-1987 Limits 
+No.16 (1.18 mm) 
+None 
+None 
+No.30 (600 mm) 
+2 
+2  2 
+No.40 (425 mm) 
+27 
+30  5 
+No.50 (300 mm) 
+75 
+75  5 
+No.100 (150 mm) 
+97 
+98  2 
+4.3. Mixing Water  
+The water used in this work is a tap water from the laboratory.  
+4.4. RSS 
+The RSS was collected as a thick slurry which is formed 2.5% of total liquid weight was taken from a sewage 
+treatment unit in Al-Brakih. The collected RSS in the form of thick slurry that has 97.5% total weight liquid and 0.5% 
+total weight hydrated lime which has been  added to the RSS for partial treatment in order to raise  the level of alkalinity  
+(PH>12) for eliminating harmful pathogens. 
+4.5. RHA 
+The rice husks are plant fibers contain cellulose, hemicellulose, lignin and silica. The RHA is found to be superior to 
+other supplementary materials such as slag, silica fume and fly ash.  This is because of its high pozzolanic activity, both 
+strength and durability of concrete enriched.  The RH used in this experimental work was collected from Al-Najaf  Silo 
+for cereal (Figure 1), and then  incinerated in an oven at heating rate of 10 ºC per minute up to 300 ºC kept at this 
+temperature for 3 hours under well-controlled temperature, after that permitted to cool down to room temperature (Figure 
+1). The ash was then grinded. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 1. Raw rice husk before and after burning 
+4.6. Hydrated lime 
+Hydrated lime has been used in order to partially treat the RSS. The percentage of this material is 0.5% of total weight 
+of the RSS specimen to remove risky pathogens by rising PH more than 12.  
+4.7. Mixing Proportions 
+Mortar mixes with RSS and RHA were investigated throughout this experimental program. Nine of mortar mixtures 
+mainly included a constant ratio of sand/binder of 3.0 with various liquid/binder ratios (0.5, 0.6, and 0.75). RHA was 
+used as a cement replacement at ratio of 10% by the total mass of binder. The used ratio were determined depending on 
+the previous studies, some practical guidance and several trial mixes. The ratio of 3 for sand/cement was considered 
+[18]. However, other sand/cement ratios, containing 4.5 and 6.0, were inspected, too. The ratios of RHA have been 
+decided depending on the results of the previous studies. The liquid content was determined from 0.5 to 0.75 to make 
+workable mixes (the lower limit), and to prevent the separation of mixtures during casting (upper limit). The mixing 
+proportions for these mortar mixes are presented in Table 2. These mixes were classified into five groups and as indicated 
+in Table 3. These groups are: 
+ Group I: It is used to test the effect of changing RSS ratio on the inspected properties. One ratio of sand/cement is 
+3.0 and three ratios of (RSS/cement) are 0.5, 0.6, and 0.75 have been utilized.    
+ Group II: It is used to investigate the effect of sand ratio variation on the examined characteristics. One ratio (0.75) 
+of RSS/cement was used and three ratios of sand/cement were 3.0, 4.5 and 6.0. 
+
+
+===== PAGE 4 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+101 
+ 
+ 
+ Group III: This group is considered to assess the effect of partially changing cement with the RHA on the examined 
+characteristics. Cement was changed with the RHA at 10% by binder total weight. The (RSS/binder) content is 
+0.6 in this group.  
+ Group IV: Like Group III, but with a high RSS/binder content (0.75). 
+ Group V: This group content is like Group IV, but with water.  
+Table 2. Mixing ratios with RSS and RHA 
+Mix 
+Liquid/Binder 
+Binder 
+Sand/binder ratio 
+Type of liquid 
+Cement 
+RHA 
+MX1 
+0.5 
+1.0 
+0.0 
+3.0 
+RSS 
+ 
+MX2 
+0.6 
+1.0 
+0.0 
+3.0 
+MX3 
+0.75 
+1.0 
+0.0 
+3.0 
+MX4 
+0.75 
+1.0 
+0.0 
+4.5 
+MX5 
+0.75 
+1.0 
+0.0 
+6.0 
+MX6 
+0.6 
+0.9 
+0.1 
+3.0 
+MX7 
+0.75 
+0.9 
+0.1 
+3.0 
+MX8 
+0.75 
+1.0 
+0.0 
+3.0 
+Water 
+MX9 
+0.75 
+0.9 
+0.1 
+3.0 
+Table 3. Investigated properties for different mortar mixes 
+Group 
+Mix 
+Studied properties 
+I 
+MX1, MX2, and MX3 
+Flowability, compressive 
+strength, density, and TWA. 
+II 
+MX4, and MX5 
+III 
+MX6 
+IV 
+MX7 
+V 
+MX8, and MX9 
+5. Mixing, Casting and Curing 
+Specimens were prepared of mortar mixes with ordinary Portland cement with or without RHA. These are mixed 
+manually until homogeneity was attained. Then, RSS or water has been added and mixed as indicated in Table 2.  
+Regarding to the casting process, steel molds (70 mm in size) have been used to cast the mortar samples and 
+compacted them using a vibration. The excess mortar was cut and removed with a trowel from the top of the specimen. 
+These molds have been used for determining the compressive strength, density, and TWA.  
+After casting, samples have been protected with plastic sheets and located in a place at a temperature of 20±2 oC for 
+24 hours until demolding. Therefore, specimen have been cured for various ages (between 7 and 28 days) by putting in 
+water tanks until testing time. The water in the tank was changed every two or three weeks.  
+6. Testing 
+Different tests have been implemented in this study such as: 
+A. Flowability (flow table test): the flowability test of fresh cement mortar mixes has been determined according 
+to ASTM C230-08 specifications.  
+B. Compressive strength test:  the average strength of three cubes has been determined to the nearest 0.1 MPa. 
+These specimens have been tested according to BS EN 196-1:2005.  
+C. Density: this test was carried out in order to get information about the variation of void content due to the use 
+of RSS in this study. It was implemented in 70×70×70 mm in size samples. Mass of cured specimens (for 28 
+days) was determined by a sensitive scale with accuracy of 0.01 gm. The volume has been determined measuring 
+the sample dimension by a precise caliber. Then, the density was measured by diving the mass by the volume.  
+D. TWA: this test was carried out on the same specimens which are used in the density test. Cured samples have 
+been dried in an electrical oven at (105±5) until a constant weight. High drying temperature has been evaded in 
+order not to make any harms to the tested samples. Subsequently, dried samples have been positioned at a room 
+temperature to cool down for 2 hrs., and  mass has been later measured and documented to the nearest 0.1gm. 
+
+
+----- TABLE p4#1 -----
+
+ |  |  |  |  |  |  | Binder |  |  |  |  |  |  |  |  | 
+ | Mix |  |  | Liquid/Binder |  | Cement RHA |  |  |  |  |  | Sand/binder ratio |  |  | Type of liquid | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | MX1 |  |  | 0.5 |  |  | 1.0 |  |  | 0.0 |  | 3.0 |  |  |  | 
+ | MX2 |  |  | 0.6 |  |  | 1.0 |  |  | 0.0 |  | 3.0 |  |  |  | 
+ | MX3 |  |  | 0.75 |  |  | 1.0 |  |  | 0.0 |  | 3.0 |  |  |  | 
+ | MX4 |  |  | 0.75 |  |  | 1.0 |  |  | 0.0 |  | 4.5 |  |  | RSS | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | MX5 |  |  | 0.75 |  |  | 1.0 |  |  | 0.0 |  | 6.0 |  |  |  | 
+ | MX6 |  |  | 0.6 |  |  | 0.9 |  |  | 0.1 |  | 3.0 |  |  |  | 
+ | MX7 |  |  | 0.75 |  |  | 0.9 |  |  | 0.1 |  | 3.0 |  |  |  | 
+ | MX8 |  |  | 0.75 |  |  | 1.0 |  |  | 0.0 |  | 3.0 |  |  |  | 
+ | MX9 |  |  | 0.75 |  |  | 0.9 |  |  | 0.1 |  | 3.0 |  | Water |  | 
+
+----- TABLE p4#2 -----
+
+ | Group |  |  | Mix |  | Studied properties | 
+ | I |  |  | MX1, MX2, and MX3 |  |  | 
+ | II |  |  | MX4, and MX5 |  |  | 
+ | III |  |  | MX6 |  | Flowability, compressive | 
+ |  |  |  |  |  | strength, density, and TWA. | 
+ | IV |  |  | MX7 |  |  | 
+ | V |  |  | MX8, and MX9 |  |  | 
+
+===== PAGE 5 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+102 
+ 
+ 
+Dried specimens have been submerged in a tap water for 48 hours and noting the increase in mass, then weighing 
+it again. Prior to determining mass of saturated specimens, external surfaces have been dried by damp towels. 
+TWA has been determined as in Equation 1.  
+            𝑇𝑊𝐴= (𝑚𝑠−𝑚𝑑)/(𝑚𝑑)  
+ 
+ 
+ 
+ 
+ 
+  
+ 
+             (1) 
+       Where; 𝑇𝑊𝐴: 𝑇𝑊𝐴 %; 𝑚𝑠: Mass of statured specimens (gm); 𝑚𝑑: Mass of dried specimens, (gm).  
+7. Results and Discussions 
+7.1. Flowability Test Results 
+The results of the flowability for each group has been summarized as below:  
+Effect of RSS (Group I) 
+The flowability with various RSS ratios is indicated in Figure 2. Group1 has three mixes (MX1, MX2, and MX3) and 
+three ratios (0.5, 0.6 and 0.75) of RSS/cement have been inspected. For evaluation purposes, MX8 (which has a drinking 
+water equal to the RSS of MX3), has been assessed, too. The figure indicates that the flowability of samples improved 
+as the ratio of RSS raised. The maximum flow of 160 mm is determined with the RSS/cement ratio of 0.75 (MX3). This 
+may be due to the increment in the ratio of RSS/Cement.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 2. Flowability with various RSS/Cement ratios (Group I) 
+Effect of changing sand content (Group II) 
+Figure 3 mainly indicates the effect of changing sand ratio on flowability. This group has constant ratio 0.75 of 
+RSS/cement and three ratios of   sand/cement (3.0 (MX3), 4.5(MX4) and 6 (MX5)) have been studied. The results 
+indicated that the flowability reduced as the ratio of sand/cement increased and the highest flowability of 160 mm was 
+determined for MX3. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 3. Flowability with various sand/cement ratios (Group II) 
+100
+110
+120
+130
+140
+150
+160
+170
+3
+4.5
+6
+Flowability (mm)
+Sand/Cement Ratio
+130
+137
+160
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+0.5
+0.6
+0.75
+Flowability (mm)
+RSS/Cement Ratio
+
+
+===== PAGE 6 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+103 
+ 
+ 
+Effect of RHA (Groups III and IV) 
+Flowability of mixes that contained RSS and 10% of RHA (Group III (MX6) and Group IV (MX7) are indicated in 
+Figure 4. In addition, Figure 4 shows the flowability of the control mixes (0% RHA), i.e. MX2 and MX3.  These groups 
+(Groups III and IV) have a constant sand/binder ratio equals to 3 with different RSS/binder ratios as indicated in Tables 
+2 and 3. The results show different values of flowability for the two groups but the same behavior in which the control 
+mixes (MX2 and MX3) have the highest values. However, Group IV has the highest value (136mm) and Group III has 
+a value of (129mm) at 10%RHA.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4. Flowability with various RHA and RSS/binder ratios 
+This behavior clearly indicates that the flowability reduced as the ratio of RHA increased for both RSS/binder ratios 
+(MX6 and MX7). The results demonstrate that the water demand of mortars incorporating RHA increases with increasing 
+amounts of RHA. This increase in water demand is due to the very large surface area of the particles of RHA, which 
+have to be wetted.  In general, to maintain the required flowability with no change in the water/cement ratio, the use of 
+high-range water-reducing admixtures (HRWR, or superplasticizer) assist in this respect.  
+Effect of RHA (Group V) 
+Flowability of mixes that contained water and 10% of RHA (Group V (MX8 and MX9) is shown in Figure 5. This 
+group has constant sand/binder ratio equals to 3 with a constant water/binder ratio 0.75.  The results show the highest 
+value (198 mm) for control mix (0% RHA) and 179 mm for 10% RHA.  This could be attributed, as mentioned in Groups 
+(III and IV), to the very large surface area of RHA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 5. Flowability with various RHA ratio and water/binder ratio = 0.75 
+In the light of above, the flowability of mixes containing RSS and water has been demonstrated in Figure 6. This fi
+gure indicates that the highest value of flowability at MX8 (0% RHA and water) but the lowest value at MX7 (10% R
+HA with RSS). The relative flowability of mixtures prepared with RSS comparing to those prepared with water is indi
+cated in Table 4.  Both of them indicate differences in flowability for mixtures with and without RHA. But for 10% R
+0
+20
+40
+60
+80
+100
+120
+140
+160
+180
+0
+10
+Flowability (mm)
+RHA (%)
+RSS/binder=0.6
+RSS/binder=0.75
+165
+170
+175
+180
+185
+190
+195
+200
+0
+10
+Flowability (mm)
+RHA (%)
+
+
+===== PAGE 7 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+104 
+ 
+ 
+HA, the magnitude of difference is higher. These differences in flowability may be due to the use of RSS and RHA. Fi
+nally, using the RSS instead of water in all types of mixes leads to the reduction in flowability. This may be attributed 
+to the ingredients existing in the RSS.    
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 6. Flowability with various RHA, with water and RSS 
+Table 4. Flowability of mixtures with RSS and water 
+Mixes 
+RHA % 
+Relative flowability (%) 
+M3/M8 
+0 
+81 
+M7/M9 
+10 
+76 
+7.2. Compressive Test Results 
+The results of compressive strength for each group are summarized as below:  
+Effect of RSS (Group I) 
+Figure 7 demonstrates that the compressive strength with various RSS ratio. These mixes (MX1, MX2, and MX3) 
+have one ratio (3) of sand /cement, 0% RHA and three ratios (0.5, 0.6, and 0.75) of    RSS/cement. Mortar samples were 
+examined for their compressive strength at 7, and 28 days. The figure indicates an obvious tendency in strength with 
+RSS ratio, where the strength decreased as the RSS ratio increased and the maximum compression strength has been 
+obtained with RSS/ cement content of 0.5 (MX1). This is consistent with the results of recent studies, which established 
+that the strength drops as the w/c ratio rises [19-24]. The obtained results also indicated that the strength was improved 
+sustainably with curing age treatment up to 28 days Figure 7.                                                                                        
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7. Compressive Strength with various RSS/Cement ratios 
+0
+5
+10
+15
+20
+25
+0.5
+0.6
+0.75
+Compressive strength (MPa)
+RSS/Cement Ratio
+7 days
+28 days
+0
+50
+100
+150
+200
+250
+0
+10
+Flowability (mm)
+RHA (%)
+RSS
+Water
+
+
+===== PAGE 8 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+105 
+ 
+ 
+Effect of sand content (Group II) 
+Figure 8 stated how the compressive strength changed with different sand ratios at 7 and 28 days. Group II was 
+prepared by three mixes that included one ratio (0.75) of RSS/cement and three ratios (3, 4.5 and 6) of sand/cement. The 
+results indicated that the strength mostly decreased as the sand ratio increased. The higher strength has been achieved 
+for the ratio of 3 sand/cement (MX3) at 28 days. This reduction in strength may be due to the increase in sand content. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 8. Compressive Strength with various sand/cement ratios 
+Effect of RHA (Group III and IV) 
+Figures 9 and 10 indicate the determination of the compressive strength with RSS and different ratios of RHA at 7 
+and 28 days. Two groups of mixes that had one ratio (3) of   sand /binder and ratio of 10% RHA by the total weight of 
+binder, were tested. Group III was arranged with a ratio of RSS/binder equals to 0.6 while Group IV was arranged with 
+a ratio of 0.75 for RSS/binder.  
+Figures 9 and 10 obvious that mix made with 10% cement replacement by RHA performs better compressive strength 
+than mix with no cement replacement (0% cement replacement). The optimum compressive strength was undertaken 
+with RSS/Binder ratio of 0.6 at 28 days. This enhancement in compressive strength is may be due to the pozzolanic 
+activity of RHA. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 9. Compressive strength with various RHA replacement and RSS/binder ratio of 0.6 
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+3
+4.5
+6
+Compressive Strength (MPa)
+Sand/Cement Ratio 
+7 days
+28 days
+0
+5
+10
+15
+20
+25
+0
+10
+Compressive Strength (MPa)
+RHA (%)
+7 days
+28 days
+
+
+===== PAGE 9 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+106 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 10. Compressive strength with various RHA and RSS/binder ratio of 0.75 
+Influence of RHA (Group V) 
+This group indicates how the strength of the mixes containing different RHA ratios at 7 and 28 days as indicated in 
+Figure 11. These mixes have one ratio (3) of   sand / binder, water/binder ratio of 0.75 and RHA 10% by weight of total 
+binder.  The results demonstrated a noticeable improvement in the strength for all samples that included RHA, and the 
+highest  strength of 11.37 MPa was determined with 10% RHA (MX9). 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 11 Compressive strength with various RHA and water/binder ratio (0.75) 
+ Figure 12 indicates that the strength of the samples with water and RSS. The strength of the samples that included 
+RSS was remarkably more than the samples with water. The relative strength of the mixes prepared with RSS comparing 
+to those prepared with water has been indicated in Table 5. The strength of the samples that had RSS was remarkably 
+more than the mixtures with water, and the relative strength ranged between 143-208 % at 7 days and 132-177 % at 28 
+days. This may be due to the interaction between the RSS and cement.  In brief, the mixes with RSS show high 
+compressive strength comparing with mixes with water in all ages (7 and 28 days).  
+ 
+0
+2
+4
+6
+8
+10
+12
+0
+10
+Compressive Strength (MPa)
+RHA (%)
+7 days
+28 days
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0
+10
+Compressive Strength (MPa)
+RHA%
+7 days
+28 days
+
+
+===== PAGE 10 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+107 
+ 
+ 
+Figure 12. Compressive strength with both RSS and water 
+Table 5. Relative compressive strength (%) of mixtures with RSS in comparison to those prepared with water 
+Mixes 
+RHA (%) 
+Relative compressive strength (%) 
+7 days 
+28 days 
+M3/M8 
+0 
+208 
+177 
+M7/M9 
+10 
+143 
+132 
+7.3. Density Test Results 
+ The results of density for each group of mixes are indicated in the following points:  
+Effect of RSS (Group I) 
+The density with various RSS ratios has been indicated in Figure 13. Group I has one ratio (3) of sand/cement, 0% 
+RHA and three ratios (0.5, 0.6, and 0.75) of RSS/cement. Density was obtained for mortar samples at 28 days. The 
+results demonstrated that the density decreased as the ratio of RSS raised. The highest density of 2377.9 kg/m3 was 
+obtained for MX1. Both density and voids ratio have been mainly based on the ratios of water/cement and compaction; 
+hydration degree, and are also dependent on other factors counting volume of entrapped air, aggregate type and grading, 
+and porous characteristics of utilized materials. Consequently; the existing of voids in mortar decreases the density and 
+accordingly decreases strength. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 13. Density with various RSS/Cement ratios 
+Effect of sand content (Group II) 
+The effect of changing sand ratio on the density of hardened mortar has been indicated in Figure14. Three mixes, 
+which have a constant ratio (0.75) of RSS/cement and three sand/cement ratios (MX3, MX4 and MX5), were examined. 
+The obtained results indicated that the density decreased as the ratio of sand /cement increased. The highest density of 
+2192.3 kg/m3 was obtained for MX3. This reduction in density could be attributed to the increase in sand content, and 
+therefore non-homogeneity of the mix, so this led to increase the percentage of voids in mortar mix.   
+0
+5
+10
+15
+20
+7 days
+28 days
+Compressive Strength (MPa)  
+water
+RSS
+0
+2
+4
+6
+8
+10
+12
+14
+16
+7 days
+28 days
+Compressive Strength (MPa)  
+water
+RSS
+0
+500
+1000
+1500
+2000
+2500
+0.5
+0.6
+0.75
+Density (Kg/m3)
+RSS/Cement Ratio
+I:  0 (%) RHA 
+II: 10 (%) RHA 
+
+
+===== PAGE 11 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+108 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 14. Density with various sand to cement ratios (Group II) 
+Effect of RHA (Groups III and IV) 
+The results of density for Groups III and IV are indicated in Figure 15. Group III has the highest density among other 
+groups. For Groups III and IV, the results pointed out  that the density increased when using 10% of RHA as a cement 
+replacement comparing with the mix of no cement replacement ( 0% cement replacement) and the highest density was 
+observed for RSS/Binder ratio of 0.6 (MX6). Furthermore, the obtained results indicated that the density mostly reduced 
+as the ratio of RSS/binder increased.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 15. Density with various RHA and RSS/binder ratios 
+Effect of RHA (Group V) 
+Figure 16 shows the relationship between density and two ratios of RHA. Group V contained two mixes that have 
+the same content of Group IV but with water. These results indicated that the addition of RHA (10% as a cement 
+replacement) improved density more than that of the mix with no cement replacement. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+500
+1000
+1500
+2000
+2500
+3
+4.5
+6
+Density (Kg/m3)
+Sand/Cement Ratio
+2120
+2140
+2160
+2180
+2200
+2220
+2240
+2260
+2280
+2300
+2320
+2340
+0%
+10
+Density (kg/m3)
+RHA (%)
+RSS/binder=0.6
+RSS/binder=0.75
+2140
+2150
+2160
+2170
+2180
+2190
+2200
+2210
+2220
+2230
+0%
+10
+Density (kg/m3)
+RHA (%)
+Figure 16. Density with various RHA ratios (Group V)  
+
+
+===== PAGE 12 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+109 
+ 
+ 
+The density with RSS and water has been indicated in Figure 17, and the density is indicated in Table 6. No 
+considerable variances were noted in density between mixtures had RSS and these mixes prepared with water as the 
+density ranged between 100.7- 101%. In all mixes with RSS give more density than mixes with water. This may be due 
+to the interaction between the RSS and cement which leads to the reduction in the percentage of voids in mortar mixes. 
+Table 6. Relative density (%) with RSS and those prepared with water 
+Mixes 
+RHA (%) 
+Relative density (%) 
+M3/M8 
+0 
+101 
+M7/M9 
+10 
+100.7 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 17. Density with both RSS and water 
+7.4. TWA Test Results 
+The results of TWA results for each group are: 
+Effect of RSS (Group I) 
+Figure 18 demonstrated the TWA values with various RSS ratios. Group I has three mixes (MX1, MX2, and MX3) 
+that had a constant ratio of 3 sand/cement, and three ratios (0.5, 0.6; and 0.75) of RSS/cement. TWA was obtained for 
+specimens at 28 days. This figure indicates a tendency in the TWA with RSS ratio, as TWA raised as RSS ratio raised 
+and the minimum TWA was implemented for MX1. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 18. TWA with various RSS/cement Ratios 
+Effect of sand content (Group II) 
+TWA with various sand ratios is demonstrated in Figure 19. Three mixes that have one ratio (0.75) of RSS/cement 
+and three ratios (3, 4.5 and 6) of sand/cement were examined. TWA was recorded for specimens at 28 days, and the 
+average TWA was determined. However an obvious tendency in TWA has been noticed, as TWA raised as the sand 
+content raised and the highest TWA of 11.87 % has been determined for MX5.   
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0.5
+0.6
+0.75
+TWA (%dry weight)
+RSS / Cement Ratio
+2120
+2140
+2160
+2180
+2200
+2220
+2240
+0
+10
+Density(Kg/m³)
+RHA replacement (%)
+water
+RSS
+
+
+===== PAGE 13 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+110 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 19. TWA with various sand/ cement ratios 
+Effect of RHA (Group III and IV)  
+Figure 20 illustrates the effect of TWA for two groups. For Groups III and IV, the results indicated that replacing 
+cement with RHA at 10% of total binder weight decreased TWA comparing with the mix that has 0% RHA replacement 
+(MX2 and MX3). However, the maximum TWA was noticed for RSS/binder ratio of 0.75 (MX3). Furthermore, TWA 
+decreased significantly with RSS/binder is 0.75 at 10% RHA. This could be attributed for the RHA which absorbs water 
+because of its large surface area. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 20. TWA with various RHA and RSS/binder ratio  
+Effect of RHA (Group V) 
+Group V has a constant ratio of sand/cement ratio of 3, water/binder ratio of 0.75 and ratio of 10% RHA by the total 
+weight of binder as shown in Figure 21. TWA has been determined for samples at 28 days, and the average TWA has 
+been found. The obtained results generally indicated that TWA values for mixes at 28 days with 10% cement 
+replacement by RHA were comparatively less than those without RHA.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+3
+4.5
+6
+TWA(%dry weight)
+Sand/Cement Ratio
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+10
+TWA(% dry weigth)
+RHA (%)
+RSS/binder=0.6
+RSS/binder=0.75
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0
+10
+TWA (% dry weight)
+RHA (%)
+Figure 21. TWA with various RHA (GroupV) 
+
+
+===== PAGE 14 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+111 
+ 
+ 
+Figure 22 indicated that changing of TWA with water and RSS, and the TWA has been indicated in Table 7.  Both 
+demonstrate no noteworthy differences in TWA between mixtures had RSS and these prepared with water at 0% 
+(replacement). The TWA at 0% replacement was 92.8%. The TWA of the samples that contained 10% of RHA as a 
+cement replacement for RSS mixes was observed less than the mixes having water. The TWA at 10% replacement was 
+51.4%. It was noticed that samples with RSS show TWA less than others with water for all mixtures with or without 
+RSS. However, the TWA with 10% RHA is significantly less value than the mixes without RHA.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 22. TWA with both RSS and water 
+Table 7. TWA (%) comparing with RSS to those prepared with water 
+Mixes 
+RHA% 
+Relative TWA (%) 
+MX3/MX8 
+0 
+92.8 
+MX7/MX9 
+10 
+51.4 
+All the results in this study and the behavior are similar to the findings obtained by [5, 6]; however, they used RSS 
+with unprocessed fly ash instead of RHA.  
+8. Conclusions 
+The main points come up with this study could be summarized as: 
+1. Flowability: The highest value of flowability is 198mm for Group 5 (MX8). In addition, this value is 160mm 
+for Group I (MX3) and Group II (MX3). Whereas, the flowability is reduced as using 10%RHA instead of a 
+cement for Groups III and IV. Similarly, the flowability decreases for Group V with 10% RHA.  
+2. Compressive strength: This characteristic has been influenced differently with each group of mix as indicated 
+below: 
+ As the ratio of RSS increases, the compressive strength for Group I decreases but the highest value for this 
+group at 0.5 ratio of RSS/Cement (MX1) at 28 days. 
+ Approximately, the same behavior is a reduction in compressive strength for Group II at 7 and 28 days. 
+However, the highest value of this group at 3 ratio of sand to cement (MX3) at 28days. 
+ The optimum compressive strength was obtained with 0.6 ratio of RSS/binder (MX6) at 28 days for Groups 
+III and IV.  In addition, the strength with 10% cement replacement by RHA has higher value than mix with 
+no cement. 
+ The highest strength of 11.37 MPa was obtained for Group V with 10% RHA (MX9) at 7 and 28 days. 
+Additionally, the compressive strength of the mixes that had RSS has remarkably more than the samples with 
+water, and the strength ranged between 143-208 % at 7 days and 132-177 % at 28 days. 
+3. Density: This character has a specific behavior for each group as following: 
+ For Group I, the results indicated that a reduction in the density as the ratio of RSS increased. The highest 
+density of 2377.9 kg/m3 was noticed for the mix M1. 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+0
+10
+TWA (% dry weight)
+RHA (%)
+RSS
+Water
+
+
+===== PAGE 15 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+112 
+ 
+ 
+ For Group II, the results indicated that the density decreased as the sand/cement ratio increased. the greatest 
+density of 2192.3 kg/m3 was noticed for the mix M3. 
+ For Groups III and IV, the results indicated that the density increased as the 10% of RHA used as a cement 
+replacement comparing with the mix of no cement replacement ( 0% cement replacement) and the highest 
+density was noticed that the mix with RSS/Binder ratio of 0.6 (MX6). Moreover, the results indicated that the 
+density mostly decreased as the ratio of RSS/binder increased. 
+ For Group V, the results revealed that the addition of RHA (10% as a cement replacement) improved density 
+more than that of the mix with no cement replacement. The density of 2220.12 kg/m3 was obtained for mix 
+with 10% RHA (MX9). Moreover, there is no clear variances in density between mixes had RSS and these 
+prepared with water when the density ranged between 100.7- 101%. 
+4. TWA: Similar to previous character, the TWA depends on each group as following: 
+ For Group I, TWA increased as RSS ratio increased and the minimum TWA was obtained for M1.  
+ For Group II, TWA raised as the ratio of sand increased and the highest average TWA of 11.87 % for M5.   
+ For Groups III and IV, the average results indicated that changing cement with 10% RHA (MX6 and MX7) 
+decreased TWA in comparison with the control mixes (MX2 and MX3). However, the maximum TWA was 
+noticed for the mix with RSS/binder content of 0.75 (MX3). Furthermore, TWA decreased as RSS ratio 
+increased for all samples with RHA.    
+ Group V, the results generally indicated that TWA values for mortar mixes at 28 days with 10% cement 
+replacement by RHA were comparatively less than those for the control mix. In addition, no important 
+variations in TWA between samples had RSS and those prepared with water at 0% replacement. The relative 
+TWA at control mix was 92.8%. The TWA of the samples that contained 10% of RHA as a cement 
+replacement for RSS mixes was observed less than the mixes have water. The relative TWA at 10% 
+replacement was 51.4%.  
+9. Conflicts of Interest 
+The authors declare no conflict of interest.  
+10. References 
+[1] Siddika, Ayesha, Md. Abdullah Al. Mamun, and Md. Hedayet Ali. “Study on Concrete with Rice Husk Ash.” Innovative 
+Infrastructure Solutions 3, no. 1 (January 15, 2018). doi:10.1007/s41062-018-0127-6. 
+[2] Zemke, N., and Woods, J. Using Rice Husk Ash, California Polytechnic State University, (2009), USA. 
+[3] Tchobanoglous, George, Franklin L. Burton, and H. David Stensel. "Metcalf & Eddy wastewater engineering: treatment and 
+reuse." International Edition. McGrawHill 4 (2003): 361-411. 
+[4] WASTE. Sewage Sludge, Available online: https://wasteonline.org.uk/resources/Wasteguide/mn_wastetypes_sewageslud 
+ge.html/ (accessed on 1 May 2019). 
+[5] Hamood, Alaa, Jamal M. Khatib, and Craig Williams. “The Effectiveness of Using Raw Sewage Sludge (RSS) as a Water 
+Replacement in Cement Mortar Mixes Containing Unprocessed Fly Ash (u-FA).” Construction and Building Materials 147 
+(August 2017): 27–34. doi:10.1016/j.conbuildmat.2017.04.159.  
+[6] Hamood, Alaa. "Sustainable Utilisation of Raw Sewage Sludge (RSS) as a Water Replacement in Cement-Based Materials 
+Containing Unprocessed Fly Ash." (2014). 
+[7] Alwan, Jassim Atiya. "Evaluation Some Properties of NanoMetakaolin or Rice Husk Ash Cement Mortar and its Resistance to 
+Elevated Temperature." Journal of University of Babylon 24, no. 4 (2016): 840-854. 
+[8] Zhang, Min-Hong, and V. Mohan Malhotra. “High-Performance Concrete Incorporating Rice Husk Ash as a Supplementary 
+Cementing Material.” ACI Materials Journal 93 (1996): 629-636. doi:10.14359/9870. 
+[9] Ramezanianpour, Ali A., E. Ghiasvand, I. Nickseresht, M. Mahdikhani, and F. Moodi. “Influence of Various Amounts of 
+Limestone Powder on Performance of Portland Limestone Cement Concretes.” Cement and Concrete Composites 31, no. 10 
+(November 2009): 715–720. doi:10.1016/j.cemconcomp.2009.08.003. 
+[10] Sudisht Mishra and Deodhar, S. "Effect of Rice Husk Ash on Cement Mortar -and Concrete".Principal SSVPS BSD College of 
+Engineering, Dhule, (2012). 
+
+
+===== PAGE 16 =====
+
+Civil Engineering Journal   
+ 
+   
+  Vol. 6, No. 1, January, 2020 
+113 
+ 
+ 
+[11] Jaya, Ramadhansyah Putra, Mohd Ibrahim Mohd Yusak, Mohd Rosli Hainin, Nordiana Mashros, Muhammad Naqiuddin Mohd 
+Warid, Mohamad Idris Ali, and Mohd Haziman Wan Ibrahim. “Physical and Chemical Properties of Cement with Nano Black 
+Rice Husk Ash.” Nanoscience and Nanotechnology: Nano-SciTech (2019). doi:10.1063/1.5124654. 
+[12] Muthadhi, A., and S. Kothandaraman. “Optimum Production Conditions for Reactive Rice Husk Ash.” Materials and Structures 
+43, no. 9 (January 22, 2010): 1303–1315. doi:10.1617/s11527-010-9581-0. 
+[13] Bouzoubaâ, N., M.H. Zhang, A. Bilodeau, and V.M. Malhotra. “The Effect of Grinding on the Physical Properties of Fly Ashes 
+and a Portland cement Clinker.” Cement and Concrete Research 27, no. 12 (December 1997): 1861–1874. doi:10.1016/s0008-
+8846(97)00194-4. 
+[14] Houston, W. Robert, and Robert B. Howsam. "Competency-Based Teacher Education; Progress, Problems, and Prospects." 
+(1972). 
+[15] Mehta, N. ' Properties of Concrete', 3rd Edition, USA, (1992). 
+[16] Iraqi Standard. “Portland Cement – IOS 5”. Central Organization for Standardization and Quality Control, Ministry of Planning, 
+1984. 
+[17] American Society for Testing and Materials, C778-87, “Standard Specification for Standard Sand”, Annual Book of ASTM 
+Standards, 4(1), (1989): 333-334. 
+[18] BSI. BS EN 998-2: “Specification for Mortar for Masonry”, Part 2. (2003). doi:10.3403/02918906u. 
+[19] ASTM, C. "230, Standard specification for flow table for use in tests of hydraulic cement." West Conshohocken, PA: ASTM 
+International (2008). 
+[20] BSI. "BS EN 196-1: 2005: Methods of testing cement. Determination of strength." (2005). 
+[21] Butalia, T.S., W.E. Wolfe, and J.W. Lee. “Evaluation of a Dry FGD Material as a Flowable Fill.” Fuel 80, no. 6 (May 2001): 
+845–850. doi:10.1016/s0016-2361(00)00159-9. 
+[22] Sebök, T., J. Šimonı́k, and K. Kulı́sek. “The Compressive Strength of Samples Containing Fly Ash with High Content of Calcium 
+Sulfate and Calcium Oxide.” Cement and Concrete Research 31, no. 7 (July 2001): 1101–1107. doi:10.1016/s0008-
+8846(01)00506-3. 
+[23] Su, Nan, and Buquan Miao. “A New Method for the Mix Design of Medium Strength Flowing Concrete with Low Cement 
+Content.” Cement and Concrete Composites 25, no. 2 (February 2003): 215–222. doi:10.1016/s0958-9465(02)00013-6. 
+[24] Liu, Zhiyong, Yunsheng Zhang, Qian Jiang, Guowen Sun, and Wenhua Zhang. “In Situ Continuously Monitoring the Early Age 
+Microstructure Evolution of Cementitious Materials Using Ultrasonic Measurement.” Construction and Building Materials 25, 
+no. 10 (October 2011): 3998–4005. doi:10.1016/j.conbuildmat.2011.04.034. 

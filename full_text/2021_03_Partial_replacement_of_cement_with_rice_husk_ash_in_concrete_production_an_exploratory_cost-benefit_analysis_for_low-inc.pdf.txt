@@ -1,0 +1,1538 @@
+
+===== PAGE 1 =====
+
+Volume 13 • Issue 3 • 2021
+127
+Engineering Management in Production and Services
+received: 1 April 2021
+accepted: 31 August 2021
+Franco Muleya     Natasha Muwila
+Chipozya Kosta Tembo     Alice Lungu
+Partial replacement of cement with 
+rice husk ash in concrete production: 
+an exploratory cost-benefit analysis 
+for low-income communities
+A B S T R A C T
+Cement is an important construction material in concrete production; however, it is 
+expensive and unaffordable for many low-income and rural communities in developing 
+countries. Rice husk is a by-product from the rice mill process, with an approximate 
+ratio of 200 kg rice husk per one tonne of rice produced. This experimental study 
+aimed to investigate the integrity of concrete produced in Zambia using rice husk ash 
+(RHA) to partially replace cement. The primary goal was to carry out a cost–benefit 
+analysis on the use of RHA in concrete. RHA was used to partially replace cement with 
+ratios of 10 %, 20 % and 30 %. The 20 % cement replacement mix produced the 
+optimum 18 MPa concrete strength results at a 0.5 water/binder ratio. This translated 
+in cost reduction of concrete by 12.5 %, which is particularly significant for higher 
+concrete volumes. The produced concrete is suitable for lightly loaded structures, such 
+as foundation footings, surface beds and walkways to benefit low-income communities. 
+The study further concluded that the RHA based concrete was more cost-efficient in 
+structures that were close to areas of rice production due to reduced RHA transportation 
+costs.
+K E Y   W O R D S
+rice husk ash, partial replacement, concrete, cost reduction
+10.2478/emj-2021-0026
+Franco Muleya 
+The Copperbelt University, Zambia
+ORCID 0000-0002-3552-6198
+Corresponding author: 
+email: muleyaf@yahoo.co.uk
+Natasha Muwila
+Adam Hood Consulting, Zambia
+ORCID 0000-0003-2352-6120
+Chipozya Kosta Tembo
+The Copperbelt University, Zambia
+ORCID 0000-0001-5195-0821
+Alice Lungu
+The Copperbelt University, Zambia
+ORCID 0000-0002-7963-9856
+Introduction
+The construction industry has experienced major 
+innovations in concrete production methods alterna-
+tive to conventional concrete. Naik (2008) states that 
+when applied correctly, concrete production innova-
+tions encourage sustainability, reduce project delivery 
+time, improve on-site waste management, and reduce 
+the total construction cost. According to Singh 
+(2008), sustainability has become a worldwide goal. 
+Green or sustainable buildings use key resources like 
+pages:   127-141
+Muleya, F., Muwila, N., Tembo, Ch. K., & Lungu, A. (2021). Partial replacement of cement with rice husk ash in concrete 
+production: an exploratory cost–benefit analysis for low-income communities. Engineering Management in Production and 
+Services, 13(3), 127-141. doi: 10.2478/emj-2021-0026
+
+
+===== PAGE 2 =====
+
+128
+Volume 13 • Issue 3 • 2021
+Engineering Management in Production and Services
+energy, water, minerals and land much more effi-
+ciently than those merely built according to codes. 
+Fapohunda et al. (2017) state that global warming 
+triggered by the emission of greenhouse gases, such 
+as carbon dioxide (CO2), into the atmosphere can be 
+reduced by replacing gas-emitting materials. One of 
+these substitute materials is rice husk ash (RHA), 
+which has been established as a suitable material for 
+the partial replacement of portland cement in con-
+crete production. Alam (2015) states that rice husk is 
+not recommended for human consumption because 
+of its less nutritional content and its irregular abrasive 
+surfaces, which are not naturally degraded, thereby 
+presenting the potential to cause serious health-
+related problems. Many studies have been conducted 
+on the use of rice husk for many decades and have 
+proved that one tonne of rice produces 200 kg of rice 
+husk, which translates into 40 kg of ash. This repre-
+sents 20 % of husk and 4 % of ash (Zareei, 2017; Bui, 
+2001; Fapohunda et al., 2017).
+1. Background
+According to the Second National Rice Develop-
+ment Strategy (2016 – 2020), the SNRDS (2016), 
+Zambia had been on average producing about 44 512 
+metric tonnes of paddy rice (approx. 29 000 metric 
+tonnes in milled rice) annually between 2010 and 
+2016. However, a deficit in production resulted from 
+consumption plateauing at 60 000 metric tonnes 
+(approx. 39 000 metric tonnes in milled rice). Paddy 
+rice is rice covered by husks. During the same six-
+year timeframe (2010 – 2016), the SNRDS (2016) 
+reported that Zambia had a rice deficit resulting in 
+the importation of between 5 000 and 20 000 metric 
+tonnes of milled rice annually to meet domestic 
+demand. Zambia’s failure to produce rice to meet 
+local demand was mainly attributed to limited access 
+to improved varieties and quality seed, poor farming 
+practices, poor water management system, low level 
+of mechanisation, inadequate human and institu-
+tional capacity and limited access to seasonal and 
+long-term finance.
+The SNRDS (2016) further shows that rice pro-
+duction occurred in different regions, including 
+Lusaka, Central and Copperbelt provinces considered 
+rural or remote from the main economic activity 
+centres. The report underpinned by the Ministry of 
+Agriculture states that rice is produced in ten of the 
+eleven Zambian provinces (Table 1). Table 2 shows 
+a breakdown of average rice production by province, 
+showing an average of 44 512 metric tonnes for the 
+whole country in the period 2010 – 2016. Table 2 
+further indicates that most rice production occurs in 
+rural provinces, such as Eastern, Luapula, Muchinga, 
+Northern and Western. The provinces and their rice 
+fields are home to many households with compro-
+mised infrastructure, which could be improved with 
+the provision of cheaper concrete based on rice husk 
+— the material currently treated as waste. Fig. 1 
+shows the most recent recorded yet lower rice pro-
+duction levels in Zambia at 29 584 metric tonnes in 
+2019. Based on the rice husk production levels 
+amounting to 20 % of rice production, the estimated 
+produced husk was 5 917 tonnes, translating into 1 
+183 tonnes of rice husk ash. Further, Fig. 1 shows that 
+rice production began to significantly increase in 
+2008, resulting in a corresponding increase in rice 
+husk and ash at the time. Currently, no documented 
+information is available on established cost–benefit 
+analysis on the use of rice husk ash to partially substi-
+tute portland cement in Zambia. As a result, this 
+research set out to determine the properties exhibited 
+by concrete produced using Zambian RHA and to 
+carry out a cost–benefit analysis of this concrete. Lit-
+Tab. 1. Key features of rice production in Zambia between 2010 and 2016 
+Province
+Percentage of rice production hectarage 
+covering 38 537 hectares [%]
+Western Province
+46
+Northern Province
+32
+Muchinga Province 
+13
+Luapula Province
+4
+Eastern Province
+4
+Other provinces, namely: Central, Southern, Copperbelt, Northwestern and Lusaka
+1
+ 
+Source: (SNRDS, 2016).
+
+
+----- TABLE p2#1 -----
+
+Province | Percentage of rice production hectarage
+covering 38 537 hectares [%]
+Western Province | 46
+Northern Province | 32
+Muchinga Province | 13
+Luapula Province | 4
+Eastern Province | 4
+Other provinces, namely: Central, Southern, Copperbelt, Northwestern and Lusaka | 1
+
+===== PAGE 3 =====
+
+Volume 13 • Issue 3 • 2021
+129
+Engineering Management in Production and Services
+Tab. 2. Basic rice data by region in Zambia (average 2010/11 to 2014/15)
+Provinces
+Number of 
+households 
+growing
+Area planted 
+(Ha)
+Area harvest-
+ed (Ha)
+Production 
+(MT)
+Yield (MT/Ha)
+Average rice 
+plot size per 
+household
+Central
+177
+72
+66
+129
+1.38
+0.41
+Copperbelt
+93
+25
+23
+33
+1.46
+0.27
+Eastern
+5 385
+1 581
+1472
+2437
+1.55
+0.29
+Luapula
+5 570
+1 569
+1390
+2731
+1.78
+0.28
+Lusaka
+164
+50
+42
+64
+1.06
+0.31
+Muchinga
+13 020
+4 823
+4513
+7931
+1.66
+0.37
+Northern
+15 893
+12 413
+11315
+16182
+1.31
+0.78
+Northwestern
+1 096
+345
+315
+509
+1.51
+0.31
+Southern
+109
+37
+28
+17
+0.26
+0.33
+Western
+26 542
+17 622
+9038
+14479
+0.90
+0.66
+National
+68 051
+38 537
+28202
+44512
+1.16
+0.57
+Source: SNRDS, 2016.
+ 
+Fig. 1. Zambia’s rice production from 1978 to 2019 
+Source: https://knoema.com/atlas/Zambia/topics/Agriculture/Crops-Production-Quantity-tonnes/Rice-paddy-production. 
+erature indicates that much of the studies on this 
+subject have concentrated on the feasibility of attain-
+ing functional RHA-based concrete and its proper-
+ties.
+Particularly in Zambia, the cost-effectiveness of 
+using this type of concrete has not been addressed. 
+The study was therefore positioned to investigate the 
+functionality and cost-effectiveness of using RHA-
+based concrete as a measure of reducing the unit cost 
+of concrete using RHA while retaining the structural 
+integrity of the concrete. The functionality of the 
+RHA-based concrete was also considered comparing 
+the performance of local RHA with global patterns 
+through literature review.
+The ultimate objective of this paper was to estab-
+lish the benefits of using RHA in rice-growing rural 
+communities of Zambia (Tables 1 and 2) as a way of 
+bringing down the cost of concrete and improving 
+the infrastructure, mainly developed using unim-
+proved clay. This solution would eventually improve 
+
+
+----- TABLE p3#1 -----
+
+Provinces | Number of
+households
+growing | Area planted
+(Ha) | Area harvest-
+ed (Ha) | Production
+(MT) | Yield (MT/Ha) | Average rice
+plot size per
+household
+Central | 177 | 72 | 66 | 129 | 1.38 | 0.41
+Copperbelt | 93 | 25 | 23 | 33 | 1.46 | 0.27
+Eastern | 5 385 | 1 581 | 1472 | 2437 | 1.55 | 0.29
+Luapula | 5 570 | 1 569 | 1390 | 2731 | 1.78 | 0.28
+Lusaka | 164 | 50 | 42 | 64 | 1.06 | 0.31
+Muchinga | 13 020 | 4 823 | 4513 | 7931 | 1.66 | 0.37
+Northern | 15 893 | 12 413 | 11315 | 16182 | 1.31 | 0.78
+Northwestern | 1 096 | 345 | 315 | 509 | 1.51 | 0.31
+Southern | 109 | 37 | 28 | 17 | 0.26 | 0.33
+Western | 26 542 | 17 622 | 9038 | 14479 | 0.90 | 0.66
+National | 68 051 | 38 537 | 28202 | 44512 | 1.16 | 0.57
+
+===== PAGE 4 =====
+
+130
+Volume 13 • Issue 3 • 2021
+Engineering Management in Production and Services
+ 
+ 
+Fig. 2. Map of Zambia showing rice-growing area and provinces as discussed in Background  
+Source: https://www.pinterest.com/pin/770467448725782191/. 
+the livelihood and quality of life of rural communities 
+in rice-growing areas. Currently, the produced rice 
+husk goes to waste but could be turned into a useful 
+green construction material resource as already 
+described. Fig. 2 shows the rice-growing area and 
+provinces as discussed in Background.
+2.	Literature review
+As part of the global sustainability agenda to 
+reduce carbon footprint and stay as environmentally 
+friendly as possible, cement and sand replacement 
+materials in concrete exist in various forms, such as 
+blast furnace slag, which is a by-product of iron 
+manufacturing used as a substitute for cement (Pal et 
+al., 2003; Divsholi et al., 2014; Salvador et al., 2019; 
+Ozbay et al., 2016; Mo et al., 2015). Fly ash, a fine 
+powder, which is a by-product of burning pulverised 
+coal in electric generation power plants, has been 
+used to partially replace cement and sand in concrete 
+(Christy & Tensing, 2010; Dhaka & Roy, 2015; Muhit 
+et al., 2013; Jatio et al., 2019; Rajamane et al., 2007; 
+Rafieizonooz et al., 2016; Reshma et al., 2021; Rajago-
+palan, 2019; Podolyakina, 2016; Białas, 2016). Copper 
+tailings have also been used to partially replace sand 
+and cement in concrete to reduce the depletion of 
+natural resources (Muleya et al., 2020; Dandautiya 
+& Singh, 2019; Kundu et al., 2016; Swetha et al., 2015). 
+Environmental benefit analysis has been performed 
+for many of these studies, which indicate significant 
+absorption of waste from dumpsites while reducing 
+the cost of concrete (Muleya et al., 2020).
+The use of agricultural residue, particularly rice 
+residue, is not a new concept in the construction 
+industry. It can be dated back to as early as the 1950s, 
+when Egypt adopted several low-cost housing strate-
+gies (Allam & Garas, 2010). Loamy Nile mud mixed 
+with straw resulted in strong bricks. A sun-baked 
+mud brick with the addition of rice straw made it 
+three times stronger (Allam & Garas, 2010). Many 
+other studies indicated in the next passage have 
+investigated the performance of rice husk ash as a 
+partial replacement of cement in the production of 
+concrete. A study by Pode (2016) states that rice husk 
+is an agricultural waste abundantly available in rice-
+producing countries, such as India, Bangladesh, Bra-
+zil, China, Cambodia, the USA, Myanmar, Vietnam, 
+and Southeast Asia. Despite attaining large annual 
+production levels of rice worldwide, RH has only 
+been recycled for low-value applications. Siddika et 
+al. (2020) and Thiedeitz et al. (2020) affirms that rice 
+husk ash (RHA) is a good supplementary cementi-
+tious material for concrete production because of its 
+low energy demand and negligible greenhouse gas 
+emission in addition to high pozzolanic reactivity. 
+
+
+===== PAGE 5 =====
+
+Volume 13 • Issue 3 • 2021
+131
+Engineering Management in Production and Services
+Further, the study concluded that RHA had demon-
+strated its ability to improve concrete strength and 
+durability properties, in addition to the reduced con-
+struction and carbon emissions. 
+2.1.	 Chemical constituents  
+and properties of Rice Husk Ash
+The study of the RHA chemical composition is 
+one of the most important parts because it provides 
+clues on the behaviour of RHA. Table 3 shows a sum-
+mary and average values of the chemical composition 
+of RHA as presented by Fapohunda et al. (2017), 
+derived from 30 different studies by 30 different 
+authors from 1992 to 2016. Table 3 shows that silica 
+(SiO2) was the most dominant of all oxides in RHA, 
+with the lowest value of 73.60 % and the highest — 
+97.53 %. The average for the 30 studies was 87.9 %. 
+Further, the total sum of silica, alumina and iron 
+oxide (SAF) (Table 3) also exceeds 70 %, averaging 
+89.05 in the 30 studies as shown in Table 3. All the 
+RHA specimens demonstrated that the RHA belongs 
+to the same category as the Class F fly ash. Research 
+results by Siddika et al. (2020) were consistent with 
+findings by Fapohunda et al. (2017) on the oxide 
+content of RHA, which has high pozzolanic charac-
+teristics. Table 1 clearly indicates that all research 
+results presented a very high silica content of above 
+70 %. This is a measure of the RHA reactivity. Silica is 
+the compound responsible for the strength in con-
+crete (Fapohunda et al., 2017). 
+Studies in ten countries by various researchers 
+(Muthadhi & Kothandaraman 2007; Joel, 2010; 
+Muthandhi & Kothandaraman, 2010; Oyekan 
+& Kamiyo, 2011) revealed that high content of silica 
+ranges from 67 % to 93.1 % and SAF content from 70 
+% to 93.52 %. The countries included Brazil, Canada, 
+Guyana, India, Iraq, Japan, Malaysia, Nigeria, Thai-
+land, the USA and Vietnam, indicating a very wide 
+and global span of the studies. It is worth noting that 
+the 30 pieces of research and the research in ten 
+countries harvested the optimal concrete compres-
+sive strength from between 10 % and 30 % cement 
+replacement with RHA. These results were consistent 
+with those by Fapohunda et al. (2017). Additionally, 
+there seems to be variedness in the results, making it 
+harder to generalise the study findings without cor-
+Tab. 3. Oxide composition of RHA 
+Constituents
+Average percentages based 
+on 30 studies/authors 
+between 1992 to 2016
+Silica (SiO2)
+87.90
+Alumina (Al2O3)
+0.69
+Iron Oxide (Fe2O3 )
+0.55
+Calcium Oxide (CaO)
+1.00
+magnesium Oxide (MgO)
+0.54
+Sulphur Oxide (SO3)
+0.34
+Sodium Oxide (Na2O)
+0.56
+Potassium Oxide (K2O)
+2.26
+Loss of Ignition (LOI) 
+5.52
+Total (SAF) SiO2+Al2O3+Fe2O3
+89.05
+ 
+Source: (Fapohunda et al., 2017).
+Tab. 4. Summary of RHA and associated output from various authors
+Rice Husk Ash % 
+replacement for 
+cement
+0 % RHA (Control mix)
+10 % RHA
+20 % RHA
+30 % RHA
+Authors
+Com-
+pressive 
+strength 
+(Mpa)
+Density 
+(kg/m3)
+Com-
+pressive 
+strength 
+(Mpa)
+Density 
+(kg/m3)
+Com-
+pressive 
+strength 
+(Mpa)
+Density 
+(kg/m3)
+Com-
+pressive 
+strength 
+(Mpa)
+Density 
+(kg/m3)
+Obilade (2014)
+29.15
+2430
+20.88
+2300
+18.59
+2290
+13.29
+2280
+Al-Khalaf & Yousif (1984)
+23.30
+-
+25.40
+-
+24.10
+-
+22.80
+-
+Ephraim et al. (2012)
+N/A
+-
+22.00
+-
+20.00
+-
+19.00
+-
+Akeke et al. (2013)
+N/A
+-
+22.00
+2017
+20.00
+1950
+19.00
+19
+Krishna et al. (2017)
+27.00
+-
+29.80
+-
+16.03
+-
+-
+-
+Krishna et al. (2015)
+39.00
+-
+40.50
+-
+-
+-
+32.50
+-
+Ahsan & Hossain (2018)
+36.10
+-
+22.80
+2323
+16.80
+23
+-
+-
+
+
+----- TABLE p5#1 -----
+
+Constituents | Average percentages based
+on 30 studies/authors
+between 1992 to 2016
+Silica (SiO)
+2 | 87.90
+Alumina (AlO)
+2 3 | 0.69
+Iron Oxide (FeO )
+2 3 | 0.55
+Calcium Oxide (CaO) | 1.00
+magnesium Oxide (MgO) | 0.54
+Sulphur Oxide (SO)
+3 | 0.34
+Sodium Oxide (NaO)
+2 | 0.56
+Potassium Oxide (KO)
+2 | 2.26
+Loss of Ignition (LOI) | 5.52
+Total (SAF) SiO+AlO+FeO
+2 2 3 2 3 | 89.05
+
+----- TABLE p5#2 -----
+
+Rice Husk Ash %
+replacement for
+cement | 0 % RHA (Control mix) |  | 10 % RHA |  | 20 % RHA |  | 30 % RHA | 
+Authors | Com-
+pressive
+strength
+(Mpa) | Density
+(kg/m3) | Com-
+pressive
+strength
+(Mpa) | Density
+(kg/m3) | Com-
+pressive
+strength
+(Mpa) | Density
+(kg/m3) | Com-
+pressive
+strength
+(Mpa) | Density
+(kg/m3)
+Obilade (2014) | 29.15 | 2430 | 20.88 | 2300 | 18.59 | 2290 | 13.29 | 2280
+Al-Khalaf & Yousif (1984) | 23.30 | - | 25.40 | - | 24.10 | - | 22.80 | -
+Ephraim et al. (2012) | N/A | - | 22.00 | - | 20.00 | - | 19.00 | -
+Akeke et al. (2013) | N/A | - | 22.00 | 2017 | 20.00 | 1950 | 19.00 | 19
+Krishna et al. (2017) | 27.00 | - | 29.80 | - | 16.03 | - | - | -
+Krishna et al. (2015) | 39.00 | - | 40.50 | - | - | - | 32.50 | -
+Ahsan & Hossain (2018) | 36.10 | - | 22.80 | 2323 | 16.80 | 23 | - | -
+
+===== PAGE 6 =====
+
+132
+Volume 13 • Issue 3 • 2021
+Engineering Management in Production and Services
+responding findings and experiments. The compres-
+sive strength of concrete is an important property 
+because it underpins the design of structural concrete 
+and defines compliance as a means of field quality 
+control.
+Research by Calica (2008) indicates that a mix-
+ture containing RHA requires more water compared 
+to those without it, and the water demand increased 
+with more replacement of the cement by the ash. This 
+is attributed to the porous structure of rice husk, 
+which induces a large surface area. However, the 
+workability or fluidity of the mix can be improved by 
+using a good superplasticiser. Table 4 provides a sum-
+mary of RHA and associated output from various 
+authors as a way of establishing optimum outputs of 
+partial cement revealment of concrete with RHA. The 
+table shows selected RHA-based concrete showing 
+portland cement replacement by RHA from 10 % to 
+30 % along with compressive strength and density 
+outputs. The table is consistent with the earlier results 
+of other scholars.
+3. Research methods
+Research methodology focuses on general laws 
+and principles of arranging the research activity and 
+selecting an efficient, adequate and rational research 
+technique (Novikov & Novikov, 2019). The research 
+took the quantitative approach, which Creswell 
+(2009) defined as the employment of inquiry strate-
+gies, such as experiments and surveys. Further, 
+numerical data was collected using predetermined 
+instruments to yield quantifiable data that can be 
+subjected to statistical treatment or analysis. The 
+study was positivist philosophically and, therefore, 
+deductive. The research was mainly driven by experi-
+ments underpinned by a literature review on the 
+partial replacement of concrete elements with RHA 
+in concrete production. The experimental stage 
+explored the suitability of RHA as a partial replace-
+ment of cement in concrete. Further, the optimum 
+percentage of cement was established that could be 
+replaced by RHA in concrete production. The opti-
+mum cement replacement refers to the maximum 
+amount of cement that can be partially replaced by 
+RHA without compromising the concrete’s safety, 
+integrity and intended function. Laboratory experi-
+ments were used to achieve the aim of the study. Fresh 
+concrete was prepared for carrying out slump and 
+workability tests. Slump and compaction factor tests 
+were used to establish concrete workability and later 
+cast six concrete cubes for each mix to obtain the 
+average values for each mix for quality control pur-
+poses. A total of 30 concrete cubes, including trial 
+mixes, were cast and completely immersed in water 
+in a curing tank for 28 days to obtain the estimated 
+maximum strength of the concrete cubes.
+The study focused on the final concrete product 
+for end-users as an exploratory study, and, thus, all 
+the concrete cubes were tested at 28 days except for 
+trial cubes which were tested at seven days to check 
+for the rate of concrete strength accumulation. Hal-
+lingberg et al. (2018) and Muleya et al. (2020) define 
+exploratory research as a study generating the infor-
+mation required to decide how to proceed with 
+a full-scale effectiveness trial, mainly referred to as 
+the pilot or feasibility stage, to prove the concept at 
+hand. The density tests and compressive strength tests 
+constituted the hardened concrete tests. The com-
+pressive strength was determined by using a digital 
+compressive strength testing machine shown in Fig. 
+9. Results of the fresh and hardened concrete are 
+shown in Tables 5 and 6. The reference or control mix 
+did not have the RHA content while other mixes did, 
+ranging from 10 % as a minimum to 30 % as a maxi-
+mum cement replacement with RHA, which is con-
+sistent with the majority of literature results from the 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig. 3. Rice husks 
+ 
+ 
+                        Fig. 4. Rice husk ash 
+
+
+===== PAGE 7 =====
+
+Volume 13 • Issue 3 • 2021
+133
+Engineering Management in Production and Services
+review because replacements beyond 30 % of RHA 
+were not sustainable due to weakening concrete 
+compressive strength unless superplasticiser is intro-
+duced in correct amounts to counteract fluid and 
+compressive strength deterioration. Isolated analysis 
+was used to establish the optimum percentage of 
+cement replacement with RHA. Muleya et al. (2020) 
+define isolated analysis as the process of holding all 
+variables constant while manipulating one of them to 
+determine its influence and effect on the properties of 
+the whole element. 
+The main criteria for determining the quality of 
+the materials were concrete strength driven by con-
+crete-mix design (Emmitt and Gorse, 2014). In this 
+research, the manipulated variable was RHA, which 
+was added in percentages ranging from 0 – 30 % to 
+obtain values for concrete workability, density and 
+compressive strength. Due to the high-water absorp-
+tion effect of RHA, as seen in the literature review, 
+two water–cement ratios were selected, namely 0.3 
+and 0.5, to observe the behaviour of the two mixes 
+under the influence of RHA. The two mixes were 
+used to establish the suitability of RHA as a partial 
+replacement of cement in concrete. According to Le 
+and Ludwig (2016), Van et al. (2018), Sharma (2014) 
+and Kanthe (2021), the introduction of superplasti-
+cisers to RHA-based concrete improves concrete flu-
+idity and results in improved concrete compressive 
+strength by different values depending on the type of 
+superplasticiser and the quality or grade of used 
+cement. 
+However, this study did not consider the use of 
+superplasticisers because it was exploratory in nature 
+and designed to address the needs of low-income 
+communities with an extremely budget. Besides, the 
+availability and use of plasticisers in Zambia is still 
+unexplored. A future study with the introduction of 
+superplasticisers and longer curing periods is recom-
+mended to resolve this study limitation. Fine aggre-
+gate, coarse aggregate and portland cement were 
+secured from credible local sources. RH was obtained 
+from the National Milling Company (NMC), which 
+sources rice from fields across the country. The RH 
+was obtained raw and later brunt in an incinerator at 
+600 degrees to remove carbon and to grind into ash. 
+The RH was left to burn for two days with no further 
+fuelling. It was then allowed to cool for another 24 
+hours. A pulverisation machine was used to produce 
+fine RHA particles as a final cement replacement. 
+Figs. 3 and 4 show rice husks and rice husk ash, 
+respectively, as captured from the experimental pro-
+cess for this research.
+4. Research results  
+and discussion
+The compressive strength test results showed that 
+the mix proportions of aggregates used for both con-
+crete cubes of 0.3 and 0.5 w/c ratio yielded 33 MPa 
+and 25 MPa, respectively, for normal concrete after 28 
+days. While the compressive strength outcomes 
+appear to be low for the given water–cement ratio, the 
+results are consistent with other research (Muleya et 
+al., 2020; Kunda, 2014; Sharma, 2014; Olafusi & Olu-
+toge, 2012). With compressive strength expected to 
+be around 42 MPa and higher, as seen in some find-
+ings (Singh, 2018; Ramezanianpour et al., 2009; 
+Zareei, 2017; Muleya & Nwaubani, 2018), the results 
+of this study demonstrate the need to carry out fur-
+ther trial mixes and investigation of cement quality 
+particularly in developing economies. A study by 
+Muleya (2000) revealed that cement for high-strength 
+performance concrete in pile foundations had to be 
+imported because the local cement could not meet 
+the minimum compressive strength of the concrete-
+mix design. Table 4 illustrates the changes in com-
+pressive strength at different RHA percentages. The 
+incorporation of RHA into the concrete using as little 
+as 10 % for replacement results in a decrease in com-
+pressive strength both after seven and 28 days of 
+curing. The RHA mixes did not develop a compres-
+sive strength comparable to that of the control mix. 
+A less workable mix yields a less dense cube as com-
+pared to the concrete mix, as seen in Table 5. This 
+outcome ensues because of friction between the par-
+ticles causing them to compact less as compared to 
+a more fluid mix. A 0.5 mix resulted in better water 
+absorption by the rice husk ash resulting in more free 
+water to allow complete mixing of the material frac-
+tions. While the results of this study meet the objec-
+tives to provide cheaper concrete for low-income 
+communities in rice-growing areas, the introduction 
+of superplasticisers in the RHA-based concrete cir-
+cumvents the challengers of low concrete fluidity and 
+reduced compressive strength. The superplasticiser-
+based concrete needs longer curing periods, such as 
+90 days, to understand its full behaviour and proper-
+ties. This forms a part of the study limitation for 
+widely used RHA-based concrete beyond low-income 
+community requirements. Table 5 compares the 
+recorded results at different 0 %, 10 %, 20 % and 30 % 
+cement replacement with RHA for the two concrete 
+mixes (0.3 and 0.5) from the main experiments of the 
+study.
+
+
+===== PAGE 8 =====
+
+134
+Volume 13 • Issue 3 • 2021
+Engineering Management in Production and Services
+Tab. 5. Consolidated laboratory results for 0.3 and 0.5 water–cement ratios
+Consolidated laboratory results for concrete with water cement ratio 0.3
+W/C
+0.3
+W/C
+0.3
+W/C
+0.3
+Materials
+Materials
+Materials
+Cement (Kg)
+8.8
+Cement (Kg)
+7.92
+Cement (Kg)
+7.04
+Rice Husk Ash (Kg)
+0
+Rice Husk Ash (Kg)
+0.88
+Rice Husk Ash (Kg)
+1.76
+Sand (Kg)
+13.2
+Sand (Kg)
+13.2
+Sand (Kg)
+13.2
+Stone (Kg)
+26.4
+Stone (Kg)
+26.4
+Stone (Kg)
+26.4
+Total water (Kg)
+4
+Total water (Kg)
+4
+Total water (Kg)
+4
+Results
+Results
+Results
+Slump (mm)
+30
+Slump (mm)
+0
+Slump (mm)
+0
+Compaction Factor
+0.77
+Compaction Factor
+0.74
+Compaction Factor
+0.73
+Cement (kg/m3)
+400
+Cement (kg/m3)
+400
+Cement (kg/m3)
+400
+Density compacted concrete (kg/m3)
+2491
+Density compacted concrete (kg/m3)
+2391
+Density compacted concrete (kg/m3)
+2150
+Concrete compressive strentgh (MPa)
+33
+Concrete compressive strentgh (MPa)
+25
+Concrete compressive strentgh (MPa)
+16
+Consolidated laboratory results for concrete with water cement ratio 0.5
+W/C
+0.5
+W/C
+0.5
+W/C
+0.5
+W/C
+0.5
+Materials
+Materials
+Materials
+Materials
+Cement (Kg)
+7.74
+Cement (Kg)
+6.97
+Cement (Kg)
+6.19
+Cement (Kg)
+5.42
+Rice Husk Ash (Kg)
+0
+Rice Husk Ash (Kg)
+0.77
+Rice Husk Ash (Kg)
+1.55
+Rice Husk Ash (Kg)
+2.32
+Sand (Kg)
+13.2
+Sand (Kg)
+13.2
+Sand (Kg)
+13.2
+Sand (Kg)
+13.2
+Stone (Kg)
+26.4
+Stone (Kg)
+26.4
+Stone (Kg)
+26.4
+Stone (Kg)
+26.4
+Total water (Kg)
+4.57
+Total water (Kg)
+4.57
+Total water (Kg)
+4.57
+Total water (Kg)
+4.57
+Results
+Results
+Results
+Results
+Slump (mm)
+55
+Slump (mm)
+25
+Slump (mm)
+15
+Slump (mm)
+0
+Compaction Factor
+0.91
+Compaction Factor
+0.85
+Compaction Factor
+0.84
+Compaction Factor
+0.82
+Cement (kg/m3)
+270
+Cement (kg/m3)
+270
+Cement (kg/m3)
+270
+Cement (kg/m3)
+270
+Density compacted concrete (kg/m3)
+2296
+Density compacted concrete (kg/m3)
+2530
+Density compacted concrete (kg/m3)
+2536
+Density compacted concrete (kg/m3)
+2178
+Concrete compressive strentgh (MPa)
+25
+Concrete compressive strentgh (MPa)
+22
+Concrete compressive strentgh (MPa)
+18
+Concrete compressive strentgh (MPa)
+14
+Mix 1                                              
+( 0%  Rice Husk Ash) 
+Mix 2                                              
+(10%  Rice Husk Ash) 
+Mix 3                                               
+( 20%  Rice Husk Ash) 
+Mix 4                                              
+( 0%  Rice Husk Ash) 
+Mix 5                                              
+(10%  Rice Husk Ash) 
+Mix 6                                               
+( 20%  Rice Husk Ash) 
+Mix 7                                              
+( 30%  Rice Husk Ash) 
+
+
+----- TABLE p8#1 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | Mix 7 ( 30% Rice Husk Ash) | 0.5 |  | 5.42 | 2.32 | 13.2 | 26.4 | 4.57 |  | 0 | 0.82 | 270 | 2178 | 14
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | W/C | Materials | Cement (Kg) | Rice Husk Ash (Kg) | Sand (Kg) | Stone (Kg) | Total water (Kg) | Results | Slump (mm) | Compaction Factor | Cement (kg/m3) | Density compacted concrete (kg/m3) | Concrete compressive strentgh (MPa)
+ | Mix 3 ( 20% Rice Husk Ash) | 0.3 |  | 7.04 | 1.76 | 13.2 | 26.4 | 4 |  | 0 | 0.73 | 400 | 2150 | 16 |  |  |  | Mix 6 ( 20% Rice Husk Ash) | 0.5 |  | 6.19 | 1.55 | 13.2 | 26.4 | 4.57 |  | 15 | 0.84 | 270 | 2536 | 18
+ |  | W/C | Materials | Cement (Kg) | Rice Husk Ash (Kg) | Sand (Kg) | Stone (Kg) | Total water (Kg) | Results | Slump (mm) | Compaction Factor | Cement (kg/m3) | Density compacted concrete (kg/m3) | Concrete compressive strentgh (MPa) |  |  |  |  | W/C | Materials | Cement (Kg) | Rice Husk Ash (Kg) | Sand (Kg) | Stone (Kg) | Total water (Kg) | Results | Slump (mm) | Compaction Factor | Cement (kg/m3) | Density compacted concrete (kg/m3) | Concrete compressive strentgh (MPa)
+ | Mix 2 (10% Rice Husk Ash) | 0.3 |  | 7.92 | 0.88 | 13.2 | 26.4 | 4 |  | 0 | 0.74 | 400 | 2391 | 25 |  |  |  | Mix 5 (10% Rice Husk Ash) | 0.5 |  | 6.97 | 0.77 | 13.2 | 26.4 | 4.57 |  | 25 | 0.85 | 270 | 2530 | 22
+Consolidated laboratory results for concrete with water cement ratio 0.3 |  | W/C | Materials | Cement (Kg) | Rice Husk Ash (Kg) | Sand (Kg) | Stone (Kg) | Total water (Kg) | Results | Slump (mm) | Compaction Factor | Cement (kg/m3) | Density compacted concrete (kg/m3) | Concrete compressive strentgh (MPa) |  |  | Consolidated laboratory results for concrete with water cement ratio 0.5 |  | W/C | Materials | Cement (Kg) | Rice Husk Ash (Kg) | Sand (Kg) | Stone (Kg) | Total water (Kg) | Results | Slump (mm) | Compaction Factor | Cement (kg/m3) | Density compacted concrete (kg/m3) | Concrete compressive strentgh (MPa)
+ | Mix 1 ( 0% Rice Husk Ash) | 0.3 |  | 8.8 | 0 | 13.2 | 26.4 | 4 |  | 30 | 0.77 | 400 | 2491 | 33 |  |  |  | Mix 4 ( 0% Rice Husk Ash) | 0.5 |  | 7.74 | 0 | 13.2 | 26.4 | 4.57 |  | 55 | 0.91 | 270 | 2296 | 25
+ |  | W/C | Materials | Cement (Kg) | Rice Husk Ash (Kg) | Sand (Kg) | Stone (Kg) | Total water (Kg) | Results | Slump (mm) | Compaction Factor | Cement (kg/m3) | Density compacted concrete (kg/m3) | Concrete compressive strentgh (MPa) |  |  |  |  | W/C | Materials | Cement (Kg) | Rice Husk Ash (Kg) | Sand (Kg) | Stone (Kg) | Total water (Kg) | Results | Slump (mm) | Compaction Factor | Cement (kg/m3) | Density compacted concrete (kg/m3) | Concrete compressive strentgh (MPa)
+
+===== PAGE 9 =====
+
+Volume 13 • Issue 3 • 2021
+135
+Engineering Management in Production and Services
+Fig. 5 shows the gradual decrease in the slump or 
+workability of the concrete in relation to the increase 
+in the partial replacement of cement with RHA. The 
+results clearly indicate that introduction of RHA 
+results in the decrease of concrete workability. Fig. 6 
+shows the slump test in progress.
+The less fluid concrete mix of 0.3 water–cement 
+ratio got to 0 mm slump faster with a 10 % addition of 
+RHA compared to a more fluid mix of 0.5 water–
+cement ratio, which got to 0 mm slump with a 20 % 
+and 30 % addition of RHA. The effect of RHA on the 
+slump of fresh concrete is the exact opposite of the 
+effect of copper tailings on partial replacement of 
+sand in concrete, as reported by Muleya et al. (2020). 
+The introduction of copper tailings in concrete results 
+in an increased slump or concrete workability. The 
+replacement of cement with RHA in the 0.3 water–
+cement ratio only went up to 20 % because the con-
+crete was not fluid beyond that point. In the 0.5 
+water–cement ratio, concrete fluidity only became 
+impossible beyond 30 % of adding RHA because of 
+the higher water content compared to the 0.3 water 
+ratio mix.
+Fig. 7 shows the effect of RHA on the compres-
+sive strength of concrete with respect to a gradual 
+increase of RHA in partially replacing cement by up 
+to 30 %. As expected, the 0.3 and 0.5 water–cement 
+ratio mixes without RHA were found to be 33 MPa 
+and 25 MPa, respectively, at 28 days. Results indicated 
+that both water–cement ratio mixes decreased in 
+compressive strength. Figs. 8 and 9 show the hard test 
+process of the concrete strength with the introduc-
+tion of RHA. Interestingly, at a 20 % replacement of 
+cement by RHA, the 0.5 water cement–ratio mix 
+became stronger than the 0.3 water–cement ratio. At 
+this point, the 0.3 water–cement ratio mix could not 
+be mixed beyond 20 % of RHA addition because the 
+mix was too dry, triggered by the dehydrating effect 
+of RHA on concrete. Beyond 15 % of RHA addition, 
+ 
+Fig. 5. Slump test showing concrete workability for 0.3 and 0.5 water–cement ratios 
+ 
+Fig. 6. Slump test in progress 
+
+
+===== PAGE 10 =====
+
+136
+Volume 13 • Issue 3 • 2021
+Engineering Management in Production and Services
+the 0.5 water–cement ratio mix became stronger than 
+the 0.3 water–cement ratio, and yet it is the cheaper 
+mix because of the lower cement content. 18 MPa and 
+14 MPa as lower-strength concrete from 0.5 water–
+cement ratio mix can be used in various areas of rural 
+communities, such as foundation footings, slabs and 
+crop handling platforms.
+4.1. Effect of rice husk ash on concrete 
+density
+Fig. 10 shows the concrete density changes for 
+the 0.3 and 0.5 water–cement ratios with respect to 
+increasing partial replacement quantities of cement 
+ 
+Fig. 7. Compressive strength for 0.3 and 0.5 water–cement ratios 
+ 
+ 
+ 
+ 
+Fig. 8. Concrete cube curing 
+ 
+ 
+ 
+ 
+Fig. 9. Compressive strength testing in progress 
+with RHA. The 0.3 water–cement ratio mix had the 
+highest densities at 0 % and 10 % cement replace-
+ment, amounting to 2491 kg/m3 and 2391 kg/m3, 
+respectively, while the 0.5 water–cement ratio has its 
+highest densities at 10 % and 20 % cement replace-
+ment translating to 2530kg/m3 and 2536kg/m3, 
+respectively. The 0.5 water–cement ratio mix had 
+higher densities due to the full compaction because of 
+the adequate water content compared to the less fluid 
+mix influenced by the dehydrating effect of RHA. 
+This result is consistent with that of the compressive 
+strength being higher in the wet mix than the dry mix 
+at a high percentage level of cement replacement with 
+
+
+===== PAGE 11 =====
+
+Volume 13 • Issue 3 • 2021
+137
+Engineering Management in Production and Services
+ 
+Fig. 10. Concrete density for 0.3 and 0.5 water cement ratios 
+RHA. These results strongly indicate that higher 
+replacement quantities of cement with RHA is best 
+suited for the more fluid mix of 0.5 water–cement 
+ratio. This result is true for the compressive strength 
+and the density of the concrete.
+4.2. Cost–benefit analysis of rice husk 
+ash-based concrete
+Fig. 11 indicates the cost savings of concrete 
+based on the partial replacement of cement with 
+ 
+Fig. 11. Cost saving analysis for RHA-based concrete at a 0.5 water–cement ratio 
+
+
+===== PAGE 12 =====
+
+138
+Volume 13 • Issue 3 • 2021
+Engineering Management in Production and Services
+RHA. Results indicate that the optimum cement 
+replacement with RHA was at 20 %, and this is only 
+applicable to the 0.5 water–cement ratio mix because 
+it was more fluid and workable, as already explained 
+under the slump and compressive strength subhead-
+ings. Fig. 10 shows that a saving of ZMW 1 680 (USD 
+74.6) can be made on 20 % RHA content for every 10 
+m3 of 18 Mpa concrete made, while a saving of ZMW 
+2 520 (USD 112) saving can be made on 30 % RHA 
+content for every 10 m3 of 14 MPa concrete, which is 
+suitable for light duty concrete uses. These amounts 
+of savings are significant for Zambian rural residents, 
+making this information highly valuable and benefi-
+cial to rural rice-growing communities. These savings 
+would significantly contribute to improved livelihood 
+as the money could be used on other development 
+projects or poverty alleviation. All these savings are 
+based on the 0.5 water–cement ratio, which is the 
+cheaper concrete because it uses less cement content 
+even before replacing some of the cement with RHA.
+5. Value and benefits of the 
+research to the industry
+The research acknowledges the use of RHA as 
+cement replacement, as seen in the literature review 
+section. First, the study revealed that the local RHA 
+in Zambia performs just like other RHAs in other 
+countries and, therefore,  can be used to partially 
+replace cement in concrete, as seen from the results 
+section of the paper. This is because the results are 
+consistent with the literature review findings. Sec-
+ondly and most importantly, the results from this 
+research provide valuable information to rice growers 
+in Zambian rural areas on how they can turn the rice 
+husk waste to ash that can be used to improve the 
+quality of their infrastructure. Many households in 
+rural Zambia use clay floors and surface beds for 
+house floors. The rice husk ash would help to reduce 
+the cost of concrete, thereby making affordable con-
+crete for the structures. A major contribution to live-
+lihood improvement can be made by converting 
+waste into a useful resource for making cheaper and 
+affordable concrete. The rural Zambian rice-growing 
+communities may not afford sophisticated furnaces 
+to produce rice husk ash, but local kilns used for 
+making clay burnt bricks may be used for that pur-
+pose. These results may be extended to other regions 
+of the continent in promoting the use of RHA as a 
+partial replacement of cement in the rural rice-grow-
+ing regions. Although many scholars have widely 
+studied this topic for decades, this is the first known 
+paper offering a detailed cost–benefit analysis of the 
+RHA use in concrete in the Zambian construction for 
+the benefit of the rural rice-growing communities as 
+a way of improving the quality of their physical infra-
+structure, including housing and other agricultural 
+infrastructure support systems.
+6. Limitations of the research 
+As an exploratory study, the research focussed on 
+fully-cured concrete results at 28 days for analysis. 
+Other experiments, such as cumulative compressive 
+strength at seven, 14 and 21 days and beyond 28 days 
+for normal concrete and RHA-based concrete, were 
+not carried out because the primary properties of 
+RHA-based concrete performance needed to be 
+established in this exploratory research. Concrete 
+results at 28 days were enough to make a conclusive 
+analysis of this exploratory study. Besides, the study 
+did not use a superplasticiser to overcome concrete 
+fluidity and compressive strength challenges caused 
+by the introduction of RHA. The next study, which 
+will be full-scale, will introduce a superplasticiser 
+along with cement tests and trail mixes to ensure that 
+all parameters are established at the beginning of the 
+study. It must be noted that there is no established 
+data to confirm the performance of cement and plas-
+ticisers in Zambia, hence, the need to carry out 
+detailed cement tests and multiple concrete mix tri-
+als.
+Conclusions
+The research revealed that many studies had been 
+undertaken on partial replacement of cement with up 
+to 30 % of RHA to produce good and functional 
+concrete. Besides, the research established that it was 
+feasible to utilise RHA as a way of turning it from 
+waste to a resource. The study indicates that the opti-
+mal cement replacement by RHA was 20 % and 30 %, 
+which resulted in concrete compressive strength of 18 
+Mpa and 14 MPa at 0.5 W/C ratio, respectively. This 
+concrete grade can be used in foundation footings, 
+medium-duty concrete surface beds, agricultural 
+working bays etc. Unlike many other papers on the 
+same subject, this paper presents cost–benefit analy-
+sis particularly aimed at improving livelihood for 
+rural communities in rice-growing areas. The results 
+
+
+===== PAGE 13 =====
+
+Volume 13 • Issue 3 • 2021
+139
+Engineering Management in Production and Services
+indicated that cost benefits were applicable to signifi-
+cant volumes of cheaper concrete production with 
+savings of ZMW 1 680 (USD 74.6) for every 10 m3 of 
+18 MPa concrete produced using a 20 % cement 
+replacement with RHA. This translated into the cost 
+reduction of concrete by 12.5 %, which is significant, 
+particularly for higher volumes of concrete. Further, 
+a saving of ZMW 2 520 (USD 112) for every 10 m3 of 
+14 MPa concrete produced using a 30 % cement 
+replacement with RHA. This research has provided 
+useful data that can be used to make informed deci-
+sions by rice-growing communities in the use of RHA 
+as concrete resource material. An education pro-
+gramme would need to be designed to train rice-
+growing communities to use RHA and partial cement 
+material. 
+Although the study objective was reached by 
+confirming that RHA-based concrete is functional in 
+low-income communities, one limitation of the study 
+remains, i.e., the strength tests at 60 days and 90 days 
+were not performed; therefore, future studies could 
+consider making strength tests beyond 28 days in 
+addition to introducing other elements, such as fly 
+ash, copper tailings and other waste materials that 
+may be recycled in an effort to reduce the depletion of 
+natural resources while bringing down the cost of 
+concrete. 
+Further, the use of superplasticisers must be 
+explored at many levels of concrete production, espe-
+cially for cement and fine aggregate replacement-
+based concrete to improve fluidity and performance. 
+This study has also demonstrated that cement testing 
+and multiple trial mixes are important before pro-
+ceeding with full-scale studies and industry applica-
+tion.
+Acknowledgements
+The publication of the article for 11th Interna-
+tional Conference on Engineering, Project, and Pro-
+duction Management - EPPM2021 was financed in 
+the 
+framework 
+of 
+the 
+contract 
+no. 
+DNK/
+SN/465770/2020 by the Ministry of Science and 
+Higher Education within the "Excellent Science" 
+programme.
+Literature
+Ahsan, M. B., & Hossain, Z. (2018). Supplemental use of 
+rice husk ash (RHA) as a cementitious material in 
+concrete industry. Construction and Building Materi-
+als, 178, 1-9. doi: 10.1016/j.conbuildmat.2018.05.101 
+Akeke, G. A., Ephraim, M. E., Akobo, I. Z. S., & Ukpata, J. 
+O. (2013). Structural properties of rice husk ash con-
+crete. International Journal of Engineering, 3(3), 8269.
+Alam, S. (2015). Properties of brick aggregate concrete using 
+rice husk ash (RHA) cement as binding material. Mas-
+ter thesis. Dhaka, Bangladesh: Bangladesh University 
+of Engineering & Technology.
+Al-Khalaf, M. N., & Yousif, H. A. (1984). Use of rice husk 
+ash in concrete.  International Journal of Cement 
+Composites and Lightweight Concrete, 6(4), 241-248.
+Allam, M., & Garas, G. (2010). Recycled chopped rice 
+straw–cement bricks: an analytical and economical 
+study. WIT Transactions on Ecology and the Environ-
+ment, 140, 79-86.
+Białas, A. (2016). Cost-benefits aspects in risk manage-
+ment. Polish Journal of Management Studies, 14(1), 
+28-39.
+Bui, D. D. (2001). Rice Husk Ash as a Mineral Admixture 
+for High Performance Concrete. PhD thesis. Delft, The 
+Netherlands: University of Technology.
+Calica Jr, M. G. (2008). Influence of rice husk ash as supple-
+mentary material in cement paste and concrete. NLR 
+Journal, 2, 80-92.
+Chanda Kunda (2000). Blending natural fine aggregate with 
+recycled fine aggregate to produce concrete. Thesis. 
+Zambia: Copperbelt University.
+Christy, C. F., & Tensing, D. (2010). Effect of Class-F fly 
+ash as partial replacement with cement and fine ag-
+gregate in mortar. Indian Journal of Engineering and 
+Materials Sciences, 17, 140-144.
+Creswell, J. W. (2009). Research Design Qualitative, Quan-
+titative and Mixed Methods Approaches. 3rd ed. Los 
+Angeles: SAGE Publications Inc.
+Dandautiya, R., & Singh, A. P. (2019). Utilization potential 
+of fly ash and copper tailings in concrete as partial 
+replacement of cement along with life cycle assess-
+ment. Waste Management, 99, 90-101.
+Dhaka, J. K., & Roy, S. (2015). Utilization of fly ash and cow 
+dung ash as partial replacement of cement in con-
+crete. International Journal of Civil & Structural Engi-
+neering, 6(1), 34-39.
+Divsholi, B. S., Lim, T. Y. D., & Teng, S. (2014). Durability 
+properties and microstructure of ground granulated 
+blast furnace slag cement concrete.  International 
+Journal of Concrete Structures and Materials,  8(2), 
+157-164.
+Emmitt, S., & Gorse, C. A. (2014). Advanced Construction 
+of Buildings. 3rd ed. John Wiley and Sons.
+Ephraim, M. E., Akeke, G. A., & Ukpata, J. O. (2012). 
+Compressive strength of concrete with rice husk 
+ash as partial replacement of ordinary Portland ce-
+ment. Scholarly Journal of Engineering Research, 1(2), 
+32-36.
+Fapohunda, C., Akinbile, B., & Shittu, A. (2017). Structure 
+and properties of mortar and concrete with rice husk 
+
+
+===== PAGE 14 =====
+
+140
+Volume 13 • Issue 3 • 2021
+Engineering Management in Production and Services
+ash as partial replacement of ordinary Portland ce-
+ment – A review. International Journal of Sustainable 
+Built Environment, 6(2), 675-692.
+Hallingberg, B., Turley, R., Segrott, J., Wight, D., Craig, P., 
+Moore, L., & Moore, G. (2018). Exploratory studies 
+to decide whether and how to proceed with full-scale 
+evaluations of public health interventions: a system-
+atic review of guidance.  Pilot and Feasibility Stud-
+ies, 4(1), 1-12.
+Jatoi, M. A., Solangi, G. S., Shaikh, F. A., & Rajput, S. (2019). 
+Effect of Lakhra fly ash as partial replacement of ce-
+ment in traditional concrete. Mehran University Re-
+search Journal of Engineering & Technology,  38(4), 
+1045-1056.
+Joel, M. (2010). A review of partial replacement of cement 
+with some agro wastes. Nigerian Journal of Technol-
+ogy, 29(2), 12-20.
+Kanthe, V. N. (2021). Effect of Superplasticizer on Strength 
+and Durability of Rice Husk Ash Concrete. Iranian 
+(Iranica) Journal of Energy & Environment,  12(3), 
+204-208.
+Krishna, N. K., Sandeep, S., & Mini, K. M. (2016). Study on 
+concrete with partial replacement of cement by rice 
+husk ash. IOP conference series: materials science and 
+engineering, 149(1), 012109.
+Krishna, R., Chaudhary, M., & Sen, A. (2015). Effect of 
+partial replacement of cement by rice husk ash in 
+concrete.  International Journal of Science and Re-
+search, 4(5), 1572-1574.
+Kundu, S., Aggarwal, A., Mazumdar, S., & Dutt, K. B. 
+(2016). Stabilization characteristics of copper mine 
+tailings through its utilization as a partial substi-
+tute for cement in concrete: preliminary investiga-
+tions. Environmental Earth Sciences, 75(3), 227.
+Le, H. T., & Ludwig, H. M. (2016). Effect of rice husk ash 
+and other mineral admixtures on properties of self-
+compacting high-performance concrete. Materials & 
+Design, 89, 156-166.
+Map of Zambia showing rice growing area and provinces 
+as discussed under the background. Retrieved from 
+https://www.pinterest.com/pin/7704674487257-
+82191
+Mo, K. H., Alengaram, U. J., & Jumaat, M. Z. (2015). Utili-
+zation of ground granulated blast furnace slag as par-
+tial cement replacement in lightweight oil palm shell 
+concrete. Materials and Structures, 48(8), 2545-2556.
+Muhit, I. B., Ahmed, S. S., Amin, M. M., & Raihan, M. T. 
+(2013). Effects of silica fume and fly ash as partial 
+replacement of cement on water permeability and 
+strength of high-performance concrete. In 4th Inter-
+national Conference on Advances in Civil Engineering, 
+AETACE, Association of Civil and Environmental En-
+gineers.
+Muleya, F. (2000). Quality management in Construction. 
+Thesis. Zambia: Copperbelt University.
+Muleya, F., & Nwaubani, S. (2018). Sustainable Partial Ce-
+ment and Water Replacement in Concrete Using PFA 
+and Super Plasticiser. Case Studies Journal, 5(5), 34-
+40. 
+Muleya, F.,  Mulenga, B.,  Zulu, S. L.,  Nwaubani, S.,  Tem-
+bo, C. K., & Mushota, H.  (2021). Investigating the 
+suitability and cost-benefit of copper tailings as 
+partial replacement of sand in concrete in Zambia: 
+an exploratory study. Journal of Engineering, Design 
+and Technology, 19(4), 828-849. doi: 10.1108/JEDT-
+05-2020-0186
+Muthadhi, A. A., &  Kothandaraman, R. (2007). Rice husk 
+ash – Properties and its uses: a review. Journal of The 
+Institution of Engineers (India), 88, 50-56.
+Muthandhi, A., & Kothandaraman, S. (2010). Optimum 
+production conditions for reactive rice husk ash. Ma-
+terials and Structures, 43(9), 1303-1315.
+Naik, T. R. (2008). Sustainability of concrete construc-
+tion.  Practice Periodical on Structural Design and 
+Construction, 13(2), 98-103.
+Novikov, A. M., & Novikov, D. A. (2019). Research method-
+ology: From philosophy of science to research design. 
+CRC Press.
+Obilade, I. O. (2014). Use of rice husk ash as partial replace-
+ment for cement in concrete. International Journal of 
+Engineering, 5(04), 8269.
+Olafusi, O. S., & Olutoge, F. A. (2012). Strength properties 
+of corn cob ash concrete. Journal of Emerging Trends 
+in Engineering and Applied Sciences, 3(2), 297-301.
+Oyekan, G. L., & Kamiyo, O. M. (2011). A study on the en-
+gineering properties of sandcrete blocks produced 
+with rice husk ash blended cement. Journal of Engi-
+neering and Technology Research, 3(3), 88-98.
+Özbay, E., Erdemir, M., & Durmuş, H. İ. (2016). Utilization 
+and efficiency of ground granulated blast furnace 
+slag on concrete properties–A review. Construction 
+and Building Materials, 105, 423-434.
+Pal, S. C., Mukherjee, A., & Pathak, S. R. (2003). Investiga-
+tion of hydraulic activity of ground granulated blast 
+furnace slag in concrete. Cement and Concrete Re-
+search, 33(9), 1481-1486.
+Pode, R. (2016). Potential applications of rice husk ash 
+waste from rice husk biomass power plant. Renew-
+able and Sustainable Energy Reviews, 53, 1468-1485.
+Podolyakina, N. (2016). Product reliability and warranty 
+period as a cost-forming factors. Business: Theory and 
+Practice, 17(4), 361-369. doi: 10.3846/btp.17.11131
+Rafieizonooz, M., Mirza, J., Salim, M. R., Hussin, M. W., 
+& Khankhaje, E. (2016). Investigation of coal bot-
+tom ash and fly ash in concrete as replacement for 
+sand and cement. Construction and Building Materi-
+als, 116, 15-24.
+Rajagopalan, G.  (2019). Durability of alumina silicate 
+concrete based on slag/fly ash blends against cor-
+rosion.  Engineering, Construction and Architec-
+tural Management, 26(8), 1641-1651.  doi: 10.1108/
+ECAM-08-2018-0345
+Rajamane, N. P., Peter, J. A., & Ambily, P. S. (2007). Predic-
+tion of compressive strength of concrete with fly ash 
+as sand replacement material. Cement and Concrete 
+Composites, 29(3), 218-223.
+Ramezanianpour, A. A., Mahdikhani, M., & Ahmadibeni, 
+G. H. (2009). The effect of rice husk ash on mechani-
+cal properties and durability of sustainable concretes. 
+International Journal of Civil Engineering, 7(2), 83-91. 
+Reshma, T. V., Manjunatha, M., Sankalpasri, S., & Tanu, 
+H. M. (2021). Effect of waste foundry sand and fly 
+ash on mechanical and fresh properties of con-
+crete.  Materials Today: Proceedings. doi: 10.1016/j.
+matpr.2020.12.821
+
+
+===== PAGE 15 =====
+
+Volume 13 • Issue 3 • 2021
+141
+Engineering Management in Production and Services
+Salvador, R. P., Rambo, D. A., Bueno, R. M., Silva, K. T., 
+& de Figueiredo, A. D. (2019). On the use of blast-
+furnace slag in sprayed concrete applications. Con-
+struction and Building Materials, 218, 543-555.
+Sharma, R. K. (2014). Effect of substitution of cement with 
+rice husk ash on compressive strength of concrete us-
+ing plastic fibres and super plasticizer. KSCE journal 
+of civil engineering, 18(7), 2138-2142.
+Shukla, A., Singh, C. K., & Sharma, A. K. (2011). Study of 
+the properties of concrete by partial replacement of 
+ordinary Portland cement by rice husk ash. Interna-
+tional Journal of Earth Sciences and Engineering, 4(6), 
+965-968.
+Siddika, A., Al Mamun, M. A., Alyousef, R., & Moham-
+madhosseini, H. (2020). State-of-the-art-review on 
+rice husk ash: A supplementary cementitious ma-
+terial in concrete.  Journal of King Saud University-
+Engineering Sciences, 33(5), 294-307. doi: 10.1016/j.
+jksues.2020.10.006
+Singh, A. (2008). Cost benefit analysis of green buildings. 
+New Delhi: Department of building Engineering 
+& Management.
+Singh, B. (2018). Indian Institute of Technology Roorkee, 
+Roorkee, India. Waste and Supplementary Cementi-
+tious Materials in Concrete: Characterisation, Proper-
+ties and Applications, 417-460. doi: 10.1016/B978-0-
+08-102156-9.00013-4
+SNRDS (2016). Second National Rice Development Strat-
+egy 2016-2020. Retrieved from https://www.rice-
+forafrica.net/images/countries/NRDS_rev/NRDS2_
+Zambia_en.pdf
+Swetha, K., Bhavya, S., & Anadinni, S. (2015). Character-
+ization of materials by partially replacing cement by 
+copper ore tailing and sand by iron ore tailing. Inter-
+national Journal of Research in Engineering and Tech-
+nology, 4(7), 374-377.
+Thiedeitz, M., Schmidt, W., Härder, M., & Kränkel, T. 
+(2020). Performance of rice husk ash as supplemen-
+tary cementitious material after production in the 
+field and in the lab. Materials, 13(19), 4319.
+Van Lam, T., Bulgakov, B., Bazhenov, Y., Aleksandrova, O., 
+& Anh, P. N. (2018, June). Effect of rice husk ash on 
+hydrotechnical concrete behavior. In IOP Conference 
+Series: Materials Science and Engineering, 365(3), 
+032007. 
+Zambia’s rice production from 1978 to 2019. Retrieved 
+from https://knoema.com/atlas/Zambia/topics/Ag-
+riculture/Crops-Production-Quantity-tonnes/Rice-
+paddy-production
+Zareei, S. A., Ameri, F., Dorostkar, F., & Ahmadi, M. (2017). 
+Rice husk ash as a partial replacement of cement in 
+high strength concrete containing micro silica: Eval-
+uating durability and mechanical properties.  Case 
+Studies in Construction Materials, 7, 73-81.

@@ -1,0 +1,2553 @@
+
+===== PAGE 1 =====
+
+ 
+ 
+Utilizing rice husk ash as a bio-waste material in geopolymer 
+composites with aluminium oxide 
+Thirukumaran. T1*, Krishnapriya. S2, Priya. V3, Sagai Francis Britto4, Anandhalakshmi. 
+R5, Dinesh.S6, Poomalai. R7, Vivek.S8**Saravanan. S9 
+1,2,5,6 Department of Civil Engineering, AAA College of Engineering and Technology, Sivakasi, Educational Road, 
+Amathur, Sivakasi-626123,  civilthirukumaran@gmail.com; kpriyasivakumar@gmail.com; 
+anandhi.aathi@gmail.com; dineshsmart19@gmail.com 
+3&8Department of Civil Engineering, GMR Institute of Technology, Razam-532127, 
+vrpriyaashree@gmail.com/1717vivek@gmail.com 
+4Department of Mechanical Engineering, Rohini College of Engineering and Technology, Palkulam-629401, 
+sf_britto@yahoo.co.in 
+7Department of Civil Engineering, Hindusthan College of Engineering & Technology, Coimbatore-641032, 
+poomalai.civil@hicet.ac.in 
+9Department of Civil Engineering, National Institute of Technology, Trichy-620015, 
+ssaravananirs@gmail.com 
+Corresponding Authors: Thirukumaran. T1*, Vivek. S8**;                                                           Email: 
+civilthirukumaran@gmail.com / 1717vivek@gmail.com 
+ 
+GRAPHICAL ABSTRACT: 
+ 
+
+
+===== PAGE 2 =====
+
+ 
+ 
+ABSTRACT 
+Permanent damages and spalling occur in conventional concrete due to 
+hightemperature. Also concrete loses its compressive strength amounting to about 50 to 
+75% of the original strength as reported in most of the research works. As opting for high 
+grade of concrete leads to higher costs and emits CO2, an attempt to developthermal 
+resistant geopolymer concrete is done. A new class of silica-alumina binders called 
+geopolymers has the ability to withstand high temperatures.Generally geopolymer 
+concrete (GPC) is having good strength and durability properties. In this paper, the heat 
+resistance and strength performance of geopolymeris improved by adding aluminium 
+oxide as admixture in the doses of 1% and 2% byweight of rice husk ash. With rice husk 
+ash, fine aggregate and coarse aggregate, thermally resistant GPC was created. As alkali 
+activators, sodium hydroxide and silicate were employed.The molarity of NaOH solution 
+was 12 and 14. The specimens were cast and ovencured at 60°C for 24 hours. The 
+specimens were tested to determine strength,permeability, durability and thermal studies 
+of geopolymer concrete. 
+Key Words: Bio-waste (rice husk ash), Compressive Strength, CO2, silica-alumina 
+binders, thermal resistant, geopolymer concrete, etc. 
+1. INTRODUCTION 
+Flame retardants are used in building materials and products to meet important fire safety 
+standards and codes. According to reports, one of the most significant fire-resistant building 
+materials is geopolymer concrete. Materials that are fire resistant have the capacity to sustain 
+high temperatures without being destroyed. Due to its amorphous and ceramic-like 
+characteristics, geopolymer cement has a potential for enhanced fire resistance. The more 
+porous structure of the geopolymer concrete specimen makes it easier for the internal steam 
+pressure to be released during heating. As a result, the geopolymer concrete undergoes less 
+tensile stress and becomes more fire resistant. Geopolymers, in particular Ca(OH)2, lack the 
+hydrate phase. When Portland cement is exposed to high temperatures (>400oC), internal 
+tensions are caused by structural water. The Ca (OH)2 dehydroxilate to CaO process also 
+
+
+===== PAGE 3 =====
+
+ 
+ 
+CaO rehydrates with a volume change when it cools on its own, damaging matrices in the 
+process. On the other hand, geopolymers re-crystallize into more heat-resistant anhydrous 
+alumino-silicate solids.Geopolymers based on rice husk ash are considered in this section. 
+One of the most chemically stable oxides known, aluminium oxide has a melting point of 
+2070ºC and exceptional hardness, strength, and spalling resistance.. In this project 
+aluminium oxide was as an additive. The final objective of this study, comparision between 
+the mechanical properties and the residual compressive strength at elevated temperature of 
+Thermal Resistant GeopolymerConcrete (TRGPC). Also, to conduct the permeability and 
+durability tests on Geopolymer concrete and study their effects on the compressive strength 
+of TRGPC. 
+ 
+2. LITERATURE REVIEW 
+E.P. Ayswarya, Ajalesh B. Nair et al., (2021), In this research, the reinforcement 
+effects of nanosilica (NS), modified rice husk ash (MRHA), and epoxy resin are studied, 
+including the mechanical, dynamic mechanical, and thermal properties of composites. 
+Smaller size and more fillers are needed to improve the characteristics. The mechanical 
+and impact properties of composite are improved by the addition of fillers and an increase 
+in specific surface area. Silica makes up roughly 90% of RHA. As a result, it can be used 
+as a source for making nanosilica. In relation to filler loading, density and specific gravity 
+exhibit an ascending trend. This is because adding fillers with nanoparticle sizes gives the 
+composites a high density. Reduced particle size is what gives NS filled composites their 
+increased tensile strength. Flexural modulus of polymercomposites is dependent on filler 
+nature, and aspect ratio of the filler particles. Enhancement of thermal stability of RHA, 
+MRHA and NS composites is due to the organic/inorganic interaction between the 
+polymer and filler where inorganic filler delays the volatilization of the products 
+generated at the temperature of carbon–carbon bond scission of the polymer matrix. 
+RattaponSomna, TeeraponSaowapunet al., (2022),This work discusses the use of 
+rice husk ash (RHA) to create hollow geopolymer blocks based on NaOH activation 
+using both rice husk ash and fly ash (FA). For 15, 30, 60, and 90 minutes, RHA was 
+
+
+===== PAGE 4 =====
+
+ 
+ 
+grounded. Using 14 molar sodium hydroxide, the RHA to FA ratios of 10:90, 20:80, 
+30:70, 40:60, and 50:50 by weight were applied. At 7, 28, and 60 days, the compressive 
+strengths of geopolymer paste were evaluated. The geopolymer blocks' compressive 
+strengths and water absorption rates were evaluated after 7 and 28 days. The findings 
+demonstrated that the geopolymer's compressive strength rose as RHA content did. 
+Amorphous silica was present in the RHA, which also improved strength and the 
+SiO2/Al2O3 ratio. With an increase in RHA fineness, geopolymer's compressive strength 
+rose. The carbon footprint of a geopolymer hollow block made of rice husk ash and fly 
+ash was roughly two thirds that of a Portland cement system. The outcome demonstrates 
+that the rice husk ash and fly ash geopolymer hollow block could be employed while 
+maintaining standard compressive strength and water absorption. Geopolymer hollow 
+blocks manufactured from rice husk and fly ash have a lower carbon footprint than 
+cement-based ones. As a result, the community and environment benefit from this 
+product's use of environmentally friendly materials. 
+Herwani, Ivindra Pane et al. (2018), the purpose of this study was to determine the 
+impact of alkaline activator solution (AAS) molarity on the compressive strength of 
+geopolymer concrete made from fly ash with a variable sodium hydroxide (NaOH) 
+solution molarity. As a test variable, sodium hydroxide solution was selected as the 
+activator solution. The sodium hydroxide solution concentrations utilised for ambient 
+curing were 10M, 12M, and 14M. According to test results, raising the content of sodium 
+hydroxide (NaOH) solution increases the compressive strength of geopolymer concrete. 
+Geopolymer concrete's ideal compressive strength was attained at a sodium hydroxide 
+solution (NaOH) concentration of 12M. Geopolymer concretes compressive strength only 
+achieves around 50-60% of the planned. On a 12M molar NaOH solution, geopolymer 
+concrete attained its maximum compressive strength. Only 50–60% of the required 
+compressive strength was really reached. The geopolymer concrete shrank the least when 
+the NaOH solution had a 14M molarity. On a molarity of 12M, the compressive strength 
+increased by 32.56% the most, whereas on a molarity of 14M, it increased by just 8.51%. 
+The geopolymer concrete also demonstrated a high initial compressive strength. 
+
+
+===== PAGE 5 =====
+
+ 
+ 
+3. MATERIALS INVESTIGATION 
+All the constituent materials used in this research work and their properties are 
+stated below. 
+3.1. Rice husk ash 
+Rice husk ash also improves concrete permeability through lowering the water-to-
+cement ratio, which reduces the volume of remaining capillary pores in the mass. Rice 
+husk ash's spherical shape improves concrete consolidation even while reducing 
+permeability. The rice husk ash emerged from agricultural waste in India. 
+3.2. Fine aggregate 
+Fine aggregate (river sand) used in this study was passing through 4.75 mm IS 
+sieve, conforming to grading zone-I of IS 383 - 1997. The specific gravity of the fine 
+aggregate was 2.6. 
+3.3. Coarse aggregate 
+Gravel particles that passed a 16 mm sieve, were retained on a 12.5 mm sieve, and 
+were retained on a 10mm sieve were used as coarse aggregate in concrete production in 
+accordance with IS 383 - 1997. The coarse aggregate had a specific gravity of 2.9. The 
+coarse aggregate was washed and used to improve workability. 
+3.4. Alkaline solution 
+The alkaline solution as a binding material was a mixture of sodium hydroxide and 
+sodium silicate. We used commercial grade sodium hydroxide pellets (97% - 100% 
+purity) and sodium silicate solution with a composition of 14.7% Na2O, 29.4% SiO2 
+(total solids = 45.4%) and 55.6% water by mass.  The alkaline solution is used to activate 
+silica and alumina for improving bond and involves polymerization process. After several 
+experiments with conformance to workability and strength, the alkaline liquid to binder 
+ratio was determined at 0.4 and the sodium silicate to sodium hydroxide ratio was set at 
+1:1. The preliminary survey has been conducted using various molarities. The 
+sodiumhydroxide content was fixed at 12 M and 14 M for all tests, and two different 
+NaOH concentrations were used. 
+3.5. Aluminium oxide powder 
+
+
+===== PAGE 6 =====
+
+ 
+ 
+Aluminium oxide, often known as Al2O3, is a chemical compound composed of 
+aluminium and oxygen. It is the most frequent of numerous aluminium oxides and has 
+been designated as aluminium (III) oxide. It is widely recognized as alumina, however it 
+can also be referred to as aloxide, aloxite, or alundum depending on its form or 
+application. Because of its high melting point, Al2O3 is crucial in the production of 
+aluminium metal and as a refractory material. Although Al2O3 is an electrical insulator, 
+it has a reasonably high thermal conductivity for a ceramic material (30Wm-1K-1). 
+Water does not dissolve aluminium oxide. Aluminium oxide is important for metallic 
+aluminum's resistance to weathering. It has a density of 3.95g/cm3. It has a boiling point 
+of 5391oF (2977oC) and a melting point of 3762oF (2072oC). 
+4. MIX PROPORTION AND CASTING 
+4.1. Mix proportion 
+ 
+ 
+MATERIALS 
+12 MOLARITY 
+14 MOLARITY 
+Without 
+Al2O3 
+ 
+Kg/m3 
+With 
+1% of 
+Al2O3 
+Kg/m3 
+With 
+2% of 
+Al2O3 
+Kg/m3 
+Without 
+Al2O3 
+ 
+Kg/m3 
+With 
+1% of 
+Al2O3 
+Kg/m3 
+With 
+2% of 
+Al2O3 
+Kg/m3 
+Rice husk ash 
+394.29  
+394.29 
+394.29 
+394.29 
+394.29 
+394.29 
+Fine aggregate 
+554.4 
+554.4 
+554.4 
+554.4 
+554.4 
+554.4 
+Coarse 
+aggregate 
+1293.6 
+1293.6 
+1293.6 
+1293.6 
+1293.6 
+1293.6 
+Sodium 
+hydroxide 
+solution 
+78.857 
+78.857 
+78.857 
+78.857 
+78.857 
+78.857 
+Sodium silicate 
+78.857 
+78.857 
+78.857 
+78.857 
+78.857 
+78.857 
+Aluminium 
+oxide 
+- 
+3.943 
+7.886 
+- 
+3.943 
+7.886 
+ 
+4.2. Preparation of test specimens and casting 
+
+
+----- TABLE p6#1 -----
+
+luminium metal and as a refractory material. Although Al2O3 is an electrical insulator,
+t has a reasonably high thermal conductivity for a ceramic material (30Wm-1K-1).
+Water does not dissolve aluminium oxide. Aluminium oxide is important for metallic
+luminum's resistance to weathering. It has a density of 3.95g/cm3. It has a boiling point
+f 5391oF (2977oC) and a melting point of 3762oF (2072oC).
+. MIX PROPORTION AND CASTING
+.1. Mix proportion |  |  |  |  |  | 
+MATERIALS | 12 MOLARITY |  |  | 14 MOLARITY |  | 
+ | Without
+Al O
+2 3
+3
+Kg/m | With
+1% of
+Al O
+2 3
+3
+Kg/m | With
+2% of
+Al O
+2 3
+3
+Kg/m | Without
+Al O
+2 3
+3
+Kg/m | With
+1% of
+Al O
+2 3
+3
+Kg/m | With
+2% of
+Al O
+2 3
+3
+Kg/m
+Rice husk ash | 394.29 | 394.29 | 394.29 | 394.29 | 394.29 | 394.29
+Fine aggregate | 554.4 | 554.4 | 554.4 | 554.4 | 554.4 | 554.4
+Coarse
+aggregate | 1293.6 | 1293.6 | 1293.6 | 1293.6 | 1293.6 | 1293.6
+Sodium
+hydroxide
+solution | 78.857 | 78.857 | 78.857 | 78.857 | 78.857 | 78.857
+Sodium silicate | 78.857 | 78.857 | 78.857 | 78.857 | 78.857 | 78.857
+Aluminium
+oxide | - | 3.943 | 7.886 | - | 3.943 | 7.886
+
+===== PAGE 7 =====
+
+ 
+ 
+The constituents for the mixes were weighed and blended for 3-4 minutes in dry 
+environment. To enhance workability, the coarse aggregate was rinsed in tap water and 
+filtered. The needed alkaline activator solution, a combination of sodium hydroxide and 
+sodium silicate solutions, as well as aluminium oxide, is then added to the dry mix. In a 
+concrete mixture machine, the mixing was maintained for around 6-8 minutes. Following 
+the mixing, the concrete was poured in steel moulds with suitable compaction. 
+Precautions were made to ensure that the ingredients were mixed evenly. The casted 
+specimens healed in two days under the warm conditions depicted in fig. 4.1. The 
+geopolymer concrete are used to cure in sun light, steam and oven. The specimens were 
+de-moulded and placed in a 60°C oven curing for 24 hours shown in fig.: 4.2. Then they 
+were taken out shown in fig.: 4.3 and allowed to cure in the room temperature till the 
+required day of testing. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                Fig.: 4.1 Casted Specimens 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig.: 4.3 Cured Specimens 
+ 
+  Fig.: 4.2 Oven curing 
+
+
+===== PAGE 8 =====
+
+ 
+ 
+5. RESULTS & DISCUSSION 
+To test the mechanical and thermal properties of TRGPC produced with Al2O3, 
+more than 150 specimens were cast and put through various tests. Tests were performed 
+on TRGPC using two distinct NaOH molarities and three different types of mixtures, 
+including none, 1%, and 2% of Al2O3. The findings demonstrate how the percentage of 
+admixture and the concentration of NaOH have an impact on the variation in compressive 
+strength of TRGPC. Additionally, tests were conducted on the GPC specimens' flexural 
+strength and splitting tensile strength. The permeability, durability and thermal studies of 
+TRGPC were evaluated. The differences in the aforementioned parameters of the TRGPC 
+specimen are shown in charts. Below are some discussions of the test findings. 
+5.2 MECHANICAL PROPERTIES 
+5.2.1 Compressive strength 
+The strength attained during 24 hours oven cured on Geopolymer concrete cubes 
+were experimentally tested for 2 specimens on each average and their average results. 
+The result influences that molarity of sodium hydroxide (NaOH) solution and admixture 
+of Al2O3 on the compressive strength of TRGPC was studied for two different molar 
+concentrations of NaOH viz., 12M and 14 M. At 60°C, the oven was used to cure each 
+specimen. The compressive strength results are presented in Table 5.1, and Figures 5.1 , 
+respectively, show the variations in compressive strength of TRGPC specimens 
+corresponding to the two different molar concentrations of NaOH and% of Al2O3. 
+Table 5.1 Results on Compressive strength of TRGPC 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Trial 1 
+(MPa) 
+Trial 2 
+(MPa) 
+Average  Compressive 
+strength (MPa) 
+1 
+ 
+12M 
+- 
+35.39 
+31.44 
+33.42 
+2 
+1% 
+36.73 
+34.40 
+35.57 
+3 
+2% 
+44.07 
+44.61 
+44.34 
+4 
+ 
+14M 
+- 
+38.60 
+37.06 
+37.83 
+5 
+1% 
+36.92 
+37.01 
+36.97 
+
+
+----- TABLE p8#1 -----
+
+admixture and the concentration of NaOH have an impact on the variation in compressive
+strength of TRGPC. Additionally, tests were conducted on the GPC specimens' flexural
+strength and splitting tensile strength. The permeability, durability and thermal studies of
+TRGPC were evaluated. The differences in the aforementioned parameters of the TRGPC
+specimen are shown in charts. Below are some discussions of the test findings.
+5.2 MECHANICAL PROPERTIES
+5.2.1 Compressive strength
+The strength attained during 24 hours oven cured on Geopolymer concrete cubes
+were experimentally tested for 2 specimens on each average and their average results.
+The result influences that molarity of sodium hydroxide (NaOH) solution and admixture
+of Al O on the compressive strength of TRGPC was studied for two different molar
+2 3
+concentrations of NaOH viz., 12M and 14 M. At 60°C, the oven was used to cure each
+specimen. The compressive strength results are presented in Table 5.1, and Figures 5.1 ,
+respectively, show the variations in compressive strength of TRGPC specimens
+corresponding to the two different molar concentrations of NaOH and% of Al2O3.
+Table 5.1 Results on Compressive strength of TRGPC |  |  |  |  | 
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Trial 1
+(MPa) | Trial 2
+(MPa) | Average Compressive
+strength (MPa)
+1 | 12M | - | 35.39 | 31.44 | 33.42
+2 |  | 1% | 36.73 | 34.40 | 35.57
+3 |  | 2% | 44.07 | 44.61 | 44.34
+4 | 14M | - | 38.60 | 37.06 | 37.83
+5 |  | 1% | 36.92 | 37.01 | 36.97
+
+===== PAGE 9 =====
+
+ 
+ 
+6 
+2% 
+29.23 
+27.86 
+28.55 
+ 
+ 
+ 
+The results show that when the concentration of NaOH increased, the compressive 
+strength of TRGPC also increased. The strength increase of the Al2O3-free specimen 
+(GP) after 24 hours in the oven ranged from 5 to 10% for the equivalent rise in molarity 
+starting at 12 M and 14M. The increase in compressive strength could have been caused 
+by a faster rate of silica and alumina ions dissolving in the alkaline solution due to the 
+rise in NaOH concentration.The 12M-2% of Al2O3 gives high compressive strength 
+compared to remaining mixes of specimen. When the 14M - 2% of Al2O3 gives low 
+strength because of high molar concentration and increases the percentage of Al2O3 might 
+be reduces the strength. 
+5.2.2 Split tensile strength 
+The split tensile strength test for the mixes was carried out on cylindrical 
+specimens after 24 hours of curing and their results are presented. The split 
+tensilestrength of the 12M & 14M GPC mixes was noted of 3.355 and 3.457 MPa, and 
+that of adding Al2O3 were found to be in the range of 2.595 to 3.506 MPa. The effects of 
+33.42
+35.57
+44.34
+37.83
+36.97
+28.55
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+12M -
+without
+12M  - with
+1%
+12M  - with
+2%
+14M -
+without
+14M  - with
+1%
+14M  - with
+2%
+Avg. comp. stregth (MPa)
+% of Aluminium oxide
+Fig.: 5.1 Results on Compressive Strength of TRGPC
+
+
+----- TABLE p9#1 -----
+
+6 |  | 2% | 29.23 | 27.86 | 28.55
+
+===== PAGE 10 =====
+
+ 
+ 
+NaOH concentration and % of Al2O3 on the split tensile strengthof the TRGPC mixes are 
+discussed in the subsequent table. 
+ 
+Table 5.2 Results on split tensile strength of TRGPC 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Trial 1 
+(kN) 
+Trial 2 
+(kN) 
+Average 
+load 
+(kN) 
+Average  Split 
+tensile strength 
+(MPa) 
+1 
+ 
+12M 
+- 
+95.7 
+115.1 
+105.40 
+3.355 
+2 
+1% 
+106.1 
+114.2 
+110.15 
+3.506 
+3 
+2% 
+110.4 
+109.2 
+109.80 
+3.495 
+4 
+ 
+14M 
+- 
+98.7 
+118.5 
+108.60 
+3.457 
+5 
+1% 
+84.1 
+89.8 
+86.95 
+2.778 
+6 
+2% 
+83.4 
+79.1 
+81.25 
+2.595 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+3.355
+3.506
+3.495
+3.457
+2.778
+2.595
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Avg. Split tensile strength 
+(MPa)
+Percentage of Al2O3
+Fig.: 5.2 Results on Split tensile strength of TRGPC
+
+
+----- TABLE p10#1 -----
+
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Trial 1
+(kN) | Trial 2
+(kN) | Average
+load
+(kN) | Average Split
+tensile strength
+(MPa)
+1 | 12M | - | 95.7 | 115.1 | 105.40 | 3.355
+2 |  | 1% | 106.1 | 114.2 | 110.15 | 3.506
+3 |  | 2% | 110.4 | 109.2 | 109.80 | 3.495
+4 | 14M | - | 98.7 | 118.5 | 108.60 | 3.457
+5 |  | 1% | 84.1 | 89.8 | 86.95 | 2.778
+6 |  | 2% | 83.4 | 79.1 | 81.25 | 2.595
+4 3.355 3.506 3.495 3.457 strength
+3.5
+2.778
+3 2.595
+2.5
+tensile
+(MPa)
+2
+1.5
+Split
+1
+0.5
+Avg.
+0
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.2 Results on Split tensile strength of TRGPC |  |  |  |  |  | 
+
+===== PAGE 11 =====
+
+ 
+ 
+Without adding ofAl2O3gives promising results compared to research papers. 
+When comparing the 12M - 1% ofAl2O3mix with 12M - 2% ofAl2O3there was a slight 
+improvement in split tensile strength. But the split tensile strength seems to be reduced 
+with additional increases in molar concentration with percentage of Al2O3. 
+5.2.3Flexural strength 
+All of the prism specimens were oven-cured at 60°C, and the flexural strength of 
+the cured specimens was assessed. This circumstance (a 133 mm but > 110 mm for 
+100mm specimen) results in the breaking point. The findings are listed in Table 5.3, and 
+Figure 5.3 displays the variations in compressive strength of TRGPC specimens at the 
+two different molar concentrations of NaOH and% Al2O3 respectively. The flexural 
+strength of the 12M & 14M GPC mixes was noted of 4.438MPa and 4.526MPa, and that 
+of adding Al2O3 were found to be in the range of 3.447Mpa to 4.579MPa. 
+ 
+Table 5.3 Results on flexural strength of TRGPC 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Trial 
+1 
+(kN) 
+Trial 
+2 
+(kN) 
+Average 
+load 
+(kN) 
+Average 
+flexural 
+strength 
+(MPa) 
+1 
+ 
+12M 
+- 
+37 
+35 
+36 
+4.438 
+2 
+1% 
+27.5 
+28 
+27.75 
+4.579 
+3 
+2% 
+20 
+26 
+23 
+3.988 
+4 
+ 
+14M 
+- 
+32 
+39 
+35.5 
+4.526 
+5 
+1% 
+29 
+26 
+27.5 
+3.609 
+6 
+2% 
+27 
+24 
+25.5 
+3.447 
+ 
+ 
+
+
+----- TABLE p11#1 -----
+
+All of the prism specimens were oven-cured at 60°C, and the flexural strength o
+he cured specimens was assessed. This circumstance (a 133 mm but > 110 mm for
+100mm specimen) results in the breaking point. The findings are listed in Table 5.3, and
+Figure 5.3 displays the variations in compressive strength of TRGPC specimens at the
+wo different molar concentrations of NaOH and% Al2O3 respectively. The flexura
+strength of the 12M & 14M GPC mixes was noted of 4.438MPa and 4.526MPa, and tha
+of adding Al O were found to be in the range of 3.447Mpa to 4.579MPa.
+2 3
+Table 5.3 Results on flexural strength of TRGPC |  |  |  |  |  | 
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Trial
+1
+(kN) | Trial
+2
+(kN) | Average
+load
+(kN) | Average
+flexural
+strength
+(MPa)
+1 | 12M | - | 37 | 35 | 36 | 4.438
+2 |  | 1% | 27.5 | 28 | 27.75 | 4.579
+3 |  | 2% | 20 | 26 | 23 | 3.988
+4 | 14M | - | 32 | 39 | 35.5 | 4.526
+5 |  | 1% | 29 | 26 | 27.5 | 3.609
+6 |  | 2% | 27 | 24 | 25.5 | 3.447
+ |  |  |  |  |  | 
+
+===== PAGE 12 =====
+
+ 
+ 
+ 
+ 
+The variation in the flexural strength of the TRGPC mixes with respect to NaOH 
+concentration. While increasing NaOH concentration increases the flexural strength of 
+the GPC mixes. The improved performance with the increase in the NaOH concentration 
+is primarily because of the increasing amount of leaching of Si and Al at higher 
+concentration of NaOH. In 12M - 1% of Al2O3 gives slightly high strength compared to 
+12M- 2% of Al2O3. The rate of decreasing the strength is low in14M mixes compared to 
+12M mixes. 
+5.3 PERMEABILITY PROPERTIES 
+5.3.1 Water absorption 
+The water absorption after 24 hours of immersion of 14M - 2% of Al2O3 
+specimens was found to be 2.85% and 12M - 2% of Al2O3 specimens recorded water 
+absorption of 2.21%. For 12M – without Al2O3, it was 2.72% and 14M – without Al2O3, 
+recorded a value of 2.30%. This shows the decrease in water absorption in Geopolymer 
+concrete when the NaOH concentration is high. The water absorption in percentage is 
+shown in Figure 5.4.  
+ 
+4.438
+4.579
+3.988
+4.526
+3.609
+3.447
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+4.5
+5
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Average  flexural strength 
+(MPa)
+Percentage of Al2O3
+Fig.: 5.3 Results on flexural strength of TRGPC
+
+
+===== PAGE 13 =====
+
+ 
+ 
+Table 5.4 Results on water absorption of TRGPC 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Dried 
+weight (g) 
+Saturated 
+weight (g) 
+Percentage of 
+Water 
+absorption 
+1 
+ 
+12M 
+- 
+668.7 
+686.9 
+2.72 
+2 
+1% 
+694.2 
+711.6 
+2.51 
+3 
+2% 
+691.2 
+706.5 
+2.21 
+4 
+ 
+14M 
+- 
+644.7 
+659.5 
+2.30 
+5 
+1% 
+730.9 
+748.7 
+2.44 
+6 
+2% 
+746.2 
+767.5 
+2.85 
+ 
+ 
+ 
+ 
+While comparing the 12M and 14M mixes from table 5.3.1 shows that 12M 
+adding the Al2O3 gives less absorption because of aluminium oxide able to fills pores and 
+created an additional bond with existing aluminium oxide in GPC. The combination of 
+higher molarity with increasing percentage of Al2O3 might be increases the absorption 
+2.72
+2.51
+2.21
+2.3
+2.44
+2.85
+0
+0.5
+1
+1.5
+2
+2.5
+3
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Percentage of water absoption
+Percentage of Al2O3
+Fig.: 5.4 Results on water absorption of TRGPC
+
+
+----- TABLE p13#1 -----
+
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Dried
+weight (g) | Saturated
+weight (g) | Percentage of
+Water
+absorption
+1 | 12M | - | 668.7 | 686.9 | 2.72
+2 |  | 1% | 694.2 | 711.6 | 2.51
+3 |  | 2% | 691.2 | 706.5 | 2.21
+4 | 14M | - | 644.7 | 659.5 | 2.30
+5 |  | 1% | 730.9 | 748.7 | 2.44
+6 |  | 2% | 746.2 | 767.5 | 2.85
+3 2.85
+2.72
+absoption
+2.51
+2.44
+2.5 2.3
+2.21
+2
+water
+1.5
+of
+Percentage
+1
+0.5
+0
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.4 Results on water absorption of TRGPC |  |  |  |  | 
+
+===== PAGE 14 =====
+
+ 
+ 
+capacity because of Al2O3 is insoluble in water.The presence of higher silica content 
+formed higher quantity of aluminosilicate gel and provides very good particle bonding. 
+Hence, the silicate occupies the void spaces between the Rice husk ash particles resulted 
+in lower water absorption, 
+5.4 Durability studies 
+5.4.1 Acid attack 
+For the purpose of assessing initial corrosion behaviour, the weight and 
+compressive strength losses of TRGPC after exposure to a 5% solution of HCl were 
+measured at 1, 7, and 14 days after immersion. In Table 5.6 and Fig. 5.12, the weight 
+(actual mass and change in mass) are displayed. The strength variations are depicted in 
+Table 5.7 and Fig. 5.13. 
+Table 5.6Change in mass of TRGPC after exposure of HCl 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Actual 
+Mass 
+(Kg) 
+Change in mass (Kg) 
+7 
+days 
+14 
+days 
+30 
+days 
+1 
+ 
+12M 
+- 
+2.43 
+2.44 
+2.47 
+2.40 
+2 
+1% 
+2.39 
+2.41 
+2.43 
+2.37 
+3 
+2% 
+2.37 
+2.38 
+2.39 
+2.36 
+4 
+ 
+14M 
+- 
+2.40 
+2.42 
+2.43 
+2.40 
+5 
+1% 
+2.39 
+2.40 
+2.43 
+2.35 
+6 
+2% 
+2.45 
+2.46 
+2.49 
+2.40 
+ 
+ 
+ 
+
+
+----- TABLE p14#1 -----
+
+4.1 Acid attack
+For the purpose of assessing initial corrosion behaviour, the weight an
+ompressive strength losses of TRGPC after exposure to a 5% solution of HCl we
+easured at 1, 7, and 14 days after immersion. In Table 5.6 and Fig. 5.12, the weig
+ctual mass and change in mass) are displayed. The strength variations are depicted i
+able 5.7 and Fig. 5.13.
+Table 5.6Change in mass of TRGPC after exposure of HCl |  |  |  |  |  | 
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Actual
+Mass
+(Kg) | Change in mass (Kg) |  | 
+ |  |  |  | 7
+days | 14
+days | 30
+days
+1 | 12M | - | 2.43 | 2.44 | 2.47 | 2.40
+2 |  | 1% | 2.39 | 2.41 | 2.43 | 2.37
+3 |  | 2% | 2.37 | 2.38 | 2.39 | 2.36
+4 | 14M | - | 2.40 | 2.42 | 2.43 | 2.40
+5 |  | 1% | 2.39 | 2.40 | 2.43 | 2.35
+6 |  | 2% | 2.45 | 2.46 | 2.49 | 2.40
+ |  |  |  |  |  | 
+
+===== PAGE 15 =====
+
+ 
+ 
+ 
+ 
+Table 5.7Residual strength of TRGPC after exposure of HCl 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Actual 
+Compressive 
+strength (MPa) 
+Residual 
+Compressive 
+strength (MPa) 
+1 
+ 
+12M 
+- 
+33.42 
+30.79 
+2 
+1% 
+35.57 
+31.28 
+3 
+2% 
+44.34 
+36.67 
+4 
+ 
+14M 
+- 
+37.83 
+34.91 
+5 
+1% 
+36.97 
+29.44 
+6 
+2% 
+28.55 
+26.22 
+ 
+ 
+ 
+ 
+2.43
+2.39
+2.37
+2.4
+2.39
+2.45
+2.4
+2.37
+2.36
+2.4
+2.35
+2.4
+2.3
+2.32
+2.34
+2.36
+2.38
+2.4
+2.42
+2.44
+2.46
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Change in mass (Kg)
+Percentage of Al2O3
+Fig.: 5.12 Change in mass - after exposure to HCl
+
+
+----- TABLE p15#1 -----
+
+2.46 2.45
+2.44 2.43
+(Kg)
+2.42
+2.4 2.4 2.4 2.4
+2.4 2.39 2.39 mass
+2.38 2.37 2.37
+2.36 in
+2.36 2.35 Change
+2.34
+2.32
+2.3
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.12 Change in mass - after exposure to HCl
+Table 5.7Residual strength of TRGPC after exposure of HCl |  |  |  | 
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Actual
+Compressive
+strength (MPa) | Residual
+Compressive
+strength (MPa)
+1 | 12M | - | 33.42 | 30.79
+2 |  | 1% | 35.57 | 31.28
+3 |  | 2% | 44.34 | 36.67
+4 | 14M | - | 37.83 | 34.91
+5 |  | 1% | 36.97 | 29.44
+6 |  | 2% | 28.55 | 26.22
+ |  |  |  | 
+
+----- TABLE p15#2 -----
+
+ | 
+ | 
+
+----- TABLE p15#3 -----
+
+ | 
+ | 
+
+----- TABLE p15#4 -----
+
+ | 
+ | 
+
+----- TABLE p15#5 -----
+
+ | 
+ | 
+
+----- TABLE p15#6 -----
+
+ | 
+ | 
+
+===== PAGE 16 =====
+
+ 
+ 
+ 
+ 
+The acid resistance of 12M-1% and 2% specimens revealed lower losses than 
+other specimens after the addition of Al2O3 had a positive effect. Weight first rose up to 
+14 days after exposure. After 30 days of exposure to 5% HCl, the percentage strength 
+losses ranged from 3 to 7% (corresponding weight losses ranged from 0.1% to 4.5%). It 
+is evident from the current study that the performances of Al2O3 added TRGPC samples 
+are comparable to those of the Rice husk ash based GPC even when exposed to a 
+comparably higher concentration of HCl, while they have performed significantly better 
+than the conventional concrete from the aforementioned literature.However, the 14M-2% 
+of Al2O3 specimens did not provide much resistance against HCl due to their poor 
+structural compatibility and they showed larger weight and compressive strength losses at 
+the conclusion of the 30 day exposure period. 
+The visual examination concludes the 12M, 14M, and 2% ofAl2O3 mixes obtain 
+colour changes in bottom centered. 
+33.42
+35.57
+44.34
+37.83
+36.97
+28.55
+30.79
+31.28
+36.67
+34.91
+29.44
+26.22
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Residual Strength (MPa)
+Percentage of Al2O3
+Fig.: 5.13 Residual strengh - after exposure to HCl
+
+
+----- TABLE p16#1 -----
+
+ | 
+ | 
+
+----- TABLE p16#2 -----
+
+ | 
+ | 
+
+----- TABLE p16#3 -----
+
+ | 
+
+----- TABLE p16#4 -----
+
+ | 
+ | 
+
+----- TABLE p16#5 -----
+
+ | 
+ | 
+
+===== PAGE 17 =====
+
+ 
+ 
+ 
+Fig.: 5.14After exposure of HCl 
+ 
+5.4.2 Sulphate attack 
+To determine the first corrosion behaviour, weight and compressive strength 
+losses of TRGPC were measured at 1, 7, and 30 days after exposure to a 5% solution of 
+MgSO4. In Table 5.8 and Fig. 5.15, the weight (actual mass and change in mass) are 
+displayed. Strength variations are depicted in Table 5.9 and Figure 5.16. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.8Change in mass of TRGPC after exposure of MgSO4 
+Sl.No. 
+NaOH 
+Percentage 
+Actual 
+Change in mass (Kg) 
+
+
+----- TABLE p17#1 -----
+
+Sl.No. | NaOH | Percentage | Actual | Change in mass (Kg)
+
+===== PAGE 18 =====
+
+ 
+ 
+Concentration 
+of Al2O3 
+Mass 
+(Kg) 
+7 
+days 
+14 
+days 
+30 
+days 
+1 
+ 
+12M 
+- 
+2.41 
+2.43 
+2.45 
+2.36 
+2 
+1% 
+2.38 
+2.40 
+2.41 
+2.37 
+3 
+2% 
+2.42 
+2.43 
+2.44 
+2.40 
+4 
+ 
+14M 
+- 
+2.42 
+2.43 
+2.44 
+2.39 
+5 
+1% 
+2.43 
+2.45 
+2.49 
+2.36 
+6 
+2% 
+2.43 
+2.46 
+2.50 
+2.34 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.9Residual strength of TRGPC after exposure of MgSO4 
+2.41
+2.38
+2.42
+2.42
+2.43
+2.43
+2.36
+2.37
+2.4
+2.39
+2.36
+2.34
+2.28
+2.3
+2.32
+2.34
+2.36
+2.38
+2.4
+2.42
+2.44
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Change in mass (Kg)
+Percentage of Al2O3
+Fig.: 5.15 Change in mass - after exposure to MgSO4
+
+
+----- TABLE p18#1 -----
+
+ | Concentration | of Al O
+2 3 | Mass
+(Kg) | 7
+days | 14
+days | 30
+days
+1 | 12M | - | 2.41 | 2.43 | 2.45 | 2.36
+2 |  | 1% | 2.38 | 2.40 | 2.41 | 2.37
+3 |  | 2% | 2.42 | 2.43 | 2.44 | 2.40
+4 | 14M | - | 2.42 | 2.43 | 2.44 | 2.39
+5 |  | 1% | 2.43 | 2.45 | 2.49 | 2.36
+6 |  | 2% | 2.43 | 2.46 | 2.50 | 2.34
+2.44 2.43 2.43
+2.42 2.42
+2.42 2.41
+2.4 (Kg)
+2.4 2.39
+2.38
+2.38 2.37 mass
+2.36 2.36
+2.36
+2.34 in
+2.34 Change
+2.32
+2.3
+2.28
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.15 Change in mass - after exposure to MgSO
+4 |  |  |  |  |  | 
+
+----- TABLE p18#2 -----
+
+ | 
+ | 
+
+----- TABLE p18#3 -----
+
+ | 
+ | 
+
+----- TABLE p18#4 -----
+
+ | 
+ | 
+
+----- TABLE p18#5 -----
+
+ | 
+ | 
+
+----- TABLE p18#6 -----
+
+ | 
+ | 
+
+----- TABLE p18#7 -----
+
+ | 
+ | 
+
+===== PAGE 19 =====
+
+ 
+ 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Actual 
+Compressive 
+strength (MPa) 
+Residual 
+Compressive 
+strength (MPa) 
+1 
+ 
+12M 
+- 
+33.42 
+30.92 
+2 
+1% 
+35.57 
+32.09 
+3 
+2% 
+44.34 
+37.43 
+4 
+ 
+14M 
+- 
+37.83 
+34.01 
+5 
+1% 
+36.97 
+30.02 
+6 
+2% 
+28.55 
+27.23 
+ 
+ 
+ 
+ 
+ 
+Initially the weight gets increased upto 14 days of exposure toMgSO4 because of 
+the specimens are oven cured under dry condition. So it absorbed and fill the pores 
+laterally it get affects the specimen losses the weight in 30 days. Al2O3 was added, and it 
+improved the acid resistance of the 12M-2% and 14M-1% specimens, resulting in smaller 
+losses than the other specimen. After 30 days of exposure to 5% MgSO4, the percentage 
+33.42
+35.57
+44.34
+37.83
+36.97
+28.55
+30.92
+32.09
+37.43
+34.01
+30.02
+27.23
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Residual Strength (MPa)
+Percentage of Al2O3
+Fig.: 5.16 Residual strengh - after exposure to MgSO4
+
+
+----- TABLE p19#1 -----
+
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Actual
+Compressive
+strength (MPa) | Residual
+Compressive
+strength (MPa)
+1 | 12M | - | 33.42 | 30.92
+2 |  | 1% | 35.57 | 32.09
+3 |  | 2% | 44.34 | 37.43
+4 | 14M | - | 37.83 | 34.01
+5 |  | 1% | 36.97 | 30.02
+6 |  | 2% | 28.55 | 27.23
+50
+44.34
+45
+40 35.57 37.43 37.83 36.97 (MPa)
+33.42 34.01
+35 32.09
+30.92 30.02
+28.55 Strength
+30
+27.23
+25
+20
+Residual
+15
+10
+5
+0
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.16 Residual strengh - after exposure to MgSO
+4
+Initially the weight gets increased upto 14 days of exposure toMgSO becaus
+4 |  |  |  | 
+
+----- TABLE p19#2 -----
+
+ | 
+ | 
+
+----- TABLE p19#3 -----
+
+ | 
+ | 
+
+----- TABLE p19#4 -----
+
+ | 
+ | 
+
+----- TABLE p19#5 -----
+
+ | 
+ | 
+
+----- TABLE p19#6 -----
+
+ | 
+ | 
+
+===== PAGE 20 =====
+
+ 
+ 
+strength losses ranged from 2 to 5% (corresponding weight losses ranged from 0.2% to 
+3%). It is evident from the current investigation that the 14M-2% Al2O3 specimens did 
+not provide much resistance against MgSO4, and at the conclusion of the 30 day 
+exposure period, they showed increased weight and compressive strength losses due to 
+their poor structural compatibility. 
+The visual examination concludes the 12M, 14M, and 2% ofAl2O3 mixes obtain 
+colour changed in side faces. 
+ 
+ 
+Fig.: 5.17 After exposure of MgSO4 
+ 
+ 
+5.5 THERMAL PROPERTY 
+5.5.1 Residual Compressive strength 
+The cube specimens were oven cured at 60°C and cured specimens were exposed 
+to high temperature 200 °C, 400 °C, 600 °C and 800 °C for 1 hour. Following exposure 
+to high temperatures, the results as measured by changes in mass and residual 
+compressive strength of TRGPC were discussed. 
+ 
+ 
+ 
+Table 5.10 Residual strength of TRGPC after exposure of 200ᵒC 
+
+
+===== PAGE 21 =====
+
+ 
+ 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Actual 
+mass (kg) 
+Change in 
+mass (kg) 
+Residual 
+strength 
+(MPa) 
+1 
+ 
+12M 
+- 
+2.448 
+2.451 
+39.12 
+2 
+1% 
+2.339 
+2.342 
+48.19 
+3 
+2% 
+2.290 
+2.293 
+55.58 
+4 
+ 
+14M 
+- 
+2.349 
+2.353 
+42.50 
+5 
+1% 
+2.347 
+2.350 
+45.10 
+6 
+2% 
+2.441 
+2.446 
+51.05 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.11 Residual strength of TRGPC after exposure of 400ᵒC 
+33.42
+35.57
+44.34
+37.83
+36.97 
+28.55
+39.12
+48.19
+55.58
+42.5
+45.1
+51.05
+0
+10
+20
+30
+40
+50
+60
+12M- Without 12M- With
+1%
+12M- With
+2%
+14M- Without 14M- With
+1%
+14M- With
+2%
+Residual  Strength (MPa)
+Percentage of Al2O3
+Fig.: 5.18 Residual strength - after exposure of 200ᵒC
+
+
+----- TABLE p21#1 -----
+
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Actual
+mass (kg) | Change in
+mass (kg) | Residual
+strength
+(MPa)
+1 | 12M | - | 2.448 | 2.451 | 39.12
+2 |  | 1% | 2.339 | 2.342 | 48.19
+3 |  | 2% | 2.290 | 2.293 | 55.58
+4 | 14M | - | 2.349 | 2.353 | 42.50
+5 |  | 1% | 2.347 | 2.350 | 45.10
+6 |  | 2% | 2.441 | 2.446 | 51.05
+60
+55.58
+51.05
+48.19
+50 44.34 45.1 (MPa)
+42.5
+40 39.12 35.57 37.83 36.97
+33.42 Strength
+28.55
+30
+20 Residual
+10
+0
+12M- Without 12M- With 12M- With 14M- Without 14M- With 14M- With
+1% 2% 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.18 Residual strength - after exposure of 200ᵒC |  |  |  |  | 
+
+----- TABLE p21#2 -----
+
+ | 
+ | 
+
+----- TABLE p21#3 -----
+
+ | 
+ | 
+
+----- TABLE p21#4 -----
+
+ | 
+ | 
+
+----- TABLE p21#5 -----
+
+ | 
+ | 
+
+----- TABLE p21#6 -----
+
+ | 
+ | 
+
+----- TABLE p21#7 -----
+
+ | 
+ | 
+
+===== PAGE 22 =====
+
+ 
+ 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Actual 
+mass (kg) 
+Change in 
+mass (kg) 
+Residual strength 
+(MPa) 
+1 
+ 
+12M 
+- 
+2.41 
+2.32 
+40.16 
+2 
+1% 
+2.38 
+2.32 
+41.90 
+3 
+2% 
+2.39 
+2.31 
+45.65 
+4 
+ 
+14M 
+- 
+2.56 
+2.51 
+36.60 
+5 
+1% 
+2.42 
+2.36 
+37.10 
+6 
+2% 
+2.30 
+2.22 
+34.33 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.12 Residual strength of TRGPC after exposure of 600ᵒC 
+33.42
+35.57
+44.34
+37.83
+36.97 
+28.55
+40.16
+41.90
+45.65
+36.60
+37.10
+34.33
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Residual Strength (MPa)
+Percentage of Al2O3
+Fig.: 5.19 Residual strength - after exposure of 400ᵒC
+
+
+----- TABLE p22#1 -----
+
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Actual
+mass (kg) | Change in
+mass (kg) | Residual strength
+(MPa)
+1 | 12M | - | 2.41 | 2.32 | 40.16
+2 |  | 1% | 2.38 | 2.32 | 41.90
+3 |  | 2% | 2.39 | 2.31 | 45.65
+4 | 14M | - | 2.56 | 2.51 | 36.60
+5 |  | 1% | 2.42 | 2.36 | 37.10
+6 |  | 2% | 2.30 | 2.22 | 34.33
+50
+45.65
+44.34
+45 41.90
+40.16 37.83 (MPa)
+40 35.57 36.60 36.97 37.10 34.33
+33.42
+35
+28.55 Strength
+30
+25
+20
+Residual
+15
+10
+5
+0
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.19 Residual strength - after exposure of 400ᵒC |  |  |  |  | 
+
+----- TABLE p22#2 -----
+
+ | 
+ | 
+
+===== PAGE 23 =====
+
+ 
+ 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Actual 
+mass (kg) 
+Change in 
+mass (kg) 
+Residual strength 
+(MPa) 
+1 
+ 
+12M 
+- 
+2.45 
+2.38 
+32.01 
+2 
+1% 
+2.40 
+2.33 
+31.30 
+3 
+2% 
+2.34 
+2.27 
+43.22 
+4 
+ 
+14M 
+- 
+2.52 
+2.44 
+30.01 
+5 
+1% 
+2.37 
+2.30 
+31.92 
+6 
+2% 
+2.41 
+2.33 
+36.14 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 5.13 Residual strength of TRGPC after exposure of 800ᵒC 
+33.42
+35.57
+44.34
+37.83
+36.97 
+28.55
+32.01
+31.3
+43.22
+30.01
+31.92
+36.14
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Residual Strength (MPa)
+Percentage of Al2O3
+Fig.: 5.20 Residual strength - after exposure of 600ᵒC
+
+
+----- TABLE p23#1 -----
+
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Actual
+mass (kg) | Change in
+mass (kg) | Residual strength
+(MPa)
+1 | 12M | - | 2.45 | 2.38 | 32.01
+2 |  | 1% | 2.40 | 2.33 | 31.30
+3 |  | 2% | 2.34 | 2.27 | 43.22
+4 | 14M | - | 2.52 | 2.44 | 30.01
+5 |  | 1% | 2.37 | 2.30 | 31.92
+6 |  | 2% | 2.41 | 2.33 | 36.14
+50
+44.34
+45 43.22
+37.83 (MPa)
+40 35.57 36.97 36.14
+33.42
+35 32.01 31.3 30.01 31.92
+Strength
+30 28.55
+25
+20
+Residual
+15
+10
+5
+0
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.20 Residual strength - after exposure of 600ᵒC |  |  |  |  | 
+
+----- TABLE p23#2 -----
+
+ | 
+ | 
+
+----- TABLE p23#3 -----
+
+ | 
+ | 
+
+----- TABLE p23#4 -----
+
+ | 
+ | 
+
+----- TABLE p23#5 -----
+
+ | 
+ | 
+
+----- TABLE p23#6 -----
+
+ | 
+ | 
+
+----- TABLE p23#7 -----
+
+ | 
+ | 
+
+===== PAGE 24 =====
+
+ 
+ 
+Sl.No. 
+NaOH 
+Concentration 
+Percentage 
+of Al2O3 
+Actual 
+mass (kg) 
+Change in 
+mass (kg) 
+Residual 
+strength 
+(MPa) 
+1 
+ 
+12M 
+- 
+2.39 
+2.27 
+20.19 
+2 
+1% 
+2.39 
+2.30 
+24.30 
+3 
+2% 
+2.45 
+2.36 
+26.89 
+4 
+ 
+14M 
+- 
+2.48 
+2.40 
+21.90 
+5 
+1% 
+2.45 
+2.36 
+23.04 
+6 
+2% 
+2.46 
+2.38 
+21.01 
+ 
+ 
+ 
+ 
+The residual strength and change in mass were drawn, according to table 5.10. The 
+weight of the specimen decreases from 1 to 3% of the actual mass. But the residual 
+strength is higher than the actual compressive strength. Then the 12M - addition of Al2O3 
+gives the higher residual strength shown in fig.: 5.18. Because of the GPC get more 
+33.42
+35.57
+44.34
+37.83
+36.97 
+28.55
+20.19
+24.30
+26.89
+21.90
+23.04
+21.01
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+50
+12M-
+Without
+12M- With
+1%
+12M- With
+2%
+14M-
+Without
+14M- With
+1%
+14M- With
+2%
+Residual Strength (MPa)
+Percentage of Al2O3
+Fig.: 5.21 Residual strength - after exposure of 800ᵒC
+
+
+----- TABLE p24#1 -----
+
+Sl.No. | NaOH
+Concentration | Percentage
+of Al O
+2 3 | Actual
+mass (kg) | Change in
+mass (kg) | Residual
+strength
+(MPa)
+1 | 12M | - | 2.39 | 2.27 | 20.19
+2 |  | 1% | 2.39 | 2.30 | 24.30
+3 |  | 2% | 2.45 | 2.36 | 26.89
+4 | 14M | - | 2.48 | 2.40 | 21.90
+5 |  | 1% | 2.45 | 2.36 | 23.04
+6 |  | 2% | 2.46 | 2.38 | 21.01
+50
+45 44.34
+40 37.83 (MPa)
+35.57 36.97
+35 33.42
+Strength
+30 26.89 28.55
+24.30
+25 21.90 23.04
+20.19 21.01
+20
+Residual
+15
+10
+5
+0
+12M- 12M- With 12M- With 14M- 14M- With 14M- With
+Without 1% 2% Without 1% 2%
+Percentage of Al O
+2 3
+Fig.: 5.21 Residual strength - after exposure of 800ᵒC
+The residual strength and change in mass were drawn, according to table 5.10. Th |  |  |  |  | 
+
+----- TABLE p24#2 -----
+
+ | 
+ | 
+
+----- TABLE p24#3 -----
+
+ | 
+ | 
+
+----- TABLE p24#4 -----
+
+ | 
+ | 
+
+----- TABLE p24#5 -----
+
+ | 
+ | 
+
+----- TABLE p24#6 -----
+
+ | 
+ | 
+
+----- TABLE p24#7 -----
+
+ | 
+ | 
+
+===== PAGE 25 =====
+
+ 
+ 
+active upto 200 ᵒC and yields the high strength referred in previous research work. The 
+visual observation of after exposure at 200 ᵒC remains no cracks. 
+Table 5.11 indicates that the residual strength and change in mass were taken into 
+consideration. The weight of the specimen decreases from 2 to 7% of the actual mass. 
+Then the residual strength is higher than the actual compressive strength. But the rate of 
+increasing is decreased compared to 200 ᵒC exposures. When the combination of 12M-
+2% of Al2O3 is gives the optimum value shown in fig.: 5.19. The visual observation of 
+after exposure at 400 ᵒC remains no cracks are obtained. 
+The residual strength and change in mass were extracted from table 5.12. The 
+weight of the specimen decreases from 5 to 10% of the actual mass. The residual strength 
+is decreased because of dehydroxylation and it obtains minimal shrinkage. This 12M-2% 
+Al2O3 yields satisfactory results. And compared to actual compressive strength, residual 
+strength from 14M-2% Al2O3 is higher. 12M and 14M were visually observed to have 
+surface edge hair line cracks following exposure to 600 ᵒC. 
+The residual strength and change in mass were taken from table 5.13. The weight 
+decreases 8 to 15% from the actual mass. The residual strength is decreased and rate of 
+decreasing is high compared to 600 ᵒC exposure specimen. The 12M and 14M specimens 
+are densed by vitreous sintering compared to % Al2O3 of specimens. The visual 
+observation of after exposure at 800 ᵒC, 12M and 14M having hair line cracks occurred 
+in surface and 2% of Al2O3 occurs crack in corners shown in fig 5.22. 
+ 
+ 
+ 
+ 
+ 
+ 
+Fig: 5.22 After exposure of heat 
+ 
+
+
+===== PAGE 26 =====
+
+ 
+ 
+6. CONCLUSIONS 
+• The experimental results demonstrated that utilising rice husk ash and 
+aluminium oxide, it is feasible to produce geopolymer concrete with 
+significant strength and durability. 
+• The compressive strength increased as NaOH concentration raised. 
+• For the corresponding in 12 molarity and percentage of adding aluminium 
+oxide, the strength increase varied from 5 to 10%. 
+• When aluminium oxide was added to Rice husk ash-based TRGPC, the 
+mechanical qualities showed promise when compared to mixes with 14 
+molar concentration. 
+• Lower water absorption is the result of silicate and aluminium oxide filling 
+the gaps between the rice husk ash particles. As the proportion of Al2O3 
+increased at 12M, the water absorption dropped linearly. 
+• According to the durability experiments, specimens with a 12M-2% Al2O3 
+content demonstrated good resistance to acid and sulphate assault since 
+their weight and strength losses were lower than those of the other 
+specimens. 
+• Compared to the actual compressive strength of oven curing, rice husk ash-
+based geopolymer concrete experiences a high strength during its early 
+heating period (up to 200oC). Compared to other specimens, the residual 
+strength in the 12M-2% Al2O3 exhibited high results. 
+• The unreacted crystalline components of geopolymer concrete are 
+converted to an amorphous state and go through polymerization at an 
+exposure temperature of 600 °C. As a result, the strength loss in 
+geopolymer is marginally reduced.Up to 600 °C, the geopolymer concrete 
+showed no discernible cracks, and at an exposure temperature of 800 °C, 
+only small fissures appeared. 
+
+
+===== PAGE 27 =====
+
+ 
+ 
+•  The experimental research leads to the conclusion that, out of six mixtures, 
+12M-1% and 12M-2% of Al2O3 are the best. 
+ENVIRONMENTAL APPLICATION: 
+➢ In view of the environmental degradation caused by the cement industry, an 
+attempt has been made in this work to develop geopolymer concrete using Rice 
+husk ash which is industrial by product as replacement for cement, and to assess 
+their strength and durability properties. 
+➢ In spite of enhancing the thermal resistant property by adding an aluminum 
+oxide was used. Since aluminum oxide has high melting point. It induces a better 
+performance geopolymer concrete base pad. 
+➢ The amorphous inorganic structure of the geopolymers lends itself to good 
+thermal resistance which leads to potential applications as thermal insulation in 
+industrial, military, molten mineral processing, Food processing units, Oven bases, 
+chimney and domestic sectors. 
+Scope for further research 
+The paper has dealt with the experimental investigation on thermal resistant 
+geopolymer concrete with aluminium oxide. The following suggestions are given for 
+further research in thermal resistant geopolymer concrete: 
+• Further work shall be done by varying the NaOH concentration from 6M to 
+16M and also varying the temperature for conducting thermal test. 
+• Various agricultural and industrialwastes by products can be used instead of 
+Rice husk ash. 
+• Increase the percentage of Al2O3 for increase the thermal resistance and 
+different chemicals having high melting point shall be used. 
+• Study will be extended to evaluate the permeability, durability and thermal 
+properties like laser flash diffusivity, transient hot wire test etc., after 
+exposure of heat. 
+ 
+ 
+
+
+===== PAGE 28 =====
+
+ 
+ 
+ 
+REFERENCES 
+ 
+1. Case 
+study 
+RattaponSomna, 
+TeeraponSaowapun, 
+KiatsudaSomna 
+, 
+PrinyaChindaprasirt, “Rice husk ash and fly ash geopolymer hollow block based 
+on NaOH activated”, Case Studies in Construction Materials,1-12, 16 (2022) 
+e01092  
+2. E.P. Ayswarya, Ajalesh B. Nair, Eby Thomas Thachil, “A comparative study of 
+mechanical, dynamic mechanical and thermal properties of rice husk ash, modified 
+rice husk ash and nano silica filled epoxy composites”, Materials Today: 
+Proceedings, 1-7 (2021) 
+3. Hafez E. Elyamany, AbdElmoaty M. AbdElmoaty, Ahmed M. Elshaboury, 
+“Setting time and 7-day strength of geopolymer mortar with various binders”, 
+Construction and Building Materials, 187 (2018) 974–983.  
+4. M. Albitar, M.S. Mohamed Ali, P. Visintin, M. Drechsler, “Durability evaluation 
+of geopolymer and conventional concretes”, Construction and Building Materials, 
+136 (2017) 374–385  
+5. Hafez E. Elyamany, AbdElmoaty M. AbdElmoaty, Ahmed M. Elshaboury, 
+“Magnesium sulfate resistance of geopolymer mortar”, Construction and Building 
+Materials,  184 (2018) 111–127  
+6. F FZainal, S F M Amli, K Hussin, A Rahmat and M M A B Abdullah, “Corrosion 
+Studies of Fly Ash and Fly Ash-Slag Based Geopolymer”,  Materials Science and 
+Engineering, 209 (2017) 012026 
+7. B. Sri Umniati, PuputRisdanareni, FahmiTarmiziZulfikarZein, “Workability 
+Enhancement of Geopolymer Concrete through the use of retarder”,AIP 
+Conference Proceedings, 1887, 020033 (2017) 
+8. ThangarajSathanandam, 
+Paul 
+O. 
+Awoyera, 
+VenkudusamyVijayan, 
+KarupannanSathishkumar, “Low carbon building: Experimental insight on the use 
+
+
+===== PAGE 29 =====
+
+ 
+ 
+of fly ash and glass fibre for making geopolymer concrete”, Sustainable 
+Environment Research, 27 (2017) 146e153 
+9. Dr. Kookutla Ramesh, “An experimental study on effect of aluminum oxide on 
+strength and corrosion resistance of concrete”,  International Journal of 
+Engineering Research & Technology,  ISSN: 2278-0181,Vol. 3 Issue 11, 
+November-2014 
+10. AdhityaLeonard Wijaya, JanuartiJaya Ekaputri, and Triwulan, “Factors 
+influencing strength and setting time of fly ash based-geopolymer paste”, MATEC 
+Web of Conferences 138, 01010 (2017) 
+11. Sakkas, K., Kapelari, S., Panias, D., Nomikos, P. and Sofianos, A., “Fire Resistant 
+K-Based MetakaolinGeopolymer for Passive Fire Protection of Concrete Tunnel 
+Linings”,Open Access Library Journal, (2014)1: e806 
+12. S.K.Saxenaa, Mukesh Kumar and N.B.Singha, “Fire Resistant Properties of 
+Alumino Silicate Geopolymer cement Mortars”, Elsevier-Materials Today: 
+Proceedings 4 (2017) 5605–5612 
+13. P Jaishankar and C Karthikeyan, “Characteristics of Cement Concrete with Nano 
+Alumina Particles”, IOP Conf. Ser.: Earth Environ. Sci., (2017)80012005  
+14. David W. Law, Andi Arham Adam, Thomas K. Molyneaux, Indubhushan 
+Patnaikuni, Arie Wardhono, “Long term durability properties of class F fly ash 
+geopolymer concrete”, Materials and Structures (2015) 48:721–731 
+15. SalmabanuLuhar, SandeepChaudhary, Ismail Luhar, “Thermal resistance of fly 
+ash based rubberized geopolymer concrete”, Journal of Building Engineering, 
+(2018)S2352-7102,30084-6 
+16. G. MallikarjunaRao, and T. D. GunneswaraRao, “Final Setting Time and 
+Compressive Strength of Fly Ash and GGBS-Based Geopolymer Paste and 
+Mortar”, Springer Arab J SciEng (2015) 40:3067–3074 
+17. C. Montes, D.Allgood, E. Allouche and R.Islam, I.Tham, “Evaluation of 
+geopolymer concrete for repair of rocket test facility flame deflectors”, 
+taylor&francis group, (2014) ISBN 978-1-138-02708-4 
+
+
+===== PAGE 30 =====
+
+ 
+ 
+18. Ali Nazari and ShadiRiahi, “The effect of aluminium oxide nanoparticles on the 
+compressive strength and structure of self-compacting concrete”, Magazine of 
+Concrete Research, (2012), 64(1), 71–82 
+19. DjwantoroHardjito, 
+Steenie 
+E. 
+Wallah, 
+Dody 
+M. 
+J. 
+Sumajouw, 
+and 
+B.VijayaRangan , “On the development of fly ash-based geopolymer concrete, 
+(2004) 01-M52 ACI Materials Journal  
+20. M. Babaee and A. Castel, “Chloride-induced corrosion of reinforcement in low-
+calcium fly ash-based geopolymer concrete”, Cement and Concrete Research, 88 
+(2016) 96–107  
+21. William D. A. Rickard and Arie van Riessen, Philip walls, “Thermal Character of 
+Geopolymers Synthesized from Class F Fly Ash Containing High Concentrations 
+of Iron and a-Quartz”, Int. J. Appl. Ceram. Technol., (2010)7 [1] 81–88  
+22. Faiz U.A. Shaikh , “Effects of alkali solutions on corrosion durability of 
+geopolymer concrete”, Advances in Concrete Construction, (2014),Vol. 2, No. 
+2,109-123 
+23. Alida Abdullah, Mohd Mustafa Al Bakri Abdullah, KamarudinHussin and 
+Muhammad FaheemMohdTahir, “ Effect of different sintering temperature on fly 
+ash Based geopolymer artificial aggregate”, AIP Conference Proceedings, 
+(2017),1835, 020050  
+24. Prakash R. Voraa , Urmil V. Daveb, “Parametric Studies on Compressive Strength 
+of Geopolymer Concrete”, Elsevier Procedia Engineering ( 2013 ) 51,210 – 219 
+25. Bo Wun, Wei Xiong, Bo Wen, “Thermal fields of cracked concrete members in 
+fire”, Fire Safety Journal, (2014)66,15–24. 
+26.  Senthil Rajan Murugesan, Vivek Sivakumar, Mukesh Panneerselvam. 2022, 
+Biosorption of Malachite Green from Aqueous Phase by Tamarind Fruit Shells 
+Using 
+FBR, 
+Advances 
+in 
+Materials 
+Science 
+and 
+Engineering. 
+https://doi.org/10.1155/2022/8565524 
+27. M. C. Sashikkumar, K. Raja, Senthil Kumaran Selvaraj, A. John Rajan 2022, 
+Performance of Polyvinyl Alcohol and Polypropylene Fibers under Simulated 
+
+
+===== PAGE 31 =====
+
+ 
+ 
+Cementitious 
+Composites 
+Pore 
+Solution, 
+Vol. 
+2022: 
+9669803   
+https://doi.org/10.1155/2022 
+28. R. Vignesh S. Vivek,V. Priya,K. Thanukrishna 2020 Experimental Investigation 
+on Bricks by Using Cow Dung, Rice Husk, Egg Shell Powder as a Partial 
+Replacement for Fly Ash Vol.9 https://doi.org/10.51983/tarce-2020.9.2.2556 
+ 
+ 
+ 

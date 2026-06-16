@@ -1,0 +1,1081 @@
+
+===== PAGE 1 =====
+
+Utilization of agricultural waste-based fillers from rice husk ash 
+and bagasse ash in asphalt concrete-binder course (AC-BC) 
+pavement 
+Liftasya Pratiwi1, Elsa Eka Putri2*, Andriani Andriani2, Bayu Martanto Adji2, and Lillian Gungat3 
+1Ph. D Student of the Civil Engineering Department, Faculty of Engineering, Universitas Andalas, Indonesia 
+2Civil Engineering Department, Faculty of Engineering, Universitas Andalas, Indonesia 
+3Civil Engineering Department, Faculty of Engineering, University Malaysia Sabah, Malaysia 
+Abstract. The increasing emphasis on sustainable infrastructure has prompted the utilization of alternative 
+and eco-friendly materials in pavement construction. This study investigates the potential use of rice husk 
+ash (RHA) and Bagasse ash (BA), both agricultural waste by-products, as alternative fillers in Asphalt 
+Concrete–Binder Course (AC-BC) mixtures. A quantitative experimental approach was used, involving 
+laboratory tests on aggregates, asphalt, and fillers, followed by Marshall testing. Filler contents of 0%, 2%, 
+4%, 6%, and 8% were evaluated for stability, flow, void in mix (VIM), voids in mineral aggregate (VMA), 
+voids filled with bitumen (VFB), and Marshall Quotient (MQ). The optimum asphalt content was 6.65%. 
+Results showed that BA improved the mixtures mechanical properties, especially at 4% filler, achieves the 
+highest stability and MQ. RHA performed well at lower levels, but excessive use increased stiffness and 
+risk of cracking. Both fillers meet Indonesian National Standard (SNI) specifications, proving their technical 
+feasibility. Furthermore, their application contributes to waste reduction and environmental sustainability 
+by recycling biomass waste into valuable construction materials. This research confirms that RHA and BA 
+are promising eco-friendly alternatives to conventional mineral fillers, aligning with sustainable 
+infrastructure goals without compromising the structural integrity of pavement layers. 
+1 Introduction 
+Road pavements in tropical climates are vulnerable to 
+early failure because of high surface temperatures, 
+frequent heavy rainfall, and substantial traffic loading.  
+Previous studies have shown that elevated temperatures 
+combined with heavy loads to intensify rutting, while 
+moisture and rainfall accelerate the decline in pavement 
+performance and service life [1]. 
+Asphalt mixtures require reinforcement through 
+additives mixed into the asphalt to modify its properties, 
+preventing brittleness at low temperatures and reducing 
+the risk of cracking [2]. Moreover, modification also aims 
+to introduce new characteristics to asphalt and to improve 
+its stability and strength. 
+In road pavement mixtures, the materials used 
+typically consist of asphalt, fine aggregates, coarse 
+aggregates, and filler. Fillers are materials used to fill the 
+voids between fine and coarse aggregates and can be 
+derived from natural or manufactured crushed rock. 
+Examples of fillers that can be used include agricultural 
+by products including rice husk ash and bagasse ash [3, 
+4]. 
+The transition toward sustainable infrastructure has 
+become a global concern, including in Indonesia, 
+especially as flexible pavements are considered more 
+efficient in their application. The commonly used fillers 
+ 
+* Corresponding author: elsaeka@eng.unand.ac.id 
+are Portland cement or stone dust. As environmental 
+awareness increases, along with the growing volume of 
+agricultural and industrial waste, there is now a growing 
+push to find alternative biomass-based fillers that are 
+more environmentally friendly and sustainable. 
+Moreover, the shift toward sustainable construction 
+materials is also driven by the need to mitigate 
+environmental 
+degradation 
+caused 
+by 
+excessive 
+extraction of natural resources. Agricultural wastes 
+materials, specifically RHA and BA, offer not only 
+environmental benefits but also potential improvements in 
+mechanical performance when used as fillers in asphalt 
+mixes. 
+Utilizing agricultural waste, such as rice husk ash and 
+bagasse ash, offers a sustainable approach to producing 
+environmentally friendly fillers. Rice husk ash contains a 
+high pozzolanic material, which enhances rutting and 
+moisture resistance , making it suitable for increasing the 
+durability of pavement layers and resisting damage from 
+water [5]. Additionally, Bagasse ash contain significant 
+pozzolanic components, particularly silica (SiO2) which 
+contribute to improved resistance against sulfate and 
+sulfuric acid attacks, chloride ion ingress, and alkali silica 
+reaction (SAR) [6]. 
+The high silica content and angular morphology of 
+RHA contribute to increased Marshall stability at 6-8% 
+filler levels by enhancing binder interaction and mixture 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+  
+ 
+© The Authors, published by EDP Sciences. This is an open access article distributed under the terms of the Creative Commons Attribution License 4.0
+ (http ://creativecommons.org/licenses/by/4.0/). 
+s
+
+
+===== PAGE 2 =====
+
+stiffness [7]. Its pozzolanic reactivity further strengthens 
+cohesion and resistance to deformation. Similarly, BA 
+improves asphalt stability through its angular surface 
+texture and silica presence [8]. The performance of BA is 
+influenced by particle fineness and carbon content, finely 
+ground, low carbon BA optimized packing density and 
+binder bonding, whereas coarser or carbon-rich BA 
+diminishes mixture uniformity [9]. 
+At 6-8% content, RHA’s fine particle size and high 
+silica effectively lower both flow and VFB [10]. Its 
+angular and porous structure facilitates mechanical 
+interlock with aggregates, improving load transfer and 
+minimizing air voids. BA can also reduce void content 
+when processed to a fine size and with minimal residual 
+carbon. Well-prepared BA increases mix density and 
+decreases permeability. 
+Previous studies have demonstrated the utilization of 
+agricultural waste materials such as Rice Hush Ash and 
+Bagasse Ash (BA) as fillers in pavement mixtures. For 
+RHA, several investigations have reported the use of filler 
+contents around 6.5%, 7.0%, and 7.5% [11]. Meanwhile, 
+BA has generally been applied at levels of 4%, 5.5%, and 
+6.5% [12] and even up to 8% [13]. Overall, the filler 
+content commonly used in previous research ranges from 
+0-8%, with optimal performance frequently observed 
+between 4% and 6%. Based on these findings, this study 
+employs filler variations of 0%,2%,4%,6% and 8% to 
+represent both the lower and upper boundaries of the 
+commonly reported range. 
+One of the commonly used types of pavements is 
+Asphalt Concrete (AC), particularly AC-BC (Asphalt 
+Concrete – Bearing Course). This type of asphalt concrete 
+is more resistant to plastic deformation and less prone to 
+cracking. 
+Indonesia's large agricultural sector produces a 
+significant amount of waste. Therefore, this research 
+seeks to utilize agricultural waste that was previously 
+considered useless into something valuable. RHA and BA 
+both agricultural waste products, are implemented as filler 
+substances in asphalt pavement formulations in this 
+examination. The primary objective involves assessing 
+the influence of utilizing these agricultural residues as 
+filler components. This application of agricultural waste-
+based fillers is an effort to support environmentally 
+friendly filler material utilization [14]. 
+2 Materials and methods  
+This research employs a quantitative methodology 
+involving experimental procedures on multiple test 
+samples to achieve target material compositions via 
+laboratory examinations compliant with Indonesian 
+National Standards. The methodology consists of several 
+main stages, including material testing, mix design 
+without filler, mixture development incorporating Rice 
+Husk Ash (RHA) and sugarcane Bagasse Ash (BA) 
+fillers, and determination of the optimal composition for 
+each mixture variation. 
+2.1 Material 
+The materials used include coarse and fine aggregates 
+combined with a filler and mixed with 60/70 penetration 
+grade asphalt. The filler variations using RHA and BA are 
+added at 0%, 2%, 4%, 6%, and 8% of the total weight 
+(passing 
+#200 
+sieve 
+aggregate). 
+The 
+chemical 
+composition of both ashes plays a pivotal role in 
+determining their behavior in asphalt mixtures. RHA is 
+known for its high SiO2 content, while BA contains more 
+CaO and MgO, contributing to better binding reactivity  
+[14, 15]. Figure 1 and Figure 2. Illustrate the fillers (RHA 
+and BA) used as particle replacements in the binder. 
+ 
+Fig. 1. Rice husk ash  
+ 
+Fig. 2. Bagasse ash 
+The filler materials investigated in this research, 
+specifically rice husk ash and bagasse ash are depicted in 
+figures 1 and 2 representing the laboratory testing 
+components utilized in the experimental program. 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+2
+
+
+===== PAGE 3 =====
+
+2.2 Mix design 
+The mixture formulation was established through the 
+Marshall method protocols to identify the Optimum 
+Asphalt Content (OAC). Upon determining the OAC, 
+Marshall testing was conducted by integrating rice husk 
+ash and bagasse ash as filler additives into the composite 
+matrix. Assessment criteria encompassed stability, flow, 
+voids filled with bitumen, Void In mix     and mineral 
+aggregate. Aggregate gradation adhesion to asphalt 
+concrete Binder Course requirement specified in Bina 
+Marga specification (2018). 
+Aggregate gradation adhered to asphalt specified is 
+carried out using a series of Marshall method procedures 
+to determine the Optimum Asphalt Content (OAC). After 
+obtaining the OAC, Marshall tests are performed by 
+adding rice husk ash and sugarcane bagasse ash fillers to 
+the material composition. The parameters analyzed 
+include Stability, Flow, Voids in Mix (VIM), Voids Filled 
+with Bitumen (VFB), and Voids in Mineral Aggregate 
+(VMA). The aggregate proportions are determined 
+according to the Asphalt Concrete - Binder Course (AC-
+BC) gradation based on the Bina Marga Specification 
+(2018 Revision 2). 
+2.3 Testing procedure 
+The testing procedure consists of three main stages, 
+including: 
+2.3.1 Aggregate and filler testing 
+Aggregate assessments were performed to evaluate the 
+suitability of aggregates for use in pavement mix 
+materials. The tests are carried out by the procedures and 
+provisions 
+of 
+the 
+2018 
+Bina 
+Marga 
+General 
+Specifications, Revision 2. The tests include: 
+a. 
+Sieve analysis 
+b. 
+Coarse aggregate specific gravity and water 
+absorption 
+c. 
+Fine aggregate specific gravity and water absorption 
+d. 
+Los Angeles Abrasion Test 
+2.3.2. Asphalt testing 
+Asphalt testing is conducted to ensure the asphalt used in 
+the mix meets the specified standards. The tests include: 
+a. 
+Penetration test of rubber-modified asphalt 
+b. 
+Flash point and fire point test using the Cleveland 
+Open Cup method 
+c. 
+Ductility test of rubber-modified asphalt 
+d. 
+Specific gravity test of hard asphalt 
+e. 
+Softening point test 
+f. 
+Asphalt adhesion test 
+g. 
+Loss on heating test 
+2.3.3 Marshall testing 
+Marshall testing is performed after obtaining the 
+Theoretical Asphalt Content (TAC). The values obtained 
+from the Marshall test are recorded in the Marshall table 
+to determine the Optimum Asphalt Content (OAC). The 
+OAC is determined by varying the asphalt content, 
+plotting the results in typical graphs, identifying the 
+asphalt content that meets the specifications, and 
+calculating the average value from the most frequently 
+compliant data across each typical graph. The standard 
+Marshall test uses 15 specimens with 5 different asphalt 
+content levels. For the durability Marshall test, 12 
+specimens are used with 4 different soaking durations. 
+Immersion in a 60 ˚C water bath for 30 minutes consistent 
+with AASHTO T245 standard, simulating typical tropical 
+field conditions and evaluating the mix’s resistance to 
+thermal degradation. 
+3 Result and discussion  
+Based on the laboratory test results, the physical and 
+technical characteristics of each asphalt concrete mix 
+material namely aggregate, asphalt, and filler were 
+obtained. These tests evaluated the physical and 
+mechanical properties of AC-BC mix materials. The 
+results serve as the basis for evaluating the suitability of 
+each material. The materials tested in the laboratory 
+include aggregates, asphalt, and filler. 
+3.1 Aggregates and filler 
+The test results for aggregates and filler were obtained 
+from laboratory testing procedures conducted by 
+Indonesian National Standards (SNI). A summary of the 
+physical characteristics of the aggregates is presented in 
+the following Table 1. 
+Based on Table 1, it can be observed that all aggregate 
+testing parameters meet the applicable Indonesian 
+National Standards. The specific gravity and absorption 
+values of the aggregates indicate suitable density and 
+characteristics for use in flexible pavement structures. In 
+addition, the results of the coarse aggregate strength and 
+abrasion resistance tests demonstrate good performance 
+under traffic loads. Filler testing was carried out to 
+identify the fundamental properties of rice husk ash and 
+sugarcane bagasse ash before their application in the 
+Marshall mix. 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+3
+
+
+===== PAGE 4 =====
+
+Table  1.  Physical properties of aggregates. 
+No. 
+Test 
+Unit 
+Result 
+Standard Reference 
+Specification 
+Remarks 
+A. 
+Fine Aggregate 
+1 
+Bulk Specific Gravity 
+- 
+2.57 
+SNI 1970: 2008 
+2.5-2.7 
+Meets 
+2 
+Apparent Specific Gravity 
+- 
+2.74 
+SNI 1970: 2008 
+- 
+Meets 
+3 
+SSD Specific Gravity 
+- 
+2.61 
+SNI 1970: 2008 
+2.5-2.7 
+Meets 
+4 
+Water Absorption 
+% 
+2.84 
+SNI 1970: 2008 
+≤ 3 
+Meets 
+B. 
+Coarse Aggregate 
+1 
+Bulk Specific Gravity 
+- 
+2.51 
+SNI 1969: 2016 
+2.4-2.8 
+Meets 
+2 
+Apparent Specific Gravity 
+- 
+2.61 
+SNI 1969: 2016 
+- 
+Meets 
+3 
+SSD Specific Gravity 
+- 
+2.55 
+SNI 1969: 2016 
+2.4-2.8 
+Meets 
+4 
+Water Absorption 
+% 
+1.49 
+SNI 1969: 2016 
+≤ 3 
+Meets 
+5 
+Asphalt-Aggregate Adhesion 
+% 
+97 
+SNI 2439: 2011 
+> 95 
+Meets 
+6 
+Aggregate Impact Value 
+ 
+15.79 
+BS:182 Part 112:1990 
+≤ 30 
+Meets 
+7 
+Los Angeles Abrasion Test 
+% 
+22.73 
+SNI 2479: 2008 
+≤ 40 
+Meets 
+C 
+Filler 
+1 
+Rice Husk Ash 
+- 
+2.26 
+SNI: 03-4145-1996 
+2,25-2,27 
+Meets 
+2 
+Bagasse Ash (BA) 
+- 
+2,39 
+SNI: 03-4145-1996 
+2,25-2,27 
+Meets 
+Table  2. Physical properties of asphalt 
+No 
+Test 
+Unit 
+Result 
+Standard Reference 
+Unit 
+1 
+Penetration 
+0.1 mm 
+68.33 
+SNI 2456: 2011 
+≥ 48 
+2 
+Softening Point 
+˚C 
+53 
+SNI 2434: 2011 
+≥ 52˚C 
+3 
+Flash Point 
+˚C 
+281 
+SNI 2433-2011 
+≥232 
+4 
+Ductility 
+cm 
+> 100 
+SNI 2432: 2011 
+≥ 100 
+5 
+Asphalt Adhesion to 
+Aggregate 
+% 
+96 
+SNI 2434: 2011 
+≥ 90 
+6 
+Loss on Heating 
+% 
+0.19 
+SNI-06-2440-1991 
+≤ 0,8% 
+7 
+Specific Gravity 
+- 
+1.02 
+SNI 2441: 2011 
+> 1 
+As shown in Table 2, based on the laboratory test 
+results of the asphalt material, the result show that all 
+physical parameters—such as penetration (68.3 mm), 
+softening point (53°C), flash point (231°C), ductility 
+(>100 cm), adhesion to aggregate (96%), loss on heating 
+(0.06%), 
+and 
+specific 
+gravity 
+(1.02)—meet 
+the 
+requirements of the Indonesian National Standard (SNI). 
+These results indicate that the asphalt used is of good 
+quality, stable under temperature variations, elastic, and 
+capable of forming a strong bond with aggregates, making 
+it suitable for application in Asphalt Concrete–Binder 
+Course (AC-BC) mixtures. 
+3.2 AC-BC mixture composition 
+After the material characteristics were identified, the next 
+step was to determine the composition of the Asphalt 
+Concrete–Binder Course (AC-BC) mixture based on the 
+proportion of aggregate, asphalt, and filler. The 
+composition was arranged to meet the graduation and 
+design requirements for flexible pavement mixtures. The 
+AC-BC mixture composition with the addition of rice 
+husk ash and bagasse ash filler was derived from the 
+Optimum Asphalt Content (OAC) of the standard asphalt 
+mixture. The resulting OAC values are presented in Fig. 
+3. 
+ 
+Fig.  3. Optimum asphalt content graph 
+Figure 3. illustrates the determination graph of the 
+Optimum Asphalt Content (OAC) based on Marshall 
+parameters, such as stability, flow, voids filled with 
+bitumen (VFB), voids in mineral aggregate (VMA), and 
+the Marshall Quotient (MQ). Each horizontal line 
+represents the range of asphalt content percentages in the 
+mixture that meets the technical specifications for each 
+parameter. The graph shows that most of the Marshall 
+parameters fall within the asphalt content range of 6.5% 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+4
+
+
+===== PAGE 5 =====
+
+to 7.3%. The optimum point is indicated by a vertical 
+dashed line at 6.65% asphalt content, which is selected as 
+the OAC. This value is chosen because it offers the best 
+overall performance while meeting all the specifications 
+based on Bina Marga standards. Therefore, an asphalt 
+content of 6.65% is established as the optimum value in 
+this AC-BC mixture design. 
+From the OAC value shown in Fig. 3, the asphalt 
+mixture composition for the Marshall test with filler 
+addition can be determined. The detailed composition of 
+the asphalt mixtures is presented in Table 3. 
+Table 3 shows the AC-BC mix composition with fixed 
+asphalt content (6.65%) and filler variations from 0% to 
+8%. The total aggregate weight remains constant at 
+1120.20 g, consisting of course, medium, and fine 
+fractions. As fillers increase, fine aggregate decreases to 
+maintain total weight. This data supports the analysis of 
+filler effects on mix performance in the Marshall test.
+Table  3. Mix composition of asphalt 
+Filler % 
+0 
+2 
+4 
+6 
+8 
+Asphalt % 
+6.65 
+6.65 
+6.65 
+6.65 
+6.65 
+Asphalt weight (g) 
+79.80 
+79.80 
+79.80 
+79.80 
+79.80 
+Aggregate weight (gr) 
+1120.20 
+1120.20 
+1120.20 
+1120.20 
+1120.20 
+Coarse Aggregate weight (g) 
+224.04 
+224.04 
+224.04 
+224.04 
+224.04 
+Medium Aggregate weight (g) 
+582.50 
+582.50 
+582.50 
+582.50 
+582.50 
+Fine Aggregate weight (g) 
+313.66 
+291.26 
+268.85 
+246.45 
+224.04 
+Filler weight (g) 
+0.00 
+22.40 
+44.81 
+67.21 
+89.62 
+3.3 Marshall test results with the addition of filler  
+The Marshall test was conducted to evaluate the 
+performance of the AC-BC mixture based on stability, 
+flow, and void content parameters. This test serves as the 
+main stage in assessing the effect of using rice husk ash 
+and sugarcane bagasse ash as fillers on the characteristics 
+of the asphalt mixture. The Marshall test results for the 
+mixtures containing rice husk ash and sugarcane bagasse 
+ash are presented in Table 4. 
+Table  4 Result of the marshall test with the addition of fillers 
+No. 
+Filler Content 
+Specification 
+Stability (Kg) 
+Flow (mm) 
+VIM (%) 
+VMA (%) 
+VFB (%) 
+MQ (Kg/mm) 
+ 
+Unit 
+≥800 
+2-4 
+3.0-5.0 
+≥14 
+≥65 
+≥250 
+A 
+Rice Husk Ash 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+0% 
+1795.48 
+3.42 
+2.34 
+17.27 
+82.12 
+525.51 
+2 
+2% 
+1223.13 
+2.89 
+1.92 
+16.38 
+87.62 
+423.72 
+3 
+4% 
+1114.08 
+0.91 
+6.52 
+19.34 
+72.09 
+1228.77 
+4 
+6% 
+1009.40 
+2.95 
+7.19 
+20.15 
+68.63 
+341.78 
+5 
+8% 
+1039.22 
+1.72 
+6.77 
+19.45 
+72.19 
+605.37 
+B 
+Bagasse Ash 
+1 
+0% 
+1341.66 
+5.63 
+2.69 
+17.10 
+84.86 
+250.31 
+2 
+2% 
+2527.19 
+6.20 
+0.88 
+15.57 
+94.36 
+412.55 
+3 
+4% 
+3453.42 
+4.83 
+2.99 
+17.36 
+82.97 
+715.30 
+4 
+6% 
+2739.72 
+5.03 
+5.77 
+19.74 
+70.82 
+545.13 
+5 
+8% 
+2783.19 
+5.20 
+5.67 
+19.64 
+71.30 
+536.89 
+The explanation of Table 4 will be described in detail 
+as follows: 
+3.3.1 Stability 
+Stability refers to the asphalt mixture's ability to withstand 
+traffic loads without undergoing deformation. 
+• 
+Rice Husk Ash (RHA): The highest stability was 
+observed at 0% filler content (1795.48 kg) and 
+continued to decrease as the filler content increased, 
+indicating that the addition of RHA reduces the 
+mixture’s load-bearing capacity. Thus, as shown in 
+the figure, Bagasse Ash increases plasticity but may 
+lead to bleeding. RHA, on the other hand, tends to 
+result in an overly stiff mixture. 
+• 
+Bagasse Ash (BA): Shows a significant increase in 
+stability with increasing filler content, peaking at 4% 
+(3453.42 kg), indicating that BA enhances the 
+structural strength of the mixture. 
+Thus, as seen in Fig. 4, all filler contents meet the 
+specification. The highest value is at 0% (1795.48 kg) and 
+decreases significantly up to 6% (1009.40 kg). Then 
+slightly increases to 8%. This indicates that increasing 
+RHA content generally reduces the mixture’s load-
+bearing capacity. BA all filler contents meet the 
+specification, with the highest value at 4% (3453.42 kg). 
+The increase from 0% to 4% shows a positive effect of 
+BA on structural strength, followed by a slight decline at 
+higher contents, but still above the standard. 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+5
+
+
+===== PAGE 6 =====
+
+ 
+Fig. 4. Stability vs filler content. 
+3.3.2 Flow 
+Flow indicates the extent to which the mixture can 
+undergo plastic deformation before failure. The ideal 
+value typically ranges between 2 and 4 mm. 
+• 
+RHA: Flow values vary, but drop significantly at 4% 
+filler content (0.91 mm), indicating that the mixture 
+is too stiff and prone to cracking. 
+• 
+BA: Flow values are very high at all filler levels 
+(5.03–6.20 mm), indicating that the mixture is too 
+soft and at risk of permanent deformation. 
+ 
+Fig.  5. Flow vs filler content 
+Thus, as shown in Fig. 5, RHA meets the specification 
+at 0%,2% and 6%, but is too low at 4% (0.91 mm) and 8% 
+(1.72 mm). Low values indicate a higher risk of 
+brittleness. BA all values exceed the specification range 
+(5.03-6.20 mm), indicating high flexibility but with a 
+greater potential for permanent deformation (rutting) 
+under heavy traffic.  
+3.3.3 Void in mix (VIM) 
+VIM indicates the percentage of air voids within the 
+mixture. The ideal value is around 3–5%. Rice Husk Ash 
+(RHA): VIM values increased drastically at 4–8% filler 
+content (>6%), indicating that the mixture became too 
+porous. 
+Accordingly, as shown in Fig. 6, RHA only at 2% 
+(1.92%) and 3% filler content does the VIM fall within 
+the asphalt content range, while the other filler contents 
+exceed the upper limit, posing a bleeding risk. At 6% and 
+8%, values are far below the lower limit, indicating excess 
+voids. 
+ 
+Fig.  6 VIM vs filler content 
+3.3.4 Void in mineral aggregate (VMA) 
+RHA and BA: Both fillers show VMA values that meet 
+the specifications, although BA has slightly lower values 
+at the beginning (15.57% at 20%). Interpretation: Both 
+fillers maintain the inter-aggregate volume within a safe 
+range. 
+ 
+Fig.  7 VMA vs filler content 
+Thus, as shown in Fig. 7, all values of RHA and BA 
+meet the specification. RHA generally produces slightly 
+higher VMA than BA, meaning there is sufficient space 
+for asphalt film coating around the aggregate particles. 
+3.3.5 Void filled with bitumen (VFB) 
+VFB is the percentage of VMA filled with asphalt.  
+• 
+RHA: VFB values decrease with increasing filler 
+content but remain within specification limits. 
+• 
+BA: VFB values tend to be high (>84%), indicating 
+a potential for bleeding, especially at lower filler 
+contents. 
+ 
+Fig.  8. VFB vs filler content. 
+Thus, as seen in Fig. 8, both BA and RHA mixtures 
+met the VFB specification, as all values exceeded the 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+6
+
+
+===== PAGE 7 =====
+
+lower limit of 65%, indicating that the voids were 
+sufficiently filled with asphalt to ensure proper coating 
+and binding. 
+3.3.6 Marshall quotient 
+Rice Husk Ash (RHA) significantly increases the 
+stiffness of the mixture at 4% content, but this can lead to 
+cracking due to excessive rigidity. In contrast, Bagasse 
+Ash (BA) provides more stable MQ values, resulting in a 
+well-balanced mixture with both strength and flexibility, 
+making it more resistant to deformation without being 
+prone to cracking. 
+ 
+Fig.  9. MQ vs filler content 
+Thus, as shown in Fig. 9, RHA values meet the 
+specification. The highest MQ is at 4% (1228.70 Kg/mm), 
+indicating high stiffness, but excessive stiffness can 
+reduce flexibility. BA all values meet the specification, 
+showing an optimal balance between strength and 
+deformation resistance. 
+The trends observed in stability and flow data suggest 
+that both types of ash exhibit optimal performance at 
+moderate filler content (4-6%) with diminishing results 
+beyond this range. This can be attributed to excessive 
+filler interfering with the optimal bitumen aggregate 
+matrix, potentially leading to increased stiffness and 
+brittleness. The higher Marshall Quotient (MQ) observed 
+in BA mixtures indicates better load-bearing capacity and 
+resistance to deformation, likely due to the angular and 
+porous structure of BA particles that enhances interlock 
+and binder absorption.  
+3.4 Comparative analysis 
+The comparative analysis of the Marshall test results 
+demonstrates clear differences in performance between 
+Rice Husk Ash (RHA) and sugarcane Bagasse Ash (BA) 
+as fillers in AC-BC mixtures. In terms of stability, RHA 
+exhibited a decreasing trend with increasing filler content, 
+indicating reduced load-bearing capacity due to increased 
+mixture stiffness. In contrast, BA significantly improved 
+stability, with the highest value observed at 4% filler 
+content, suggesting its superior ability to enhance 
+structural strength. Regarding flow, RHA resulted in 
+values below the standard range, indicating a stiff and 
+potentially brittle mix. At the same time, BA produced 
+flow values above the acceptable range, suggesting 
+excessive softness and a risk of deformation under traffic 
+loads. 
+For voids in mix (VIM), RHA caused higher porosity 
+at greater filler contents, whereas BA maintained VIM 
+values within the ideal range at 4–8% filler levels. Both 
+fillers yielded acceptable voids in mineral aggregate 
+(VMA) values, though BA showed slightly more 
+consistent results. In terms of voids filled with bitumen 
+(VFB), RHA provided more balanced values across filler 
+variations, while BA tended to retain excessive asphalt at 
+low 
+contents, 
+risking 
+bleeding. 
+However, 
+BA 
+demonstrated more stable Marshall Quotient (MQ) 
+values, reflecting a better balance between strength and 
+flexibility compared to RHA, which showed excessively 
+high stiffness at 4% filler content. 
+3.5 Limitations and future work 
+Based on the overall findings, sugarcane bagasse ash 
+(BA) is identified as the more effective filler material in 
+AC-BC mixtures. Its ability to significantly increase 
+mixture 
+stability, 
+maintain 
+balanced 
+mechanical 
+characteristics, and provide consistent performance across 
+several Marshall parameters makes it more suitable than 
+RHA. Additionally, as an agricultural waste product, BA 
+represents a sustainable and environmentally friendly 
+alternative to conventional fillers. The optimum 
+performance of BA was achieved at a 4% filler content, 
+making it a highly recommended choice for enhancing the 
+durability and strength of asphalt concrete wearing 
+courses.  
+Higher stability and MQ values in BA mixtures could 
+be attributed to better filler bitumen adhesion, supported 
+by previous SEM observation on BA morphology, 
+indicating porous and angular particles that enhance 
+interlocking. 
+Although this study demonstrates that both RHA and 
+BA can serve as alternative fillers, their performance is 
+influenced by their distinct chemical composition. The 
+superior performance of BA and RHA is likely attributed 
+to its higher pozzolanic activity and better particle 
+morphology. RHA, rich in silica, may lead to excessive 
+stiffness and brittleness at higher contents due to limited 
+calcium oxide or other binding components. Future 
+research should include a detailed chemical and 
+microstructural analysis to better explain the mechanism 
+behind the differences in performance. This difference in 
+performance is attributed to the higher reactivity and 
+pozzolanic index of Bagasse Ash due to its higher CaO 
+and amorphous silica content. Whereas RHA, despite its 
+high SiO2 content, has a denser structure and lower 
+pozzolanic activity. 
+4 Conclusion 
+This study aimed to identify the impact of using 
+Agricultural Waste-Rice Husk Ash (RHA) and Bagasse 
+Ash (BA) as fillers in Asphalt Concrete (AC-BC) 
+mixtures. The findings clearly demonstrate that both 
+fillers affect the mechanical performance parameters 
+defined by the Marshall test. 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+7
+
+
+===== PAGE 8 =====
+
+1. 
+Stability increased significantly with BA, peaking at 
+3453,42 Kg at 4% filler content, indicating enhanced 
+load-bearing capacity. In contrast, RHA showed the 
+highest stability (1795.48 kg) at 0% filler and 
+decreased as filler content increased, suggesting a 
+reduction in load capacity at higher dosages. 
+2. 
+Flow values revealed that excessive RHA content 
+(≥4%) reduced flexibility to 0.91 mm, causing 
+brittleness, while BA produced higher than standard 
+values (5,03-6,20 mm), indicating greater flexibility 
+but potential permanent deformation. 
+3. 
+Void in Mix (VIM) for RHA exceeded the ideal 3-
+5% range at higher filler contents, whereas BA 
+maintained VIM within acceptable limits at 4-8%, 
+though too low (0.88%) at 2% filler. 
+4. 
+Void in Mineral Aggregate (VMA) remained within 
+standards for both fillers, ensuring adequate binder 
+coverage, with RHA generally giving slightly higher 
+values. Exceeded 84% at lower contents, increasing 
+bleeding risk 
+5. 
+Void-Filled with Bitumen (VFB) were more 
+balanced in RHA mixtures, while BA achieved its 
+peak (525.52 kg/mm) at 0% filler but dropped 
+sharply with higher dosages. 
+Overall, BA at 4% filler content is most effective for 
+improving structural performance, offering higher 
+stability and balanced flexibility, while RHA is better 
+applied at lower contents to avoid excessive stiffness. 
+Both materials meet Indonesia National Standards and 
+support sustainable pavement construction by recycling 
+agricultural waste into high-value fillers. 
+Future work should explore long-term durability and 
+binder-filler 
+interaction 
+mechanisms 
+through 
+microstructural analysis to optimize their application in 
+flexible pavement. 
+The authors gratefully acknowledge the support provided by 
+Universitas Andalas under contract no. 
+119/UN16.19/PT.01.03/PMDSU/2025, 14 April 2025. 
+References 
+1. Pham Viet Hung, Asphalt Pavement Performance in 
+Extreme Weather Events in Tropical Country. Int. J. 
+Eng. Res. 8(05),  76–82 (2019). 
+https://doi.org/10.17577/ijertv8is050057 
+2. R. Ma, Y. Li, P. Cheng, X. Chen, and A. Cheng, 
+Low-Temperature Cracking and Improvement 
+Methods for Asphalt Pavement in Cold Regions: A 
+Review. Buildings. 14(12), (2024). 
+https://doi.org/10.3390/buildings14123802 
+3. S. Sembiring, A. Riyanto, R. Situmeang, Z. 
+Sembiring, N. Susanti, and I. Firdaus, Effect of 
+amorphous rice husk silica addition on the structure 
+of asphalt composite. J. Met. Mater. Miner. 30(4),  
+113–118, (2020). 
+https://doi.org/10.55713/jmmm.v30i4.659 
+4. A. A. Alamsyah and H. E. Meiyanto, Use of 
+Bagasse Ash of Sugarcane as Filler Substitute 
+Material in Mixed Asphalt Hot Mix Latasir B, J. 
+Media Tek. Sipil. 14(1), 15–26 (2016). 
+https://doi.org/10.22219/jmts.v14i1.3285 
+5. A. Raj, M. Sivakumar, and M. V. L. R. Anjaneyulu, 
+Use of rice husk ash-activated fillers on rutting and 
+moisture resistance of cold mix asphalt. Int. J. 
+Pavement Eng. 24(2), (2023). 
+https://doi.org/10.1080/10298436.2022.2144307 
+6. T. A. Abdalla, A. A. E. Hussein, Y. H. Ahmed, and 
+O. Semmana, Strength, durability, and 
+microstructure properties of concrete containing 
+bagasse ash – A review of 15 years of perspectives, 
+progress and future insights. Results Eng. 21, 
+(2023). https://doi.org/10.1016/j.rineng.2024.101764 
+7. Ş. Sargın, M. Saltan, N. Morova, S. Serin, and S. 
+Terzi, Evaluation of rice husk ash as filler in hot mix 
+asphalt concrete. Constr. Build. Materials. 48, 390–
+397, (2013). 
+https://doi.org/10.1016/j.conbuildmat.2013.06.029 
+8. M. Zainudin, F. Khairuddin, C. P. Ng, C. Osmi, N. 
+A. Misnon, and M. Syaripuddin, Effect of Sugarcane 
+Bagasse Ash as Filler in Hot Mix Asphalt. Materials. 
+Science. Forum. 683–689, (2016). 
+https://doi.org/10.4028/www.scientific.net/MSF.846
+.683 
+9. S. K. Onsongo, J. Olukuru, O. M. Munyao, and O. 
+Mwabonje, The role of agricultural ashes (rice husk 
+ash, coffee husk ash, sugarcane bagasse ash, palm 
+oil fuel ash) in cement production for sustainable 
+development in Africa. Discov. Sustain. 6(62), 
+(2025). https://doi.org/10.1007/s43621-025-00841-6 
+10. D. S. L. W. Gutama, D. Sulistyorini, W. R. 
+Pamulatsih, and E. F. Handayani, The Effect of 
+Sugarcane Bagasse Ash Substitution as Filler on the 
+Quality of Asphalt Concrete-Binder Course (Ac-Bc) 
+Mixtures Based on the Marshall Test, Bangun 
+Rekaprima. 9(2),  247–256, (2023). 
+https://doi.org/10.32497/bangunrekaprima.v9i2.5252 
+11. I. Farida and S. Juniayanti, The Effect Of Rice Husk 
+Ash Filler On Ac-Wc Mixtures At Coastal Areas. J. 
+Jalan Jembatan. 41(1), 43–52, (2024). 
+12. D. M. Gea and T. Iduwin, Addition of Bagasse Ash 
+and Coconut Fiber to Porous Asphalt. Akselerasi  J. 
+Ilmiah. Teknik Sipil. 3(2), 66–73, (2022). 
+https://doi.org/10.37058/aks.v3i2.4594 
+13. F. Rosyad and R. Salsabila, Analysis Of The Effect 
+Of Adding Bagassale Ash As A Filler In Ac-Bc 
+Asphalt Mixture, Ensiklopedia J. 6(3),  116–122, 
+(2024). 
+14. D. Sidibé, A. Lecomte, M. Somparé, and H. Loua, 
+Asphalt Roadholding in A Tropical Climate: The 
+Example of Guinea. Trends Civ. Eng. its Archit. 
+4(3), 651–666, (2021). 
+https://doi.org/10.32474/TCEIA.2021.04.000186 
+15. G. Shafabakhsh, H. Divandari, and S. Reza Sajadi, 
+Evaluation of Optimum Content of Rice Husk Ash 
+to Improve the Hot Asphalt Concrete Performance. 
+Int. J. Engineering &. Technology. 7(4.20), 338–
+346, (2018). 
+https://doi.org/10.14419/ijet.v7i4.20.26131 
+ 
+     
+, 06008 (2025)
+E3S Web of Conferences
+https://doi.org/10.1051/e3sconf/202567706008
+677
+3   ICDMM 2025
+d
+r
+8

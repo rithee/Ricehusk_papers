@@ -1,0 +1,1255 @@
+
+===== PAGE 1 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          49 
+ 
+ECO-FRIENDLY CONCRETE INNOVATIONS: THE ROLE OF MARBLE 
+POWDER AND RICE HUSK ASH IN ACHIEVING SUSTAINABLE 
+CONSTRUCTION PRACTICES 
+ 
+Bheemu Rahul Reddy, K. Shyam Chamberlin and Nadigatla Naveen Kumar 
+Department of Civil Engineering, Koneru Lakshmaiah Education Foundation (KL Deemed to be University),  
+Guntur, Vaddeswaram, India 
+E-Mail: bheemurahulreddy@gmail.com 
+ 
+ABSTRACT 
+Research on substitute materials for concrete manufacturing, such as rice husk ash (RHA) and marble powder 
+(MP), has been spurred by the growing building waste and the demand for sustainable resources. Using these waste 
+components, this study investigates the workability and mechanical characteristics of M40 grade concrete. The workability 
+and strength characteristics of the mixture are affected when steel slag and dolomite are substituted, according to the 
+experimental results. Because of its tiny particles, increasing steel slag content initially made the concrete less workable; 
+nevertheless, in M30 grade concrete, 20% dolomite and 15% steel slag replacement produced the best results. With a 30% 
+dolomite and 5% steel slag combination, the compressive strength peaked at 33.6 N/mm² after 28 days. At the same 
+replacement level, the split tensile strength and flexural strength also attained their greatest values, demonstrating steady 
+advancements in the overall performance of the concrete. This study emphasizes how MP and RHA can be used in 
+concrete as affordable, environmentally beneficial substitutes that support sustainable building methods. 
+ 
+Keywords: sustainable concrete, waste material utilisation powder, rice husk ash, mechanical properties of concrete. 
+ 
+Manuscript Received 25 October 2024; Revised 15 January 2025; Published 10 March 2025 
+ 
+INTRODUCTION 
+Due to waste production and raw material 
+depletion, the construction sector is one of the biggest 
+users of natural resources and a major contributor to 
+environmental issues [15]. The need for sustainable 
+construction approaches has never been greater, given the 
+world's 
+population 
+expansion 
+and 
+infrastructural 
+development. The use of substitute materials, which can 
+lessen dependency on conventional resources while 
+reducing the negative environmental effects connected to 
+construction operations, is a major area of attention in this 
+endeavour [16]. 
+Using waste materials and industrial by-products 
+as partial replacements in concrete is one of the most 
+promising ways to achieve sustainability in the building 
+industry [18]. Among these, rice husk ash (RHA) and 
+marble powder (MP) have drawn interest because of their 
+accessibility, 
+affordability, 
+and 
+advantageous 
+characteristics when applied in cement-based applications 
+[20]. By recycling waste, these materials not only offer a 
+sustainable alternative, but they also have the potential to 
+improve concrete's performance characteristics [17]. 
+A by-product of the marble processing industry, 
+marble powder is frequently disposed of in enormous 
+amounts, which poses health and environmental risks [19]. 
+Similar to this, even though rice husk ash-a by-product of 
+burning rice-has pozzolanic qualities that can increase the 
+strength and durability of concrete, disposing of it can be 
+difficult [21]. The building sector may transition to more 
+environmentally friendly methods, use less cement, and 
+efficiently manage waste by adding these components to 
+concrete mixes [23]. 
+The impact of rice husk ash and marble powder 
+on the mechanical qualities and workability of M40 grade 
+concrete is examined in this study [25]. It specifically 
+looks at how the concrete's compressive, tensile, and 
+flexural strengths are impacted by varying ratios of steel 
+slag and dolomite replacements [22]. Prior studies have 
+demonstrated that these waste components can improve 
+specific concrete performance characteristics, but it is still 
+unclear how much of each should be replaced and how 
+they work together [24]. 
+According to the experimental research, M30 
+grade concrete performed best when 20% dolomite and 
+15% steel slag were substituted. With a 30% dolomite and 
+5% steel slag mix, the greatest compressive strength 
+measured at 28 days was 33.6 N/mm2, and split tensile 
+and 
+flexural 
+values 
+were 
+significantly 
+improved. 
+According to these results, concrete's mechanical qualities 
+can be preserved and even enhanced by the thoughtful 
+application of rice husk ash and marble powder, which 
+also supports environmentally friendly building practices. 
+This study adds to the expanding body of 
+information on sustainable concrete, which advances the 
+use of alternate materials in building [26]. It draws 
+attention to the possibilities of using waste materials in 
+building 
+procedures 
+to 
+improve 
+the 
+mechanical 
+performance 
+of 
+concrete 
+while 
+lessening 
+the 
+environmental effect of waste disposal and cement 
+manufacture. This study is a step in the direction of 
+creating a more resilient and sustainable building industry 
+that adheres to resource efficiency and the circular 
+economy. 
+ 
+
+
+===== PAGE 2 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          50 
+ 
+LITERATURE REVIEW 
+Numerous studies have been conducted on the 
+utilization of waste materials in concrete to improve its 
+sustainability and mechanical qualities. The use of 
+industrial and agricultural waste materials as partial 
+substitutes for cement or aggregates in concrete has been 
+the subject of numerous investigations.  
+When Rahmat Madandoust and Reza Ghavidel 
+examined the mechanical characteristics of concrete that 
+contained waste glass powder and rice-husk-ash, they 
+found that the pozzolanic reactions of the rice-husk-ash 
+increased the concrete's compressive strength and 
+durability [1]. The use of rice-husk-ash in concrete has 
+also been shown to have positive environmental effects, 
+with Khan et al. highlighting how it can lower carbon 
+emissions while improving the mix's mechanical qualities 
+[2].  
+Ali Ergun investigated the effects of diatomite 
+and leftover marble powder as a partial substitute for 
+cement and found that these additives greatly enhance the 
+mechanical qualities of concrete, such as its durability and 
+compressive strength [3]. The advantages of utilizing 
+leftover marble powder in hardened concrete were further 
+emphasized by Ulubeyli and Artir, who demonstrated how 
+it improved the density and strength of the concrete [4].  
+Talha et al. investigated the impact of marble powder on 
+high-performance concrete and found that it improves the 
+microstructure of the concrete matrix and creates a filler 
+effect, which increases the mechanical properties, 
+especially the compressive strength [5]. Furthermore, 
+Omar et al. concentrated on using limestone waste in 
+concrete to partially replace sand and marble powder, 
+which increased the material's workability and strength 
+characteristics [6]. 
+After researching the strength properties of high-
+strength rice husk ash concrete, Ravande Kishore and 
+associates 
+discovered 
+that 
+adding 
+rice 
+husk 
+ash 
+considerably improved the concrete's compressive strength 
+and decreased its permeability [7]. When rice husk ash and 
+dolomite were mixed to treat concrete, Sathawane et al. 
+saw a significant increase in strength when 30% less 
+cement was used [8]. 
+Kore and Vyas investigated the use of leftover 
+marble as a coarse aggregate in lean cement concrete and 
+observed improved performance in terms of durability and 
+compressive strength [9]. Improved resistance to chloride 
+penetration was found in the rice husk ash-blended 
+concrete studied by Muthadhi and Kothandaraman [10]. 
+This is important for the longevity of concrete 
+constructions in harsh settings. 
+Research on the fineness of rice husk ash has 
+demonstrated how it affects cement mortar's strength and 
+ability to withstand carbonation. Finer rice husk ash 
+particles have been shown by Rukzon and Chindaprasirt to 
+have superior pozzolanic activity and, as a result, 
+improved strength properties [11]. In their investigation, 
+Wahyuni et al. found that adding bamboo fiber and sea 
+shell ash to concrete containing rice husk ash improved its 
+mechanical and durability properties [12]. 
+Additionally, Chandan Kumar et al. examined the 
+strengths of various rice husk ash concrete grades and 
+proposed that it might be used in a variety of applications 
+as a sustainable substitute for conventional cement [13]. In 
+their discussion of the combined effects of recycled 
+concrete aggregate and copper slag on CIR mixes, 
+Behnood et al. [14] emphasized the contribution of rice 
+husk ash to improving the mixture's mechanical qualities 
+and environmental sustainability. 
+The pursuit of sustainable construction practices 
+has led to a great deal of attention being paid to the use of 
+alternative materials in concrete. In a study, the effects of 
+adding marble powder and rice husk ash (RHA) to 
+concrete were examined by Raikwar and Tare [27]. 
+According to their research, adding these components to 
+concrete improved its mechanical qualities as well as its 
+workability. Similar to this, Babu et al.'s study [28] 
+examined the impact of RHA on the strength and 
+workability of concrete, finding favourable correlations 
+that lend credence to RHA's use as a partial cement 
+substitute. 
+The Bureau of Indian Standards' concrete mix 
+proportioning rules [29] stress how crucial it is to choose 
+the right materials to get the necessary concrete qualities. 
+The coarse and fine aggregate specifications, which 
+outline the requirements for natural sources in the 
+manufacturing of concrete, further support this [30]. 
+Furthermore, creative approaches to concrete composition 
+are supported by the fundamental principles provided by 
+the Indian Standard Code of Practice for plain and 
+reinforced concrete [31]. 
+Sakr [32] evaluated the effects of RHA and silica 
+fume on the characteristics of heavyweight concrete, 
+emphasizing how these substances may improve strength 
+without sacrificing durability. Jaturapitakkul's study [33] 
+investigated the feasibility of using RHA and calcium 
+carbide residue as cementing agents and showed that they 
+could both improve the structural integrity of concrete.  
+Anwar et al. [34] made additional contributions to the 
+subject by examining the compressive strength of concrete 
+by 
+partially 
+substituting 
+dolomite 
+for 
+cement, 
+demonstrating the impact of different aggregates on 
+performance. Santhakumar [35] and Shetty [36] offered 
+thorough texts that highlight the theoretical and practical 
+elements of concrete formulations in the context of 
+concrete technology.  
+Felixkala and Partheeban [37] investigated the 
+use of granite powder as a substitute in concrete mixes and 
+documented the effects of this substitution on several 
+concrete properties. By examining the characteristics of 
+self-compacting concrete (SCC) manufactured with 
+dolomite and quarry dust, Raju et al. [38] also contributed, 
+showing that these components can significantly improve 
+the performance of concrete.  
+The combined results of these investigations 
+highlight the potential of substitute materials to enhance 
+
+
+===== PAGE 3 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          51 
+ 
+concrete's overall performance while simultaneously 
+lessening its negative effects on the environment. For the 
+development of sustainable construction methods that 
+satisfy modern technical requirements, more research in 
+this field is necessary.  
+In summary, adding waste materials like marble 
+powder, rice husk ash, and other industrial by-products to 
+concrete 
+improves 
+its 
+mechanical 
+qualities 
+while 
+simultaneously lowering the carbon footprint of building 
+materials and promoting sustainability. Collectively, these 
+investigations indicate that these waste materials can 
+successfully substitute traditional cement and aggregates 
+without sacrificing the structural integrity of concrete 
+when mixed and proportioned appropriately. 
+ 
+Objective 
+▪ 
+Examine the impacts of using rice husk ash 
+(RHA) and marble powder (MP) in place of 
+some of the cement in M40 grade concrete. 
+▪ 
+Determine the ideal ratios of MP and RHA to 
+improve the workability, compressive, tensile, 
+and flexural strengths of concrete. 
+▪ 
+Examine the combined effects of steel slag and 
+dolomite on the mechanical characteristics of 
+concrete.  
+▪ 
+Create a sustainable, high-performing concrete 
+mix that may be used in contemporary building.  
+ 
+Scope 
+▪ 
+Examine M40 grade concrete experimentally using 
+replacements for cement, such as steel slag, dolomite, 
+RHA, and MP in different proportions. 
+▪ 
+Examine how well concrete works and its mechanical 
+characteristics, such as its flexural, tensile, and 
+compressive strengths, throughout a range of curing 
+times. 
+▪ 
+Determine the optimal replacement levels that 
+maximize concrete performance while promoting 
+waste reduction and sustainability. 
+▪ 
+Support the development of eco-friendly concrete 
+mixes aligned with sustainable development, resource 
+efficiency, and reduced environmental impact in the 
+construction industry. 
+METHODOLOGY 
+Standard tests were employed in the experimental 
+procedures to evaluate the concrete's strength and 
+workability. The Compaction Factor Test and the Slump 
+Test were used to assess workability. The Compaction 
+Factor Test establishes the density to which fresh concrete 
+may be compacted, demonstrating its compatibility, 
+whereas the Slump Test gauges the vertical settling of a 
+fresh concrete cone, offering insights into its mobility. For 
+the concrete mixes, the values for the compaction factor 
+and slump were noted as 0.97 and 220 mm, respectively. 
+Oil-lubricated moulds were used to cast cubes, cylinders, 
+and beams for destructive testing on hardened concrete. 
+The samples underwent vibration treatment after being 
+compressed into layers. Using a compression testing 
+machine, a progressive load of 140 kg/cm² per minute was 
+applied to cubes of 15 cm by 15 cm by 15 cm till failure. 
+The values of strength were computed and tallied. 
+Similarly, a Universal Testing Machine was used to 
+quantify the modulus of rupture for beams of 750 mm by 
+150 mm by 150 mm during Flexural Strength tests. The 
+fracture site about the support span was used to calculate 
+the flexural strength. 
+Split Tensile Strength tests, using cylindrical 
+specimens of 15 cm diameter and 30 cm height, were 
+conducted by applying a compressive load until failure. 
+The tensile strength was derived using the splitting 
+method, a standard approach for indirect measurement. All 
+tests were repeated for various mixes, including those with 
+different percentages of granite powder as a fine aggregate 
+replacement, and the results were systematically recorded. 
+ 
+RESULTS 
+ 
+Workability of Concrete 
+The workability of concrete was assessed through 
+slump and compaction factor tests on fresh mixes 
+containing varying amounts of dolomite and steel slag, 
+maintaining a water-to-binder (w/b) ratio of 0.35. Results 
+indicated that both the slump and compaction factor values 
+increased progressively with higher proportions of 
+dolomite and steel slag in the concrete mixtures. Notably, 
+the mix containing 15% dolomite and 5% steel slag 
+exhibited the highest values for both the compaction factor 
+and slump. 
+ 
+Table-1. Workability values for different mixes. 
+ 
+S. No 
+Mix designation 
+Slump value(mm) 
+Compaction Factor 
+1 
+P1 
+60 
+0.83 
+2 
+P2 
+72 
+0.85 
+3 
+P3 
+90 
+0.88 
+4 
+P4 
+80 
+0.86 
+ 
+
+
+----- TABLE p3#1 -----
+
+ | S. No |  |  | Mix designation |  |  | Slump value(mm) |  |  | Compaction Factor | 
+ | 1 |  |  | P
+1 |  |  | 60 |  |  | 0.83 | 
+ | 2 |  |  | P
+2 |  |  | 72 |  |  | 0.85 | 
+ | 3 |  |  | P
+3 |  |  | 90 |  |  | 0.88 | 
+ | 4 |  |  | P
+4 |  |  | 80 |  |  | 0.86 | 
+
+===== PAGE 4 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          52 
+ 
+The above data indicate that both the slump and 
+compaction factor values increased with higher dolomite 
+and steel slag contents. However, in the P4 mix, these 
+values decreased compared to the P3 mix. Graphs 
+illustrating these results are shown in Figures 1 and 2. 
+ 
+ 
+ 
+Figure-1. Slump values for mix proportions. 
+ 
+ 
+ 
+Figure-2. Compaction factor values for mix proportions. 
+ 
+Compressive Strength Test 
+The compressive strength of various concrete 
+mixes was assessed at 7, 14, and 28 days of curing. The 
+N.D Mix demonstrated the highest strength, starting at 
+24.83 MPa at 7 days and reaching 39.18 MPa by 28 days. 
+In contrast, the 20D Mix showed lower strengths of 21.36 
+MPa, 27.18 MPa, and 32.62 MPa at the respective curing 
+ages. Incorporating 5% coarse aggregates in the 20D+5CS 
+Mix yielded slightly better results (23.13 MPa at 7 days) 
+but stabilized at 32.62 MPa by 28 days. The 20D+10CS 
+and 20D+15CS mixes exhibited significantly reduced 
+strengths, particularly the latter, which only reached 25.76 
+MPa at 28 days. The 30D Mix provided a moderate 
+performance (33.57 MPa at 28 days), while adding 5% 
+coarse aggregates in the 30D+5CS Mix enhanced its 
+strength to 33.60 MPa. The 40D series mixes generally 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+100
+P1
+P2
+P3
+P4
+slump value (mm)
+Trial praportions
+Slump value
+slump value
+0.8
+0.81
+0.82
+0.83
+0.84
+0.85
+0.86
+0.87
+0.88
+0.89
+P1
+P2
+P3
+P4
+compaction factor value
+compaction factor
+compaction factor
+
+
+===== PAGE 5 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          53 
+ 
+showed lower compressive strengths, with the 40D+15CS 
+Mix recording only 21.24 MPa at 28 days. Notably, the 
+5% and 10% coarse aggregate mixes performed well, 
+achieving strengths of 31.90 MPa and 34.96 MPa at 28 
+days, respectively. Overall, the results indicate that the 
+inclusion of coarse aggregates can influence the 
+compressive strength of concrete, with optimal proportions 
+necessary for enhancing performance. 
+ 
+Table-2. Compression test values for different mixes. 
+ 
+S. No 
+Mix  proportions 
+Compressive Strength 
+ 
+7 DAYS 
+14 DAYS 
+28 DAYS 
+1 
+N.D 
+24.90 
+32.49 
+39.19 
+2 
+20D 
+22.39 
+27.19 
+32.66 
+3 
+20D+5CS 
+243.99 
+26.45 
+32.65 
+4 
+20D+10CS 
+16.75 
+20.04 
+27.04 
+5 
+20D+15CS 
+13.77 
+17.36 
+25.75 
+6 
+30D 
+22.39 
+27.83 
+33.56 
+7 
+30D+5CS 
+25.14 
+30.33 
+33.63 
+8 
+30D+10CS 
+22.24 
+27.44 
+31.06 
+9 
+30D+15CS 
+15.33 
+18.76 
+22.77 
+10 
+40D 
+17.72 
+22.55 
+28.96 
+11 
+40D+5 CS 
+17.25 
+20.08 
+26.54 
+12 
+40D+10 CS 
+14.98 
+17.85 
+23.73 
+13 
+40D+15CS 
+11.99 
+15.33 
+21.22 
+14 
+5% CS 
+21.46 
+28.77 
+31.93 
+15 
+10% CS 
+23.78 
+30.66 
+34.95 
+16 
+15% CS 
+17.55 
+24.48 
+27.38 
+ 
+ 
+ 
+Figure-3. Average compressive strength of cube. 
+ 
+The cube's compressive strength was tested at 
+33.6 N/mm² after 28 days when there was no replacement 
+of steel slag and 39.18 N/mm² when there was no cement. 
+After 28 days, the maximum strength of 33.6 N/mm² was 
+reported, up from 27.8 N/mm² after 14 days, when 30% 
+dolomite and 5% steel slag replacement were added. With 
+up to 30% dolomite and 5% steel slag replacement, the 
+compressive strength improved gradually at 14 and 28 
+days, and it kept rising as the replacement percentages 
+climbed. 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Average Compressive strength 
+% of Steel slag and Dolomite 
+
+
+----- TABLE p5#1 -----
+
+S. No | Mix proportions | Compressive Strength |  | 
+ |  | 7 DAYS | 14 DAYS | 28 DAYS
+1 | N.D | 24.90 | 32.49 | 39.19
+2 | 20D | 22.39 | 27.19 | 32.66
+3 | 20D+5CS | 243.99 | 26.45 | 32.65
+4 | 20D+10CS | 16.75 | 20.04 | 27.04
+5 | 20D+15CS | 13.77 | 17.36 | 25.75
+6 | 30D | 22.39 | 27.83 | 33.56
+7 | 30D+5CS | 25.14 | 30.33 | 33.63
+8 | 30D+10CS | 22.24 | 27.44 | 31.06
+9 | 30D+15CS | 15.33 | 18.76 | 22.77
+10 | 40D | 17.72 | 22.55 | 28.96
+11 | 40D+5 CS | 17.25 | 20.08 | 26.54
+12 | 40D+10 CS | 14.98 | 17.85 | 23.73
+13 | 40D+15CS | 11.99 | 15.33 | 21.22
+14 | 5% CS | 21.46 | 28.77 | 31.93
+15 | 10% CS | 23.78 | 30.66 | 34.95
+16 | 15% CS | 17.55 | 24.48 | 27.38
+
+===== PAGE 6 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          54 
+ 
+Split Tensile Strength Test 
+After 28 days, the split tensile strength of the 
+concrete with copper slag addition was progressively 
+raised to 30% + 5% (replacement of dolomite and steel 
+slag) and roughly 3.69 N/mm2. For every composition, the 
+cylinder's split tensile strength behaved similarly to the 
+cube's compressive strength. 
+ 
+Table-3. Values of the split tensile strength test for various combinations. 
+ 
+S. No 
+Mix proportions 
+Split tensile Strength 
+ 
+7 DAYS 
+14 DAYS 
+28 DAYS 
+1 
+N 
+2.51 
+3.32 
+3.82 
+2 
+20D 
+2.03 
+3.07 
+3.25 
+3 
+20D+5CS 
+2.53 
+2.90 
+3.77 
+4 
+20D+10SC 
+2.26 
+1.91 
+2.33 
+5 
+20D+15SC 
+1.57 
+2.25 
+2.42 
+6 
+30D 
+2.03 
+3.12 
+3.44 
+7 
+30D+5SC 
+2.46 
+3.1 
+3.69 
+8 
+30D+10SC 
+2.04 
+2.46 
+2.87 
+9 
+30D+15SC 
+1.34 
+1.95 
+2.23 
+10 
+40D 
+1.55 
+1.93 
+2.94 
+11 
+40D+5 SC 
+1.69 
+2.04 
+2.62 
+12 
+40D+10 SC 
+1.72 
+2.12 
+2.36 
+13 
+40D+15SC 
+1.79 
+1.99 
+2.23 
+14 
+5% SC 
+2.00 
+2.57 
+3.06 
+15 
+10% SC 
+2.40 
+2.95 
+3.52 
+16 
+15% SC 
+1.40 
+2.01 
+2.68 
+ 
+ 
+ 
+Figure-4. Average Split Tensile strength of cylinder. 
+ 
+Flexural Strength Test 
+It was discovered that the maximum flexural 
+strength of the beam was approximately 7.7 N/mm2 and 
+30% + 5% (replacement of steel slag and dolomite). The 
+beam's flexural strength increased at 30% + 5% 
+replacement of steel slag and dolomite. All blends' flexural 
+strengths behaved similarly to the compressive strength 
+findings. 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+Average split tensile strength 
+% of Steel slag and Dolomite replacement 
+
+
+----- TABLE p6#1 -----
+
+S. No | Mix proportions | Split tensile Strength |  | 
+ |  | 7 DAYS | 14 DAYS | 28 DAYS
+1 | N | 2.51 | 3.32 | 3.82
+2 | 20D | 2.03 | 3.07 | 3.25
+3 | 20D+5CS | 2.53 | 2.90 | 3.77
+4 | 20D+10SC | 2.26 | 1.91 | 2.33
+5 | 20D+15SC | 1.57 | 2.25 | 2.42
+6 | 30D | 2.03 | 3.12 | 3.44
+7 | 30D+5SC | 2.46 | 3.1 | 3.69
+8 | 30D+10SC | 2.04 | 2.46 | 2.87
+9 | 30D+15SC | 1.34 | 1.95 | 2.23
+10 | 40D | 1.55 | 1.93 | 2.94
+11 | 40D+5 SC | 1.69 | 2.04 | 2.62
+12 | 40D+10 SC | 1.72 | 2.12 | 2.36
+13 | 40D+15SC | 1.79 | 1.99 | 2.23
+14 | 5% SC | 2.00 | 2.57 | 3.06
+15 | 10% SC | 2.40 | 2.95 | 3.52
+16 | 15% SC | 1.40 | 2.01 | 2.68
+
+----- TABLE p6#2 -----
+
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  | % of S | teel sl | ag and | Dolo | mite r | eplac | ement |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 7 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          55 
+ 
+Table-4. Flexural Strength test values for different mixes. 
+ 
+S. No 
+Mixing proportions 
+Flexural strength 
+ 
+28 DAYS 
+1 
+N.C 
+7.67 
+2 
+20D 
+5.19 
+3 
+20D+5SC 
+4.36 
+4 
+20D+10SC 
+5.11 
+5 
+20D+15SC 
+5.10 
+6 
+30D 
+8.85 
+7 
+30D+5SC 
+6.75 
+8 
+30D+10SC 
+5.47 
+9 
+30D+15SC 
+5.48 
+10 
+40D 
+5.37 
+11 
+40D+5 SC 
+4.86 
+12 
+40D+10 SC 
+4.62 
+13 
+40D+15SC 
+4.52 
+14 
+5% SC 
+6.02s 
+15 
+10% SC 
+6.32 
+16 
+15% SC 
+5.52 
+ 
+ 
+ 
+Figure-5. Average flexural strength of beam. 
+ 
+Weight of Cube Results 
+The maximum weight was found to be at 30% + 
+5% (Dolomite and Steel slag) replacement and about 8.900 
+KG for 28 days. The weight of the cube showed higher 
+strength at different proportions of Dolomite and Steel 
+slag replacement. All blends' weight cubes exhibited 
+behavior that was comparable to the compressive strength 
+findings. 
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+flexural strength
+% of Steel slag,dOLOMITE
+0
+5
+10
+15
+
+
+----- TABLE p7#1 -----
+
+S. No | Mixing proportions | Flexural strength
+ |  | 28 DAYS
+1 | N.C | 7.67
+2 | 20D | 5.19
+3 | 20D+5SC | 4.36
+4 | 20D+10SC | 5.11
+5 | 20D+15SC | 5.10
+6 | 30D | 8.85
+7 | 30D+5SC | 6.75
+8 | 30D+10SC | 5.47
+9 | 30D+15SC | 5.48
+10 | 40D | 5.37
+11 | 40D+5 SC | 4.86
+12 | 40D+10 SC | 4.62
+13 | 40D+15SC | 4.52
+14 | 5% SC | 6.02s
+15 | 10% SC | 6.32
+16 | 15% SC | 5.52
+
+===== PAGE 8 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          56 
+ 
+ 
+ 
+Figure-6. Average weight of the cube. 
+ 
+CONCLUSIONS 
+Given the increasing amount of trash produced by 
+expanding 
+infrastructure development and growing 
+populations, research into the use of waste construction 
+materials, in particular marble powder and rice husk ash 
+(RHA), is essential. Not only are these ingredients easily 
+accessible, but they are also less expensive than regular 
+cement. The purpose of this study was to assess the 
+mechanical qualities and workability of M40 grade 
+concrete that had been mixed with RHA and marble 
+powder. The experiment analysis led to the following 
+conclusions being made: 
+ 
+a) Compared to the reference concrete mix, the initial 
+workability was good but decreased as the proportion 
+of dolomite and steel slag increased. This reduction in 
+workability is attributed to the finer particles of steel 
+slag, which effectively fill the voids within the 
+concrete. 
+b) For M30 grade concrete, workability showed an 
+improvement with up to 20% dolomite and 15% steel 
+slag replacement of cement. 
+c) The control mix obtained 33.6 N/mm² at 28 days 
+without replacing the steel slag and 39.18 N/mm² with 
+the replacement of cement, according to the 
+compressive strength tests. At 28 days, a blend of 
+30% dolomite and 5% steel slag showed the highest 
+compressive strength of 33.6 N/mm². With up to 30% 
+dolomite and 5% steel slag replacement, this trend 
+showed a progressive rise in compressive strength. 
+After this replacement level, the material continued to 
+perform consistently. 
+d) After 28 days, the concrete's split tensile strength 
+reached a maximum of 3.69 N/mm², gradually rising 
+to a combination of 30% dolomite and 5% steel slag 
+replacement. The concrete mixtures' tensile strength 
+behavior followed the trends in compressive strength 
+that were seen. 
+e) The top performance of the beam specimens' flexural 
+strength tests, conducted at 30% dolomite and 5% 
+steel slag replacement, was 7.7 N/mm². Like the 
+compressive strength, all of the combinations' flexural 
+strengths increased noticeably at this replacement 
+level, demonstrating a constant relationship between 
+the two properties in all of the different concrete 
+mixtures. 
+REFERENCES 
+ 
+[1] Rahmat 
+Madandoust 
+and 
+Ghavidel 
+R. 
+2013. 
+Mechanical properties of concrete containing waste 
+glass 
+powder 
+and 
+rice-husk-ash. 
+Biosystems 
+Engineering. 116, 113-119. 
+[2] Khan R., Jabbar A., Ahmad I., Khan W., Naeem Khan 
+A. and Mirza J. 2012. Reduction in environmental 
+problems 
+using 
+rice-husk-ash 
+in 
+concrete. 
+Construction and Building Materials, 30, 360-365. 
+[3] Ergun A. 2011. Effects of the usage of diatomite and 
+waste marble powder as partial replacement of cement 
+on 
+the 
+mechanical 
+properties 
+of 
+concrete. 
+Construction and Building Materials. 25, 806-812. 
+7.8
+8
+8.2
+8.4
+8.6
+8.8
+9
+0
+5
+10
+15
+weight of cube
+%  of Steel slag and  Dolomite replacement
+
+
+===== PAGE 9 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          57 
+ 
+[4] Ulubeyli G. C. and Artir R. 2015. Properties of 
+hardened concrete produced by waste marble powder. 
+Procedia - Social and Behavioral Sciences. 195, 2181-
+2190. 
+[5] Talha A., Kharchi F. and Chaid R. 2015. Influence of 
+marble 
+powder 
+on 
+high-performance 
+concrete 
+behavior. Procedia Engineering. 114, 685-690. 
+[6] Omar O. M., Abd Elhameed G. D., Sherif M. A. and 
+Mohamdien H. A. 2012. Influence of limestone waste 
+as partial replacement material for sand & marble 
+powder in concrete properties. HRBC Journal. 8, 193-
+203. 
+[7] Kishore R., Bhikshma V. and Jeevana Prakash P. 
+2011. Study on strength characteristics of high-
+strength rice husk ash concrete. Procedia Engineering. 
+14, 2666-2672. 
+[8] Sathawane S. H., Svairagade V. and Kene K. S. 2013. 
+Combine the effect of rice husk ash and dolomite on 
+concrete by 30% cement replacement. Procedia 
+Engineering. 51, 35-44. 
+[9] Kore S. D. and Vyas A. K. 2016. Impact of waste 
+marble waste as coarse aggregate on properties of lean 
+cement concrete. Case Studies in Construction 
+Materials. 4, 85-92. 
+[10] Muthadhi 
+A. 
+and 
+Kothandaraman 
+S. 
+2013. 
+Experimental 
+investigation 
+of 
+performance 
+characteristics of rice husk ash-blended concrete. 
+American Society of Civil Engineers. 25, 1115-1118. 
+[11] Rukzon S. and Chindaprasirt P. 2010. Strength and 
+carbonation model of rice husk ash cement mortar and 
+different fineness. ASCE. 22(3): 253. 
+[12] Wahyuni A. S., Supriani F., Elhusna and Gunawan A. 
+2014. The performance of concrete with rice husk ash, 
+sea shell ash, and bamboo fiber addition. Procedia 
+Engineering. 95, 473-478. 
+[13] Chandankumar P., Venugopal N. V. S. and Rao P. M. 
+2013. Studies on the determination of comparison 
+strength of different grades of rice husk ash-an eco-
+friendly 
+concrete. 
+Journal 
+of 
+Environmental 
+Protection. 4, 329-332. 
+[14] Behnood A., Modiri Gharehreran M., Gozali Asl F. 
+and Ameri M. 2015. Effects of copper slag and 
+recycled concrete aggregate on the properties of CIR 
+mixes with bitumen emulsion, rice husk ash, Portland 
+cement, and dolomite. Construction and Building 
+Materials. 96, 172-180. 
+[15] Viswakarma V., Ramachandran D., Anbarasin N. and 
+Rabel M. 2016. Studies of rice husk ash nanoparticles 
+on the mechanical and microstructural properties of 
+concrete. Materials Proceedings. 3, 1999-2007. 
+[16] Mohseni E., Naseri F. and Amjadi R. 2016. 
+Microstructural and durability properties of cement 
+mortar containing nano-TiO2 and rice husk ash. 
+Construction and Building Materials. 114, 656-664. 
+[17] Kelestenur O. and Aricri E. 2014. Performance 
+evaluation of cement mortar containing marble dust 
+and glass fiber exposed to high temperature using the 
+Taguchi 
+method. 
+Construction 
+and 
+Building 
+Materials. 60, 17-24. 
+[18] Aliabdo A. A., Abd Elmoaty M. A. and Auda E. 
+2014. Re-use of waste marble dust in the production 
+of cement and concrete. Construction and Building 
+Materials. 50, 28-41. 
+[19] Bilgin N., Yeprem H. A., Arslan S., Bilgin A., Gunay 
+E. and Marsoglu, M. 2012. Use of waste marble 
+powder in the brick industry. Construction and 
+Building Materials. 29, 449-457. 
+[20] Rodrigues R., Debrito J. and Sardinha M. 2015. 
+Mechanical 
+properties 
+of 
+structural 
+concrete 
+containing very fine aggregate from marble cutting 
+sludge. Construction and Building Materials. 77, 349-
+356. 
+[21] Corinaldesi 
+V. 
+and 
+Moriconi 
+G. 
+2010. 
+Characterization of marble powder for its use in 
+mortar and concrete. Construction and Building 
+Materials. 24, 113-117. 
+[22] Silva D., Gameiro F. and Brito J. 2014. Mechanical 
+properties of structural concrete containing fine 
+aggregates from waste generated by the marble 
+quarrying industry. ASCE. 15. 
+[23] Ferraro R. M., Nanni A., Vempati R. K. and Matta F. 
+2015. Carbon neutral off-white rice husk ash as a 
+partial white cement replacement. American Society 
+of Civil Engineers. 25, 1078-1083. 
+
+
+===== PAGE 10 =====
+
+                                  VOL. 20, NO. 2, JANUARY 2025                                                                                                            ISSN 1819-6608 
+ARPN Journal of Engineering and Applied Sciences 
+©2006-2025 Asian Research Publishing Network (ARPN). All rights reserved. 
+ 
+www.arpnjournals.com 
+ 
+ 
+                                                                                                                                                          58 
+ 
+[24] Habeeb G. A. and Mahmud H. B. 2010. Study on 
+properties of rice husk ash and its use as cement 
+replacement. Material Research. 13, 185-190. 
+[25] Obilade I. O. 2014. Use of rice husk ash as a partial 
+replacement for cement in concrete. International 
+Journal of Engineering and Applied Sciences. 5. 
+[26] Kaur E. A. and Bansal R. S. 2015. Strength and 
+durability 
+properties 
+of 
+concrete 
+with 
+partial 
+replacement of cement with metakaolin and marble 
+dust. Vol. 4. 
+[27] Raikwar P. and Tare V. 2014. Study of concrete 
+properties using rice husk ash and marble powder. 
+International Journal of Emerging Technology and 
+Advanced Engineering. 4. 
+[28] Babu A., Reddy S., Lume E. and McCarthy T. 2013. 
+Effect of rice husk ash on workability and strength of 
+concrete. 
+26th 
+Biennial 
+Concrete 
+Institute 
+of 
+Australia’s National Conference. 1-10. 
+[29] Bureau of Indian Standards. 2009. Concrete mix 
+proportioning - Guidelines (IS 10262:2009). New 
+Delhi. 
+[30] Bureau of Indian Standards. 1970. Indian standard 
+specifications for coarse and fine aggregates from 
+natural sources for concrete (IS 383:1970). New 
+Delhi. 
+[31] Bureau of Indian Standards. 2000. Indian standard 
+code of practice for plain and reinforced concrete (IS 
+456:2000). New Delhi. 
+[32] Sakr K. 2006. Effects of silica fume and rice husk ash 
+on the properties of heavyweight concrete. Journal of 
+Materials in Civil Engineering. 18, 367-376. 
+[33] Jaturapitakkul C. 2003. Cementing material from 
+calcium carbide residue-rice husk ash. American 
+Society of Civil Engineers. 15, 470-475. 
+[34] Anwar A., Ahmad S., Ahmad S. A. and Husain S. M. 
+A. 2014. Study of compressive strength of concrete by 
+partial replacement of cement with high volume 
+dolomite. 
+International 
+Journal 
+of 
+Current 
+Engineering and Technology. 4(6): 4162-4166. 
+[35] Santhakumar A. R. 2006. Concrete technology. 
+Oxford University Press. 
+[36] Shetty M. S. 2006. Concrete technology: Theory and 
+practice. S Chand & Company Ltd. 
+[37] Felixkala T. and Partheeban P. 2010. Granite powder 
+concrete. Indian Journal of Science and Technology. 
+3(3): 311-317. 
+[38] Raju M. V. R., Vivek K. V., Reddy S. S. and Reddy 
+P. S. 2011. Study of properties of SCC using quarry 
+dust 
+and 
+dolomite. 
+International 
+Journal 
+of 
+Engineering Sciences Research-IJESR. 2(4): 323-332. 

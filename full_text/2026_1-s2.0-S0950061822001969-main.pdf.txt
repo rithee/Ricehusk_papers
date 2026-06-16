@@ -1,0 +1,1279 @@
+
+===== PAGE 1 =====
+
+Construction and Building Materials 322 (2022) 126504
+Available online 23 January 2022
+0950-0618/© 2022 Elsevier Ltd. All rights reserved.
+Relationship between fractal feature and compressive strength of concrete 
+based on MIP 
+Xiao Han a, Baomin Wang a,*, Jingjing Feng b 
+a School of Civil Engineering, Dalian University of Technology, Dalian 116024, China 
+b College of Water Conservancy and Civil Engineering, Shandong Agricultural University, Tai’an 271018, China   
+A R T I C L E  I N F O   
+Keywords: 
+Specific surface area 
+Fractal dimension 
+Micropore structure 
+Compressive strength 
+A B S T R A C T   
+Concrete is a heterogeneous, multiphase, and multilayer composite system with extremely intricate microscopic 
+pore structure. The structural characteristics of microscopic pore of concrete are closely related to its mechanical 
+properties and durability. The pore structure of concrete with various strength grades (C10-C150) was analyzed 
+by Mercury intrusion porosimetry (MIP) from the aspects of pore diameter distribution, pore volume, pore 
+specific surface area and fractal feature. The Menger sponge model was used to calculate the fractal dimension of 
+different pore regions in each test group, and the most suitable pore fractal region was selected to establish the 
+mathematical model between fractal dimension and compressive strength. The results showed that all fractal 
+curves are divided into four segments according multi-fractal characteristic of concrete, namely Region I, Region 
+II, Region III and Region IV. Region I is macropores fractal region (d = 10 μm ~ 950 μm), representing the 
+packing patterns of hydrated cement grains, while Region II - Region Ⅳ is micropores fractal region (d = 0.0064 
+μm ~ 10 μm), reflecting mainly the microstructure of C-S-H hydrates. Region I and Region Ⅳ exhibit obvious 
+fractal features and the fractal dimension D is between 2 and 3. However, the fractal dimension D > 3 in Region 
+II and Region III, which are nonphysical from the point of view of surface geometry. The fractal dimension can 
+clearly describe the internal pore characteristic, and it is a real good correlation with the most probable pore 
+diameter and the pore specific surface area. Moreover, the mathematical model between the fractal dimension 
+and the compressive strength both accords with the positive power exponential function in Region I and Region 
+IV. The fractal dimension can be viewed as a comprehensive parameter of pore shape and spatial distribution of 
+pore structure, which can more accurately represent the relationship between the microscopic pore structure 
+features and compressive strength of concrete. In practical engineering, it serves to realize the damage detection 
+of concrete on site.   
+1. Introduction 
+Concrete has become the most widely used building material today 
+due to its superior performance and wide range of materials [1]. Con­
+crete is a heterogeneous, multiphase, and multilayer composite system 
+with extremely complex microscopic pore structure [2]. The macro­
+scopic characteristics of concrete are the reflection of its complexity 
+microstructural, such as irregularity, indeterminacy, and nonlinearity. 
+And the structural characteristics of macroscopic agglomerations and 
+microscopic pore of concrete are closely related to its mechanical 
+properties and durability. For instance, mechanical properties, density, 
+thermal conductivity, volume stability, hygroscopicity and permeability 
+of materials are directly or indirectly related to its porosity. Moreover, 
+the shape, diameter size, surface area and spatial distribution of pores 
+are also influencing factors [3-7]. However, there are different pores 
+diameter in concrete, such as residual bubbles, capillary pores, gel pore 
+and fine cracks caused by drying shrinkage, which results in random 
+disorder and diversity of the morphology and spatial distribution of 
+pores, and makes the micro-structure of cement composites become 
+abnormal chaotic and complex which traditional Euclidean geometry 
+cannot accurately describe. According to fractal theory, the pores of 
+porous materials have obvious fractal features in its pore volume, pore 
+surface area and pore size distribution [8-13]. Fractal dimension is a 
+parameter that can be used to mark the complexity of a fractal set, and 
+each fractal set corresponds to a fractal dimension defined in some way. 
+Fractal dimension has broken through the boundaries of integer 
+* Corresponding author. 
+E-mail addresses: 1781500110@163.com (X. Han), wangbm@dlut.edu.cn (B. Wang).  
+Contents lists available at ScienceDirect 
+Construction and Building Materials 
+journal homepage: www.elsevier.com/locate/conbuildmat 
+https://doi.org/10.1016/j.conbuildmat.2022.126504 
+Received 20 May 2021; Received in revised form 14 January 2022; Accepted 16 January 2022   
+
+
+===== PAGE 2 =====
+
+Construction and Building Materials 322 (2022) 126504
+2
+dimension in general topological set, which can be expressed by fraction 
+and can describe the essential characteristics of objects. This is also the 
+basic point that distinguishes it from classical geometry. The fractal 
+dimension can be used to describe the complexity of the morphology 
+and spatial distribution of pores when the fractal theory is applied to 
+represent the microscopic pore structure of concrete. The larger the 
+fractal dimension, the more complex of the morphology and spatial 
+distribution of pores in concrete. Studies have shown that [14,15], the 
+fractal dimension can play a bridge role between the microstructure and 
+the macroscopic performance of the concrete, and it can be a quantita­
+tive indicator for guiding material design. Therefore, it is very effective 
+to use fractal theory to analyze and evaluate the mechanism of new 
+concrete, to describe the self-similarity of microscopic structure, me­
+chanical properties under the microscopic level and the macroscopic 
+field [16,17]. 
+Previous studies have shown that the concrete contains a large 
+number of pores and microcracks of different orders, which are very 
+similar to the sponge [18,19]. In addition, the construction principle of 
+the Menger sponge is similar to the measuring principle of MIP. 
+Therefore, the fractal model of Menger sponge can be utilized to simu­
+late the pore characteristics between material particles. Many re­
+searchers have studied the pore structure of cement-based compound 
+cementitious materials and established a fractal calculation model based 
+on the construction principle of the Menger sponge model [9,18-23]. 
+Friesen [22] constructed the surface fractal model of porous materials 
+based on the test results of MIP and the construction principle of Menger 
+sponge, and calculated the pore surface ractal dimension of of porous 
+materials. Ji et al. [23] studied the relationship between pore volume 
+and pore size, and established a calculation model for the fractal 
+dimension of pore volume. And Ji considered that the construction 
+process of the Menger sponge is analogous to the process of filling pores 
+with the hydration product of compound cementitious materials. 
+At present, although some researchers have studied the range of 
+fractal dimension and the relationship between fractal dimension and 
+mechanical properties of concrete [19,24-27]. But the conclusions 
+reached are quite different and some are even opposite [20,25,26]. 
+According to the current research, it is found that there is still not ac­
+curate conclusion on the reasonable range of fractal dimension of 
+microscopic pore structure and the relationship between fractal 
+dimension and strength in concrete. In addition, there is little systematic 
+expression in the mathematical model that represents the relationship 
+between microscopic pore structure parameters and compressive 
+strength beyond the tensile or the combined strength of a particular 
+material. Therefore, this paper constructs a reasonable fractal model 
+based on the microscopic pore structure characteristics of concrete. The 
+pore structure of 11 kinds of concrete with different strength grades was 
+analyzed by mercury intrusion porosimetry (MIP) on the aspects of pore 
+diameter distribution, pore volume, specific surface area and fractal 
+feature. According to the multifractal nature of the fractal curve, the 
+Menger sponge model was used to calculate the fractal dimension of 
+different pore stages in each test group. Then, multiple characterization 
+parameters of pore structure were considered include the pore volume, 
+pore diameter distribution and specific surface area, the optimal pa­
+rameters were selected to establish the mathematical model between 
+microscopic pore structure and compressive strength. 
+2. Materials and experiments 
+2.1. Raw materials 
+The raw materials used in concrete include P⋅O 42.5 Portland cement 
+(C) and silica fume (SF), aggregates and water. The chemical composi­
+tions of cement and silica fume are exhibited in Table 1. And the 
+physical properties of cement and silica fume are listed in Table 2 and 
+Table 3. Aggregates consist of crushed limestone with particle size of 
+5–20 mm and river sand with fineness modulus of 2.8. Clean tap water 
+and polycarboxylate superplasticizer with 19.1% water reducing rate 
+are applied in mixing. 
+2.2. Mixture proportions and preparation of specimens 
+For concrete, the water-binder ratio (W/C) is one of the most 
+important factors affecting its compressive strength. Table 4 shows the 
+mix proportion of 11 different strength grades concrete, which based on 
+the Chinese national standard “Specification for mix proportion design 
+of ordinary concrete (JGJ 55–2011)” [28]. 
+Table 5 shows the forming and curing methods of specimens, ac­
+cording to a Chinese Standard ‘‘Standard for test method of mechanical 
+properties on ordinary concrete (GBT50081-2002)” [29]. 
+2.3. Mercury intrusion porosimetry (MIP) 
+The Mercury intrusion porosimetry (MIP) of concrete specimens 
+after curing 7, 28, 90 days were conducted by PoreMaster 33 mercury 
+porosimeter in the pressure range of 0.23 ~ 33000 Psia, which measured 
+pores diameters was 0.0064 ~ 950 μm. Besides, the contact angle be­
+tween the mercury and the pore surface was θ = 130◦. The size of MIP 
+fragment specimens was 3–5 mm approximately, taken from the con­
+crete specimen cores. Before tested, MIP specimens were placed in ab­
+solute ethanol for at least 24 h to dehydrate and terminate hydration. 
+Then, the specimens were put into the oven under 60℃ until it achieved 
+constant mass to evaporate the free water and alcohol. 
+2.4. Compressive strength experiment 
+The compressive strength experiment was carried out at curing ages 
+of 3 days, 7 days, 28 days, 90 days according to a Chinese Standard 
+‘‘Standard for test method of mechanical properties on ordinary concrete 
+(GBT50081-2002)” [29]. Triplicate specimens were tested for each 
+concrete mixture, and their average value were taken as the final value 
+of the strength. 
+3. Fractal model 
+3.1. The establishment of fractal model 
+The concrete contains a large number of pores and microcracks of 
+different orders, which are very similar to the sponge [18]. The fractal 
+model of Menger sponge can be utilized to simulate the pore charac­
+teristics between material particles [22]. The fractal model of concrete 
+was constructed based on the fractal theory of Menger sponge [27,30]. 
+Fig. 1 shows the geometric constructed process of Menger Sponge. 
+The construction process is as follows:Firstly, the cube is divided 
+with side length R into m3 small cubes. According to a selected iteration 
+rule, n sub-cubes are randomly removed and N1 (N1 = m3-n) sub-cubes 
+Table 1 
+Chemical compositions of binder (%).  
+Raw materials 
+SiO2 
+Al2O3 
+Fe2O3 
+CaO 
+MgO 
+SO3 
+Na2Oeq 
+Cl- 
+Loss 
+P.O 42.5 cement  
+20.85  
+4.93  
+3.40  
+61.85  
+2.69  
+2.53  
+0.78  
+0.05  
+3.45 
+Silica fume  
+94.86  
+1.69  
+0.35  
+0.26  
+0.20  
+—  
+—  
+—  
+1.00  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 3 =====
+
+Construction and Building Materials 322 (2022) 126504
+3
+remain. The remaining sub-cubes are then repeatedly iterated according 
+to the above process. Each of the remaining sub-cubes together consti­
+tutes the matrix of the material, and the removed sub-cubes with 
+different sizes are equivalent to pores or microcracks with different 
+diameter inside the material. After k times of iteration, the radius rk and 
+number Nk of remained sub-cubes is expressed respectively following Eq 
+(1) and (2). 
+rk = R/mk
+(1)  
+Nk = Nk
+1 =
+(
+m3 −n
+)
+= (R/rk)lgN1/lgm
+(2) 
+According to Hausdorff dimension, the pore volume fractal dimen­
+sion D of Menger sponge is expressed as. 
+D = lgN1/lgm
+(3) 
+The volume of remained sub-cubes can be expressed as. 
+Vk = rk⋅Nk
+1 = r3−D
+k
+(4) 
+When k→∞, rk → 0,the cumulative pore volume of Vp is expressed as 
+follows. 
+Vp == R3 −Vk
+(5) 
+The fractal model of Menger sponge can be expressed as. 
+log
+[
+−dVp/dr
+]
+∼(2 −D)logr
+(6) 
+The pore volume of concrete can be measured using the MIP by 
+changing the pressure exerted on liquid mercury [12,30]. To overcome 
+the surface tension between mercury and solids, the pressure P must be 
+applied to the radius is r, before the mercury is injected the pores. The 
+relationship between P and r in cylindrical pores satisfies the Washburn: 
+P = 2Tcos θ
+r
+(7) 
+Where T is the surface tension of mercury, T = 0.458 N/m; θ is the 
+contact angle between mercury and solid, θ = 130◦; P is the pressure 
+applied when mercury is injected into the pores. 
+At a certain pressure, the total pore volume is equal to the volume of 
+mercury is injected into the pores. Combining Eq. (6) and (8), the fractal 
+dimension of concrete can be calculated determined as follows: 
+log[−dVp/dP] ∼(D −4)log(P)
+(8) 
+The fractal model of concrete was based on the Menger sponge, 
+which topological dimension is 2. According to the definition of fractal 
+dimension, fractal dimension is strictly larger than its topological 
+dimension. Moreover, in Eq (5), when Vp = 0, the fractal dimension D =
+3-3lnR/lnrk = 3. D = 2 and D = 3 correspond to smooth surface and 
+volume-filling of concrete [13], respectively. It is nonphysical when D >
+3 or D < 2, from a surface geometry point of view, and the more it ap­
+proaches 3, the more complex the pore surface is. Therefore, in the 
+fractal model of concrete based on the fractal theory of Menger sponge, 
+the fractal dimension must be in the range 2 < Ds < 3[31]. 
+3.2. The calculation of fractal dimension 
+The pore structure parameters of concrete can be measured using the 
+MIP by changing the pressure exerted on liquid mercury, such as pore 
+volume V, pore diameter P and specific surface area S, etc. Import the 
+data measured in MIP from poremaster into Excel. First, solve the lg(-dVi 
+/ dPi) and lgPi by Excel, and draw a scatter diagram with lg(-dVi / dPi) 
+and lgPi as Y and X axes, respectively. Then, Adding the linear relation 
+expression to the scatter diagram, the correlation coefficient of R2 and 
+slope of the linear are obtained by the linear relation expression. Finally, 
+fractal dimension D was calculated by Eq. (8). 
+Table 2 
+Physical properties of cement.  
+Materials 
+Fineness 
+Normal 
+consistency(%) 
+Initial setting 
+time(min) 
+Final setting 
+time(min) 
+Compressive 
+strength(MPa) 
+Flexural 
+Strength(MPa) 
+Stability 
+Specific surface 
+area(m2/kg) 
+Residue on 45 μm square 
+hole sieve(%) 
+3 
+days 
+28 
+days 
+3 
+days 
+28 
+days 
+P.O 42.5 
+Cement 
+353  
+6.3  
+27.9 
+218 
+275  
+26.4  
+54.2  
+5.3  
+8.2  
+8.2  
+Table 3 
+Physical properties of silica fume.  
+Materials 
+Water 
+content 
+(%) 
+Ignition 
+loss(%) 
+Density 
+(g/cm3) 
+Specific 
+surface area 
+(m2/kg) 
+28d active 
+index (%) 
+Silica 
+fume  
+0.06  
+5.48  
+2.1 
+13,000 
+131  
+Table 4 
+Mix proportion of concrete specimens.  
+Samples 
+W/C 
+Sand ratio(%) 
+Water(kg/m3) 
+Cement(kg/m3) 
+Silica fume(kg/m3) 
+Sands(kg/m3) 
+Stones(kg/m3) 
+Water reducing agent(kg/m3) 
+C10  
+0.52 
+38 
+104 
+200 
+— 
+800 
+1300  
+— 
+C20  
+0.48 
+38 
+96 
+200 
+— 
+800 
+1300  
+0.116 
+C30  
+0.44 
+38 
+176 
+400 
+— 
+700 
+1125  
+— 
+C40  
+0.38 
+38 
+152 
+400 
+— 
+700 
+1125  
+0.116 
+C50  
+0.34 
+38 
+136 
+400 
+— 
+700 
+1125  
+0.166 
+C60  
+0.3 
+38 
+120 
+400 
+— 
+700 
+1125  
+0.166 
+C70  
+0.28 
+38 
+186.76 
+600 
+67 
+550 
+800  
+0.266 
+C80  
+0.26 
+38 
+173.42 
+600 
+67 
+550 
+800  
+0.266 
+C100  
+0.22 
+38 
+146.74 
+600 
+67 
+550 
+800  
+0.316 
+C150  
+0.18 
+38 
+120.06 
+600 
+67 
+550 
+800  
+0.316  
+Table 5 
+Forming and curing methods of specimens.  
+Experiments 
+Specimen size 
+Number of 
+samples 
+(block) 
+Curing 
+condition 
+Ages 
+Compressive 
+strength test 
+100 mm × 100 
+mm × 100 mm 
+30 
+20 ± 2℃ 
+RH. ≥95% 
+7 days, 28 
+days, 90 
+days 
+MIP 
+10  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 4 =====
+
+Construction and Building Materials 322 (2022) 126504
+4
+4. Results and discussion 
+4.1. Pore diameter distribution 
+Fig. 2 and Fig. 3 shows that the incremental and cumulative pore 
+diameter distribution curves of each test group at 7 days, 28 days and 90 
+days. The most probable pore diameter and the threshold pore diameter 
+are used to characterize the changes in the microscopic internal pore 
+structure of concrete in Fig. 2 and Fig. 3, respectively. The most probable 
+pore diameter which is the pore diameter of the largest number of pores 
+in the concrete, while the threshold pore diameter is the pore diameter 
+when the pore volume in concrete increases significantly. The curves 
+move to the left with the decrease of W/C and the pore diameter dis­
+tribution range of C10-C150 concrete varies significantly. At 7 days, the 
+most probable diameter of C10 concrete is close to that of C20 concrete, 
+which is 1.6, 2.5 and 3.8 times of C60, C80, and C150 concrete 
+respectively. Meanwhile, the threshold pore diameter of C10 and C20 
+concrete is between 300 nm and 400 nm, while C60-C80 concrete is 
+between 10 nm and 200 nm and C100-150 concrete is between 50 nm 
+and 100 nm. It is caused by excess water forming many pores inside the 
+concrete when the W/C is too large. At 28 days and 90 days, the change 
+trend of pore diameter distribution between C10-C150 concrete is the 
+same as that of 7 days. Moreover, the peak position moves to the left and 
+the peak value of each curve decreases gradually over time, in Fig. 2. 
+This phenomenon means that the most probable diameter and the 
+number of pores in the concrete reduces. Meanwhile, the cumulative 
+pore volume and the threshold pore diameter decrease with curing ages, 
+according to Fig. 3. It indicates that the pore structure refines gradually 
+in the concrete with the progress of hydration. With the curing age, 
+water and cement in concrete react to generate a large number of hy­
+dration products, such as C-S-H gel and Ca(OH)2, which are wrapped on 
+the surface of unhydrated cement particles to form a dense internal 
+microstructure. At the same time, the unhydrated cement particles also 
+play a role in filling the internal pores of concrete. In the later stage of 
+hydration, with the increase of the density of pore structure, the growth 
+space of cement particles is lack, and unhydrated the cement particles 
+hydrated in situ to form very dense hydration products. Therefore, the 
+coarse pores in concrete, microcracks at the interface between aggregate 
+and cement paste gradually disappear, and denser pore structure is 
+formed inside the concrete. Note that the difference in pore diameter 
+distribution between C10-C150 concrete decreases, at 28 days and 90 
+days. In addition, this may be due to the hydration process of C10-C150 
+concrete gradually tends to be stable after 28 days. 
+4.2. Pore volume distribution 
+The pore volume distribution of concrete is shown in Fig. 4. The 
+effect of porosity at each pore grade on strength is different. According 
+to the porosity at each pore grade in concrete and their influence coef­
+ficient, the pore diameter is finely divided into four categories, as fol­
+lows: harmless pores (d < 20 nm), little harmful pores (d = 20 nm–50 
+nm), harmful pores (d = 50 nm–200 nm), and much harmful pores(d >
+200 nm) by Wu [32]. At 28 days, the total pore volume of C30 and C60 
+concrete is 1.72 times and 1.37 times that of C150 concrete, respec­
+tively. The volume of much harmful pores and harmful holes in C30 
+concrete accounted for 25.77% and 14.43 % of its total volume, 
+respectively, while accounted for 12.28 % and 11.40 % in C150 con­
+crete. The same conclusion can be drawn from Fig. 2 and Fig. 3, the 
+smaller the W/C ratio is, the denser the pore structure. The water in 
+concrete is used as a basic medium for dissolving the cementitious ma­
+terials during the hydration, and then participates in the reaction as a 
+reactant. When the W/C is larger, the amount of cementitious material is 
+less, which leads the cementitious material cannot completely wrap the 
+surface of the aggregate. At this time, free water wraps the surface of fine 
+aggregate, causing many pores to form inside concrete under unbal­
+anced the action of pore water pressure. It will lead to the adjacent small 
+pores connected into larger holes, forming a water-bleeding channel. 
+Ultimately, the porous structure of concrete is formed. To a certain 
+extent, it affects the pore diameter distribution of concrete. Moreover, 
+with the increase of curing ages, the total pore volume and the volume of 
+much harmful pores gradually decrease, while the volume of harmless 
+pores gradually increases. The proportion of much harmful pores vol­
+ume in total pore volume of C60 concrete from 27.61% at 7 days to 
+17.79% at 28 days, and 15.15% at 90 days, while the harmless pores 
+from 20.20% at 7d to 28.15% at 28 days, and 39.06% at 90 days. The 
+hydration process of C10-C150 concrete gradually stabilizes after 28 
+Fig. 2. Incremental pore diameter distribution curves of concrete at 7 days, 28 days and 90 days.  
+Fig. 1. Menger Sponge.  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 5 =====
+
+Construction and Building Materials 322 (2022) 126504
+5
+days. The main changes were that the volume of little harmful pore 
+decreases and harmless pore increases at 90 days, which are similar to 
+Fig. 2 and Fig. 3. 
+4.3. Specific surface area distribution 
+Fig. 5 Display the specific surface area of C10-C150 concrete at 7 
+days, 28 days, and 90 days. The harmless pores dominate the total 
+specific surface area in all cases, followed by the little harmful pores. It 
+reveals that the specific surface area depends largely on the volume of 
+the micropores, and it has no obvious relationship with the volume of 
+the mesopores and macropores. In addition, with the decrease of W/C, 
+the total specific surface area and the specific surface area of little 
+harmful pores shows an increasing trend. The proportion of harmless 
+pore volume in the total specific surface area of C30, C60 and C150 
+concrete is 36.46%, 39.47% and 41.32% at 7 days, 40.36%, 42.74% and 
+43.41% at 28 days, and 45.01%, 47.11% and 53.61% at 90 days. From 
+Fig. 2- Fig. 4, the pore volume of the harmless pores increases with the 
+decrease of W/C, while the pore diameter decreases. It leads to an in­
+crease in the roughness of pore surface area. However, the much harmful 
+pores and harmful pores have no obvious change trend. Although, the 
+pore volume of the harmless pores increases with the decrease of W/C, 
+the pore diameter distribution range concentrates in the area with 
+smaller values. The above phenomenon shows that the pore volume and 
+pore diameter decide jointly the value of the pore specific surface area. 
+When the pores volume is constant, the pore specific surface area in­
+creases with of pore diameter reduces. Therefore, the specific surface 
+area of the pores can only be used as a reference value to describe the 
+Fig. 3. Cumulative pore diameter distribution curves at 7 days, 28 days and 90 days.  
+Fig. 4. Pore volume distribution of concrete at 7 days, 28 days and 90 days.  
+Fig. 5. Specific surface area distribution of concrete at 7 days, 28 days, and 90 days.  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 6 =====
+
+Construction and Building Materials 322 (2022) 126504
+6
+compactness of the pore structure and cannot be used as measure 
+standards. 
+4.4. Fractal dimension and fractal regions 
+Due to the excessive number of fractal graphics in all experimental 
+groups, Fig. 6 only shows the fractal curves of C10, C30, C60, C80, C100 
+and C150 concrete at 7 days, 28 days and 90 days. It could clearly 
+illustrate the scale dependence of fractal characteristics. Triplicate 
+specimens were tested for each concrete mixture, and their average 
+value were taken as the final value of the fractal dimension. The values 
+of all fractal dimension are listed in Table 6 and Fig. 7. Fig. 8 illustrates 
+the pore diameter ranges corresponding to all fractal regions. The fractal 
+curves of C10-C150 concrete are composed of two parts. The first part 
+corresponds to the low-pressure intrusion stage (P = 0.0016–0.14 MPa). 
+In this stage, the mercury intrudes into cracks and macroscopic pores 
+Fig. 6. The fractal regions of C10, C30, C60, C100, and C150 concrete.  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 7 =====
+
+Construction and Building Materials 322 (2022) 126504
+7
+which are surface opened. The second part corresponds to high mercury 
+intrusion pressure (P = 0.14–228 MPa), the mercury starts penetrating 
+throughout the sample into microscopic pore. There are two obvious 
+peaks on the second part of each fractal curve. The diameter corre­
+sponding lowest peak on the fractal curve is threshold pore diameter, 
+while the highest point is the most probable pore diameter. 
+From Fig. 6 and Table 6, obvious fractal features are revealed in the 
+internal pore structure of concrete. However, owing to irregularity of 
+pore distribution and diversity of pore morphology in concrete, it has the 
+strongly scale-dependent and multi-fractal characteristics. It can be 
+clearly observed that the second part of the line segment has different 
+change trend in different pressure ranges, in Fig. 6. Thus, the fractal 
+curves of each group concrete cannot be fitted with only one linear 
+regression, but it needs a multi-linear regression. To clearly describe this 
+characteristic, all Fractal curves based MIP and Menger sponge is usually 
+divided three part according to the linear segmentation (linear fitting 
+coefficient), namely microscopic (Region IV, within a fewdozen nano­
+meters), macroscopic (Region I, over a few microns) and non-fractal 
+regions (Region II and Region III). This also reflects the fact that hy­
+drated particles exhibit different accumulation forms at different scales. 
+Region I indicate the distribution of voids caused by drying shrinkage 
+and temperature changes in the system, bubbles caused by uncompacted 
+vibration during forming, and larger pores formed during hydration. 
+Region II is the region of the pores between the diameter corresponding 
+to the initial pressure value of high-pressure and the threshold pore 
+diameter. Region III represents the fractal region from the threshold 
+diameter to the most probable diameter. The amount of mercury 
+injected increases obviously in this region. Region Ⅳ mainly represents 
+the fractal curves of pores that below the most probable diameter. Re­
+gion I is macropores fractal region (d = 5 μm ~ 750 μm), represents the 
+packing patterns of hydrated cement grains, while Region II - Region Ⅳ 
+is micropores fractal region (d = 5 nm ~ 5 μm), reflects mainly the 
+microstructure of C-S-H hydrates. 
+From Fig. 6 and Fig. 8, the scale of fractal region of each group 
+concrete is different. Region I and Region Ⅳ exhibit obvious fractal 
+features, the fractal dimension D is between 2 and 3. The changing trend 
+of fractal dimension of Region I is the same as Region Ⅳ. When the 
+curing age lengthens, the pore pressure ranges and pore diameter ranges 
+reduces gradually, the fractal dimension increases. With the progress of 
+the hydration reaction, hydration products are gradually formed, and 
+the packing pattern of hydrated cement grains is denser in the concrete. 
+The pore structure is more refined. It will lead to pore surface area 
+Fig. 6. (continued). 
+Table 6 
+The fractal Dimension of C10-C150 concrete.  
+Samples 
+7 d 
+28 d 
+90d 
+I 
+II 
+III 
+IV 
+I 
+II 
+III 
+IV 
+I 
+II 
+III 
+IV 
+C10  
+2.4312  
+3.1064  
+3.9565  
+2.3078  
+2.4653 
+3.3019  
+3.9061  
+2.3659  
+2.4867  
+3.2306  
+4.7694  
+2.4013 
+C20  
+2.4467  
+3.1494  
+4.5172  
+2.3337  
+2.4794 
+3.1556  
+4.5274  
+2.4101  
+2.5083  
+3.0711  
+6.4174  
+2.4274 
+C30  
+2.4673  
+3.3453  
+4.1105  
+2.3657  
+2.4992 
+3.3054  
+5.1550  
+2.4362  
+2.5194  
+2.8413  
+7.0265  
+2.4522 
+C40  
+2.4838  
+3.1244  
+4.9727  
+2.3786  
+2.5054 
+3. 2443  
+6.0771  
+2.4555  
+2.5292  
+2.9182  
+7.9029  
+2.4654 
+C50  
+2.4998  
+3.1202  
+5.7721  
+2.4176  
+2.5105 
+3.1220  
+7.7216  
+2.4751  
+2.5354  
+2.9457  
+6.0515  
+2.5041 
+C60  
+2.5012  
+2.9246  
+7.2879  
+2.4692  
+2.5225 
+2.9361  
+4.2091  
+2.4954  
+2.545  
+2.9678  
+7.1494  
+2.5215 
+C70  
+2.5249  
+2.8522  
+7.2148  
+2.4824  
+2.538 
+2. 5823  
+5.2543  
+2.517  
+2.5725  
+3.14  
+7.1276  
+2.5464 
+C80  
+2.5431  
+2.4647  
+6.6099  
+2.4946  
+2.5596 
+2.4574  
+6.3059  
+2.5389  
+2.5778  
+2.8319  
+6.2155  
+2.5562 
+C100  
+2.54553  
+2.4359  
+6.4261  
+2.5233  
+2.5632 
+2.4553  
+4.4015  
+2.5601  
+2.5896  
+3.2037  
+6.2178  
+2.5722 
+C150  
+2.5694  
+3.5505  
+6.9543  
+2.5334  
+2.5857 
+3.5905  
+4.9044  
+2.5771  
+2.6032  
+3.2306  
+4.7694  
+2.5845  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 8 =====
+
+Construction and Building Materials 322 (2022) 126504
+8
+increases and rougher internal surface and more complex pore structure 
+of concrete. Therefore, the fractal dimension gradually increases and 
+stabilizes in the later stage of the hydration reaction [28]. Else, the pore 
+diameter decreases with the decrease of W/C, and the fractal dimension 
+shows an opposite trend. When the W/C is small, it is equivalent to an 
+increase in the amount of cement in the system. It can make the surface 
+of aggregate in concrete completely wrapped. Except that, cement can 
+play the role of physical filling, and it well can fill the coarse pores at the 
+aggregate interface. Both of these effects can refine the internal pore 
+structure of concrete. This conclusion can also be drawn from Fig. 2- 
+Fig. 5, and other researchers have proposed similar conclusions 
+[11,26,33,35-37]. However, the fractal dimension of Region I is always 
+greater than Region Ⅳ, they are between 2.4312 and 2.6032 and 
+2.3078–2.5845, respectively. This reveals extremely irregular and 
+disordered packing patterns of hydrated cement than the pore structure 
+of C-S-H gels [26,31,33,37]. 
+However, the fractal dimension D > 3 in Region III, which are non- 
+physical from the point of view of surface geometry. The pore ranges of 
+Region II and Region III reduce with the increments of the curing age, 
+and the pores are more refined, drifting from the micrometer scale to the 
+nanometer scale. But with increases of W/C, it showed the opposite 
+trend. It is worth noting that the fractal region and non-fractal regions of 
+Fig. 7. The fractal Dimension and Standard Deviation of C10-C150 concrete.  
+Fig. 8. The pore diameter in Region I and Region Ⅳ at 7 days, 28 days and 90 days.  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 9 =====
+
+Construction and Building Materials 322 (2022) 126504
+9
+Region II are unfixed, evolves in different ranges with curing time. Re­
+gion II is the region of the pores between the diameter corresponding to 
+the initial pressure value of high-pressure and the threshold pore 
+diameter, including the large capillary pores of 100 nm-5um. It is known 
+that the strength of hardened cement composite cementitious materials 
+shows a high correlation with the amount of large capillary voids 
+exceeding 100 nm. But the pore ranges in Region II varies between 
+micrometer scale to nanometer scale with curing age, including large 
+capillary pores and fine capillary pores<100 nm. In addition, the fractal 
+dimension is not only related to pore diameter and porosity, but also 
+closely related to pore morphology. Thus, the scale of fractal region and 
+non-fractal region of Region II is not fixed, but evolves in different 
+ranges with the passage of time. This also shows that hydrated particles 
+show different stacking forms at different scales. Else, noted that the 
+important jumps between Region I and Region II, which is a transition 
+region with no fractal property. It may be the result of the assumption of 
+Washburn formula in the MIP is too idealizes. Firstly, the MIP assumes 
+that the pores of the samples to be measured are all open pores. How­
+ever, there are close pores and half-open pores in the actual samples. It 
+results in some pores that cannot be measured. Furthermore, the rela­
+tionship between pressure and volume of mercury injected in the MIP is 
+based on the cylindrical pore model, but there are many kinds of pore 
+morphology in the actual samples. It is presumed that the generation of 
+fractal regions and non-fractal regions of pores ranges is not only related 
+to the pore structure, but there may be a potential correlation with pore 
+morphology, such as ink bottles pores [33]. When the samples contain a 
+large number of pores morphology like ink bottles, it is easy to cause 
+part of the mercury to remain in the samples, forming a phenomenon of 
+mercury hysteresis. Fig. 9 shows that the compared the pore size dis­
+tribution and pore volume between the pressurization and decom­
+pressive process. It can be seen from Fig. 9, the curves of decompressive 
+did not cover that of pressurization, and there was a phenomenon of 
+retention and hysteresis during decompressive. The above phenomenon 
+of non-fractal and its reason has also been shown in some literature 
+[26,31,33,34]. 
+Overall, fractal curves and fractal dimensions can well describe the 
+spatial distribution and internal features of pores in concrete. However, 
+for the fractal curves measured by MIP, the self-similarity and scale- 
+dependency of pore surface for concrete exist only within certain 
+ranges. Therefore, it is necessary to choose a reasonable range of pore 
+diameter when analyzing the internal pore structure of concrete by MIP. 
+4.5. The link between fractal dimension and pore structure 
+characterization parameters 
+The characterization parameters of pore structure in concrete 
+include pore volume, pore diameter distribution, specific surface area, 
+and pore morphology, etc.. However, it is not accurate to express the 
+pore structure only by a single parameter. For instance, the pore volume 
+is an overall summary value to indicate the total number of pores inside 
+the material, which cannot accurately describe the number and diameter 
+of pores in the concrete. The pore diameter in concrete ranges from Å to 
+µm, and different pore diameters have different effects on various as­
+pects of the material’s properties. The most probable pore diameter is 
+used to represent the cracking width of the largest number of pores in 
+the concrete. It can be used to analyze the change of pore diameter. The 
+pores specific surface area can only characterize the surface roughness of 
+pores surface to a certain extent. Moreover, the most probable pore 
+diameter and pore specific surface area are calculated under the premise 
+of assumption, which only has theoretical significance. Many literatures 
+[19,38] draws the conclusion that the pore structure of concrete can be 
+considered as a fractal object in the aspect of pore surface areas, pore 
+volumes, pore diameter, etc.. Therefore, it is very necessary to analyze 
+the pore structure parameters of concrete by fractal theory. 
+In Fig. 6, the concrete has fractal feature only in Region I and Region 
+Ⅳ. In this paper, the relationship between the fractal dimension and the 
+most probable pore diameter, porosity, and pore specific surface area in 
+Region I and Region Ⅳ only is considered, and displayed in Fig. 10 and 
+Fig. 11. From Fig. 10, the relationship between the pore volume and the 
+fractal dimension is discretely distributed in Region I, while the distri­
+bution shows a negative correlation in the Region IV. However, the 
+correlation coefficient between pore volume and fractal dimension is 
+0.7341, which is smaller than that of fractal dimension and the most 
+probable pore diameter and pore specific surface area. This illustrates 
+that the complexity of pore structure distribution is also affected by 
+other factors, such as pore diameter and specific surface area, when the 
+pore volume is the same. The relationship between the fractal dimension 
+and the most probable pore diameter both shows a negative correlation, 
+while the relationship with the specific surface area shows a positive 
+correlation, in Region I and Region IV. This is cause that when the pores 
+inside the concrete are mainly medium and small pores, the surface 
+roughness of the pores increases, and thus the fractal dimension in­
+creases. This is consistent with the fractal theory. Moreover, the corre­
+lation in the Region I is less than that in the Region IV, which can be 
+understood as the ability of micropores to occupy space is relatively 
+strong. 
+Fig. 11 shows the relationship between fractal dimension and pore 
+structure characterization parameters based on different curing days. It 
+is clear that the development trend of the relationship between fractal 
+dimension and pore structure characterization parameters in C10-C150 
+concrete is the same at 7 days, 28 days, and 90 days, as well the 
+development trend in each age is the same as the overall trend. In Region 
+I and Region IV, the relationship between the fractal dimension and the 
+specific surface area both show a positive correlation, while the 
+Fig. 9. The curves of mercury-intrusion and mercury-extrusion.  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 10 =====
+
+Construction and Building Materials 322 (2022) 126504
+10
+relationship with the most probable pore diameter shows a positive 
+correlation at 7 days, 28 days, and 90 days. The relationship between the 
+pore volume and the fractal dimension is discretely distributed in Region 
+I, while the distribution shows a negative correlation in Region IV. This 
+proves once again the conclusion that the pore structure of concrete can 
+be considered as a fractal object in the aspect of pore surface areas, pore 
+volumes, pore diameter and the ability of micropores to occupy space is 
+relatively strong. 
+Fig. 10. The link between fractal dimension and pore structure characterization parameters.  
+Fig. 11. The link between fractal dimension and pore structure characterization parameters.  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 11 =====
+
+Construction and Building Materials 322 (2022) 126504
+11
+According to the above analysis, the fractal dimension can clearly 
+describe the internal pore characteristics of pores. Meanwhile, it has a 
+good correlation with the pore volume, the most probable pore diam­
+eter, and the pore specific surface area. The pore volume, the most pore 
+diameter and pore specific surface area of concrete can be inferred by 
+comparing the dimensions of the fractal dimension. Compared with 
+other pore structure characterization parameters, pore volume fractal 
+dimension can be considered as a comprehensive parameter of pore 
+morphology and pore spatial distribution, which can accurately reflect 
+the pore structure characteristics. 
+4.6. Compressive strength 
+Fig. 12 displays the observed values of compressive strength of C10- 
+C150 concrete, to better meet the design requirements. In Fig. 12, fcu,0 
+(min) and fcu,0(min)
+’ are the minimum values of compounding strengths of 
+C10-C50 concrete and C60-C150 at 28 days, respectively. And fcu,k is the 
+standard value of concrete cube compressive strength at 28 days. It 
+shows a well-known law obviously that the W/C is an important factor in 
+determining strength. Concrete is heterogeneous composite materials 
+composed of crystals, gels, aggregates, incompletely hydrated particles, 
+free water, and pores. The action of crystal, gel and incompletely hy­
+dration particles is to increase the intensity, while free water and pores is 
+the opposite. When the W/C is relatively small, free water in the system 
+decreases, crystals and gels increase, thereby increasing the strength of 
+the concrete. When water consumption exceeds the requirements for 
+cement hydration, excessive free water will migrate and bleed, which 
+will produce a large number of pores in concrete. It will lead to the force- 
+bearing area of the concrete specimen diminish. Meanwhile, the 
+strength of the interface between the aggregate and the cementitious 
+materials reduces. Hence, the compressive strength of concrete is closely 
+related to the density of pores structure. 
+4.7. Mathematical model 
+When analyzing the relationship between pore structure and 
+strength, many parameters need to be considered. But it will lead to the 
+mathematical model expression too complex. Hence, the representative 
+parameters were selected for a simple model from upper parameters. 
+Combined with analysis in 4.4 and 4.5, pore volume fractal dimension 
+can be considered as a comprehensive parameter of pore morphology 
+and pore spatial distribution, which can accurately reflect the pore 
+structure characteristics. Import the data of compressive strength and 
+fractal dimension measured by MIP test into Origin. The scatter plot was 
+drawn for the data of fractal dimension and compressive strength by 
+Origin. Finally, the mathematical model expression of compressive 
+strength and fractal dimension was obtained by linear regression anal­
+ysis of scatter diagram. The mathematical model expression between 
+pore volume fractal dimension and compressive strength be established 
+in Fig. 13. The F-test was used to reveal the significance of the regression 
+constants and function [38]. The value of regression and significance 
+were listed in Table 7. 
+Fig. 12. Compressive strength and standard deviation of concrete.  
+Fig. 13. The mathematical model between fractal dimension and compressive strength.  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 12 =====
+
+Construction and Building Materials 322 (2022) 126504
+12
+In Fig. 13, the fractal dimension of Region I and Region IV both have 
+a good correlation with the compressive strength, according to a positive 
+power function relationship which is expressed as follows Eq. (9) and Eq. 
+(10). 
+σc=aDb
+I
+(9)  
+σc=aDb
+IV
+(10) 
+Where σc is Compressive strength of concrete; DI and DIV is the fractal 
+dimension of Region I and Region IV; a and b are regression constants. 
+R2 I and R2 IV is the correlation coefficient Region I and Region IV. 
+The fractal dimension of Region I and Region IV both have a good 
+correlation with the compressive strength, the larger the fractal 
+dimension is, the greater the compressive strength of concrete is. It can 
+be seen from Fig. 6, Table 6 and Fig. 7, The changing trend of fractal 
+dimension of Region I is the same as Region Ⅳ. When the curing age 
+lengthens, the pore pressure ranges and pore diameter ranges reduce 
+gradually, the fractal dimension and the compressive strength increases. 
+In other words, with the progress of the hydration reaction, hydration 
+products are gradually formed, and the packing pattern of hydrated 
+cement grains is denser in the concrete, and the compressive strength is 
+higher. At this time, the pores in concrete are mostly concentrated in the 
+range of small pores. It will lead to pore surface area increases and 
+rougher internal surface and more complex pore structure of concrete. 
+Therefore, the fractal dimension gradually increases. This means that 
+the larger the fractal dimension is, the more complex the spatial geo­
+metric characteristic of the pore structure is. Thus, the stronger the space 
+filling capacity of concrete, the higher the compressive strength. This 
+proves once again that the magnitude of compressive strength is closely 
+related to the compactness of microscopic pore structure. However, the 
+correlation coefficient of R2 IV is greater than that of R2 I, which are 
+0.9112 and 0.8823. This is because formation methods of different pores 
+are different, the multifractal characteristics of concrete and the corre­
+lation coefficient of fractal dimension are also different. In addition, the 
+fractal dimension of Region I is always greater than Region Ⅳ. This 
+reveals extremely irregular and disordered packing patterns of hydrated 
+cement than the pore structure of C-S-H gels. Therefore, the relationship 
+between fractal dimension and compressive strength of different pores is 
+also different. 
+Overall, this mathematical model in Region I and Region IV both 
+expresses the relationship between macroscopic mechanical properties 
+and microscopic pore structure indexes and the way of mutual influence 
+between them. However, comparing Region I and Region IV, the cor­
+relation between fractal dimension and compressive strength is better in 
+the latter. Therefore, it is more precise to choose the mathematical 
+model in Region IV to predict the strength of denser concrete. 
+5. Conclusions  
+(1) The internal pores density and compressive strength of concrete 
+increase with decrease of W/C or increase of curing age. The 
+hydration process of concrete gradually tends to be stable, and 
+the most probable pore diameter and pore volume reduced after 
+curing 28 days, then the pores are mostly concentrated in the less 
+harmful pores and the harmless pores, results in the slow growth 
+of compressive strength of concrete. 
+(2) Obvious fractal features are revealed in the internal pore struc­
+ture of concrete. All fractal curves are divided into four segments 
+according multi-fractal characteristics of concrete, namely Re­
+gion I, Region II, Region III, and Region IV. Region I is macro­
+pores fractal region (d = 10 μm ~ 950 μm), represents the 
+packing patterns of hydrated cement grains, while Region II - 
+Region Ⅳ is micropores fractal region (d = 0.0064 μm ~ 10 μm), 
+reflects mainly the microstructure of C-S-H hydrates. Region I and 
+Region Ⅳ exhibit obvious fractal features, the fractal dimension D 
+is between 2 and 3. However, the fractal dimension D > 3 in 
+Region II and Region III, which are non-physical from the point of 
+view of surface geometry. 
+(3) The mercury intrusion porosimetry is a very effective and prac­
+tical method for measuring the pore diameter distribution of 
+concrete. However, due to the deviation of the morphology of 
+pores from the ideal pore model and the limitation of pressure 
+range in the actual samples, not all the pores conform to the 
+fractal features.  
+(4) The internal pore characteristics of pores can be clearly described 
+by fractal dimension. And fractal dimension has a good correla­
+tion with the most probable pore diameter and the pore specific 
+surface area. The pore volume fractal dimension can be consid­
+ered as a comprehensive parameter of pore morphology and pore 
+spatial distribution, compared with other pore structure charac­
+terization parameters, which can accurately reflect the pore 
+structure characteristics.  
+(5) There is a good correlation between the fractal dimension of 
+Region I and Region IV and the compressive strength, the math­
+ematical model according with a positive power function rela­
+tionship. Compressive strength can be inferred by comparing and 
+analyzing the fractal dimension in the concrete. In practical en­
+gineering, the damage detection of concrete on site may be 
+realized by the mathematical model. 
+6. Further research  
+(1) More cement composite cementitious materials with different 
+mix proportions should be considered in further, to verify and 
+modify the mathematical model between the compressive 
+strength and the fractal dimension.  
+(2) In this test, the pore structure of concrete was measured by the 
+mercury intrusion porosimetry(MIP). Further, the pore structure 
+with various cement composite cementitious materials will be 
+measured by different methods, such as nitrogen adsorption 
+method, small angle x-ray scattering (SAXS), scanning electron 
+microscope (SEM), Computed Tomography (CT) and different 
+calculation models, the similarities and differences between them 
+will be attempted to compare and analyze.  
+(3) It is a simplified mathematical model between the fractal 
+dimension and compressive strength in this experiment, and it is 
+in the stage of exploration and research at present. In the future, 
+the relationship between the fractal dimension and compressive 
+strength will be further analyzed to establish a more accurate 
+mathematical calculation model. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Table 7 
+The values of Regression Regression and significance.  
+Regression equations 
+a 
+b 
+Statistics 
+Value 
+Standard Error 
+Value 
+Standard Error 
+Reduced Chi-Sqr 
+R2 
+F Value 
+σc=aDb I  
+8.0155 
+1.8214 × 10-11  
+32.0281  
+2.4154  
+183.2224  
+0.8823  
+498.3083 
+σc=aDb IV  
+2.4202 
+3.3933 × 10-7  
+21.3087  
+1.5070  
+140.1461  
+0.9100  
+655.7751  
+X. Han et al.                                                                                                                                                                                                                                     
+
+
+===== PAGE 13 =====
+
+Construction and Building Materials 322 (2022) 126504
+13
+Acknowledgements 
+The authors would like to acknowledge for the National Natural 
+Science Foundation of China (51878116), the Key Project Supported by 
+the Joint Funds of National Natural Science Foundation of China 
+(U20A20324), Liaoning Province Key Project of Research and Devel­
+opment Plan (2020JH2/10100016) and Dalian Science and Technology 
+Innovation Fund Project (2020JJ26SN060). Moreover, we appreciate 
+the editors and reviewers very much for their efforts and valuable 
+comments, which are very helpful for us to revise our manuscript. 
+References 
+[1] X. Chen, S. Wu, J. Zhou, Influence of porosity on compressive and tensile strength 
+of cement mortar[J], Constr. Build. Mater. 40 (2013) 869–874. 
+[2] S. Diamond, Aspects of concrete porosity revisited[J], Cem. Concr. Res. 29 (8) 
+(1999) 1181–1188. 
+[3] M. Zheng, X. Zheng, Z.J. Luo, Fracture strength of brittle porous materials[J], Int. 
+J. Fracture. 58 (3) (1992) R51–R55. 
+[4] P.O. Awoyera, J.O. Akinmusuru, A.R. Dawson, J.M. Ndambuki, N.H. Thom, 
+Microstructural characteristics, porosity and strength development in ceramic- 
+laterized concrete[J], Cem. Concr. Comp. 86 (2018) 224–237. 
+[5] C. Thomas, J. Seti´en, J.A. Polanco, J. de Brito, F. Fiol, Micro-and macro-porosity of 
+dry-and saturated-state recycled aggregate concrete[J], J. Clean. Prod. 211 (2019) 
+932–940. 
+[6] B. Debnath, P.P. Sarkar, Permeability prediction and pore structure feature of 
+pervious concrete using brick as aggregate[J], Constr. Build. Mater. 213 (2019) 
+643–651. 
+[7] A. Gonzalez-Corominas, M. Etxeberria, C.S. Poon, Influence of steam curing on the 
+pore structures and mechanical properties of fly-ash high performance concrete 
+prepared with recycled aggregates[J], Cem. Concr. Comp. 71 (2016) 77–84. 
+[8] A. Heinemann, H. Hermann, K. Wetzig, F. H¨aussler, M. Baumbach, M. Kr¨oning, 
+Fractal microstructures in hydrating cement paste[J], J. mater. Sci. let. 18 (17) 
+(1999) 1413–1416. 
+[9] G. Pia, L. Casnedi, M. Ionta, U. Sanna, On the elastic deformation properties of 
+porous ceramic materials obtained by pore-forming agent method[J], Ceramics 
+International 41 (9) (2015) 11097–11105. 
+[10] D.N. Winslow, The fractal nature of the surface of cement paste[J], Cement & 
+Concrete Research 15 (5) (1985) 817–824. 
+[11] J. Kim, Y.C. Choi, S. Choi, Fractal characteristics of pore structures in GGBFS-based 
+cement pastes[J], Appl. Surf. Sci. 428 (2018) 304–314. 
+[12] A.B. Abell, K.L. Willis, D.A. Lange, Mercury intrusion porosimetry and image 
+analysis of cement-based materials[J], J. Colloid Inter. Sci. 211 (1) (1999) 39–44. 
+[13] B. Zhang, S. Li, Determination of the Surface Fractal Dimension for Porous Media 
+by Mercury Porosimetry[J], Ind. Eng. Chem. Res. 34 (4) (1995) 1383–1386. 
+[14] S.W. Tang, E. Chen, H.Y. Shao, Z.J. Li, A fractal approach to determine thermal 
+conductivity in cement pastes[J], Constr. Build. Mater. 74 (2015) 73–82. 
+[15] Y. Gao, J. Jiang, G. De Schutter, G. Ye, W. Sun, Fractal and multifractal analysis on 
+pore structure in cement paste[J], Constr. Build. Mater. 69 (2014) 253–261. 
+[16] B.B. Mandelbrot, M. Aizenman, Fractals: Form, Chance, and Dimension[J], Phys. 
+Today. 32 (5) (1979) 65–66. 
+[17] B.B. Mandelbrot, Fractal character of fracture of metals [J], Nature 308 (1984) 
+271–272. 
+[18] A. Norton, G.A. Edgar, Measure, Topology, and fractal geometry[J], Am. Math. 
+Mon. 99 (4) (1992) 378. 
+[19] Y. Wang, S. Diamond, A fractal study of the fracture surfaces of cement pastes and 
+mortars using a stereoscopic SEM method[J], Cem. Concr. Res. 31 (10) (2001) 
+1385–1392. 
+[20] B. Zhang, W. Liu, X. Liu, Scale-dependent nature of the surface fractal dimension 
+for bi- and multi-disperse porous solids by mercury porosimetry[J], Appl. Surf. Sci. 
+253 (3) (2006) 1349–1355. 
+[21] S.W. Tang, Z. He, X.H. Cai, R.J. Cai, W. Zhou, Z.J. Li, H.Y. Shao, T. Wu, E. Chen, 
+Volume and surface fractal dimensions of pore structure by NAD and LT-DSC in 
+calcium sulfoaluminate cement pastes[J], Construction & Building Materials 143 
+(2017) 395–418. 
+[22] W.I. Friesen, R.J. Mikula, Fractal dimensions of coal particles[J], J. Colloid. Interf. 
+Sci. 120 (1) (1987) 263–271. 
+[23] X. Ji, S. Chan, N. Feng, Fractal model for simulating the space-filling process of 
+cement hydrates and fractal dimensions of pore structure of cement-based 
+materials[J], Cem. Concr. Res. 27 (11) (1997) 1691–1699. 
+[24] D. Avnir, D. Farin, P. Pfeifer, Molecular fractal surfaces[J], Nature 308 (5956) 
+(1984) 261–263. 
+[25] D. Winslow, J.M. Bukowski, J.F. Young, The fractal arrangement of hydrated 
+cement paste[J], Cem. Concr. Res. 25 (1) (1995) 147–156. 
+[26] Q. Zeng, K. Li, T. Fen-Chong, P. Dangla, Surface fractal analysis of pore structure of 
+high-volume fly-ash cement pastes [J], Appl. Surf. Sci. 257 (3) (2010) 762–768. 
+[27] C. Atzeni, G. Pia, U. Sanna, A geometrical fractal model for the porosity and 
+permeability of hydraulic cement pastes[J], Constr. Build. Mater. 24 (10) (2010) 
+1843–1847. 
+[28] JGJ 55-2011, Specification for mix proportion design of ordinary concrete, 
+People’s Republic of China Ministry of Construction, Beijing, China, 2002 (in 
+China). 
+[29] GB/T 50081-2002, Standard for Test Method of Mechanical Properties on Ordinary 
+Concrete, People’s Republic of China Ministry of Construction, Beijing, China, 
+2002 (in China). 
+[30] D. Niu, D. Li, Q. Fu, A 3D-IFU model for characterising the pore structure of hybrid 
+fibre-reinforced concrete[J], Mater. Design. 188 (2020) 108473, https://doi.org/ 
+10.1016/j.matdes.2020.108473. 
+[31] J. Yang, J. Huang, X. He, Y. Su, H. Tan, W. Chen, X. Wang, B. Strnadel, Segmented 
+fractal pore structure covering nano-and micro-ranges in cementing composites 
+produced with GGBS[J], Constr. Build. Mater. 225 (2019) 1170–1182. 
+[32] Z. Wu, Discussion on Recent Development Direction of Concrete Science and 
+Technology[J], Journal of the Chinese Ceramic Society. 03 (1979) 262–270. 
+[33] J. Yang, F. Wang, X. He, Y. Su, Pore structure of affected zone around saturated and 
+large superabsorbent polymers in cement paste[J], Cem. Concr. Comp. 97 (2019) 
+54–67. 
+[34] K. Li, Q. Zeng, M. Luo, X. Pang, Effect of self-desiccation on the pore structure of 
+paste and mortar incorporating 70% GGBS[J], Constr. Build. Mater. 51 (2014) 
+329–337. 
+[35] J. Yang, Y. Su, X. He, H. Tan, Y. Jiang, L. Zeng, B. Strnadel, Pore structure 
+evaluation of cementing composites blended with coal by-products: Calcined coal 
+gangue and coal fly ash[J], Fuel. Process. Technol. 181 (2018) 75–90. 
+[36] Q. Zeng, M. Luo, X. Pang, L. Li, K., Li Surface fractal dimension: An indicator to 
+characterize the microstructure of cement-based porous materials[J], Appl. Surf. 
+Sci. 282 (2013) 302–307. 
+[37] K.A. Kalliopi, Pore structure of cement-Based Materials. Testing, Interpretation and 
+Requirements[M], Taylor and Trancis, New York, 2006. 
+[38] S. Jin, J. Zhang, S. Han, Fractal analysis of relation between strength and pore 
+structure of hardened mortar[J], Constr. Build. Mater. 135 (2017) 1–7. 
+X. Han et al.                                                                                                                                                                                                                                     

@@ -1,0 +1,2428 @@
+
+===== PAGE 1 =====
+
+Computers and Structures 308 (2025) 107644
+Available online 6 January 2025
+0045-7949/© 2025 Elsevier Ltd. All rights are reserved, including those for text and data mining, AI training, and similar technologies.
+Stacked-based machine learning to predict the uniaxial compressive 
+strength of concrete materials
+Abdelrahman Kamal Hamed a,*, Mohamed Kamel Elshaarawy a, Mostafa M. Alsaadawi a,b
+a Civil Engineering Department, Faculty of Engineering, Horus University-Egypt, New Damietta 34517, Egypt
+b Structural Engineering Department, Faculty of Engineering, Mansoura University, Mansoura 35516, Egypt
+A R T I C L E  I N F O
+Keywords:
+Concrete
+Compressive strength
+Stacking
+Machine learning
+Shapley analysis
+Prediction
+A B S T R A C T
+Compressive strength is a key factor in the design and durability of concrete structures. Accurate prediction of 
+compressive strength helps optimize material use and reduce construction costs. This study proposes a novel 
+stacked model for predicting compressive strength, integrating three base models with linear regression. The 
+base models include Artificial Neural Networks, Random Forest, and Extreme Gradient Boosting, while the 
+stacked model uses Linear Regression as the metamodel. A dataset of 1,030 concrete mix samples covering eight 
+critical input parameters, including cement, blast furnace slag, coarse aggregates, fine aggregates, fly ash, water, 
+superplasticizer, and curing days, was used for training and evaluation. The dataset was split into training (80%), 
+validation (10%), and testing (10%) subsets. The models were trained independently, and their predictions were 
+used to develop the stacked model. Among the base models, the Extreme Gradient Boosting model achieved the 
+highest accuracy, with an R2 of 0.947 during testing. However, the stacked model outperformed it, attaining an 
+R2 of 0.953 in the testing phase. Shapley additive explanations analysis identified curing duration as the most 
+influential factor in compressive strength prediction. A user-friendly graphical interface was developed to 
+facilitate efficient prediction of compressive strength in concrete structures.
+1. Introduction
+The increasing release of greenhouse-gases like carbon dioxide, 
+methane, and nitrous oxide into the atmosphere, primarily driven by 
+human activities such as burning fossil fuels, deforestation, and indus­
+trial processes, is causing profound changes to the Earth’s environment. 
+This rise leads to widespread climate disruptions, including shifts in 
+weather patterns, more frequent extreme weather events, and severe 
+impacts on ecosystems [1]. A particularly visible consequence is the 
+reduction of polar ice stores in the Arctic and Antarctic regions, where 
+ice caps and glaciers are melting at an accelerating rate. This reduction 
+poses significant ecological challenges, including rising sea levels and 
+disrupted ecosystems, which threaten biodiversity and the livelihoods of 
+millions of people worldwide. Among the contributors to these emis­
+sions, the building industry, a key sector within the global economy, 
+emerges as the largest contributor to greenhouse-gas emissions, ac­
+counting for nearly 50 % of the total worldwide emissions. This sub­
+stantial impact underscores the industry’s pivotal role in global 
+environmental concerns [2]. This is primarily due to the extensive use of 
+concrete, which relies heavily on Portland cement (PC) as a key 
+component [3]. PC is a major driver of CO2 emissions, accounting for 
+approximately 7 % of the total global emissions [4]. The production 
+process of PC involves the calcination of limestone (calcium carbonate), 
+which releases carbon dioxide. Notably, the calcination process, where 
+calcium oxide (CaO) is produced, is responsible for a significant portion 
+of these emissions. As urbanization and infrastructure development 
+continue to expand, the demand for concrete and consequently PC has 
+surged. Presently, the annual production of PCs stands at 4,000 million 
+tons, with forecasts predicting this figure will rise to 6,000 million tons 
+by 2060 [5]. This trend exacerbates environmental concerns and high­
+lights the need for sustainable alternatives. Addressing this critical issue 
+requires the development of effective substitutes that can satisfy the 
+increasing demand while drastically lowering energy consumption and 
+CO2 emissions [6]. One promising approach is incorporating waste and 
+recycled materials into concrete production. This method not only ad­
+dresses the demand for construction materials but also contributes to 
+reducing environmental hazards and conserving natural resources. By 
+diverting industrial waste from landfills and utilizing it in concrete, we 
+can mitigate the ecological footprint of construction activities [7,8].
+Various industrial by-products have been recognized as suitable al­
+ternatives to PC in concrete production. Some of the most promising 
+* Corresponding author.
+E-mail addresses: akamal@horus.edu.eg (A.K. Hamed), melshaarawy@horus.edu.eg (M.K. Elshaarawy). 
+Contents lists available at ScienceDirect
+Computers and Structures
+journal homepage: www.elsevier.com/locate/compstruc
+https://doi.org/10.1016/j.compstruc.2025.107644
+Received 29 September 2024; Accepted 2 January 2025  
+
+
+===== PAGE 2 =====
+
+Computers and Structures 308 (2025) 107644
+2
+options include ground granulated blast-furnace slag [9], granite pow­
+der [10], and fly ash [11]. These materials are frequently produced in 
+significant amounts during industrial activities and often present chal­
+lenges related to disposal. By incorporating these materials into con­
+crete, we can not only improve the properties of the concrete, such as its 
+durability and strength but also significantly reduce its environmental 
+impact. For instance, replacing traditional PCs with alternative mate­
+rials like ground granulated blast-furnace slag, granite powder, and fly 
+ash can significantly reduce greenhouse-gas emissions, potentially 
+reducing up to 80 % [12]. This significant reduction highlights the po­
+tential of these materials to contribute to more sustainable construction 
+practices [13].
+Concrete remains the most widely used construction material glob­
+ally, surpassed only by water consumption [14–17]. Its widespread 
+availability, malleability upon cooling, and strength to support loads 
+after hardening are reasons for its widespread acclaim. These properties 
+make concrete an essential material for various construction applica­
+tions. The performance of concrete, particularly its compressive 
+strength, is critical for the safety and durability of structures [18]. 
+Compressive strength (CS) refers to the material’s ability to withstand 
+loads that compress or reduce its size. This property is influenced by 
+various factors, including the water-to-binder ratio, the size and quality 
+of aggregates, and the type of binder used [19]. The heterogeneous 
+nature of concrete, which comprises a mix of binder, aggregates, water, 
+and admixtures, adds to the complexity of predicting its compressive 
+strength. Each component and how they are combined can significantly 
+affect the final properties of the concrete. For example, a lower water-to- 
+binder ratio can lead to higher compressive strength but may reduce 
+workability, while aggregates’ size and grading can impact the finished 
+product’s density and durability. The type of binder, whether it is a 
+traditional PC or an alternative material, also plays a crucial role in 
+determining the concrete’s performance [20].
+Traditionally, the evaluation of concrete’s compressive strength has 
+depended on laboratory testing techniques, comprising crushing con­
+crete samples with predetermined dimensions following a designated 
+curing time. This method is universally accepted due to its ability to 
+provide reliable measurements of a material’s load-bearing capacity 
+[21]. Despite its widespread use, this approach is increasingly viewed as 
+inefficient. The process is both time-intensive and costly, as it requires 
+significant labor and specialized equipment. Moreover, it involves 
+destructive testing, which does not allow for further use of the tested 
+samples, thereby adding to material waste and cost. To overcome the 
+limitations of traditional testing methods, some researchers have 
+explored using empirical regression techniques to predict the CS of 
+concrete based on its mix proportions [22–24]. These techniques involve 
+creating mathematical models that estimate strength outcomes from the 
+known quantities of the mixture’s ingredients, such as cement, water, 
+aggregates, and admixtures. However, developing accurate regression 
+models is challenging due to the intricate and nonlinear relationships 
+among the various components of concrete. Factors such as the type and 
+fineness of cement, the water-to-cement ratio, the size and quality of 
+aggregates, and the presence of additives can all significantly influence 
+the strength, making it difficult to predict outcomes precisely [25].
+In recent years, advancements in artificial intelligence (AI) and 
+Nomenclature
+AI
+Artificial Intelligence
+ANFIS
+Adaptive Neuro-Fuzzy Inference System
+ANN
+Artificial Neural Network
+AdaBoost Adaptive Boosting
+BP
+Back Propagation
+BMs
+Base Models
+BO
+Bayesian Optimization
+BiLSTM
+Bidirectional Long Short-Term Memory
+C
+Cement
+CC
+Correlation Coefficient
+CNN
+Convolutional neural network
+CPI
+Cumulative Prediction Error Index
+CS
+Compressive Strength
+CV
+Cross-validation
+CaO
+Calcium Oxide
+Cagg
+Coarse aggregate
+cov
+Covariance
+DL
+Deep Learning
+DT
+Decision Tree
+FA
+Fly Ash
+Fagg
+Fine aggregate
+GA
+Genetic Algorithm
+GB
+Gradient Boosting
+GBM
+Gradient Boosted Machine
+GBR
+Gradient Boosting Regressor
+GBRT
+Gradient Boosted Regression Tree
+GEP
+GeneExpression Programming
+GRU
+Gated Recurrent Units
+GUI
+Graphical User Interface
+HPC
+High Performance Concrete
+HSC
+High Strength Concrete
+IQR
+Interquartile Range
+KDE
+Kernel Density Estimation
+LR
+Linear Regression
+LSC
+Lightweight Self-compacting Concrete
+LSTM
+Long Short-Term Memory
+LWC
+Lightweight Concrete
+LightGBM Light Gradient Boosting Machine
+MAE
+Mean Absolute Error
+MAPE
+Mean Absolute Percentage Error
+MBE
+Mean Bias Error
+ML
+Machine Learning
+MLPNN
+Multilayer Perceptron Neural Network
+MSSA-DE Multi-objective Metaheuristic Differential Evolution
+OPC
+Ordinary Portland Cement
+PC
+Portland Cement
+PDP
+Partial Dependence Plot
+PDPs-1D One-Dimensional Partial Dependence Plot
+RAC
+Recycled Aggregate Concrete
+RF
+Random Forest
+RMSD
+Root Mean Square Difference
+RMSE
+Root Mean Square Error
+RNN
+Recurrent Neural Networks
+R2
+Determination coefficient
+r
+Pearson correlation coefficient
+SCC
+Self-Compacting Concrete
+SD
+Standard Deviation
+SHAP
+Shapley Additive exPlanations
+SM
+Stacked Model
+SP
+Superplasticizer
+SVM
+Support Vector Machines
+TR
+Training stage
+TS
+Testing stage
+UHPC
+Ultra-High Performance Concrete
+VAF
+Variance Accounted For
+VD
+Validation stage
+W
+Water
+XGB
+Extreme Gradient Boosting
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 3 =====
+
+Computers and Structures 308 (2025) 107644
+3
+machine learning (ML) have revolutionized various industries, including 
+construction. AI, particularly through the use of ML models such as 
+Artificial-Neural-Networks (ANN), Support-Vector-Machines (SVM), 
+Gene-Expression-Programming (GEP), and Deep Learning (DL), has 
+demonstrated remarkable capabilities in handling complex data sets and 
+extracting meaningful patterns [26–30]. These models have been 
+applied to a wide range of problems, providing more efficient and ac­
+curate solutions compared to traditional statistical methods. Applica­
+tions aimed at predicting concrete mechanical properties emphasize 
+various methods, challenges, and their practical implications, under­
+scoring the expanding role of AI in engineering [31,32]. Techniques 
+have also been utilized to optimize concrete mix design, enhancing the 
+reliability and efficiency of construction processes [33]. In structural 
+engineering, ML has been widely used to predict the behavior of struc­
+tural elements [34–38], detect damage [39,40], and calculate buckling 
+loads [41,42]. Many studies have employed ML techniques to estimate 
+the axial load capacity of composite columns [43–48].
+Recent reviews also highlight the role of ML in predicting the 
+behavior of concrete under extreme conditions, such as elevated tem­
+peratures [49]. Additionally, heuristic algorithms, combined with semi- 
+empirical formulas, have been successfully employed for compressive 
+strength estimation, offering more transparent relationships between 
+input variables and outcomes [50]. Furthermore, hybrid ML approaches 
+integrating ANN and particle swarm optimization (PSO) have been 
+applied in various studies, such as predicting soil thermal conductivity 
+and improving concrete property forecasts’ accuracy [51]. Moreover, 
+innovative techniques have been used to predict the unconfined 
+compressive strength of granite, employing only two non-destructive 
+testing indexes, demonstrating the potential of ANN models in diverse 
+geological applications [52].
+In the context of concrete technology, ML models can be trained on 
+large datasets of past concrete mix compositions and their correspond­
+ing compressive strengths, allowing for the creation of predictive models 
+that can forecast the strength of new mixtures with high accuracy. 
+Machine learning offers several advantages over traditional empirical 
+regression methods, particularly in handling the complexities and non- 
+linearities inherent in concrete mixture design. ML models can learn 
+from vast amounts of data and identify subtle patterns that might not be 
+evident through conventional methods. This ability to model complex 
+relationships makes ML particularly useful for predicting the CS of 
+concrete, including variations with alternative materials like fly ash. 
+Furthermore, ML models can adapt and improve over time as more data 
+becomes available, continually refining their predictions.
+Fly ash, a by-product of coal combustion has emerged as a valuable 
+alternative material in concrete production due to its environmental and 
+performance benefits. Incorporating fly ash into concrete not only helps 
+in waste management by reducing the need for landfill space but also 
+improves the mechanical properties of concrete, such as its durability 
+and resistance to chemical attack. Using ML models to predict the CS of 
+fly ash-based concrete is essential for optimizing mix designs. Accurate 
+predictions ensure that the concrete meets necessary performance 
+standards while also maximizing the use of sustainable materials. This 
+approach helps in achieving a balance between structural integrity and 
+environmental sustainability. Various factors affect the CS of concrete, 
+such as the water-to-binder ratio, the size and quality of aggregates, the 
+type of binder employed, the curing period, and the distinct properties of 
+alternative materials like fly ash. The water-to-binder ratio, for instance, 
+directly affects the porosity of the concrete, which in turn influences its 
+strength and durability. Similarly, aggregates’ size and grading can 
+impact the mix’s workability and CS. Understanding these factors and 
+their interactions is critical for designing concrete mixtures that meet 
+specific strength and performance criteria.
+Implementing ML in analysing large datasets from past concrete 
+mixtures allows for developing models that accurately predict concrete 
+characteristics. By examining historical data, ML models can optimize 
+the proportions of materials in new mixtures, enhancing quality control 
+and consistency in concrete production. These models are particularly 
+effective in identifying the optimal balance of materials that achieve 
+desired strength properties while minimizing costs and environmental 
+impact. The use of ML in this context improves the efficiency of concrete 
+design and supports the development of more sustainable building 
+practices. ML models play a pivotal role in promoting the sustainability 
+of concrete mix designs. ML can help reduce the environmental footprint 
+of concrete production by optimising material combinations. For 
+instance, using supplementary cementitious materials like fly ash can 
+lower carbon emissions associated with cement production, significantly 
+contributing to global CO2 emissions. Additionally, optimizing the mix 
+design can reduce material waste and improve concrete structures’ 
+overall lifespan and durability, leading to long-term sustainability 
+benefits.
+The application of ML in structural engineering has gained signifi­
+cant attention, particularly in predicting the concrete’s CS. Various 
+studies have demonstrated the potential of ML models in this domain. 
+For instance, Chithra et al. [53] successfully utilized Artificial Neural 
+Networks (ANN) to predict the CS of high-performance concrete (HPC) 
+containing silica nanoparticles and copper slag, showcasing the ANN 
+model’s ability to handle complex material properties. Similarly, 
+Nguyen et al. [54] developed four different ML models to forecast the 
+compressive and tensile strength of HPC, with their findings empha­
+sizing the superior accuracy of Gradient-Boosting-Regressor (GBR) and 
+Extreme-Gradient-Boosting (XGB) models in capturing intricate data 
+patterns. Kumar et al. [55], focusing on lightweight concrete (LWC), 
+employed SVM models based on data from 120 experimental sets, 
+highlighting SVM’s effectiveness in evaluating LWC compressive 
+strength across diverse datasets. In another study, Ashrafian [56]
+applied heuristic regression methods to analyze the strength and ultra­
+sonic pulse velocity of fibrous concrete, providing valuable insights into 
+the material’s behavior under various conditions. Using a comprehen­
+sive investigation of eight input factors crucial to the model’s accuracy, 
+Zhang et al. [57] employed the Random Forest (RF) approach to forecast 
+the uniaxial CS of lightweight self-compacting concrete (LSC).
+Furthermore, the incorporation of nanotechnology, particularly 
+Nanosilica, has also been explored to enhance the compressive strength 
+of concrete, with various models assessing the influence of mix pro­
+portions and curing conditions on the material’s strength [58]. Aslam 
+et al. [59] developed a GEP model to predict the compressive strength of 
+high-strength concrete (HSC), leveraging a comprehensive dataset of 
+357 points to illustrate GEP’s robustness in modeling complex material 
+characteristics. Collectively, these studies underscore the diverse ap­
+plications and effectiveness of various ML models in predicting concrete 
+properties, highlighting the significant advancements in this field. The 
+overview of these ML models and approaches used in past literature is 
+further detailed in Table 1, providing a comprehensive understanding of 
+the advancements in this field.
+2. Research significance
+The novelty of this research resides in its thorough methodology for 
+using machine learning models to predict CS and developing an inno­
+vative stacked linear regression model (SM-LR), which provides sub­
+stantial enhancements in accuracy and practical usability compared to 
+conventional techniques. This model integrated three ML models: ANN, 
+RF, and XGB, as the base models. These models were chosen based on 
+their strong predictive capabilities, which, combined with stacking, can 
+effectively overcome the weaknesses of each model. These selected 
+models align better with the dataset’s size and complexity, avoiding the 
+need for extensive data, which deep learning models require. They strike 
+a balance between predictive performance and the ability to interpret 
+how inputs affect outputs, which is crucial for applications in structural 
+engineering where model insights guide decisions. Given the available 
+computational resources, these models offer a practical compromise 
+between accuracy and computational demands. The literature review 
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 4 =====
+
+Computers and Structures 308 (2025) 107644
+4
+confirms their successful application in similar engineering contexts, 
+validating their effectiveness and appropriateness for the study’s ob­
+jectives. The following are the authors’ specific contributions: 
+1. To introduce a stacked model (SM) development approach that in­
+tegrates three base ML models: ANN, RF, and XGB, with a linear 
+regression (LR) meta-model and to assess their effectiveness in pre­
+dicting concrete’s CS.
+2. Utilizing Bayesian optimization for hyperparameter tuning signifi­
+cantly enhances the performance of the base models.
+3. A sensitivity analysis was performed using Shapley-Additive- 
+exPlanations (SHAP) to identify the primary variables that impact 
+CS prediction, providing useful insights for enhancing accuracy.
+4. Conducting PDP analysis to illustrate the functional relationship 
+between specific input parameters and model predictions.
+5. This work highlights the importance of blending theoretical model 
+development with practical usability by developing an intuitive 
+Graphical User Interface (GUI), which helps to close the gap between 
+sophisticated computational predictions and their effective applica­
+tion in real-world scenarios.
+3. Research objectives
+This study extends prior research by utilizing ML models to predict 
+the CS of concrete within a data range (2 to 82 MPa). The primary aim 
+was to assess the effectiveness of various base ML models in predicting 
+CS and then enhance their accuracy by stacking techniques. The 
+research methodology, illustrated in Fig. 1, involved collecting and 
+analyzing data from 1030 datasets, including parameters such as cement 
+and aggregates, with the properties examined through histograms and 
+heatmaps. This study utilized three ML models to predict the CS of 
+concrete. The models’ effectiveness was assessed by comparing the 
+actual values with the predicted outcomes, employing various regres­
+sion metrics. To ensure reliable results, k-fold cross-validation was used 
+throughout the evaluation process. Additionally, an in-depth sensitivity 
+analysis was performed to explore how different variables affect model 
+accuracy. The findings were compared with prior studies to pinpoint the 
+most accurate model. This methodology presents a more efficient and 
+economically viable alternative to conventional experimental proced­
+ures, offering deeper insights into the factors influencing concrete CS 
+prediction.
+4. Methodology
+4.1. Database collection
+Using information gathered from previous studies or data collected 
+in the lab, researchers are able to develop predictive models. This study 
+conducted a review of previous academic literature, including notable 
+works by Song et al. [19,60] and Yeh [78], to compile a dataset 
+comprising 1,030 data points pertinent to the CS of concrete. The pri­
+mary features used as input variables in the analysis included cement 
+(C), blast furnace slag (Slag), fly ash (FA), water (W), superplasticizer 
+(SP), coarse aggregate (Cagg), fine aggregate (Fagg), and the curing 
+duration (Age). These factors were crucial in determining the final 
+compressive strength outcome.
+4.2. Descriptive statistics
+Table 2 offers a summary of the collected data’s quantitative fea­
+tures, detailing each of its features in detail. The rows provide detailed 
+statistical data for each variable, while each column represents a distinct 
+variable.
+The Kernel Density Estimation (KDE) plots are shown in Fig. 2. It 
+provides a comprehensive overview of the distribution characteristics 
+for the dataset’s nine distinct variables (X1 through X8 and Y). Key 
+statistical indicators included in these plots are the mean, standard de­
+viation, skewness, and kurtosis, which correspond to the quantitative 
+data shown in Table 2. The mean provides the average value of the data, 
+representing the central tendency. The standard deviation measures the 
+dispersion or spread of the data around the mean. Skewness quantifies 
+the asymmetry of the data distribution: positive skewness indicates a 
+longer right tail, while negative skewness points to a longer left tail. 
+Kurtosis measures the “tailedness” of the distribution: high kurtosis (>3) 
+indicates heavy tails and peakiness, while low kurtosis (<3) suggests 
+lighter tails and a flatter distribution.
+Table 1 
+Distinct ML models applied in previous literature.
+Concrete type
+Dataset
+Model
+Performance index of 
+the best model
+Ref.
+HPC
+471
+MLPNN, DT, RF, 
+and GBRT
+R2 = 0.89, error less 
+than 10 MPa.
+[60]
+HPC
+1030
+GBRT
+R2 = 0.92, MSE =
+22.09 MPa2, RMSE =
+4.7 MPa.
+[25]
+HSC
+225
+FA and RF
+R2 = 0.9747 (Training), 
+0.8753 (test); RMSE =
+3.6 MPa (Training), 6.6 
+MPa (test).
+[61]
+HPC
+1030
+XGB, RF, and 
+SVR
+R2 = 0.95, RMSE =
+0.05, MAE = 0.15.
+[62]
+HPC
+270
+GEP, DT, and 
+Bagging
+R2 = 0.911
+[63]
+UHPC
+78
+ANN
+R2 = 0.9986, MAPE =
+0.0026 %, RMSE =
+4.6564 %.
+[64]
+HPC
+1761
+SVM, ECSO- 
+SVM, ANN, 
+ANFIS, ELM, M5, 
+and NLSR
+R2 = 0.9418, SCC =
+0.9369, MAPE =
+14.013, MAE = 3.9797, 
+RRMSE = 1.0463.
+[65]
+SCC
+7
+ANFIS
+R = 95.79 % (Average 
+of all testing datasets).
+[66]
+HPC
+1133
+MFA-ANN
+R = 0.95.
+[67]
+Pozzolanic 
+concrete
+310
+GEP and ANN
+R2 (Training) = 0.94, R2 
+(Testing) = 0.88.
+[68]
+OPC and HPC
+2817
+ANN and ANFIS
+R2 = 0.9675, RMSE =
+4.6877 MPa, MAE =
+3.5349 MPa, MBE =
+0.3829 MPa.
+[69]
+HSC
+357
+GEP
+R2 = 0.914, RRMSE =
+0.031, RSE = 0.023, 
+MAE = 0.595, RMSE =
+1.62.
+[59]
+UHPC
+626
+XGB, LightGBM, 
+hybrid XGB- 
+LightGBM
+R2 = 0.996 (Training), 
+0.963 (Testing).
+[70]
+RHA-FA 
+concrete
+138
+ANN, XGB, GBM
+R2 = 0.9933 (Train), 
+0.8404 (Test), RMSE =
+0.6755 (Train), 3.2776 
+(Test), MAPE = 9.3646 
+(Test)
+[71]
+UHPC
+810
+AB, RF, GB
+R2 = 0.9913 (Train), 
+0.9804 (Test).
+[72]
+Recycled 
+aggregate 
+concrete 
+(RAC)
+105
+MSSA-DE
+R2 = 0.9906 (Train), 
+0.9604 (Test).
+[73]
+HPC
+2171
+BiLSTM, CNN, 
+GRU, LSTM
+R2 = 0.990 (Training), 
+R2 = 0.961 (Testing).
+[74]
+HPC
+1030
+ANN, MARS-L, 
+MARS-C, GPR, 
+MPMR, and 
+HENSM.
+R2 = 0.8894, RMSE =
+0.0701, MAE = 0.0490, 
+MAPE = 16.2757, a-20 
+index = 78.6408.
+[75]
+Lightweight 
+Structural 
+Concrete
+449
+MARS, M5P, 
+ELM, and GEP
+R2 = 0.966, RMSE =
+4.549 MPa, RAE =
+2.484 MPa.
+[76]
+Recycled 
+Aggregate 
+Concrete 
+(RAC)
+209
+ICA-XGBoost, 
+ICA-ANN, ICA- 
+SVR, and ICA- 
+ANFIS
+R2 = 0.983, MAPE =
+0.031, MAE = 1.147, 
+RMSE = 1.479, a10- 
+index = 1.000.
+[77]
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 5 =====
+
+Computers and Structures 308 (2025) 107644
+5
+For instance, the input X1, with a mean of 281.17 and a standard 
+deviation of 104.51, shows a relatively normal distribution with slight 
+positive skewness (0.51) and moderate kurtosis (−0.32), suggesting a 
+concentration of data points around the mean with a few outliers. The 
+input X2, having a mean of 78.90 and a standard deviation of 86.28, 
+reveals more pronounced positive skewness (0.83) and kurtosis (−0.41), 
+highlighting a higher frequency of lower values and the presence of 
+significant outliers. The input X3, with a mean of 54.19 and a standard 
+deviation of 64.00, demonstrates a bimodal distribution indicative of 
+two dominant data clusters, also reflected in its negative kurtosis 
+(−1.33). Similarly, the input X4′s mean of 181.57 and standard devia­
+tion of 21.86, coupled with near-zero skewness (0.17) and kurtosis 
+(0.12), point to a distribution that is fairly symmetrical but slightly 
+leptokurtic. The input X5, with a mean of 6.20 and a standard deviation 
+5.97, exhibits a multi-modal distribution with substantial skewness 
+(0.91) and kurtosis (1.41), indicating complex underlying data struc­
+tures. The input X6, with a mean of 972.92 and a standard deviation of 
+77.58, displays a near-normal distribution, albeit with slight positive 
+skewness (0.44) and kurtosis (−0.60). The input X7′s mean of 773.58 
+and standard deviation of 20.18, along with a high kurtosis value 
+(−0.10) and slight negative skewness (−0.25), suggest a sharp peak 
+around the mean. The input X8, characterized by a mean of 45.66 and a 
+standard deviation of 63.17, presents a complex distribution with high 
+skewness (2.77) and kurtosis (7.17), indicating a high frequency of 
+lower values and the presence of significant outliers. Lastly, the response 
+output (Y), with a mean of 35.82 and a standard deviation of 16.71, 
+exhibits a relatively normal distribution with moderate positive skew­
+ness (0.31) and kurtosis (−0.31), suggesting a well-centred dataset with 
+Fig. 1. Methodology flowchart.
+Table 2 
+Summary of the statistical information for the dataset.
+Variables → Statistic ↓
+C (kg m−3)
+Slag (kg m−3)
+FA (kg m−3)
+W (kg m−3)
+SP (kg m−3)
+Cagg (kg m−3)
+Fagg (kg m−3)
+Age (days)
+CS (MPa)
+​
+X1
+X2
+X3
+X4
+X5
+X6
+X7
+X8
+Y
+Mean
+281.17
+73.90
+54.19
+181.57
+6.20
+972.92
+773.58
+45.66
+35.82
+Standard Deviation
+104.5
+86.3
+64.0
+21.4
+6.0
+77.8
+80.2
+63.2
+16.7
+Minimum
+102.0
+0.0
+0.0
+121.8
+0.6
+801.0
+594.0
+1.0
+2.33
+Median
+272.9
+22.0
+0.0
+185.0
+6.4
+968.0
+779.5
+28.0
+34.4
+Maximum
+540.0
+359.4
+200.1
+247.0
+32.2
+1145.0
+992.6
+365.0
+82.6
+Count
+1030
+1030
+1030
+1030
+1030
+1030
+1030
+1030
+1030
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 6 =====
+
+Computers and Structures 308 (2025) 107644
+6
+Fig. 2. KDE plots of input and output variables.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 7 =====
+
+Computers and Structures 308 (2025) 107644
+7
+some outliers.
+In summary, most of the variables (Slag, FA, SP, and Age) display a 
+noticeable positive skew, indicating a higher concentration of lower 
+values with fewer higher values. Conversely, the variables W, Cagg, 
+Fagg, and CS show more evenly distributed data, with central tendencies 
+being more apparent.
+4.3. Correlation analysis
+The objective of this analysis is to find and determine the best pre­
+diction model by dissecting inter-variable. It is essential to comprehend 
+these relationships in order to fully appreciate the connections between 
+the desired strength factor and its dependent features. The Pearson 
+correlation coefficient (r) is the most popular metric for this approach 
+since it provides insight into these connections [79,80]. It is defined in 
+Eq. (1) as the ratio of the product of the standard deviations of two 
+variables (x, y) to their covariance (cov). 
+r = cov (x, y)
+σxσy
+=
+∑n
+i=1(xi −x)(yi −y)
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+∑
+n
+i=1
+(xi −x)2
+√
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+∑
+n
+i=1
+(yi −y)2
+√
+(1) 
+The average value of two variables, x and y, is denoted as x‾ and y‾, 
+respectively, while the number of datasets is denoted by (n). A heatmap 
+showing the interdependence of all variables is shown in Fig. 3.
+According to the heatmap, the variables C, SP, and Age exhibit the 
+strongest positive correlations, with r-values of 0.498, 0.366, and 0.329, 
+respectively. These values indicate that these variables are the most 
+influential. This suggested that It becomes increasingly apparent that the 
+addition of cement, superplasticizer, and curing time significantly im­
+pacts the compressive strength of concrete as the amount of these ad­
+ditives increases. Given that the most pronounced negative correlation 
+between X4 and X5 (−0.657) is found between the two variables, it 
+would appear that water and superplasticizers have a relationship that is 
+opposing to one another. In addition, the coefficient of correlation CS of 
+concrete and water have a strong negative correlation, with an r-value of 
+−0.290. There is only a weak relationship between the remaining var­
+iables and the concrete’s CS, which suggests that the variables do not 
+form linear solid relationships with one another. Since there are no 
+uncorrelated features, we can conclude that all eight input parameters 
+help predict concrete CS.
+4.4. Hixbin graphs
+Fig. 4 presents hexbin plots revealing important relationships be­
+tween the dependent variable (CS of concrete) and the various input 
+variables. For cement vs. CS, the hexbin plot shows a strong positive 
+correlation. As cement content increases, the CS of concrete also in­
+creases. The data points show a high density in the middle to upper 
+ranges of cement. The concentrated clustering around the higher cement 
+values suggests that cement significantly and consistently impacts 
+increasing CS. Higher cement content correlates strongly with increased 
+CS, with the densest areas appearing in the higher range of cement 
+content. The plot shows a moderate positive correlation for Blast 
+Furnace Slag vs. CS. While there is a noticeable upward trend, the data 
+points are more dispersed compared to cement. The highest concen­
+tration of data points occurs in the middle range of Slag, implying that 
+moderate amounts of Slag contribute most significantly to CS. This 
+suggests that while Slag positively impacts CS, its effect is most notice­
+able at intermediate levels.
+The fly ash (FA) plot shows a weak positive correlation with CS. The 
+data points are scattered across the plot with a lower density in the 
+higher ranges of fly ash. The density appears to be more concentrated in 
+the lower to middle ranges of FA, which suggests that while fly ash may 
+improve CS slightly, its effect is less pronounced and more variable, 
+particularly at higher levels. Meanwhile, the hexbin plot of water vs. CS 
+reveals a negative correlation. As water content increases, CS decreases. 
+The data points are most concentrated in the lower to middle ranges of 
+Water, with high data density around lower water content values. This 
+supports the idea that lower water content correlates with higher CS, 
+whereas higher water content leads to weaker concrete, as indicated by 
+the concentration of points in the lower ranges. The Superplasticizer 
+(SP) versus CS plot reveals a moderate positive correlation. The data 
+points show a concentration in the middle to upper ranges of SP. This 
+suggests that higher amounts of SP contribute to improved CS, likely due 
+to better workability without sacrificing strength.
+Fig. 3. Heatmap correlation matrix for all studied parameters.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 8 =====
+
+Computers and Structures 308 (2025) 107644
+8
+The coarse aggregate (Cagg) plot shows a moderate positive corre­
+lation with CS. The data points are concentrated around the middle to 
+higher ranges of Cagg. This suggests that a larger proportion of Cagg 
+tends to improve CS, likely due to better packing and structural integrity 
+of the concrete mix. The upper-middle-range of Cagg shows the densest 
+data points, emphasizing its role in enhancing strength. The hexbin plot 
+for fine aggregate (Fagg) shows a weak positive correlation with CS. The 
+data points are scattered widely, with low density at higher ranges of 
+Fagg. The concentration of points in the lower-middle ranges suggests 
+that Fagg has a minor effect on CS, especially in comparison to other 
+components such as cement or coarse aggregate. Lastly, the curing 
+duration (Age) plot shows a clear positive correlation with CS, as ex­
+pected. The data points form a tight upward trend, with a high con­
+centration in the higher ranges of (Age), particularly in the upper- 
+middle to higher ranges. This indicates that longer curing durations 
+are directly associated with increased CS, confirming that prolonged 
+curing allows concrete to reach its full potential strength. These insights 
+suggest that optimizing cement and curing duration, along with mod­
+erate levels of slag and superplasticizer, can significantly enhance CS, 
+while excessive fly ash and fine aggregate may offer diminishing returns.
+4.5. Data normalization
+When input data is of varying sizes, some ML models might not 
+perform as well as they could. The significantly varying magnitudes of 
+the various input features are shown in Table 2, where the cement 
+ranges from 102 to 540 kg/m3, and the superplasticizers range from 0 % 
+to 32.2 %. To fix this, we scale all the input variables to the same value 
+using data normalization or rescaling. The max–min mapping function is 
+used in this process, as shown in Eq. (2).
+Xn =
+X −Xmin
+Xmax −Xmin
+(2) 
+Every input variable in this equation has a minimum (Xmin) and 
+maximum (Xmax) value, and Xn represents the normalized data. The 
+original dataset that is being rescaled is denoted by X. The main 
+advantage of data rescaling is that it can speed up computations and 
+make the ML prediction model more accurate and stable.
+4.6. Description of base models
+4.6.1. ANN model
+The concept of Artificial Neural Networks (ANNs), inspired by the 
+neural networks in the human brain, was first developed by McCulloch 
+and Pitts in 1943 [81]. ANNs are adept at modeling linear and nonlinear 
+systems without the constraints often associated with traditional sta­
+tistical methods. Typically, an ANN comprises three layers: an input 
+layer, one or more hidden layers, and an output layer. The training 
+process of an ANN involves adjusting connection weights according to a 
+learning rule derived from an input–output dataset, with the goal of 
+minimizing the difference between predicted outputs and actual values 
+[82]. This training process includes two main phases: feed-forward and 
+back-propagation. During the feed-forward phase, data flows from the 
+input layer through the hidden layers to the output layer. In the back- 
+propagation phase, weights are adjusted from the output layer back to 
+the input layer based on the overall error in the network. To further 
+reduce this error, an appropriate back-propagation algorithm is 
+employed, with the Levenberg-Marquardt technique being the most 
+efficient and commonly used method for this purpose. Fig. 5 shows that 
+the eight variables were used as inputs to the ANN model, and the output 
+variable Y, which represents the concrete CS, was set as the outcome.
+4.6.2. RF model
+The Random Forest (RF) model, initially introduced by Ho [83] and 
+further developed by Breiman [84], is an advanced ensemble learning 
+method that utilizes multiple decision trees to enhance prediction ac­
+curacy. This technique applies bootstrap resampling to create various 
+instances from the original dataset, with each instance used to construct 
+an individual decision tree [85]. Predictions from these trees are then 
+averaged to produce the final output. RF improves on the limitations of 
+traditional decision trees, such as susceptibility to overfitting, by 
+incorporating randomness in the selection of parameters during the tree 
+construction. This not only makes the model more robust by combining 
+well-established trees but also balances the weaknesses and strengths 
+across different classes. The model structures condition hierarchically 
+from the root to the terminal nodes, with decision-making processes at 
+each node and a simple regression model at each terminal node to make 
+predictions. Pruning is applied to reduce complexity and enhance the 
+model’s generalization capabilities. Fig. 6 shows the RF model’s 
+Fig. 4. Hexbin graphs of the relationship between input variables and CS of concrete.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 9 =====
+
+Computers and Structures 308 (2025) 107644
+9
+architecture.
+4.6.3. XGB model
+The XGB model, renowned for its implementation of gradient- 
+boosted decision trees, is specifically engineered to achieve excep­
+tional speed and performance. The algorithm is characterized by its 
+exceptional flexibility and versatility, making it particularly adept at 
+managing sparse data and efficiently performing both regression and 
+classification tasks. Its scalability and capacity to generate very 
+competitive predictive models have enabled its widespread use in many 
+ML competitions [85]. This study employs XGB due to its beneficial 
+features, including regularization to mitigate overfitting and the use of 
+second-order gradients to accelerate convergence. Additionally, XGB is 
+proficient at handling missing data while making split decisions and 
+incorporates stochastic gradient descent to enhance model diversity and 
+further mitigate overfitting. Moreover, XGB includes system-level im­
+provements, including cache optimization and parallel processing, 
+which contribute to its computational efficiency and its ability to 
+manage large datasets effectively. The architecture of the XGB model is 
+depicted in Fig. 7.
+Fig. 5. Schematic representation of the ANN model development.
+Fig. 6. Architecture of RF model [86].
+Fig. 7. Architecture of XGB model [87].
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 10 =====
+
+Computers and Structures 308 (2025) 107644
+10
+4.7. Hyperparameters tuning
+In this study, Bayesian Optimization (BO) is employed to optimize 
+hyperparameter settings, offering a more efficient alternative to tradi­
+tional methods like Grid Search (GS) and Random Search (RS) [88]. 
+Unlike GS, which exhaustively searches the entire hyperparameter 
+space, BO models the objective function’s prior distribution and refines 
+the search to identify the optimal configuration. The BO process begins 
+with defining the hyperparameter ranges and initial distributions for 
+each model, aiming to maximize performance within these predefined 
+bounds. By reducing unnecessary trials, BO accelerates the identification 
+of the most effective hyperparameter combinations, significantly 
+enhancing tuning efficiency [89]. Critical hyperparameters, such as the 
+number of estimators, learning rate, maximum tree depth, and regula­
+rization parameters, were optimized using BO. This systematic approach 
+minimizes trial-and-error, ensuring that the models achieve optimal 
+performance. The selected configurations were validated on the test 
+dataset to confirm their predictive efficacy.
+Furthermore, this research integrates k-fold cross-validation (CV) to 
+assess model robustness and mitigate overfitting. In particular, a 10-fold 
+CV is utilized, where the dataset is partitioned into ten subsets, with 
+each serving as the test set while the remaining nine are used for 
+training. This method, known for balancing computational efficiency 
+and the bias-variance trade-off, was combined with BO for hyper­
+parameter optimization (BO + 10CV). The use of a 10-fold CV ensures 
+accurate performance estimation while maintaining manageable 
+computational demands.
+4.8. Description of the stacked linear regression model
+Stacking is an ensemble learning technique designed to enhance the 
+predictive accuracy of machine learning models by combining multiple 
+individual models [90,91]. The fundamental idea is to train several base 
+models (BMs), often referred to as level-0 models, on the same dataset 
+and then use another model, known as the meta-model or level-1 model, 
+to aggregate their predictions into a final prediction. In a stacking 
+ensemble, multiple BMs are trained independently on the training data. 
+These models make predictions on the validation dataset, generating 
+several forecasts. These predictions form a new dataset, where each 
+column represents the predictions from a different base model. The 
+meta-model is then trained on this new dataset to learn how to combine 
+the base model predictions into a final output.
+When linear regression is used as the meta-model in a stacking 
+ensemble, the process starts with training the base models: ANN, RF, and 
+XGB on the training dataset. These BMs make predictions on the vali­
+dation dataset, creating a new dataset composed of these predictions. A 
+linear regression model is trained on this new dataset, using the actual 
+target values from the validation data as the response variable. The 
+linear regression model learns to weigh the contributions of each base 
+model’s predictions to produce a final, combined prediction.
+Stacking with a linear regression meta-model can significantly 
+improve model performance by leveraging the strengths of various BMs. 
+This method allows for flexibility in model choice and can capture 
+diverse patterns in the data, making the final model more robust and 
+accurate. Additionally, by combining multiple models, stacking reduces 
+the risk of overfitting, as the meta-model balances the strengths and 
+weaknesses of each base model. By employing stacking with linear 
+regression, we achieve a more accurate and robust predictive model that 
+benefits from the diverse insights provided by the base models. This 
+approach is particularly effective in complex datasets where no single 
+model performs optimally.
+4.9. Evaluation methods of adopted models
+The dataset was carefully divided into three separate sets: training, 
+validation, and testing, with respective weights of 80 %, 10 %, and 10 %. 
+Both the training and validation datasets were used to develop and test 
+the BMs. The SM, on the other hand, was built using validation-stage BM 
+predictions. Then, the remaining 10 % of the database was used to test 
+its performance. This way, we can test the model thoroughly on data it 
+has never seen before while still training it on a statistically valid subset 
+of the data. However, when comparing and evaluating the adopted 
+models, two popular approaches are quantitative and visual methods 
+[92].
+Visual methods, such as scatter plots, violin boxplots, and Taylor 
+diagrams, provide quick insights into the accuracy of various statistical 
+measures, including maximum, minimum, median, and quartiles 
+[93,94]. These visual tools offer rapid, engaging, and informative, easily 
+interpretable comparisons. However, they may not provide detailed 
+information about overall model performance [95,96]. Seven quanti­
+tative metrics were employed to provide detailed numerical insights into 
+model performance. These performance metrics equations and their 
+ideal values are listed in Table 3.
+The A20 index serves as a crucial metric for assessing the reliability 
+and accuracy of predictive models [97,98]. The metric quantifies the 
+percentage of predictions that lie within a 20 % error margin of the 
+actual values, providing a straightforward assessment of the model’s 
+performance. The A20 index is calculated as follows. 
+A20 = m20
+n
+(3) 
+where m20 represents the number of predictions where the predicted 
+value is within 20 % of the actual value. A lower A20 value indicates 
+better predictive reliability, as it suggests that a greater proportion of the 
+model’s predictions are close to the actual values.
+4.10. Interpretation of studied features
+To evaluate and interpret machine learning models at both broad 
+and detailed levels, researchers employ the SHapley Additive exPlana­
+tions (SHAP) method, which is grounded in cooperative game theory 
+principles [99]. This method is used to assess the comparative influence 
+of input variables on the prediction process, providing a sophisticated 
+tool within the field of explainable AI. SHAP facilitates the clarification 
+of the intricate relationships between input variables and estimates 
+made by models, offering critical insights into which features most 
+significantly influence the predictions and how they do so [100].
+On the other hand, the current study examined a Partial Dependence 
+Plot (PDP) to illustrate the functional link between a limited set of input 
+parameters and the model’s predictions. It illustrates the extent to which 
+Table 3 
+Equations of performance metrics and their ideal values.
+Metric
+Equation
+Ideal 
+Value
+Determination 
+coefficient (R2)
+R2 =
+∑n
+i=1
+(
+yi −ymean
+)2 −∑n
+i=1
+(
+yi −
+̂yi
+)2
+∑n
+i=1
+(
+yi −ymean
+)2
+​
+1
+Root Mean Square Error 
+(RMSE)
+RMSE =
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+∑n
+i=1
+(
+yi −
+̂yi
+)2
+n
+√
+​
+0
+Mean Absolute Error 
+(MAE)
+MAE =
+∑n
+i=1
+⃒⃒yi −
+̂yi
+⃒⃒
+n
+​
+0
+Mean Absolute 
+Percentage Error 
+(MAPE)
+MAPE =
+∑⃒⃒⃒⃒
+yi −
+̂yi
+yi
+⃒⃒⃒⃒
+n
+× 100
+​
+0
+Mean Bias Error (MBE)
+MBE =
+∑( ̂yi −yi
+)
+n
+​
+0
+Cumulative Prediction 
+Error Index (CPI)
+CPI =
+∑⃒⃒̂yi −yi
+⃒⃒
+∑yi
+​
+0
+Variance Accounted For 
+(VAF)
+VAF =1 −Var
+(
+yi −
+̂yi
+)
+Var
+(
+yi
+)
+​
+1
+Where n is the dataset number yi and ̂yi are actual and predicted ith values, 
+respectively.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 11 =====
+
+Computers and Structures 308 (2025) 107644
+11
+the predictions are influenced by the values of these specific input pa­
+rameters [101]. Moreover, PDPs highlight the impact of each parameter 
+on the predicted outcomes generated by a machine learning algorithm. 
+PDPs consider all instances within the dataset as a global method, 
+revealing the overall relationship between a feature and the forecasted 
+outcome [102]. These plots offer valuable insights into the relative 
+contribution of each input variable to the predicted outcome. Further­
+more, one-dimensional PDPs (PDPs-1D) depict the relationship between 
+the expected result and a single input parameter.
+4.11. Graphical user interface (GUI)
+A user-friendly GUI has been developed to make the predictive 
+model for estimating CS easily accessible. This interface, built using 
+Python’s Tkinter library [103], leverages its simplicity and standard 
+distribution for creating interactive applications [104]. The develop­
+ment process involves setting up the Python environment, with the 
+design focused on user guidance and ease of use. Key components 
+include input fields (TextEntry widgets) for user data entry, a Button 
+widget to trigger predictions, and a Label or Text widget to display the 
+predicted CS. The predictive model is seamlessly integrated into the GUI 
+using the pickle library to load and apply the model based on user in­
+puts. To facilitate accessibility, collaboration, and distribution, the GUI 
+is hosted on GitHub, providing version control and easy sharing.
+5. Results and discussions
+5.1. Optimal hyperparameters of developed BMs
+Hyperparameters play a crucial role in the performance and effi­
+ciency of machine learning models. Unlike model parameters, which are 
+learned from the data during training, hyperparameters are set prior to 
+the training process and guide the learning process. The selection of 
+appropriate hyperparameters can significantly influence the model’s 
+ability to generalize and make accurate predictions on unseen data. For 
+the ANN, the optimal configuration includes three hidden layers, each 
+with 20 neurons. Both the hidden layers and the output layer use the 
+sigmoid activation function, which helps achieve non-linearity and en­
+sures the model can capture complex patterns in the data.
+The RF model, optimized for this study, consists of 313 estimators, 
+with each tree having a maximum depth of 23. The model uses a min­
+imum samples split of 2.0 and a minimum samples leaf of 1.0, ensuring 
+that each split and leaf has a sufficient number of samples to avoid 
+overfitting. The XGB model is fine-tuned with 493 estimators and a 
+learning rate of 0.067, balancing the speed of learning and convergence. 
+The model’s maximum depth is set to 4.0, allowing it to capture in­
+teractions between features. Additionally, a column sample with tree 
+value of 0.724 and a sub-sample value of 0.40 are used to prevent 
+overfitting by adding randomness to the model training process. These 
+optimized hyperparameters enhance the performance and accuracy of 
+the respective ML models, enabling them to deliver robust and reliable 
+predictions.
+5.2. Quantitative assessment of BMs
+5.2.1. ANN model
+Fig. 8 presents a scatter plot comparing actual versus predicted 
+values using an ANN model. The plot includes data points for both the 
+training (TR) stage, represented by blue hexagons, and the validation 
+(VD) stage, represented by orange hexagons. These points are distrib­
+uted around the equality line (0 % error), which denotes a scenario 
+where predicted values perfectly match actual values.
+In the TR stage, the performance metric of the R2-value is 0.972, 
+indicating a strong linear relationship between the actual and predicted 
+values. The error metrics are as follows: RMSE of 2.776 MPa, MAE of 
+1.169 MPa, MAPE of 4.23 %, and MBE of 0.194 MPa, suggesting that the 
+model exhibits good prediction accuracy with a slight overestimation 
+bias. Additionally, the CPI is 0.033, and the VAF is 0.973, further 
+highlighting the model’s robust performance. In the VD stage, the R2- 
+value decreases from 0.972 to 0.913, which still indicates a strong 
+linear relationship. However, the RMSE increases to 5.270 MPa and the 
+MAE to 3.625 MPa, suggesting that the model’s predictions are less 
+accurate in the validation set compared to the training set. The MAPE is 
+13.60 %, and the MBE is 0.107 MPa, indicating a reduced prediction 
+bias. The CPI is 0.103, and the VAF is 0.913, reflecting good model 
+performance on unseen data.
+Additionally, Fig. 8 includes two dashed lines representing ± 10 % 
+deviation from the equality line, which helps visually assess the model’s 
+Fig. 8. Scatter plot comparing the actual and predicted CS-values based on the ANN model.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 12 =====
+
+Computers and Structures 308 (2025) 107644
+12
+prediction accuracy. The majority of data points fall within these 
+bounds, indicating that most predictions are within 10 % of the actual 
+values. This visualization underscores the model’s effectiveness in pre­
+dicting values that closely match the actual data with a relatively small 
+margin of error. Overall, the ANN model demonstrates strong perfor­
+mance on the training set and maintains good prediction accuracy on the 
+validation set. The performance metrics indicate a robust linear rela­
+tionship and low error rates, with most predictions falling within a ± 10 
+% deviation from the actual values.
+5.2.2. RF model
+Fig. 9 displays a scatter plot comparing actual versus predicted 
+values using the RF model. This plot shares the same characteristics as 
+the previous plot for the ANN model. During the TR stage, the R2-value 
+is 0.985, indicating an extremely strong correlation between the actual 
+and predicted values. The error metrics are RMSE = 2.049 MPa and MAE 
+= 1.324 MPa, demonstrating the model’s high prediction accuracy. 
+Additionally, the MAPE and MBE values are 4.60 % and −0.077 MPa, 
+respectively, indicating a slight underestimation bias. The CPI is 0.037, 
+and the VAF is 0.985, further underscoring the model’s strong 
+performance.
+In the VD stage, the R2 value is 0.932, slightly lower than in the TR 
+stage. The RMSE and MAE values are 4.350 MPa and 3.118 MPa, 
+respectively, suggesting that the RF model’s prediction errors have 
+increased compared to the TR stage. The CPI is 0.088, and the VAF is 
+0.932, reflecting solid performance on unseen data. Moreover, most 
+predictions fall within ± 10 % deviations from the equality line, high­
+lighting the model’s effectiveness in accurately predicting values with a 
+relatively small margin of error.
+Several observations can be made when comparing the RF model 
+with the previous ANN model. Both models exhibit strong linear re­
+lationships between actual and predicted values, with high correlation 
+coefficients and R2 values in both the TR and VD stages. However, the RF 
+model shows slightly higher correlations during the TR and VD stages, 
+with an increase in R2 of 1.30 % and 1.90 %, respectively, compared to 
+the ANN model. This indicates that the RF model captures the variance 
+in the TR stage slightly better than the ANN model. Regarding the error 
+metrics, the RF model has lower RMSE and MAE values than the ANN 
+model in the TR stage, with the ANN model being higher by 0.727 MPa 
+and 0.155 MPa in RMSE and MAE, respectively. This suggests that the 
+RF model had better prediction accuracy. In the VD stage, the RF model 
+also shows a lower RMSE by 0.92 MPa compared to the ANN model and 
+a slightly lower MAE by 0.245 MPa. This indicates that the RF model has 
+a lower overall error, while the ANN model may be more susceptible to 
+larger individual errors. Finally, both the RF and ANN models have 
+similar MAPE values during the TR stage (RF = 4.60 % and ANN = 4.23 
+%). However, when tested with unseen data in the VD stage, the RF 
+model shows a lower MAPE, with a difference of 1.86 % compared to the 
+ANN model.
+In summary, while both RF and ANN models perform well, the RF 
+model performs slightly better in capturing variance and minimizing 
+errors, particularly in the VD stage. The ANN model, though robust, 
+shows marginally higher errors and lower correlation metrics, especially 
+in the VD stage.
+5.2.3. XGB model
+Fig. 10 presents a scatter plot comparing actual versus predicted 
+values using the XGB model. This plot shares the same features as the 
+previous ones for the ANN and RF models. During the TR stage, the R2- 
+value indicates an exceptionally strong linear relationship between the 
+actual and predicted values, demonstrating that the model’s predictions 
+closely align with the actual values. The RMSE (2.002 MPa), MAE 
+(1.384 MPa), and MAPE (5.05 %) are relatively low, suggesting that the 
+XGB model exhibits a low average error. However, the errors increase 
+slightly in the VD stage compared to the TR stage, indicating possible 
+overfitting. The CPI is 0.038, and the VAF is 0.986, further highlighting 
+the model’s strong performance.
+In the VD stage, the R2-value shows a minimal decrease from 0.986 
+to 0.953, indicating a good fit. The RMSE and MAE values of 3.859 MPa 
+and 2.715 MPa, respectively, suggest that the XGB model’s prediction 
+errors have slightly increased compared to the TR stage. The MAPE was 
+9.58 %, and the MBE was −0.070 MPa, indicating a slight prediction 
+bias. The CPI is 0.077, and the VAF is 0.953, reflecting good model 
+performance on unseen data. Additionally, most data points fall within 
+the ± 10 % bounds, indicating that the majority of predictions are 
+within 10 % of the actual values. This visualization underscores the 
+model’s effectiveness in predicting values that closely match the actual 
+data with a relatively small margin of error. Several observations can be 
+Fig. 9. Scatter plot comparing the actual and predicted CS-values based on the RF model.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 13 =====
+
+Computers and Structures 308 (2025) 107644
+13
+made when comparing the XGB model with the previously discussed 
+ANN and RF models: 
+1. All three models demonstrate strong linear relationships between 
+actual and predicted values, with R2-values greater than 0.91 during 
+both the TR and VD stages.
+2. The XGB model, followed by RF, has slightly higher R2 values than 
+the ANN model, suggesting a better capture of variance in both the 
+TR and VD stages.
+3. The RF and XGB models exhibit similar RMSE and MAE values 
+during the TR stage, which are lower than those of the ANN model, 
+indicating better prediction accuracy. In the VD stage, the XGB 
+model shows lower RMSE than both the ANN and RF models, indi­
+cating superior performance in these error metrics.
+4. The MAPE values for the RF and XGB models are approximately the 
+same during the TR stage and are lower than those for the ANN 
+model. In the VD stage, the XGB model exhibits lower MAPE than 
+both the ANN and RF models, suggesting that the XGB model may 
+generalize better in terms of MAPE.
+5. The MBE for all models indicates minimal prediction bias, with the 
+XGB model displaying the least bias. The CPI and VAF metrics 
+consistently indicate strong model performance across all models, 
+with the RF and XGB models slightly outperforming the ANN model.
+In summary, the XGB model demonstrates slightly better overall 
+performance than the others. The RF model performs comparably, with 
+substantial prediction accuracy and minimal bias. However, The ANN 
+model shows a larger deviation, suggesting it may be more prone to 
+overfitting than the other two models.
+5.3. Visual assessment of BMs
+5.3.1. Violin plots
+The violin plots provide a visual comparison of the distribution of 
+predicted values from various models against the actual values. A model 
+whose predicted values closely match the shape and spread of the actual 
+values’ violin plot is considered more accurate. These plots also help 
+identify significant deviations or biases in the model predictions. Fig. 11
+Fig. 10. Scatter plot comparing the actual and predicted CS-values based on the XGB model.
+Fig. 11. Violin plots comparing the predicted CS-values from the BMs during the (a) TR and (b) VD stages.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 14 =====
+
+Computers and Structures 308 (2025) 107644
+14
+features two violin plots comparing the predicted CS-values from 
+different BMs during the TR and VD stages. The CS values are plotted 
+along the y-axis, while the x-axis represents various models. Each violin 
+plot displays the kernel density estimation of the data distribution, with 
+wider sections indicating a higher density of data points. The central 
+white dot signifies the median value, while the thick band encompassing 
+the upper and lower values denotes the interquartile range (IQR).
+In the TR stage (Fig. 11a), the RF and XGB models are identified as 
+the top-performing models, exhibiting centered medians of 35.35 and 
+35.45, respectively, which closely align with the actual CS of 35.20 MPa. 
+The plots exhibit symmetry relative to the actual data, suggesting min­
+imal variance. The interquartile ranges are 24.13 to 45.30 MPa for the 
+RF model and 24.32 to 45.19 MPa for the XGB model, both closely 
+aligning with the actual CS range of 23.72 to 46.22 MPa. The compact 
+distribution indicates that the RF and XGB models exhibit a strong fit to 
+the training data. The ANN model demonstrates slightly broader yet still 
+well-structured distributions. The data exhibited a median of 35.60 and 
+an IQR from 23.78 to 46.14 MPa, showing moderate variance alongside 
+reliable performance.
+During the VD stage (Fig. 11b), the XGB and RF models exhibit su­
+perior performance, characterized by narrow and symmetric distribu­
+tions that effectively generalize from the training data, with XGB 
+showing a slight advantage over RF. The XGB model exhibits a median of 
+32.34 MPa with an IQR spanning from 22.11 to 47.21 MPa. The RF 
+model shows a median of 32.09 MPa and an IQR from 21.75 to 47.28 
+MPa. Both models demonstrate low variance relative to the actual 
+CS values, which have a median of 31.37 MPa and an IQR from 19.77 to 
+46.39 MPa. The ANN model demonstrates greater variance, presenting a 
+median of 33.05 MPa and an interquartile range from 19.13 to 47.59 
+MPa, indicating reduced generalization capability.
+5.3.2. Taylor diagrams
+The second visual assessment involved using Taylor diagrams, which 
+graphically compare the statistical properties of different models with 
+the actual data. These diagrams feature axes for standard deviation (SD) 
+and correlation coefficient (CC), with the actual data represented as a 
+reference point. The radial distance from the origin indicates the SD, the 
+angle represents the CC, and the distance from the actual point reflects 
+the centered Root Mean Square Difference (RMSD) between the model 
+predictions and the actual values. Fig. 12 displays the Taylor diagrams 
+comparing predicted CS-values from the BMs during the TR and VD 
+stages. The statistical results, including SD and CC, are derived from 
+these diagrams.
+For the ANN model, the SDs are 16.94 MPa in the TR stage and 19.15 
+MPa in the VD stage, with corresponding CCs of 0.986 and 0.967. The RF 
+model exhibits SDs of 16.10 MPa in the TR stage and 16.70 MPa in the 
+VD stage, with CCs of 0.993 and 0.972, respectively. The XGB model 
+shows SDs of 16.50 MPa in the TR stage and 17.35 MPa in the VD stage, 
+with CCs of 0.993 and 0.976. The results clearly indicate that the RF and 
+XGB models outperform the others in terms of SD and CC values. The 
+XGB model, in particular, has the highest CC and the smallest centered 
+RMSD, demonstrating its superior ability to capture the variance and 
+trends in the data accurately. The RF model, while slightly trailing the 
+XGB model, still performs strongly with a high CC and low centered 
+RMSD. The ANN model, however, exhibits a higher centered RMSD and 
+slightly lower CC than the XGB and RF models, suggesting that although 
+it captures the general trends, it is less precise in matching the actual 
+data distribution and has a larger prediction error. Thus, the visual as­
+sessments conducted highlight the efficacy of the XGB and RF models in 
+accurately and consistently predicting CS-values.
+5.3.3. Rank analysis
+A rank analysis was conducted to evaluate the overall performance of 
+the developed base models using the performance metrics presented in 
+Table 3. In this analysis, a model attaining an overall rank value of 1 
+signifies the highest level of performance, whereas a rank of 3 denotes 
+the lowest level of performance. The sum of the individual ratings across 
+various metrics is used to determine the overall ranking of each model. 
+The model exhibiting the greatest cumulative rank is regarded as the 
+least efficient, while the model exhibiting the smallest cumulative rank 
+is defined as the most efficient. An analysis of the rankings for both the 
+TR and TS stages is presented in Table 4.
+During the TR stage, the XGB model emerges as the most exceptional 
+performer, achieving a total score of 13 by consistently ranking first 
+across all seven performance metrics. The RF model follows closely with 
+a total score of 14, ranking second overall and demonstrating strong 
+performance. The ANN model secures the third spot with a score of 15. 
+All models developed in the TR stage exhibited robust predictive capa­
+bilities, as evidenced by their close scores. In the TS stage, the XGB 
+model emerges as the most effective, achieving the lowest total score of 
+8, indicating top performance across all metrics. This consistency from 
+the training to the testing stages underscores its robustness and 
+Fig. 12. Taylor diagrams comparing predicted CS-values from the BMs during the (a) TR and (b) VD stages.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 15 =====
+
+Computers and Structures 308 (2025) 107644
+15
+reliability. The RF model follows in second place with a score of 13, 
+demonstrating dependable performance in real-world testing scenarios. 
+The ANN model remains the least effective in the testing phase, with a 
+score of 21, consistent with its training performance, highlighting sig­
+nificant challenges in predictive accuracy. Overall, the XGB model dis­
+tinguishes itself among three BMs, achieving an impressive overall score 
+of 21. The RF model holds the second rank with a score of 27. Lastly, the 
+ANN model consistently ranks lowest, with notably high scores of 36, 
+indicating the need for further improvement in its predictive 
+capabilities.
+5.4. Prediction of concrete CS via SM-LR
+The prediction of concrete CS using a Stacked Model-based Linear 
+Regression (SM-LR) involves integrating the outputs of three distinct 
+base models: ANN, RF, and XGB. Through a systematic trial-and-error 
+process, a linear equation was derived that optimally combines the 
+predictions from these individual models into a cohesive ensemble 
+model. The equation for the SM-LR model is as follows: 
+CS(SM−LR) = −0.7122 + 0.1877 CS(ANN) + 0.4506 CS(RF) + 0.3814 CS(XGB)
+(4) 
+In this equation, the coefficients associated with each BM indicate 
+Table 4 
+Rank analysis for the developed BMs.
+Model
+Stage
+R2
+RMSE (MPa)
+MAE (MPa)
+MAPE
+MBE
+CPI
+VAF
+Total Score
+Overall Rank
+ANN 
+TR
+3
+3
+1
+1
+3
+1
+3
+15
+36
+VD
+3
+3
+3
+3
+3
+3
+3
+21
+RF 
+TR
+2
+2
+2
+2
+2
+2
+2
+14
+27
+VD
+2
+2
+2
+2
+1
+2
+2
+13
+XGB
+TR
+1
+1
+3
+3
+1
+3
+1
+13
+21
+VD
+1
+1
+1
+1
+2
+1
+1
+8
+Fig. 13. Scatter plots during the TS stage for (a) ANN, (b) RF, (c) XGB, and (d) SM-LR models.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 16 =====
+
+Computers and Structures 308 (2025) 107644
+16
+their relative contributions to the final prediction. The ANN model 
+contributes 0.1877 to the overall prediction, RF provides the most 
+substantial weight of 0.4506, and XGB adds a contribution of 0.3814. 
+The constant term (−0.7122) adjusts the predictions for any inherent 
+biases in the model.
+5.5. Comparison between the BMs and SM-LR
+5.5.1. Quantitative assessment
+Fig. 13 presents scatter plots illustrating the performance of four 
+models (ANN, RF, XGB, and SM-LR) in predicting CS values during the 
+testing (TS) stage. Each plot compares actual CS values with predicted 
+values, with individual data points representing specific predictions. 
+The plots include a dashed black line representing perfect predictions 
+(equality line) and dashed red and green lines indicating ± 10 % devi­
+ation from the equality line. The models’ performance was evaluated 
+using the R2 and RMSE metrics displayed on each plot.
+The ANN model (Fig. 13a) demonstrates the lowest performance 
+among the four models, with an R2-value of 0.884 and an RMSE of 
+5.203 MPa. While many data points fall within the deviation lines, sig­
+nificant deviations suggest that the ANN model’s prediction accuracy 
+could be improved. In contrast, the RF model (Fig. 13b) shows a higher 
+R2-value of 0.923, indicating better predictive performance than the 
+ANN model, and an RMSE of 4.229 MPa, reflecting a lower error rate 
+and improved prediction accuracy. A more significant proportion of the 
+RF model’s data points lie within the deviation lines, underscoring its 
+solid performance in accurately predicting CS values. The XGB model 
+(Fig. 13c) achieves an R2-value of 0.947, indicating a very high corre­
+lation between actual and predicted values. The model’s RMSE is 3.524 
+MPa, signifying a lower error rate and superior prediction accuracy 
+compared to both the RF and ANN models. Data points for the XGB 
+model are closely clustered around the equality line, highlighting its 
+robust performance. The SM-LR model (Fig. 13c) outperforms the other 
+models, with the highest R2-value of 0.953 and the lowest RMSE of 
+3.315 MPa, suggesting the best fit between actual and predicted values, 
+as well as the smallest prediction errors. Most data points for the SM-LR 
+model are tightly clustered around the equality line, underscoring its 
+exceptional predictive accuracy.
+Additionally, the A20 results for the tested models indicate signifi­
+cant differences in their predictive performance, allowing for an 
+assessment of the reliability of the adopted models. The XGB model 
+recorded the lowest A20 index at 10.07, indicating it provides the most 
+accurate and reliable predictions compared to the other models. The SM- 
+LR model exhibits a low A20 value of 10.08, indicating its reliability is 
+nearly comparable to that of XGB. The two models are the most accurate 
+and reliable for the TS dataset. The RF model exhibited moderate per­
+formance, achieving an A20 index of 13.07. Although this surpasses XGB 
+and SM-LR, it still reflects a satisfactory level of prediction accuracy, 
+albeit with somewhat increased variability in the predictions. The ANN 
+model exhibited the highest A20 index of 13.48, indicating it was the 
+least reliable among the four models assessed. This indicates that ANN 
+exhibited the highest proportion of predictions exceeding the 20 % error 
+margin, demonstrating reduced consistency and precision relative to the 
+other models. The A20 index results indicate that XGB and SM-LR yield 
+the most accurate predictions with minimal error, whereas ANN and RF 
+exhibit greater error rates, with ANN being the least dependable.
+According to the aforementioned quantitative evaluation, the SM-LR 
+model demonstrates the best performance during the TS dataset, fol­
+lowed closely by the XGB model, which also exhibits high predictive 
+accuracy. The RF model performs well but with slightly lower accuracy 
+than the XGB model. The ANN model, while still effective, shows the 
+lowest accuracy among the four models. These results highlight the 
+effectiveness of the stacking method used in the SM-LR model, which 
+enhances prediction accuracy and solid model performance when 
+applied to unseen data.
+5.5.2. Visual assessment
+Fig. 14a presents violin plots comparing the predicted CS-values 
+from the base models and the SM-LR during the TS stage. The distri­
+bution of the SM-LR model closely matches the actual values, with the 
+SM-LR exhibiting a median of 33.72 and an IQR from 24.58 to 44.95. In 
+contrast, the actual testing dataset shows a median of 33.21 and an IQR 
+from 24.92 to 45.85, suggesting robust predictive capability relative to 
+all BMs employed. The XGB and RF models follow the SM-LR, exhibiting 
+distributions that closely resemble the actual testing values. The CGB 
+model has a median of 34.4 and an IQR spanning from 24.81 to 43.68, 
+whereas the RF model has a median of 33.47 and an IQR range from 
+24.65 to 44.84. Unexpectedly, the ANN model demonstrates a reduced 
+deviation in the median and IQR when compared during the TR and VD 
+stages, with a median of 33.73 and an IQR spanning from 24.41 to 
+45.65; however, it remains inferior to the XGB and RF models in 
+ranking.
+Fig. 14b displays Taylor diagrams comparing the predicted CS-values 
+among the base models and SM-LR in the TS stage. The ANN model 
+shows an SD of 16.10 MPa and a CC of 0.946, while the RF model has an 
+SD of 14.20 MPa and a CC of 0.955. The XGB model exhibits an SD of 
+14.60 MPa and a CC of 0.972, and the SM-LR model demonstrates an SD 
+of 14.80 MPa and a CC of 0.984. These results indicate that the SM-LR 
+model performs exceptionally well, with a high CC and low centered 
+RMSD, closely followed by the XGB model. The RF model also shows 
+strong performance but has a slightly lower correlation coefficient and a 
+higher centered RMSD than the SM-LR and XGB models. The ANN 
+model, however, shows the lowest CC and the highest centered RMSD 
+among the four models, suggesting it is less precise in matching the 
+actual data distribution and has a larger prediction error compared to 
+the top-performing models.
+In summary, quantitative analysis and visual plots confirm that the 
+SM-LR model outperforms the other models by accurately capturing the 
+statistical properties of the data and minimizing prediction errors. The 
+XGB model closely follows the SM-LR model in performance, while the 
+RF model demonstrates good accuracy but slightly higher errors. 
+Although still effective, the ANN model shows comparatively lower 
+accuracy and higher error rates.
+5.5.3. K-fold CV analysis
+A more accurate assessment of model efficacy is achieved through k- 
+fold cross-validation (CV), which reduces the likelihood of overfitting to 
+specific subsets of the data. By mitigating the risk associated with a 
+single train-test split, k-fold CV provides a more robust evaluation of 
+model performance [105]. The results indicate that the models exhibit 
+both high accuracy and reliability. Fig. 15 illustrates a comparison of the 
+developed models utilizing 10-fold across 10-fold CV using five perfor­
+mance metrics: R2, RMSE, MAE, MAPE, and MBE. For the R2 metric 
+(Fig. 15a), all models show high R2 values across all folds, with SM-LR 
+and XGB consistently achieving values close to 1.0, indicating strong 
+model performance. The RF model also performs well, while the ANN 
+model shows slightly more variability in R2-values. For the RMSE metric 
+(Fig. 15b), the SM-LR model exhibits the lowest RMSE values, high­
+lighting its accuracy in minimizing significant errors. The XGB and RF 
+models follow, with the RF showing slightly higher RMSE in some folds. 
+The ANN model again shows slightly higher RMSE than the others, 
+indicating it might be less robust to large errors.
+The SM-LR model consistently has lower MAE and RMSE values 
+across most folds (Fig. 15c). The XGB, ANN, and RF models follow 
+closely, with the ANN sometimes outperforming others in specific folds. 
+Lastly, MBE values closer to zero suggest unbiased predictions for MBE 
+values. Accordingly, as shown in Fig. 15d, the XGB and SM-LR models 
+have MBEs closer to zero across most folds, indicating minimal bias. The 
+ANN model shows more variability, suggesting it might have some 
+systematic bias depending on the fold. The RF model also displays some 
+bias, though it varies significantly across folds. Overall, the SM-LR 
+model demonstrates the best performance across most metrics, with 
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 17 =====
+
+Computers and Structures 308 (2025) 107644
+17
+consistently low RMSE, MAPE, MAE, and MBE values, as well as high R2 
+values, indicating superior predictive power and minimal bias. The XGB 
+and RF models also show good performance, particularly in R2 and MAE, 
+and can be considered reliable alternatives if computational efficiency 
+or simplicity is a concern. Finally, the ANN model tends to show slightly 
+worse performance in terms of error metrics but still provides a 
+reasonably high R2, suggesting it can still capture a significant portion of 
+the variance in the data.
+5.6. Feature importance and interpretability
+5.6.1. SHAP analysis
+The purpose of this sensitivity analysis was to assess the impact of 
+individual input features on the output variable in the prediction of 
+concrete compressive strength. The SHAP feature importance method 
+was utilized to analyze the impact of each input variable during the 
+testing stage based on the most effective predictive base ML model (i.e., 
+XGB model). Fig. 16 presents the results, involving both dot and sum­
+mary bar plots that offer significant insights into feature importance. 
+The interpretations of the SHAP analysis are as follows: 
+• Inputs are ordered by importance, with the most important inputs at 
+the top.
+• The position of the dots along the x-axis shows the impact of the 
+input on the concrete’s CS value. The positive values indicate a 
+positive impact, while the negative values indicate a negative effect.
+• Inputs with longer bars exert a greater influence on the output of the 
+model.
+• Color coding facilitates the comprehension of the input’s value by 
+assigning blue to low values and red to high values.
+Fig. 16a illustrates a comprehensive SHAP dot plot, with each dot 
+denoting a SHAP value corresponding to a particular instance within the 
+dataset. The figure demonstrates that the curing age (Age) exerts the 
+most significant influence on the concrete CS, with values ranging from 
+−100 to 250. The cement content (C) shows a comparable trend to 
+curing age, serving as the second critical input, which highlights its 
+advantageous impact on the enhancement of concrete strength. The 
+SHAP values exhibit a range from −75 to 100, where elevated values 
+signify enhanced concrete strength. The inputs fine aggregate (Fagg) 
+and blast furnace slag (Slag) exhibit a moderate influence, as indicated 
+by SHAP values that are less dispersed compared to those of curing age 
+and cement content. The SHAP values range from −60 to 70 for the Fagg 
+variable and from −45 to 50 for the Slag variable. In contrast, the 
+Superplasticizer (SP) exhibits a less pronounced effect, as indicated by 
+SHAP values that cluster near zero, with a range from −25 to 20, 
+implying a minimal influence on CS values. The coarse aggregate (Cagg) 
+and fly ash (FA) exhibit neutral to weak effects on the model’s pre­
+dictions, as indicated by SHAP values clustering near zero, which im­
+plies a minimal influence on compressive strength within the analyzed 
+range of values. Lastly, water (W) exhibits a less pronounced effect on 
+the model’s predictions, as indicated by SHAP values that are predom­
+inantly clustered around zero. This suggests that although they can 
+impact concrete strength, their influence is less significant in compari­
+son to other variables.
+In addition, Fig. 16b indicates that curing age is the primary variable 
+affecting the CS of concrete, with cement content and fine aggregates 
+following as secondary and third factors, respectively. The curing age 
+directly influences the hardening process of concrete, whereas the 
+cement content is essential for bonding the mix. Consequently, these two 
+factors are pivotal in predicting strength. Slag and fly ash, while sig­
+nificant, provide a more moderate influence, generally contributing to 
+the enhancement of long-term strength and durability. Coarse aggre­
+gates contribute significantly, albeit to a lesser extent, while the impact 
+of water and superplasticizers is minimal. The low ranking of water 
+indicates that other factors, such as cement content, mediate its influ­
+ence. The limited impact of superplasticizers highlights their function in 
+enhancing workability rather than directly affecting strength. The pri­
+mary factors influencing concrete strength in this model are curing age, 
+cement content, and aggregate properties.
+5.6.2. PDP analysis
+Fig. 17 illustrates the PDPs for eight features that have been carried 
+out with the XGB model. The plots illustrate the marginal effect of each 
+feature on the model’s predictions, demonstrating the changes in pre­
+dicted output as the value of each feature changes, with all other fea­
+tures kept at unchanged values. The plot indicates a distinct positive 
+correlation between the feature value of input cement (C) and the 
+model’s prediction. The predicted values of CS exhibit a steady increase 
+with the rise in cement content. The data indicates that the cement 
+variable serves as a significant positive predictor within the XGB model. 
+The plot for the blast furnace slag (Slag) displays a relatively flat line, 
+indicating that variations in the Slag have minimal to no impact on the 
+predicted concrete CS values. In a similar manner, the plot for the input 
+fly ash (FA) shows a flat line, further indicating that input FA, similar to 
+Slag, has a minimal impact on the predicted CS values. The analysis of 
+Fig. 14. Visual evaluations for predicted CS-values between the BMs and SM in the TS stage by (a) Violin boxplot and (b) Taylor diagram.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 18 =====
+
+Computers and Structures 308 (2025) 107644
+18
+the water content (W) input indicates a negative correlation with the 
+predicted values. As the water amount rises, the predicted values of CS 
+decrease, which may indicate a risk factor or an adverse variable within 
+the model. The plot of the superplasticizer (SP) shows minor fluctuations 
+while generally trending upwards, suggesting a weak positive correla­
+tion with the predicted CS values. The influence of the SP on the pre­
+dictions is positive, although not as significant as that of the cement 
+content in the concrete mixture.
+The plot for the coarse aggregate (Cagg) demonstrates a relatively 
+flat trend with minimal fluctuations, suggesting that Cagg exerts negli­
+gible influence on the CS values. In a manner comparable to the Slag and 
+FA variables, this indicates that the coarse aggregate does not play a 
+significant role in the model’s predictions and may be regarded as less 
+critical. The plot of fine aggregate (Fagg) displays fluctuations without a 
+noticeable trend, indicating a weak or inconsistent correlation with the 
+predicted CS values of concrete. The data indicates that the impact of 
+fine aggregate on the model’s predictions is neither strong nor consis­
+tent, making it a less reliable predictor. The plot of the curing duration 
+(Age) presents a pronounced increase initially, followed by a stabiliza­
+tion phase. This demonstrates that, at the beginning, extending the 
+curing duration resulted in notable enhancements in the concrete CS. 
+However, beyond a specific threshold, additional increases yield only 
+marginal improvements in predicted CS values.
+Fig. 15. Radar plots derived from BO + 10 folds CV across performance metrics: (a) R2 , (b) RMSE, (c) MAE, (d) MAPE, and (e) MBE.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 19 =====
+
+Computers and Structures 308 (2025) 107644
+19
+5.7. Comparison with previous studies
+The developed SM-LR was evaluated against recent studies using ML 
+and deep learning (DL) approaches to predict concrete CS. As shown in 
+Fig. 18, a comparative analysis with previous research on CS prediction 
+is presented. Liu [106] achieved an exceptionally high accuracy with an 
+R2-value of 0.999 using the XGB model. However, it should be noted that 
+this result was obtained with a relatively small dataset of 60 samples, 
+which may not generalize well to larger datasets. Liang et al. [107] and 
+Hongwei et al. [19] conducted similar studies using smaller datasets of 
+190 and 98 samples, respectively. Their best models achieved high R2- 
+values (0.947 and 0.950, respectively) but had higher RMSE and MAE 
+values. Satish et al. [108] developed an XGB model with better perfor­
+mance on a moderately large dataset of 633 samples, achieving an R2- 
+value of 0.950, RMSE of 3.06 MPa, and MAE of 2.13 MPa.
+In this research, the SM-LR model achieved an R2-value of 0.953, an 
+RMSE of 3.315 MPa, and an MAE of 2.493 MPa, demonstrating excep­
+tional performance on a large dataset of 1030 samples. Additionally, 
+Feng et al. [109] developed an Adaptive Boosting (AdaBoost) model on 
+the same dataset, achieving an R2 of 0.940, RMSE of 1.93 MPa, and MAE 
+of 1.43 MPa. Elhishi et al. [110] reported an R2 of 0.910, RMSE of 4.37 
+MPa, and MAE of 3.04 MPa, indicating a lower correlation and higher 
+error metrics compared to the SM-LR model. In summary, the SM-LR 
+model in this study outperformed similar models from other studies 
+with comparable dataset sizes, particularly in terms of the R2-value.
+5.8. Developed an interactive GUI
+This section highlights significant advancements that effectively 
+address the practical requirements of engineers and designers for the 
+efficient utilization of machine learning models. The complexities of 
+database compilation, model training, and testing have historically 
+impeded the incorporation of machine learning into everyday design 
+tasks. To overcome these challenges, an innovative approach was 
+developed: a Python-based web application featuring a model with 
+optimized hyperparameters accessible via a user-friendly GUI. This 
+GUI was developed specifically for predicting the CS of concrete, as 
+illustrated in Fig. 19. The GUI provides a streamlined layout where users 
+can input values for various variables, with the predicted CS dynami­
+cally displayed based on these inputs. To encourage broad access and 
+support collaborative enhancements, the GUI has been hosted on 
+GitHub, making it available for use and further development by the 
+community. This initiative democratizes the use of advanced predictive 
+models and invites contributions to refine and adapt the tool to meet 
+various specific needs within civil engineering. The GUI can be accessed 
+at the following URL: https://github.com/mkamel24/CS_XGB.
+Fig. 16. SHAP charts: (a) summary dot plot and (b) feature importance bar plot based on the XGB model.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 20 =====
+
+Computers and Structures 308 (2025) 107644
+20
+To assess the generalizability and reliability of the developed GUI 
+tool for practical applications, it will validate its performance on an 
+independent dataset, different from the one utilized in the current study 
+for concrete CS prediction. The efficacy of the developed GUI tool will be 
+verified by utilizing it on external experimental samples and comparing 
+the predicted CS values with the actual experimental outcomes. To this 
+end, it employed the dataset from the research conducted by Song et al. 
+[60], used as a reliable external benchmark to evaluate the predictive 
+accuracy and robustness of the developed GUI tool.
+Fig. 20 presents a comparative plot of the predicted CS values 
+(derived from the GUI tool) and the actual CS values (obtained from 
+Song et al.). The developed GUI tool exhibits excellent predictive ac­
+curacy on the independent dataset. The findings indicate an R2 value of 
+0.977 and an RMSE of 2.210 MPa, signifying a strong correlation be­
+tween the predicted and actual compressive strength values, along with 
+minimal prediction errors. This indicates that the tool offers a highly 
+dependable predictive model with exceptional fit. Moreover, the 
+majority of data points for the predicted CS-values are closely aligned 
+with the equality line and the deviation lines of ± 10 %, thereby 
+underscoring the accuracy and precision of the GUI tool. The proximity 
+to the equality line signifies that the tool’s predictions closely match the 
+actual results, and the minor deviations within the ± 10 % range un­
+derscore its reliability and consistency. In conclusion, the performance 
+of the GUI tool on the independent dataset confirms its superior pre­
+dictive capabilities. This affirms the tool’s dependability and applica­
+bility for practical use, offering it a vital tool for predicting concrete 
+compressive strength across various scenarios.
+6. Conclusions
+In this research, an extensive analysis of 1030 datasets on CS was 
+conducted, utilizing information from previous journal papers. The 
+main aim of this study was to compare the performance of a Stacked 
+Model based on Linear Regression (SM-LR) with base models (BMs): 
+Fig. 17. PDP analysis results for the studied variables.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 21 =====
+
+Computers and Structures 308 (2025) 107644
+21
+ANN, RF, and XGB, including eight input parameters. The dataset is 
+divided into three separate sets: training, validation, and testing. Both 
+training and validation datasets were used to develop and test the BMs. 
+While the SM-LR was built using the developed BMs predictions in the 
+validation stage, then the last testing dataset was used to evaluate its 
+performance. Comparative analysis was conducted to assess the pre­
+dictive accuracy of both types of models. The study yielded the following 
+main findings: 
+1. Among the base models, the XGB model demonstrated superior 
+predictive accuracy during the testing stage, with an R2 value of 
+0.947 and an RMSE of 3.524 MPa.
+2. The SM-LR model outperformed all base models, achieving the 
+highest R2 of 0.953 and the lowest RMSE of 3.315 MPa, which un­
+derscores its superior predictive capabilities.
+3. SHAP and PDP analyses indicated that the most critical factor was 
+the age of the concrete, which consistently improved predictions as it 
+increased. The second most important input was the cement content, 
+which had a threshold effect that significantly influenced predictions 
+up to a certain level. Conversely, factors such as blast-furnace slag 
+and coarse aggregates exhibited moderate effects, whereas fly ash, 
+superplasticizer, and fine aggregates had the least influence.
+4. Rank analysis showed that among the BMs, the XGB stood out, fol­
+lowed by the RF model, which demonstrated good accuracy but had 
+slightly higher errors. The ANN models ranked lowest, with lower 
+correlation and higher errors.
+5. A user-friendly GUI was developed to make the predictive models 
+accessible for real-world applications. The GUI, available on GitHub, 
+allows engineers to input concrete mix parameters and receive 
+Fig. 18. Comparative analysis for prediction of the concrete CS.
+Fig. 19. GUI screenshot for calculating the CS-values of concrete.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 22 =====
+
+Computers and Structures 308 (2025) 107644
+22
+predicted CS values in real-time, enhancing the usability of these 
+models in practical design scenarios.
+7. Limitations and future work
+While the developed model demonstrates strong predictive perfor­
+mance, several limitations should be noted. The model’s effectiveness 
+heavily relies on the quality and representativeness of the input data. 
+Since the dataset used in this study does not include key factors such as 
+temperature, humidity, and curing methods, its ability to generalize to 
+other environments or experimental setups may be limited. Further­
+more, the model does not account for all variables that may influence 
+concrete CS, such as specific mix proportions and external environ­
+mental conditions, potentially affecting its accuracy in certain real- 
+world scenarios. Additionally, while the GUI is designed for simplicity, 
+users must still have an understanding of the input parameters and their 
+relevance to make the most effective use of the tool.
+Future work should focus on expanding the dataset to incorporate a 
+broader range of concrete compositions, environmental conditions, and 
+laboratory variables, including those that might affect the curing pro­
+cess. Moreover, integrating advanced deep learning models could 
+enhance predictive accuracy by identifying more complex relationships 
+in the data. The GUI could also be improved by adding interactive fea­
+tures, guidance, and tutorials to help users with varying levels of 
+expertise navigate the input process. Finally, validating the model using 
+real-world data from diverse applications and environmental conditions 
+will be crucial to ensure its robustness, generalizability, and practical 
+applicability.
+CRediT authorship contribution statement
+Abdelrahman Kamal Hamed: Funding acquisition, Formal anal­
+ysis, Data curation, Conceptualization. Mohamed Kamel Elshaarawy: 
+Software, Resources, Project administration, Methodology, Investiga­
+tion. Mostafa M. Alsaadawi: Writing – review & editing, Writing – 
+original draft, Visualization, Validation.
+Funding
+This research did not receive funding from specific agencies in the 
+public, commercial, or not-for-profit divisions.
+Declaration of competing interest
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper.
+Acknowledgments
+The authors would like to thank the journal editor and the anony­
+mous reviewers for their editing and comments.
+Data availability
+Data will be made available on request.
+References
+[1] Hassan HS, Abdel-Gawwad HA, V´asquez-García SR, Israde-Alc´antara I, Flores- 
+Ramirez N, Rico JL, et al. Cleaner production of one-part white geopolymer 
+cement using pre-treated wood biomass ash and diatomite. J Clean Prod 2019; 
+209:1420–8. https://doi.org/10.1016/j.jclepro.2018.11.137.
+[2] Liu G, Yang H, Fu Y, Mao C, Xu P, Hong J, et al. Cyber-physical system-based real- 
+time monitoring and visualization of greenhouse gas emissions of prefabricated 
+construction. J Clean Prod 2020;246:119059. https://doi.org/10.1016/j. 
+jclepro.2019.119059.
+[3] Elshaarawy MK, Eltarabily MG. Machine Learning Models for Predicting Water 
+Quality Index: Optimization and Performance Analysis for El Moghra, Egypt. 
+Water Supply 2024. https://doi.org/10.2166/ws.2024.189.
+[4] Benhelal E, Shamsaei E, Rashid MI. Novel modifications in a conventional clinker 
+making process for sustainable cement production. J Clean Prod 2019;221: 
+389–97. https://doi.org/10.1016/j.jclepro.2019.02.259.
+[5] Samimi K, Kamali-Bernard S, Akbar Maghsoudi A, Maghsoudi M, Siad H. 
+Influence of pumice and zeolite on compressive strength, transport properties and 
+resistance to chloride penetration of high strength self-compacting concretes. 
+Constr Build Mater 2017;151:292–311. https://doi.org/10.1016/j. 
+conbuildmat.2017.06.071.
+[6] Taji I, Ghorbani S, de Brito J, Tam VWY, Sharifi S, Davoodi A, et al. Application of 
+statistical analysis to evaluate the corrosion resistance of steel rebars embedded 
+Fig. 20. Validation of developed GUI tool against actual experimental results from Song et al. [60].
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 23 =====
+
+Computers and Structures 308 (2025) 107644
+23
+in concrete with marble and granite waste dust. J Clean Prod 2019;210:837–46. 
+https://doi.org/10.1016/j.jclepro.2018.11.091.
+[7] Barcelo L, Kline J, Walenta G, Gartner E. Cement and carbon emissions. Mater 
+Struct 2014;47:1055–65. https://doi.org/10.1617/s11527-013-0114-5.
+[8] Elshaarawy MK, Elkiki M, Selim T, Eltarabily MG. Hydraulic comparison of 
+different types of lining for irrigation canals using computational fluid dynamic 
+models, M.Sc. Thesis. Civil Eng Depart Facul Eng, Port Said Univ 2024. https:// 
+doi.org/10.13140/RG.2.2.21927.97441.
+[9] Czarnecki S, Shariq M, Nikoo M, Sadowski Ł. An intelligent model for the 
+prediction of the compressive strength of cementitious composites with ground 
+granulated blast furnace slag based on ultrasonic pulse velocity measurements. 
+Measurement 2021;172:108951. https://doi.org/10.1016/j. 
+measurement.2020.108951.
+[10] A. Chajec, Granite Powder vs. Fly Ash for the Sustainable Production of Air-Cured 
+Cementitious Mortars, Materials (Basel). 14 (2021) 1208. doi: 10.3390/ 
+ma14051208.
+[11] Shubbar AA, Jafer H, Dulaimi A, Hashim K, Atherton W, Sadique M. The 
+development of a low carbon binder produced from the ternary blending of 
+cement, ground granulated blast furnace slag and high calcium fly ash: An 
+experimental and statistical approach. Constr Build Mater 2018;187:1051–60. 
+https://doi.org/10.1016/j.conbuildmat.2018.08.021.
+[12] Phul AA, Memon MJ, Shah SNR, Sandhu AR. GGBS And Fly Ash Effects on 
+Compressive Strength by Partial Replacement of Cement Concrete. Civ Eng J 
+2019;5:913–21. https://doi.org/10.28991/cej-2019-03091299.
+[13] M.G. Eltarabily, M.K. Elshaarawy, Risk Assessment of Potential Groundwater 
+Contamination by Agricultural Drainage Water in the Central Valley Watershed, 
+California, USA, in: Handb. Environ. Chem., Springer Berlin Heidelberg, Berlin, 
+Heidelberg, 2023: pp. 1–40. doi: 10.1007/698_2023_1051.
+[14] Elrefaei AEMM, Alsaadawi MM, Wagdy W. Characteristics of high-strength 
+concrete reinforced with steel fibers recovered from waste tires. Key Eng Mater 
+2023;945:145–56. https://doi.org/10.4028/p-d5v1nm.
+[15] Wangler T, Roussel N, Bos FP, Salet TAM, Flatt RJ. Digital concrete: a review. 
+Cem Concr Res 2019;123:105780. https://doi.org/10.1016/j. 
+cemconres.2019.105780.
+[16] Alsaadawi MM, Amin M, Tahwia AM. Thermal, mechanical and microstructural 
+properties of sustainable concrete incorporating Phase change materials. Constr 
+Build Mater 2022;356:129300. https://doi.org/10.1016/j. 
+conbuildmat.2022.129300.
+[17] A.E. Elrefaei, M. Alsaadawi, M.M. Elshafiey, M. Abdolwahab, A.F. Oan, 
+Performance Evaluation of Ultra High Performance Concrete Manufactured with 
+Recycled Steel Fiber, in: 2024: pp. 3–13. doi: 10.4028/p-dWhX1H.
+[18] Khaloo AR, Dehestani M, Rahmatabadi P. Mechanical properties of concrete 
+containing a high volume of tire–rubber particles. Waste Manag 2008;28: 
+2472–82. https://doi.org/10.1016/j.wasman.2008.01.015.
+[19] Song H, Ahmad A, Farooq F, Ostrowski KA, Ma´slak M, Czarnecki S, et al. 
+Predicting the compressive strength of concrete with fly ash admixture using 
+machine learning algorithms. Constr Build Mater 2021;308:125021. https://doi. 
+org/10.1016/j.conbuildmat.2021.125021.
+[20] Cotsovos DM, Pavlovi´c MN. Numerical investigation of concrete subjected to 
+compressive impact loading. Part 2: Parametric investigation of factors affecting 
+behaviour at high loading rates. Comput Struct 2008;86:164–80. https://doi.org/ 
+10.1016/j.compstruc.2007.05.015.
+[21] Li M, Hao H, Shi Y, Hao Y. Specimen shape and size effects on the concrete 
+compressive strength under static and dynamic tests. Constr Build Mater 2018; 
+161:84–93. https://doi.org/10.1016/j.conbuildmat.2017.11.069.
+[22] Bhanja S, Sengupta B. Investigations on the compressive strength of silica fume 
+concrete using statistical methods. Cem Concr Res 2002;32:1391–4. https://doi. 
+org/10.1016/S0008-8846(02)00787-1.
+[23] Bharatkumar B, Narayanan R, Raghuprasad B, Ramachandramurthy D. Mix 
+proportioning of high performance concrete. Cem Concr Compos 2001;23:71–80. 
+https://doi.org/10.1016/S0958-9465(00)00071-8.
+[24] Eltarabily MG, Elshaarawy MK, Elkiki M, Selim T. Computational fluid dynamics 
+and artificial neural networks for modelling lined irrigation canals with low- 
+density polyethylene and cement concrete liners. Irrig Drain 2024;73:910–27. 
+https://doi.org/10.1002/ird.2911.
+[25] Li D, Tang Z, Kang Q, Zhang X, Li Y. Machine Learning-Based Method for 
+Predicting Compressive Strength of Concrete. Processes 2023;11:390. https://doi. 
+org/10.3390/pr11020390.
+[26] Eltarabily MG, Elshaarawy MK, Elkiki M, Selim T. Modeling surface water and 
+groundwater interactions for seepage losses estimation from unlined and lined 
+canals. Water Sci 2023;37:315–28. https://doi.org/10.1080/ 
+23570008.2023.2248734.
+[27] Zhou G, Moayedi H, Bahiraei M, Lyu Z. Employing artificial bee colony and 
+particle swarm techniques for optimizing a neural network in prediction of 
+heating and cooling loads of residential buildings. J Clean Prod 2020;254: 
+120082. https://doi.org/10.1016/j.jclepro.2020.120082.
+[28] Das P, Kashem A, Hasan I, Islam M. A comparative study of machine learning 
+models for construction costs prediction with natural gradient boosting algorithm 
+and SHAP analysis, Asian. J Civ Eng 2024;25:3301–16. https://doi.org/10.1007/ 
+s42107-023-00980-z.
+[29] Shaban WM, Elbaz K, Yang J, Thomas BS, Shen X, Li L, et al. Effect of pozzolan 
+slurries on recycled aggregate concrete: Mechanical and durability performance. 
+Constr Build Mater 2021;276:121940. https://doi.org/10.1016/j. 
+conbuildmat.2020.121940.
+[30] Shaban WM, Daef KS. Performance of eco-friendly concrete: a safe direction to 
+sustainable cities development. Smart Constr Sustain Cities 2023;1:13. https:// 
+doi.org/10.1007/s44268-023-00015-1.
+[31] W. Ben Chaabene, M. Flah, M.L. Nehdi, Machine learning prediction of 
+mechanical properties of concrete: Critical review, Constr. Build. Mater. 260 
+(2020) 119889. doi: 10.1016/j.conbuildmat.2020.119889.
+[32] Li Z, Yoon J, Zhang R, Rajabipour F, Srubar III WV, Dabo I, et al. Machine 
+learning in concrete science: applications, challenges, and best practices. Npj 
+Comput Mater 2022;8:127. https://doi.org/10.1038/s41524-022-00810-x.
+[33] Ziolkowski P, Niedostatkiewicz M. Machine learning techniques in concrete mix 
+design. Materials (Basel) 2019;12:1256. https://doi.org/10.3390/ma12081256.
+[34] Isleem HF, Qiong T, Alsaadawi MM, Elshaarawy MK, Mansour DM, Abdullah F, 
+et al. Numerical and machine learning modeling of GFRP confined concrete-steel 
+hollow elliptical columns. Sci Rep 2024;14:18647. https://doi.org/10.1038/ 
+s41598-024-68360-4.
+[35] Ali L, Isleem HF, Bahrami A, Jha I, Zou G, Kumar R, et al. Integrated behavioural 
+analysis of FRP-confined circular columns using FEM and machine learning. 
+Compos Part C Open Access 2024;13:100444. https://doi.org/10.1016/j. 
+jcomc.2024.100444.
+[36] P.t. m., h.m.n. s.,. Predicting Stress and Strain of FRP-Confined Square/ 
+Rectangular Columns Using Artificial Neural Networks. J Compos Constr 2014; 
+18:4014019. https://doi.org/10.1061/(ASCE)CC.1943-5614.0000477.
+[37] Naser MZ, Kodur VK. Explainable machine learning using real, synthetic and 
+augmented fire tests to predict fire resistance and spalling of RC columns. Eng 
+Struct 2022;253:113824. https://doi.org/10.1016/j.engstruct.2021.113824.
+[38] Naser MZ, Kodur V, Thai H-T, Hawileh R, Abdalla J, Degtyarev VV. StructuresNet 
+and FireNet: Benchmarking databases and machine learning algorithms in 
+structural and fire engineering domains. J Build Eng 2021;44:102977. https:// 
+doi.org/10.1016/j.jobe.2021.102977.
+[39] Niu Y, Wang W, Su Y, Jia F, Long X. Plastic damage prediction of concrete under 
+compression based on deep learning. Acta Mechanica 2024;235:255–66. https:// 
+doi.org/10.1007/s00707-023-03743-8.
+[40] Jeyasehar CA, Sumangala K. Damage assessment of prestressed concrete beams 
+using artificial neural network (ANN) approach. Comput Struct 2006;84: 
+1709–18. https://doi.org/10.1016/j.compstruc.2006.03.005.
+[41] Waszczyszyn Z, Bartczak M. Neural prediction of buckling loads of cylindrical 
+shells with geometrical imperfections. Int J Non Linear Mech 2002;37:763–75. 
+https://doi.org/10.1016/S0020-7462(01)00111-1.
+[42] Degtyarev VV, Tsavdaridis KD. Buckling and ultimate load prediction models for 
+perforated steel beams using machine learning algorithms. J Build Eng 2022;51: 
+104316. https://doi.org/10.1016/j.jobe.2022.104316.
+[43] Wang C, Chan T-M. Machine learning (ML) based models for predicting the 
+ultimate strength of rectangular concrete-filled steel tube (CFST) columns under 
+eccentric loading. Eng Struct 2023;276:115392. https://doi.org/10.1016/j. 
+engstruct.2022.115392.
+[44] Zhou X-G, Hou C, Feng W-Q. Optimized data-driven machine learning models for 
+axial strength prediction of rectangular CFST columns. Structures 2023;47: 
+760–80. https://doi.org/10.1016/j.istruc.2022.11.030.
+[45] Lyu F, Fan X, Ding F, Chen Z. Prediction of the axial compressive strength of 
+circular concrete-filled steel tube columns using sine cosine algorithm-support 
+vector regression. Compos Struct 2021;273:114282. https://doi.org/10.1016/j. 
+compstruct.2021.114282.
+[46] Zarringol M, Patel VI, Liang QQ. Artificial neural network model for strength 
+predictions of CFST columns strengthened with CFRP. Eng Struct 2023;281: 
+115784. https://doi.org/10.1016/j.engstruct.2023.115784.
+[47] Ma L, Zhou C, Lee D, Zhang J. Prediction of axial compressive capacity of CFRP- 
+confined concrete-filled steel tubular short columns based on XGBoost algorithm. 
+Eng Struct 2022;260:114239. https://doi.org/10.1016/j.engstruct.2022.114239.
+[48] Xu C, Zhang Y, Isleem HF, Qiu D, Zhang Y, Alsaadawi MM, et al. Numerical and 
+machine learning models for concentrically and eccentrically loaded CFST 
+columns confined with FRP wraps. Struct Concr 2024. https://doi.org/10.1002/ 
+suco.202400541.
+[49] Alkayem NF, Shen L, Mayya A, Asteris PG, Fu R, Di Luzio G, et al. Prediction of 
+concrete and FRC properties at high temperature using machine and deep 
+learning: A review of recent advances and future perspectives. J Build Eng 2024; 
+83:108369. https://doi.org/10.1016/j.jobe.2023.108369.
+[50] Nguyen N-H, Vo TP, Lee S, Asteris PG. Heuristic algorithm-based semi-empirical 
+formulas for estimating the compressive strength of the normal and high 
+performance concrete. Constr Build Mater 2021;304:124467. https://doi.org/ 
+10.1016/j.conbuildmat.2021.124467.
+[51] Kardani N, Bardhan A, Samui P, Nazem M, Asteris PG, Zhou A. Predicting the 
+thermal conductivity of soils using integrated approach of ANN and PSO with 
+adaptive and time-varying acceleration coefficients. Int J Therm Sci 2022;173: 
+107427. https://doi.org/10.1016/j.ijthermalsci.2021.107427.
+[52] A.D.S. and P.G.A. Danial J. Armaghani, Anna Mamou, Chrysanthos Maraveas, 
+Panayiotis C. Roussis, Vassilis G. Siorikis, Predicting the unconfined compressive 
+strength of granite using only two non-destructive test indexes, Geomech. Eng. 25 
+(2021). doi: 10.12989/gae.2021.25.4.317.
+[53] Chithra S, Kumar SRRS, Chinnaraju K, Alfin Ashmita F. A comparative study on 
+the compressive strength prediction models for High Performance Concrete 
+containing nano silica and copper slag using regression analysis and Artificial 
+Neural Networks. Constr Build Mater 2016;114:528–35. https://doi.org/ 
+10.1016/j.conbuildmat.2016.03.214.
+[54] Nguyen H, Vu T, Vo TP, Thai H-T. Efficient machine learning models for 
+prediction of concrete strengths. Constr Build Mater 2021;266:120950. https:// 
+doi.org/10.1016/j.conbuildmat.2020.120950.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 24 =====
+
+Computers and Structures 308 (2025) 107644
+24
+[55] Kumar A, Arora HC, Kapoor NR, Mohammed MA, Kumar K, Majumdar A, et al. 
+Compressive Strength Prediction of Lightweight Concrete: Machine Learning 
+Models. Sustainability 2022;14:2404. https://doi.org/10.3390/su14042404.
+[56] A. Ashrafian, M.J. Taheri Amiri, M. Rezaie-Balf, T. Ozbakkaloglu, O. Lotfi-Omran, 
+Prediction of compressive strength and ultrasonic pulse velocity of fiber 
+reinforced concrete incorporating nano silica using heuristic regression methods, 
+Constr. Build. Mater. 190 (2018) 479–494. doi: 10.1016/j. 
+conbuildmat.2018.09.047.
+[57] Zhang J, Ma G, Huang Y, Sun J, Aslani F, Nener B. Modelling uniaxial 
+compressive strength of lightweight self-compacting concrete using random forest 
+regression. Constr Build Mater 2019;210:713–9. https://doi.org/10.1016/j. 
+conbuildmat.2019.03.189.
+[58] Ali R, Muayad M, Mohammed AS, Asteris PG. Analysis and prediction of the effect 
+of Nanosilica on the compressive strength of concrete with different mix 
+proportions and specimen sizes using various numerical approaches. Struct Concr 
+2023;24:4161–84. https://doi.org/10.1002/suco.202200718.
+[59] Aslam F, Farooq F, Amin MN, Khan K, Waheed A, Akbar A, et al. Applications of 
+Gene Expression Programming for Estimating Compressive Strength of High- 
+Strength Concrete. Adv Civ Eng 2020;2020:1–23. https://doi.org/10.1155/2020/ 
+8850535.
+[60] Song Y, Zhao J, Ostrowski KA, Javed MF, Ahmad A, Khan MI, et al. Prediction of 
+Compressive Strength of Fly-Ash-Based Concrete Using Ensemble and Non- 
+Ensemble Supervised Machine-Learning Approaches. Appl Sci 2021;12:361. 
+https://doi.org/10.3390/app12010361.
+[61] Huang J, Sabri MMS, Ulrikh DV, Ahmad M, Alsaffar KAM. Predicting the 
+Compressive Strength of the Cement-Fly Ash–Slag Ternary Concrete Using the 
+Firefly Algorithm (FA) and Random Forest (RF) Hybrid Machine-Learning 
+Method. Materials (Basel) 2022;15:4193. https://doi.org/10.3390/ma15124193.
+[62] M. Wang, J. Kang, W. Liu, J. Su, M. Li, Research on prediction of compressive 
+strength of fly ash and slag mixed concrete based on machine learning, PLoS One. 
+17 (2022) e0279293. doi: 10.1371/journal.pone.0279293.
+[63] Ahmad A, Farooq F, Niewiadomski P, Ostrowski K, Akbar A, Aslam F, et al. 
+Prediction of Compressive Strength of Fly Ash Based Concrete Using Individual 
+and Ensemble Algorithm. Materials (Basel) 2021;14:794. https://doi.org/ 
+10.3390/ma14040794.
+[64] J. Zhang, Y. Zhao, Prediction of Compressive Strength of Ultra-High Performance 
+Concrete (UHPC) Containing Supplementary Cementitious Materials, in: 2017 
+Int. Conf. Smart Grid Electr. Autom., IEEE, 2017: pp. 522–525. doi: 10.1109/ 
+ICSGEA.2017.150.
+[65] Yu Y, Li W, Li J, Nguyen TN. A novel optimised self-learning method for 
+compressive strength prediction of high performance concrete. Constr Build 
+Mater 2018;184:229–47. https://doi.org/10.1016/j.conbuildmat.2018.06.219.
+[66] Al-Mughanam T, Aldhyani THH, Alsubari B, Al-Yaari M. Modeling of Compressive 
+Strength of Sustainable Self-Compacting Concrete Incorporating Treated Palm Oil 
+Fuel Ash Using Artificial Neural Network. Sustainability 2020;12:9322. https:// 
+doi.org/10.3390/su12229322.
+[67] Bui D-K, Nguyen T, Chou J-S, Nguyen-Xuan H, Ngo TD. A modified firefly 
+algorithm-artificial neural network expert system for predicting compressive and 
+tensile strength of high-performance concrete. Constr Build Mater 2018;180: 
+320–33. https://doi.org/10.1016/j.conbuildmat.2018.05.201.
+[68] Al-Hashem MN, Amin MN, Raheel M, Khan K, Alkadhim HA, Imran M, et al. 
+Predicting the Compressive Strength of Concrete Containing Fly Ash and Rice 
+Husk Ash Using ANN and GEP Models. Materials (Basel) 2022;15:7713. https:// 
+doi.org/10.3390/ma15217713.
+[69] Golafshani EM, Behnood A, Arashpour M. Predicting the compressive strength of 
+normal and High-Performance Concretes using ANN and ANFIS hybridized with 
+Grey Wolf Optimizer. Constr Build Mater 2020;232:117266. https://doi.org/ 
+10.1016/j.conbuildmat.2019.117266.
+[70] P. Das, A. Kashem, Hybrid machine learning approach to prediction of the 
+compressive and flexural strengths of UHPC and parametric analysis with shapley 
+additive explanations, Case Stud. Constr. Mater. 20 (2024) e02723. doi: 10.1016/ 
+j.cscm.2023.e02723.
+[71] R. Karim, M.H. Islam, S.D. Datta, A. Kashem, Synergistic effects of supplementary 
+cementitious materials and compressive strength prediction of concrete using 
+machine learning algorithms with SHAP and PDP analyses, Case Stud. Constr. 
+Mater. 20 (2024) e02828. doi: 10.1016/j.cscm.2023.e02828.
+[72] A. Kashem, R. Karim, S.C. Malo, P. Das, S.D. Datta, M. Alharthai, Hybrid data- 
+driven approaches to predicting the compressive strength of ultra-high- 
+performance concrete using SHAP and PDP analyses, Case Stud. Constr. Mater. 20 
+(2024) e02991. doi: 10.1016/j.cscm.2024.e02991.
+[73] Shaban WM, Elbaz K, Yang J, Shen S-L. A multi-objective optimization algorithm 
+for forecasting the compressive strength of RAC with pozzolanic materials. 
+J Clean Prod 2021;327:129355. https://doi.org/10.1016/j.jclepro.2021.129355.
+[74] Islam N, Kashem A, Das P, Ali MN, Paul S. Prediction of high-performance 
+concrete compressive strength using deep learning techniques, Asian. J Civ Eng 
+2024;25:327–41. https://doi.org/10.1007/s42107-023-00778-z.
+[75] Asteris PG, Skentou AD, Bardhan A, Samui P, Pilakoutas K. Predicting concrete 
+compressive strength using hybrid ensembling of surrogate machine learning 
+models. Cem Concr Res 2021;145:106449. https://doi.org/10.1016/j. 
+cemconres.2021.106449.
+[76] Ashrafian A, Panahi E, Salehi S, Karoglou M, Asteris PG. Mapping the strength of 
+agro-ecological lightweight concrete containing oil palm by-product using 
+artificial intelligence techniques. Structures 2023;48:1209–29. https://doi.org/ 
+10.1016/j.istruc.2022.12.108.
+[77] Duan J, Asteris PG, Nguyen H, Bui X-N, Moayedi H. A novel artificial intelligence 
+technique to predict compressive strength of recycled aggregate concrete using 
+ICA-XGBoost model. Eng Comput 2021;37:3329–46. https://doi.org/10.1007/ 
+s00366-020-01003-0.
+[78] Yeh I-C. Concrete Compressive Strength. UCI Machine Learning Repository 2007. 
+https://doi.org/10.24432/C5PK67.
+[79] Selim T, Elshaarawy MK, Elkiki M, Eltarabily MG. Estimating seepage losses from 
+lined irrigation canals using nonlinear regression and artificial neural network 
+models. Appl Water Sci 2024;14:90. https://doi.org/10.1007/s13201-024- 
+02142-1.
+[80] Williams B, Halloin C, L¨obel W, Finklea F, Lipke E, Zweigerdt R, et al. Data-driven 
+model development for cardiomyocyte production experimental failure 
+prediction, in. Comput Aided Chem Eng, Elsevier 2020:1639–44.
+[81] McCulloch WS, Pitts W. A logical calculus of the ideas immanent in nervous 
+activity. Bull Math Biophys 1943;5:115–33. https://doi.org/10.1007/ 
+BF02478259.
+[82] Elshaarawy MK, Hamed AK. Stacked ensemble model for optimized prediction of 
+triangular side orifice discharge coefficient. Eng Optim 2024:1–31. https://doi. 
+org/10.1080/0305215X.2024.2397431.
+[83] T.K. Ho, Random decision forests, in: Proc. 3rd Int. Conf. Doc. Anal. Recognit., 
+IEEE, 1995: pp. 278–282.
+[84] Breiman L. Random forests. Mach Learn 2001;45:5–32.
+[85] Eltarabily MG, Abd-Elhamid HF, Zeleˇn´akov´a M, Elshaarawy MK, Elkiki M, 
+Selim T. Predicting seepage losses from lined irrigation canals using machine 
+learning models. Front Water 2023;5. https://doi.org/10.3389/ 
+frwa.2023.1287357.
+[86] Tian W, Isleem HF, Hamed AK, Elshaarawy MK. Enhancing discharge prediction 
+over Type-A piano key weirs: An innovative machine learning approach. Flow 
+Meas Instrum 2024;100:102732. https://doi.org/10.1016/j. 
+flowmeasinst.2024.102732.
+[87] Elshaarawy MK, Hamed AK. Machine Learning and Interactive GUI for Estimating 
+Roller Length of Hydraulic Jumps. Appl: Neural Comput; 2024.
+[88] Isleem HF, Elshaarawy MK, Hamed AK. Analysis of Flow Dynamics and Energy 
+Dissipation in Piano Key and Labyrinth Weirs Using Computational Fluid 
+Dynamics, in. Comput Fluid Dyn - Anal Simulations, Appl [Working Title], 
+IntechOpen 2024. https://doi.org/10.5772/intechopen.1006332.
+[89] Eltarabily MG, Selim T, Elshaarawy MK, Mourad MH. Numerical and 
+Experimental Modeling of Geotextile Soil Reinforcement for Optimizing 
+Settlement and Stability of Loaded Slopes of Irrigation Canals. Environ Earth Sci 
+2024.
+[90] Breiman L. Stacked regressions. Mach Learn 1996;24:49–64. https://doi.org/ 
+10.1007/bf00117832.
+[91] Wolpert DH. Stacked generalization. Neural Netw 1992;5:241–59. https://doi. 
+org/10.1016/S0893-6080(05)80023-1.
+[92] Selim T, Hamed AK, Elkiki M, Eltarabily MG. Numerical investigation of flow 
+characteristics and energy dissipation over piano key and trapezoidal labyrinth 
+weirs under free-flow conditions. Model Earth Syst Environ 2023. https://doi. 
+org/10.1007/s40808-023-01844-w.
+[93] Elshaarawy MK, Hamed AK, Hamed S. Regression-Based Models for Predicting 
+Discharge Coefficient of Triangular Side Orifice. J Eng Res 2023;7:224–31. https 
+://digitalcommons.aaru.edu.jo/erjeng/vol7/iss5/31.
+[94] Elshaarawy MK, Hamed AK. Predicting discharge coefficient of triangular side 
+orifice using ANN and GEP models. Water Sci 2024;38:1–20. https://doi.org/ 
+10.1080/23570008.2023.2290301.
+[95] Eltarabily MG, Hamed AK, Elkiki M, Selim T. Hydraulic assessment of different 
+types of piano key weirs. ISH J Hydraul Eng 2024:1–24. https://doi.org/10.1080/ 
+09715010.2024.2415938.
+[96] Hamed AK, Eltarabily MG, Elkiki M, Selim T. Optimum Hydraulic Design of Weirs 
+for Downstream Zone Energy Dissipation. Civil Engineering Department, Faculty 
+of Engineering: Port Said University; 2024. https://doi.org/10.13140/ 
+RG.2.2.18564.54409 [M.Sc. Thesis].
+[97] Asteris PG, Koopialipoor M, Armaghani DJ, Kotsonis EA, Lourenço PB. Prediction 
+of cement-based mortars compressive strength using machine learning 
+techniques. Neural Comput Appl 2021;33:13089–121. https://doi.org/10.1007/ 
+s00521-021-06004-8.
+[98] Asteris PG, Karoglou M, Skentou AD, Vasconcelos G, He M, Bakolas A, et al. 
+Predicting uniaxial compressive strength of rocks using ANN models: 
+Incorporating porosity, compressional wave velocity, and schmidt hammer data. 
+Ultrasonics 2024;141:107347. https://doi.org/10.1016/j.ultras.2024.107347.
+[99] Elazab MA, Kabeel AE, El-Said EMS, Dahab HA, Hamed AK, Alsaadawi MM, et al. 
+Exergoeconomic assessment of a multi-section solar distiller coupled with solar 
+air heater: Optimization and economic viability. Desalin Water Treat 2024;319: 
+100535. https://doi.org/10.1016/j.dwt.2024.100535.
+[100] Vakharia V, Gupta VK, Kankar PK. A comparison of feature ranking techniques for 
+fault diagnosis of ball bearing. Soft Comput 2016;20:1601–19. https://doi.org/ 
+10.1007/s00500-015-1608-6.
+[101] Elshaarawy MK, Elmasry NH, Selim T, Elkiki M, Eltarabily MG. Determining 
+Seepage Loss Predictions in Lined Canals Through Optimizing Advanced Gradient 
+Boosting Techniques. Water Conserv Sci Eng 2024. https://doi.org/10.1007/ 
+s41101-024-00306-3.
+[102] Kabeel AE, Elazab MA, El Hadi Attia M, Elshaarawy MK, Hamed AK, 
+Alsaadawi MM, et al. Exploring the potential of conical solar stills: Design 
+optimization and enhanced performance overview. Desalin Water Treat 2024; 
+320:100642. https://doi.org/10.1016/j.dwt.2024.100642.
+[103] Elshaarawy MK, Alsaadawi MM, Hamed AK. Machine Learning and Interactive 
+GUI for Concrete Compressive Strength Prediction. Sci Rep 2024. https://doi.org/ 
+10.1038/s41598-024-66957-3.
+A.K. Hamed et al.                                                                                                                                                                                                                              
+
+
+===== PAGE 25 =====
+
+Computers and Structures 308 (2025) 107644
+25
+[104] Lundh F. An introduction to tkinter, URL Www. Pythonware Com/Library/ 
+Tkinter/Introduction/Index Htm 1999;539:540.
+[105] Benzaamia A, Ghrici M, Rebouh R, Zygouris N, Asteris PG. Predicting the shear 
+strength of rectangular RC beams strengthened with externally-bonded FRP 
+composites using constrained monotonic neural networks. Eng Struct 2024;313: 
+118192. https://doi.org/10.1016/j.engstruct.2024.118192.
+[106] Liu Y. High-Performance Concrete Strength Prediction Based on Machine 
+Learning. Comput Intell Neurosci 2022;2022:1–7. https://doi.org/10.1155/ 
+2022/5802217.
+[107] Liang W, Yin W, Zhong Y, Tao Q, Li K, Zhu Z, et al. Mixed artificial intelligence 
+models for compressive strength prediction and analysis of fly ash concrete. Adv 
+Eng Softw 2023;185:103532. https://doi.org/10.1016/j. 
+advengsoft.2023.103532.
+[108] Paudel S, Pudasaini A, Shrestha RK, Kharel E. Compressive strength of concrete 
+material using machine learning techniques. Clean Eng Technol 2023;15:100661. 
+https://doi.org/10.1016/j.clet.2023.100661.
+[109] Feng D-C, Liu Z-T, Wang X-D, Chen Y, Chang J-Q, Wei D-F, et al. Machine 
+learning-based compressive strength prediction for concrete: An adaptive 
+boosting approach. Constr Build Mater 2020;230:117000. https://doi.org/ 
+10.1016/j.conbuildmat.2019.117000.
+[110] Elhishi S, Elashry AM, El-Metwally S. Unboxing machine learning models for 
+concrete strength prediction using XAI. Sci Rep 2023;13:19892. https://doi.org/ 
+10.1038/s41598-023-47169-7.
+A.K. Hamed et al.                                                                                                                                                                                                                              

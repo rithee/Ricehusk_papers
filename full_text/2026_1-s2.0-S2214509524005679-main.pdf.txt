@@ -1,0 +1,1409 @@
+
+===== PAGE 1 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+Available online 13 June 2024
+2214-5095/©
+2024
+The
+Author(s).
+Published
+by
+Elsevier
+Ltd.
+This
+is
+an
+open
+access
+article
+under
+the
+CC
+BY-NC
+license
+(http://creativecommons.org/licenses/by-nc/4.0/).
+Case study 
+Prediction of concrete compressive strength using support vector 
+machine regression and non-destructive testing 
+Wanmao Zhang 1, Dunwen Liu *, Kunpeng Cao 1 
+School of Resources and Safety Engineering, Central South University, Changsha 410083, China   
+A R T I C L E  I N F O   
+Keywords: 
+Concrete 
+Compressive strength prediction 
+Nondestructive testing 
+Support vector machine regression 
+Back propagation neural network 
+A B S T R A C T   
+Performance assessment of existing building structures, especially concrete compressive strength 
+assessment, is a crucial aspect of engineering construction for most industrialized countries. Non- 
+destructive testing (NDT) techniques are commonly employed to assess the compressive strength 
+of concrete structures. However, existing methods for predicting concrete compressive strength 
+using NDT techniques and machine learning methods do not take into account the concrete mix 
+proportion design. This study proposes an effective method to predict concrete compressive 
+strength by combining NDT tests with different mix proportion designs and curing ages. Specif­
+ically, support vector machine regression (SVR) and back propagation neural network (BPNN) 
+models are established. Furthermore, various machine learning evaluation indexes are utilized to 
+assess the model performance. To construct and validate the prediction models, a total of 180 
+datasets containing concrete specimens with different mix proportion designs and curing ages are 
+collected from the existing research literature. The prediction results show that the coefficients of 
+determination (R2) of the SVR and the BPNN prediction models for the test set of concrete 
+compressive strength are 86.0 % and 86.7 % without considering the concrete mix proportion 
+design. The R2 of the prediction results of the SVR model is higher than 95 % when considering 
+the effects of concrete mix proportion design and curing age. The R2 of the BPNN prediction 
+model ranged between 92 % and 97 %. All the evaluation indexes of the SVR model for predicting 
+the compressive strength of concrete are better than those of the BPNN model. Consequently, the 
+SVR model can be utilized to accurately evaluate concrete compressive strength during the 
+structural performance assessment of existing buildings.   
+1. Introduction 
+With the increasing development of high-rise buildings and infrastructure construction both domestically and internationally, the 
+repair and renovation of existing building structures have become crucial research areas in current engineering construction [1]. 
+Among various building materials, concrete, widely utilized in construction, relies on its compressive strength as a primary indicator of 
+structural quality [2,3]. Generally, the compressive strength of concrete is evaluated mainly by destructive testing method [3–5]. 
+However, destructive tests not only incur high costs but also compromise the performance of the existing structure, making them less 
+feasible for deteriorating concrete structures [4,6]. Therefore, non-destructive testing (NDT) techniques have gained popularity for 
+* Corresponding author. 
+E-mail address: 235501005@csu.edu.cn (D. Liu).   
+1 Contributing authors. 
+Contents lists available at ScienceDirect 
+Case Studies in Construction Materials 
+journal homepage: www.elsevier.com/locate/cscm 
+https://doi.org/10.1016/j.cscm.2024.e03416 
+Received 21 March 2024; Received in revised form 24 May 2024; Accepted 11 June 2024   
+
+
+===== PAGE 2 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+2
+assessing the quality of concrete structures, particularly in terms of compressive strength [5,7–9]. Compared to destructive testing, 
+NDT reduces the testing workload, minimizes damage to the original structure, and decreases testing costs, while still providing 
+reliable and accurate results [10]. To enhance the accuracy of predicted outcomes, many studies recommend employing combinations 
+of NDT methods to estimate concrete compressive strength [11,12]. 
+More specifically, non-destructive techniques were proposed by many scholars in the middle of the last century to evaluate the 
+compressive strength of concrete. Among these techniques, the ultrasonic pulse velocity (UPV) and rebound hammer number (RN) 
+tests are the most widely adopted for evaluating compressive strength [12,13]. Furthermore, NDT provides comprehensive infor­
+mation on concrete properties and homogeneity assessment [14–16]. Consequently, various NDT techniques can be employed to 
+evaluate concrete compressive strength. Previous studies have discussed the UPV and RN methods either independently or in com­
+bination. Typically, combining UPV and RN measurements yields a more accurate estimation of concrete strength. Some literature 
+proposes merging these two NDT methods to create a precise prediction model, while others utilize a single NDT method for strength 
+prediction [12,17]. Some studies have concluded that the effectiveness of the combined method, compared to individual methods, 
+depends on the number of specimens used in the calibration process [12,13]. 
+The preliminary application of NDT in concrete is mainly based on the classification of concrete according to its mechanical 
+properties. One of the most representative is the classification of concrete quality proposed by Whitehurst. He proposed the charac­
+terization of concrete quality with ultrasonic velocity, which can be classified into five quality classes [18]. Other researchers also 
+proposed to characterize concrete quality based on the RN values of the concrete under study. In 1949, Leslie and Cheesman [19] 
+proposed a more specialized concrete classification using ultrasonic velocity measurements and RN values to classify concrete quality 
+into four categories. 
+In the 1960s, a large number of empirical equations for estimating the compressive strength of concrete based on UPV and RN 
+values were proposed by many researchers and subjected to multiple regression analysis [20,21]. These equations were determined by 
+regression analysis on a series of experimental datasets, including power functions, bilinear functions, and biexponential functions 
+[22–24]. In addition, Lawson et al. [25] investigated the relationship between UPV and the compressive strength of concrete. The 
+relationship between UPV and the compressive strength of concrete increases with age, but the rate of increase is dependent on the mix 
+proportion designs and curing method. Sbartai et al. [26] proposed a method for obtaining UPV and compressive strength data for 
+concrete using a comprehensive database of NDT experiments. They also conducted an evaluation of existing NDT techniques for 
+assessing concrete compressive strength. Jain et al. [27] combined different NDTs to estimate the compressive strength of concrete. 
+Ali-Benyahia et al. [2] proposed some models between destructive testing and individual or combined NDTs for a more accurate 
+assessment of concrete strength. The results of the study showed that the combined method is of high value in concrete strength 
+estimation compared to the existing models. Ali Poorarbabi et al. [1] carried out nondestructive testing of a large number of concrete 
+specimens for UPV and RN. An effective Response Surface Method (RSM) was proposed for estimating the compressive strength of 
+concrete, which is more accurate than other available models. Khuram Rashid et al. [8] tested the UPV, RN, and compressive strength 
+of concrete at different curing ages, respectively. The relationship between UPV-compressive strength and RN-compressive strength 
+was established. Their combination was used to predict compressive strength and the correctness of the predicted values was verified. 
+These equations were primarily used to estimate the compressive strength of concrete using UPV values, RN values, or NDT combi­
+nation measurements. However, there is a high bias in the estimation of these relationships. The estimated compressive strength values 
+differed from the actual values directly measured through destructive laboratory testing. 
+Traditional models focus on mathematical analysis methods, which mainly include statistical analysis based on linear or nonlinear 
+regression equations. Due to the nonlinear relationship between concrete composition and compressive strength, it is difficult to obtain 
+accurate regression equations, which requires a great deal of skill and experience. Machine learning techniques are important tools for 
+the prediction of nonlinear relationships and have a wide range of applications in civil engineering [28–31]. Some of the machine 
+learning techniques used to develop prediction models for complex problems include Artificial Neural Networks (ANN), Support 
+Vector Machines (SVM), and Relevance Vector Machines (RVM) [32–34]. Among them, artificial neural networks are most widely used 
+to solve the problem of prediction of concrete compressive strength by machine learning techniques [35–38]. Bilgehan and Turgut [39] 
+proposed an ANN model based on the UPV results of specimens to predict concrete compressive strength. The developed model showed 
+a high degree of accuracy and the model can be used to evaluate the compressive strength of concrete. Erda et al. [40] used artificial 
+neural networks and multiple regression techniques to predict the compressive strength of vacuum-treated concrete. The performance 
+of the proposed single and multiple regression models in predicting the compressive strength of concrete was compared. The per­
+formance of the developed artificial neural network prediction model using NDT results was superior to the regression equations. Atici 
+[41] also used multiple regression techniques and artificial neural network to predict the compressive strength of concrete. The results 
+showed that the artificial neural network model had better prediction performance than multiple regression. Lorenzi’s study showed 
+that artificial neural network prediction can obtain concrete compressive strength at a lower computational cost. Emad et al. [42,43] 
+developed four different soft computing techniques to predict the compressive strength of ultra-high performance fiber concrete and 
+found that the ANN model was more suitable than the others. Mahmood et al. [44] found that the compressive strength of cemented 
+grouted sand can be well predicted using the ANN model. Alkayem et al.[45] generalized and summarized the research on predicting 
+the performance of concrete at high temperatures using machine learning and deep learning. Skentou et al. [46] combined ultrasonic 
+pulse velocity, Schmidt hammer rebound number and effective porosity NDT metrics, and ANN modeling to predict granite unconfined 
+compressive strength. Asteris and Mokos [47] developed multiple back-propagation neural network models. They proposed three 
+different models to predict the compressive strength, including a single input with only UPV values or RN values, and predicting the 
+output using both UPV and RN value numbers. In all cases, satisfactory results were obtained during the training and testing phases. 
+Asteris et al. [5] established several soft computing techniques to estimate concrete compressive strength using UPV and rebound 
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 3 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+3
+hammer tests. The BP neural network based on UPV and rebound values is proposed to be the most accurate predictor of concrete 
+compressive strength. 
+Since the existing methods of predicting concrete compressive strength using NDT and machine learning methods fail to account for 
+the concrete mix proportion design and curing age, both of which can significantly impact concrete strength development [48]. To 
+address this gap, data sets comprising 180 concrete strength specimens with varying mix proportion designs and curing ages were 
+collected from the literature to establish an effective and reliable method for predicting compressive strength [3]. This study proposes a 
+novel approach that combines concrete mix proportioning and NDT (specifically, UPV and RN) to predict compressive strength, 
+leveraging machine learning computational techniques to improve the accuracy and reliability of predictions. Support vector machines 
+and neural networks are widely used in engineering applications due to their proven predictive ability, making them ideal for this 
+study [49,50]. Accordingly, SVR and BPNN are used to predict compressive strength based on NDT data, with consideration given to 
+concrete mix proportion design and curing age. The resulting SVR and BPNN models are evaluated using various machine learning 
+performance metrics to assess their effectiveness in predicting compressive strength. 
+2. Research significance 
+Concrete, as the most commonly used building material in construction and infrastructure development, plays a crucial role in 
+determining the structural performance of buildings. Among various indicators, the assessment of compressive strength stands out as a 
+key parameter for evaluating the quality and durability of concrete structures. Despite numerous research efforts focusing on NDT 
+techniques to assess and forecast concrete compressive strength, there is a growing interest in integrating NDT methods with machine 
+learning approaches to enhance prediction accuracy in construction engineering. Existing literature highlights a gap in the current 
+methodologies for predicting concrete compressive strength, as they often overlook key factors such as concrete mix proportion design 
+and curing age. These factors play a significant role in influencing concrete strength development, ultimately impacting the perfor­
+mance of regression models employed for compressive strength prediction. 
+In this study, we address this gap by collecting a comprehensive dataset comprising 180 concrete strength specimens with diverse 
+proportion designs and curing ages sourced from literature. By integrating concrete mix proportion design with NDT test results, we 
+aim to develop a robust and accurate predictive model for concrete compressive strength. Notably, our research introduces the novel 
+approach of utilizing SVR and BPNN models to predict the compressive strength of concrete specimens, leveraging information from 
+both concrete mix proportion design and NDT tests (UPV and RN). Furthermore, we conduct a thorough evaluation of the proposed 
+models using various machine learning performance metrics to assess their efficacy in predicting concrete compressive strength. 
+3. Source of dataset 
+The first step in predicting the compressive strength of concrete using NDT and machine learning methods is to create a sample 
+dataset. This section focuses on the NDT testing methods and dataset sources for the sample data. 
+3.1. NDT methods 
+The UPV testing is a widely used NDT method that measures the velocity of a compression stress wave (p-wave) in a material [12]. 
+The principle of the UPV test is based on the propagation velocity of an ultrasonic pulse through the material. The equipment used for 
+the test typically consists of a transmitter, a receiver, and a display device that shows the time taken for the pulse to travel through the 
+material. The pulse velocity is commonly defined as the distance traveled by the pulse divided by the time taken [24]. 
+Fig. 1. Schematic diagram of UPV test.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 4 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+4
+V = L
+T
+(1) 
+where V denotes the pulse velocity (m/s); L denotes the path length (m); and T is the transfer time (s). 
+The UPV method is widely employed in NDT for construction materials. It can be conducted either in a laboratory setting or at the 
+construction site. This method is applicable for various purposes, including strength estimation, uniformity evaluation, durability 
+analysis, surface crack depth measurement, and determination of the dynamic modulus of elasticity for materials such as concrete, 
+rock, and wood [51–55]. 
+The UPV method relies solely on the elastic properties of the material and is independent of its geometry. It is an effective approach 
+for assessing the quality of concrete [56]. The principle of the UPV test is illustrated in Fig. 1. This test is used to evaluate the strength, 
+uniformity, and quality of concrete. A higher pulse velocity indicates good quality and uniformity of the concrete, while a lower pulse 
+velocity suggests the presence of non-uniformities such as cracks or voids. UPV test methods can be categorized as direct, semi-direct, 
+or indirect tests. 
+The rebound hammer test is a widely used NDT method for assessing the elastic properties and strength of concrete. It operates on 
+the principle of rebound, where the energy absorbed by the concrete surface is related to the strength of the specimen [13,57]. Proper 
+test preparation and selection of the specimen testing surface are crucial for obtaining accurate results. The test surface should be 
+carefully prepared by smoothing it with an abrasive stone. A certain amount of energy is then applied to the surface by striking it with a 
+hammer. The plunger of the hammer must be perpendicular to the smooth surface, and the rebound numbers are recorded, with at least 
+10 records taken for each surface tested. 
+Due to the challenge of establishing a direct correlation between the RN and the concrete strength, the rebound hammer test is most 
+suitable for large areas with similar types of concrete. It is recommended to combine this test with other well-known non-destructive 
+tests to obtain a comprehensive assessment of concrete strength. Numerous studies highlight the advantages of the rebound hammer 
+test for concrete, while also emphasizing the need for complementary tests to accurately determine concrete strength. 
+3.2. Dataset 
+Based on the existing literature, the experimental design program was developed by incorporating the work of Ali Poorarbabi and 
+Mohammadreza Ghasemi et al. [1,4]. The experimental designs consisted of 20 different concrete mix schemes and the concrete mix 
+proportion design is shown in Table 1. The UPV, RN, and compressive strength of the concrete were measured and recorded at 7 days 
+(7d), 28 days (28d), and 90 days (90d). Consequently, a total of 180 specimen test datasets were obtained. The statistical properties of 
+the relevant sample data are presented in Table 2. 
+The frequency distribution of the UPV, RN, and concrete strength data was analyzed, and the results are presented in Fig. 2. To 
+assess the relationship between the model input and model output sample data, Pearson correlation coefficients were calculated and 
+are shown in Table 3. Furthermore, a heat map of the Pearson correlation coefficients for the corresponding sample data is depicted in  
+Fig. 3. 
+Table 3 and Fig. 3 present the Pearson correlation coefficients calculated by comparing the UPV, RN, and concrete compressive 
+strength sample data. The variable with the highest linear Pearson correlation coefficient with compressive strength is RN, followed by 
+UPV. There is some linear correlation between RN, UPV, and concrete compressive strength. While traditional multiple regression 
+analysis can establish correlation equations to predict concrete compressive strength, the prediction results often exhibit high bias. 
+Table 1 
+Concrete mix proportion design.  
+No. 
+Water-cement ratio 
+Cement 
+(kg/m3) 
+Coarse gravel 
+(kg/m3) 
+Fine gravel 
+(kg/m3) 
+Sand 
+(kg/m3) 
+1  
+0.79  
+273 
+0  
+936  
+863 
+2  
+0.79  
+244 
+497  
+478  
+936 
+3  
+0.74  
+291 
+0  
+927  
+980 
+4  
+0.74  
+261 
+493  
+473  
+928 
+5  
+0.69  
+313 
+0  
+915  
+968 
+6  
+0.69  
+280 
+487  
+469  
+919 
+7  
+0.65  
+332 
+0  
+920  
+957 
+8  
+0.65  
+297 
+529  
+509  
+925 
+9  
+0.61  
+354 
+0  
+909  
+949 
+10  
+0.61  
+316 
+524  
+504  
+921 
+11  
+0.58  
+372 
+0  
+905  
+945 
+12  
+0.58  
+332 
+530  
+490  
+908 
+13  
+0.54  
+400 
+0  
+890  
+888 
+14  
+0.54  
+357 
+528  
+488  
+860 
+15  
+0.5  
+432 
+0  
+935  
+872 
+16  
+0.5  
+386 
+550  
+469  
+855 
+17  
+0.45  
+480 
+0  
+908  
+825 
+18  
+0.45  
+429 
+533  
+412  
+800 
+19  
+0.42  
+514 
+0  
+884  
+753 
+20  
+0.42  
+460 
+558  
+419  
+768  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 5 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+5
+Table 2 
+Statistical properties of model input and output parameters.  
+Variant 
+Model inputs 
+Model outputs 
+Water- 
+cement 
+ratio 
+Cement 
+(kg/ 
+m3) 
+Coarse 
+gravel 
+(kg/m3) 
+Fine 
+gravel 
+(kg/ 
+m3) 
+Sand 
+(kg/ 
+m3) 
+UPV 
+(km/s) 
+RN 
+7d compressive 
+strength (MPa) 
+28d compressive 
+strength (MPa) 
+90d compressive 
+strength (MPa) 
+Maximum 
+value  
+0.79  
+514 
+558  
+936  
+980  
+4.9  
+36  
+31.2  
+38.8  
+38.7 
+Minimum 
+value  
+0.42  
+244 
+0  
+412  
+753  
+3.37  
+14  
+11.3  
+15.9  
+17.1 
+Average 
+value  
+0.60  
+356.2 
+261.5  
+692  
+891  
+4.23  
+23.1  
+20.1  
+24.6  
+26.7  
+Fig. 2. Distribution of sample data: (a) UPV; (b) RN; (c) Compressive strength.  
+Table 3 
+Pearson correlation coefficient calculation results.  
+Variant 
+UPV 
+RN 
+Compressive strength (CS) 
+UPV  
+1.00  
+0.7745  
+0.7881 
+RN  
+0.7745  
+1.00  
+0.9197 
+Compressive strength (CS)  
+0.7881  
+0.9197  
+1.00  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 6 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+6
+There is a significant difference between the predicted values of compressive strength and the actual values obtained through 
+destructive testing. 
+4. Methodology 
+To comprehensively analyze the relationship between UPV, RN, and concrete compressive strength, this study employs a machine 
+learning approach to predict concrete compressive strength. This section focuses on the machine learning methodology used in the 
+study and the evaluation indicators for the performance of the prediction model. The dataset S = {(xi ,yi), i=1,2,…l} is utilized, where 
+xi represents the influencing factors of the ith training sample, including concrete mix proportion design, UPV, and RN, serving as the 
+model input. Meanwhile, yi represents the corresponding concrete compressive strength, serving as the model output. The model 
+sample data is divided into a training set and a test set in a 3:1 ratio. The flowchart depicting the model building process is displayed in  
+Fig. 4. 
+4.1. Support vector regression 
+Support Vector Machine is a statistical learning theory proposed by Vapnik [58], which is based on the criterion of structural risk 
+minimization [58,59]. This method aims to minimize both the structural risk and the sample error, thereby improving the general­
+ization ability of the model without being limited by the dimensionality of the data. To address regression fitting problems using SVM, 
+Vapnik et al. [58] introduced an insensitive loss function ε, resulting in a regression-type support vector machine. This model exhibits 
+superior performance and effectiveness. In SVM regression fitting, the main idea is to determine an optimal plane that minimizes the 
+error between the training samples and the optimal plane [60]. 
+Without loss of generality, let the training set consist of l samples, denoted as {(xi,yi)，i=1,2,…,l}, where xi(xi∈Rd) is the input 
+column vector of the ith training sample, given by xi=[xi
+1,xi
+2,…,xi
+d]T, and yi∈R is the corresponding output value. 
+The objective is to build a linear regression function, f(x), in a high-dimensional feature space [61,62], which can be represented as: 
+f(x) = ωФ(x) + b
+(2)  
+where Ф(x) is a nonlinear mapping function. 
+To define the loss function, ε-insensitive loss function, ε is introduced. Fig. 5 illustrates the ε-insensitive loss function set in SVR for 
+the given data, which can be expressed as: 
+L(f(x), y, ϵ) =
+{
+0,
+|y −f(x) | ≤ϵ
+|y −f(x) | −ϵ,
+|y −f(x) | > ϵ
+(3) 
+In Eq. (3), f(x) represents the predicted value calculated by the regression function, and y represents the true value. 
+To solve the optimization problem, slack variables ξi and ξi* are introduced, and the values of ω and b are computed using Eq. (4): 
+Fig. 3. Heat map of Pearson correlation coefficient of sample data.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 7 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+7
+⎧
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎩
+min 1
+2‖ω‖2 + C
+∑
+l
+i=1
+(
+ξi + ξ∗
+i
+)
+s.t.
+⎧
+⎪
+⎪
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎪
+⎪
+⎩
+yi −ωФ(xi) −b ≤ϵ + ξi
+−yi + ωФ(xi) + b ≤ϵ + ξ∗
+i
+ξi ≥0, ξ∗
+i ≥0
+, i = 1, 2, …, l
+(4)  
+where C is the penalty factor, the larger its value means the larger the penalty for the sample error over ε, and ε denotes the error of the 
+regression function. 
+The Lagrange function is introduced to solve the optimization problem, converting it to a dyadic form. 
+Fig. 4. The study flowchart.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 8 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+8
+⎧
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎩
+max
+α, α∗
+[
+−1
+2
+∑
+l
+i=1
+∑
+l
+j=1
+( αi −α∗
+i
+)(
+αi −α∗
+j
+)
+K
+(
+xi, xj
+)
+−
+∑
+l
+i=1
+( αi + α∗
+i
+)ε +
+∑
+l
+i=1
+( αi −α∗
+i
+)
+yi
+]
+s.t.
+⎧
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎩
+∑
+l
+i=1
+( αi −α∗
+i
+)
+yi = 0
+0 ≤αi ≤C
+0 ≤α∗
+i ≤C
+(5) 
+The kernel function K(xi,yi)=Ф(xj)Ф(xj) is utilized in SVR, with commonly used options including the polynomial kernel function, 
+linear kernel function, Radial Basis Function (RBF), and Sigmoid kernel function [63]. Among these choices, the RBF kernel function 
+demonstrates excellent generalization ability and yields the best performance for the model [34]. However, when using the RBF kernel 
+function, the ill-conditioned problem is often faced due to the presence of noise or redundant features in the data. The complexity of the 
+model is controlled by choosing an appropriate penalty factor to avoid overfitting. The criteria for selecting the penalty factor C is 
+usually done by cross validation. When the performance of the model is the same, the parameter combination with a smaller penalty 
+factor C is preferred. 
+Let the optimal solution be denoted as α=[α1,α2,…,αl], α*=[α1*,α2*,…,αl*]. 
+ω∗=
+∑
+l
+i=1
+( αi −α∗
+i
+)
+Ф(xi)
+(6)  
+Fig. 5. Insensitive loss function in SVR ε.  
+Fig. 6. Structure of BP neural network.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 9 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+9
+b∗=
+1
+Nnsv
+⎧
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎩
+∑
+0<αi<C
+[
+yi −
+∑
+xi∈SV
+( αi −α∗
+i
+)
+K
+(
+xi, xj
+)
+−ε
+]
++
+∑
+0<αi<C
+⎡
+⎣yi −
+∑
+xj∈SV
+(
+αj −α∗
+j
+)
+K
+(
+xi, xj
+)
++ ε
+⎤
+⎦
+⎫
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎬
+⎪
+⎪
+⎪
+⎪
+⎪
+⎪
+⎭
+(7) 
+The number of support vectors, denoted as Nnsv, represents the total count of these non-zero parameters. The regression function 
+can then be expressed as a combination of these support vectors. 
+f(x) = ω∗Ф(x) + b∗=
+∑
+l
+i=1
+( αi −α∗
+i
+)
+Ф(xi)Ф(x) + b∗=
+∑
+l
+i=1
+( αi −α∗
+i
+)
+K(xi, x) + b∗
+(8) 
+There exists a fraction of non-zero parameters (αi - αi*) corresponding to the samples xi as support vectors for the research problem. 
+4.2. BP neural network 
+Considering the advantages of neural networks in handling complex nonlinear relationships, this study incorporates neural 
+network modeling into the prediction of concrete strength. The artificial neural network model is a mathematical tool that emulates 
+the functions of the human brain, such as learning, reasoning, and performing parallel computations [5,49]. The back propagation (BP) 
+neural network consists of an input layer, an intermediate layer (also known as the hidden layer), and an output layer, as shown in  
+Fig. 6. In Fig. 6, xi represents the input vector X= (x1, x2,…xi…,xn), yi represents the output vector Y= (y1, y2, …yi…, yn), and Wij and Wjk 
+represent the connection weights between the input layer and the hidden layer. When considering concrete mix proportion design, the 
+architecture of BPNN is divided into 3 layers with the number of neurons in each layer being 7,10 and 1, respectively. 
+The learning process of the BPNN consists of two stages [31,47]. In the first stage, information is propagated forward from the input 
+layer through the hidden layer to the output layer. By inputting the sample data, the input vector is processed through the designed 
+network structure and the weights and thresholds are adjusted iteratively to achieve sample learning. In the second stage, information 
+is propagated backward from the output layer to the input layer, following a specific rule to modify the initial weights and thresholds of 
+the algorithm. This process aims to facilitate the convergence of the algorithm. The first stage of the learning process is completed 
+when information flows from the input layer to the output layer. If there is a discrepancy between the output result of the output layer 
+and the expected result, the error is propagated backward from the output layer to the input layer through the intermediate layer. The 
+weights are adjusted layer by layer using the gradient descent algorithm to complete the second stage of the learning process. These 
+two stages are repeated alternately until convergence is achieved, signaling the end of the learning process and the termination of 
+network training. 
+4.3. Model evaluation 
+The SVR and BPNN prediction models are implemented using MATLAB. The mean square error (MSE) and coefficient of deter­
+mination (R2) are calculated for both the training and test sets. The MSE value ranges from [0, +∞), with a value of 0 indicating a 
+perfect match between the predicted and true values. Therefore, a smaller MSE value corresponds to a smaller error. On the other hand, 
+the R2 measures the proportion of variation in the dependent variable that can be explained by the independent variable through the 
+regression relationship. A higher R2 value indicates better model performance. The formulas for MSE and R2 are as follows [64–66]: 
+MSE = 1
+l
+∑
+l
+i=1
+(̂yi −yi)2
+(9)  
+R2 =
+(
+l ∑
+l
+i=1
+̂yiyi −∑
+l
+i=1
+̂yi
+∑
+l
+i=1
+yi
+)2
+(
+l ∑
+l
+i=1
+̂yi
+2 −
+( ∑
+l
+i=1
+̂yi
+)2 )(
+l ∑
+l
+i=1
+yi2 −
+( ∑
+l
+i=1
+yi
+)2 )
+(10)  
+Where l is the number of samples in the test set, yi(i = 1，2，…，l) is the true value of the ith sample, ̂yi(i=1，2，…，l) is the 
+predicted value of the ith sample. 
+To further evaluate the prediction effect, other statistical indicators commonly used in machine learning are adopted. These include 
+mean absolute percentage error (MAPE), Theil inequality coefficient (TIC), and directional accuracy (DA) [67–71]. 
+MAPE is calculated through Eq. (11). The smaller value of MAPE indicates the smaller error, the better the regression of the model, 
+and the higher the prediction accuracy. The advantage of MAPE is mainly that it does not change with the scaling of the dependent 
+variable. 
+MAPE = 100%
+l
+∑
+l
+i=1
+⃒⃒⃒⃒
+̂yi −yi
+yi
+⃒⃒⃒⃒
+(11) 
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 10 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+10
+TIC is calculated using Eq. (12). The value of TIC is in the range of
+[0, 1]. The smaller the value of TIC, the smaller the error 
+between the predicted value and the real value, and the higher the prediction accuracy. 
+TIC =
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+1
+l
+∑
+l
+i=1
+(̂yi −yi)2
+√
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+1
+l
+∑
+l
+i=1
+(̂yi)2
+√
++
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+1
+l
+∑
+l
+i=1
+(yi)2
+√
+(12) 
+DA is used to judge whether the predicted and true values change in the same direction compared to the previous period. Calculated 
+by Eqs. (13) and (14), the closer its value is to 1, the higher the model prediction accuracy is. 
+DA = 1
+l
+∑
+l
+i=1
+Ai
+(13)  
+Ai =
+{
+1
+(̂yi+1 −yi)(̂yi+1 −yi) > 0
+0
+(̂yi+1 −yi)(̂yi+1 −yi) ≤0
+(14)  
+Where ̂yi
+is the predicted value and yi is the measured value. 
+In addition to the above metrics, a new model performance evaluation metric was calculated in this study. The a20-index was 
+calculated using the following equation [72–75]. 
+a20 −index = m20
+M
+(15)  
+where m20 is the number of samples whose ratio of true to predicted values is between 0.80 and 1.20, and M is the total number of 
+samples in the dataset. The predictive model is a perfect model when the value of a20-index is 1. The physical engineering meaning of 
+a20-index denotes the percentage of samples in which the error of the predicted value with respect to the true value is controlled to 
+±20 %. 
+5. Results and discussion 
+5.1. Model prediction results without considering the concrete mix proportion design 
+Combined with the established concrete UPV, RN, and compressive strength dataset S={(xi, yi)，i=1,2,…,l}. The SVR model and 
+BPNN model were used to predict the compressive strength of concrete at the ages of 7d, 28d, and 90d, respectively, without 
+considering the concrete mix proportion design. Furthermore, the predicted results of concrete strength under different prediction 
+conditions are shown in Fig. 7, Fig. 8, Fig. 9, and Fig. 10. 
+As can be seen from Fig. 7 and Fig. 8, the results of predicting the 7d compressive strength of concrete by comparing the SVR model 
+and the BPNN model without considering the concrete mix proportion design. The R2 of the training samples are 85.6 % and 85.2 %, 
+and the prediction model cannot accurately capture the key patterns and laws in the data, and the model training results perform 
+Fig. 7. Relationship between the experimental values and predicted values of 7d compressive strength: (a) SVR model; (b) BPNN model.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 11 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+11
+poorly. Furthermore, in Fig. 9, the prediction results of the two prediction models for the 90d compressive strength of concrete without 
+considering the concrete mix proportion design are compared. The R2 for the training samples is 92.8 %. The R2 for the test set of the 
+SVR prediction model is 97.7 %, and the R2 for the training set of the corresponding BPNN model is 93.5 %. For the prediction results 
+of concrete 90d compressive strength, the SVR model is better than the BPNN model. Similarly, in Fig. 10, the results of compressive 
+strength prediction of concrete at all ages by the two models are compared without considering the concrete mix proportion design. 
+The R2 of the training samples is 90.4 %. the R2 of the test set of the SVR prediction model is 86.0 %, and the R2 of the training set of the 
+corresponding BPNN model is 86.7 %. the prediction accuracies of the SVR model and the BPNN model are limited. 
+In summary, it can be seen that the training sets of the SVR model and the BPNN prediction model were generally fitted for the 
+compressive strength prediction results of concrete at different curing ages without considering the concrete mix proportion design. 
+Both models showed different degrees of overfitting and underfitting during the training process. The reason for this is mainly because 
+the SVR model and the BPNN prediction model have a certain degree of dependence on the size of the required training dataset. When 
+the number of model input samples is limited, the model cannot capture the key information and laws of the sample data. As a result, 
+the sample training effect is poor, leading to poor model test performance. This requires further optimization of the control parameters 
+and the development of relatively large training databases. 
+Fig. 8. Relationship between the experimental values and predicted values of 28d compressive strength: (a) SVR model; (b) BPNN model.  
+Fig. 9. Relationship between the experimental values and predicted values of 90d compressive strength: (a) SVR model; (b) BPNN model.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 12 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+12
+5.2. Model prediction results when considering the concrete mix proportion design 
+The SVR model and BPNN model were employed to predict the compressive strength of concrete at different curing ages (7d, 28d, 
+and 90d) using the established dataset S={(xi, yi)，i=1,2,…,l}, which consisted of concrete mix proportion design scheme, UPV, RN, 
+and compressive strength. Additionally, predictions were made for overall concrete strengths without considering the effect of curing 
+age. Furthermore, the predicted results of concrete strength by different prediction models are presented in Fig. 11, Fig. 12, Fig. 13, and  
+Fig. 14. 
+In Fig. 11, a comparison is made between the results obtained from the SVR model and the BPNN model for predicting the 7d 
+compressive strength of concrete in the context of concrete mix proportion design. It is observed that the predicted values align closely 
+with the measured values for the training samples, resulting in an impressive R2 value of 99.4 %. The R2 for the SVR model’s test set 
+prediction stands at 97 %, while the BPNN model achieves an R2 of 92.4 % on the training set. Notably, the SVR model exhibits su­
+perior performance over the BPNN model in predicting the 7d compressive strength of concrete. Moving on to Fig. 12, a comparison is 
+made for the 28d compressive strength prediction of concrete using various models under the concrete mix proportion design scenario. 
+The R2 for the training samples reaches 98.9 %, while the SVR model achieves an R2 of 96.6 % for the test set, surpassing the BPNN 
+model’s R2 of 94.6 % on the training set for 28d compressive strength prediction. Once again, the SVR model proves to outperform the 
+BPNN model in predicting the 28d compressive strength of concrete. Similarly, in Fig. 13, the prediction results for the 9d compressive 
+strength of concrete are compared among different models under the concrete mix proportion design conditions. The SVR model 
+Fig. 10. Relationship between the experimental values and predicted values of all compressive strength: (a) SVR model; (b) BPNN model.  
+Fig. 11. Relationship between the experimental values and predicted values of 7d compressive strength: (a) SVR model; (b) BPNN model.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 13 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+13
+showcases a high R2 of 97.0 % for the training samples and achieves an R2 of 98.3 % for the test set, slightly exceeding the BPNN 
+model’s R2 of 97.0 % on the training set for 90d compressive strength prediction. The SVR model demonstrates a slightly better 
+predictive capability than the BPNN model for the 90d compressive strength of concrete. Furthermore, Fig. 14 presents a compre­
+hensive comparison of the compressive strength prediction for concrete at all ages between the SVR model and the BPNN model under 
+the concrete mix proportion design setting. Once again, the predicted values align closely with the measured values for the training 
+samples, resulting in a high R2 of 98.3 %. While the SVR model achieves an R2 of 94.8 % for the test set, surpassing the BPNN model’s 
+R2 of 92.4 % on the training set. It is evident that the SVR model performs better than the BPNN model in predicting the compressive 
+strength of concrete across all ages. 
+In summary, the results indicate that both the SVR model and BPNN prediction model exhibit excellent fit for predicting the 
+compressive strength of concrete at various ages under the concrete mix proportion design conditions. High consistency between 
+predicted and measured values is observed for the training samples, with R2 exceeding 98 %. The SVR model demonstrates superior 
+predictive performance with R2 values exceeding 95 % for test set samples, compared to the BPNN model’s R2 values above 92 %. 
+Therefore, the results of the two models for concrete compressive strength prediction at different curing ages are in good agreement 
+with the measured data. The prediction effect of the SVR model is better than that of the BPNN model. There are obvious fluctuations 
+and data lags in the BPNN prediction model. The reason for this is mainly because the BPNN prediction model is mostly used to analyze 
+large sample data when the number of samples tends to infinity. This requires the development of a large number of optimized control 
+parameters and a relatively large training database. However, SVR model computational complexity depends only on the number of 
+Fig. 12. Relationship between the experimental values and predicted values of 28d compressive strength: (a) SVR model; (b) BPNN model.  
+Fig. 13. Relationship between the experimental values and predicted values of 90d compressive strength: (a) SVR model; (b) BPNN model.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 14 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+14
+support vectors. With little dependence on the size of the required training dataset, it can effectively avoid dimensionality catastrophe, 
+overcome the over-learning problem of artificial neural networks, and greatly simplify the regression problem, these advantages of 
+SVR can make it completely possible to replace artificial neural networks. 
+To further compare the error between the prediction results of compressive strength of concrete at different curing ages and the 
+measured values by the SVR model and BPNN model when considering the concrete mix proportion design case. Furthermore, the 
+calculated results of the concrete strength prediction errors for different models are shown in Fig. 15 and Fig. 16. 
+As shown in Fig. 15, the test set sample errors were calculated by comparing the SVR model and the BPNN model for the prediction 
+of 7d, 28d, and 90d compressive strength of concrete. It is found that the maximum value of the test set error of the SVR model is 
+10.11 %, and the rest of the prediction error can be controlled within 10 %. On the other hand, the maximum value of the test set error 
+of the BPNN model is 16.34 %, and about one-sixth of the prediction errors exceed 10 %. Comparing the error calculation results of the 
+SVR model and the BPNN model for the prediction of compressive strength of the same concrete, it is found that the test set error of the 
+SVR model is significantly smaller than that of the BPNN model. It shows that the prediction accuracy of the SVR model is significantly 
+higher than that of the BPNN model, and the SVR prediction model performs better. 
+Similarly, as depicted in Fig. 16, the results of the error calculations for the test set samples of the SVR model and the BPNN model 
+for the prediction of the compressive strength of concrete at all curing ages are compared. It is found that the maximum value of 
+prediction error for the test set of the SVR model is 19.4 %, and about 90 % of the test set samples have prediction error basically 
+within 10 %. While the maximum value of the error of the test set of the BPNN model is 22.2 %, about 78 % of the samples can be 
+controlled within 10 % of the prediction error. It shows that both the established the SVR model and BPNN model for concrete 
+compressive strength prediction have high prediction accuracy. The prediction accuracy of the SVR model is significantly higher than 
+that of the BPNN model, and the performance of the SVR prediction model is better. In addition, the results of the two prediction 
+models are compared for the concrete compressive strength prediction when age is considered and when age is not considered. It is 
+concluded that the prediction accuracy of the two prediction models is significantly higher when the effect of curing age is considered 
+than when the effect of age is not considered. The reason for this is mainly because the discrete degree of concrete compressive strength 
+sample data under the same curing age is smaller, and the prediction results of the model training set and test set are better. 
+5.3. Evaluation of prediction results 
+The prediction performance of the two models when considering the concrete mix proportion design case is further evaluated using 
+commonly used evaluation metrics for machine learning. The calculated a20-index value for both the SVR model and BPNN model 
+considering the concrete mix proportion design is 1. It shows that the error of the predicted value relative to the true value for both the 
+models can be controlled within ±20 %. Both prediction models are perfect models. In addition, the radar plots of model performance 
+evaluation corresponding to MSE, R2, MAPE, TIC and DA are shown in Fig. 17. 
+As shown in Fig. 17, the evaluation metrics computed for the training and test sets of the models include MSE, R2, MAPE, TIC, and 
+DA. By comparing the prediction performance evaluation indexes of the SVR model and BPNN model, it was found that for the 
+prediction of compressive strength of concrete with different curing ages, except for the directional accuracy DA, the prediction of the 
+SVR model was better than that of the BPNN model in all evaluation indexes. The error between the predicted and measured values of 
+the SVR model was smaller, indicating that the SVR model has better performance and higher accuracy in predicting concrete 
+compressive strength. Furthermore, the comparison between the SVR model and the BPNN model for predicting the compressive 
+strength of concrete with and without considering curing age showed that the prediction results of both models were significantly 
+Fig. 14. Relationship between the experimental values and predicted values of all compressive strength: (a) SVR model; (b) BPNN model.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 15 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+15
+better when considering the effect of curing age. Additionally, the SVR prediction model exhibited stronger paradigm ability compared 
+to the BPNN prediction model, and the algorithm was robust and applicable to concrete compressive strength prediction. 
+6. Discussion 
+In Europe, America, Japan, and other developed countries, the construction of high-rise buildings and infrastructure has undergone 
+large-scale rapid development, which has now transitioned to the stage of maintenance and repair of existing structures. The repair and 
+renovation of existing building structures have emerged as a prominent research area in current engineering construction. The sub­
+stantial economic burden brought on by the deterioration of concrete structures has far exceeded initial expectations, prompting 
+widespread attention to the durability of concrete structures as a primary indicator of structural quality. NDT techniques are widely 
+employed to evaluate the quality of concrete structures, particularly in terms of concrete compressive strength. 
+Existing studies have revealed that concrete mix design and curing age are often overlooked in predicting concrete compressive 
+strength using NDT and machine learning methods, even though they significantly impact the strength prediction. Therefore, this 
+study aims to introduce an effective approach for predicting concrete compressive strength by integrating concrete mix design and 
+NDT test results. The study establishes a SVR model for concrete compressive strength and a BPNN prediction model based on NDT test 
+outcomes, considering the influence of concrete mix design and curing age. Utilizing the established concrete mix design scheme, a 
+dataset S={(xi, yi)，i=1,2,…,l} comprising concrete UPV, RN, and compressive strength data is employed. Concrete compressive 
+Fig. 15. Prediction errors of concrete compressive strength at different curing ages for two models: (a) 7d compressive strength; (b) 28d 
+compressive strength; (c) 90d compressive strength. 
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 16 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+16
+strength at 7d, 28d, and 90d, both with and without accounting for age effects, is predicted using the two models, with and without 
+concrete mix proportion design considerations. MSE and R2 values are obtained for various model training and testing sets, and the 
+impact of concrete mix design consideration on the predictive model performance metrics is presented in Table 4. 
+Table 4 illustrates the comparison of compressive strength predictions by the SVR model and BPNN model for concrete, with and 
+without consideration of concrete mix proportion design. The predictive models generally fit the training set concrete data well, 
+yielding R2 values ranging from 85 % to 93 % without mix proportion design consideration. However, when factoring in concrete mix 
+proportion design, the predictive models demonstrate a superior fit to the training data, with R2 coefficients exceeding 97 % and 
+reaching a maximum of 99.4 %. Additionally, R2 values for concrete compressive strength prediction without mix proportion design 
+consideration range from 86 % to 98 %, indicating moderate performance. Notably, the SVR prediction model achieves R2 values 
+above 95 % for concrete compressive strength predictions when considering concrete mix proportion design, while the BPNN model 
+achieves R2 values between 92 % and 97 %. A comparison between the SVR and BPNN models reveals higher prediction accuracy for 
+the SVR model in predicting concrete compressive strength, emphasizing its superior performance. Thus, the SVR prediction model 
+outperforms the BPNN model in concrete compressive strength prediction applications. 
+The prediction results revealed that the two prediction models generally fit the training set for predicting concrete compressive 
+strength without considering the concrete mix proportion design. However, both models displayed overfitting and underfitting 
+phenomena during the training process. This is primarily attributed to the models’ inability to capture key information and patterns 
+from the limited number of input samples. Consequently, a relatively large database was developed to address this issue. Subsequently, 
+the SVR model and the BPNN model exhibited improved fitting of the training set when considering concrete mix proportion design. 
+Both prediction models demonstrated higher accuracy in predicting the compressive strength of concrete at all curing ages, with the 
+SVR model significantly outperforming the BPNN model. 
+Comparison with the relevant literature, specifically the work of Ali Poorarbabi and Mohammadreza Ghasemi et al. [1], who aimed 
+to estimate the compressive strength of concrete using the response surface method by testing the UPV and RN of concrete specimens, 
+showed that the R2 of their prediction model for concrete compressive strength at 7, 28, and 90 days were 86.3 %, 87.1 %, and 93.4 % 
+respectively, with an overall R2 of 86.8 %. However, their proposed concrete compressive strength prediction model exhibited 
+significantly lower accuracy compared to the SVR and BPNN prediction models proposed in our study. Asteris et al. [5] developed six 
+soft computing models to predict concrete compressive strength using ultrasonic pulse velocity and rebound hammer tests. The most 
+accurate prediction of concrete compressive strength was obtained for BPNN. The corresponding coefficient of determination R2 was 
+95.03 %. It was slightly lower than the coefficient of determination of 98.3 % for the SVR prediction model used in this study. 
+The results depict the high prediction accuracy of the concrete compressive strength prediction model established in this study, 
+which leverages NDT of concrete and machine learning methods, and its potential for generalization. However, the limited size of the 
+sample dataset for concrete mix proportion design, UPV, RN, and compressive strength is a notable limitation. Future research could 
+address this by collecting a larger sample size. Additionally, with the rapid development of group intelligence methods, novel heuristic 
+algorithms such as the Whale Optimization Algorithm and Gray Wolf Optimization Algorithm could be utilized to optimize the SVR 
+model parameters in upcoming studies. 
+7. Conclusion 
+In many industrialized countries, the rehabilitation and retrofitting of existing building structures has become a focal point in 
+current engineering and construction research. The evaluation of concrete compressive strength is a critical aspect of assessing the 
+Fig. 16. Prediction errors of concrete compressive strength at all curing ages.  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 17 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+17
+Fig. 17. Radar chart for performance assessment of concrete compressive strength prediction model: (a) 7d compressive strength; (b) 28d 
+compressive strength; (c) 90d compressive strength; (d) compressive strength at all curing ages. 
+Table 4 
+Results of the effect of concrete mix proportion design on model performance indicators.  
+Sample set 
+Index 
+Without considering the concrete mix proportion design 
+Considering the concrete mix proportion design 
+Training set 
+SVR test set 
+BPNN test set 
+Training set 
+SVR test set 
+BPNN test set 
+7d compressive strength 
+MSE  
+0.047  
+0.042  
+0.040  
+0.002  
+0.011  
+0.024 
+R2  
+0.856  
+0.877  
+0.872  
+0.994  
+0.970  
+0.924 
+28d compressive strength 
+MSE  
+0.050  
+0.041  
+0.030  
+0.005  
+0.017  
+0.030 
+R2  
+0.852  
+0.949  
+0.965  
+0.989  
+0.966  
+0.946 
+90d compressive strength 
+MSE  
+0.026  
+0.010  
+0.022  
+0.012  
+0.008  
+0.012 
+R2  
+0.928  
+0.977  
+0.935  
+0.970  
+0.983  
+0.970 
+compressive strength at all ages 
+MSE  
+0.027  
+0.040  
+0.037  
+0.005  
+0.014  
+0.022 
+R2  
+0.904  
+0.860  
+0.867  
+0.983  
+0.948  
+0.924  
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 18 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+18
+performance of these structures. NDT is commonly used to assess the compressive strength of concrete structures. In this study, two 
+machine learning models, SVR and BPNN, were established to predict the compressive strength of concrete by integrating NDT test 
+results of concrete with different mix proportion designs and curing ages. The performance of the established models was further 
+evaluated using various machine learning evaluation metrics. The following conclusions are mainly drawn:  
+1. A total of 180 datasets of concrete specimens with different mix proportion designs and curing ages were collected from the 
+literature to establish the corresponding sample datasets for prediction modeling. The model inputs included concrete mix pro­
+portion design, UPV, and RN, with the concrete compressive strength utilized as the model output.  
+2. The established SVR model and BPNN model were employed to predict the concrete compressive strength using 75 % of the sample 
+data as the training set and 25 % as the test set. The test set R2 of the SVR model and the BPNN prediction model for the compressive 
+strength of concrete at all ages was 86.0 % and 86.7 % without considering the concrete mix proportion design.  
+3. The fitting effect of the SVR model and BPNN model on the training set for predicting concrete compressive strength improved 
+when considering concrete mix proportion designs. The prediction results revealed the R2 higher than 95 % for the SVR model, 
+while the corresponding R2 for the BPNN prediction model ranged between 92 % and 97 %. The predicted concrete compressive 
+strengths from both models closely aligned with the actual values, with the SVR model displaying superior prediction accuracy.  
+4. The prediction effects of the SVR and BPNN models were further evaluated using MAPE, TIC, DA, and a20-index. The results 
+demonstrated that all the evaluation indexes of the SVR model were better than the BPNN model, indicating that the prediction 
+accuracy of the SVR concrete compressive strength prediction model was higher. 
+The study’s results indicate that the established SVR model for predicting concrete compressive strength exhibits significantly 
+higher prediction accuracy when considering concrete mix proportion designs, and displays potential for generalization. However, the 
+study is limited by the size of the sample dataset, and future research efforts should aim to collect more data and establish a larger 
+model dataset. 
+CRediT authorship contribution statement 
+Kunpeng Cao: Writing – review & editing, Visualization, Validation. Dunwen Liu: Resources, Project administration, Funding 
+acquisition, Conceptualization. Wanmao Zhang: Writing – original draft, Supervision, Software, Methodology, Investigation, Formal 
+analysis, Data curation. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to 
+influence the work reported in this paper. 
+Data availability 
+Data will be made available on request. 
+Acknowledgement 
+The authors sincerely thank the relevant providers of the initial data sources for the study. 
+References 
+[1] A. Poorarbabi, M. Ghasemi, M.A. Moghaddam, Concrete compressive strength prediction using non-destructive tests through response surface methodology, Ain 
+Shams Eng. J. 11 (4) (2020) 939–949, https://doi.org/10.1016/j.asej.2020.02.009. 
+[2] K. Ali-Benyahia, Z. Sbartai, D. Breysse, M. Ghrici, S. Kenai, Improvement of nondestructive assessment of on-site concrete strength: influence of the selection 
+process of cores location on the assessment quality for single and combined NDT techniques, Constr. Build. Mater. 195 (2019) 613–622, https://doi.org/ 
+10.1016/j.conbuildmat.2018.10.032. 
+[3] K. Kaboosi, F. Kaboosi, M. Fadavi, Investigation of greywater and zeolite usage in different cement contents on concrete compressive strength and their 
+interactions, Ain Shams Eng. J. 11 (1) (2020) 201–211, https://doi.org/10.1016/j.asej.2019.08.008. 
+[4] A. Poorarbabi, M. Ghasemi, M.A. Moghaddam, Concrete compressive strength prediction using neural networks based on non-destructive tests and a self- 
+calibrated response surface methodology, J. Nondestruct. Eval. 39 (784) (2020), https://doi.org/10.1007/s10921-020-00718-w. 
+[5] P.G. Asteris, A.D. Skentou, A. Bardhan, P. Samui, P.B. Lourenco, Soft computing techniques for the prediction of concrete compressive strength using non- 
+destructive tests, Constr. Build. Mater. 303 (124450) (2021), https://doi.org/10.1016/j.conbuildmat.2021.124450. 
+[6] S. Karahan, A. Buyuksarac, E. Isik, The relationship between concrete strengths obtained by destructive and non-destructive methods, Iran. J. Sci. Technol. 
+Trans. Civ. Eng. 44 (1) (2020) 91–105, https://doi.org/10.1007/s40996-019-00334-3. 
+[7] J. Alexandre Bogas, M. Gloria Gomes, A. Gomes, Compressive strength evaluation of structural lightweight concrete by non-destructive ultrasonic pulse velocity 
+method, Ultrasonics 53 (5) (2013) 962–972, https://doi.org/10.1016/j.ultras.2012.12.012. 
+[8] K. Rashid, R. Waqas, Compressive strength evaluation by non-destructive techniques: an automated approach in construction industry, J. Build. Eng. 12 (2017) 
+147–154, https://doi.org/10.1016/j.jobe.2017.05.010. 
+[9] R. Mata, R.O. Ruiz, E. Nunez, Correlation between compressive strength of concrete and ultrasonic pulse velocity: a case of study and a new correlation method, 
+Constr. Build. Mater. 369 (130569) (2023), https://doi.org/10.1016/j.conbuildmat.2023.130569. 
+[10] R. Pucinotti, Reinforced concrete structure: non destructive in situ strength assessment of concrete, Constr. Build. Mater. 75 (2015) 331–341, https://doi.org/ 
+10.1016/j.conbuildmat.2014.11.023. 
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 19 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+19
+[11] N.G. Yilmaz, R.M. Goktan, Comparison and combination of two NDT methods with implications for compressive strength evaluation of selected masonry and 
+building stones, Bull. Eng. Geol. Environ. 78 (6) (2019) 4493–4503, https://doi.org/10.1007/s10064-018-1382-7. 
+[12] D. Breysse, Nondestructive evaluation of concrete strength: An historical review and a new perspective by combining NDT methods, Constr. Build. Mater. 33 
+(2012) 139–163, https://doi.org/10.1016/j.conbuildmat.2011.12.103. 
+[13] M. Alwash, D. Breysse, Z.M. Sbartai, Non-destructive strength evaluation of concrete: analysis of some key factors using synthetic simulations, Constr. Build. 
+Mater. 99 (2015) 235–245, https://doi.org/10.1016/j.conbuildmat.2015.09.023. 
+[14] M. Vona, D. Nigro, Evaluation of the predictive ability of the in situ concrete strength through core drilling and its effects on the capacity of the RC columns, 
+Mater. Struct. 48 (4) (2015) 1043–1059, https://doi.org/10.1617/s11527-013-0214-2. 
+[15] A. Fiore, F. Porco, G. Uva, M. Mezzina, On the dispersion of data collected by in situ diagnostic of the existing concrete, Constr. Build. Mater. 47 (2013) 
+208–217, https://doi.org/10.1016/j.conbuildmat.2013.05.001. 
+[16] A. Masi, L. Chiauzzi, An experimental study on the within-member variability of in situ concrete strength in RC building structures, Constr. Build. Mater. 47 
+(2013) 951–961, https://doi.org/10.1016/j.conbuildmat.2013.05.102. 
+[17] S.R. Naraganti, R.M.R. Pannem, J. Putta, Impact resistance of hybrid fibre reinforced concrete containing sisal fibres, Ain Shams Eng. J. 10 (2) (2019) 297–305, 
+https://doi.org/10.1016/j.asej.2018.12.004. 
+[18] E.A. Whitehurst, Soniscope tests concrete structures, J. Am. Concr. Inst. 2 (47) (1951) 433–444. 
+[19] J.R. Leslie, W.J. Cheesman, An ultrasonic method of deterioration and cracking in concrete structures, Acids J. Proc. 9 (46) (1949) 17–36. 
+[20] M. Erdal, Prediction of the compressive strength of vacuum processed concretes using artificial neural network and regression techniques, Sci. Res. Essays 4 (10) 
+(2009) 1057–1065. 
+[21] Q. Huang, P. Gardoni, S. Hurlebaus, Predicting concrete compressive strength using ultrasonic pulse velocity and rebound number, Acids Mater. J. 108 (4) 
+(2011) 403–412. 
+[22] K. Amini, M. Jalalpour, N. Delatte, Advancing concrete strength prediction using non-destructive testing: development and verification of a generalizable model, 
+Constr. Build. Mater. 102 (1) (2016) 762–768, https://doi.org/10.1016/j.conbuildmat.2015.10.131. 
+[23] M. Shariati, N.H. Ramli-Sulong, M.M.K.H. Arabnejad, P. Shafigh, H. Sinaei, Assessing the strength of reinforced concrete structures through ultrasonic pulse 
+velocity and schmidt rebound hammer tests, Sci. Res. Essays 6 (1) (2011) 213–220. 
+[24] G. Trtnik, F. Kavcic, G. Turk, Prediction of concrete strength using ultrasonic pulse velocity and artificial neural networks, Ultrasonics 49 (1) (2009) 53–60, 
+https://doi.org/10.1016/j.ultras.2008.05.001. 
+[25] I. Lawson, K. Danso, H. Odoi, Non-destructive evaluation of concrete using ultrasonic pulse velocity, Res J. Appl. Sci. Eng. Technol. 6 (3) (2011) 499–504. 
+[26] Z. Sbartai, D. Breysse, M. Larget, J. Balayssac, Combining NDT techniques for improved evaluation of concrete properties, Cem. Concr. Compos. 34 (6) (2012) 
+725–733, https://doi.org/10.1016/j.cemconcomp.2012.03.005. 
+[27] A. Jain, A. Kathuria, A. Kumar, V. Verma, K. Murari, Combined use of nondestructive tests for assessment of strength of concrete in structure, Procedia Eng. 54 
+(2013) 241–251. 
+[28] S. Selvaraj, S. Sivaraman, Prediction model for optimized self-compacting concrete with fly ash using response surface method based on fuzzy classification, 
+Neural Comput. Appl. 31 (5SI) (2019) 1365–1373, https://doi.org/10.1007/s00521-018-3575-1. 
+[29] A. Busari, B. Dahunsi, J. Akinmusuru, T. Loto, S. Ajayi, Response surface analysis of the compressive strength of self-compacting concrete incorporating 
+metakaolin, Adv. Sci. Techno. Res. J. 13 (2) (2019) 7–13, https://doi.org/10.12913/22998624/105608. 
+[30] Y. Moodi, S.R. Mousavi, A. Ghavidel, M.R. Sohrabi, M. Rashki, Using Response Surface Methodology and providing a modified model using whale algorithm for 
+estimating the compressive strength of columns confined with FRP sheets, Constr. Build. Mater. 183 (2018) 163–170, https://doi.org/10.1016/j. 
+conbuildmat.2018.06.081. 
+[31] A. Hammoudi, K. Moussaceb, C. Belebchouche, F. Dahmoune, Comparison of artificial neural network (ANN) and response surface methodology (RSM) 
+prediction in compressive strength of recycled concrete aggregates, Constr. Build. Mater. 209 (2019) 425–436, https://doi.org/10.1016/j. 
+conbuildmat.2019.03.119. 
+[32] Z. Yu, X. Shi, J. Zhou, Y. Gou, X. Huo, J. Zhang, D.J. Armaghani, A new multikernel relevance vector machine based on the HPSOGWO algorithm for predicting 
+and controlling blast-induced ground vibration, Eng. Comput. 38 (2) (2022) 1905–1920, https://doi.org/10.1007/s00366-020-01136-2. 
+[33] Z. Yu, X. Shi, X. Chen, J. Zhou, C. Qi, Q. Chen, D. Rao, Artificial intelligence model for studying unconfined compressive performance of fiber-reinforced 
+cemented paste backfill, Trans. Nonferrous Met. Soc. China 31 (4) (2021) 1087–1102, https://doi.org/10.1016/S1003-6326(21)65563-21003-6326/. 
+[34] D. Liu, W. Zhang, Y. Tang, Y. Jian, Prediction of hydration heat of mass concrete based on the SVR model, IEEE Access 9 (2021) 62935–62945, https://doi.org/ 
+10.1109/ACCESS.2021.3075212. 
+[35] A.J. Tenza-Abril, Y. Villacampa, A.M. Solak, F. Baeza-Brotons, Prediction and sensitivity analysis of compressive strength in segregated lightweight concrete 
+based on artificial neural network using ultrasonic pulse velocity, Constr. Build. Mater. 189 (2018) 1173–1183, https://doi.org/10.1016/j. 
+conbuildmat.2018.09.096. 
+[36] T. Le, P.G. Asteris, M.E. Lemonis, Prediction of axial load capacity of rectangular concrete-filled steel tube columns using machine learning techniques, Eng. 
+Comput. 384 (SUPPL 4) (2022) 3283–3316, https://doi.org/10.1007/s00366-021-01461-0. 
+[37] N. Nguyen, T.P. Vo, S. Lee, P.G. Asteris, Heuristic algorithm-based semi-empirical formulas for estimating the compressive strength of the normal and high 
+performance concrete, Constr. Build. Mater. 304 (124467) (2021), https://doi.org/10.1016/j.conbuildmat.2021.124467. 
+[38] L. Hai-Bang, T.P. Binh, M.L. Lu, L. Tien-Thinh, M.L. Vuong, P.G. Asteris, Estimation of axial load-carrying capacity of concrete-filled steel tubes using surrogate 
+models, Neural Comput. Appl. 33 (8) (2021) 3437–3458, https://doi.org/10.1007/s00521-020-05214-w. 
+[39] M. Bilgehan, P. Turgut, Artificial neural network approach to predict compressive strength of concrete through ultrasonic pulse velocity, Res. Nondestruct. Eval. 
+21 (PII 9189837641) (2010) 1–17, https://doi.org/10.1080/09349840903122042. 
+[40] H. Erdal, M. Erdal, O. Simsek, H.I. Erdal, Prediction of concrete compressive strength using non-destructive test results, Comput. Concr. 21 (4) (2018) 407–417, 
+https://doi.org/10.12989/cac.2018.21.4.407. 
+[41] U. Atici, Prediction of the strength of mineral admixture concrete using multivariable regression analysis and an artificial neural network, Expert Syst. Appl. 38 
+(8) (2011) 9609–9618, https://doi.org/10.1016/j.eswa.2011.01.156. 
+[42] W. Emad, A.S. Mohammed, R. Kurda, K. Ghafor, L. Cavaleri, S.M.A. Qaidi, A.M.T. Hassan, P.G. Asteris, Prediction of concrete materials compressive strength 
+using surrogate models, Structures 46 (2022) 1243–1267, https://doi.org/10.1016/j.istruc.2022.11.002. 
+[43] W. Emad, A.S. Mohammed, A. Bras, P.G. Asteris, R. Kurda, Z. Muhammed, A.M.T. Hassan, S.M.A. Qaidi, P. Sihag, Metamodel techniques to estimate the 
+compressive strength of UHPFRC using various mix proportions and a high range of curing temperatures, Constr. Build. Mater. 349 (128737) (2022), https:// 
+doi.org/10.1016/j.conbuildmat.2022.128737. 
+[44] W. Mahmood, A.S. Mohammed, P. Sihag, P.G. Asteris, H. Ahmed, Interpreting the experimental results of compressive strength of hand-mixed cement-grouted 
+sands using various mathematical approaches, Arch. Civ. Mech. Eng. 22 (191) (2021), https://doi.org/10.1007/543452-021-00341-0. 
+[45] N.F. Alkayem, L. Shen, A. Mayya, P.G. Asteris, R. Fu, G. Di Luzio, A. Strauss, M. Cao, Prediction of concrete and FRC properties at high temperature using 
+machine and deep learning: a review of recent advances and future perspectives, J. Build. Eng. 83 (108369) (2024), https://doi.org/10.1016/j. 
+jobe.2023.108369. 
+[46] A.D. Skentou, A. Bardhan, A. Mamou, M.E. Lemonis, G. Kumar, P. Samui, D.J. Armaghani, P.G. Asteris, Closed-form equation for estimating unconfined 
+compressive strength of granite from three non-destructive tests using soft computing models, Rock. Mech. Rock. Eng. 56 (1) (2023) 487–514, https://doi.org/ 
+10.1007/s00603-022-03046-9. 
+[47] P.G. Asteris, V.G. Mokos, Concrete compressive strength using artificial neural networks, Neural Comput. Appl. 32 (15) (2020) 11807–11826, https://doi.org/ 
+10.1007/s00521-019-04663-2. 
+[48] M. Alwash, Z.M. Sbartai, D. Breysse, Non-destructive assessment of both mean strength and variability of concrete: a new bi-objective approach, Constr. Build. 
+Mater. 113 (2016) 880–889, https://doi.org/10.1016/j.conbuildmat.2016.03.120. 
+W. Zhang et al.                                                                                                                                                                                                         
+
+
+===== PAGE 20 =====
+
+Case Studies in Construction Materials 21 (2024) e03416
+20
+[49] Z. Yu, X. Shi, X. Miao, J. Zhou, M. Khandelwal, X. Chen, Y. Qiu, Intelligent modeling of blast-induced rock movement prediction using dimensional analysis and 
+optimized artificial neural network technique, Int. J. Rock. Mech. Min. Sci. 143 (104794) (2021), https://doi.org/10.1016/j.ijrmms.2021.104794. 
+[50] Z. Yu, X. Shi, J. Zhou, Y. Gou, D. Rao, X. Huo, Machine-learning-aided determination of post-blast ore boundary for controlling ore loss and dilution, Nat. 
+Resour. Res. 30 (6) (2021) 4063–4078, https://doi.org/10.1007/s11053-021-09914-5. 
+[51] R. Solis-Carcano, E.I. Moreno, Evaluation of concrete made with crushed limestone aggregate based on ultrasonic pulse velocity, Constr. Build. Mater. 22 (6) 
+(2008) 1225–1231, https://doi.org/10.1016/j.conbuildmat.2007.01.014. 
+[52] Y. Tan, H. Yu, R. Mi, Y. Zhang, Compressive strength evaluation of coral aggregate seawater concrete (CAC) by non-destructive techniques, Eng. Struct. 176 
+(2018) 293–302, https://doi.org/10.1016/j.engstruct.2018.08.104. 
+[53] C. Wang, H. Wang, Assessment of the compressive strength of recycled waste LCD glass concrete using the ultrasonic pulse velocity, Constr. Build. Mater. 137 
+(2017) 345–353, https://doi.org/10.1016/j.conbuildmat.2017.01.117. 
+[54] B.S. Mohammed, N.J. Azmi, M. Abdullahi, Evaluation of rubbercrete based on ultrasonic pulse velocity and rebound hammer tests, Constr. Build. Mater. 25 (3) 
+(2011) 1388–1397, https://doi.org/10.1016/j.conbuildmat.2010.09.004. 
+[55] A. Masi, L. Chiauzzi, V. Manfredi, Criteria for identifying concrete homogeneous areas for the estimation of in-situ strength in RC buildings, Constr. Build. Mater. 
+121 (2016) 576–587, https://doi.org/10.1016/j.conbuildmat.2016.06.017. 
+[56] N. Pereira, X. Romao, Assessing concrete strength variability in existing structures based on the results of NDTs, Constr. Build. Mater. 173 (2018) 786–800, 
+https://doi.org/10.1016/j.conbuildmat.2018.04.055. 
+[57] N. Bilgin, H. Copur, C. Balci, Use of Schmidt Hammer with special reference to strength reduction factor related to cleat presence in a coal mine, Int. J. Rock. 
+Mech. Min. Sci. 84 (2016) 25–33, https://doi.org/10.1016/j.ijrmms.2016.01.016. 
+[58] V. V, The Nature of Statistical Learning Theory, Springer, Berlin, 2013. 
+[59] F. Shaahmadi, M.A. Anbaz, B. Bazooyar, Analysis of intelligent models in prediction nitrous oxide (N2O) solubility in ionic liquids (ILs), J. Mol. Liq. 246 (2017) 
+48–57, https://doi.org/10.1016/j.molliq.2017.09.051. 
+[60] N.N. Samani, S.M. Miforughy, H. Safari, O. Mohammadzadeh, M.H. Panahbar, S. Zendehboudi, Solubility of hydrocarbon and non-hydrocarbon gases in 
+aqueous electrolyte solutions: a reliable computational strategy, Fuel 241 (2019) 1026–1035, https://doi.org/10.1016/j.fuel.2018.11.150. 
+[61] A. Tatar, A. Barati, A. Yarahmadi, A. Najafi, M. Lee, A. Bahadori, Prediction of carbon dioxide solubility in aqueous mixture of methyldiethanolamine and N- 
+methylpyrrolidone using intelligent models, Int. J. Greenh. Gas Control. 47 (2016) 122–136, https://doi.org/10.1016/j.ijggc.2016.01.048. 
+[62] A. Baghban, A.H. Mohammadi, M.S. Taleghani, Rigorous modelingof CO2 equilibrium absorption in ionic liquids, Int. J. Greenh. Gas Control. 58 (2017) 19–41, 
+https://doi.org/10.1016/j.ijggc.2016.12.009. 
+[63] X. Yuan, C. Chen, Y. Yuan, Y. Huang, Q. Tan, Short-term wind power prediction based on LSSVM-GSA model, Energy Convers. Manag. 101 (2015) 393–401, 
+https://doi.org/10.1016/j.enconman.2015.05.065. 
+[64] W. Jiang, C.A. Arslan, M.S. Tehrani, M. Khorami, M. Hasanipanah, Simulating the peak particle velocity in rock blasting projects using a neuro-fuzzy inference 
+system, Eng. Comput. 35 (4) (2019) 1203–1211, https://doi.org/10.1007/s00366-018-0659-6. 
+[65] B. Keshtegar, M. Hasanipanah, I. Bakhshayeshi, M.E. Sarafraz, A novel nonlinear modeling for the prediction of blast-induced airblast using a modified 
+conjugate FR method, Measurement 131 (2019) 35–41, https://doi.org/10.1016/j.measurement.2018.08.052. 
+[66] S.F.F. Mojtahedi, I. Ebtehaj, M. Hasanipanah, H. Bonakdari, H.B. Amnieh, Proposing a novel hybrid intelligent model for the simulation of particle size 
+distribution resulting from blasting, Eng. Comput. 35 (1) (2019) 47–56, https://doi.org/10.1007/s00366-018-0582-x. 
+[67] Y. Gou, X. Shi, J. Zhou, X. Qiu, X. Chen, X. Huo, Attenuation assessment of blast-induced vibrations derived from an underground mine, Int. J. Rock. Mech. Min. 
+Sci. 127 (104220) (2020), https://doi.org/10.1016/j.ijrmms.2020.104220. 
+[68] J. Zhou, N. Aghili, E.N. Ghaleini, T.B. Dieu, M.M. Tahir, M. Koopialipoor, A. Monte Carlo, simulation approach for effective assessment of flyrock based on 
+intelligent system of neural network, Eng. Comput. 36 (2) (2020) 713–723, https://doi.org/10.1007/s00366-019-00726-z. 
+[69] M. Hasanipanah, H.B. Amnieh, Developing a new uncertain rule-based fuzzy approach for evaluating the blast-induced backbreak, Eng. Comput. 37 (3) (2021) 
+1879–1893, https://doi.org/10.1007/s00366-019-00919-6. 
+[70] D. Liu, Q. Xu, Y. Tang, Y. Jian, Prediction of water inrush in long-lasting shutdown karst tunnels based on the HGWO-SVR model, IEEE Access 9 (2021) 
+6368–6378, https://doi.org/10.1109/ACCESS.2020.3047626. 
+[71] J. Zhou, Y. Qiu, S. Zhu, D.J. Armaghani, M. Khandelwal, E.T. Mohamad, Estimation of the TBM advance rate under hard rock conditions using XGBoost and 
+Bayesian optimization, Undergr. Space 6 (5) (2021) 506–515, https://doi.org/10.1016/j.undsp.2020.05.008. 
+[72] P.G. Asteris, M. Apostolopoulou, A.D. Skentou, A. Moropoulou, Application of artificial neural networks for the prediction of the compressive strength of 
+cement-based mortars, Comput. Concr. 24 (4) (2019) 329–345, https://doi.org/10.12989/cac.2019.24.4.329. 
+[73] M. Apostolopoulou, P.G. Asteris, D.J. Armaghani, M.G. Douvika, P.B. Lourenco, L. Cavaleri, A. Bakolas, A. Moropoulou, Mapping and holistic design of natural 
+hydraulic lime mortars, Cem. Concr. Res. 136 (106167) (2020), https://doi.org/10.1016/j.cemconres.2020.106167. 
+[74] P.G. Asteris, M. Koopialipoor, D.J. Armaghani, E.A. Kotsonis, P.B. Lourenco, Prediction of cement-based mortars compressive strength using machine learning 
+techniques, Neural Comput. Appl. 33 (19) (2021) 13089–13121, https://doi.org/10.1007/s00521-021-06004-8. 
+[75] P.G. Asteris, P.B. Lourenco, M. Hajihassani, C.N. Adami, M.E. Lemonis, A.D. Skentou, R. Marques, N. Hoang, H. Rodrigues, H. Varum, Soft computing-based 
+models for the prediction of masonry compressive strength, Eng. Struct. 248 (113276) (2021), https://doi.org/10.1016/j.engstruct.2021.113276. 
+W. Zhang et al.                                                                                                                                                                                                         

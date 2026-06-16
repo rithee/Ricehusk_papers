@@ -1,0 +1,1081 @@
+
+===== PAGE 1 =====
+
+     
+ 
+ 
+ Properties of Ternary Cementitious Concrete 
+Matrix Containing Rice Husk Ash and Coconut 
+Husk Ash 
+  
+Engr. Ikri Samuel Obokparo, Prof. C. N. Arum 
+Benson Idahosa University 
+ 
+Abstract:- The environmental pollution resulting from the 
+production process of cement has contributed to the climate 
+change being experienced worldwide. The need to reduce the 
+rate of depletion of the ozone layer and also to produce 
+durable and sustainable concrete has led to this study. Eighty 
+four (84) concrete cubes of 150 mm x 150 mm x 150 mm were 
+produced with OPC /RHA / CHA blended concrete at 
+percentage OPC replacement with pozzolans of 5%, 10%, 
+15% and 20%. Twenty one (21) concrete cubes were cast as 
+control. Cubes from the concrete mixes were cured for 7, 14, 
+28, 35, 42, 49 and 56 days and were crushed to determine their 
+compressive strengths. Experimental work was carried out on 
+OPC/RHA /CHA concrete to determine their essential 
+properties in fresh and hardened state, they are all within the 
+limits specified by relevant standards. It was observed that at 
+10% replacement the maximum compressive strength of 
+32.9N/mm2 was obtained for the ternary blended concrete of 
+OPC /RHA /CHA at 56 days, representing 16.1% increase in 
+strength over the 100% OPC concrete, indicating the optimal 
+value of compressive strength attained. This indicate that 
+RHA and CHA combination is an excellent pozzolans that can 
+be utilize for both binary and ternary blended concrete 
+production. 
+Keywords: Pozzolans, Ternary, Ozone layer, Pollution, Rice 
+husk ash, Coconut husk ash. 
+ 
+INTRODUCTION 
+Concrete is a composite construction material composed 
+primarily of aggregate, cement and water. Concrete has 
+been considered the first widely used construction material 
+throughout the world. Over the years it has been used in 
+vast quantity for the construction of buildings, bridges, 
+roads, dams and many other civil infrastructures. 
+According to Glavind and Munch-Petersen (2002), its 
+worldwide annual consumption in 2002 was about 5 billion 
+m3. Moreover, it has been predicted that its demand would 
+double every decade (Mehta, 2001). Hence its performance 
+and effects on the environment are of great importance. 
+Compared to other constituents, cement performs a vital 
+role for the production of concrete. However, the 
+production process of cement causes some negative effect 
+to the natural environment, in addition to the high cost of 
+cement due to continuous increase in the demand. The 
+process of making cement is among the third largest CO2 
+producers in the world. According to Malhotra, (2002), 
+during this process, for every ton of cement produced, 
+more than half of all CO2 emissions are released into the 
+air. These greenhouse gases (CO2 and SO2) contribute to 
+the depletion of the ozone layer which leads to global 
+warming.   This dramatic increase in CO2 emissions from 
+cement production has been stated by Mugaet al., (2005). 
+Undeniably, cement production depends on many other 
+factors, more often than not, the production of cement is an 
+extremely energy intensive production process because the 
+energy and the consumption of other natural resources per 
+ton are estimated to be approximately 4GJ and 1.6 ton 
+(Mugaet al.,2005). Given the relationships between life 
+cycle characteristics and CO2 use, the emission of CO2 can 
+be 
+assessed 
+for 
+environmentally 
+friendly 
+concrete 
+production 
+(Park 
+et 
+al., 
+2012). 
+To 
+combat 
+the 
+aforementioned problem, cement can be partially replaced 
+by supplementary cementitious materials, such as industrial 
+by-product (fly ash, silica fume and slag) and agricultural 
+wastes (rice husk ash, coconut husk ash, palm oil fuel ash 
+and ash from timber). Most of these supplementary 
+cementing materials are by-products; thus, their inclusion 
+not only serves as an invaluable means to preserve 
+environmental resources but also enhances concrete 
+construction properties including its sustainability (Aitcin, 
+1998; Mehta and Monteiro, 2006).  
+Supplementary cementitious material- is a material that 
+when used in conjunction with Portland cement contributes 
+to the properties of the concrete through hydraulic or 
+pozzolanic activity. Supplementary cementitious materials 
+include the many products that are mixed with either water 
+or some other liquids or both to form a cementing paste 
+that may be formed or moulded whole plastic but will set 
+into a rigid shape. When sand is added to the paste, mortar 
+is formed. A combination of coarse and fine aggregates 
+added to the paste forms concrete (Lea, 1970). The use of 
+supplementary cementitious materials, date back to the 
+ancient Greeks, who incorporate volcanic ash with 
+hydraulic lime to create a cementitious mortar. The Greek 
+passed this knowledge onto the Romans, who constructed 
+such engineering marvels as the Roman aqueducts and the 
+coliseum, which still stand today. The practice of using 
+supplementary cementitious materials in concrete has been 
+growing in North America since the 1970s (Bentur et al., 
+1994). The optimum combination of materials will vary for 
+different performance requirements and the type of 
+supplementary cementitious materials. The ready mixed 
+concrete producer, with knowledge of the locally available 
+materials, can establish the mixture proportions for the 
+required performance. Most often, a supplementary 
+cementitious material will be used to replace a portion of 
+the 
+cement 
+content 
+for 
+economical 
+or 
+property-
+enhancement reasons (Lea,1970). According to (Bakar et 
+al., 2010 ), supplementary  cementitious materials prove to 
+be effective to meet most of the requirements of durable 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+863
+
+
+===== PAGE 2 =====
+
+     
+ 
+ 
+concrete and that blended cements are now used in many 
+parts of the world.  Supplementary cementitious materials 
+added directly to concrete are governed by ASTM C618, 
+2005 (Fly Ash and Pozzolans), C989, 1993 (slag), or 
+C1240, 1993 (Silica Fume), while blended cements are 
+governed by ASTM C595, 1994 or C1157, 1994. American 
+Society for Testing and Materials ASTM C150, (2005) 
+defined Blended Cement (BC) as cement mixtures 
+containing Portland cement and one or more supplementary 
+cementitious materials (SCMs), with the potential benefits 
+of reducing the overall concrete cost, improving concrete 
+workability, durability and long term strength. Horst (2001) 
+elucidated further that BC as a technical term, often refers 
+to cement products that are factory blended by cement 
+companies while on the site mixing with the OPC is 
+referred to as ‘partial replacement’. Pozzolans are utilized 
+as SCMs in cement blending or partial replacements of the 
+ordinary Portland cement in concrete mixes. 
+Although the use of BBC can be dated back many years 
+ago, the use of multi-blended cement with more than two 
+or three supplementary cementitious materials is still new. 
+One reason is the complex nature of the materials that are 
+utilized in the concrete; hence, adequate information is 
+necessary to create a sustainable product. Despite this 
+disadvantage, the advantages of using MBC outweigh 
+those of BBC. A large number of studies have been 
+conducted to analyze the MBC system, and have come to 
+the conclusion that, due to their effects on strength and 
+durability, the application is more beneficial in structures in 
+hostile environments (Khan et al., 2000). Using more than 
+one waste pozzolan has also proven to be advantageous 
+technically, economically and environmentally. However, 
+due to their different properties, these waste minerals might 
+show various reactions when they are mixed with water 
+(Toutanjiet al., 2004).         
+The use of Pozzolans in concrete can either be to partially 
+replace cements or be added to concrete mix to perform 
+special purposes.  Pozzolans are often cheaper than 
+Portland cement which they replace, but their major 
+advantage lies in the slow hydration and therefore low rate 
+of 
+heat 
+development 
+(Bamforth, 
+1980).A 
+partial 
+replacement of Portland cement by pozzolan is most used 
+in mass concrete construction work. Also, partial 
+replacement of Portland cement by pozzolan in concrete 
+gives good resistance to sulphate attack and some other 
+destructive agents. This is a result of pozzolanic reaction, 
+leaving less lime to be leached out. It also reduces the 
+permeability of concrete (Kovacs, 1975).  
+Rice Husk (RH) is a waste product generated from the 
+accumulation of the outer covering of rice during the 
+milling process, which in most cases are disposed of or 
+burnt. When the rice husk is burnt at a high temperature, it 
+is converted into ash, hence the name, Rice Husk Ash 
+(RHA). Rice Husk Ash may be productively used as a 
+partial substitute of cement in concrete. Houston (1972) 
+classified the ash into; High carbon char; Low-carbon 
+(grey) ash; carbon free (pink or white) ash. Most rice husks 
+are straw or gold in color, though some maybe white 
+russet, red, Brown, shade of purple or sooty black, 
+depending on species. The length of rice husk is about 5 to 
+10 mm and the width varies from 2.5 to 5 mm.  
+The pozzolanic effect of RHA is attributed to the ability of 
+silica to combine with silicate hydrates. In comparison to 
+the hydration process of cement, the reaction of RHA in the 
+presence of moisture is very slow. This is due to the 
+presence of traces of sulphate and the high percentage of 
+silica. The coating of the seeds or grains (husk) of rice 
+plant 
+can 
+absorb 
+significant 
+amounts 
+of 
+silica 
+(approximately 85%) from the soil during its growth period 
+(Smith and Kamwanja, 1986; siddique, 2008). Rice husk 
+are by-products that are responsible for 20% of the RHA 
+weight after the husk have been burned (Anwar et al; 
+2001). With it high specific surface area and non- 
+crystalline features can result in highly pozzolanic 
+reactions (Tashima et al., 2004). Hence, this is considered a 
+better alternative for Portland cement in fillers for high 
+performance concrete (Smith and Kamwanja, 1986; Zhang 
+et al., 1996; Hasparyket al., 2000; Sakr, 2006; Sataet al., 
+2007). 
+The high silica content in the form of non-crystalline or 
+amorphous silica of Rice Husk Ash is dependent on the 
+burning temperatures; 95% silica could be produced after 
+heating at 7000C for 6 hours. According to ( Karim et al., 
+2012),when Rice Husk is burnt into ash it fulfills the 
+physical characteristics and the chemical composition of 
+mineral admixture, the pozzolanic activity of Rice Husk 
+Ash is influenced by (i) silica content (ii) silica 
+crystallization phase and (iii) size and surface area of the 
+ash particles. Habeeb and Fayyadh (2009), investigated the 
+influence of RHA average particle size on the properties of 
+concrete and found that at early ages the strength was 
+comparable, while at the age of 28 days, finer RHA 
+exhibited higher strength than the sample with coarser Rice 
+Husk Ash.  
+Coconut Husk is an agricultural waste and is available in 
+very large quantities throughout the tropical countries of 
+the world. Some tropical people called coconut as “the tree 
+of life” because the meat and milk of the nut give them 
+food and drink. The trunk of the tree produces beautiful 
+and durable wood for their homes. Floor mats and clothing 
+can also be made from the coconut husk.Bamgboye and 
+Jekayinfa, (2006) regretted that 90% of coconut (empty 
+fruit bunches, husk, trunks, shells) was discarded as waste 
+and either burned in the open air or left to settle in waste 
+ponds. This way, the coconut processing industrial waste 
+according to them, contributed significantly to CO2 and 
+methane emissions. Based on economic as well as 
+environmental related issues, efforts should be directed 
+worldwide towards coconut management issues i.e. 
+utilization, storage and disposal. The ash obtained from 
+burning of coconut husk at a high temperature is referred to 
+as Coconut Husk Ash (CHA).An investigation on the 
+physical properties of Coconut Husk Ash by Raghu and 
+Chaitanya (2007) revealed that the colour of the ash 
+obtained by burning coconut husk in the Ferro cement 
+incinerator was found to possess a darkish grey colour. The 
+ash produced was only 2.8% by weight of the unburnt 
+coconut husk, meaning that burning 25 kg of coconut husk 
+which is the capacity of the small Ferro cement incinerator 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+864
+
+
+===== PAGE 3 =====
+
+     
+ 
+ 
+produced only 0.7 kg of ash in one hour. The burning 
+temperature  at 7500C. 
+This research is therefore concerned about the need to 
+widen the information base on the pozzolanic properties of 
+Ekpoma rice husk ash, coconut husk ash and their 
+combination for the production of ternary concrete. These 
+pozzolans can serve as cheap materials to partially replace 
+Portland cement. Finally, these materials are readily 
+available and partial replacement of Portland cement with 
+these materials will produce a more economical concrete.  
+ 
+MATERIALS AND METHODS 
+Materials 
+The main cementitious material was the Ordinary Portland 
+Cement while the fine aggregate used were natural river 
+sand samples passing through 4.25mm sieve. Coarse 
+aggregate used were obtained from a nearby Quarry. The 
+maximum size of coarse aggregate used was 20 mm. 
+potable water free from salts was used for casting in all 
+mixes during the experiment as well as for curing purposes. 
+Coconut husk was obtained from a dump site at Oyo abayo 
+farm settlement beside Federal University of Technology, 
+Akure, Ondo state and the rice husk was obtained from a 
+rice mill in Ekpoma, Edo state, Nigeria. 
+ 
+Methods 
+Materials Preparation, Particle Sizes Distribution Test 
+and Specific Gravity Test  
+The coconut husk and the rice husk were sun dried and 
+burned in the muffle furnace at the foundry of the 
+Metallurgical and Materials Engineering Department, 
+Federal University of Technology, Akure, for 6 hours at 
+7000C separately. After burning for 6 hours, the ash was 
+allowed to cool for 72 hours and the fine particles were 
+further sieved through a sieve of 45µm aperture size. The 
+particles passing the sieve were thus used as the pozzolan 
+with OPC at different percentage replacement. The type of 
+particle size distribution employed in this study was the dry 
+sieving which is an alternative method to wet sieving 
+which is done for samples that contain clay or other 
+materials likely to cause agglomeration of particles. The 
+specific gravity test was carried out on river sand, granite, 
+Ekpoma rice husk ash and coconut husk ash based on the 
+guidelines proffered by BS 882 (1992). The aggregates 
+were first sieved through a 2 mm aperture sieve before 
+proceeding through the test procedure. The glass jar was 
+washed and cleaned and allowed to dry to remove all the 
+water in it. It was weighed with the lid and recorded as M1. 
+The jar + lid + the sample was weighed and recorded as 
+M2. The sample was removed from the glass jar, the jar + 
+lid + water (filled to the brim) was weighed and recorded 
+as M4. The sample was put into the jar and filled with water 
+up to half of the jar and left for 30 minutes. The jar was 
+filled with water up to three – quarter of the jar and left for 
+24 hours. After 24 hours, the glass jar was filled to the brim 
+without disturbing the sample and left for 30 minutes and 
+recorded as M3.  
+The specific gravity was calculated from; 
+Specific gravity, Gs=
+𝑀2 − 𝑀1
+(𝑀4− 𝑀1)−(𝑀3− 𝑀2)                                                                (3.9)                 
+where, 
+M1 is the mass of glass jar + lid (g) 
+M2 is the mass of glass jar + lid + Sample (g) 
+M3 is the mass of glass jar + lid + water (g) 
+ 
+RESULTS 
+Table 1: Proportion Of Cement, Ashes and Aggregates Used For Concrete Mix 
+ 
+ASH 
+Number 
+Cement 
+ 
+Rice Husk 
+Coconut 
+RH and 
+River 
+Granite 
+Replacement 
+of cubes 
+Content 
+(kg) 
+Ash 
+Content 
+Husk Ash 
+Content 
+CH Ashes 
+Content 
+Sand 
+ 
+(%) 
+ 
+ 
+(kg) 
+(kg) 
+(kg) 
+(kg) 
+(kg) 
+0 
+21 
+21.86 
+ 
+ 
+ 
+43.72 
+87.44 
+5 
+63 
+62.3 
+2.06 
+2.06 
+2.06 
+124.6 
+249.2 
+10 
+63 
+59.02 
+4.12 
+4.12 
+4.12 
+118.04 
+236.08 
+15 
+63 
+55.74 
+6.17 
+6.17 
+6.17 
+111.48 
+222.96 
+20 
+63 
+52.46 
+8.23 
+8.23 
+8.23 
+104.92 
+209.84 
+TOTAL 
+273 
+251.38 
+20.58 
+20.58 
+20.58 
+502.76 
+1005.52 
+ 
+Table 2:                     Natural Moisture Content Test Result  on River Sand 
+Moisture content 
+Can  Number 
+ 
+Mass of empty can 
+M1 (g) 
+ 
+ 
+ 
+Mass of can + Wet  
+sample, M2 (g) 
+ 
+Mass of can + 
+Dry sample, M3 (g) 
+ 
+Moisture 
+Content (%) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAN 1 
+ 
+46.9 
+ 
+ 
+98.8 
+ 
+95.5 
+ 
+6.79 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAN 2 
+ 
+43.4 
+ 
+ 
+101.8 
+ 
+97.7 
+ 
+7.55 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+CAN 3 
+ 
+43.2 
+ 
+ 
+102.8 
+ 
+99.1 
+ 
+6.62 
+ 
+ 
+ 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+865
+
+
+===== PAGE 4 =====
+
+     
+ 
+ 
+The relationship between compressive strength of concrete and SCM replacement levels at different days of curing are shown in 
+the figures below. 
+7 DAYS 
+ 
+Figure 1: Relationship between Compressive Strength of Concrete and SCM replacement level at 7 days 
+ 
+ 
+14 DAYS 
+ 
+Figure 2: Relationship between Compressive Strength of Concrete and SCM replacement level at 14 days 
+ 
+28 DAYS 
+ 
+Figure 3: Relationship between Compressive Strength of Concrete and SCM replacement level at 28 days 
+0
+2
+4
+6
+8
+10
+12
+14
+16
+0
+5
+10
+15
+20
+Compressive strength (N/mm2)
+SCM Replacement (%)
+RHA
+CHA
+RHA & CHA
+0
+5
+10
+15
+20
+25
+0
+5
+10
+15
+20
+Compressive strength (N/mm2)
+SCM Replacement (%)
+RHA
+CHA
+RHA & CHA
+0
+5
+10
+15
+20
+25
+30
+0
+5
+10
+15
+20
+Compressive Stength (N/mm2)
+SCM Replacement (%)
+RHA
+CHA
+RHA & CHA
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+866
+
+
+===== PAGE 5 =====
+
+     
+ 
+ 
+ 
+ 
+35 DAYS 
+ 
+Figure 4: Relationship between Compressive Strength of Concrete and SCM replacement level at 35 days 
+ 
+42 DAYS 
+ 
+Figure 5: Relationship between Compressive Strength of Concrete and SCM replacement level at 42 days 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+0
+5
+10
+15
+20
+25
+30
+0
+5
+10
+15
+20
+Compressive stregth (N/mm2)
+SCM Replacement (%)
+RHA
+CHA
+RHA & CHA
+0
+5
+10
+15
+20
+25
+30
+35
+0
+5
+10
+15
+20
+Compressive Strength (N/mm2)
+SCM Replacement (%)
+RHA
+CHA
+RHA & CHA
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+867
+
+
+===== PAGE 6 =====
+
+     
+ 
+ 
+49 DAYS 
+ 
+Figure 6: Relationship between Compressive Strength of Concrete and SCM replacement level at 49 days 
+ 
+56 DAYS 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 7: Relationship between Compressive Strength of Concrete and SCM replacement level at 56 days 
+ 
+CONCLUSION 
+From 
+the 
+experimental 
+results 
+obtained 
+in 
+this 
+investigation, rice husk ash and coconut husk ash for 
+making cement, using Elephant brand of ordinary Portland 
+cement in combination, the following conclusions are 
+drawn:                                                                                
+(a) The X-Ray Fluoresce (XRF) of rice husk ash (RHA) 
+and coconut husk ash (CHA) revealed silicon oxide (SiO2) 
+as the highest percentage of all the compound and element 
+present. 
+(b)  The evaluation of the chemical characteristics of 
+Ekpoma rice husk ash and coconut husk ash indicated that 
+the materials met the ASTM C618 (2005) Specification for 
+pozzolan to be used as supplementary cementitious 
+materials in ordinary Portland cement concrete. It is thus 
+conclusive that these materials are good supplementary 
+cementitious materials for use in concrete production. 
+(c)  The setting time of Elephant brand of ordinary Portland 
+cement partially replaced by Ekpoma rice husk ash and 
+0
+5
+10
+15
+20
+25
+30
+35
+0
+5
+10
+15
+20
+Compressive Strength (N/mm2)
+SCM Replacement (%)
+RHA
+CHA
+RHA & CHA
+0
+5
+10
+15
+20
+25
+30
+35
+0
+5
+10
+15
+20
+Compressive Strength (N/mm2)
+SCM Replacement (%)
+RHA
+CHA
+RHA & CHA
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+868
+
+
+----- TABLE p6#1 -----
+
+ |  | 
+CONCLUSION | (b) The evaluation of the chemical characteristics of
+Ekpoma rice husk ash and coconut husk ash indicated that
+the materials met the ASTM C618 (2005) Specification for
+pozzolan to be used as supplementary cementitious
+materials in ordinary Portland cement concrete. It is thus
+conclusive that these materials are good supplementary
+cementitious materials for use in concrete production.
+(c) The setting time of Elephant brand of ordinary Portland
+cement partially replaced by Ekpoma rice husk ash and | (b) The evaluation of the chemical characteristics of
+From the experimental results obtained in this |  | Ekpoma rice husk ash and coconut husk ash indicated that
+investigation, rice husk ash and coconut husk ash for |  | the materials met the ASTM C618 (2005) Specification for
+making cement, using Elephant brand of ordinary Portland |  | pozzolan to be used as supplementary cementitious
+cement in combination, the following conclusions are |  | materials in ordinary Portland cement concrete. It is thus
+drawn: |  | conclusive that these materials are good supplementary
+(a) The X-Ray Fluoresce (XRF) of rice husk ash (RHA) |  | cementitious materials for use in concrete production.
+and coconut husk ash (CHA) revealed silicon oxide (SiO )
+2 |  | (c) The setting time of Elephant brand of ordinary Portland
+as the highest percentage of all the compound and element |  | cement partially replaced by Ekpoma rice husk ash and
+present. |  | 
+
+===== PAGE 7 =====
+
+     
+ 
+ 
+coconut husk ash increased with increase in percentage 
+replacement 
+(d)  The fineness of cement was improved when the 
+supplementary cementitious materials were added. 
+(e) Introduction of the SCMs made the various concrete 
+tested to be less porous than the control mix, from the air 
+entrainment test. 
+(f) In the workability of concrete, there was a decrease with 
+each percentage replacement in the compacting factor of 
+unhardened concrete and the slump decreased till the 15% 
+replacement then started increasing for RHA and RHA & 
+CHA. Also, the slump for CHA decreased at 5% then 
+started 
+increasing 
+gradually, 
+making 
+the 
+concrete 
+adequately workable.  
+(g) All the concrete with the various percentage 
+replacements tested has greater compressive strength 
+values at 56 days as compared with that at 0% replacement, 
+except for 20% RHA and 20% RHA & CHA. 
+(h) The compressive strength values for 15%RHA, 
+15%CHA and 10%RHA & CHA at 28 and 56 days of 
+curing are higher than the compressive strength of 100% 
+OPC at the same days. 
+ 
+(i) The utilization of supplementary cementitious materials 
+in either cement or concrete can compensate for 
+environmental, technical and economic issues caused by 
+cement production. Most of these supplementary 
+cementitious materials are by-products, and their inclusion 
+serves as an invaluable means to protect environmental 
+resources and the production of durable concrete.  
+(j) The use of supplementary cementitious material reduces 
+porosity of concrete as can be seen from the air entrainment 
+test, thereby leading to the production of durable concrete. 
+(k) The ternary blended concrete of OPC/RHA/CHA at 
+10% replacement gave the maximum compressive strength 
+and that makes it more preferable in terms of strength. 
+ 
+ 
+REFERENCES 
+[1] Aitcin, P.C., (1998). High Performance Concrete. Taylor and 
+Francis, USA. P 624. 
+[2] Anwar, M., Miyagawa, T., Gaweesh, M, (2001). Using Rice 
+Husk Ash as a Cement Replacement Material in Concrete. 
+Proceedings of the 1st International Ecological  Building 
+Structure Conference, July 5-9, 2001. San Rafael, CA, USA, 
+pp. 671-684. 
+[3] ASTM C125 (2011). Standard Terminology Relating to 
+Concrete and Concrete Aggregate, America Society for 
+Testing and Materials, West Conshohocken. 
+[4] ASTM C219, (2007). Standard Terminology Relating to 
+Hydraulic Cement, America Society for Testing and Materials, 
+West Conshohocken. 
+[5] ASTM C150 (2005). Standard Specification for Portland 
+Cement, America Society for Testing and Materials, West 
+Conshohocken.  
+[6] ASTM C595 (1994). Specification for Blended Hydraulic 
+Cement, America Society for Testing and Materials, West 
+Conshohocken. 
+[7] ASTM C618 (2005). Standard Specification for Coal Fly Ash 
+and Raw or CalcinedNatural Pozzolan for Use in Concrete, 
+America 
+Society 
+for 
+Testing 
+and 
+Materials, 
+West 
+Conshohocken. 
+[8] ASTM C989 (1993). Specification for Ground Granulated 
+Blast - Furnace Slag for Use in ConcreteandMortar, America 
+Society for Testing and Materials, West Conshohocken. 
+[9] ASTM C1157 (1994). Performance Specification for Blended 
+Hydraulic Cement, America Society for Testing and Materials, 
+West  Conshohocken. 
+[10] ASTM C1240 (1993). Specification for Silica Fume for Use in 
+Hydraulic-Cement Concrete and Mortar, America Society for 
+Testing and Materials, West Conshohocken. 
+[11] Bakar, B. H. A., Putrajaya, R. C., Abdulaziz H, (2010). 
+Malaysian Sawdust ash- Improving   theDurability and 
+Corrosion Resistance of Concrete: Pre-review. Concrete 
+Research  Letters, 1 (1), 6-13. 
+[12] Bamforth, P. B., (1980). Institute Measurement of the Effect of 
+Partial Portland Cement Replacement Using Either Fly Ash or 
+Ground Granulated Blast Furnace Slag on the Performance of 
+Mass Concrete, part 2,pp.777-800.                      
+[13] Bamgboye, A.I, and Jekayinfa, S.O, (2006). 
+Energy 
+Consumption Pattern in Coconut Processing Operations. 
+Agricultural Engineering International. The CIGR journal 
+Manuscript EE 05 013. VOL. VIII. 
+[14] Bentur, A., Kovler, K., Goldman, A, (1994). Gypsum of 
+improved performance using Blends with Portland Cement and 
+Silica Fume. Nova Science Publishers, New York, USA, pp. 
+109-116. 
+[15] BS 12 (1978). Specification for Portland cement, British 
+Standards Institution. BSI 389, Chiswick high road, London. 
+[16] BS 812-109 (1990). Methods for Determination of Moisture 
+Content. British Standard  Institution. BSI 389. Chiswick High 
+Road, London. 
+[17] BS 882 (1992). Specification for Aggregates from Natural 
+Sources for Concrete. British  Standard Institution. BSI 389. 
+Chiswick High Road, London. 
+[18] BS 1881-3 (1970). Making and Curing Test Cubes. British 
+Standard Institution. BSI 389.Chiswick high road, London. 
+[19] BS 1881-102 (1983). Methods for Determination of Slump. 
+British Standard Institution.  
+BSI 389. Chiswick High 
+Road, London. 
+[20] BS 1881 – 106 (1993). Methods for Determination of Air 
+Entrainment. British Standard Institution.BSI 389. Chiswick 
+High Road, London. 
+[21] BS 1881-108 (1983). Methods for Making Concrete Test 
+Cubes. British Standard Institution. BSI 389. Chiswick High 
+Road, London. 
+[22] BS 1881-116 (1983). Methods for Determination of 
+Compressive Strength of Concrete Cubes. British Standard 
+Institution. BSI389. Chiswick High Road, London. 
+[23] BS 1881-125 (1983). Mixing and Sampling Fresh Concrete in 
+the Laboratory. British Standard Institution. BSI 389. Chiswick 
+High Road, London. 
+[24] BS 4550-3 (1978). Methods for Testing Cement. Physical Test. 
+British Standard Institution. BSI 389. Chiswick High Road, 
+London. 
+[25] European Standard EN 197- 1 (2007). Composition, 
+Specification and Conformity Criteria for Common Cements, 
+CEN, Brussels. 
+[26] Habeeb,G.A. and Fayyadh, M.M.,(2009). Rice Husk Ash 
+Concrete: the Effect of RHA Average Particle Size on 
+Mechanical Properties and Drying Shrinkage. Australian 
+Journal of Basic and Applied Sciences, 3(3): 1616-1622. 
+[27] Hasparyk, N.P., Monteiro, P.J.M., Carasek, H, (2000). Effect 
+of Silica Fume and Rice Husk  
+Ash 
+on 
+Alkali- 
+Silica 
+Reaction. Mater. J., 97(4): pp. 486-492.  
+[28] Horst, S. (2001). Some Basics About Substituting Pozzolans 
+for Portland Cement in Concrete. Proceedings from the 
+Council of University States of America Green Building 
+Summit. Arizona.  
+[29] Houston, D.F, (1972). Rice: Chemistry and Technology. 
+American Association of cereal.   
+[30] Karim M.R., Zain M.F.M., Jamil M., Lai F.C, Islam M.N., 
+(2012). Strength of Mortar and Concrete as Influenced by Rice 
+Husk Ash: A Review. World Applied Sciences Journal     
+19(10): 1501-1513. 
+[31] Khan, M.I., Lyndsdale C.J., Waldron, P, (2000). Porosity and 
+Strength of PFA/SF/OPC/ Ternary Blended Paste. Cement 
+Concrete Res., 30: 1225-1229.        
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+869
+
+
+===== PAGE 8 =====
+
+     
+ 
+ 
+[32] Kovacs, R., (1975), Effect of Hydration Producings on the 
+Properties of Fly Ash Cements Concrete Research, Pp. 73 -  
+82. 
+[33] Lea, F.M, (1970). The Chemistry of Cement and Concrete. 
+Third Edition. Armold Edward Publishers, London, pp. 126. 
+[34] Lenahan M., (2010). Cupola Furnace Slag in As 
+[35] Malhotra V.M., (2002). Introduction: Sustainable Development 
+and Concrete Technology, ACI Concrete International 24 
+(7):Pp. 22. 
+[36] Malhotra, V. M., Jiang L.H., (2000). Reduction in Water 
+Demand of Non Air – EntrainedConcrete Incorporating Large 
+Volume of Fly Ash. Cement and Concrete Research. 30 
+(11):1785 – 1789. 
+[37] Mehta, P.K., (2001), “Reducing the  Environmental Impact of 
+Concrete”, as Cited by A.K.H Kwan, P.L and Fung, W.W.S, 
+(2011), Research Directions for High Performance  Concrete, 
+Department of Civil Engineering, The University of Hong 
+Kong, Pokfulam, Hong Kong. 
+[38] Mehta, P.K and Monteiro, P.J.M, (2006). Concrete – 
+Microstructure, Properties and  Materials. 3rd Edition, McGraw 
+Hill, New york pp:659. 
+[39] Muga, H., K. Betz, J. Walker, C. Pranger, A. Vidor, (2005). 
+Development of Appropriate andSustainable Construction 
+Materials. 
+Sustainable 
+Future 
+Institute, 
+Michigan 
+Technological  University, Michigan, USA. 
+[40] Park, j., Tae, S., Kim, T., (2012). Life Cycle Assessment of 
+Concrete by Compressive Strength on Construction Site in 
+Korea. Renewable. Sustainable Energy Rev., 16: pp. 2940-
+2946.  
+[41] Raghu, T.A and Chaitanya, B.K, (2007). Partial Cement 
+Replacement Materials. LongmanGroup, UK Ltd. 
+[42] Sakr, K., (2006). Effects of Silica Fume and Rice Husk Ash on 
+the Properties of Heavy Weight Concrete. Journal of Materials 
+in Civil Engineering; 18(3): pp. 367-376. 
+[43] Sata, V., C. Jaturapitakkul, Kiattikomol,K, (2007). Influence of 
+Pozzolan from various By-product Materials on Mechanical 
+Properties of High – Strength Concrete Construction and 
+Building Material. 21(7):pp. 1589-1598. 
+[44] Siddique, F., (2008). Waste Materials and By-products in 
+Concrete. Springer press. In: givi,N.A., S.A Rashid, F.N.A 
+Aziz and S.M.A. Mohd, 2010. Contribution of Rice Husk Ash 
+to the Properties of Mortar and Concrete: A Review. Journal 
+of American Sciences, 6(3): 157-165 
+[45] Smith, R.G. and Kamwanja G.A, (1986). The Use of Rice 
+Husk for Making a Cementitious Material, Proceeding of Joint 
+Symposium on the Use of Vegetable Plants and Their Fibers as 
+Building Material, Baghdad. In: N.A Givi, S.A. Rashid F.N.A. 
+Aziz, S.M.A Mohd, 2010. Contribution of Rice Husk Ash to 
+the Properties of Mortar and Concrete: A Review. Journal of 
+American Sciences 6(3):157-165. 
+[46] Tashima, M.M., C.A.R. Silva, J.L. Akasaki, M.B. Barbosa, 
+(2004). The Possibility of Adding the Rice Husk Ash (RHA) to 
+the Concrete. In: proceedings of the International RILEM 
+Conference on the Use of Recycled Materials in Building and 
+Structure  November 8 – 11, 2004, Barcelona, Spain, pp: 778 
+– 786. 
+[47] Toutanji, H.,Delatte, N., Aggoun, S., Duval, R., Danson, A, 
+(2004). Effect of Supplementary Cementitious Materials on the 
+Compressive Strength and Durability of Short-term Cured 
+Concrete. Cem. Concr. Res., 34: 311-319.  
+[48] Zhang, M.H., R. Lastra, V.M. Malhotra, (1996). Rice Husk 
+Ash Paste and Concrete: Some Aspects of Hydration and the 
+Microstructure of the Interfacial Zone Between the Aggregate 
+and Paste. Cement and Concrete Research, 26(6): pp. 963-
+977. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+International Journal of Engineering Research & Technology (IJERT)
+ISSN: 2278-0181
+http://www.ijert.org
+IJERTV9IS020272
+(This work is licensed under a Creative Commons Attribution 4.0 International License.)
+Published by :
+www.ijert.org
+Vol. 9 Issue 02, February-2020
+870

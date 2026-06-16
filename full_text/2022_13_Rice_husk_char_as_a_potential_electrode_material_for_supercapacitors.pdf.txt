@@ -1,0 +1,645 @@
+
+===== PAGE 1 =====
+
+http://dx.doi.org/10.5599/jese.1310 
+451 
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462; http://dx.doi.org/10.5599/jese.1310
+Open Access : : ISSN 1847-9286 
+https://pub.iapchem.org/ojs/index.php/JESE 
+Original scientific paper 
+Rice husk char as a potential electrode material for 
+supercapacitors 
+Venkata Naga Kanaka Suresh Kumar Nersu1,, Bhujanga Rao Annepu1, 
+Satya Srinivasa Babu Patcha2and Subhakaran Singh Rajaputra3 
+1Department of Instrument Technology, Andhra University College of Engineering (A), 
+Visakhapatnam, Andhra Pradesh 530003, India  
+2Center for Flexible Electronics, Department of Electronics and Communication Engineering, Koneru 
+Lakshmaiah Education Foundation, Vaddeswaram, AP, India 
+3Centre for Advanced Energy Studies, Koneru Lakshmaiah Education Foundation, Vaddeswaram, AP, 
+India 
+Corresponding author: sureshk834@gmail.com  
+Received: February 22, 2022; Accepted: March 28, 2022; Published: April 4, 2022 
+Abstract 
+Rice husk char (RHC), a carbon-based material, was obtained by thermal decomposition of 
+rice husk (RH) biological waste. Physicochemical properties of RHC were determined using 
+XRD, FTIR, FESEM, TGA, N2 adsorption-desorption studies and contact angle measurement. 
+A lab-scale supercapacitor (SC) was fabricated using as-prepared RHC and its supercapa-
+citive behaviour was investigated using techniques like CV, GCD and EIS studies. Each of RHC 
+electrode showed a specific capacitance of 80.2 F g-1 at the constant charging/discharging 
+current density of 0.05 A g-1. RHC exhibited 90 % retention of its initial capacitance even 
+after 5000 GCD. The presence of amorphous SiO2 in RHC could contribute to the excellent 
+wettability of RHC towards the water, enhancing its effective surface area by improving 
+access of electrolyte ions into RHC. This remarkable supercapacitive performance of 
+biological waste-derived RHC demonstrates its potential as a cost effective and environ-
+mentally benign electrode material for aqueous electrolyte-based SCs. 
+Keywords 
+Biochar; carbon-SiO2 composite; superhydrophilicity; carbon cloth; nanocomposite gel polymer 
+electrolyte; electric double layer capacitor (EDLC) 
+Introduction 
+Recently, an exponential increase in demand for the design and development of novel eco-
+friendly energy storage systems has been witnessed for harvesting energy from renewable 
+resources [1]. Energy storage devices like supercapacitors (SCs) are well known for their high specific 
+power, exceptional charge-discharge capability and long life [2]. Types of SCs include electric double-
+
+
+===== PAGE 2 =====
+
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+RICE HUSK CHAR AS MATERIAL FOR SUPERCAPACITORS 
+452 
+ 
+layer capacitors (EDLCs), pseudocapacitors and hybrid SCs. EDLCs store charge in the electro-
+chemical double layer (EDL) and are familiar for their prolonged cycle life and outstanding charge-
+discharge capabilities [3]. Activated carbon (AC), carbon black, graphene and carbon nanotubes 
+(CNTs) are the most abundant electrode materials for EDLCs [4], and most of the commercially 
+available EDLCs use AC as electrode material [5]. Recent advances in SC research were focused on 
+exploring new resources for electrode materials that are economically feasible, abundant and 
+derived from renewable precursors. Therefore, extensive research was directed toward deriving 
+carbons from biological wastes for application as electrode materials in SCs [1]. 
+Carbons derived from sugar cane bagasse [6], bamboo [7], straw of rice [8] and wheat [9], stems of 
+sunflower [10] and lotus [11], stalks of corn [12] and cotton [13] were already applied in SCs as electrode 
+materials. Natural fibers obtained from bamboo [14], jute [15] and hemp [16] and leaves of pine [17], 
+lotus [18], Ficus religiosa [19] and eucalyptus [20] were also utilized to derive carbon-based electrode 
+materials for SC application. Seed shells like coconut shells [21], macadamia nut shells [22] and oil palm 
+kernel shells [23] were also used to derive carbons and tested as electrode materials in SCs.  
+Rice is the chief food source to around 50 % of the world population [24], and per annum, around 
+759.6 million tons of paddy is cultivated, while their de-husking results in around 150 million tons 
+of rice husk (RH) [25]. RH disposal is a major concern to rice cultivators and millers [26], as burning 
+or open dumping of RH pollutes the environment [27]. The main constituents of RH are cellulose, 
+lignin, silica (SiO2) and moisture [28,29]. De-siliconized porous carbons obtained from RH through a 
+two-step carbonization-activation method have been extensively applied as electrode materials in 
+SCs [30]. Firstly, RH is carbonized and later, the carbonized RH is activated using activating agents 
+like KOH [31], NaOH [32], H3PO4 [33] and ZnCl2 [34], to obtain porous carbons. Few reported 
+methods also include a pre-treatment step in which RH is leached using hydrogen fluoride (HF) 
+before activation [35]. The use of such chemical agents consumes a major portion of the production 
+cost and the release of chemical effluents causes harm to the environment, making these methods 
+very expensive and not eco-friendly [36].  
+Removal of volatile components from RH results in carbon-SiO2 composite, which can be applied 
+in energy storage [37]. In the present work, rice husk char (RHC), a carbon-SiO2 composite, was 
+derived by thermal decomposition of RH without the steps like leaching and activation, making the 
+process simple, cost-effective and eco-friendly. The RHC obtained is composed of amorphous SiO2 
+and amorphous carbon. The physicochemical properties of RHC were investigated. A lab-scale 
+symmetric SC was fabricated using RHC as electrode material, hydrothermally reduced carbon cloth 
+(CCHy) as current collectors and graphene-based nanocomposite gel polymer electrolyte (NGPE). 
+The supercapacitive behaviour of RHC in the full-cell configuration was evaluated using techniques 
+like cyclic voltammetry (CV), galvanostatic charge-discharge (GCD) and electrochemical impedance 
+spectroscopy (EIS) to determine the practicality of RHC as a potential biological waste derived 
+carbon-based electrode material for SCs.  
+Experimental  
+Materials 
+RH was acquired from a local rice mill located in India and used directly for the preparation of 
+RHC. Carbon cloth was obtained from AvCarb, USA. Propan-2-ol (Isopropanol / IPA), graphite 
+powder (particle size <20 µm), sodium hydroxide (NaOH) pellets, ethanol 99.9 %, hydrogen peroxide 
+(H2O2) (30 % w/v), polyvinylidene difluoride (PVDF) (homopolymer powder, M.W.  ̴ 320,000), N-
+methyl-2-pyrrolidone (NMP), sulphuric acid (H2SO4) 98 %, nitric acid (HNO3), poly (vinyl alcohol) 
+
+
+===== PAGE 3 =====
+
+V. N. K. S. K. Nersu et al. 
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+http://dx.doi.org/10.5599/jese.1310    
+453 
+(PVA) (M.W. ̴ 125,000), hydrochloric acid (HCl) 35–38 %, potassium permanganate (KMnO4) and 
+sodium nitrate (NaNO3) were used as received. Whatman® qualitative filter paper: grade 1 (diam. 
+125 mm) procured locally was used as a separator in the fabricated lab-scale SC. Deionized (DI) water 
+was employed in the entire work.  
+Preparation of RHC 
+RHC was obtained by thermal decomposition of RH (Figure 1). Untreated RH was placed in a silica 
+crucible and covered with an aluminum foil. Small perforations were made to remove volatile 
+compounds during the heating and minimize the reaction with oxygen. RH was heated up to 500 °C 
+at a rate of 5 °C min-1 to obtain black-colored charred flakes of RHC, which were later ground to 
+obtain RHC powder. 
+ 
+Figure 1. Preparation of RHC through thermal decomposition of RH 
+Preparation of CCHy current collectors 
+Commercially obtained carbon cloth was modified to obtain CCHy following the synthesis 
+procedure reported elsewhere [38]. Pieces of untreated carbon cloth were dropped into H2SO4 and 
+HNO3 (2:1) mixture. To this mixture, KMnO4 (3 g) was added and stirred. Later, DI water (100 mL) 
+was added and stirred continuously for three hours. To this mixture, H2O2 was added until the 
+reaction turned transparent, resulting in chemically oxidized carbon cloths. The collected oxidized 
+carbon cloths were rinsed several times, transferred into a DI water-filled PTFE lined autoclave, and 
+heated at 180 °C for 14 h. Then CCHy were collected and dried under vacuum. The prepared CCHy 
+were used as flexible current collectors while testing RHC as electrode material in full-cell studies.  
+Preparation of graphene-based NGPE 
+Hydrothermally reduced graphene oxide (HRG) was derived from graphene oxide (GO) following 
+the synthesis procedure reported elsewhere [39]. GO was synthesized following modified Hummer’s 
+method from graphite precursor. Graphite (1 g) was dispersed in conc. H2SO4 (50 mL) into which 
+NaNO3 (1 g) was added and the suspension was placed in an ice bath and stirred for 4 h. Later, 
+KMnO4 (6 g) was added to the suspension and agitated for 48 h continuously. The suspension was 
+kept in an ice bath followed by the addition of DI water (92 mL) and stirred for 2 h continuously. 
+30 % H2O2 (10 mL) was added to this suspension until the reaction turned yellow, resulting in GO. 
+The GO suspension was centrifuged and the obtained precipitate was washed many times using 1 M 
+HCl and DI water to gain a black-colored neutral GO suspension. Finally, to obtain GO, neutral GO 
+suspension was centrifuged and filtered under vacuum to obtain a precipitate of GO, followed by 
+
+
+===== PAGE 4 =====
+
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+RICE HUSK CHAR AS MATERIAL FOR SUPERCAPACITORS 
+454 
+ 
+washing with ethanol, vacuum filtration and vacuum drying for 12 h at 70 °C. GO (0.1 g) was ground 
+into fine powder and dispersed into DI water (100 mL) to obtain a dispersion of GO which pH was 
+maintained at 11 using NaOH, and then transferred to a PTFE lined autoclave and heated for 14 h at 
+180 °C. Obtained HRG was vacuum dried (12 h at 60 °C) and ground to fine powder.  
+HRG (0.5 wt.%) incorporated sulfonated PVA (SPVA-HRG-0.5) hydrogel electrolyte was prepared by 
+synthesis procedure reported elsewhere [40]. PVA (0.5 g) was added to a mixture of DI water (4 mL) and 
+H2SO4 (270 µL) and stirred continuously for half an hour at 80 °C to obtain sulfonated PVA hydrogel 
+(SPVA). 25 mg of HRG was suspended in IPA (10 mL) through ultrasonication and added slowly into SPVA 
+hydrogel while stirring at 80 °C for 30 min in order to obtain SPVA-HRG-0.5. The as-prepared SPVA-HRG-
+0.5 was employed as an electrolyte while testing RHC as electrode material in full-cell studies.  
+Characterization studies 
+The structural properties and functional groups were investigated through X-ray diffraction (XRD) 
+(Rigaku Miniflex 600) and Fourier-transform infrared (FTIR) spectroscopy (Cary 630) analyses, respect-
+tively. The surface morphology was determined from FESEM analysis (FEI-Quanta FEG 200F). Thermo-
+gravimetric analysis (TGA) was carried out under N2 atmosphere up to 800 °C (20 °C min-1 heating rate) 
+using a thermal analyzer (STA 7200, Hitachi HTG) simultaneously. Surface area and porosity profile 
+were established using surface area and porosity analyzer (Quantachrome NOVA 2200e). The 
+wettability towards the water was determined from contact angle measurements (Kyowa DM-501). 
+The electrochemical behaviour of RHC was evaluated in full-cell configuration using electrochemical 
+workstation (PARSTAT PMC 2000A) by performing CV, GCD and EIS studies. An electrode ink, prepared 
+by sonicating a mixture of RHC, MWCNTs and PVDF (80:10:10) in N-methyl-2-pyrrolidone (NMP) for 1 
+h, was drop cast over two CCHy (area of each CCHy = 0.8 cm2) and vacuum dried for 15 min at 120 °C 
+to obtain flexible electrodes with RHC loading of 1 mg cm-2. A full cell was fabricated by sandwiching 
+SPVA-HRG-0.5 NGPE soaked Whatman® filter paper with flexible electrodes on either side. 
+Results and discussion 
+Physicochemical characterizations 
+Figure 2(a) represents X-ray diffractograms of RH and RHC powders. Both the RH and RHC 
+diffractograms showed a characteristic broad peak of amorphous SiO2 at 2 value around 22° [41]. 
+The broad diffraction peak observed at 2 value of about 43o in both RH and RHC, indicates the 
+presence of amorphous carbon [37].  
+Figure 2(b) represents the FTIR spectra of both RH and RHC. FTIR spectrum of RH shows a 
+widespread band around 3284 cm-1 resulting from stretching of O-H bonds of hydroxyl groups [42,43]. 
+The small peaks observed around 2920 and 2852 cm-1 in the spectra of RH resulted from C-H stretching 
+of -CH2 groups [44]. The thermal decomposition of RH to RHC has resulted in the removal of -OH and 
+-CH2 groups, indicated by the absence of their characteristic peaks in FTIR spectra of RHC. The peaks 
+observed around 1717 and 1712 cm-1 in RH and RHC, respectively, resulted from the stretching of 
+carbonyl (C=O) groups [44]. The peaks observed around 1635 and 1634 cm-1 in RH and RHC, 
+respectively, resulted from C=C stretching [45]. The peaks observed around 1034 and 1078 cm-1 in RH 
+and RHC, respectively, are due to asymmetric stretching of Si-O-Si [46]. The peaks observed around 
+795 and 787 cm-1 in RH and RHC, respectively, relate to symmetric stretching of Si-O-Si [46]. The 
+intensities of bands related to SiO2 in FTIR spectra of RHC were reduced compared to RH due to 
+clenching and the development of a SiO2 network on heating [44,47].  
+
+
+===== PAGE 5 =====
+
+V. N. K. S. K. Nersu et al. 
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+http://dx.doi.org/10.5599/jese.1310    
+455 
+ 
+Figure 2. (a) X-ray diffractograms and (b) FTIR spectra of RH and RHC 
+Figure 3 represents FESEM images of RHC at different magnifications. Figures 3(a) and (b) depict 
+the surface morphology of RHC composed of multiple irregular crevices, which could help in improv-
+ing the surface area, thereby enhancing double layer (EDL) capacitance [48].  
+ 
+Figure 3. FESEM images depicting surface morphology of RHC at different magnifications 
+Figure 4 represents the TGA curve of RHC. In the TGA curve, RHC lost around 8 % of its weight 
+below 100 °C due to the elimination of water content [49]. From 110 to 800 °C, a weight loss of 43 
+% was observed due to the breakdown of volatile compounds and the remaining 49 %, even after 
+800 °C, could be associated to amorphous SiO2 [29]. From TGA, the wt.% of amorphous carbon and 
+amorphous SiO2 was determined to be around 43 and 49 %, respectively.  
+A pellet of 1.2 cm diameter was prepared using RHC powder and water contact angle 
+measurement was performed by sessile drop technique. During contact angle measurement of RHC, 
+the tested water droplet penetrated RHC resulting in a water contact angle of 0°, determining its 
+superhydrophilic nature [50]. The superior wettability of RHC towards water could be attributed to 
+hydrophilic metal oxide, i.e., amorphous SiO2 [51]. This superior wettability of RHC towards the 
+water improves the access of SPVA-HRG-0.5 hydrogel electrolyte to deeper regions of RHC, thereby 
+improving its supercapacitive behaviour by enhancing the EDL charging/discharging response [52]. 
+The electrode-electrolyte interaction creates a considerable influence on charge-discharge ability, 
+cycle life, charge storage and power delivery of a SC [53].  
+
+
+===== PAGE 6 =====
+
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+RICE HUSK CHAR AS MATERIAL FOR SUPERCAPACITORS 
+456 
+ 
+ 
+Figure 4. TGA curve of RHC 
+Figure 5(a) represents N2 adsorption-desorption isotherm of RHC. The calculated Brunauer–
+Emmett–Teller (BET) surface area of RHC was around 38 m2 g-1. Figure 5(b) represents the pore size 
+distribution in RHC, where dV₀ and D represent differential pore volume and pore diameter, 
+respectively. Figure 5(b) indicated that RHC mostly contains nanopores with an average pore size of 
+around 2.8 nm. The presence of mesopores enhances capacitive retention in RHC by widening 
+pathways for the transport of electrolyte ions [32].  
+ 
+Figure 5. (a) N2 adsorption-desorption isotherm and (b) pore size distribution in RHC  
+Electrochemical characterizations 
+Full-cell studies 
+The supercapacitive behaviour of RHC was evaluated in an in-house fabricated lab-scale full-cell. 
+The electrochemical behavior was determined by performing CV, GCD and EIS studies. 
+CV was performed within a voltage window of 0 to 1 V at scan rates varying from 10 to 100 mV s-1 
+(Figure 6 (a)), which determined the excellent rate probability and reversibility of RHC [54]. GCD was 
+performed within a potential window of 0 to 1 V at current densities ranging from 0.05 to 5 A g-1 
+(Fig. 6 (b)). The specific capacitance (Cs), specific energy (Es), and specific power (Ps) of a single 
+capacitor plate were calculated from GCD studies using equations 1, 2 and 3, respectively [55]. 
+
+
+===== PAGE 7 =====
+
+V. N. K. S. K. Nersu et al. 
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+http://dx.doi.org/10.5599/jese.1310    
+457 
+s
+2 I t
+C
+m V
+
+=
+
+ 
+(1) 
+2
+s
+s
+8
+C
+V
+E
+
+=
+ 
+(2)  
+s
+s
+E
+P
+t
+=  
+(3)  
+where, m, I, ΔV and Δt represent mass (g) of RHC (0.8 mg) on each electrode, constant discharge 
+current (A), discharge voltage window (V), and discharge time (s), respectively. 
+RHC showed Cs in the range of 80.2 to 60 F g-1 at constant current densities varying from 0.05 to 
+5 A g-1, respectively. At 1 A g-1 current density, RHC showed Cs of 66 F g-1. RHC exhibited specific 
+energy of 2.2 Wh kg-1 at a specific power of 1 kW kg-1. Figure 6(c) represents the Ragone plot 
+obtained using calculated Es and Ps values. Table 1 represents the experimental data obtained from 
+GCD studies. Table 2 represents data for the comparison of supercapacitive performance of RHC 
+with carbon-based electrode materials from RH precursors. 
+ 
+Figure 6. (a) CV curves of RHC at multiple scan rates, (b) GCD curves of RHC at various current densities and 
+(c) Ragone plot of RHC 
+Cyclic stability of RHC-based flexible supercapacitor was tested for 5000 GCD cycles at a constant 
+current density of 1 A g-1. Figure 7(a) represents the CV curves of RHC at 50 mV s-1, before and after 
+cycling for 5000 GCD cycles. Figure 7(b) represents the GCD curves of RHC at 1 A g-1, before and after 
+cycling for 5000 GCD cycles. As shown in Figure 7(c), RHC retained 90 % of its initial capacitance during 
+5000 GCD cycles. EIS was performed within a frequency range of 100 kHz to 0.1 Hz at an amplitude of 
+
+
+===== PAGE 8 =====
+
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+RICE HUSK CHAR AS MATERIAL FOR SUPERCAPACITORS 
+458 
+ 
+5 mV at 0 V. Figure 7(d) represents the Nyquist plots obtained from EIS analysis of RHC before and 
+after cycling for 5000 GCD cycles, showing a slight increase in cell impedance after cycling. 
+Table 1. Experimental data obtained from GCD studies of RHC electrodes in full-cell configuration  
+Current density, A g-1 
+IR drop, V 
+Discharge time, s 
+Specific capacitance, F g-1 
+0.05 
+0.01 
+401 
+80.2 
+0.1 
+0.017 
+197 
+78.8 
+0.2 
+0.032 
+92 
+73.6 
+0.5 
+0.071 
+34 
+68 
+1 
+0.111 
+16.5 
+66 
+2 
+0.218 
+8 
+64 
+5 
+0.592 
+3 
+60 
+Table 2. Comparison of specific capacitances of carbon-based electrode materials derived from RH precursor 
+Activating agent 
+Specific capacitance, F g-1 
+Electrolyte 
+Reference 
+NaOH 
+51.4 at 0.5 A g-1  
+6 M KOH 
+[32] 
+KOH 
+147 at 0.1 A g-1  
+6 M KOH 
+[56] 
+H3PO4 
+112 at 1 A g-1  
+1 M Na2SO4 
+[33] 
+NaOH 
+110.2 at 0.1 A g-1  
+6 M KOH 
+[36] 
+― 
+40.8 at 0.1 A g-1  
+6 M KOH 
+[36] 
+― 
+80.2 at 0.05 A g-1  
+SPVA-HRG-0.5 
+This work 
+ 
+Figure 7. (a) CV curves of RHC at 50 mV s-1 and (b) GCD curves of RHC at 1 A g-1, respectively, before and 
+after cycling; (c) cyclic stability of RHC for 5000 GCD cycles at 1 A g-1 and (d) Nyquist plots of RHC before and 
+after cycling; inset image shows the magnified image of Nyquist plots 
+
+
+===== PAGE 9 =====
+
+V. N. K. S. K. Nersu et al. 
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+http://dx.doi.org/10.5599/jese.1310    
+459 
+Conclusions 
+RHC obtained through thermal decomposition of RH was characterized using physicochemical 
+techniques. FESEM images confirmed the presence of crevices in RHC, which could enhance EDL 
+formation by providing access of the electrolyte to the porous surface. XRD and FTIR analysis 
+confirmed the presence of amorphous SiO2 in RHC and the wt.% of SiO2 and carbon in RHC were 
+estimated to be around 49 and 43 %, respectively, from TGA analysis. BET specific surface area and 
+average pore diameter of RHC were found to be around 38 m2 g-1 and 2.8 nm, respectively. The 
+superior wettability of RHC towards the water, as confirmed from contact angle measurements, 
+could be attributed to the presence of SiO2. The practicality and applicability of RHC as potential 
+electrode material in EDLCs were evaluated by fabricating a lab-scale SC and testing its supercapa-
+citive performance using electrochemical techniques like CV, GCD and EIS. In full-cell (2-electrode) 
+configuration, RHC at each electrode exhibited a specific capacitance of 80.2 F g-1 at 0.05 A g-1. Cyclic 
+stability tests confirmed 90 % of capacitive retention in RHC even after 5000 GCD cycles at 1 A g-1. 
+The superior wettability of RHC, which in turn improved access of aqueous electrolyte ions into 
+pores of RHC, thereby increasing the effective surface area of RHC, resulting in better 
+supercapacitive behaviour. Current work emphasizes the potential of RHC as a biological waste 
+derived carbon-based material as electrode material in aqueous electrolyte-based SCs.  
+Acknowledgments: The authors are grateful to Er. Koneru Satyanarayana Garu, Hon’ble President, 
+Koneru Lakshmaiah Education Foundation (Deemed to be University) for providing infrastructure to 
+carry out this work. The authors thank Prof. Y. Anjaneyulu, Director, CAES, KLEF and Dr. K. Naga 
+Mahesh, Nanosol Energy Pvt Ltd, Hyderabad for their support. The authors thank the MARC, BIT, 
+Bengaluru for surface area and porosity measurement, the DST and the SAIF, IIT Madras, Chennai for 
+FESEM observation, the CRF, CeNS, Bengaluru for contact angle measurement and the CoExAMMPC, 
+VFSTR, Guntur, A. P. for XRD, TGA and FTIR measurements. 
+References 
+[1] 
+S. Herou, P. Schlee, A. B. Jorge, M. Titirici, Current Opinion in Green and Sustainable 
+Chemistry 9 (2018) 18-24. https://doi.org/10.1016/j.cogsc.2017.10.005 
+[2] 
+A. Afif, S. M. H. Rahman, A. T. Azad, J. Zaini, M. A. Islan, A. K. Azad, Journal of Energy 
+Storage 25 (2019) 100852. https://doi.org/10.1016/j.est.2019.100852 
+[3] 
+T. Ramesh, N. Rajalakshmi, K. S. Dhathathreyan, L. Ram Gopal Reddy, ACS Omega 3 (2018) 
+12832-12840. https://doi.org/10.1021/acsomega.8b01850 
+[4] 
+G. Zhang, Y. Chen, Y. Chen, H. Guo, Materials Research Bulletin 102 (2018) 391-398. 
+https://doi.org/10.1016/j.materresbull.2018.03.006 
+[5] 
+X. Chen, R. Paul, L. Dai, National Science Review 4(3) (2017) 453-489. 
+https://doi.org/10.1093/nsr/nwx009 
+[6] 
+H. Feng, H. Hu, H. Dong, Y. Xiao, Y. Cai, B. Lei, Y. Liu, M. Zheng, Journal of Power 
+Sources 302 (2016) 164-173. https://doi.org/10.1016/j.jpowsour.2015.10.063 
+[7] 
+Y. Gong, D. Li, C. Luo, Q. Fu, C. Pan, Green Chemistry 19(17) (2017) 4132-4140. 
+https://doi.org/10.1039/C7GC01681F 
+[8] 
+S.-Y. Lu, M. Jin, Y. Zhang, Y.-B. Niu, J.-C. Gao, C. M. Li, Advanced Energy Materials 8(11) 
+(2018) 1702545. https://doi.org/10.1002/aenm.201702545 
+[9] 
+W. Liu, J. Mei, G. Liu, Q. Kou, T. Yi, S. Xiao, ACS Sustainable Chemistry Engineering 6(9) 
+(2018) 11595-11605. https://doi.org/10.1021/acssuschemeng.8b01798 
+[10] 
+Y. Wang, Z. Zhao, W. Song, Z. Wang, X. Wu, Journal of Materials Science 54(6) (2019) 4917-
+4927. https://doi.org/10.1007/s10853-018-03215-8 
+
+
+----- TABLE p9#1 -----
+
+A. Afif, S. M. H. Rahman, A. T. Azad, J. Zaini, M. A. Islan, A. K. Azad, Journal of Energy |  | 
+Storage 25 (2019) 100852. | https://doi.org/10.1016/j.est.2019.100852 | 
+
+===== PAGE 10 =====
+
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+RICE HUSK CHAR AS MATERIAL FOR SUPERCAPACITORS 
+460 
+ 
+[11] 
+Y. Zhang, S. Liu, X. Zheng, X. Wang, Y. Xu, H. Tang, F. Kang, Q.-H. Yang, J. Luo, Advanced 
+Functional Materials 27(3) (2017) 1604687. https://doi.org/10.1002/adfm.201604687 
+[12] 
+C. Wang, D. Wu, H. Wang, Z. Gao, F. Xu, K. Jiang, Journal of Materials Chemistry A 6(3) 
+(2018) 1244-1254. https://doi.org/10.1039/C7TA07579K 
+[13] 
+X. Tian, H. Ma, Z. Li, S. Yan, L. Ma, F. Yu, G. Wang, X. Guo, Y. Ma, C. Wong, Journal of Power 
+Sources 359 (2017) 88-96. https://doi.org/10.1016/j.jpowsour.2017.05.054 
+[14] 
+L. Ji, B. Wang, Y. Yu, N. Wang, J. Zhao, Electrochimica Acta 331 (2020) 135348. 
+https://doi.org/10.1016/j.electacta.2019.135348 
+[15] 
+C. Zequine, C.K. Ranaweera, Z. Wang, P. R. Dvornic, P. K. Kahol, S. Singh, P. Tripathi, O. N. 
+Srivastava, S. Singh, B.K. Gupta, G. Gupta, R. K. Gupta, Scientific Reports 7(1) (2017) 1174. 
+https://doi.org/10.1038/s41598-017-01319-w 
+[16] 
+H. Wang, Z. Xu, A. Kohandehghan, Z. Li, K. Cui, X. Tan, T.J. Stephenson, C.K. King’ondu, 
+C.M.B. Holt, B.C. Olsen, J.K. Tak, D. Harfield, A.O. Anyia, D. Mitlin, ACS Nano 7(6) (2013) 
+5131-5141. https://doi.org/10.1021/nn400731g 
+[17] 
+G. Zhu, L. Ma, H. Lv, Y. Hu, T. Chen, R. Chen, J. Liang, X. Wang, Y. Wang, C. Yan, Z. Tie, Z. Jin, 
+J. Liu, Nanoscale 9(3) (2017) 1237-1243. https://doi.org/10.1039/C6NR08139H 
+[18] 
+S. Qu, J. Wan, C. Dai, T. Jin, F. Ma, Journal of Alloys and Compounds 751 (2018) 107-116. 
+https://doi.org/10.1016/j.jallcom.2018.04.123 
+[19] 
+S.T. Senthilkumar, R. K. Selvan, ChemElectroChem 2(8) (2015) 1111-1116. 
+https://doi.org/10.1002/celc.201500090 
+[20] 
+A. K. Mondal, K. Kretschmer, Y. Zhao, H. Liu, C. Wang, B. Sun, G. Wang, Chemistry-A 
+European Journal 23(15) (2017) 3683-3690. https://doi.org/10.1002/chem.201605019 
+[21] 
+J. Xia, N. Zhang, S. Chong, D. Li, Y. Chen, C. Sun, Green Chemistry 20(3) (2018) 694-700. 
+https://doi.org/10.1039/C7GC03426A 
+[22] 
+X. Yan, Y. Jia, L. Zhuang, L. Zhang, K. Wang, X. Yao, ChemElectroChem 5(14) (2018) 1874-
+1879. https://doi.org/10.1002/celc.201800068 
+[23] 
+I. I. Misnon, N. K. M. Zain, R. Abd Aziz, B. Vidyadharan, R. Jose, Electrochimica Acta 174 
+(2015) 78-86. https://doi.org/10.1016/j.electacta.2015.05.163 
+[24] 
+W. H. Kwan, Y. S. Wong, Materials Science for Energy Technologies 3 (2020) 501-507. 
+https://doi.org/10.1016/j.mset.2020.05.001 
+[25] 
+M. López-Alonso, M. Martín-Morales, M. J. Martínez-Echevarría, F. Agrela, M. Zamorano, 
+in: Waste and by products in Cement-Based Materials, Innovative Sustainable Materials for 
+a Circular Economy, J. de Brito, C. Thomas, C. Medina, F. Agrela (Eds.), Woodhead 
+Publishing, Cambridge, UK, 2021, p. 89-137. https://doi.org/10.1016/B978-0-12-820549-
+5.00011-5 
+[26] 
+S. G. Sara, European Journal of Mechanical Engineering Research 8(1) (2021) 1-9. 
+https://www.eajournals.org/wp-content/uploads/A-Review-of-the-Potential-of-Rice-Husk-
+RH-and-Periwinkle-Shell-PWS.pdf 
+[27] 
+N. Soltani, A. Bahrami, M. I. Pech-Canul, L. A. González, Chemical Engineering Journal 264 
+(2015) 899-935. https://doi.org/10.1016/j.cej.2014.11.056 
+[28] 
+B. Singh, in: Waste and supplementary cementitious materials in concrete: characterisation, 
+properties and applications, R. Siddique, P. Cachim (Eds.), Woodhead Publishing, 
+Cambridge, UK, 2018, p. 416-460. https://doi.org/10.1016/B978-0-08-102156-9.00013-4  
+[29] 
+S. K. S. Hossain, L. Mathur, P. K. Roy, Journal of Asian Ceramic Societies 6(4) (2018) 299-313. 
+https://doi.org/10.1080/21870764.2018.1539210 
+[30] 
+S. Zhang, Q. Zhang, S. Zhu, H. Zhang, X Liu, Energy Sources, Part A: Recovery, Utilization, 
+and Environmental Effects 43(3) (2021) 282-290. 
+https://doi.org/10.1080/15567036.2019.1624881 
+
+
+===== PAGE 11 =====
+
+V. N. K. S. K. Nersu et al. 
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+http://dx.doi.org/10.5599/jese.1310    
+461 
+[31] 
+H. Wang, D. Wu, J. Zhou, H. Ma, D. Xu, B, Qian, S. Tao, Z. Wang, BioResources 13(2) (2018) 
+4279-4289. https://ojs.cnr.ncsu.edu/index.php/BioRes/article/viewFile/BioRes_13_2_42
+79_Wang_Supercapacitor_Electrode/6076 
+[32] 
+Z. Chen, X. Wang, B. Xue, W. Li, Z. Ding, X. Yang, J. Qiu, Z. Wang, Carbon 161 (2020) 432-
+444. https://doi.org/10.1016/j.carbon.2020.01.088 
+[33] 
+A. Ganesan, R. Mukherjee, J. Raj, M. M. Shaijumon, Journal of Porous Materials 21(5) 
+(2014) 839-847. https://doi.org/10.1007/s10934-014-9833-4 
+[34] 
+X. He, P. Ling, M. Yu, X. Wang, X. Zhang, M. Zheng, Electrochimica Acta 105 (2013) 635-641. 
+https://doi.org/10.1016/j.electacta.2013.05.050 
+[35] 
+Y. Xiao, M. Zheng, X. Chen, H. Feng, H. Dong, H. Hu, Y. Liang, S.P. Jiang, Y. Liu, Chemistry 
+Select 2(22) (2017) 6438-6445. https://doi.org/10.1002/slct.201701275 
+[36] 
+W. Zhang, N. Lin, D. Liu, J. Xu, J. Sha, J. Yin, X. Tan, H. Yang, H. Lu, H. Lin, Energy 128 (2017) 
+618-625. https://doi.org/10.1016/j.energy.2017.04.065 
+[37] 
+Y. Guo, X. Chen, W. Liu, X. Wang, Y. Feng, Y. Li, L. Ma, B. Di, Y. Tian, Journal of Electronic 
+Materials 49(2) (2020) 1081-1089 https://doi.org/10.1007/s11664-019-07785-4 
+[38] 
+S. Singh Rajaputra, P. Nagalakshmi, A. Yerramilli, K. Naga Makesh, Journal of 
+Electrochemical Energy Conversion and Storage 18(4) (2021) 041008. https://doi.org/
+10.1115/1.4051143 
+[39] 
+S. Singh Rajaputra, P. Nagalakshmi, A. Yerramilli, K. Naga Makesh, Ionics 27(9) (2021) 4069-
+4082. https://doi.org/10.1007/s11581-021-04144-4 
+[40] 
+S. Singh Rajaputra, N. Pennada, A. Yerramilli, N. M. Kummara, Journal of Electrochemical 
+Science and Engineering 11(3) (2021) 197-207 https://doi.org/10.5599/jese.1031 
+[41] 
+M. K. Seliem, S. Komarneni, M. R. Abu Khadra, Microporous and Mesoporous Materials 224 
+(2016) 51-57. https://doi.org/10.1016/j.micromeso.2015.11.011 
+[42] 
+T. A. Tamanna, S. A. Belal, M. A. H. Shibly, A .N. Khan, Scientific Reports 11(1) (2021) 7622. 
+https://doi.org/10.1038/s41598-021-87128-8 
+[43] 
+Z. Emdadi, N. Asim, M. A. Yarmo, K. Sopian, International Journal of Chemical Engineering 
+and Applications 6(4) (2015) 273-276. http://dx.doi.org/10.7763/IJCEA.2015.V6.495 
+[44] 
+M. F. Zawrah, B. G. Alhogbi, Ceramics International 47(16) (2021) 23240-23248. 
+https://doi.org/10.1016/j.ceramint.2021.05.036 
+[45] 
+S. He, G. Chen, H. Xiao, G. Shi, C. Ruan, Y. Ma, H. Dai, B. Yuan, X. Chen, X. Yang, Journal of 
+Colloid and Interface Science 582 (Part A) (2021) 90-101. 
+https://doi.org/10.1016/j.jcis.2020.08.021 
+[46] 
+P. Araichimani, K. M. Prabu, G. S. Kumar, G. Karunakaran, S. Surendhiran, M. Shkir, 
+Research Square (2021) 1-9. https://doi.org/10.21203/rs.3.rs-1068714/v1  
+[47] 
+P. Okoczuk, M. Łapiński, T. Miruszewski, P. Kupracz, L. Wicikowski, Materials 14(9) (2021) 
+2158. https://doi.org/10.3390/ma14092158 
+[48] 
+T. Eguchi, D. Tashima, M. Fukuma, S. Kumagai, Journal of Cleaner Production 259 (2020) 
+120822. https://doi.org/10.1016/j.jclepro.2020.120822 
+[49] 
+N. F. T. Arifin, N. Yusof, N .A. H. Md Nordin, J. Jaafar, A. F. Ismail, F. Aziz, W. N. Wan Salleh, 
+International Journal of Hydrogen Energy 46(60) (2021) 31084-31095. https://doi.org/
+10.1016/j.ijhydene.2021.02.051 
+[50] 
+R. Asmatulu, W. S. Khan, R. J. Reddy, M. Ceylan, Polymer Composites 36(9) (2015) 1565-
+1573. https://doi.org/10.1002/pc.23063 
+[51] 
+S. T. Gunday, E. Cevik,, A. Yusuf, A. Bozkurt, Journal of Physics and Chemistry of Solids 137 
+(2020) 109209. https://doi.org/10.1016/j.jpcs.2019.109209  
+[52] 
+H. Yang, Z. Bo, J. Yan, K. Cen, International Journal of Heat and Mass Transfer 133 (2019) 
+416-425. https://doi.org/10.1016/j.ijheatmasstransfer.2018.12.134  
+
+
+----- TABLE p11#1 -----
+
+Y. | Guo, X. Chen, W. Liu, X. Wang, Y. Feng, Y. Li, L. Ma, B. Di, Y. Tian, Journal of Electronic | 
+Materials 49(2) (2020) 1081-1089 |  | https://doi.org/10.1007/s11664-019-07785-4
+
+----- TABLE p11#2 -----
+
+4082. | https://doi.org/10.1007/s11581-021-04144-4 | 
+S. Singh Rajaputra, N. Pennada, A. Yerramilli, N. M. Kummara, |  | Journal of Electrochemical
+Science and Engineering 11(3) (2021) 197-207 https://doi.org/10.5599/jese.1031 |  | 
+M. K. Seliem, S. Komarneni, M. R. Abu Khadra, Microporous and Mesoporous Materials 224 |  | 
+(2016) 51-57. https://doi.org/10.1016/j.micromeso.2015.11.011 |  | 
+T. A. Tamanna, S. A. Belal, M. A. H. Shibly, A .N. Khan, Scientific Reports 11(1) (2021) 7622 |  | 
+https://doi.org/10.1038/s41598-021-87128-8 |  | 
+Z. Emdadi, N. Asim, M. A. Yarmo, K. Sopian, International Journal of Chemical Engineering |  | 
+and Applications 6(4) (2015) 273-276. |  | 
+
+----- TABLE p11#3 -----
+
+P. Okoczuk, M. Łapiński, T. Miruszewski, P. Kupracz, L. Wicikowski, Materials 14(9) (2021) | 
+2158. | 
+T. | Eguchi, D. Tashima, M. Fukuma, S. Kumagai, Journal of Cleaner Production 259 (2020)
+120822. https://doi.org/10.1016/j.jclepro.2020.120822 | 
+N. F. T. | 
+
+----- TABLE p11#4 -----
+
+R. | Asmatulu, W. S. Khan, R. J. Reddy, M. Ceylan, Polymer Composites 36(9) (2015) 1565- | 
+1573. https://doi.org/10.1002/pc.23063 |  | 
+S. T. Gunday, E. Cevik,, A. Yusuf, A. Bozkurt, Journal of Physics and Chemistry of Solids 137 |  | 
+(2020) 109209. https://doi.org/10.1016/j.jpcs.2019.109209 |  | 
+
+===== PAGE 12 =====
+
+J. Electrochem. Sci. Eng. 12(3) (2022) 451-462 
+RICE HUSK CHAR AS MATERIAL FOR SUPERCAPACITORS 
+462 
+ 
+[53] 
+S. Alipoori, S. Mazinani, S. H. Aboutalebi, F. Sharif, Journal of Energy Storage 27 (2020) 
+101072. https://doi.org/10.1016/j.est.2019.101072 
+[54] 
+D. P. Dubal, N. R. Chodankar, D.-H. Kim, P.R. Gomez, Chemical Society Reviews 47 (2018) 
+2065-2129. https://doi.org/10.1039/C7CS00505A 
+[55] 
+H. Wang, H. Yi, X. Chen, X. Wang, Journal of Materials Chemistry A 2(9) (2014) 3223-3230. 
+https://doi.org/10.1039/C3TA15046A 
+[56] 
+E. Y. L. Teo, L. Muniandy, E.-P. Ng, F. Adam, A. R. Mohamed, R. Jose, K. F. Chong, 
+Electrochimica Acta 192 (2016) 110-119. https://doi.org/10.1016/j.electacta.2016.01.140 
+ 
+©2022 by the authors; licensee IAPC, Zagreb, Croatia. This article is an open-access article  
+distributed under the terms and conditions of the Creative Commons Attribution license  
+(https://creativecommons.org/licenses/by/4.0/) 

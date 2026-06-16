@@ -1,0 +1,926 @@
+
+===== PAGE 1 =====
+
+Citation:
+Ekolu, SO and Ahmed, A and Quainoo, HA and Solomon, F and Cabbage, O and Mqwebedu, SE
+and Mpinda, P and Faku, S (2025) Comparison of fly ash and rice husk ash effects on the mechanical
+properties of roller compacted concrete for pavements. Road Materials and Pavement Design, 27
+(2). pp. 366-382. ISSN 1468-0629 [Article] DOI: https://doi.org/10.1080/14680629.2025.2492144
+Link to Leeds Beckett Repository record:
+https://eprints.leedsbeckett.ac.uk/id/eprint/12816/
+Document Version:
+Article (Published Version)
+Creative Commons: Attribution-Noncommercial-No Derivative Works 4.0
+© 2025 The Author(s).
+The aim of the Leeds Beckett Repository is to provide open access to our research, as required by
+funder policies and permitted by publishers and copyright law.
+The Leeds Beckett repository holds a wide range of publications, each of which has been
+checked for copyright and the relevant embargo period has been applied by the Research Services
+team.
+We operate on a standard take-down policy.
+If you are the author or publisher of an output
+and you would like it removed from the repository, please contact us and we will investigate on a
+case-by-case basis.
+Each thesis in the repository has been cleared where necessary by the author for third party
+copyright. If you would like a thesis to be removed from the repository or believe there is an issue
+with copyright, please contact us on openaccess@leedsbeckett.ac.uk and we will investigate on a
+case-by-case basis.
+
+
+===== PAGE 2 =====
+
+Road Materials and Pavement Design
+ISSN: 1468-0629 (Print) 2164-7402 (Online) Journal homepage: www.tandfonline.com/journals/trmp20
+Comparison of ﬂy ash and rice husk ash eﬀects
+on the mechanical properties of roller compacted
+concrete for pavements
+S. O. Ekolu, A. Ahmed, H. A. Quainoo, F. Solomon, O. Cabbage, S. E.
+Mqwebedu, P. Mpinda & S. Faku
+To cite this article: S. O. Ekolu, A. Ahmed, H. A. Quainoo, F. Solomon, O. Cabbage, S. E.
+Mqwebedu, P. Mpinda & S. Faku (2026) Comparison of ﬂy ash and rice husk ash eﬀects on
+the mechanical properties of roller compacted concrete for pavements, Road Materials and
+Pavement Design, 27:2, 366-382, DOI: 10.1080/14680629.2025.2492144
+To link to this article:  https://doi.org/10.1080/14680629.2025.2492144
+© 2025 The Author(s). Published by Informa
+UK Limited, trading as Taylor & Francis
+Group.
+Published online: 22 Apr 2025.
+Submit your article to this journal 
+Article views: 1136
+View related articles 
+View Crossmark data
+Citing articles: 1 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=trmp20
+
+
+===== PAGE 3 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+2026, VOL. 27, NO. 2, 366–382
+https://doi.org/10.1080/14680629.2025.2492144
+Comparison of fly ash and rice husk ash effects on the mechanical
+properties of roller compacted concrete for pavements
+S. O. Ekolua, A. Ahmedb, H. A. Quainooc, F. Solomona, O. Cabbagea, S. E. Mqwebedua,
+P. Mpindaa and S. Fakua
+aDepartment of Civil Engineering, Nelson Mandela University, Port Elizabeth, South Africa; bSchool of Built
+Environment, Engineering and Computing, Civil Engineering Research Group, Leeds Beckett University, Leeds, UK;
+cDepartment of Civil Engineering Science, University of Johannesburg, Johannesburg, South Africa
+ABSTRACT
+Laboratory investigation was conducted focused on the utilisation of waste
+materials comprising Class F fly ash (FA) and rice husk ash (RHA), in roller
+compacted concrete (RCC) for pavement applications. The mixtures of RCC
+comprised CEM I 52.5 N Portland cement containing 0%, 5%, 10%, 20%
+and 30% wt FA or RHA. Various aggregate characteristics were measured
+to determine their suitability for road applications. Compaction tests were
+done to obtain values of optimum moisture content for RCC mixtures. The
+mechanical properties investigated comprised compressive strength, static
+modulus of elasticity, dynamic modulus of elasticity and ultrasonic pulse
+velocity. Results showed that proportions of up to 5–10% wt RHA or FA
+were optimal and can be recommended for incorporation in RCC pavement
+mixtures. Standard models giving the relationships between compressive
+strength,staticanddynamicelasticmoduliofnormalconcretes,werefound
+to be also applicable to RCCs.
+ARTICLE HISTORY
+Received 25 March 2024
+Accepted 4 April 2025
+KEYWORDS
+Roller compacted concrete;
+pavements; compressive and
+tensile strength; static and
+dynamic elastic modulus;
+ultrasonic pulse velocity
+1. Introduction
+Over the years, roller compacted concrete (RCC) has gained wide acceptance as a viable construc-
+tion material used in mass concrete applications, especially dam construction and roadworks. RCC is
+generally similar to normal or conventional concrete except for its zero – slump mixture typically pre-
+paredathigherfineaggregatecontent,alongwithlowercementandwatercontents.Accordingly,RCC
+is a stiff mixture suitable for pavement construction, wherein compaction is done using the asphalt
+roller compactor, hence the use of the name ‘roller compacted’. Typically, RCC is capable of carrying
+lightvehiculartrafficimmediatelyafterpavementplacement.Unlikeconventionalconcreteroads,RCC
+pavements do not involve the embedment of steel reinforcement; however, they are generally dense,
+durable and strong with high load-bearing capacity (Hafez et al., 2023; Harrington et al., 2010). The
+total aggregate content of RCC pavement mixtures is typically higher, being in the range of 75–85% by
+volume compared to 60–75% by volume for normal concrete pavements (ACI, 1995; Harrington et al.,
+2010). Construction of RCC pavements does not involve the installation of joints, formwork, dowels
+or steel reinforcement, which simplifies practical works, making the application fast and economical
+(Harrington et al., 2010).
+CONTACT F. Solomon
+ﬁtsummoa@gmail.com
+© 2025 The Author(s). Published by Informa UK Limited, trading as Taylor & Francis Group.
+This is an Open Access article distributed under the terms of the Creative Commons Attribution-NonCommercial-NoDerivatives License
+(http://creativecommons.org/licenses/by-nc-nd/4.0/), which permits non-commercial re-use, distribution, and reproduction in any medium, provided
+the original work is properly cited, and is not altered, transformed, or built upon in any way. The terms on which this article has been published allow
+the posting of the Accepted Manuscript in a repository by the author(s) or with their consent.
+
+
+===== PAGE 4 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+367
+RCC was reportedly first used in the 1930s for the construction of low-traffic roads in Sweden. In
+the 1940s and 1980s, RCC was used for the construction of airport runways and military facilities in the
+USA, respectively. This pavement technology has presently gained worldwide acceptance for use in
+highway engineering and heavy-duty and light industrial applications (FHWA, 2016; Harrington et al.,
+2010). Accordingly, RCC has been used to construct parking or storage areas for heavily loaded trucks
+and aircraft, and to construct runways in airports, highway shoulders and local streets, amongst others
+(ACPA, 2014). Such RCC applications have been implemented in various countries including the USA,
+UK and South Africa, amongst others (CSRA, 1987; Du Plessis et al., 2014; FHWA, 2016; UK Government,
+2021).
+This study focused on the utilisation of fly ash (FA) and rice husk ash (RHA) in RCC. Both materials are
+waste by– products and their utilisation in concrete has several engineering and environmental ben-
+efits, along with cost reduction. These pozzolanic materials react with the calcium hydroxide product
+arising from cement hydration, to form secondary calcium – silicate – hydrate (C-S-H), thereby reduc-
+ing permeability and improving durability, generally. Their pore–infilling effect also promotes the
+formation of denser microstructure, thereby enhancing mechanical properties (Fulton’s, 2001; Neville,
+1996).
+It may be recalled that pozzolanic materials, including FA, RHA, ground granulated blast – furnace
+slag (GGBS), silica fume (SF) and others, are already specified in cement standards (EN 197-1, 2000) for
+incorporation as supplementary cementitious materials (SCMs). It is also well – established that the
+production of Portland cement is responsible for 5–8% CO2 emissions into the atmosphere. As such,
+incorporation of SCMs into concrete mixtures contributes to the environmental benefit of reducing
+CO2 emissions. Besides, SCMs are known to generally improve the durability properties of concretes
+(Fulton’s, 2001; Naghizadeh & Ekolu, 2017; Neville, 1996).
+1.1. Roller compacted concrete for pavements
+1.1.1. Specifications
+The UK national standards for highways, for example, have developed a design chart for estimating
+the concrete thickness layer of RCC pavements (National Highways UK, 2021). For quality control, the
+minimum compressive strength of 50 or 5 MPa minimum flexural strength, is specified as the basis
+for layer thickness design (UK Government, 2021). According to CSRA specification for concrete roads,
+a minimum 28–day compressive strength of 38 MPa or corresponding flexural strength of 3.8 MPa,
+is considered adequate to provide sufficient load-bearing capacity and abrasion resistance (CSRA,
+1987). Generally, the 28–day compressive strength of 28–41 MPa, along with flexural strength values
+of 3.5–7 MPa are typically used or specified. It is suggested in the literature that high-performing RCC
+pavements should typically attain compressive and flexural strengths of 40 and 4.5 MPa, respectively
+(Rambabu et al., 2023; Selvam et al., 2022). RCC pavement construction works can be fully opened to
+normal traffic, upon attaining a minimum compressive strength of 13.8–17.2 MPa (Harrington et al.,
+2010).
+1.1.2. Mixture design
+RCC mixtures differ widely from those of conventional concrete. The sand content of normal concrete
+mixtures is usually 35–50%, being typically lower than stone content. In contrast, RCC mixtures usually
+have higher sand content of about 50–55%, while stone content can be below 40%. As mentioned
+earlier, the binder content of RCC mixtures is also lower than that of normal concretes. The mini-
+mum cementitious content for RCC pavements is typically 250 kg/m3 or 10%, whereas that of normal
+concretes is higher, being typically in the range of 10–15% (FHWA, 2016; Harrington et al., 2010; Ram-
+babu et al., 2023). Interestingly, studies have also been done to investigate RCC mixtures of very low
+80–160 kg/m3 cementitious content (Villena et al., 2011). Another crucial mix design aspect that dis-
+tinguishes RCC from normal concrete, is water content. For normal concrete, water content is a major
+variable that is adjusted in mix design along with cement content, to obtain the required workability
+
+
+===== PAGE 5 =====
+
+368
+S. O. EKOLU ET AL.
+and concrete strength. In contrast, the amount of water used in RCC mixtures is not prescribed in a
+similar manner as it is done for normal concrete. Rather, the water content used in RCC mixtures is a
+fixed quantity determined as the optimum moisture content (OMC) based on the moisture–density
+relationship obtained using the soil–compaction approach (ASTM D1557, 2012). During construction,
+it is desirable for the pavement to develop enhanced early–age strength or load-bearing capacity,
+which subsequently allows early opening of the road to traffic. Accordingly, RCC mixtures are typically
+made with continuously – graded combined aggregate, which promotes interlocking of aggregate
+particles of different size fractions (FHWA, 2016). Being zero – slump mixtures, the workability of RCCs
+is more fittingly considered as consistency and is measured using the Vebe test method (ASTM C1170,
+2008). Otherwise, most other mechanical properties of RCC including compressive strength, splitting
+tensile strength, modulus of elasticity and others, are measured in a manner similar to those of normal
+concrete.
+1.2. Roller-compacted concrete containing fly ash or rice husk ash
+1.2.1. Influence of fly ash
+Most desirable engineering properties of RCC pavements are similar to those of conventional con-
+crete pavements including, fresh concrete properties, mechanical properties such as compressive
+strength, splitting tensile strength, flexural strength, modulus of elasticity, abrasion resistance, fatigue
+behaviour, bond strength and durability – related properties including porosity, water absorption,
+alkali-silica reaction, amongst others (ACI, 1995; Hafez et al., 2023; Selvam et al., 2022; Tayabji & Okam-
+moto, 1987). It is known from various literatures that incorporation of FA into mixtures positively
+impacts RCC properties (Hafez et al., 2023; Mohamad et al., 2024; Solikin et al., 2025).
+Rao et al. (2015; 2016) incorporated proportions of 0%, 20%, 40% and 60% FA into RCC mixtures
+made at 295 kg/m3 cementitious content. They reported that OMC increased with a rise in FA content,
+from 5.7% for the control to 7.1% for the mixture containing 60% FA, while compressive, flexural and
+splitting tensile strength values decreased correspondingly.
+In the investigation conducted by Mardani-Aghabaglou and Ramyar (2013), proportions compris-
+ing 0%, 20%, 40% and 60% FA were incorporated as partial replacements of cement or fine aggregate.
+The cementitious content of 250 kg/m3 was used in all mixtures. They reported that partial replace-
+ment of cement with FA led to a decrease in compressive, flexural and splitting tensile strength results.
+In contrast, the opposite effect was observed for RCC wherein fine aggregate was replaced with FA as
+these mixtures exhibited increases in mechanical properties with a rise in the content of the SCM.
+Their findings are consistent with those reported by Seav et al. (2023) showing that incorporation of
+0%, 25%, 50% and 100% bottom ash as sand replacement, led to an increase in compressive and flex-
+ural strength values of the mixtures. Cao et al. (2000) also reported that while RCC mixtures containing
+up to 55% FA as sand replacement initially showed lower strength, the results exhibited greater late
+strength gain which at 90 days exceeded that of the control.
+1.2.2. Influence of rice husk ash
+Rice is an important and popular food staple worldwide, more so in populous developing countries
+including China, India and Indonesia, amongst others. As such, rice production volume worldwide is
+exorbitant, having recently reached about 787 million tonnes per year (FAO, 2022). Each tonne of
+rice produces 20% raw husk and 4% RHA as agricultural waste material (Mehta, 1992; Villena et al.,
+2011). However, very limited research presently exists on the potential use of RHA in RCC. More-
+over, it is necessary to distinguish between the use of RHA for partial cement replacement versus its
+use as sand replacement material. Research studies show that incorporation of RHA as fine aggre-
+gate in RCC typically increases compressive strength (Meghwar et al., 2024). Such a study by Villena
+et al. (2011) found 5–7% RHA to be the optimum proportion for the use of the SCM as sand replace-
+ment material in RCC. Vahidi et al. (2017) reported that the use of 9% RHA as cement replacement
+material gave optimum compressive strength, but results decreased at SCM proportions above 15%
+
+
+===== PAGE 6 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+369
+RHA (Aghaeipour & Madhkhan, 2020). Similar observations, as discussed in the foregoing, have been
+reported regarding the use of RHA as cement replacement material in normal concrete, wherein pro-
+portions of 7.5–10% RHA reportedly gave optimum strength and durability performance, depending
+on cementitious content (Ahmed et al., 2020; Ahmed & Kamau, 2017; Kamau et al., 2018).
+In an investigation by Modarres and Hosseini (2014), proportions of 3–5% RHA were incorporated
+as cement replacement material in RCC. Their results showed an increase in OMC and a reduction of
+MDD owing to the use of RHA. Panpipat and Cheerarot (2022) incorporated 0%, 10%, 20% and 30%
+RHA as cement replacement material in RCC mixtures made at 10%, 12% and 14% binder content.
+They reported that RCC mixtures containing up to 10% RHA gave similar compressive strength values
+as the control, but at higher proportions of the SCM, strength decreased correspondingly. Ahmed et al.
+(2020) reported similar observations, as in the foregoing, showing that RCC mixtures containing up to
+10% wt RHA gave pavement concrete strength that was similar to or higher than that of the control
+mixture.
+1.3. Objectives and research significance
+The objectives of the present study were to investigate the performance responses of RCC mixtures
+containing FA which is a by–product from coal–power stations, along with those containing RHA
+which is an agricultural waste material. In the present investigation, RCC mixtures were prepared
+using CEM I 52.5N Portland cement containing 0–30% wt FA or RHA. Various material characteristics
+of aggregates were measured including relative density, water absorption, particle size distribution,
+Aggregate Crushing Value (ACV) and Los Angeles Abrasion (LAA). The mechanical properties of RCC
+mixtures measured comprised:- compressive strength development, splitting tensile strength, ultra-
+sonic pulse velocity (UPV) and static and dynamic moduli of elasticity. As an additional objective,
+the standard relationship models for the foregoing mechanical properties of normal concretes were
+evaluated for potential applicability to RCCs.
+The practical significance of this research is related to the engineering and environmental benefits
+of utilising RHA and FA in RCC mixtures, along with a reduction in the cost of pavement construction.
+Presently, RCC pavement construction is hardly or not at all employed in most developing countries.
+It is, however, well – established that RCC is an economical material system that allows fast pavement
+construction and could contribute beneficially to engineering applications. It is also essential to con-
+sider that bituminous mixtures are presently the dominant pavement construction material in most
+developing countries. As such, employment of RCC for pavement construction not only reduces fossil
+fuel consumption since bitumen is a by-product of petroleum, but it would also increase the utilisation
+of waste materials such as FA and RHA, thereby promoting sustainability.
+2. Experimental programme
+2.1. Materials
+The cementitious materials used to prepare RCC mixtures were CEM I 52.5 N Portland cement supplied
+by Pretoria Portland Cement (PPC) (Pty) Ltd, along with FA obtained from Eskom SOC Ltd. The RHA
+used was supplied by E-coco Products UK as part of an ongoing international collaboration with Leeds
+Beckett University. Table 1 shows the chemical compositions of the various cementitious materials, as
+determined using X-ray fluorescence analysis. It can be seen that RHA contained predominantly SiO2,
+hence its composition was similar to that of SF, while FA was clearly an aluminosilicate material. It can
+thus be expected that the two SCMs comprising FA and RHA, would exhibit different effects on RCC
+performance.
+The aggregate grading requirements for RCC pavement construction are different from those of its
+use for dam construction. For RCC pavement construction, the crucial aggregate grading requirement
+specified by the US Army Corps of Engineers (Fulton’s, 2001; USCORPS, 1988) is 18–36% passing the
+
+
+===== PAGE 7 =====
+
+370
+S. O. EKOLU ET AL.
+Table 1. Chemical compositions of the cementitious materials used.
+Composition
+Portland cementCEM I 52.5 N
+Fly ash(FA)
+Rice Husk Ash(RHA)
+Oxides and ignition loss (%)
+SiO2
+20.57
+56.45
+89.20
+Al2O3
+4.49
+30.27
+0.37
+Fe2O3
+3.07
+3.58
+0.60
+MgO
+1.11
+1.06
+1.53
+CaO
+64.47
+4.59
+0.73
+TiO2
+0.53
+1.57
+0.03
+P2O5
+0.08
+0.38
+1.08
+Na2O
+0.05
+0.14
+0.10
+K2O
+0.32
+0.77
+1.71
+LOIa
+4.04
+0.42
+3.88
+Density
+Relative density
+3.14
+2.24
+1.12
+aLOI: Loss on ignition.
+Figure 1. Grading of aggregate (Fulton’s, 2001; USCORPS, 1988).
+0.60 mm sieve, which is consistent with that of continuously graded aggregate to promote interlock-
+ing, compared to the higher percentages of 40–60% for gap graded aggregate of normal concrete. The
+aggregate used in the present investigation was 19 mm quartzite stone and quartzite crusher sand,
+giving the combined grading shown in Figure 1. Also plotted in the figure are the upper and lower
+grading limits specified by the US Corps of Engineers (Fulton’s, 2001; USCORPS, 1988).
+The aggregate employed in the present study was also evaluated to determine its suitability for
+use in pavement construction. Accordingly, material characteristics of the aggregate were measured
+including relative density, water absorption, ACV and LAA. The density and water absorption values of
+stone were tested in accordance with SANS 3001 – AG20 (2014), while those for sand were measured
+as per AASHTO T84 (2013). The ACV and LAA tests were done in accordance with SANS 5841 (2008)
+and SANS 5846 (2006), respectively. Table 2 gives the measured physical properties of the aggregate. It
+can be seen that both the sand and stone, were good quality aggregate meeting the various specified
+requirements. For example, the low values of ACV = 17.0% and LAA = 23.8% measured for stone, are
+within the respective maximum limits of 29% and 25%, generally recognised for the use of aggregate
+in road construction (Stålheim, 2014; Tan et al., 2022).
+2.2. Mixtures and methods
+The SCMs used were incorporated into CEM I 52.5N cement at proportions of 0%, 10%, 20% and 30% wt
+FA or RHA. These proportions of the SCMs were chosen considering findings from the various literature
+
+
+===== PAGE 8 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+371
+Table 2. Physical properties of aggregate.
+Aggregate
+Property
+Measured value
+Limit for use in wearing course (%)
+Sand
+Relative density (RD)
+2.58
+Water absorption (WA), %
+1.09
+Stone
+Relative density (RD)
+2.65
+Water absorption (WA), %
+0.85
+2
+Aggregate Crushing Value (ACV), %
+17.0
+29
+Los Angeles Abrasion (LAA), %
+23.8
+25
+Table 3. Mixtures of roller-compacted concrete containing ﬂy ash (FA) or rice husk ash (RHA).
+Proportions
+Quantities of ingredients (kg/m3)
+Sample ID
+FA (%)
+RHA (%)
+CEM I 52.5N
+FA
+RHA
+Water
+19 mm stone
+Crusher sand
+0FA
+0
+–
+201
+0
+0
+152
+960
+1100
+5FA
+5
+–
+191
+10
+152
+960
+1100
+10FA
+10
+–
+181
+20
+152
+960
+1100
+20 FA
+20
+–
+161
+40
+152
+960
+1100
+30 FA
+30
+141
+60
+152
+960
+1100
+5RHA
+–
+5
+191
+10
+152
+960
+1100
+10RHA
+–
+10
+181
+20
+152
+960
+1100
+20RHA
+–
+20
+161
+40
+152
+960
+1100
+30RHA
+–
+30
+60
+152
+960
+1100
+discussed in Section 1.2. The cementitious content of RCC mixtures was 201 kg/m3 or 8.6%, while water
+content of each mixture was determined using the soil-based compaction approach employed in the
+standard methods (ASTM D1557, 2012; BS, 1377-4, 1990; SANS, 3001-GR30, 2015). The soil compaction
+method is the most widely adopted mixture proportioning approach for RCC pavements. The other
+proportioning methods, comprising the Concrete Consistency Method, Solid Suspension Model and
+Optimal Paste Volume Method, are typically employed to design RCC mixtures for non–pavement
+applications such as dam construction. To carry out the compaction test, the water content added to
+each RCC mixture was varied to 4.5%, 5.5%, 6.5%, 7.5% and 8.5% of the total mass. The water content
+interval of 1.0%, as well as the lower and uppermost values employed, were determined by trial and
+error based on the behaviours of the RCC mixtures. During casting, cylindrical moulds of size 142.4 dia.
+x 116.4 mm height were each filled in three layers, each layer being subjected to 55 blows using the
+4.5 kg proctor hammer. The results obtained were plotted to determine the compaction curve giving
+the moisture–density relationship of each mixture. The OMC results obtained from compaction curves
+were subsequently used as water content values of the RCC mixtures.
+Table 3 gives the various RCC mixtures that were prepared. A 50 L concrete pan mixer was used for
+mixing, into which dry materials were added and then mixed for one minute. With the mixer running,
+water was added slowly over one minute, and then mixing was continued for further two minutes.
+Nineteen (19) cubes of 100 mm size and three (3) large cylinder samples, were cast per mixture.
+The samples were cast and then cured in water at room temperature of 23°C, until testing at various
+ages (ASTM C192, 2019; SANS, 5861-3, 2006; SANS, 5861-1 2006). Compressive strength was measured
+at the various ages of 3, 7, 28 and 120 days, as per SANS 5863 (2006) and BS 1881–116 (1983). The
+28–day splitting tensile strength was also measured by testing 100 mm cube samples (GB/T, 50081,
+2019). Also cast were the large 150 dia x 300 mm cylinders used to measure ultrasonic pulse velocity
+(UPV) (ASTM C597, 2022) and static modulus of elasticity (Ec) (ASTM C469, 2002). Figure 2 shows the
+various experimental test set-ups. Equation (1) was used to calculate the dynamic modulus of elasticity
+(Ed) from UPV results. The various foregoing tests are standard methods which collectively provide
+a comprehensive evaluation of mechanical properties. The experimental programme conducted is
+
+
+===== PAGE 9 =====
+
+372
+S. O. EKOLU ET AL.
+Figure 2. Experimental set-ups showing testing of (a,b) compressive strength, (c) UPV and (d) static elastic modulus.
+shown in the flow chart given in Figure 3, which also includes the different standard test methods used.
+Ed = ρ(UPV)2(1 + μ)(1 −2μ)
+1 −μ
+(1)
+where Ed is the dynamic modulus of elasticity, ρ is the density of concrete (kN/m3), UPV is the ultrasonic
+pulse velocity (km/s), μ is poison’s ratio assumed to be 0.2.
+3. Results and discussion
+3.1. Optimum moisture content results
+Figure 4(a,b) shows the compaction curves of RCC mixtures, giving the variation in dry density with a
+rise in moisture content from 4.5% to 8.5%, under the influence of different FA or RHA proportions. The
+OMC of the control mixture was 6.5%. It can be seen in Figure 4(a) that although the curve profiles were
+different, the OMC value for MDD was consistently 6.5% regardless of FA proportion, implying that the
+SCM had no significant influence on the water content of the RCC mixtures. However, the influence
+of RHA was somehow different from that of FA. Figure 4(b) shows that at lower proportions of up to
+10% wt RHA, the SCM had no significant effect on OMC, instead it maintained 6.5% water content. But
+at 20% and 30% wt RHA, the OMC shifted to the higher water content of 7.5%, implying that the use of
+higher proportions of the SCM led to an increase in water demand of the RCC mixtures. Similar findings
+
+
+===== PAGE 10 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+373
+Figure 3. Experimental programme: FA – ﬂy ash, RHA – rice husk ash, OMC – optimum moisture content, MDD – maximum dry
+density, MoE – static modulus of elasticity and UPV – ultrasonic pulse velocity.
+Figure 4. Moisture–dry density relationships as inﬂuenced by (a) ﬂy ash (FA) and (b) rice husk ash (RHA).
+were reported by Jain et al. (2021), wherein RHA was incorporated in normal concrete. It may be noted
+that the density of RHA is much lower than that of cement or FA (Table 1), hence mixtures containing
+this SCM had a higher paste volume and higher water absorption, thereby reducing workability. Also at
+higher RHA proportions, less water is available for cement hydration, which increases the coarseness
+of the microstructure. However, RHA’s pore–filling effect can be an overriding factor leading to the
+formation of dense microstructure, reduced porosity or permeability and overall improved durability
+(Modarres & Hosseini, 2014).
+3.2. Compressive strength results
+Shown in Figure 5(a,b) are the strength effects of FA and RHA on RCC. In both cases, compressive
+strength generally decreased with a rise in the proportion of the SCM incorporated, as expected.
+
+
+===== PAGE 11 =====
+
+374
+S. O. EKOLU ET AL.
+Figure 5. Compressive strength of RCC mixtures containing (a) ﬂy ash (FA) and (b) rice husk ash (RHA).
+However, significant differences can be seen between the effects of FA and those of RHA. It is
+evident that the 5–10% wt FA mixtures showed up to 13.6% reduction of early age 7 – day com-
+pressive strength, beyond which the mixtures showed late strength gains that caught up to give
+similar long–term values as those of the control. In contrast, the 5–10% wt RHA mixtures significantly
+enhanced early–age 7 – day compressive strength exhibiting up to a 6.4% increase, but gave reduced
+long–term strength relative to that of the control. The tendency exhibited by FA is typical of pozzolans
+that possess significant quantities of both silica and alumina, being usually within the range of 12–40%
+SiO2 and 30–60% Al2O4. Such SCMs comprise natural pozzolans including volcanic ash, metakaolin,
+zeolite or artificial pozzolans such as FA, GGBS and others (Ekolu et al., 2006; Naghizadeh & Ekolu, 2017;
+Sinngu et al., 2022; 2023).
+Meanwhile, silica–rich SCMs tend to be more effective in enhancing early strength but do not
+exhibit a significant effect on long–term strength growth. Among conventional SCMs of this cate-
+gory is SF, which is known for enhancing early strength, especially for high-strength concretes. SF
+typically contains > 90% SiO2 content, and is usually incorporated into concrete at low proportions
+of about 5–15% wt (Fulton’s, 2001; Nochaiya et al., 2010). Similarly, the RHA used in the present study
+was a silica–rich pozzolan containing a high 89.2% SiO2 content (Table 1), which underscores its early
+– strength-enhancing effect on RCC, as seen for the 5–10% wt RHA mixtures (Figure 5(b)).
+Figure 6 compares the compressive strengths of RCC mixtures containing FA versus those contain-
+ing RHA. It can be seen that the strength values of 5–10% wt RHA mixtures, were generally similar to
+those of corresponding FA mixtures. But upon a rise in SCM proportions to higher levels of 20–30% wt,
+the performance of RHA mixtures significantly diminished to levels lower than those of the corre-
+sponding FA mixtures. Indeed, strength values of the 20% and 30% wt RHA mixtures were respectively
+13–30% and 44–50% lower than those of the corresponding FA mixtures. This observation can be
+partly attributed to the lower relative density of RHA. Thus at higher SCM proportions, the paste vol-
+ume of mixtures containing RHA was much higher than that of the control. Furthermore at higher SCM
+content, once the calcium hydroxide arising from cement hydration has been depleted due to poz-
+zolanic reaction, the unreacted pozzolanic material has minimal (sometimes adverse) contribution to
+strength, merely fulfilling the role of a filler (Ahmed et al., 2020).
+It is evident from the foregoing observations that, the potential use of RHA in RCC mixtures is most
+effective at proportions not exceeding 10% wt. This finding is consistent with those in the various lit-
+erature reporting 5–10% wt RHA to be the optimum proportions for the use of the SCM in normal
+concretes (Amran et al., 2021; Bhowmik & Pal, 2023; Fitriani et al., 2022). Evidently, RCC mixtures con-
+taining 10% FA and 10% RHA gave 28–day compressive strengths of 27.3 and 28 MPa respectively,
+
+
+===== PAGE 12 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+375
+Figure 6. Comparisonof3–dayand28–daycompressivestrengthsofRCCmixturescontainingﬂyash(FA)versusthosecontaining
+rice husk ash (RHA).
+which generally meet the required 28–41 MPa typical values specified for RCC pavement mixtures
+(Section 1.1.1).
+3.3. Splitting tensile strength results
+Figure 7 shows the 28–day splitting tensile strength results of RCC mixtures containing FA and RHA.
+Evidently, the tensile strength values of both pozzolans reduced with a rise in SCM content, as similarly
+seen for compressive strength results (Figure 5). Interestingly, the reductions in tensile strength results
+of FA mixtures were consistently within 16–23% regardless of the SCM proportion. In contrast, RHA
+mixtures exhibited a steady decline in tensile strength values with a rise in SCM proportion from 0% to
+30% wt. A drastic drop in tensile strength results occurred at the higher proportions of 20–30% wt RHA,
+giving reductions of 50–60%. These observations indicate the absence of significant late strength gain
+in RCC mixtures containing RHA, whereas the mixtures containing FA exhibited long–term strength
+growth attributed to pozzolanic reaction, thereby attaining significant tensile strength values even
+at higher proportions of the SCM (Figure 7). It is well – established that SCMs densify the interfacial
+transition zone (ITZ), a relatively porous and weak microstructural aggregate–paste interface typically
+prone to crack initiation during concrete failure (Nduka et al., 2022). The splitting tensile strength val-
+ues of mixtures containing up to 10% wt FA or 10% wt RHA, were all between 2.0 and 2.5 MPa. But at
+higher proportions above 10% wt, the FA mixtures maintained similar splitting tensile strength val-
+ues averaging about 2.3 MPa, while the corresponding values for RHA mixtures reduced markedly to
+about 1.3 MPa. The foregoing contrasting observations can be attributed to different effects of FA and
+RHA on ITZ densification, owing to C-S-H formation in mixtures containing the SCMs (Meenakshi et al.,
+2019; Nduka et al., 2022; Sadrmomtazi et al., 2018). Expectedly, the localised effect of ITZ densification
+due to the pozzolanic reaction, enhances tensile strength more significantly while showing little to
+no impact on compressive strength. The excessive paste volume of mixtures containing higher pro-
+portions comprising 20–30% wt RHA, may be responsible for the observed drastic reduction in tensile
+strengths of the mixtures.
+As typical of concretes generally, a correlation between compressive strength and tensile strength
+values of the RCC mixtures can be seen in Figure 8. While a direct and strong correlation is evident
+for RHA mixtures, the trend for FA mixtures seemed distorted most likely due to the ITZ densification
+effect that does not enhance compressive strength to the same extent at which it increases tensile
+
+
+===== PAGE 13 =====
+
+376
+S. O. EKOLU ET AL.
+Figure 7. The 28 – day-splitting tensile strength results of RCC mixtures containing ﬂy ash (FA) or rice husk ash (RHA).
+Figure 8. Correlation between splitting tensile strength and compressive strength results of RCC mixtures.
+strength. Interestingly, the tensile strength values of FA and RHA mixtures were all between 7% and
+9% of their corresponding compressive strengths. In contrast, tensile strengths of normal concrete are
+typically 10–12% of their counterpart compressive strengths. However, the splitting tensile strength
+results reported in the present study were obtained from testing 100 mm cubes as per GB/T 50081
+(2019), rather than standard testing of 150 dia. x 300 mm height cylinders (ASTM C496, 2004).
+For normal concretes, it is known that the splitting tensile strengths obtained from cubes are
+10–15% higher than those obtained from the standard cylinder tests (Zabihi, 2012). However, these
+conversions are not standardised and were, therefore, not implemented in the present study. More-
+over, to the best knowledge of the authors, no similar conversions or correlations have been estab-
+lished for RCC. For this reason, no attempt was made in this study to derive a mathematical relationship
+between the two parameters. Further research is underway to compare the splitting tensile strengths
+
+
+===== PAGE 14 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+377
+Figure 9. Static modulus of elasticity (Ec) results showing (a) eﬀects of ﬂy ash (FA) or rice husk ash (RHA) and (b) correlation with
+compressive strength.
+of RCC mixtures, relating the results obtained from cubes versus those determined using the standard
+cylinders.Forpracticalpurposes,tensilestrengthistypicallynotemployedasadesigncriterion.Rather,
+the specification of strength requirements for the design of RCC pavements is based on compressive
+strength and flexural strength, as earlier discussed in Section 1.1.1.
+3.4. Static modulus of elasticity
+It may be recalled that Ec values and compressive strengths of the RCC mixtures were determined from
+tests done on 150 dia x 300 mm cylinders and 100 mm cube samples, respectively (Section 2.2). The
+effects of FA or RHA on Ec values are shown in Figure 9(a). It can be seen that RCC mixtures containing
+up to 30% FA showed no Ec reduction, as similarly observed for mixtures containing up to 20% RHA. An
+adverse effect on Ec was observed only in the mixture containing the higher SCM content of 30% RHA.
+The foregoing observations confirm the findings from strength results (Sections 3.2 and 3.3), which
+also showed the same trends of the SCM effects.
+Figure 9(b) shows the correlation between compressive strength and Ec, which gives the typical
+curvilinear relationship, as also reported in the literature (Rahmani et al., 2020). It is well–established
+that there is no single unique equation between Ec and compressive strength that applies to all
+concretes, as aggregates significantly influence the strength – Ec relationship. However, there are
+generalised standard strength – Ec models recommended for estimating Ec for use in design. Equa-
+tions (2)–(4) give the standard strength – Ec models for normal concretes, as recommended in ACI
+318 (1999), BS 8110 (1997) and Fulton’s (2001), respectively. In the present study, these standard mod-
+els were evaluated to determine their potential applicability to employ for RCCs. Included in Figure
+9(b) are plots of data giving the estimated Ec values calculated using the models. It can be seen that
+the models gave reasonable estimates of Ec values of RCC mixtures, especially at lower strengths
+≤25 MPa. At strength values exceeding 30 MPa, however, the models seemed to underestimate the
+Ec values of RCC mixtures.
+Ec = 0.043[ρ3.fc]1/2
+(2)
+where ρ is the density (kg/m3) and fc is the cylinder strength (MPa). In the present study, cube strength
+was taken as fcu = 1.25 fc.
+Ec,28 = Ko + 0.2fc28
+(3)
+
+
+===== PAGE 15 =====
+
+378
+S. O. EKOLU ET AL.
+Figure 10. Ultrasonic pulse velocity (UPV) of RCC mixtures showing (a) eﬀects of ﬂy ash (FA) or rice husk ash (RHA) and (b)
+correlation between compressive strength versus UPV.
+where Ko is 20 (GPa) for normal concrete and fc28 is the 28 – day cube strength (MPa).
+Ec,28 = Ko + afc28
+(4)
+where Ko is the aggregate stiffness factor, α is the coefficient (GPa/MPa) and fc28 is the 28 – day cube
+strength (MPa). The assumed values, Ko = 0.23 and a = 0.25, were selected being unique to the South
+African quartzite aggregate type used (Section 2.1; Fulton’s, 2001).
+3.5. Ultrasonic pulse velocity and dynamic modulus of elasticity
+UPV measurements indicate the general quality of the interior concrete. The presence of voids, cracks
+and other defects or flaws that undermine concrete properties, impact UPV values which in turn cap-
+ture these adverse effects to indicate overall quality. UPV values above 3000 m/s are considered to
+be of satisfactory quality, with higher values exceeding 3500 and above 4000 m/s indicating good
+to excellent quality. Values below 3000 m/s show a loss of integrity and accordingly indicate poor
+concrete quality (Neville, 1996).
+Figure 10(a) shows the effects of FA and RHA on UPV results. The UPV value of the control was
+4485 m/s, while the 5–30% FA mixtures gave UPV results that were between 4396 and 4485 m/s all
+of which indicate excellent quality. The 5–30% RHA mixtures also gave UPV values of 4162–4388 m/s,
+being of excellent quality. However, there was an interesting difference between the effects of FA and
+those of RHA. It can be seen in Figure 10(a) that FA mixtures showed no significant decrease in UPV val-
+ues for all the mixture proportions. In contrast, the RCC mixtures containing 5–10% RHA also showed
+no significant UPV reductions, but at the higher proportions of 20–30% RHA, the values significantly
+decreased with a rise in SCM content. The foregoing observations are consistent with findings from
+strength results, showing that 5–10% RHA mixtures exhibited optimal performance (Section 3.2).
+Figures 10(b) and 11(a) show relationships between UPV, compressive strength and dynamic mod-
+uli results based on measured data of the various RCC mixtures. Meanwhile, Figure 11(b) compares the
+estimated MoE determined from UPV results versus measured values. It can be seen in Figure 10(b)
+that UPV values increased with a rise in compressive strength, exhibiting an exponential relationship,
+as similarly reported in the literature (Rahmani et al., 2020). Figure 11(a) shows that the strength – Ed
+correlation is of the same trend as the strength – Ec relationship (Figure 9b). However, Ed values are
+typically higher than Ec values, an observation attributed to the absence of creep and load effects on
+the former. Equation (5) gives the standard relationship between Ec and Ed values of normal concretes
+(Fulton’s, 2001; SANS, 10100-1, 2000). A plot of measured versus estimated Ec values (from Equation
+(5)) of RCCs, can be seen in Figure 11(b). Evidently, data points fall along the line of equality, indicating
+
+
+===== PAGE 16 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+379
+Figure 11. Relationship between (a) dynamic elastic modulus (Ed) and compressive strength and (b) measured versus estimated
+static elastic moduli.
+that the standard Equation (5), used for normal concretes, is also applicable to RCCs.
+Ece = 1.25Ed −19 (GPa)
+(5)
+where Ece is the estimated static elastic modulus and Ed is the dynamic elastic modulus.
+3.6. Limitations of this study
+RHA and FA effects on mechanical properties are partly related to the influence of the SCMs on ITZ.
+Also strongly influenced by ITZ are durability properties. This aspect is highlighted in Section 3.3, how-
+ever, the present study has not focussed on the effects of the SCMs on durability properties, such as
+porosity, permeability and resistance to chemical attack processes. Further research is needed to fully
+understand the foregoing aspects related to the durability effects of RHA and FA on RCC mixtures.
+4. Conclusions
+An investigation was done to evaluate and compare the effects of fly ash (FA) and rice husk ash
+(RHA), on the mechanical properties of roller-compacted concrete (RCC) for use as pavement construc-
+tion material. The two different supplementary cementitious materials (SCMs) were incorporated into
+RCC mixtures at proportions of 0–30% wt FA or RHA. The water content quantities used to prepare
+RCC mixtures were determined using the soil–compaction approach typically employed to obtain
+the moisture–dry density relationship. It was found that mixtures containing 5–10% wt RHA or FA
+gave optimum performance results, hence this range of proportions can be considered suitable for
+incorporation of the SCMs into RCC mixtures. Being waste by-products, several engineering and envi-
+ronmental benefits can result from the use of the SCMs in RCC pavements. Subsequently given are
+specific findings drawn from the foregone study.
+(1) FA showed no effect on water demand, whereas RHA increased the water demand of mixtures
+containing higher SCM proportions comprising 20–30% wt.
+(2) Incorporation of 5–10% wt RHA into mixtures enhanced the early–age compressive strength,
+but showed no significant effect on late strength growth. In contrast, mixtures containing
+5–10% wt FA showed early – age strength reduction, but exhibited late–age compressive
+
+
+===== PAGE 17 =====
+
+380
+S. O. EKOLU ET AL.
+strength gain to attain values similar to or higher than those of the control, a typical tendency
+attributed to pozzolanic reaction.
+(3) RCC mixtures containing up to 10% FA and 10% RHA gave 28–day compressive strengths
+exceeding 27.3 MPa and 28 MPa, respectively, which meet the required 28–41 MPa typical
+values specified for RCC pavement mixtures.
+(4) The RCC mixtures containing 5–30% FA, all gave similar values of splitting tensile strength
+results. In contrast, RHA mixtures showed a decrease in tensile strength values with a rise in
+SCM proportion.
+(5) The different ACI 318, BS 8110 and SANS 10100-1 standard models for estimating static elastic
+modulus (Ec) from compressive strength values, were found to be valid for RCCs regardless of
+FA or RHA content. However, at higher strengths exceeding 30 MPa, the models seemed to
+underestimate the Ec values of RCCs.
+(6) The results showed that the standard equation used to estimate Ec from the dynamic modulus
+of elasticity (Ed) is valid for RCCs in the same manner as employed for normal concretes.
+Disclosure statement
+No potential conflict of interest was reported by the author(s).
+References
+AASHTO T84. (2013). Standard method of test for specific gravity and absorption of fine aggregate. Washington, DC:
+American Association of State Highway and Transportation Officials (AASHTO).
+ACI. (1995). Report on roller compacted concrete pavements (ACI Committee Report 325.10R-95).
+ACI 318. (1999). Building code requirements for structural concrete. American Concrete Institute (ACI).
+ACPA. (2014). Roller-compactedconcretepavementsasexposedwearingsurface (American Concrete Pavement Association
+(ACPA) guide specification, version 1.2: 1–29).
+Aghaeipour, A., & Madhkhan, M. (2020). Mechanical properties and durability of roller compacted concrete pavement
+(RCCP) – a review. Road Materials and Pavement Design, 21(7), 1775–1798. https://doi.org/10.1080/14680629.2019.
+1579754
+Ahmed, A., Hyndman, F., Kamau, J., & Fitriani, H. (2020). Rice husk ash as a cement replacement in high strength concrete.
+Material Science Forum, 1007, 90–98. https://doi.org/10.4028/www.scientific.net/MSF.1007.90
+Ahmed, A., & Kamau, J. (2017). Performance of rice husk ash concrete in sulfate solutions. Research & Development in
+Material Science, 2(1), 1. https://doi.org/10.31031/RDMS.2017.02.000530
+Amran, M., Fediuk, R., Murali, G., Vatin, N., Karelina, M., Ozbakkaloglu, T., Krishna, R. S., Sahoo, A. K., Das, S. K., & Mishra, J.
+(2021). Rice husk ash-based concrete composites: A critical review of their properties and applications. Crystals, 11(2),
+168. https://doi.org/10.3390/cryst11020168
+ASTM C1170. (2008). Standard test method for determining consistency and density of roller-compacted concrete using a
+vibrating table. American Society for Testing and Materials (ASTM).
+ASTM C192. (2019). Standard practice for making and curing concrete test specimens in the laboratory. American Society for
+Testing and Materials (ASTM).
+ASTM C469. (2002). Standard test method for static modulus of elasticity and poisson’s ratio of concrete in compression.
+American Society for Testing and Materials (ASTM).
+ASTM C496. (2004). Standard test method for splitting tensile strength of cylindrical concrete specimens. American Society for
+Testing and Materials (ASTM).
+ASTM C597. (2022). Standard test method for ultrasonic pulse velocity through concrete. American Society for Testing and
+Materials (ASTM).
+ASTM D1557. (2012). Standard test methods for laboratory compaction characteristics of soil using modified effort. American
+Society for Testing and Materials (ASTM).
+Bhowmik, R. N., & Pal, J. (2023). Application of rice husk ash in brick aggregate concrete to improve the permeability and
+resistance against acid and sulfate attack. Material Science and Engineering Technology, 54(7), 883–896.
+BS 1377-4. (1990). Soils for civil engineering purposes: Part 4. Compaction-related tests. British Standards Institution.
+BS 1881–116. (1983). Method for determination of compressive strength of concrete cubes. British Standards Institution.
+BS 8110. (1997). Structural use of concrete: Part 1 code of practice for design and construction. British Standards Institution.
+Cao, C., Sun, W., & Qin, H. (2000). The analysis on strength and fly ash effect of roller-compacted concrete with high volume
+fly ash. Cement and Concrete Research, 30(1), 71–75. https://doi.org/10.1016/S0008-8846(99)00203-3
+CSRA. (1987). Standardspecificationforroadsandbridgeworks,Section7100:Concretepavements. Committee of State Road
+Authorities (CSRA).
+
+
+===== PAGE 18 =====
+
+ROAD MATERIALS AND PAVEMENT DESIGN
+381
+Du Plessis, L., Rugodho, G., Govu, W., Mngaza, K., & Musundi, S. (2014, July 7–10). The design, construction and heavy
+vehicle simulator testing results on roller compacted concrete test sections at the CSIR innovation site and on a full-
+scale test road at Rayton, Gauteng Province of South Africa, Route D1814. In Proceedings for the 33rd Southern African
+Transport Conference (SATC 2014) (pp. 165–178), CSIR International Convention Centre, Pretoria, South Africa.
+Ekolu, S. O., Hooton, R. D., & Thomas, M. D. A. (2006, July 16–19). Studies on Ugandan volcanic ash and tuff. In 1st
+international Conference on Advances in Engineering and Technology (pp. 75–83), Entebbe, Uganda.
+EN197-1. (2000). Cement – Part 1: Composition, specifications and conformity criteria for common cements. European
+Standard, Central Secretariat.
+FAO. (2022). Agricultural production statistics 2000–2021. Food and Agriculture Organization of the United Nations (FAO).
+FHWA (2016), Roller – compacted concrete pavement (Tech Brief FHWA-HIF-16-003). Federal Highway Administration
+(FHWA).
+Fitriani, H., Ahmed, A., Kolawole, O., Hyndman, F., Idris, Y., & Rosidawani, R. (2022). Optimizing compressive strength
+properties of binary blended cement rice husk concrete for road pavement. Trends in Sciences, 19(9), 3972.
+https://doi.org/10.48048/tis.2022.3972
+Fulton’s. (2001). Roller compacted concrete. In B. Addis & Owens (Eds.), Fulton’s concrete technology (Chapter 22) (p. 330).
+Cement and Concrete Institute.
+GB/T 50081. (2019). Standard for test method of physical and mechanical properties on concrete. Ministry of Housing and
+Urban-Rural Development of the PRC, State Administration for Market Regulation.
+Hafez,M.,Farouh,T.,Mozhdehi,A.M.,Shariff,M.S.,Muda,Z.C.,Sidek,L.M.,Basri,H.,&Almkahal,Z.(2023).Perceptionofthe
+behavior and performance of roller-compacted concrete (rcc) in the presence of different types of fly ash and similar
+cement-content admixtures: A review. In L. M. Sidek, G. H. A. Salih, A. N. Ahmed, I. Escuder-Bueno, & H. Basri (Eds.),
+Proceedings of the 2nd International Conference on Dam Safety Management and Engineering (pp. 17–43). ICDSME2023,
+Water Resources Development and Management, Springer.
+Harrington, D., Abdo, F., Adaska, W., & Hazaree, C. (2010). Guideforrollercompactedconcretepavements. National Concrete
+Pavement Center, Iowa State University’s Institute for Transportation.
+Jain, V., Jain, B., & Sancheti, G. (2021). Influence of Rice Husk Ash (RHA) on workability of concrete. IOP Conf. Series: Earth
+and Environmental Science, (796), 012073.
+Kamau, J., Ahmed, A., & Ngong, K. (2018). Sulfate resistance of rice husk ash concrete. MATEC Web of Conferences, 199,
+02006. ICCRRR 2018. https://doi.org/10.1051/matecconf/201819902006
+Mardani-Aghabaglou, A., & Ramyar, K. (2013). Mechanical properties of high-volume fly ash roller compacted concrete
+designed by maximum density method. Construction and Building Materials, 38, 356–364. https://doi.org/10.1016/j.
+conbuildmat.2012.07.109
+Meenakshi, M. S., Parashar, B., & Bishnoi, S. (2019). Influence of fly ash on mechanical and transport properties of concrete
+and mortar due to its effect on the interfacial transition zone. Indian Concrete Journal, 98(3), 26–33.
+Meghwar, M., Shahbaz, M., Hindu, A. K., & Hussain, S. (2024). Sustainable roller compacted concrete: Assessing the poten-
+tial of rice husk ash as a cement partial replacement. International Research Journal of Modernization in Engineering
+Technology and Science, 6(1), 2582–5208.
+Mehta,P.K.(1992).Ricehuskash-auniquesupplementarycementingmaterial.InV.M.Malhotra(Ed.),Advancesinconcrete
+technology (pp. 407–432). CANMET.
+Modarres, A., & Hosseini, Z. (2014). Mechanical properties of roller compacted concrete containing rice husk ash with origi-
+nalandrecycledasphaltpavementmaterial.Materials&Design,64,227–236.https://doi.org/10.1016/j.matdes.2014.07.
+072
+Mohamad, D., Salmia Beddu, S., Mohd Kamal, N. L., Meena, M., & Karim, S. (2024). The combination of conventional roller-
+compacted concrete (RCC) with the substitution of fly ash for fine aggregate replacement. MATEC Web of Conferences,
+400, 01006. https://doi.org/10.1051/matecconf/202440001006
+Naghizadeh, A., & Ekolu, S. O. (2017). Pozzolanic materials and waste products for formulation of geopolymer cements in
+developing countries: A review. Concrete Beton, (151), 22–31.
+NationalHighwaysUK.(2021).CD226:Designfornewpavementconstruction.DesignManualforRoadsandBridges(DMRB).
+Nduka, D. O., Olawuyi, B. J., Fagbenle, E. O., & Fonteboa, B. G. (2022). Mechanical and microstructural properties of high-
+performance concrete made with rice husk ash internally cured with superabsorbent polymers. Heliyon, 8(9), e10502.
+https://doi.org/10.1016/j.heliyon.2022.e10502
+Neville, A. M. (1996). Properties of concrete (4th ed.). 1996 (also 3rd Edition 1981), John Wiley and Sons Inc.
+Nochaiya, T., Wongkeo, W., & Chaipanich, A. (2010). Utilization of fly ash with silica fume and properties of Portland
+cement–fly ash–silica fume concrete. Fuel, 89(3), 768–774. https://doi.org/10.1016/j.fuel.2009.10.003
+Panpipat, S., & Cheerarot, R. (2022). Prediction of compressive strength of roller compacted concrete with rice husk ash
+and bagasse ash [Master’s dissertation]. The Faculty of Engineering, Mahasarakham University. http://202.28.34.124/
+dspace/handle/123456789/1597
+Rahmani, E., Sharbatdar, K. M., & Beygi, M. H. A. (2020). A comprehensive investigation into the effect of water to cement
+ratios and cement contents on the physical and mechanical properties of roller compacted concrete pavement (RCCP).
+Construction and Building Materials, 253, 119177. https://doi.org/10.1016/j.conbuildmat.2020.119177
+
+
+===== PAGE 19 =====
+
+382
+S. O. EKOLU ET AL.
+Rambabu, D., Sharma, S. K., & Akbar, M. A. (2023). Evaluation of roller compacted concrete for its applica-
+tion as high traffic resisting pavements with fatigue analysis. Construction and Building Materials, 401, 132977.
+https://doi.org/10.1016/j.conbuildmat.2023.132977
+Rao, S. K., Sravana, P., & Rao, T. C. (2015). Strength and compaction characteristics of fly ash roller compacted concrete.
+International Journal of Scientific Research in Knowledge, 3(10), 260–269. https://doi.org/10.12983/ijsrk-2015-p0260-
+0269
+Rao, S. K., Sravana, P., & Rao, T. C. (2016). Experimental studies in ultrasonic pulse velocity of roller compacted concrete
+pavement containing fly ash and M-sand. International Journal of Pavement Research and Technology, 9(4), 289–301.
+https://doi.org/10.1016/j.ijprt.2016.08.003
+Sadrmomtazi, A., Tahmouresi, B., & Khoshkbijari, R. K. (2018). Effect of fly ash and silica fume on transi-
+tion zone, pore structure and permeability of concrete. Magazine of Concrete Research, 70(10), 519–532.
+https://doi.org/10.1680/jmacr.16.00537
+SANS 10100-1. (2000). Code of practice for the structural use of concrete Part 1: Design. South African Bureau of Standards.
+SANS 3001 - AG20. (2014). Civil engineering test methods, Part AG20: Determination of the bulk density, apparent density and
+water absorption of aggregate particles retained on the 5 mm sieve for construction materials. South African Bureau of
+Standards Ltd.
+SANS 3001-GR30. (2015). Civil engineering test methods, Part GR30: Determination of the maximum dry density and optimum
+moisture content. South African Bureau of Standards Ltd.
+SANS 5861-1. (2006). Concrete tests, Part 1: Mixing fresh concrete in the laboratory. South African Bureau of Standards Ltd.
+SANS 5861-3. (2006). Concrete tests, Part 3: Making and curing of test specimens. South African Bureau of Standards Ltd.
+SANS 5863. (2006). Concrete tests – compressive strength of hardened concrete. South African Bureau of Standards Ltd.
+SANS 5841. (2008). Aggregate crushing value of coarse aggregates. South African Bureau of Standards Ltd.
+SANS 5846. (2006). Abrasion resistance of coarse aggregates (Los Angeles machine method). South African Bureau of
+Standards Ltd.
+Seav, N., Kim, K. S., Kim, J. H., Lee, S. W., & Kim, Y. K. (2023). Effects of roller compacted concrete incorporating coal bottom
+ash as a fine aggregate replacement. Sustainability, 15(14), 11420. https://doi.org/10.3390/su151411420
+Selvam, M., Debbarma, S., Singh, S., & Shi, X. (2022). Utilization of alternative aggregates for roller com-
+pacted concrete pavements: A state of the art review. Construction and Building Materials, 317, 125838.
+https://doi.org/10.1016/j.conbuildmat.2021.125838
+Sinngu, F., Ekolu, S. O., Naghizadeh, A., & Quainoo, H. A. (2022). Experimental study and classification of natural zeolite
+pozzolan for cement in South Africa. Journal of the South African Institution of Civil Engineering (SAICE), 64(4), 2–15.
+Sinngu, F., Ekolu, S. O., Naghizadeh, A., & Quainoo, H. A. (2023). Evaluation of metakaolin pozzolan for cement in South
+Africa. Developments in the Built Environment (DIBE), 14, 100154. https://doi.org/10.1016/j.dibe.2023.100154
+Solikin, M., Izutholibin, G. A. A., Handayani, N. K., & Nurchasanah, Y. (2025). Analysis of the use of fly ash variations
+as a partial cement substitute for roller compacted concrete (RCC) mixtures. Engineering Proceedings, 84(1), 38.
+https://doi.org/10.3390/engproc2025084038
+Stålheim, J. (2014). ComparativestudyofestablishedtestmethodsforaggregatestrengthanddurabilityofArcheanrocksfrom
+Botswana (Report No: W13044). Uppsala Universitet, 43p.
+Tan, E. H., Zahran, E. M. M., & Tan, S. J. (2022). The optimal use of crumb rubber in hot-mix asphalt by
+dry process: A laboratory investigation using Marshall mix design. Transportation Engineering, 10, 100145.
+https://doi.org/10.1016/j.treng.2022.100145
+Tayabji, S. D., & Okammoto, P. A. (1987). Engineering properties of roller compacted concrete, Transportation Research
+Record 1136, TRB, National Research Council, 33–45.
+UK Government. (2021). Manual of contract documents for highway works, Series NG 1000: Road Pavements – Concrete
+Materials; Volume 2: Notes for Guidance on Specification for Highway Works.
+USCORPS. (1988). Roller compacted concrete (RCC) pavement for airfields, roads, streets and parking lots, corps of engineers
+guide specification: Military construction. U.S. Army Corps of Engineering (USCORPS). CEGS-02520.
+Vahidi, E. K., Malekabadi, M. M., Rezaei, A., Roshani, M. M., & Roshani, G. H. (2017). Modeling of mechanical
+properties of roller compacted concrete containing RHA using ANFIS. Computers and Concrete, 19(4), 435–442.
+https://doi.org/10.12989/cac.2017.19.4.435
+Villena, J., Trichês, G., & Prudêncio, L. R., Jr. (2011). Replacing the aggregate by rice husk ash in roller compacted concrete for
+composite pavements. Department of Civil Engineering, Universidade Federal de Santa Catarina.
+Zabihi,N.(2012).Effectofspecimensizeandshapeonstrengthofconcrete[MScdissertation].UniversityofPlymouth.Eastern
+Mediterranean University Institutional Repository. http://i-rep.emu.edu.tr:8080/xmlui/handle/11129/1591

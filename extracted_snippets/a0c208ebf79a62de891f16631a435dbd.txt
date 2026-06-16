@@ -1,0 +1,45 @@
+Table 1: Mix design Component Value Minimum strength (N/mm2) 30 Target strength (N/mm2) 38 Cement type OPC 42.5 Maximum size of aggregate 20mm Water/cement ratio 0.46 Cement content (kg/m3) 435 Fine aggregate (kg/m3) 980 Coarse aggregate (kg/m3) 795 Water content (kg/m3) 200 Superplasticizer (kg/m3)
+
+---SEGMENT---
+
+Table 2: Factor and Factor Levels of Mixture. Factor level Factor Low High GD (%) 20 60 RHA (%) 5 20 Superplasticizer 1 3 Table 3: Factor Combinations for BBD. Sani et al. / KJSET: Vol. 3, No. 1, (April 2024) 39-46. https://doi.org/10.59568/KJSET-2024-3-1-04 KJSET | 41 Run Factor 1 A:G.D % Factor 2 B:RHA % Factor 3 C:S.P % 1 60 20 2 2 20 12.5 1 3 40 20 3 4 60 5 2 5 20 12.5 3 6 40 5 1 7 20 20 2 8 40 12.5 2 9 40 12.5 2 10 60 12.5 1 11 40 20 1 12 40 12.5 2 13 40 5 3 14 20 5 2 15 60 12.5 3 16 40 12.5 2 17 40 12.5 2
+
+---SEGMENT---
+
+Table 3: Factor Combinations for BBD. Sani et al. / KJSET: Vol. 3, No. 1, (April 2024) 39-46. https://doi.org/10.59568/KJSET-2024-3-1-04 KJSET | 41 Run Factor 1 A:G.D % Factor 2 B:RHA % Factor 3 C:S.P % 1 60 20 2 2 20 12.5 1 3 40 20 3 4 60 5 2 5 20 12.5 3 6 40 5 1 7 20 20 2 8 40 12.5 2 9 40 12.5 2 10 60 12.5 1 11 40 20 1 12 40 12.5 2 13 40 5 3 14 20 5 2 15 60 12.5 3 16 40 12.5 2 17 40 12.5 2
+
+---SEGMENT---
+
+Table 4 and Figures 1, 2, and 3 present the results of slump flow, V-funnel, and J-ring tests carried out on the SCC. The slump flow and V-funnel tests indicate the filling ability of SCC, whereas the J-ring test indicates its passing ability. All the SCC mixtures had slump flows between 612 and 812 mm, which suggest reasonable deformability (Divya et al., 2015). Mixtures containing 20% RHA, 40% GD at SP dose of 3% had the lowest workability, whereas mixtures containing 5% RHA, 40% GD with an SP dose of 3% had the highest workability. As generally observed for the mixtures, the workability decreased with an increase in the contents of RHA and GD. For the V-funnel test, mixtures containing 5% RHA and 40% GD had the least flow time, whereas mixtures containing 12.5% RHA and 20% GD had the highest flow time. The J-ring results indicated SCC mixtures containing 12.5% RHA and 60% GD had the lowest passing ability, whereas SCC mixtures with 12.5% RHA and 40% GD had the highest passing ability. Patil et al. (2024) and Divya et al. (2015) had achieved similar results. The results are in accordance with the requirements of EFNARC (2002).
+
+---SEGMENT---
+
+Table 4: Results of Fresh Properties of SCC Run RHA (%) GD (%) Slump flow (mm) 550-850 V- funnel (sec) 6-12s J-ring (mm) 0-10mm C 0 0 620 8.9 7.6 1 5 20 632 7.8 7.2 2 5 60 712 6.6 6.8 3 12.5 20 646 7.5 7.5 4 12.5 60 765 6.3 6.4 5 20 20 702 7.1 7.3 6 20 60 788 6.3 5.1 *EFNARC(2002) range Figure 1: Results of slump flow test. Figure 2: Results of V-funnel test Sani et al. / KJSET: Vol. 3, No. 1, (April 2024) 39-46. https://doi.org/10.59568/KJSET-2024-3-1-04 KJSET | 42 Figure 3: Result of J-ring test.
+
+---SEGMENT---
+
+Table 5 and the 3D reaction exterior plots in Figures 4–8. Increasing the number of mineral admixtures usually results in a decrease in strength at early ages if compared to the control combination. Since GD and RHA solely function as inert mineral admixtures in this situation, their roles are also better understood because they lower the SCC's compressive strength. In comparison to the control values of 9.1 N/mm2 and 18.9 N/mm2, respectively, the compressive strength of the SCC mixes at three and seven days after application ranged from 4 to 7 N/mm2 and 11 to 15 N/mm2, respectively. The "dilution effect" (Sani, 2019) refers to the early- age reduction in the compressive strength of SCC mixtures caused by the removal of cement out of the reacting system. This reduction will cause a decrease in the rate of heat development and strength gain corresponding to the amount of cement replaced. The range of compressive strength at 28 days was 25 to
+
+---SEGMENT---
+
+Table 5: Results of compressive strength Ru n Response 1 Compressiv e strength 3 days (N/mm2) Response 2 7 days Compressiv e strength (N/mm2) Response 3 28 days Compressiv e strength (N/mm2) Response 4 90 days Compressiv e strength (N/mm2) C 9.1 18.9 28.1 32.5 1 4 11.5 25 28.9 2 6.5 15.1 32 36.1 3 5.5 12.4 26.5 29.5 4 6.4 13.3 28.6 32.6 5 6.7 15 31.5 35.1 6 6.5 13.9 29.8 33.2 7 5.7 14.4 30.8 35 8 5.7 14.3 30.4 34.6 9 5.7 14.3 30.4 34.6 10 4.4 13.2 28.8 31.9 11 4.6 13 28 32.2 12 5.7 14.3 30.4 34.6 13 6.6 13.8 29.4 32.9 14 7 14.1 30.4 34.5 15 4.5 13.3 27.9 30.4 16 5.7 14.3 30.4 34.6 17 5.7 14.3 30.4
+
+---SEGMENT---
+
+Table 6: Analysis of variance for 3 days comprehensive strength of GD/RHA concrete. Source Sum of Squares df Mean Square F- value p-value Model 11.27 3 3.76 38.37 < 0.0001 A-G.D 5.44 1 5.44 55.63 < 0.0001 B-RHA 5.61 1 5.61 57.33 < 0.0001 C-S.P 0.2112 1 0.2112 2.16 0.1656 Residual 1.27 13 0.0979 Lack of Fit 1.27 9 0.1414 Pure Error 0.0000 4 0.0000 Cor Total 12.54 16 Sani et al. / KJSET: Vol. 3, No. 1, (April 2024) 39-46. https://doi.org/10.59568/KJSET-2024-3-1-04 KJSET | 44
+
+---SEGMENT---
+
+Table 7: Analysis of variance for 7-days comprehensive strength of GD/RHA concrete. Source Sum of Squares df Mean Square F-value p-value Model 13.45 9 1.49 73.39 < 0.0001 A-G.D 6.66 1 6.66 327.22 < 0.0001 B-RHA 1.80 1 1.80 88.67 < 0.0001 C-S.P 0.0612 1 0.0612 3.01 0.1264 AB 1.10 1 1.10 54.16 0.0002 B² 3.60 1 3.60 176.97 < 0.0001 Residual 0.1425 7 0.0204 Lack of Fit 0.1425 3 0.0475 Pure Error 0.0000 4 0.0000 Cor Total 13.59 16
+
+---SEGMENT---
+
+Table 8: Analysis of variance for 28-days comprehensive strength of GD/RHA concrete. Source Sum of Squares df Mean Square F- value p-value Model 51.83 9 5.76 102.71 < 0.0001 A-G.D 25.92 1 25.92 462.27 < 0.0001 B-RHA 7.80 1 7.80 139.13 < 0.0001 C-S.P 1.36 1 1.36 24.28 0.0017 AB 4.00 1 4.00 71.34 < 0.0001 B² 11.64 1 11.64 207.55 < 0.0001 C² 0.4112 1 0.4112 7.33 0.0303 Residual 0.3925 7 0.0561 Lack of Fit 0.3925 3 0.1308 Pure Error 0.0000 4 0.0000 Cor Total 52.22 16
+
+---SEGMENT---
+
+Table 9: Analysis of variance for 90-days comprehensive strength of GD/RHA concrete. Source Sum of Squares df Mean Square F-value p-value Model 69.55 9 7.73 173.10 < 0.0001 A-G.D 35.70 1 35.70 799.71 < 0.0001 B-RHA 7.22 1 7.22 161.73 < 0.0001 C-S.P 3.78 1 3.78 84.70 < 0.0001 AB 4.41 1 4.41 98.78 < 0.0001 BC 1.44 1 1.44 32.26 0.0008 B² 11.29 1 11.29 252.90 < 0.0001 C² 4.32 1 4.32 96.69 < 0.0001 Residual 0.3125 7 0.0446 Lack of Fit 0.3125 3 0.1042 Pure Error 0.0000 4 0.0000 Cor Total 69.86 16
+
+---SEGMENT---
+
+Table 10: Table showing actual and predicted values of 3-day and 7-day compressive strength. Run Order Actual Value Predicted Value Actual Value Predicted Value 1 4.00 4.04 11.50 11.41 2 6.50 6.36 15.10 15.20 3 5.50 5.02 12.40 12.59 4 6.40 5.71 13.30 13.41 5 6.70 6.69 15.00 14.92 6 6.50 6.37 13.90 13.71 7 5.70 5.69 14.40 14.29 8 5.70 5.70 14.30 14.30 9 5.70 5.70 14.30 14.30 10 4.40 4.71 13.20 13.27 11 4.60 4.70 13.00 13.01 12 5.70 5.70 14.30 14.30 13 6.60 6.70 13.80 13.79 14 7.00 7.36 14.10 14.19 15 4.50 5.04 13.30 13.20 16 5.70 5.70 14.30 14.30 17 5.70 5.70 14.30 14.30 Sani et al. / KJSET: Vol. 3, No. 1, (April 2024) 39-46. https://doi.org/10.59568/KJSET-2024-3-1-04 KJSET | 45

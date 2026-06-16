@@ -1,0 +1,734 @@
+
+===== PAGE 1 =====
+
+Eng. Sci., 2024, 29, 1111 
+© Engineered Science Publisher LLC 2024                                                                                                                                                       Eng. Sci., 2024, 29, 1111 | 1 
+ 
+Engineered Science 
+DOI: https://dx.doi.org/10.30919/es1111 
+ 
+ 
+Estimating Rice Husk Ash Concrete Compressive Strength Using 
+Hybrid Machine Learning Methodology 
+ 
+Ruba Odeh1,* Roaa Alawadi,2 Ahmad Tarawneh,3 Abdullah Alghossoon,3 Ra'ed Al-Mazaidh3 and Hadeel Amerah3 
+ 
+Abstract 
+ 
+The earth's temperature is gradually increasing due to greenhouse gases (GHGs), which have caused the global warming 
+phenomenon. Carbon dioxide (CO2) has accounted for a large majority of such greenhouse gases. Due to the high CO2 
+emissions caused by cement production, several alternative cementitious materials have been discovered, such as Rice Husk 
+Ash (RHA). This study suggests a hybrid data-driven machine learning framework approach for predicting RHA concrete 
+compressive strength. The framework utilizes Bayesian Regularization-based artificial neural network (ANN) and genetic 
+expression programming (GEP) to develop a generalized prediction mathematical model that avoids overfitting. The model 
+included six compressive strength prediction parameters: age, cement content, rice husk ash content, water, superplasticizer, 
+and aggregate. Based on the literature's 192 compressive strength-tested specimens, the proposed framework has been 
+trained. The proposed model resulted in average calculated-to-measured ratios of 1.00, a standard deviation of 0.15, and a 
+COV of 15%. In addition, a parametric study has been conducted to evaluate the effect of each contributing parameter. The 
+analysis shows that varying the RHA content from 0 to 200 kg/m3 will increase the compressive strength by up to 50%. 
+Keywords: Rice husk ash; Artificial neural network; Genetic expression programming; Overfitting; Data-driven machine 
+learning. 
+Received: 26 December 2023; Revised: 28 February 2024; Accepted: 07 March 2024. 
+Article type: Research article. 
+ 
+1. Introduction 
+In recent years, the world has witnessed dramatic climate 
+change, including melting polar ice caps and glaciers in the 
+Antarctic regions and increasing floods and hurricanes. This 
+can be attributed to greenhouse gases (GHGs) and their effects. 
+GHGs are responsible for the witnessed global warming. 
+During the day, the sun shines through the atmosphere and 
+increases the earth's temperature. The earth's surface cools 
+down at night, releasing the heat back into the air. However, 
+some of the heat is trapped by the GHGs. GHGs include 
+carbon dioxide (CO2), methane (CH4), nitrogen oxide (N2O), 
+and fluorinated gases.[1] Carbon dioxide (CO2) is the primary 
+greenhouse gas emitted through human activities. In 2021, 
+CO2 accounted for 79% of all U.S. greenhouse gas emissions 
+from human activities.[2]  
+Consequently, there has been an increase in research 
+studies on the triggers of climate change and the increased 
+greenhouse gases (GHGs)[3] due to the construction and 
+transportation of building materials, which are recognized as 
+major contributors to carbon emissions (Fig. 1). Particularly, 
+the cement production industry is responsible for 8% of global 
+CO2 emissions[4] and is expected to increase. Cement is also 
+reported to be the third-largest CO2 producer in the world.[2] 
+Therefore, there is an increasing focus on integrating 
+alternative materials into the production of cementitious 
+components using agricultural waste such as rice husk ash 
+(RHA), olive oil ash (OOA), sugarcane bagasse ash (SBA), 
+palm oil fuel ash (POFA), industrial waste such as fly ash (FA), 
+and silica fume (SF) as supplementary cementitious materials 
+(SCMs) to reduce the usage of Ordinary Portland Cement 
+(OPC).[5] 
+One of the potential SCMs is rice husk ash (RHA), which 
+is obtained from burning rice husk. The rice husk is the outer 
+layer of paddy grain, which is the by-product of rice milling. 
+It is estimated that 1,000 kg of rice grain produces 200 kg of 
+rice husk; after the rice husk is burnt, about 20 percent of the 
+rice husk becomes RHA.[6] RHA is considered an effective, 
+eco-friendly, and cost-effective SCM (Fig. 2).[7-8] It contains 
+1 Allied Engineering Science Department, Faculty of Engineering, 
+The Hashemite University, Zarqa 13133, Jordan. 
+2 Civil Engineering Department, Applied Science Private 
+University, Amman 11937, Jordan. 
+3 Civil Engineering Department, Faculty of Engineering, The 
+Hashemite University, Zarqa 13133, Jordan. 
+*Email: rubaa@hu.edu.jo (R. Odeh) 
+
+
+===== PAGE 2 =====
+
+Research article                                                                                                                                                                                Engineered Science 
+ 
+2 | Eng. Sci., 2024, 29, 1111                                                                                                                                                     © Engineered Science Publisher LLC 2024 
+ 
+Fig. 1 Factors contributing to carbon emissions. 
+ 
+more than 75% silica by weight (after incineration),[9] has an 
+amorphous nature, and has a high surface area. RHA is 
+compatible with OPC concrete, which exhibits pozzolanic 
+properties,[9] making it an attractive candidate for enhancing 
+the performance of cementitious materials without sacrificing 
+strength and durability. The incorporation of RHA into cement 
+decreases industrial demand for OPC, lowering the expense of 
+producing concrete and leading to mitigating the negative 
+impacts of CO2 discharges during the OPC production process. 
+ 
+Fig. 2 Benefits of RHA concrete. 
+ 
+Research studies showed that concrete mixtures containing 
+up to 50% rice husk ash by weight showed compressive 
+strengths that were higher than the normal Portland cement 
+mixture even at the early ages of 3-7 days and good resistance 
+to the dilution of organic and mineral acids.[10-12] However, the 
+increase in RHA content led to an increase in water demand 
+for normal consistency, but this can be corrected by the 
+utilization of water-reducing admixtures. Silica is produced 
+when silicon is burned in the presence of oxygen. After cement 
+hydrates, calcium hydroxide is produced, and this highly 
+reactive Silica interacts with it to form calcium silicates, which 
+are what give cement its strength.[13] The reactions that take 
+place in the preparation of rice husk ash concrete are shown in 
+Eqs. (1), (2), and (3).  
+Si + O2  →  SiO2                                   (1) 
+C3S (Cement) + H2O  →   CSH + Ca (OH)2    (2) 
+SiO2 + Ca (OH)2  →  CSH + SiO2                        (3) 
+The Alkali-silica reaction (ASR) is one of the most common 
+causes of concrete distress. ASR is a chemical reaction 
+between alkali hydroxide and Silica that occurs in the presence 
+of moisture. An ASR gel is formed and causes volumetric 
+expansion of concrete, resulting in cracking and spalling of 
+concrete structures. During the pozzolanic reaction of SCMs, 
+the anion of C-S-H is formed with a low Ca/SiO2. This C-S-H 
+absorbs the alkali cations (Na+ and K+) and reduces the 
+abundance of alkali compounds in concrete. In this way, the 
+incorporation of SCMs reduces the ASR expansion in concrete. 
+Research studies showed that 12–15% partial replacement of 
+cement by RHA can mitigate ASR expansion in concrete. Eqs. 
+(4) and (5). 
+Alkali hydroxide (from cement) + Silica (from aggregate)  → 
+Alkali-silica gel                                                                   (4) 
+Alkali -silica gel + moisture → Concrete expansion and 
+cracking                                                                                (5) 
+Mehta, P.K., conducted investigations on rice husk ash 
+cements with up to 50% ash, which showed higher 
+compressive strength than the control Portland cement at early 
+3 days.[10] Mehta, P.K., and D. Pirtz, have shown that when  
+30% rice husk ash by weight of the total cementing material 
+was present, the 7 and 28-day compressive strengths were 
+higher than that of normal concrete.[11] S. James, J. and Subba 
+Rao, M., studied the reaction product of lime and silicate from 
+rice husk ash and showed that it is Calcium Silicate Hydrate 
+(C-S-H) that accounts for the strength of lime rice husk ash 
+cement.[12]  
+RHA has been employed in recent studies as a partial 
+replacement for OPC as well as fine aggregate in concrete 
+mixes.[14] The properties of RHA concrete change with the 
+amount of OPC or fine aggregate, the RHA grain size, the 
+water-cement ratio, and the aggregate size/shape in the 
+matrix.[15] However, for optimum strength growth, a 
+replacement of 10 to 25 percent of OPC is recommended.[16]  
+Over the last decade, data-driven machine learning (ML) and 
+artificial intelligence (AI) have been widely implemented in 
+different fields of structural engineering due to their superior 
+capabilities in pattern recognition and classification and the 
+ability to provide accurate prediction models.[17-19] The concept 
+of data-driven ML relies on learning and identifying behavior 
+from experimental data through algorithms, which include 
+performance measures to assess the model's accuracy level. 
+One major concern in ML and AI is overfitting and the 
+inability to generalize the developed model, especially when 
+limited experimental data is available.  
+This study proposes a hybrid ML framework utilizing 
+artificial neural networks (ANN), genetic expression 
+programming (GEP), and a compiled experimental database to 
+develop a generalized compressive strength model for RHA 
+concrete. The proposed framework ensures avoiding 
+overfitting and reflects the effect of each of the contributing 
+variables. Variables included in the proposed compressive 
+strength model are age, cement weight, rice husk ash weight, 
+
+
+===== PAGE 3 =====
+
+Engineered Science                                                                                                                                                                                Research article        
+ 
+© Engineered Science Publisher LLC 2024                                                                                                                                                       Eng. Sci., 2024, 29, 1111 | 3  
+water amount, superplasticizer amount, and aggregate 
+weight.[5] In addition, the study utilizes the developed ML 
+model to conduct a parametric study to evaluate the effect of 
+each of the included variables. 
+The manuscript begins by explaining the fundamentals of 
+machine learning methods utilized in the analysis and 
+providing a description of the database utilized. Then, a 
+detailed description of developing a Bayesian Regularization-
+based ANN prediction model is presented. The ANN model is 
+then utilized to create a new dataset with a different 
+combination of variables (within the ranges of the variables in 
+the dataset). The new dataset takes the form of a parametric 
+study, where all variables are fixed, and the investigated 
+variable is changed. Finally, the created dataset is combined 
+with the experimental dataset to force the generalization and 
+fed into GEP algorithm to develop a mathematical expression. 
+ 
+2. Machine learning overview: ANN and GEP 
+2.1 Artificial Neural Network, ANN 
+As mentioned earlier, machine learning has been utilized in 
+different fields of civil engineering to develop prediction 
+models and investigate the effect of input variables on the 
+output. In this study, an artificial neural network (ANN) was 
+selected to assess the effect of age, cement, rice husk ash, 
+water, superplasticizer, and aggregate on the compressive 
+strength of RHA concrete. ANN has been selected for its 
+ability to generalize and avoid overfitting.[20] 
+ANN is a multi-layer framework; the first layer is an input 
+layer representing the parameters, and the last layer is an 
+output layer containing the output. Between the input and 
+output layers, one or more hidden layers can exist that control 
+the data's recognizing (learning) patterns. Each layer consists 
+of simple processing units (PUs) that are fully connected to 
+other PUs in the next layer (Fig. 3a).[21] 
+Each signal or input xi arrives, and then the PU is 
+multiplied by a calibrated weight wji that governs the behavior 
+and importance of the signal. At each PU, the calibrated 
+signals are summed, and a calibrated bias value Bji is added as 
+given in Eq. (6). The combined input Ij is then passed through 
+a nonlinear transfer function f(Ij) to create the PU output, which 
+will form the input for PUs in the next layer (Fig. 3b). A 
+Hyperbolic tangent sigmoid transfer function is utilized in this 
+study.  
+𝐼𝑗= ∑𝑤𝑗𝑖 𝑥𝑖+ 𝐵𝑗𝑖                            (6) 
+A training algorithm updates the inputs' weights and bias 
+values in the training process according to Levenberg-
+Marquardt optimization. It minimizes a combination of 
+squared errors and weights and then determines the correct 
+combination in order to produce a network that generalizes 
+well. The process is called Bayesian regularization. The error 
+is expressed by the Mean Square Error (MSE), which is also 
+known as the performance function (Eq. (7)). The training 
+process continues until the MSE converges, and no 
+improvement can be made.[22]  
+𝑀𝑆𝐸=
+1
+𝑁∑
+(𝐴𝑐𝑡𝑢𝑎𝑙−𝑃𝑟𝑒𝑑𝑖𝑐𝑡𝑒𝑑)
+𝑁
+𝑘=1
+2         (7) 
+It should be noted that the input variables need to be 
+normalized as a first step according to Eq. (8), where the input 
+value is multiplied by the gain value ain and shifted by the 
+offset value ofin. Similarly, at the output layer, the signal needs 
+to be denormalized by subtracting the offset ofon and dividing 
+the results by the gain aon. 
+𝑥𝑖= 𝑋𝑖 𝑎𝑖𝑛+ 𝑜𝑓𝑖𝑛                                (8) 
+Selecting the required number of PUs in the hidden layer 
+to express and approximate the complex behavior is done 
+through experimentation (trial). Usually, in ANN modeling, 
+the number of hidden layers should be restricted to avoid 
+overfitting. However, in the current application, overfitting 
+was not a concern due to the use of Bayesian regularization. 
+ 
+2.2 Gene Expression Programming, GEP 
+GEP is another type of artificial inelegance technique that is 
+currently used in many engineering applications.[23] It is an 
+algorithm that concentrates on understanding connections
+ 
+Fig. 3 General structure and processing unit of ANNs. 
+
+
+===== PAGE 4 =====
+
+Research article                                                                                                                                                                                Engineered Science 
+ 
+4 | Eng. Sci., 2024, 29, 1111                                                                                                                                                     © Engineered Science Publisher LLC 2024 
+between variables in data sets and then devises models to 
+clarify these associations. Ferreira[24] proposed GEP as an 
+extension of gene programming (GP). The GEP process 
+involves five parts: (1) the function shape, which holds the 
+required mathematical triggers; (2) a group of changeable 
+symbolic characterization; (3) a fitness function that measures 
+the chromosome squared mean root error (RMSE) against the 
+rest of the population (chromosomes); (4) controlling 
+variables; and (5) the stopping criteria. Fig. 4 shows the GEP 
+technique used to create the expression tree. The first step in 
+the algorithm is selecting the five items previously mentioned. 
+Random initial functions are generated using the provided 
+function form and terminals. The process continues for a set 
+number of generations or until a satisfactory categorization 
+rate is achieved. The constructed functions are executed and 
+converted into a tree structure. After that, the fitness function 
+assesses the function results, and if acceptable, the process 
+stops. The final outcome is displayed in the form of tree 
+structures called GEP Expression trees, which provide an 
+easily understandable representation of the mathematical 
+functions created, as demonstrated in Fig. 5. 
+ 
+Fig. 4 Gene expression evolution algorithm. 
+ 
+Fig. 5 Expression tree and corresponding mathematical 
+expression 
+ 
+2.3 Surveyed database 
+In order to utilize the mentioned machine learning 
+methodologies described earlier to estimate and understand 
+the behavior of RHA concrete, an extensive experimental 
+database is needed. Accordingly, experimentally measured 
+compressive strengths of 192 RHA concrete beams from 
+different studies have been collected in reference[25] and are 
+utilized in this study. Variables surveyed are concrete age 
+(days), cement (kg/m3), rice husk ash (kg/m3), water (kg/m3), 
+superplasticizer (kg/m3) and aggregate (kg/m3). The range and 
+distribution of variables are shown in Fig. 6. 
+ 
+2.4 Model development procedure 
+Gene expression programming (GEP) is a machine learning 
+approach that has been implemented recently in different 
+applications in structural engineering to develop prediction 
+models based on experimental databases. GEP algorithm 
+imitates Darwinian natural selection in the evolution of 
+mathematical expressions. As mentioned earlier, the GEP 
+algorithm can develop prediction models expressed in 
+mathematical formulas, making it suitable for creating 
+prediction models (equations) for different problems. 
+However, developing GEP models based on limited training 
+data is susceptible to overfitting. This is a major concern in 
+machine learning (ML) applications since the algorithms try 
+to reduce errors between actual and predicted data. Overfitting 
+can be defined as detecting the noise and random fluctuation 
+in training data as general behavior. Overfitting can result in a 
+significant error when predicting new data points.  
+On the other hand, various algorithms are available for 
+training in ANN, such as Levenberg-Marquardt, Bayesian 
+Regularization, and Scaled Conjugate Gradient. In particular, 
+Bayesian Regularization is an appropriate algorithm for 
+training small and noisy datasets to avoid overfitting.[21] 
+
+
+===== PAGE 5 =====
+
+Engineered Science                                                                                                                                                                                Research article        
+ 
+© Engineered Science Publisher LLC 2024                                                                                                                                                       Eng. Sci., 2024, 29, 1111 | 5  
+ 
+Fig. 6 Distribution of variables. 
+ 
+Although ANN is a powerful tool for developing accurate 
+and generalized prediction models, the developed prediction 
+model has the form of programming code, not a mathematical 
+equation. This increases the difficulty of adopting and 
+implementing the developed model. This paper proposes a 
+framework to establish a generalized prediction for RHA 
+concrete compressive strength with mathematical expression 
+with a limited number of experimental data. The concept of 
+the framework is summarized in the following steps: 
+1- Data collection and preparation. This step is conducted 
+by compiling the database from reference.[25] 
+2- Developing a Bayesian Regularization-based ANN 
+prediction model. 
+3- Creating a new dataset with a different combination of 
+variables (within the ranges of the variables in the dataset) 
+using the developed ANN model. The new dataset takes the 
+form of a parametric study, where all variables are fixed, 
+and the investigated variable is changed. 
+4- The created dataset is combined with an experimental 
+dataset to force the generalization. 
+5- The combined dataset is trained using the GEP algorithm 
+to develop a mathematical expression. 
+The procedure is summarized in Fig. 7 and discussed in detail 
+in the following subsections. 
+ 
+2.5 Bayesian regularization-based ANN model 
+The Bayesian Regularization-based ANN model was 
+developed using the ANN toolbox of MATLAB R2018b. To 
+select the optimal PUs in the hidden layer, PUs from 1 to 10 
+were tested while monitoring the MSE, and the optimal 
+number of layers was found to be 3. The Bayesian 
+Regularization algorithms automatically determine the 
+appropriate weight for each signal (hyperparameter tuning). 
+Unlike other training algorithms, the Bayesian Regularization 
+algorithm does not require a validation database. In this study, 
+the input layer includes concrete age (days), cement (kg/m3), 
+rice husk ash (kg/m3), water (kg/m3), superplasticizer (kg/m3) 
+and aggregate (kg/m3). The experimental versus the ANN-
+predicted data are shown in Fig. 8. The ANN model resulted 
+in an average (tested-to-predicted) of 1.00, a coefficient of 
+variation (COV) of 9.4%, and an RMSE of 4.7 MPa. The low 
+COV and RMSE indicate the accuracy of the ANN model. 
+ 
+Fig. 7 Model development procedure utilized. 
+ 
+These performance metrics (average, COV, and RMSE) have 
+been selected for their informativeness, and researchers are 
+familiar with them. The average gives an insight into the 
+conservatism of the results and their deviation from the actual 
+
+
+===== PAGE 6 =====
+
+Research article                                                                                                                                                                                Engineered Science 
+ 
+6 | Eng. Sci., 2024, 29, 1111                                                                                                                                                     © Engineered Science Publisher LLC 2024 
+value. At the same time, COV provides insight into the 
+scatteredness of the results. In addition, RMSE provides a 
+measure of error with the same units of the data (MPa in this 
+case), which makes it more meaningful. 
+ 
+Fig. 8 Experimental vs. ANN-predicted compressive strength. 
+ 
+2.6 New dataset using ANN model 
+The developed ANN model is used to create a new dataset 
+with new combinations of variables other than the 
+combinations existing in the experimental database. The 
+development of the new dataset is taking the form of a 
+parametric study, where all variables are fixed at their average 
+values, and the investigated variable is changed. It should be 
+noted that the investigated is only varied within its range in the 
+database. This procedure is repeated for each variable. The 
+new dataset has 73 new combinations of variables. It is 
+important to note that variables should not be varied outside 
+the training (original or experimental) range. The compressive 
+strength for each combination is estimated using the trained 
+ANN model. 
+Figure 9 shows the generated data points in the form of a 
+parametric study. The results have been interpreted in terms of 
+the percentage of change in the compressive strength to clearly 
+identify the effect of each of the variables. It can be seen that 
+the compressive strength is positively correlated with all of the 
+variables except the water content, as expected. Also, more 
+than 50% of the compressive strength is gained in the first 10 
+days. These two behaviors can help in validating the ANN 
+model. It can be seen that age has the highest effect on 
+compressive strength, followed by the cement content then the 
+superplasticizer. Varying the RHA content from 0 to 200 kg/m3 
+will increase the compressive strength by up to 50%. It should 
+be noted that the parametric evaluation is only applicable to 
+the range of each variable. The accuracy beyond the range of 
+variables is not guaranteed.  
+ 
+2.7 Combine created and experimental datasets  
+Both the created and experimental datasets are combined. The 
+created dataset will force the training algorithm to recognize 
+each variable's patterns (effects) and avoid overfitting or false 
+generalization. 
+3. Proposed GEP model  
+The combined database is utilized in GEP to develop a 
+generalized model in mathematical form using the 
+evolutionary algorithm. The combined database will force the 
+generalization of the model and avoid overfitting. Different 
+parameters are utilized in developing the GEP prediction 
+model; these parameters control the prediction model and the 
+generalization capability. The utilized parameters for 
+developing the GEP model are shown in Table 1. The selection 
+of the parameters was based on multiple trials. In each trial, 
+one variable varied while the others remained constant. Trials 
+were compared based on the coefficient of variation (COV) of 
+the 
+calculated-to-measured 
+ratio. 
+In 
+addition, 
+basic 
+mathematical operations were selected in the function set to 
+produce a simple model.  
+Table 1. GEP selected parameters. 
+Parameter 
+Selected value 
+Dependent variable (shear 
+stress) 
+1 
+Independent variables 
+5 
+Genes 
+6 
+Function set 
+−, +, ×, ÷, √⬚, √⬚
+3
+,
+ln ⬚, power, exp, Atan, Tanh   
+Head size 
+7 
+Linking function between ETs 
+Multiplication 
+ 
+Following the procedure discussed in the previous sections, 
+the developed GEP model is shown in Fig. 10 in expression 
+tree (ET) format. The GEP expression tree is divided into 6 
+sub-ETs linked by multiplication, as shown in Table 1. The 
+factors d0, d1, d2, d3, d4, and d5 are the input variables: age, 
+cement, RHA, water, superplasticizer, and fine aggregate, 
+respectively. Constants are denoted by the "c" letter. Constants 
+in each sub-ET are tabulated in Table 2. 
+Table 2. Constants used in the ET. 
+Sub-ET 
+Constant 
+Value 
+1 
+C1 
+8.345 
+2 
+C4 
+3.099 
+C9 
+5.589 
+3 
+C6 
+-15.117 
+4 
+C7 
+0.182 
+C1 
+-2.707 
+5 
+C8 
+4.167 
+6 
+C0 
+3.128 
+C1 
+-3.126 
+ 
+The proposed model resulted in average calculated-to-
+measured ratios of 1.00, a standard deviation of 0.15, and a 
+COV of 15%. It is expected that the GEP model will result in 
+slightly higher COV due to the different algorithms used. To 
+assess the accuracy of the proposed model and the consistency 
+of the prediction with respect to other variables, the ratios of 
+the calculated-to-measured were plotted with respect to  
+
+
+===== PAGE 7 =====
+
+Engineered Science                                                                                                                                                                                Research article        
+ 
+© Engineered Science Publisher LLC 2024                                                                                                                                                       Eng. Sci., 2024, 29, 1111 | 7  
+ 
+Fig. 9 Percentage increase in RHA concrete compressive strength with respect to (a) age, (b) cement content, (c) RHA content, (d) 
+water content, (e) superplasticizer, (f) fine aggregate.  
+ 
+ 
+ 
+Fig. 10 GEP expression tree for the proposed model. 
+
+
+===== PAGE 8 =====
+
+Research article                                                                                                                                                                                Engineered Science 
+ 
+8 | Eng. Sci., 2024, 29, 1111                                                                                                                                                     © Engineered Science Publisher LLC 2024 
+ 
+Fig. 11 Prediction accuracy (estimated-to-measured) of the proposed model with respect to: (a) Age; (b) Cement content; (c) RHA 
+content; (d) water, (e) superplasticizer, (f) fine aggregate. 
+ 
+different variables in Fig. 11. The horizontal trendlines in Fig. 
+11 indicate a consistent prediction across all variable ranges. 
+ 
+4. Conclusions 
+The study suggests a hybrid machine learning (ML) 
+framework that combines genetic expression programming 
+(GEP) and artificial neural networks (ANN) with a compiled 
+experimental database of 192 data points to create a 
+generalized compressive strength model for RHA concrete. A 
+parametric study has also been conducted to evaluate the 
+contribution of each of the parameters included. The following 
+conclusions are drawn from the study: 
+1- Due to the limited number of experimental measurements 
+of RHA compressive strength and the need for an accurate 
+mathematical prediction model, a hybrid data-driven 
+machine learning framework utilizing artificial neural 
+network (ANN) and genetic expression programming (GEP) 
+is presented to develop a robust mathematical model. The 
+general concept of the adopted framework is based on 
+creating an additional synthetic database using Bayesian 
+Regularization-based ANN and then combining both 
+databases into GEP to develop the model. 
+2- The ANN model resulted in an average tested-to-
+predicted of 1.00, a coefficient of variation (COV) of 9.4%, 
+and an RMSE of 4.7 MPa. The trained ANN model is used 
+to create an additional database in the form of a parametric 
+study. 
+3- According to the ANN parametric study, age has the 
+biggest impact on the compressive strength of the RHA 
+where more than 50% if it is obtained in the first 10 days, 
+and, which is surpassed by cement content and 
+superplasticizer. Furthermore, there will be a 50% 
+improvement in compressive strength when the RHA 
+content fluctuates from 0 to 200 kg/m3. 
+4- The combined database from the experimental database  
+and the ANN parametric study were then used to train the 
+GEP model. The purpose of the combined database is to 
+force the generalization of the model and to avoid overfitting. 
+The proposed model resulted in average calculated-to-
+measured ratios of 1.00; a standard deviation of 0.15, and a 
+COV of 15%. 
+ 
+Conflict of Interest 
+There is no conflict of interest. 
+ 
+Supporting Information 
+Not applicable. 
+ 
+References    
+[1] D. Kweku, O. Bismark, A. Maxwell, K. Desmond, K. 
+Danso, E. Oti-Mensah, A. Quachie, B. Adormaa, Greenhouse 
+effect: greenhouse gases and their impact on global warming, 
+Journal of Scientific Research and Reports, 2018, 17, 1-9, doi: 
+10.9734/jsrr/2017/39630.  
+[2] A. B. Rao, E. S. Rubin, A technical, economic, and 
+environmental assessment of amine-based CO2 capture 
+technology for power plant greenhouse gas control, 
+Environmental Science & Technology, 2002, 36, 4467-4475, 
+doi: 10.1021/es0158861.  
+[3] Y. L. Li, M. Y. Han, S. Y. Liu, G. Q. Chen, Energy 
+consumption and greenhouse gas emissions by buildings: a 
+
+
+===== PAGE 9 =====
+
+Engineered Science                                                                                                                                                                                Research article        
+ 
+© Engineered Science Publisher LLC 2024                                                                                                                                                       Eng. Sci., 2024, 29, 1111 | 9  
+multi-scale perspective, Building and Environment, 2019, 151, 
+240-250, doi: 10.1016/j.buildenv.2018.11.003.  
+[4] Jirang, C.U.I. and Roven, H.J., 2010. Recycling of  
+automotive aluminum. Transactions of Nonferrous Metals 
+Society of China, 20(11), pp.2057-2063, doi: 10.1016/S1003-
+6326(09)60417-9. 
+[5] B. Iftikhar, S. C. Alih, M. Vafaei, M. A. Elkotb, M. 
+Shutaywi, M. F. Javed, W. Deebani, M. I. Khan, F. Aslam, 
+Predictive modeling of compressive strength of sustainable 
+rice husk ash concrete: ensemble learner optimization and 
+comparison, Journal of Cleaner Production, 2022, 348, 
+131285, doi: 10.1016/j.jclepro.2022.131285.  
+[6] R. Kishore, V. Bhikshma, P. J. Prakash, Study on strength 
+characteristics of high strength rice husk ash concrete, 
+Procedia 
+Engineering, 
+2011, 
+14, 
+2666-2672, 
+doi: 
+10.1016/j.proeng.2011.07.335.  
+[7] Z. Syahida Adnan, N. F. Ariffin, S. M. Syed Mohsin, N. H. 
+Abdul Shukor Lim, Review paper: performance of rice husk 
+ash as a material for partial cement replacement in concrete, 
+Materials Today: Proceedings, 2022, 48, 842-848, doi: 
+10.1016/j.matpr.2021.02.400.  
+[8] H. Chao-Lung, B. Le Anh-Tuan, C. Chun-Tsun, Effect of 
+rice husk ash on the strength and durability characteristics of 
+concrete, Construction and Building Materials, 2011, 25, 
+3768-3772, doi: 10.1016/j.conbuildmat.2011.04.009.  
+[9] M. N. Amin, S. Hissan, K. Shahzada, K. Khan, T. Bibi, 
+Pozzolanic reactivity and the influence of rice husk ash on 
+early-age autogenous shrinkage of concrete, Frontiers in 
+Materials, 2019, 6, 150, doi: 10.3389/fmats.2019.00150.  
+[10] P. K. Mehta, September. Properties of blended cement 
+made from rice husk ash, In Journal Proceedings, 1977, 74, 
+440-442, doi:  
+[11] P. K. Mehta, D. Pirtz, Use of rice hull ash to reduce 
+temperature in high-strength mass concrete, ACI Journal 
+Proceedings, 1978, 75, 60-63, doi: 10.14359/10477.  
+[12] Antiohos, S.K., Papadakis, V.G. and Tsimas, S., 2014. 
+Rice husk ash (RHA) effectiveness in cement and concrete as 
+a function of reactive Silica and fineness. Cement and concrete 
+research, 
+2014, 
+61, 
+20-27, 
+doi: 
+10.1016/j.cemconres.2014.04.001. 
+[13] M. B. Ahsan, Z. Hossain, Supplemental use of rice husk 
+ash (RHA) as a cementitious material in concrete industry, 
+Construction and Building Materials, 2018, 178, 1-9, doi: 
+10.1016/j.conbuildmat.2018.05.101.  
+[14] S. Das, R. K. Patra, B. B. Mukharjee, Feasibility study of 
+utilisation of ferrochrome slag as fine aggregate and rice husk 
+ash as cement replacement for developing sustainable concrete, 
+Innovative Infrastructure Solutions, 2021, 6, 85, doi: 
+10.1007/s41062-021-00461-9.  
+[15] V. Ramasamy, Compressive strength and durability 
+properties of Rice Husk Ash concrete, KSCE Journal of Civil 
+Engineering, 2012, 16, 93-102, doi: 10.1007/s12205-012-
+0779-2.  
+[16] R. K. Sandhu, R. Siddique, Influence of rice husk ash 
+(RHA) on the properties of self-compacting concrete: a review, 
+Construction and Building Materials, 2017, 153, 751-764, doi: 
+10.1016/j.conbuildmat.2017.07.165.  
+[17] F. Liu, W. Ding, Y. Qiao, L. Wang, An artificial neural 
+network model on tensile behavior of hybrid steel-PVA fiber 
+reinforced concrete containing fly ash and slag power, 
+Frontiers of Structural and Civil Engineering, 2020, 14, 1299-
+1315, doi: 10.1007/s11709-020-0712-6.  
+[18] P. Deb, S. K. Pal, Interaction behavior and load sharing 
+pattern of piled raft using nonlinear regression and LM 
+algorithm-based artificial neural network, Frontiers of 
+Structural and Civil Engineering, 2021, 15, 1181-1198, doi: 
+10.1007/s11709-021-0744-6.  
+[19] F. Khademi, M. Akbari, S. M. Jamal, M. Nikoo, Multiple 
+linear regression, artificial neural network, and fuzzy logic 
+prediction of 28 days compressive strength of concrete, 
+Frontiers of Structural and Civil Engineering, 2017, 11, 90-
+99, doi: 10.1007/s11709-016-0363-9.  
+[20] A. Tarawneh, G. Almasabha, E. Saleh, A. Alghossoon, O. 
+Alajarmeh, 
+November. 
+Data-driven 
+machine 
+learning 
+methodology for designing slender FRP-RC columns. In 
+Structures, Elsevier. Tarawneh ANN, 2023, 57,105207.  
+[21] A. Tarawneh, E. Saleh, G. Almasabha, A. Alghossoon, 
+Hybrid data-driven machine learning framework for 
+determining prestressed concrete losses, Arabian Journal for 
+Science and Engineering, 2023, 48, 13179-13193, doi: 
+10.1007/s13369-023-07714-y.  
+[22] A. Tarawneh, G. Almasabha, Y. Murad, ColumnsNet: 
+neural network model for constructing interaction diagrams 
+and slenderness limit for FRP-RC columns, Journal of 
+Structural 
+Engineering, 
+2022, 
+148, 
+04022089, 
+doi: 
+10.1061/(ASCE)ST.1943-541X.0003389. 
+[23] A. N. Tarawneh, E. F. Saleh, Machine learning framework 
+for predicting failure mode and flexural capacity of FRP-
+reinforced beams. Leveraging Artificial Intelligence in 
+Engineering, Management, and Safety of Infrastructure, Boca 
+Raton: CRC Press, 2022. 
+[24] C. Ferreira, Gene expression programming in problem 
+solving. Soft Computing and Industry. London: Springer 
+London, 2002, 635-653, doi: 10.1007/978-1-4471-0123-9_54.  
+[25] B. Iftikhar, S. C. Alih, M. Vafaei, M. A. Elkotb, M. 
+Shutaywi, M. F. Javed, W. Deebani, M. I. Khan, F. Aslam, 
+Predictive modeling of compressive strength of sustainable 
+rice husk ash concrete: Ensemble learner optimization and 
+comparison, Journal of Cleaner Production, 2022, 348, 
+131285, doi: 10.1016/j.jclepro.2022.131285. 
+ 
+Publisher’s Note: Engineered Science Publisher remains 
+neutral with regard to jurisdictional claims in published maps 
+and institutional affiliations. 

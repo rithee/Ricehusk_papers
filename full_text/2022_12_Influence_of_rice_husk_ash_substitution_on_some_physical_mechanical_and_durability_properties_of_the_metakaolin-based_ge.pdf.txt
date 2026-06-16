@@ -1,0 +1,659 @@
+
+===== PAGE 1 =====
+
+Influence of rice husk ash substitution on some physical, mechanical 
+and durability properties of the metakaolin-based geopolymer mortar
+J Sustain Const Mater Technol, Vol. 7, Issue. 2, pp. 88–94, June 2022
+Journal of Sustainable Construction Materials and Technologies
+Web page info: https://jscmt.yildiz.edu.tr
+DOI: 10.47481/jscmt.1093312
+Research Article
+Aigul KABİROVA1* , Mucteba UYSAL2
+1Department of Civil Engineering, Karadeniz Technical University, Trabzon, Türkiye
+2Department of Civil Engineering, Yıldız Technical University, İstanbul, Türkiye
+ARTICLE INFO
+Article history
+Received: 25 March 2022
+Accepted: 01 June 2022
+Key words:
+Geopolymer mortar, ground 
+granulated blast furnace slag, 
+metakaolin, rice husk ash, 
+substitution
+ABSTRACT
+In this study, it was investigated the influence of rice husk ash, which is a waste by-product 
+of industrial production, on ultrasonic pulse velocity, compressive strength, flexural strength 
+and high temperature endurance of the metakaolin-based geopolymer mortar. For this, the 
+sand was substituted by rice husk ash (RHA) at the rate of 25%, 50% and 75% by wt. in the 
+production of geopolymer mortar. A total of 4 series of metakaolin-based geopolymer mor-
+tars (reference series and three series with RHA substitution) were produced. In this study, 
+the geopolymer, in other words, the binder of the mortar was produced by metakaolin and 
+ground granulated blast furnace slag reacting with the mixture of sodium hydroxide (12M 
+NaOH) and sodium silicate (Na2SiO3) solutions. The ratio of metakaolin and reactant mixture 
+(12M NaOH + Na2SiO3) was determined for each series following the preliminary experi-
+ments. On the specimens produced as 50 mm cube and 40 x 40 x 160 mm prism, the intended 
+experiments were carried out after specimens underwent curing in a dry oven at 60oC during 
+72 h and gained strength. The results have shown that RHA could be used as a filling material 
+in metakaolin-based geopolymer mortars, and metakaolin-based geopolymer mortars with 
+50% RHA substitution can be an alternative to the pure metakaolin-based mortar.
+Cite this article as: Kabirova, A., & Uysal, M. (2022). Influence of rice husk ash substitution 
+on some physical, mechanical and durability properties of the metakaolin-based geopolymer 
+mortar. J Sustain Const Mater Technol, 7(2), 88–94.
+*Corresponding author.
+*E-mail address: zarakebir16@gmail.com
+Journal of Sustainable Construction 
+Materials and Technologies
+1. INTRODUCTION
+Nowadays, the interest to geopolymers is increasing.
+This is because geopolymer technology allows an opportu-
+nity to obtain a construction material with higher engineer-
+ing properties using waste materials, so that geopolymers 
+can be an alternative to Portland cement. The recycling of 
+waste materials provides for using natural resources eco-
+nomically. Another reason that makes geopolymers attrac-
+tive is that much fewer CO2 emissions occur during the 
+production process [1–6]. Geopolymers were discovered 
+through research on nonflammable and noncombustible 
+plastic materials in the aftermath of various catastrophic 
+fires involved common organic plastic in France between 
+1970–1972 and announced by Davidovits in 1978 [7]. Geo-
+polymers are binders obtained as a result of the reaction 
+Published by Yıldız Technical University Press, İstanbul, Türkiye
+This is an open access article under the CC BY-NC license (http://creativecommons.org/licenses/by-nc/4.0/).
+
+
+===== PAGE 2 =====
+
+J Sustain Const Mater Technol, Vol. 7, Issue. 2, pp. 88–94, June 2022
+89
+of wastes such as blast furnace slag, fly ash or red mud, or 
+calcined natural sources like kaolin, zeolite or bentonite 
+(metakaolin, metazeolite or metabentonite) with alkaline 
+solutions. Hydroxide solutions (NaOH, KOH, LiOH) and 
+silicates (Na2SiO3 and K2SiO3) used in the production of 
+geopolymer are defined as reactants [7], or reagents, in oth-
+er words, hardeners [8].
+Although Kriven (2017) [9] has stated the optimum 
+strength gain time of geopolymer mortar as 24 h, there 
+are few studies on the strength-time relationship for geo-
+polymer mortars and geopolymer concrete. Duxson et al. 
+(2007) [10] have observed a minimal change in the com-
+pressive strength of metakaolin-based geopolymer speci-
+mens between 7 and 28 days of ageing. Albidah et al. (2021) 
+[11] have obtained the results where the metakaolin-based 
+geopolymer concrete specimens at 7 days of ageing have 
+achieved 89.1–95.3% of the compressive strength obtained 
+at 28 days. Also, some geopolymer concrete specimens at 
+14 days had a compressive strength nearly equivalent to the 
+28-day compressive strength. In this study, the compressive 
+strength was evaluated at 7 and 28 days for geopolymer 
+mortars based on metakaolin, which is obtained by cal-
+cining purified kaolin clay and represents an amorphous 
+aluminosilicate. Because of these, metakaolin is compatible 
+with alkaline solutions and gains strength quickly. In addi-
+tion to this, ground granulated blast furnace slag was used 
+for faster gaining strength, according to [7].
+The reason for using rice husk ash (RHA) as a substitu-
+tion material is because it has the highest silica content (by 
+up to 94%–95%) among all plant residues [12, 13]. And so 
+it can be used as pozzolan. Bezerra et al. (2011) [14] have 
+observed that RHA presents pozzolanicity and the mortars 
+with incorporated RHA had values superior to the reference 
+mixtures in relation to the physical and mechanical perfor-
+mance probably due to pozzolanic reactions. In developed 
+countries, RHA is used to generate electricity, and biochar 
+Figure 1. Burned rice husk (≥63 μm).
+Figure 2. The prism specimens after curing.
+Table 1. Chemical composition of pozzolans of the binder
+Chemical composition (%)	
+SiO2	
+Al2O3	
+Fe2O3	
+TiO2	
+CaO	
+MgO	
+K2O	
+Na2O	
+L.O.I.
+Metakaolin	
+56.10	
+40.25	
+0.85	
+0.55	
+0.19	
+0.16	
+0.55	
+0.24	
+1.11
+GGBS	
+40.60	
+12.83	
+1.37	
+0.75	
+36.08	
+6.87	
+0.68	
+0.79	
+0.03
+Table 2. Compounds of geopolymer mortars (for 1000 g MK)
+Geopolymer	
+12M NaOH	
+Na2SiO3	
+12 M NaOH:	
+MK	
+MK:RM	
+GGBS	
+RS	
+RHA	
+RHA:RS 
+mortar	
+solution	
+	
+Na2SiO3 rate	
+	
+rate	
+	
+	
+	
+rate
+MK	
+433.3	
+866.7	
+1:2	
+1000	
+1:1.3	
+133.3	
+2250	
+–	
+–
+MK-RHA25	
+466.7	
+933.3	
+1:2	
+1000	
+1:1.4	
+133.3	
+1687.5	
+562.5	
+25:75
+MK-RHA50	
+583.3	
+1166.7	
+1:2	
+1000	
+1:1.75	
+133.3	
+1125	
+1125	
+50:50
+MK-RHA75	
+700	
+1400	
+1:2	
+1000	
+1:2.1	
+133.3	
+562.5	
+1687.5	
+75:25
+
+
+===== PAGE 3 =====
+
+J Sustain Const Mater Technol, Vol. 7, Issue. 2, pp. 88–94, June 2022
+90
+is used in the production of high-performance concrete or 
+ultra-high-performance concrete [12, 15, 16].
+Nowadays, there are studies on the influence of partial 
+replacement of chief binder material (e.g. metakaolin, fly 
+ash) with RHA in the geopolymer [17–21]. Results of stud-
+ies, where metakaolin (MK) was replaced by 20–30 wt% 
+RHA, show that MK+RHA generates a compact pore struc-
+ture, which contributes to improvement of compressive 
+strength [17, 18]. Wen et al. (2019) [20] have investigated 
+the viability of a novel geopolymer derived from non-cal-
+cined sludge and modified rice husk ash blend. Yomthong 
+et al. (2019) [21] have improved the compressive strength of 
+fly ash-based geopolymer through usage of RHA at 3 wt%. 
+On the one hand, there are studies where the ratios of RHA 
+were higher. Mrema and Mboya (2016) [13] have investigat-
+ed the influence of RHA/Lime ratio on the strength proper-
+ties of sand mortars. There were 40/60, 50/50, 60/40, 70/30 
+and 80/20 RHA/Lime ratios in the binder. It has been found 
+out in the study that the optimum proportions are 60% 
+RHA and 40% lime. The compressive strength was increased 
+when the rate of RHA was increased from 40 to 60 wt%, and 
+it was decreased when RHA was increased from 60 to 80 
+wt%. In this study, considering all of these, it is researched 
+the potential of using RHA at the rate of 25%, 50% and 75% 
+by wt. in the sand of metakaolin-based geopolymer mortar.
+2. MATERIALS AND MIX DESIGN
+In the production of geopolymer mortars, there were 
+used metakaolin with specific gravity of 2.52, ground gran-
+ulated blast furnace slag with specific gravity of 2.91, 12 
+molar sodium hydroxide (12M NaOH) solution, sodium 
+silicate (Na2SiO3), 2 mm river sand and 63 μm rice husk ash. 
+The molarity of NaOH solution was selected according the 
+existing study [22]. The specific gravity of river sand (RS) is 
+2.67 and it is 2.14 for rice husk ash (RHA). In Figure 1, there 
+is shown the burned rice husk (≥63 μm). It was used after 
+passing through the sieve. The chemical properties of the 
+pozzolans of the binder and the compounds of geopolymer 
+mortars are given in Table 1 and Table 2, respectively.
+ In Figure 2, there are shown the specimens underwent 
+curing in a dry oven at 60oC during 72 h.
+3. TEST METHODS
+Experimental studies consist of two stages. In the 
+first stage, a total of 24 cubes of 50 mm, and a total of 
+24 prisms of 40 x 40 x 160 mm were produced for com-
+pression and flexural testing of the specimens at 7 and 28 
+days of ageing. Testing for compressive strength was per-
+formed according to ASTM C109/C109M-20a [23] on the 
+Figure 3. (a) Universal press, some views from (b) compression tests and (c) three-point flexural tests.
+
+
+===== PAGE 4 =====
+
+J Sustain Const Mater Technol, Vol. 7, Issue. 2, pp. 88–94, June 2022
+91
+cubes. Three-point flexural strengths of the prisms were 
+obtained according to ASTM C349-18 [24].
+In Figure 3, there are shown the universal press for 
+compression and flexural testing, and some views from 
+the testing.
+In Figure 4, there is shown a view from the ultrasonic pulse 
+velocity test performed according to ASTM C597-09 [25].
+In the second stage, it was selected the highest value of 
+the 7-day compressive strength from the series with RHA 
+substitution, and the high temperature (200oC, 400oC, 600oC 
+and 800oC) tests were performed on a total of 24 prisms (12 
+specimens each for both of MK and MK-RHA series). The 
+high temperature testing was performed following the exist-
+ing study [22]. Before the tests, oven dry prism specimens’ 
+Figure 4. A view from ultrasonic pulse velocity tests.
+Figure 5. Nabertherm B130 high temperature electric furnace.
+Table 3. Compressive strength, ultrasonic pulse velocity (UPV) and flexural strength of geopolymer mortars at 7 and 28 days of ageing
+Geopolymer	
+Compressive	
+Increase in	 	
+Flexural	 	
+UPV 
+mortar	
+strength	 	
+compressive		
+strength	 	
+(m/s) 
+	
+(MPa)	
+	
+strength (%)		
+(MPa)
+	
+7 days	
+28 days	
+7 days	
+28 days	
+7 days	
+28 days	
+7 days	
+28 days
+MK	
+45.68	
+40.47	
+–	
+–	
+8.53	
+8.95	
+3403	
+3464
+MK-RHA25	
+49.13	
+53.60	
+7.55	
+32.44	
+8.44	
+8.81	
+3381	
+3432
+MK-RHA50	
+50.12	
+53.65	
+9.75	
+32.57	
+8.39	
+7.69	
+3118	
+3212
+MK-RHA75	
+35.13	
+33.85	
+-23.1	
+-16.36	
+7.18	
+5.80	
+2725	
+2898
+Table 4. The results for MK-RHA50 exposed to high temperatures
+High temperature/	
+Weight loss	
+UPV (m/s)	
+	
+Flexural	
+Strength loss 
+Geopolymer mortar	
+(%)	
+	
+	
+strength	
+(%)
+	
+	
+	
+Before test	
+After test
+200oC
+	
+MK	
+0.48	
+3385	
+2630	
+3.62	
+57.56
+	
+MK-RHA50	
+–	
+3004	
+2855	
+3.86 	
+53.99
+400oC
+	
+MK	
+3.57	
+3441	
+1396	
+1.89	
+77.84
+	
+MK-RHA50	
+5.02	
+2979	
+2215	
+1.49 	
+82.24
+600oC
+	
+MK	
+5.84	
+3410	
+833	
+1.06	
+87.57
+	
+MK-RHA50	
+6.56	
+3008	
+2156	
+1.68	
+79.98
+800oC
+	
+MK	
+13.88	
+3400	
+0	
+0.73	
+91.44
+	
+MK-RHA50	
+7.35	
+2943	
+1688	
+0.97 	
+88.44
+
+
+===== PAGE 5 =====
+
+J Sustain Const Mater Technol, Vol. 7, Issue. 2, pp. 88–94, June 2022
+92
+weights and ultrasonic pulse velocities were determined. Then 
+specimens were exposed to the effect of 200oC, 400oC, 600oC 
+and 800oC in the Nabertherm B130 furnace shown in Figure 5. 
+The applied temperature rise rate was 5oC/min. The specimens 
+were kept at the target temperature for 60 min. After that, the 
+heating was stopped and the furnace door was opened, and 
+the specimens were cooled at the room temperature (23oC). 
+In Figure 6, there are shown prism specimens placed in the 
+furnace. Three days after the high temperature application, 
+the specimens’ weight, ultrasonic pulse velocity and flexural 
+strength were obtained, and the losses were determined.
+4. RESULTS AND DISCUSSIONS
+The results from the first stage of experimental studies 
+are given in Table 3 and Figure 7–9.
+In Table 3, it is clearly seen that 25 and 50 wt% RHA 
+substitution increases the metakaolin-based mortar com-
+pressive strength. The highest compressive strength was 
+obtained by 50 wt% substitution. Also, the obtained results 
+are shown that RHA increases the compressive strength and 
+flexural strength, when it changes from 25 to 50 wt%, and 
+RHA reduces both strengths, when it changes from 50 to 
+75 wt%. In existing studies, it is indicated that up to 60 wt% 
+RHA added filling effects, and strong Si-O-Si bonds aid in 
+enhancing strength [13, 17–19].
+In this study, also, no significant changes were not-
+ed at 28 days for both compressive strength and flexural 
+strength. It is seen that the compressive strength of geo-
+polymer mortars with 25 and 50 wt% RHA substitution 
+at 7 days of ageing achieved 91.66% and 93.42% of the 28-
+day compressive strength, respectively. These results agree 
+with the existing results [10, 11, 13].
+Figure 6. The prism specimens placed in the furnace.
+Figure 7. Compressive strength of geopolymer mortars at 7 
+and 28 days of ageing.
+Figure 8. Flexural strength of geopolymer mortars at 7 and 
+28 days of ageing.
+Figure 9. Ultrasonic pulse velocity of geopolymer mortars 
+at 7 and 28 days of ageing.
+
+
+===== PAGE 6 =====
+
+J Sustain Const Mater Technol, Vol. 7, Issue. 2, pp. 88–94, June 2022
+93
+In this study, UPV values decreased with an increas-
+ing rate of RHA substitution. It agrees with the existing 
+results, and it is because of a material with a low density 
+has more voids and UPV will be longer in the material 
+[12]. In the study, RHA, which had lower density, pro-
+duced more voids in the mortar, and as a result, the low-
+er UPV and flexural strength values were obtained.
+According to the results obtained in the first stage, 
+the geopolymer mortar with 50 wt% RHA substitution 
+(MK-RHA50) was selected for the second stage. The re-
+sults from the second stage of experimental studies are 
+given in Table 4 and Figure 10.
+According to the results given in Table 4, the geo-
+polymer mortar with 50 wt% RHA substitution has bet-
+ter high temperature endurance. In Liang et al. (2019) 
+[18], there is indicated that the pores of geopolymer 
+were refined by the filling effects of RHA and enrichment 
+of gel phases, which was the primary reason for the opti-
+mization of geopolymer thermal stability.
+5. CONCLUSION
+The current study was aimed to investigate the us-
+ability of rice husk ash (RHA) on the production of 
+metakaolin-based geopolymer mortars. For this, it 
+was determined ultrasonic pulse velocity, compressive 
+strength, flexural strength and high temperature endur-
+ance of the geopolymer mortars, where RHA was used 
+at rate 25%, 50% and 75% in the sand. The results have 
+shown that RHA could be used as a filling material in 
+metakaolin-based geopolymer mortars. On the other 
+hand, it was seen that metakaolin-based geopolymer 
+mortar containing 50 wt% RHA can be an alternative to 
+pure metakaolin-based mortar and it will be beneficial 
+in terms of the economic use of aggregate/sand.
+DATA AVAILABILITY STATEMENT
+The authors confirm that the data that supports the 
+findings of this study are available within the article. Raw 
+data that support the finding of this study are available from 
+the corresponding author, upon reasonable request.
+CONFLICT OF INTEREST
+The authors declare that they have no conflict of interest.
+FINANCIAL DISCLOSURE
+The authors declared that this study has received no fi-
+nancial support.
+PEER-REVIEW
+Externally peer-reviewed.
+REFERENCES
+[1]	
+Davidovits, J. (2013). A review on Geopolymer ce-
+ment. 
+www.geopolymer.org/library/technical-pa-
+pers/21-geopolymer-cement-review-2013
+[2]	
+Geopolymer Institute (2006). Geopolymer Cement 
+for mitigation of Global Warming. www.geopoly-
+mer.org/applications/global-warming
+[3]	
+McLellan, B. C., Williams, R. P., Lay, J., Riessen, A., 
+& Corder, G. D. (2011). Costs and carbon emissions 
+for geopolymer pastes in comparison to ordinary 
+portland cement. Journal of Cleaner Production, 
+19(9–10), 1080–1090. [CrossRef]
+[4]	
+Thaarrini, J., & Dhivya, S. (2016). Comparative 
+Study on the Production Cost of Geopolymer and 
+Conventional Concretes. International Journal of 
+Civil Engineering Research, 7(2), 117–124. 
+[5]	
+Rajini, B., Narasimha Rao, A. V., & Sashidhar C. 
+(2020). Cost Analysis of Geopolymer Concrete 
+Over Conventional Concrete. International Jour-
+nal of Civil Engineering and Technology, 11(2), 
+23–30. [CrossRef]
+[6]	
+Rintala, A., Havukainen, J., & Abdulkareem, M. 
+(2021). Estimating the Cost-Competitiveness of Re-
+cycling-Based Geopolymer Concretes. Recycling, 
+6(3), 46. [CrossRef]
+[7]	
+Davidovits, J. (2008). Geopolymer chemistry and appli-
+cations (Second Ed.). (pp. 584). Institut Géopolymère.
+[8]	
+Davidovits, J. (2017). Why alkali-activated materi-
+als are not geopolymers? www.geopolymer.org/faq/
+alkali-activated-materials-geopolymers 
+[9]	
+Kriven, W. (2017). The geopolymer route to high 
+tech ceramic. www.youtube.com/watch?v=9kqA-
+p9XrGWU 
+[10]	
+Duxson, P., Mallicoat, S. W., Lukey, G. C., Kriven, W. 
+M., & van Deventer, J. S. J. (2007). The effect of alkali 
+and Si/Al ratio on the development of mechanical 
+properties of metakaolin-based geopolymers. Col-
+loids and Surfaces A: Physicochemical and Engi-
+neering Aspects, 292(1), 8–20. [CrossRef]
+Figure 10. Flexural strength losses of MK-RHA50 exposed 
+to high temperatures.
+
+
+===== PAGE 7 =====
+
+J Sustain Const Mater Technol, Vol. 7, Issue. 2, pp. 88–94, June 2022
+94
+[11]	
+Albidah, A., Alghannam, M., Abbas, H., Almusal-
+lam, T., & Al-Salloum Y. (2021). Characteristics of 
+metakaolin-based geopolymer concrete for different 
+mix design parameters. Journal of Materials Re-
+search and Technology, 10, 84–98.
+[12]	
+Zaki, A., & Sola, Ö. Ç. (2020). Investigation of 
+Strength and Durability Properties of Mortars with 
+Rice Husk Ash Additive. Alanya Alaaddin Keykubat 
+University (ALKU) Journal of Science, 2(2), 54–61. 
+[13]	
+Mrema, A., & Mboya, H. (2016, September 5–7). 
+Strength properties of rice husk ash-lime mortars 
+[Conference presentation]. The Sixth International 
+Conference on Structural Engineering, Mechanics 
+and Computation, Cape Town, South Africa. www.
+researchgate.net/publication/307935431_Strength_
+properties_of_rice_husk_ash-lime_mortars [CrossRef]
+[14]	
+Bezerra, I. M. T., De Souza, J., & De Carvalho, J. B. 
+Q. (2011). Application of the rice husk ash in mor-
+tars for bricklaying. Revista Brasileira de Engenharia 
+Agrícola e Ambiental, 15(6), 639–645. [CrossRef]
+[15]	
+Kang, S. H., Hong, S. G., & Moon, J. (2018). The use 
+of rice husk ash as reactive filler in ultra-high per-
+formance concrete. Cement and Concrete Research, 
+115, 389–400. [CrossRef]
+[16]	
+Faried, A. S., Mostafa, S. A., Tayeh, B. A., & Tawfik, 
+T. A. (2021). The effect of using nano rice husk ash 
+of different burning degrees on ultra-high-perfor-
+mance concrete properties. Construction and Build-
+ing Materials, 290, Article 123279. [CrossRef]
+[17]	
+Zhu, H., Liang, G., Zhang, Z., Wu, Q., & Du, J. 
+(2019). Partial replacement of metakaolin with ther-
+mally treated rice husk ash in metakaolin-based 
+geopolymer. Construction and Building Materials, 
+221, 527–538. [CrossRef]
+[18]	
+Liang, G., Zhu, H., Zhang, Z., & Wu, Q. (2019). Ef-
+fect of rice husk ash addition on the compressive 
+strength and thermal stability of metakaolin based 
+geopolymer, Construction and Building Materials, 
+222, 872–881. [CrossRef]
+[19]	
+Hossain, Sk S., Roy, P. K., & Bae, C. J. (2021). Utiliza-
+tion of waste rice husk ash for sustainable geopoly-
+mer: A review. Construction and Building Materi-
+als, 310, Article 125218. 
+[20]	
+Wen, N., Zhao, Y., Yu, Z., & Liu, M. (2019). A sludge 
+and modified rice husk ash-based geopolymer: 
+synthesis and characterization analysis. Journal of 
+Cleaner Production, 226(44), 805–814. [CrossRef]
+[21]	
+Yomthong, K., Wattanasiriwech, S., & Wattanasiri-
+wech, D. (2019). Rice husk ash-geopolymer com-
+posite. IOP Conference Series Materials Science and 
+Engineering, 600(1), Article 012003. [CrossRef]
+[22]	
+Aygörmez, Y. (2018). Kolemanit atığı ve silis du-
+manı katkılı metakaolin tabanlı geopolimer harcın 
+mekanik ve durabilite özelliklerinin incelenmesi 
+[Unpublished Doctorial Thesis]. Yildiz Technichal 
+Graduate School of Natural and Applied Sciences. 
+[Turkish]
+[23]	
+ASTM C109/C109M-20a. (2020). Standard test 
+method for compressive strength of hydraulic ce-
+ment mortars (using 2-in. or [50-mm] cube speci-
+mens). https://webstore.ansi.org/Standards/ASTM/
+astmc109c109m20?gclid=Cj0KCQjw4uaUBh-
+C8ARIsANUuDjXGZGLskNoj3J6_mBYWjsrrH-
+CvYmpWnFgGQK9rntmlHKVZYg02lXPUaA-
+mA4EALw_wcB
+[24]	
+ASTM C349-18. (2018). Standard test method for 
+compressive strength of hydraulic-cement mortars 
+(using portions of prisms broken in flexure). https://
+webstore.ansi.org/Standards/ASTM/astmc34918?g-
+clid=Cj0KCQjw4uaUBhC8ARIsANUuDjXhvi1k-
+MD7c3JXDlwPbOarJxVCibJ4--9GTWvPoXUm-
+jS7zMCTgTpMsaAjKbEALw_wcB
+[25]	
+ASTM C597-09. (2009). Standard test method 
+for pulse velocity through concrete. https://web-
+store.ansi.org/Standards/ASTM/astmc59709?g-
+clid=Cj0KCQjw4uaUBhC8ARIsANUuDjVYjYr-
+maWofJIDtYc_dtJKmGMcouOBQMfsyaYv9B5avn-
+ZI-lI3TxrkaAgKnEALw_wcB

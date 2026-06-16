@@ -1,0 +1,885 @@
+
+===== PAGE 1 =====
+
+CONSTRUCTION 
+e-ISSN: 2785-8731 
+VOL. 2, ISSUE 2, 93 – 103 
+DOI: https://doi.org/10.15282/construction.v2i2.8710 
+ 
+ 
+ 
+ 
+*CORRESPONDING AUTHOR  | A. Fuzail Hashmi  |   fuzailhashmi.amu@gmail.com 
+93
+© The Authors 2022. Published by University Malaysia Pahang Publishing. This is an open access article under the CC BY license. 
+ 
+REVIEW ARTICLE 
+Green Concrete: An Eco-Friendly Alternative to the OPC Concrete  
+A. Fuzail Hashmi1,*, M. S. Khan2, M. Bilal1, M. Shariq2 and A. Baqi2 
+1Civil Engineering Section, University Polytechnic, Aligarh Muslim University, India.   
+2Department of Civil Engineering, Aligarh Muslim University, India. 
+ 
+ARTICLE HISTORY 
+Received: 19th Sept. 2022 
+Revised: 01st Nov. 2022 
+Accepted: 21st Nov. 2022 
+ 
+KEYWORDS 
+Green concrete  
+Waste material 
+Sustainability 
+Mechanical properties 
+Durability 
+INTRODUCTION 
+Concrete has a significant environmental effect since it consumes substantial natural resources and emits roughly one 
+tonne of CO2 per tonne of  Portland cement (OPC) produced [1]. Growing populations are likely one of the most influential 
+aspects of increased concrete consumption [2]. This substantial expansion stresses natural resources and 
+necessitates commercial and industrial infrastructure. Cement output is expected to reach 4 billion tonnes annually by 
+2030 [3]. Cement manufacturing accounts for almost 5% of global anthropogenic greenhouse gas emissions [4]. Because 
+of the negative environmental impact, new materials are needed to curb the wasteful use of natural resources or reuse by-
+products from manufacturing and farming. 
+Nowadays, the term "Green" refers to the entire environment, which is an essential aspect on a global scale. Green 
+concrete is described as concrete that contains at least one component made from waste, whose manufacturing process 
+does not harm the environment, or which has great results and life cycle sustainability. Researchers have made 
+considerable attempts to arrive at alternatives capable of significantly lowering high energy consumption and 
+environmental impacts during the cement manufacturing processes, such as adopting the concept of ecological 
+sustainability and green chemistry. The current high demand for natural resources to satisfy infrastructure demands has 
+provided enormous prospects for green infrastructural development utilizing waste materials [5-8]. These waste materials, 
+which may be classified as agricultural, industrial, or municipal waste, serve as supplemental cementitious materials and 
+are illustrated in Fig. 1. The utilization of these wastes not only makes the concrete sustainable but also helps in solving 
+the problem of waste disposal. Green concrete is the principle of incorporating environmental considerations into concrete 
+in terms of raw material procurement, mix formulation, structural design, building, and maintenance of concrete structures 
+[9]. 
+Conventional concrete has intrinsic limitations, such as excessive utilization of natural raw materials, limited early-
+age strength properties, and environmental pollution [10-12]. On the other hand, green concrete has several advantages, 
+such as improved concrete characteristics, longer strength, lower shrinkage rate, reduced CO2 emissions, and natural 
+resource conservation etc [13]. Conventional concrete mainly comprises four basic components - cement, aggregates, 
+water, and additives. Engineers' primary focus is on finding ways to reduce the world's cement industry's carbon footprint, 
+as well as the massive use of aggregates. Carbon dioxide emissions are present at all stages of the OPC manufacturing 
+and application processes.  Energy-intensive processes like extracting limestone from quarries and the chemical 
+decomposition of limestone calcium carbonate (main ingredient of cement) to lime (calcium oxide) contribute CO2 
+ABSTRACT – The popularity of concrete has resulted in the considerable consumption of natural 
+resources and significant emission of CO2 gas into the atmosphere. The key constituents of the 
+concrete are the cement and the natural aggregates. These major concrete elements are 
+recommended to be replaced with other materials to solve sustainability issues. Hence, by-
+products like pulverized granular blast-furnace slag, fly ash, rice husk ash, silica fume, recycled 
+coarse aggregates etc., are added to the concrete to utilize the waste products and produce 
+sustainable concrete. Cement manufacturing accounts for 8 to 10% of total global CO2 emissions. 
+The construction industry is progressively adopting green concrete use in buildings because of its 
+inherent benefits and limitations of traditional concrete. Green concrete is available in a variety of 
+forms such as high-volume fly ash concrete, alkali-activated concrete, recycled aggregate 
+concrete, ultra-high performance concrete, geopolymer concrete etc. Green concrete has various 
+environmental, technical, and economic advantages i.e.,  greater durability, enhanced workability, 
+and pumpability, decreased permeability, controlled bleeding, higher acid resistance, and 
+decreased plastic shrinkage cracking. These properties encourage faster concrete production, 
+shorter curing times, lower construction costs, earlier project completion, lower maintenance costs, 
+and longer service life of construction projects. This review article aims to comprehensively explain 
+the fresh, hardened, and durability properties of green concrete and knowledge gaps in green 
+concrete. The literature revealed that further research is needed to accurately assess the long-
+term properties, notably creep and shrinkage behaviour of structural or reinforced elements of 
+green concrete.  
+
+
+----- TABLE p1#1 -----
+
+REVIEW ARTICLE | 
+
+===== PAGE 2 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+94 
+ 
+ journal.ump.edu.my/construction ◄ 
+emissions to the environment. Burning fossil fuels during the manufacturing process, which is required to heat raw 
+materials to 1400 C in the rotating kiln, significantly contributes to harmful emissions [14].  
+The fresh and hardened qualities of concrete are enhanced if the waste materials are efficiently used in the concrete. 
+Biajawi et al. [15] observed that waste materials and by-products like coal bottom ash, rice husk ash, coconut shells, 
+plastic, glass, wood etc., are effectively used in the concrete. According to Biajawi et al.[16], concrete and mortar may 
+be made sustainable by including recycled resources like coal bottom ash. Cement production's massive impact on the 
+economy is mitigated, and a sustainable, functional green environment is created to achieve national wealth. Fly ash 
+shortens the curing time for mass concrete structures without affecting long-term strength and improved workability [17-
+21]. Rice husk ash lessens the water absorption of concrete [22,23] and improves the durability and chemical resistance 
+[24-29]. The addition of rice husk ash in the concrete also increased early age strength and improved the microstructure 
+by reducing the size of the interfacial transition zone between the paste and the aggregate [30-32]. Using silica fume in 
+concrete has several advantages i.e., better flexural and compressive strengths, greater pozzolanic activity, and multi-
+range macro-porosity characteristics [33]. It is used to make high-porosity cement foams and high-strength lightweight 
+concrete owing to its macroporosity properties. Load-bearing capacity, durability, and resistance to impact are improved 
+by using silica fume [34]. Using metakaolin as a pozzolan is useful in concrete since it greatly enhances the pore structure. 
+It may increase permeability and resistance against alkali-silica reactions while considerably boosting early-age strength 
+in blended cement products [35]. Ground granular blast-furnace slag (GGBFS), fly ash, and municipal solid waste ash 
+significantly reduce linear shrinkage, porosity, and heat of hydration and improvement in the bending toughness and 
+ductility [36-37]. Adding glass scraps to the concrete enhances compressive strength and resilience to high and low 
+temperatures  [38,39]. However, there are limitations to employing these by-products, and choosing one relies on several 
+factors, such as mechanical and chemical qualities, availability, and cost. Some key barriers to green concrete application 
+in construction are poor standards of locally accessible materials, elevated building costs, and technical obstacles [40]. 
+Energy-efficient technology advancements and innovative cement formulations are necessary, along with technical 
+recommendations, to produce sustainable green concrete [41]. 
+Many environmental and financial benefits are associated with plastic waste in concrete, but a few drawbacks hamper 
+its widespread usage. Harvesting plastic waste before recycling is a severe restriction. Plastic waste from diverse streams 
+is usually polluted with plastics and other pollutants [42]. Plastic wastes are formed of various grades and kinds of plastic, 
+which may produce non-isotropic construction performance. Complex compositions of certain plastics render typical 
+recycling procedures unsuitable for their reuse, resulting in garbage in the marine environment. Plastic wastes are 
+inappropriate for use in situations where a high toughness and modulus of elasticity are required due to their low density. 
+Because of its low density, plastic waste needs to be compressed to fit into smaller trucks, which drives up transportation 
+costs [43]. Plastics have low surface energy. Thus, they don't work very well for situations like plastic waste embedded 
+in a composite, where strong mechanical bonding is required. Reduced mechanical performance of the final composite 
+may arise from insufficient bonding. There is currently no accepted standard for implementing plastic waste in the 
+building industry. Construction applications, such as plastic waste in cementitious composites, have been the subject of 
+substantial research but are not yet standardized commercially [44].  
+ 
+Figure 1. Wastes obtained from different sectors. 
+This study aims to contribute to green concrete by reviewing the literature on the sustainability, strength, fresh and 
+hardened properties, and durability properties of green concrete to ascertain that it can be used as an eco-friendly 
+structural material in place of Portland cement. The present paper attempted to review the concrete containing fly ash, 
+rice husk ash, silica fume, GGBFS, glass, plastics, etc., as a cement replacement. This study also provides insights into 
+the performance of green concrete in terms of elevated temperature, acid and chemical attack, chloride ion penetration, 
+and freezing and thawing exposures. 
+
+
+===== PAGE 3 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+95 
+ 
+ journal.ump.edu.my/construction ◄ 
+FRESH PROPERTIES OF GREEN CONCRETE 
+Water requirement and slump 
+The freshness and consistency of concrete before it hardens can be obtained with the help of a slump test. This test 
+aims to determine how easily freshly made concrete can be poured. The simple nature of the test's setup and execution 
+has contributed to its widespread adoption. Slump testing is done in the field to ensure consistency in varying loads of 
+concrete. 
+Good workable fly ash concrete at a low water-binder ratio can be obtained with a superabundant dosage of 
+superplasticizer [45].  Slump values increased with increasing fly ash replacements of cement [46,47] because fly ash has 
+a higher specific surface area and lower specific gravity than Portland cement. Slump appeared to reduce with increasing 
+rice husk ash [48]. However, Abalaka [49] reported a rise in a slump with increasing rice husk ash by cement substitution 
+of 5%. Hunchate et al. [50] observed that slump increased when 10% silica fume was added to cement 
+substitution. Amarkhail [51] found that slump values decreased beyond 15% silica fume cement replacement. Slump 
+values appeared to grow with increasing GGBFS levels, as reported by Karri et al. [52] and Arivalagan [53]. Rice husk 
+ash's high water absorption is responsible for the decline in slump values as a result of which superplasticizer is commonly 
+used to improve workability in concrete. The macro-mesoporous structure of rice husk ash and silica fume, together with 
+the pore volume of concrete, contribute to their large specific surface area and water absorption capacity, all of which 
+contribute to slump reduction. The fineness, the water-cement ratio, and the cement replacement ratio all have a role in 
+reducing the slump [54]. Slump values considerably decrease if waste materials like glass and plastics are added to the 
+concrete [55]. The slump values decrease if the cement is replaced by agriculture or municipal wastes. However, some 
+industrial waste enhances the slump values when mixed appropriately. Improvement or reduction in the slump values on 
+the addition of different types of wastes to the concrete is shown in Table 1. 
+ Setting time, Workability, Segregation and Bleeding 
+The time that cement and other cementitious materials have to set before they can be moved, placed, or compacted is 
+called the setting time. The setting time for GGBFS-based geopolymers varies with calcium concentration, particle size, 
+and Si/Al molar ratios [56]. Ravina and Mehta [57] reported a delay in concrete setting time ranging from 20 to 240 
+minutes depending on the kind and quantity of fly ash used. Sulphate and available alkali levels of fly ash affect the length 
+of time it takes for the material to set.  
+Fresh concrete workability is the ease with which it may be handled, placed, compacted, and finished. The workability 
+of geopolymer concrete decreased due to the rapid reaction of calcium and the angular and spherical morphologies of fly 
+ash particles [58]. According to Duval and Kadri [59], 10% silica fume may be used as a substitute for cement without 
+compromising the workability of the concrete. 
+Fly ash based concrete reportedly shows high deformability and stability [60]. Reduced water content resulted in a 
+prolonged time to flow. A higher fly ash content reduces the segregation index, whereas a higher superplasticizer dose 
+causes the opposite effect. Shen [61] found that paste viscosity and yield stress may be increased while dynamic 
+segregation is decreased with smaller aggregate size, continuous aggregate gradation, lower aggregate density, and greater 
+paste viscosity. Bleeding occurs when water moves to the top of freshly poured concrete and may be seen on the surface. 
+Bleeding has undesirable consequences, one of which is that concrete characteristics might be unpredictable. Wainwright 
+and Ait-Aider [62] claim that bleeding is affected by the cement's particle size distribution, the fine concentration in the 
+concrete mix, and the cement's reactivity. There was no noticeable difference in bleeding when the authors compared the 
+concrete containing GGBFS and OPC to 100% OPC concrete. The different properties of fresh concrete are presented in 
+Table 1.  
+Table 1. Effect of different types of waste on fresh properties of concrete.  
+Waste material 
+Slump values 
+Workability 
+Setting time 
+Segregation and 
+bleeding 
+Fly ash 
+Increased [46,47] 
+Improved [63] 
+Setting time increased 
+[63,64]  
+Reduced [60,61] 
+Silica Fume 
+Increased at lower 
+replacement but 
+decreased at higher 
+replacement [50] 
+Improved when lesser 
+percentage is added 
+[59] 
+Prolonged the setting 
+time [66] 
+Reduced [59] 
+GGBFS 
+Increased [52, 53] 
+Decreased [58] 
+Setting time delayed 
+[56] 
+Higher content of 
+GGBFS increased the 
+segregation and 
+bleeding [58] 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 4 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+96 
+ 
+ journal.ump.edu.my/construction ◄ 
+Table 2. Effect of different types of waste on fresh properties of concrete (cont.) 
+Waste material 
+Slump values 
+Workability 
+Setting time 
+Segregation and 
+bleeding 
+Metakaolin 
+Decreased with the 
+increment of 
+metakaolin in concrete 
+[67] 
+Workability of 
+concrete reduced 
+[64,65] 
+Setting time reduced 
+[64,67] 
+Reduced [67] 
+Agriculture waste 
+(Rice husk ash, 
+sawdust ash etc) 
+Decreased [48, 54] 
+Workability Reduced 
+[54] 
+Increased [69] 
+Reduced [69] 
+Domestic waste (glass, 
+plastic) 
+Decreased [55] 
+Workability Reduced 
+[55,68] 
+Increased [55] 
+Segregation and 
+bleeding increases with 
+higher waste content 
+[55] 
+MECHANICAL PROPERTIES OF GREEN CONCRETE 
+Compressive strength 
+The concrete's compressive strength is an essential attribute in the design of concrete structures and is utilized for 
+quality monitoring in the field. Fly ash as a cement replacement material in concrete slowed the hydration process and 
+decreased the concrete's compressive strength. Although, due to the pozzolanic activity of fly ash, the compressive 
+strength increases later in the curing process [70,71]. At 40%, 45%, and 50% incorporation, fly ash lowered the 
+compressive strength of concrete by 28%, 33%, and 37%, respectively [72]. Hashmi et al. [73] reported that High volume 
+fly ash (HVFA) concrete has low early age strength, but with respect to concrete age, adequate strength can be obtained 
+due to the pozzolanic behaviour of fly ash particles. Unlike fly ash, silica fumes improved concrete's compressive strength 
+due to its high pozzolanacity, reactivity, and small silica fume particles. Due to the finer particle size of silica fumes, 
+adding 6%, 10%, and 15% of the silica fumes enhanced the compressive strength of concrete by 12%, 16%, and 20%, 
+respectively [74]. The incorporation of rice husk ash up to 15% enhanced the compressive strength of concrete because 
+of micro filling and pozzolanic properties. However, the increased rice husk ash content further reduced compressive 
+strength [75,76]. The concrete with rice husk ash had more compressive strength than the control mix. According to the 
+previous research, compressive strength of concrete reduces with an increase in the percentage of GGBFS content in the 
+concrete. However, few studies showed a slight improvement in compressive strength at lower cement replacement 
+[77,78]. Despite this, the compressive strength of concrete with 50% GGBFS was 11% lower than the control mix [77]. 
+Fig. 2 illustrates the compressive strength of green concrete prepared using different waste materials at 7, 28, and 90 days. 
+The highest compressive strength is achieved in concrete containing silica fume. Fly ash reduced the compressive strength 
+of concrete and retarded the hydration process. Likewise, the incorporation of GBBFS showed the same impact on the 
+strength of concrete, while at 50% cement replacement, GBBFS caused the threshold reduction to the compressive 
+strength. However, silica fume increases concrete's compressive strength due to its fine particle size and pozzolanic 
+content. Rice husk increased the compressive strength only up to 15% cement replacement.  
+ 
+Figure 2. Compressive strength for different waste materials utilized in green concrete [79-81].  
+Modulus of Elasticity 
+Modulus of elasticity is defined as the ratio of the stress applied to the strain produced at the applied stress. Similar to 
+the compressive strength, a distinct trend was observed in the modulus of elasticity when different cement replacement 
+materials were incorporated into concrete. A decrease in the modulus of elasticity was also noticed as the fly ash 
+substitution increased. The modulus of elasticity of concrete decreased by 30%, 33%, and 36% due to the addition of 
+0
+10
+20
+30
+40
+50
+60
+70
+80
+90
+Silica Fume
+Rice husk ash
+GGBFS
+Waste glass
+HVFA
+Compressive strength (MPa)
+7 days
+28 days
+90 days
+
+
+===== PAGE 5 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+97 
+ 
+ journal.ump.edu.my/construction ◄ 
+40%, 45%, and 50% fly ash content in the concrete [73]. The modulus of elasticity follows the same trend as that of 
+compressive strength. Silica fumes fill the voids formed in the concrete, forming a more compact structure, leading to a 
+high stress-strain rate under loading, thus enhancing the modulus of elasticity of concrete [82]. Incorporating 6%, 10%, 
+and 15% silica fumes as cement substitutes in the concrete increased the modulus of elasticity by 3.2%, 7.5%, and 10.75%, 
+respectively [74]. Unlike the flexural strength and compressive strength, the modulus of elasticity of concrete was 
+enhanced up to 5% rice husk ash content and then decreased when the rice husk ash concentration was increased further 
+[76]. At 5% rice husk ash, the modulus of elasticity reached its peak value of 32 MPa [76]. Likewise, the compressive 
+strength, splitting tensile strength of concrete, and modulus of elasticity of concrete are also reduced with the increase of  
+GGBFS content in the concrete [83]. At room temperature, the modulus of elasticity of concrete containing 20%, 40%, 
+and 60% GGBFS was 22.5%, 39.98%, and 41.7% lesser than the control mix [84]. The addition of silica fume and rice 
+husk to concrete has increased its modulus of elasticity. Only 5% rice husk incorporation enhances the modulus of 
+elasticity of concrete. However, the addition of fly ash and GBBFS decreased the modulus of elasticity. 
+Flexural Strength 
+Flexural strength of concrete is one of the deficient properties of concrete, hence efforts are made to increase it. Past 
+studies revealed that increasing the percentage of fly ash in the concrete reduced the flexural strength of the concrete as 
+compared to the control mix. The 40%, 45%, and 50% replacement of cement by fly ash reduced the flexural strength of 
+concrete by 33.3%, 42.5%, and 50%, respectively, as compared to the control mix [73]. Unlike fly ash and GBBFS, the 
+inclusion of silica fume and rice husk ash up to the optimal concentration increased the flexural strength of concrete. 
+According to the studies, the flexural strength of concrete increases with increases in silica content in concrete, whereas 
+this increment was noted only up to a 15% replacement further increase in silica content, which showed a slight reduction 
+in flexural strength. A concrete mix containing 20% silica has 24.4% less flexure strength than a concrete mix containing 
+15% silica [85]. In the case of rice husk ash, the improvement in flexural strength was only observed up to 5% content. 
+The addition of 5% husk ash increased the flexural strength of concrete by 12%, but subsequent additions of husk ash 
+began to reduce the flexural strength [86]. However, as the GGBFS percentage in the concrete increases, the flexural 
+strength starts to decrease. Most of the researchers concluded that the flexural strength of concrete increased up to 50% 
+of GBBS-cement replacement. The flexural strength of concrete with GGBFS reached its highest value of 6.28 MPa at 
+50% GGBFS content. When the GGBFS content was increased to 60%, the flexural strength decreased by 18% as 
+compared 50% GGBFS concrete mix [77]. Fly ash and GBBFS have a detrimental influence on the flexural strength of 
+concrete, similar to compressive strength and modulus of elasticity; however, the inclusion of rice husk and silica content 
+increased the flexural strength of concrete. 
+DURABILITY PROPERTIES OF GREEN CONCRETE 
+Water Absorption and Porosity 
+Bulk density decreases when the percentage of recycled glass powder in a material rises, while water absorption 
+decreases [87]. Both the water absorption and the porosity of geopolymer concrete were reduced with the addition of 
+cement, as reported by Aliabdo et al. [81]. Waste glass powder's pore filling and pozzolanic activity caused water 
+absorption and voids ratio to decrease with increasing amounts of waste glass powder added. Binici's [88] research showed 
+that alkali activation temperatures decrease water absorption. However, the percentage reduction varies from material to 
+material, as shown in Fig. 3. Water absorption and apparent porosity are said to change with curing ages and fly ash 
+cement, as reported by Tian and Zhang [89]. This indicates that the mechanical performance of green concrete is affected 
+by the ratio of supplemental cementitious material (SCM) to cement, as well as the apparent porosity and water absorption 
+of the SCM. Regardless of the water-cement ratio, Hesami et al. [28] found that increasing husk ash mixed with glass and 
+steel fibres reduced porosity. The authors suggested that a rice husk ash content of 8–10% and a water-cement ratio of 
+0.33 is optimal. According to Momtazi and Zanoosh [90], RHA-cement composites made using waste rubber tyres and 
+polypropylene fibre (PPF) may be utilized to lessen water absorption. Fly ash, GGBFS , and silica fume all work together 
+or independently to make concrete less porous and hence more water resistant. Immersed concrete absorbs less water 
+when treated with GGBFS than micro silica [91]. Steel slag impacts the early-age hydration of cement [92] negatively. 
+The variation of water absorption for different wastes i.e. GGBFS, silica fume, and fly ash are depicted in Fig. 3.  
+ 
+
+
+===== PAGE 6 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+98 
+ 
+ journal.ump.edu.my/construction ◄ 
+ 
+Figure 3. Water absorption for different materials at varying temperatures [81].  
+Elevated temperatures 
+Poon et al. [93] tested the effectiveness of metakaolin as a replacement for OPC in eight regular and high-strength 
+concrete mixes at temperatures up to 800 0C. Metakaolin was used at 0%, 5%, 10%, and 20%. The test samples were 
+heated at high temperatures in an automated electric furnace. The metakaolin concrete mixes achieved higher compressive 
+strength than the OPC, fly ash, and silica fumes concrete up to 400 0C but then experienced a sharp reduction in 
+compressive strength, severe cracking, and explosive spalling after being heated above 400 0C [94]. This was attributed 
+to the dense micro-structure of the metakaolin concrete mixes, which allowed pore pressure to build up by steam. 
+Nevertheless, the mixture containing 5% metakaolin outperformed similar concrete without spalling at failure throughout 
+a wide temperature range [93]. High-performance concrete mixtures containing between 5 and 20 percent metakaolin and 
+between 20 and 60 percent fly ash were tested for their mechanical and durability properties at high temperatures [95]. 
+The concrete mixtures were heated to temperatures between 27 and 800 degrees Celsius, then cooled either slowly in the 
+air or quickly in water. Overwhelmingly, the loss of compressive strength was found to be more pronounced after 
+exposure to 400 C, followed by rapid cooling. For all mixtures tested between 400 and 600 C, the sorptivity and chloride 
+permeability values dramatically increased with increasing temperature. However, the Metakaolin specimens showed 
+greater resistance to water penetration than the fly ash and cement concrete specimens at room temperature. However, at 
+temperatures of 600 degrees Celsius and above, the 20% fly ash mixture had the lowest sorptivity. Rashad and Sadek [96] 
+fired 70% GGBFS paste to 400, 600, 800, and 1000 0C for 2 hours to increase its compressive strength. The authors 
+proposed a weighted replacement ratio of 2- 10% of metakaolin for the GGBFS. Their findings showed that compressive 
+strength was improved before and after being subjected to high temperatures. Compared to a control mixture, the residual 
+compressive strength of pastes containing 2%, 4%, 6%, 8%, and 10% metakaolin were 10%, 15%, 20%, 27%, and 35% 
+greater at 800 to 1000 0C. 
+Siddique and Kaur [97] examined the mechanical behaviour of concrete subjected to temperatures up to 350 C, where 
+the OPC was substituted by weight with 20%, 40%, and 60% of GGBFS. The authors reported that after 28 and 56 days 
+of curing at 100, 200, and 350 degrees Celsius, the concrete's compressive strength, splitting tensile strength, and elastic 
+modulus were all 40% lower than the control mix stored at 27 degrees Celsius. The 20% GGBFS mixture performed best 
+among the GGBFS mixtures and was shown to be amenable to use in nuclear structures. The performance of GGBFS in 
+concrete exposed to high temperatures (150-700 0C) for 90 days was investigated by Li et al. [98] using replacement 
+ratios of 10%, 30%, and 50% by weight of OPC. Greater carbonation depth was seen in GGBFS-containing mixes.  Lower 
+compressive strength was seen at temperatures over 400 °C, with the trend becoming more evident as the temperature 
+was raised. Compressive strength decreases by 40%, 38%, 56%, and 59%  at 500 °C for concrete containing 0%, 10%, 
+30%, and 50% of GGBFS, respectively. In addition, concretes containing 10%, 30%, and 50% GGBFS saw a greater 
+decline in elastic modulus compared to the unheated specimens (by 22%, 25%, and 27%, respectively) when exposed to 
+heat. The effect of temperature on the compressive strength of concrete containing different types of waste materials is 
+shown in Fig. 4.  
+ 
+0
+2
+4
+6
+8
+10
+12
+14
+GGBFS
+Silica fume
+Fly ash
+Water absorption (%)
+100 degree celcius
+150 degree celcius
+
+
+===== PAGE 7 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+99 
+ 
+ journal.ump.edu.my/construction ◄ 
+ 
+Figure 4. Temperature effect on the compressive strength of concrete subjected to high temperatures [96-99].  
+Acid attack, chloride ion penetration and Freezing and Thawing 
+Li and Zhao [100] investigated the short- and long-term sulphate resistance of three concrete mixes: standard cement 
+concrete, fly ash concrete, and concrete containing 25% fly ash and 15% GGBFS. In terms of sulphate attack resistance 
+after 50 weeks of exposure, GGBFS + fly ash concrete outperformed conventional and fly ash concrete.  
+Mc Carthy and Dhir [101] tested the chloride diffusion, permeability, and absorption of concrete containing 45% fly 
+ash as a cement component to assess its durability. A 100 mm 25 mm deep concrete cylinder was immersed in 5 M NaCl 
+and 5 M Ca(OH)2 solutions at 20 C and then subjected to a chloride diffusion test. However, a concrete core of 54 mm in 
+diameter and 50 mm in depth was subjected to a permeability test, which included monitoring the airflow rates through 
+the specimen at different intake pressures. Overall, the durability performance of fly ash concrete was superior to that of 
+cement concrete, while the performance of fly ash concrete was comparable to that of cement concrete for carbonation 
+depth. 
+The effects of adding 0, 5, 10, 15, and 20% metakaolin and silica fume to concrete were studied by Kim et al. [102]. 
+Chloride ion permeability and other properties decreased with increasing amounts of metakaolin and silica fume. 
+Concrete mixtures containing 0% and 10% metakaolin or silica fume retain their relative dynamic elastic modulus after 
+freezing and thawing for up to 300 cycles. In order to determine how well concrete would hold up against carbonation, it 
+was exposed to accelerated circumstances for 7, 14, 28, and 56 days at 30 oC and 60% relative humidity.   Mortar 
+specimens containing 15% metakaolin or silica fume had a 20% decrease in compressive strength when subjected to a 
+2% acid solution for 56 days, compared to the control mix.  
+The influence of fly ash and silica fume on chloride permeability, electric resistivity, and water absorption in concrete 
+was investigated by Sabet et al. [103]. Their investigation revealed that the chloride diffusion coefficient was decreased 
+when 10% and 20% fly ash were included in the mix and then exposed to a NaCl solution for 90 days. The most 
+remarkable improvement was the 10% and 20% silica fume concrete.  
+Wang et al. [104] studied the effects of sulphate attack and freezing-thawing cycles on the durability of concrete 
+containing silica fume at 5%, 8%, and 11% by weight to replace the OPC, and fly ash at 10%, 15%, and 25% by weight. 
+Samples of prismatic concrete were submerged in 5% and 10% sodium sulphate solutions and subjected to 175 cycles of 
+freezing and thawing. The findings showed that the durability of concrete was greatly enhanced by adding up to 25% fly 
+ash and between 5% and 8% silica fume. 
+SCOPE FOR FUTURE RESEARCH 
+More research is needed on the reinforced structural elements of green concrete, such as beams, slabs, columns, etc., 
+particularly at high temperatures. The long-term shrinkage and creep characteristics of commercially processed green 
+concrete should also be studied, including experimental findings compared to conventional i.e. OPC concrete. In order to 
+expand the available database of green concrete, the authors recommend doing more experimental and analytical studies 
+on reinforced green concrete structural elements using a variety of conditions and mix designs. The study on green 
+concrete mix design and performance assessment must be accomplished to design, build, and effectively expand concrete 
+industries. 
+CONCLUDING REMARKS 
+The present paper reviewed the fresh and hardened properties as well as the durability properties of green concrete. A 
+literature review revealed that extensive work had been carried out on green concrete utilizing different waste materials, 
+but limited study is available related to the long-term behaviour of structural elements prepared using green concrete. The 
+important conclusions derived from the past studies are summarized below:  
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+27
+200
+400
+600
+800
+Compressive strength  (MPa)
+Temperature (oC)
+Metakaolin
+GGBFS
+Fly ash
+Rice husk ash
+
+
+----- TABLE p7#1 -----
+
+ |  |  | 
+ |  |  | 
+ |  |  | 
+ |  |  | 
+
+===== PAGE 8 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+100 
+ 
+ journal.ump.edu.my/construction ◄ 
+• Green concrete is one of the most efficient, cost-effective, innovative, and environmentally friendly methods to 
+improve the performance of concrete structures. It is recommended that green concrete be utilized in large-scale 
+worldwide infrastructure projects. 
+• Higher percentages of rice husk ash and agricultural waste reduce the slump values and workability of concrete.  
+• The silica fume effectively gained higher early strength than the control mix. At later ages, the GGBFS and fly 
+ash concrete reported higher compressive strength and further increased with concrete age. 
+• The literature revealed that green concrete containing silica fume and low percentages of rice husk ash could 
+achieve good mechanical strength.  
+• Compressive strength in concrete mixtures that included GGBFS, fly ash, or silica fume dropped dramatically at 
+temperatures over 400 degrees Celsius. Pozzolanic cement pastes have a far lower sorptivity than Portland cement 
+paste. Concrete containing metakaolin has shown good compressive strength at elevated temperatures. 
+• Long-term sulphate resistance of GGBFS and fly ash containing concrete was higher than that of traditional cement 
+concrete. Carbonation depth was shown to rise with cementitious concentration and to be greater in the 
+green concrete mix compared to the control mix. 
+• The current review offers considerable updated information on the fresh, hardened, and durability aspects of green 
+concrete.  It will benefit designers, practicing engineers, and researchers working in the field of sustainable 
+construction. 
+REFERENCES 
+[1] 
+Meyer, C. The greening of the concrete industry. Cem. Concr. Compos. 2009, 31, 601–605. 
+[2] 
+Khan, A.A.; Arshad, S.; Mohsin, M. Population Growth and Its Impact on Urban Expansion: A Case Study of Population 
+Growth and Its Impact on Urban Expansion: A Case Study of Bahawalpur, Pakistan. Univers. J. Geosci. 2014, 2, 229–241. 
+[3] 
+Klee, H. The cement sustainability initiative. In Proceeding of Institution of Civil Engineers Engineering Sustainability; 
+Institute of Civil Engineers: London, UK, 2004. 
+[4] 
+Hendriks, C.A.;Worrell, E.; De Jager, D.; Blok, K.; Riemer, P. Emission reduction of greenhouse gases from the cement 
+industry. In Proceedings of the IEA Greenhouse Gas R&D Programme, Interlaken, Switzerland, August 30–2 September 2000. 
+[5] 
+Mehta, R. Siddique, An overview of geopolymers derived from industrial by-products, Constr. Build. Mater. 127 (2016) 183–
+198. 
+[6] 
+J.K. Prusty, S.K. Patro, S. Basarkar, Concrete using agro-waste as fine aggregate for sustainable built environment–A review, 
+Int. J. Sustainable Built Environ. 5(2) (2016) 312–333. 
+[7] 
+A.M. Rashad, D.M. Sadek, An investigation on Portland cement replaced by high-volume GGBS pastes modified with micro-
+sized metakaolin subjected to elevated temperatures, Int. J. Sustainable Built Environ. (2016). 
+[8] 
+A.O. Sojobi, Evaluation of the performance of eco-friendly lightweight interlocking concrete paving units incorporating 
+sawdust wastes and laterite, Cogent Eng. 3 (1) (2016) 1255168. 
+[9] 
+R. Jin, Q. Chen, An investigation of current status of "green" concrete in the construction industry, 49th ASC Annual 
+International Conference Proceedings, 2013.  
+[10] 
+A. Baikerikar, A Review on Green Concrete, J. Emerging Technol. Innovative Res. 1 (6) (2014) 472–474. 
+[11] 
+O.M. Jensen, P.F. Hansen, Autogenous deformation and RH-change in perspective, Cem. Concr. Res. 31 (12) (2001) 1859–
+1865. 
+[12] 
+D. Thorpe, Y. Zhuge, Advantages and disadvantages in using permeable concrete pavement as a pavement construction 
+material, Assoc. Res. Constr. Manage. 6 (8) (2010) 1341–1350. 
+[13] 
+R. Woodward, N. Duffy, Cement and concrete flow analysis in a rapidly expanding economy: Ireland as a case study, Resour. 
+Conserv. Recycl. 55 (4) (2011) 448–455. 
+[14] 
+Turner, L.K.; Collins, F.G. Carbon dioxide equivalent (CO2-e) emissions: A comparison between geopolymer OPC cement 
+concrete. Constr. Build. Mater. 2013, 43, 125–130. 
+[15] 
+AlBiajawi MI, Embong R, Muthusamy K. An overview of the utilization and method for improving pozzolanic performance 
+of agricultural and industrial wastes in concrete. Materials Today: Proceedings. 2021 Mar 22. 
+[16] 
+Al Biajawi MI, Embong R, Muthusamy K, Ismail N, Obianyo II. Recycled coal bottom ash as sustainable materials for cement 
+replacement in cementitious Composites: A review. Construction and Building Materials. 2022 Jul 4;338:127624. 
+[17] 
+Hela, R.; Tazky, M.; Bodnarova, L. Possibilities of determination of optimal dosage of power plant fly ash for concrete. J. 
+Teknol. 2016, 78, 59–64. 
+[18] 
+Li, G. Properties of high-volume fly ash concrete incorporating nano-SiO2. Cem. Concr. Res. 2004, 34, 1043–1049. 
+[19] 
+Ravina, D.; Mehta, P.K. Properties of fresh concrete containing large amounts of fly ash. Cem. Concr. Res. 1986, 16, 227–238.  
+[20] 
+Ahmaruzzaman, M. A review on the utilization of fly ash. Prog. Energy Combust. Sci. 2010, 36, 327–363. 
+[21] 
+Gamage, N.; Liyanage, K.; Fragomeni, S.; Setunge, S. Overview of different types of fly ash and their use as a building and 
+construction material. In Proceedings of the International Conference of Structural Engineering, Construction and 
+Management, Kandy, Sri Lanka, 15–17 December 2011. 
+
+
+===== PAGE 9 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+101 
+ 
+ journal.ump.edu.my/construction ◄ 
+[22] 
+Mahmud, H.B.; Malik, M.F.A.; Kahar, R.A.; Zain, M.F.M.; Raman, S.N. Mechanical Properties and Durability of Normal and 
+Water Reduced High Strength Grade 60 Concrete Containing Rice Husk Ash. J. Adv. Concr. Technol. 2009, 7, 21–30. 
+[23] 
+Zareei, S.A.; Ameri, F.; Dorostkar, F.; Ahmadi, M. Rice husk ash as a partial replacement of cement in high strength concrete 
+containing micro silica: Evaluating durability and mechanical properties. Case Stud. Constr. Mater. 2017, 7, 73–81. 
+[24] 
+Singh, B. Rice husk ash. InWaste and Supplementary Cementitious Materials in Concrete; Siddique, R., Cachim, P., 
+Eds.;Woodhead Publishing: Cambridge, UK, 2018; pp. 417–460. 
+[25] 
+Reddy, D.V.; Diana, A.; Marcelina Alvarez, B.S. Rice Husk Ash as a Sustainable Concrete Material for the Marine 
+Environment. In Proceedings of the Sixth LACCEI International Latin American and Caribbean Conference for Engineering 
+and Technology, Tegucigalpa, Honduras, 4–6 June 2008; Partnering to Success: Engineering, Education, Research and 
+Development. LACCEI: Boca Raton, FL, USA, 2008. 
+[26] 
+Nehdi, M.; Duquette, J.; El Damatty, A. Performance of rice husk ash produced using a new technology as a mineral admixture 
+in concrete. Cem. Concr. Res. 2003, 33, 1203–1210. 
+[27] 
+Vigneshwari, M.; Arunachalam, K.; Angayarkanni, A. Replacement of silica fume with thermally treated rice husk ash in 
+Reactive Powder Concrete. J. Clean. Prod. 2018, 188, 264–277.  
+[28] 
+Deb, P.S.; Nath, P.; Sarker, P.K. The e ects of ground granulated blast-furnace slag blending with fly ash and activator content 
+on the workability and strength properties of geopolymer concrete cured at ambient temperature. Mater. Des. 2014, 62, 32–39. 
+[29] 
+Crossin, E. The greenhouse gas implications of using ground granulated blast furnace slag as a cement substitute. J. Clean. 
+Prod. 2015, 95, 101–108.  
+[30] 
+S. Hesami, S. Ahmadi, M. Nematzadeh, Effects of rice husk ash and fiber on mechanical properties of pervious concrete 
+pavement, Constr. Build. Mater. 53 (2014) 680–691. 
+[31] 
+E. Mohseni, F. Naseri, R. Amjadi, M.M. Khotbehsara, M.M. Ranjbar, Microstructure and durability properties of cement 
+mortars containing nano-TiO2 and rice husk ash, Constr. Build. Mater. 114 (2016) 656–664. 
+[32] 
+F. Zunino, M. Lopez, Decoupling the physical and chemical effects of supplementary cementitious materials on strength and 
+permeability: a multi-level approach, Cement Concr. Compos. 65 (2016) 19–28. 
+[33] 
+E. Papa, V. Medri, D. Kpogbemabou, V. Morinière, J. Laumonier, A. Vaccari, S. Rossignol, Porosity and insulating properties 
+of silica-fume based foams, Energy Build. 131 (2016) 223–232. 
+[34] 
+Z. Zhang, B. Zhang, P. Yan, Comparative study of effect of raw and densified silica fume in the paste, mortar and concrete, 
+Constr. Build. Mater. 105 (2016) 82–93. 
+[35] 
+Mansour AM, Al Biajawi MI. The effect of the addition of metakaolin on the fresh and hardened properties of blended cement 
+products: A review. Materials Today: Proceedings. 2022 Jul 9. 
+[36] 
+Lam, C.H.K.; Lp, A.W.M.; John Patrick, B.; Gordon, M. Use of IncinerationMSWAsh: A Review. Sustainability 2010, 2, 
+1943–1968.  
+[37] 
+Topcu, I.B.; Unverdi, A. Properties of High Content Ground Granulated Blast Furnace Slag Concrete. In Proceedings of the 
+3rd International Sustainable Buildings Symposium, Dubai, UAE, 15–17 March 2017; 
+[38] 
+Lee, H.; Hanif, A.; Usman, M.; Sim, J.; Oh, H. Performance evaluation of concrete incorporating glass powder and glass sludge 
+wastes as supplementary cementing material. J. Clean. Prod. 2018, 170, 683–693. 
+[39] 
+M.K. Dash, S.K. Patro, A.K. Rath, Sustainable use of industrial-waste as partial replacement of fine aggregate for preparation 
+of concrete–A review, Int. J. Sustainable Built Environ. 5 (2) (2016) 484–516. 
+[40] 
+J.H. Wesseling, A. van der Vooren, Lock-in of mature innovation systems, The transformation toward clean concrete in the 
+Netherlands, Lund University, CIRCLE-Center for Innovation, Research and Competences in the Learning Economy, 2016. 
+[41] 
+M.S. Imbabi, C. Carrigan, S. McKenna, Trends and developments in green cement and concrete technology, Int. J. Sustainable 
+Built Environ. 1 (2) (2012) 194–216. 
+[42] 
+Awoyera PO, Adesina A. Plastic wastes to construction products: Status, limitations and future perspective. Case Studies in 
+Construction Materials. 2020 Jun 1;12:e00330. 
+[43] 
+Jambeck J, Hardesty BD, Brooks AL, Friend T, Teleki K, Fabres J, Beaudoin Y, Bamba A, Francis J, Ribbink AJ, Baleta T. 
+Challenges and emerging solutions to the land-based plastic waste issue in Africa. Marine Policy. 2018 Oct 1;96:256-63. 
+[44] 
+Singh N, Hui D, Singh R, Ahuja IP, Feo L, Fraternali F. Recycling of plastic solid waste: A state of art review and future 
+applications. Composites Part B: Engineering. 2017 Apr 15;115:409-22. 
+[45] 
+H.A. Alaka, L.O. Oyedele, High volume fly ash concrete: The practical impact of using superabundant dose of high range 
+water reducer, J. Build. Eng. 8 (2016) 81–90. 
+[46] 
+L. Yijin, Z. Shiqiong, Y. Jian, G. Yingli, The effect of fly ash on the fluidity of cement paste, mortar, and concrete, in: 
+International workshop on Sustainable Development and Concrete Technology, Beijing, China, 2004, pp. 339–345. 
+[47] 
+S. Mukherjee, S. Mandal, U. Adhikari, Comparative study on physical and mechanical properties of high Slump and zero slump 
+high volume fly ash concrete (HVFAC), Global NEST J. 20 (10) (2013) 1–7. 
+[48] 
+B. Keertana, S. Gobhiga, Experimental study of concrete with partial replacement of cement with rice husk ash and fine 
+aggregate with granite dust, IRACST-Eng. Sci. Technol.: Int. J. 6 (1) (2016) 36–41.  
+[49] 
+A. Abalaka, Strength and some durability properties of concrete containing rice husk ash produced in a charcoal incinerator at 
+low specific surface, Int. J. Concr. Struct. Mater. 7 (4) (2013) 287–293. 
+
+
+----- TABLE p9#1 -----
+
+Awoyera PO, Adesina A. Plastic wastes to construction products: Status, limitations and future perspective. Case Studies in | 
+Construction Materials. 2020 Jun 1;12:e00330. | 
+
+----- TABLE p9#2 -----
+
+Jambeck J, Hardesty BD, Brooks AL, Friend T, Teleki K, Fabres J, Beaudoin Y, Bamba A, Francis J, Ribbink AJ, Baleta T. | 
+Challenges and emerging solutions to the land-based plastic waste issue in Africa. Marine Policy. 2018 Oct 1;96:256-63. | 
+
+----- TABLE p9#3 -----
+
+Singh N, Hui D, Singh R, Ahuja IP, Feo L, Fraternali F. Recycling of plastic solid waste: A state of art review and future | 
+applications. Composites Part B: Engineering. 2017 Apr 15;115:409-22. | 
+
+===== PAGE 10 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+102 
+ 
+ journal.ump.edu.my/construction ◄ 
+[50] 
+S.R. Hunchate, S. Chandupalle, V.G. Ghorpode, R. Venkata, Mix design of high performance concrete using silica fume and 
+superplasticizer, Pan 18 (1.8) (2014) 100. 
+[51] 
+N. Amarkhail, Effects of silica fume on properties of high strength concrete, Int. J. Tech. Res. Appl. 32 (2015) 13–19. 
+[52] 
+S.K. Karri, G.R. Rao, P.M. Raju, Strength and Durability Studies on GGBS Concrete, SSRG Int. J. Civil Eng. 2 (2015). 
+[53] 
+S. Arivalagan, Sustainable studies on concrete with ggbs as a replacement material in cement, Jordan J. Civil Eng. 8 (3) (2014) 
+263–270. 
+[54] 
+H.T. Le, K. Siewert, H.-M. Ludwig, Alkali silica reaction in mortar formulated from self-compacting high performance 
+concrete containing rice husk ash, Constr. Build. Mater. 88 (2015) 10–19. 
+[55] 
+A. Ikpong, D. Okpala, Strength characteristics of medium workability ordinary Portland cement-rice husk ash concrete, Build. 
+Environ. 27 (1) (1992) 105–111. 
+[56] 
+H. Xu, W. Gong, L. Syltebo, K. Izzo, W. Lutze, I.L. Pegg, Effect of blast furnace slag grades on fly ash based geopolymer 
+waste forms, Fuel 133 (2014) 332–340. 
+[57] 
+D. Ravina, P.K. Mehta, Properties of fresh concrete containing large amounts of fly ash, Cem. Concr. Res. 16 (2) (1986) 227–
+238. 
+[58] 
+P.S. Deb, P. Nath, P.K. Sarker, The effects of ground granulated blast-furnace slag blending with fly ash and activator content 
+on the workability and strength properties of geopolymer concrete cured at ambient temperature, Mater. Des. 62 (2014) 32–
+39. 
+[59] 
+R. Duval, E. Kadri, Influence of silica fume on the workability and the compressive strength of high-performance concretes, 
+Cement Concr. Res. 28(4) (1998) 533–547. 
+[60] 
+N. Bouzoubaa, M. Lachemi, Self-compacting concrete incorporating high volumes of class F fly ash: preliminary results, 
+Cement Concr. Res. 31 (3) (2001) 413–420. 
+[61] 
+L. Shen, Role of Aggregate Packing in Segregation Resistance and Flow Behavior of self-Consolidating Concrete, University 
+of Illinois at Urbana-Champaign, 2007. 
+[62] 
+P. Wainwright, H. Ait-Aider, The influence of cement source and slag additions on the bleeding of concrete, Cem. Concr. Res. 
+25 (7) (1995) 1445–1456. 
+[63] 
+Hashmi AF, Shariq M, Baqi A. Use of HVFA Concrete for Sustainable Development: A Comprehensive Review on Mechanical 
+and Structural Properties. Arabian Journal for Science and Engineering. 2022 May 12:1-24. 
+[64] 
+Liu T, Li C, Li L, Fan W, Dong Y, Liang H, Yang H. Effect of fly ash and metakaolin on properties and microstructure of 
+magnesium oxysulfate cement. Materials. 2022 Feb 11;15(4):1334. 
+[65] 
+Muduli R, Mukharjee BB. Effect of incorporation of metakaolin and recycled coarse aggregate on properties of concrete. 
+Journal of cleaner production. 2019 Feb 1;209:398-414. 
+[66] 
+Xu X, Lin X, Pan X, Ji T, Liang Y, Zhang H. Influence of silica fume on the setting time and mechanical properties of a new 
+magnesium phosphate cement. Construction and Building Materials. 2020 Feb 28;235:117544. 
+[67] 
+Pillay DL, Olalusi OB, Awoyera PO, Rondon C, Echeverría AM, Kolawole JT. A review of the engineering properties of 
+metakaolin based concrete: Towards combatting chloride attack in coastal/marine structures. Advances in Civil Engineering. 
+2020 Oct 5;2020. 
+[68] 
+Almeshal I, Tayeh BA, Alyousef R, Alabduljabbar H, Mohamed AM. Eco-friendly concrete containing recycled plastic as 
+partial replacement for sand. Journal of Materials Research and Technology. 2020 May 1;9(3):4631-43. 
+[69] 
+Gastaldini AL, Isaia GC, Saciloto AP, Missau F, Hoppe TF. Influence of curing time on the chloride penetration resistance of 
+concrete containing rice husk ash: A technical and economical feasibility study. Cement and Concrete Composites. 2010 Nov 
+1;32(10):783-93. 
+[70] 
+Al-Manaseer AA, Dalal TR. Concrete containing plastic aggregates. Concrete international. 1997 Aug 1;19(8):47-52. 
+[71] 
+Sumer M. Compressive strength and sulfate resistance properties of concretes containing Class F and Class C fly ashes. 
+Construction and Building Materials. 2012 Sep 1;34:531-6. 
+[72] 
+Siddique R. Performance characteristics of high-volume Class F fly ash concrete. Cement and Concrete Research. 2004 Mar 
+1;34(3):487-93. 
+[73] 
+Hashmi AF, Shariq M, Baqi A. An investigation into age-dependent strength, elastic modulus and deflection of low calcium 
+fly ash concrete for sustainable construction. Construction and Building Materials. 2021 May 10;283:122772. 
+[74] 
+Mazloom M, Ramezanianpour AA, Brooks JJ. Effect of silica fume on mechanical properties of high-strength concrete. Cement 
+and Concrete Composites. 2004 May 1;26(4):347-57. 
+[75] 
+Chopra D, Siddique R. Strength, permeability and microstructure of self-compacting concrete containing rice husk ash. 
+Biosystems engineering. 2015 Feb 1;130:72-80. 
+[76] 
+Kannan V, Ganesan K. Chloride and chemical resistance of self compacting concrete containing rice husk ash and metakaolin. 
+Construction and Building Materials. 2014 Jan 31;51:225-34. 
+[77] 
+Mohan A, Hayat MT. Characterization of mechanical properties by preferential supplant of cement with GGBS and silica fume 
+in concrete. Materials Today: Proceedings. 2021 Jan 1;43:1179-89. 
+[78] 
+Krishna BR, Kumar KH, Kumar TM, Likitha I. Properties of GGBS concrete under various curing conditions. International 
+Journal. 2020 Apr;8(4). 
+
+
+===== PAGE 11 =====
+
+Fuzail Hashmi et al.  │ Construction  │ Vol. 2, Issue 2 (2022) 
+103 
+ 
+ journal.ump.edu.my/construction ◄ 
+[79] 
+W. Xu, Y.T. Lo, D. Ouyang, S.A. Memon, F. Xing, W. Wang, X. Yuan, Effect of rice husk ash fineness on porosity and 
+hydration reaction of blended cement paste, Constr. Build. Mater. 89 (2015) 90–101. 
+[80] 
+E. Mohseni, M.M. Khotbehsara, F. Naseri, M. Monazami, P. Sarker, Polypropylene fiber reinforced cement mortars containing 
+rice husk ash and nano-alumina, Constr. Build. Mater. 111 (2016) 429–439. 
+[81] 
+A.A. Aliabdo, A.E.M.A. Elmoaty, A.Y. Aboshama, Utilization of waste glass powder in the production of cement and concrete, 
+Constr. Build. Mater. 124 (2016) 866–877. 
+[82] 
+Bhanja S, Sengupta B. Influence of silica fume on the tensile strength of concrete. Cement and concrete research. 2005 Apr 
+1;35(4):743-7. 
+[83] 
+Ganesh P, Murthy AR. Tensile behaviour and durability aspects of sustainable ultra-high performance concrete incorporated 
+with GGBS as cementitious material. Construction and Building Materials. 2019 Feb 10;197:667-80. 
+[84] 
+Siddique R, Kaur D. Properties of concrete containing ground granulated blast furnace slag (GGBFS) at elevated temperatures. 
+Journal of Advanced Research. 2012 Jan 1;3(1):45-51. 
+[85] 
+Amudhavalli NK, Mathew J. Effect of silica fume on strength and durability parameters of concrete. International journal of 
+engineering sciences & emerging technologies. 2012 Aug;3(1):28-35. 
+[86] 
+Adnan ZS, Ariffin NF, Mohsin SM, Lim NH. Performance of rice husk ash as a material for partial cement replacement in 
+concrete. Materials Today: Proceedings. 2022 Jan 1;48:842-8. 
+[87] 
+A. Parghi, M.S. Alam, Physical and mechanical properties of cementitious composites containing recycled glass powder (RGP) 
+and styrene butadiene rubber (SBR), Constr. Build. Mater. 104 (2016) 34–43. 
+[88] 
+H. Binici, Engineering properties of geopolymer incorporating slag, fly ash, silica sand and pumice, Adv. Civ. Environ. Eng 1 
+(3) (2013) 108–123. 
+[89] 
+H. Tian, Y. Zhang, The influence of bagasse fibre and fly ash on the long-term properties of green cementitious composites, 
+Constr. Build. Mater. 111 (2016) 237–250. 
+[90] 
+A.S. Momtazi, R.Z. Zanoosh, The effects of polypropylene fibers and rubber particles on mechanical properties of cement 
+composite containing rice husk ash, Procedia Eng. 10 (2011) 3608–3615. 
+[91] 
+Ding, S.; Liang, X.; Zhang, Y.; Fang, Y.; Zhou, J.; Kang, T. Capillary Water Absorption and Micro Pore Connectivity of 
+Concrete with Fractal Analysis. Crystals 2020, 10, 892. 
+[92] 
+Zhuang, S.; Wang, Q. Inhibition mechanisms of steel slag on the early-age hydration of cement. Cem. Concr. Res. 2021, 140, 
+106283. 
+[93] 
+Poon, C.S.; Azhar, S.; Anson, M.;Wong, Y.L. Performance of metakaolin concrete at elevated temperatures. Cem. Concr. 
+Compos. 2003, 25, 83–89.  
+[94] 
+Phan, L.T.; Carino, N.J. Fire performance of high strength concrete: Research needs. Adv. Technol. Struct. Eng. 2000, 1–8. 
+[95] 
+Zareei, S.A.; Ameri, F.; Dorostkar, F.; Ahmadi, M. Rice husk ash as a partial replacement of cement in high strength concrete 
+containing micro silica: Evaluating durability and mechanical properties. Case Stud. Constr. Mater. 2017, 7, 73–81. 
+[96] 
+Rashad, A.M.; Sadek, D.M. An investigation on Portland cement replaced by high-volume GGBS pastes modified with micro-
+sized metakaolin subjected to elevated temperatures. Int. J. Sustain. Built Environ. 2017, 6, 91–101. 
+[97] 
+Siddique, R.; Kaur, D. Properties of concrete containing ground granulated blast furnace slag (GGBFS) at elevated 
+temperatures. J. Adv. Res. 2012, 3, 45–51. 
+[98] 
+Li, Q.; Li, Z.; Yuan, G. Effects of elevated temperatures on properties of concrete containing ground granulated blast furnace 
+slag as cementitious material. Constr. Build. Mater. 2012, 35, 687–692. 
+[99] 
+Khan MS, Shariq M, Akhtar S, Masood A. Performance of high-volume fly ash concrete after exposure to elevated temperature. 
+Journal of the Australian Ceramic Society. 2020 Jun;56(2):781-94. 
+[100] Li, G.; Zhao, X. Properties of concrete incorporating fly ash and ground granulated blast-furnace slag. Cem. Concr. Compos. 
+2003, 25, 293–299. 
+[101] McCarthy, M.J.; Dhir, R.K. Development of high volume fly ash cements for use in concrete construction. Fuel 2005, 84, 
+1423–1432. 
+[102] Kim, H.S.; Lee, S.H.; Moon, H.Y. Strength properties and durability aspects of high strength concrete using Korean metakaolin. 
+Constr. Build. Mater. 2007, 21, 1229–1237. 
+[103] Sabet, F.A.; Libre, N.A.; Shekarchi, M. Mechanical and durability properties of self consolidating high performance concrete 
+incorporating natural zeolite, silica fume and fly ash. Constr. Build. Mater. 2013, 44, 175–184.  
+[104] Wang, D.; Zhou, X.; Meng, Y.; Chen, Z. Durability of concrete containing fly ash and silica fume against combined freezing-
+thawing and sulfate attack. Constr. Build. Mater. 2017, 147, 398–406. 
+ 
+
+
+----- TABLE p11#1 -----
+
+Khan MS, Shariq M, Akhtar S, Masood A. Performance of high-volume fly ash concrete after exposure to elevated temperature. | 
+Journal of the Australian Ceramic Society. 2020 Jun;56(2):781-94. | 

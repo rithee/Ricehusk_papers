@@ -1,0 +1,1438 @@
+
+===== PAGE 1 =====
+
+1. INTRODUCTION
+Pakistan is the 14th largest producer of the rice crop and
+its yearly production of rice paddy is 9.4 million tons
+while that of milled rice is about 6.7 million tons. The
+total yield of rice husk is approximately 1.9 million tons
+per annum, the disposal of which is a great challenge.
+The main dumping of waste rice husk is in paper man-
+ufacturing where the boilers are run by burning it or it
+is used in burning kilns as fuel for production of brick
+masonry [1]. Keeping in view day by day increasing
+price of building constituents like cement, a good
+choice can be to utilize natural waste products in con-
+struction materials in order to save cost and introduce
+economy in construction without compromising on
+quality [2]. Many researches have concluded so far that
+little quantity of inert fillers can be used as cement
+replacement material, but the replacing material should
+be pozzolanic in nature [3]. It won’t just grant special-
+ized preferences to the subsequent concrete but addi-
+tionally permits accomplishment of concrete replace-
+ment in greater quantities. There are many focal points
+in utilizing pozzolans in concrete [4]. Pozzolans
+improve workability at little replacement stages and
+through pozzolans of small carbon percentages,
+reduced segregation and bleeding, results in low hydra-
+EFFECT OF USING RICE HUSK ASH AS PARTIAL REPLACEMENT
+OF CEMENT ON PROPERTIES OF FRESH AND HARDENED CONCRETE
+Ali AJWAD a, Sameel AHMAD b, ABDULLAH c, Syed Taseer Abbas JAFFAR d*, Usman ILYAS a,
+Muhammad Ahmad ADNAN a
+a Assistant Prof., MSc; Department of Civil Engineering, School of Engineering, University of Management
+and Technology, Lahore Punjab 54770, Pakistan
+b MSc; CES Professionals, Lahore, Punjab, 54770, Pakistan
+c MSc; Department of Civil Engineering, School of Engineering, University of Management
+and Technology, Lahore Punjab 54770, Pakistan
+d Assistant Prof., PhD; Department of Civil Engineering, School of Engineering, University of Management
+and Technology, Lahore Punjab 54770, Pakistan
+*Corresponding Author: taseer.jaffar@umt.edu.pk
+Received: 23.11.2021; Revised: 21.01.2022; Accepted: 9.05.2022
+Abstract
+Rice husk disposal has become a great challenge for Pakistan being one of the largest rice producer across the globe. Rice
+Husk Ash (RHA) contains sufficient pozzolanic properties which opens up opportunities for its usage as cementitious mate-
+rial as partial replacement of Ordinary Portland Cement (OPC). In this research RHA was added as cement replacement
+in different percentages by weight of cement i.e. 0%, 6%, 12%, 18% and 24% at constant mix ratio of 1:2:4 and water-cement
+ratio of 0.6 that is M15 grade concrete with a target strength of 15-20 MPa. The properties of concrete like workability, com-
+pressive strength, tensile strength, flexure strength, and water permeability were investigated by casting standard concrete
+samples in the form of cubes, cylinders and beams in addition to cost comparison study The outcomes show that workabil-
+ity of fresh concrete increases with an increase in RHA content and almost all concrete properties studied in this research
+gave more favorable results at 6% replacement level compared with the control mix.
+Keywords: Rice Husk, Pozzolana, Brick kiln, Workability, Tensile strength, Compressive strength, Permeability, Flexural
+strength.
+2/2022
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+85
+A R C H I T E C T U R E
+C I V I L
+E N G I N E E R I N G
+E N V I R O N M E N T
+The Silesian University of Technology
+No. 2/2022
+d o i : 1 0 . 2 4 7 8 / A C E E - 2 0 2 2 - 0 0 1 7
+
+
+----- TABLE p1#1 -----
+
+A R C H I T E C T U R E C I V I L E N G I N E E R I N G E N V I R O N M E N T |  | 
+ |  | 
+The Silesian University of Technology No. 2/2022 |  | 
+
+===== PAGE 2 =====
+
+A .
+A j w a d ,
+S .
+A h m a d ,
+A b d u l l a h ,
+S .
+T .
+A .
+J a f f a r ,
+U .
+I l y a s ,
+M .
+A .
+A d n a n
+tion heat as well as low creep and shrinkage [5]. Rice
+husk ash has been found suitable for masonry mortar,
+foundation concrete and mass concrete work [6].
+Being a finely isolated powder comprising of silica-alu-
+mina glass of different structures, RHA in solid capac-
+ities as filler between cement grains and aggregate,
+and as a powerful folio giving a cementitious property
+[7]. RHA can also be used in concrete as a corrosion
+deterrent material [8]. In 2012, Maurice included
+RHA in concrete and discovered that it brought about
+expanded water request, increment in workability and
+improved quality contrasted with the control test. He
+also concluded that by the addition of 5-10% RHA,
+compressive strength of concrete increases while on
+further addition up to 20%, compressive strength
+decreases by 15% of control mix [9]. Sandesh found
+out that unit weight of concrete decreases with the
+increase of rice husk ash content [10]. Satish Kumar
+concluded in 2012 that RHA concrete involves more
+volume than typical concrete for a similar weight. So
+the aggregate volume of the rice husk powder concrete
+increments for a specific weight when contrasted with
+ordinary concrete which brings about economy [11].
+Alireza and Suraya claimed that RHA blended con-
+crete is associated with improved workability, com-
+pressive strength, tensile strength and flexure strength
+[12]. In 2010, Uduweriya found that execution of the
+concrete would rely on upon fineness of the RHA. The
+finesses of RHA would expand the compressive quali-
+ty and part rigidity of the concrete. By addition of 20%
+RHA, compressive strength increases by 18% and split
+cylinder strength increases by 20% of control mix.
+Such properties can be hard to accomplish with uti-
+lization of unadulterated Portland cement alone [13].
+Pravin et al. stated that compressive quality incre-
+ments with the expansion in the rate of Rice Husk Ash
+up to expansion of 12.5% by weight of cement. It was
+found that when Rice Husk burns properly, produces
+more than 80% of silica. Hence it gives phenomenal
+warm protection [14]. Kartini emphasized the review
+led on RHA in deciding the reasonableness to con-
+crete substitution material. The compressive quality,
+workability and sturdiness execution of Grade 30,
+Grade 40 and Grade 50 N/mm2 concrete with incom-
+plete bond substitution of RHA were accounted for
+[15]. Chik introduced a lab considered on the impact
+of gasses burning rice husk fiery debris on properties
+of concrete block and discovered that the compressive
+quality of the OPC and RHA concrete pieces incre-
+ments with age at curing and abatements as the rate of
+RHA substance increments. The review touched base
+at an ideal substitution level of 15% [16]. “S.A. Zareei
+et al. introduced various ratios of rice husk ash (RHA)
+on concrete indicators using different mix proportions
+of 5, 10, 15, 20, and 25% RHA by weight of cement
+along with 10% micro- silica (MS) for comparison with
+100% Portland cement”. The findings of the tests
+revealed an optimistic relationship between 15%
+RHA replacement and a 20% improvement in com-
+pressive strength. The optimum level of strength and
+durability properties are normally gained with an
+increase of up to 20%, with a minor fall in strength
+parameters of around 4.5 percent after that. The same
+outcomes are expected to be unfavorable for water
+absorption ratios. In comparison to baseline values
+(less than one fifth), chloride ions penetration
+increased by roughly 25% with increased cement
+replacement [17]. J. Alex et.al developed a Taguchi
+L27 fractional-factorial matrix to analyze the key
+process indicators like RHA size, curing time, RHA
+loading, bulk density and pozzolanicity. According to
+the findings, mechanical strength enhanced as Rice
+Husk Ash size decreased, and 20 wt% Rice Husk Ash
+replacement is optimal for 15 and 60 min grounded
+samples [18]. R. Bhushan et al. investigated the possi-
+bility of using partial rice husk ash into cement in order
+to address concerns of pollution, price, quality and
+availability. Solid masonry blocks of size 150×150×15
+of M20 grade were produced by replacing cement with
+Rice Husk Ash by weight at 0%, 5%, 10%, 15%, 20%,
+25%. After 7 days of curing in water, the cubes were
+ready for testing. Strength properties, workability and
+cost analysis were all investigated. The test findings
+indicated that the workability and strength of the con-
+crete are to some extent improved comparing to nor-
+mal concrete, as long as the limitations established by
+the standard are met. Cost savings of 3.08% was also
+noticed compared to reference values [19]. Wide stud-
+ies have been carried out worldwide indicating that
+RHA can be beneficially utilized in concrete; however,
+the potential of very cheaply available Pakistani Rice
+Husk Ash to be used as cement replacement material
+was still demanding attention, however, very limited
+amount of research has been done on local rice husk
+ash. This investigation was planned:
+a. studying the physical and mechanical properties of
+fresh and hardened concrete by adding in 0%, 6%,
+12%, 18% and 24% of RHA.
+b. studying the effect on cost and quality of M15
+grade [20] concrete cast by using RHA in partial
+replacement of cement.
+In the light of results from this research, a complete fig-
+ure will be available regarding the effect of partial
+replacement of cement by local Rice Husk Ash on
+properties of fresh and hardened cement and concrete.
+86
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+2/2022
+
+
+===== PAGE 3 =====
+
+EFFECT O F U S I NG R I C E HU S K A S H A S PA R T I A L R E P L A CE M E N T O F C E M EN T O N P RO P E R T I E S . . . .
+2. EXPERIMENTAL INVESTIGATION
+2.1. Materials:
+Different materials that were used in the research
+conducted are described below.
+2.1.1. Cement
+Ordinary Portland cement (Type I) was used in this
+research which belonged to one of the leading brands
+of Pakistan namely “Bestway cement”. Its chemical
+compositions as well as physical properties are shown
+in Table 1.
+Table 1 compares the properties of ordinary Portland
+cement and Rice husk ash and it clearly indicates that
+RHA
+contains
+more
+than
+70%
+of
+(SiO2+Al2O3+Fe2O3) content, thus fulfils require-
+ment to be used as pozzolana as per ASTM C
+618:2003.
+2.1.2. Fine Aggregate
+The fine aggregate utilized was Lawrencepur sand.
+Sieve analysis was completed by using ASTM C136-06.
+Results are shown in Table 2 and comparison grada-
+tion curve is demonstrated in Figure 1. Fineness
+modulus was ascertained as the aggregate of total
+rates held on sieves and it was computed as 1.66. The
+specific gravity of sand was calculated as 2.71 (ASTM
+C128-79). Water absorbed by sand during 24 hours
+immersion was noted as 1.20%.
+2.1.3. Coarse Aggregate
+Best quality Margalla crush was used in the research.
+Sieve analysis of coarse aggregate was performed as
+per ASTM C 136-06 to show the grading of coarse
+aggregates and figure 2 presents the results obtained.
+The specific gravity test was also carried out, conform-
+ing to ASTM C 127-81, which gave specific gravity of
+coarse aggregate as 2.68. The water absorbed by
+coarse aggregate during 24 hours immersion was
+found to be 0.80%. The moisture content of coarse
+aggregate measured as per ASTM C 566-78 was found
+to be only 1%. So, it was assumed that aggregates were
+dry, as the moisture content was below 10%.
+C I V I L
+E N G I N E E R I N G
+c
+e
+2/2022
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+87
+Table 1.
+Composition of OPC and RHA
+Chemical composition (%)
+OPC
+RHA
+Silicon dioxide (SiO2)
+22.0
+77.34
+Aluminum oxide (Al2O3)
+5.50
+6.92
+Ferric oxide (Fe2O3)
+3.50
+4.89
+Calcium oxide (CaO)
+64.25
+3.56
+Magnesium oxide (MgO)
+2.50
+1.59
+Sulfur trioxide (SO3)
+2.90
+0.34
+Sodium oxide( Na2O)
+0.20
+1.27
+Potassium Oxide (K2O)
+1.00
+2.69
+Loss on ignition
+0.64
+4.81
+Physical properties
+Specific gravity
+3.04
+2.13
+Specific surface (m2/kg)
+308
+600
+Compressive strength 3 days (MPa)
+20.76
+7 days
+31.89
+28 days
+39.41
+56 days
+42.52
+Consistency (%)
+29.25
+Initial Setting Time (min)
+110
+Final Setting Time (min)
+228
+Figure 1.
+Gradation curve of fine aggregates
+Figure 2.
+Gradation curve of coarse aggregates
+
+
+----- TABLE p3#1 -----
+
+ | Figure 1.
+Gradation curve of fine aggregates
+
+----- TABLE p3#2 -----
+
+ | Table 1.
+Composition of OPC and RHA |  |  | 
+ | Chemical composition (%) | OPC | RHA | 
+ | Silicon dioxide (SiO2) | 22.0 | 77.34 | 
+ | Aluminum oxide (Al2O3) | 5.50 | 6.92 | 
+ | Ferric oxide (Fe2O3) | 3.50 | 4.89 | 
+ | Calcium oxide (CaO) | 64.25 | 3.56 | 
+ | Magnesium oxide (MgO) | 2.50 | 1.59 | 
+ | Sulfur trioxide (SO3) | 2.90 | 0.34 | 
+ | Sodium oxide( Na2O) | 0.20 | 1.27 | 
+ | Potassium Oxide (K2O) | 1.00 | 2.69 | 
+ | Loss on ignition | 0.64 | 4.81 | 
+ | Physical properties |  |  | 
+ | Specific gravity | 3.04 | 2.13 | 
+ | Specific surface (m2/kg) | 308 | 600 | 
+ | Compressive strength 3 days (MPa) | 20.76 |  | 
+ | 7 days | 31.89 |  | 
+ | 28 days | 39.41 |  | 
+ | 56 days | 42.52 |  | 
+ | Consistency (%) | 29.25 |  | 
+ | Initial Setting Time (min) | 110 |  | 
+ | Final Setting Time (min) | 228 |  | 
+
+----- TABLE p3#3 -----
+
+ | Figure 2.
+Gradation curve of coarse aggregates
+
+===== PAGE 4 =====
+
+A .
+A j w a d ,
+S .
+A h m a d ,
+A b d u l l a h ,
+S .
+T .
+A .
+J a f f a r ,
+U .
+I l y a s ,
+M .
+A .
+A d n a n
+2.1.4. Water
+The water used for mixing of concrete was ordinary
+tap water of. The chemical analysis report of water
+proved it to be fit for drinking as per World Health
+Organization (WHO) standards.
+2.1.5. Rice Husk Ash
+The RHA was obtained from standard block kiln sit-
+uated near Lahore, Pakistan, where rice husk is regu-
+larly burnt for burning of bricks. The ash was brought
+to laboratory, cleared from debris and other unwant-
+ed materials manually and then passed from sieve #4
+first and then through sieve #40 for further refining.
+Material was then ground in a laboratory ball mill for
+considerable time until it gave sufficient fineness.
+Chemical analysis of finally prepared RHA was car-
+ried out by XRF-Cement Spectrometer in the chem-
+ical lab of Local Cement factory. The results of chem-
+ical analysis are shown in Table 1. Specific gravity of
+collected RHA was found to be 3.11. The X-Ray
+Diffraction analysis of RHA sample was carried out
+and shown in Fig. 3. Scanning Electron Microscope
+(SEM) test was also performed and the results are
+shown in Figure 4. As RHA is a very fine material, its
+fineness was found using sieve analysis (ASTM C
+184-76) and Blaine’s Air Permeability Apparatus
+(ASTM C 204-94). By sieve analysis, it was found that
+percentage retained on sieve #200 was 10 and specif-
+ic surface area was found to be exact 600 m2/kg by
+Blaine’s Air Permeability apparatus. According to
+chemical analysis results shown, collected RHA has
+high level of silica i.e., sample contains more than
+70% of (SiO2+Al2O3+Fe2O3) content, thus fulfils
+requirement to be used as pozzolana as per ASTM C
+618:2003. The X-Ray Diffraction (XRD) report for
+RHA can be seen in figure 3 and Scanning Electron
+Microscope (SEM) images for samples can be seen in
+Fig. 4.
+The XRD graph of ground RHA confirms the pres-
+ence of Quartz mainly in the form of crystalline. The
+SEM micrograph shows that RHA has multilayered,
+angular and micro porous surface, which explains its
+high specific surface area.
+2.2. Casting schedule
+Six concrete mixes were cast by adding RHA as
+cement replacement material in different ratios by
+weight of cement i.e, 0%, 6%, 12%, 18% & 24%.
+Concrete mix with 0% RHA was declared as control
+mix. Results of different tests performed on other
+mixes were compared with those on control mix to
+ascertain characteristics of RHA blended concrete.
+Complete casting schedule and details of test speci-
+mens are presented in Table 2. After casting, test
+specimens were de-molded after 24 hours and were
+kept in the curing tanks until the specified time of
+testing.
+2.3. Mix design
+RHA is used as partial replacement of OPC in dif-
+ferent percentages by weight of cement i.e. 0%, 6%,
+12%, 18% and 24% at constant mix ratio 1:2:4 and
+water binder ratio 0.6. Total weights of the material
+mix are shown in Table 3. After casting, test speci-
+mens were de-molded after 24 hours and were kept in
+the curing tanks until the specified time of testing.
+88
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+2/2022
+Figure 3.
+XRD report of RHA sample
+Figure 4.
+SEM images of RHA sample
+
+
+----- TABLE p4#1 -----
+
+2.1.4. Water
+The water used for mixing of concrete was ordinary
+tap water of. The chemical analysis report of water
+proved it to be fit for drinking as per World Health
+Organization (WHO) standards.
+2.1.5. Rice Husk Ash
+The RHA was obtained from standard block kiln sit-
+uated near Lahore, Pakistan, where rice husk is regu-
+larly burnt for burning of bricks. The ash was brought Figure 3.
+to laboratory, cleared from debris and other unwant- XRD report of RHA sample
+ed materials manually and then passed from sieve #4
+first and then through sieve #40 for further refining.
+Material was then ground in a laboratory ball mill for
+considerable time until it gave sufficient fineness.
+Chemical analysis of finally prepared RHA was car-
+ried out by XRF-Cement Spectrometer in the chem-
+ical lab of Local Cement factory. The results of chem-
+ical analysis are shown in Table 1. Specific gravity of
+collected RHA was found to be 3.11. The X-Ray
+Diffraction analysis of RHA sample was carried out
+and shown in Fig. 3. Scanning Electron Microscope
+(SEM) test was also performed and the results are
+shown in Figure 4. As RHA is a very fine material, its
+fineness was found using sieve analysis (ASTM C
+184-76) and Blaine’s Air Permeability Apparatus
+(ASTM C 204-94). By sieve analysis, it was found that
+percentage retained on sieve #200 was 10 and specif-
+ic surface area was found to be exact 600 m2/kg by
+Blaine’s Air Permeability apparatus. According to
+chemical analysis results shown, collected RHA has
+Figure 4.
+high level of silica i.e., sample contains more than SEM images of RHA sample
+70% of (SiO +Al O +Fe O ) content, thus fulfils
+2 2 3 2 3
+requirement to be used as pozzolana as per ASTM C mixes were compared with those on control mix to
+618:2003. The X-Ray Diffraction (XRD) report for ascertain characteristics of RHA blended concrete.
+RHA can be seen in figure 3 and Scanning Electron Complete casting schedule and details of test speci-
+Microscope (SEM) images for samples can be seen in mens are presented in Table 2. After casting, test
+Fig. 4. specimens were de-molded after 24 hours and were
+The XRD graph of ground RHA confirms the pres- kept in the curing tanks until the specified time of
+ence of Quartz mainly in the form of crystalline. The testing.
+SEM micrograph shows that RHA has multilayered,
+angular and micro porous surface, which explains its
+2.3. Mix design
+high specific surface area.
+RHA is used as partial replacement of OPC in dif-
+ferent percentages by weight of cement i.e. 0%, 6%,
+2.2. Casting schedule 12%, 18% and 24% at constant mix ratio 1:2:4 and
+Six concrete mixes were cast by adding RHA as water binder ratio 0.6. Total weights of the material
+cement replacement material in different ratios by mix are shown in Table 3. After casting, test speci-
+weight of cement i.e, 0%, 6%, 12%, 18% & 24%. mens were de-molded after 24 hours and were kept in
+Concrete mix with 0% RHA was declared as control the curing tanks until the specified time of testing.
+mix. Results of different tests performed on other |  |  | 
+ |  | Figure 3.
+XRD report of RHA sample | 
+
+----- TABLE p4#2 -----
+
+ |  | 
+ | Figure 4.
+SEM images of RHA sample | 
+
+===== PAGE 5 =====
+
+EFFECT O F U S I NG R I C E HU S K A S H A S PA R T I A L R E P L A CE M E N T O F C E M EN T O N P RO P E R T I E S . . . .
+3. RESULTS AND DISCUSSION
+3.1. Characteristics of RHA
+According to chemical analysis results shown in Table
+1, collected RHA has high level of silica i.e., sample
+contains more than 70% of (SiO2+Al2O3+Fe2O3)
+content, thus fulfils the requirement to be used as
+pozzolana as per ASTM C 618:2003. The XRD graph
+of ground RHA (Fig. 3) confirms the presence of
+quartz mainly in the form of crystalline. The SEM
+micrograph (Fig. 4) shows that RHA has multilay-
+ered, angular and micro porous surface, which
+explains its high specific surface area.
+3.2. Workability
+The workability of concrete for specified replace-
+ment levels of RHA, at constant mix and water-
+cement ratio, was measured by slump test and results
+are shown in Figure 5. There is a slight increase in the
+workability of concrete as replacement level increas-
+es for 0% to 24%. These results are very much simi-
+lar to what Maurice determined in 2012 [9]. Molding
+of test specimens and handling of RHA blended con-
+crete show plasticizing effect of fine particles in
+increasing the mobility of aggregates in the concrete.
+So it is concluded that RHA is more plastic and leads
+to more economical and easier placing of concrete.
+3.3. Compressive strength
+The results of compressive strength test are plotted in
+Fig. 5 which show that for all ages, compressive
+strength of concrete samples is maximum at 6%
+replacement level and for greater replacement levels
+it is less which are in-line with study conducted by
+Alireza in 2010 and Zareei in 2017 [12]. The same is
+also clear from Fig. 7 which shows Box Whisker Plots
+of overall compressive strength at all ages.
+C I V I L
+E N G I N E E R I N G
+e
+2/2022
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+89
+Figure 5.
+Replacement level versus slump of concrete
+Table 2.
+Casting schedule and details of test specimens
+Test details
+Specimen details
+Age (days)
+Total for
+(1 mix)
+Total
+(5 mixes)
+3
+7
+28
+56
+Compressive strength
+Cubes (150 × 150 x 150 mm)
+3
+3
+3
+3
+12
+60
+Split cylinder test
+Cylinders (150 mm high × 300 mm dia.)
+3
+3
+3
+3
+12
+60
+Flexural strength test
+Beams (100 × 100 × 500 mm)
+-
+-
+3
+-
+3
+15
+Water permeability test
+Cube (96.8 mm × 96.8 mm × 150 mm)
+-
+-
+3
+3
+6
+240
+(48 for
+each
+mix)
+Cube (146.9 mm × 146.9 mm × 150 mm)
+-
+-
+3
+3
+6
+Cylinder (96.8 mm high × 150 mm diameter)
+-
+-
+3
+3
+6
+Cylinder (146.9 mm high × 150 mm diameter)
+-
+-
+3
+3
+6
+Table 3.
+Weights of the material mix
+Mixture
+No:
+Mixture Type
+Water
+(kg)
+OPC
+(kg)
+Rice Husk Ash
+(kg)
+Sand
+(kg)
+Coarse Aggregates
+(kg)
+Slump flow
+(mm)
+SM1
+OPC
+33.10
+55.17
+0
+111.42
+222.86
+95
+SM2
+6% Replacement
+33.10
+51.84
+3.31
+111.42
+222.86
+105
+SM3
+12% Replacement
+33.10
+48.55
+6.62
+111.42
+222.86
+112
+SM4
+18% Replacement
+33.10
+45.24
+9.93
+111.42
+222.86
+123
+SM5
+24% Replacement
+33.10
+41.93
+13.24
+111.42
+222.86
+135
+Total
+139.25
+242.75
+33.1
+557.1
+1114.3
+c
+
+
+----- TABLE p5#1 -----
+
+ | Table 2.
+Casting schedule and details of test specimens |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Test details |  | Specimen details |  |  |  | Age (days) |  |  |  |  |  | Total for
+(1 mix) |  | Total
+(5 mixes) | 
+ |  |  |  |  |  |  | 3 |  | 7 |  | 28 | 56 |  |  |  | 
+ | Compressive strength |  | Cubes (150 × 150 x 150 mm) |  |  |  | 3 |  | 3 |  | 3 | 3 | 12 |  | 60 | 
+ | Split cylinder test |  | Cylinders (150 mm high × 300 mm dia.) |  |  |  | 3 |  | 3 |  | 3 | 3 | 12 |  | 60 | 
+ | Flexural strength test |  | Beams (100 × 100 × 500 mm) |  |  |  | - |  | - |  | 3 | - | 3 |  | 15 | 
+ | Water permeability test |  | Cube (96.8 mm × 96.8 mm × 150 mm) |  |  |  | - |  | - |  | 3 | 3 | 6 |  | 240
+(48 for
+each
+mix) | 
+ |  |  | Cube (146.9 mm × 146.9 mm × 150 mm) |  |  |  | - |  | - |  | 3 | 3 | 6 |  |  | 
+ |  |  | Cylinder (96.8 mm high × 150 mm diameter) |  |  |  | - |  | - |  | 3 | 3 | 6 |  |  | 
+ |  |  | Cylinder (146.9 mm high × 150 mm diameter) |  |  |  | - |  | - |  | 3 | 3 | 6 |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Table 3.
+Weights of the material mix |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ | Mixture
+No: | Mixture Type |  | Water
+(kg) | OPC
+(kg) | Rice Husk Ash
+(kg) |  | Sand
+(kg) |  | Coarse Aggregates
+(kg) |  |  |  | Slump flow
+(mm) |  | 
+ | SM1 | OPC |  | 33.10 | 55.17 | 0 |  | 111.42 |  | 222.86 |  |  |  | 95 |  | 
+ | SM2 | 6% Replacement |  | 33.10 | 51.84 | 3.31 |  | 111.42 |  | 222.86 |  |  |  | 105 |  | 
+ | SM3 | 12% Replacement |  | 33.10 | 48.55 | 6.62 |  | 111.42 |  | 222.86 |  |  |  | 112 |  | 
+ | SM4 | 18% Replacement |  | 33.10 | 45.24 | 9.93 |  | 111.42 |  | 222.86 |  |  |  | 123 |  | 
+ | SM5 | 24% Replacement |  | 33.10 | 41.93 | 13.24 |  | 111.42 |  | 222.86 |  |  |  | 135 |  | 
+ |  | Total |  | 139.25 | 242.75 | 33.1 |  | 557.1 |  | 1114.3 |  |  |  |  |  | 
+3. RESULTS AND DISCUSSION 3.3. Compressive strength
+The results of compressive strength test are plotted in
+3.1. Characteristics of RHA
+Fig. 5 which show that for all ages, compressive
+According to chemical analysis results shown in Table
+strength of concrete samples is maximum at 6%
+1, collected RHA has high level of silica i.e., sample
+replacement level and for greater replacement levels
+contains more than 70% of (SiO +Al O +Fe O )
+2 2 3 2 3 it is less which are in-line with study conducted by
+content, thus fulfils the requirement to be used as Alireza in 2010 and Zareei in 2017 [12]. The same is
+pozzolana as per ASTM C 618:2003. The XRD graph also clear from Fig. 7 which shows Box Whisker Plots
+of ground RHA (Fig. 3) confirms the presence of of overall compressive strength at all ages.
+quartz mainly in the form of crystalline. The SEM
+micrograph (Fig. 4) shows that RHA has multilay-
+ered, angular and micro porous surface, which
+explains its high specific surface area.
+3.2. Workability
+The workability of concrete for specified replace-
+ment levels of RHA, at constant mix and water-
+cement ratio, was measured by slump test and results
+are shown in Figure 5. There is a slight increase in the
+workability of concrete as replacement level increas-
+es for 0% to 24%. These results are very much simi-
+lar to what Maurice determined in 2012 [9]. Molding
+of test specimens and handling of RHA blended con-
+crete show plasticizing effect of fine particles in
+Figure 5.
+increasing the mobility of aggregates in the concrete.
+Replacement level versus slump of concrete
+So it is concluded that RHA is more plastic and leads
+to more economical and easier placing of concrete. |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p5#2 -----
+
+ |  | 
+ |  | 
+ | Figure 5.
+Replacement level versus slump of concrete | 
+
+===== PAGE 6 =====
+
+A .
+A j w a d ,
+S .
+A h m a d ,
+A b d u l l a h ,
+S .
+T .
+A .
+J a f f a r ,
+U .
+I l y a s ,
+M .
+A .
+A d n a n
+Table 4 shows strength activity index of concrete sam-
+ples for all ages after partial replacement of cement
+by RHA. Figure 8 presents the rate of gain of com-
+pressive strength of concrete samples with age. These
+clearly indicate that gain of strength for 6% replace-
+ment dominates 0% replacement level (control mix)
+right from the early age. As the age increases, the pat-
+tern of strength gain for 6% replacement is nearly
+constant but higher than 0% replacement. For other
+replacement levels the gain in strength is below 90%
+of control mix, but the trend is nearly same.
+The results also show that at early ages, the strength
+is comparable at replacement level of 6%. The
+strength at the age of 28 days for the same level of
+replacement is higher than the control sample. This is
+due to the fact that the higher fineness of RHA
+allowed it to increase the reaction with Ca(OH)2 to
+produce more calcium silicate hydrate (C-S-H)
+resulting
+in
+higher
+compressive
+strength.
+Additionally the finer RHA particles contribute to
+the strength development.
+The optimum replace-
+ment level therefore comes out to be 6% by weight of
+cement with corresponding compressive strength as
+3.380 MPa at the age of 3 days, 7.535 MPa at the age
+of 7 days, 14.640 MPa at the age of 28 days and
+25.404 MPa at 56 days.
+3.4. Tensile strength
+The tensile strength of concrete is measured by split
+cylinder test and results are illustrated in Table 5 and
+Figures 9, 10 & 11.
+90
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+2/2022
+Figure 6.
+Replacement level versus compressive strength at different
+ages
+Figure 7.
+Box Whisker plot for compressive strength at all ages
+Table 4.
+Strength Activity Index of concrete samples
+Strength Activity Index
+Ratio
+3 Days
+7 Days
+28 Days
+56 Days
+Compressive Strength
+(MPa)
+S.A.I
+Compressive strength
+(MPa)
+S.A.I
+Compressive strength
+(MPa)
+S.A.I
+Compressive
+strength (MPa)
+S.A.I
+0%
+3.229
+100.0
+6.932
+100.0
+13.563
+100.0
+23.251
+100.0
+6%
+3.380
+104.7
+7.535
+108.7
+14.640
+107.9
+25.404
+109.3
+12%
+3.294
+102.0
+6.050
+87.3
+13.090
+96.5
+21.744
+93.5
+18%
+2.885
+89.3
+5.813
+83.9
+12.056
+88.9
+20.022
+86.1
+24%
+2.583
+80.0
+5.425
+78.3
+11.303
+83.3
+17.438
+75.0
+Figure 8.
+Rate of gain of compressive strength of concrete with age
+
+
+----- TABLE p6#1 -----
+
+ |  | 
+ | Figure 6.
+Replacement level versus compressive strength at different
+ages | 
+
+----- TABLE p6#2 -----
+
+ |  | 
+ | Figure 8.
+Rate of gain of compressive strength of concrete with age | 
+
+----- TABLE p6#3 -----
+
+ |  | 
+ | Figure 7.
+Box Whisker plot for compressive strength at all ages | 
+
+----- TABLE p6#4 -----
+
+ | Table 4.
+Strength Activity Index of concrete samples |  |  |  |  |  |  |  |  | 
+ | Strength Activity Index |  |  |  |  |  |  |  |  | 
+ | Ratio | 3 Days |  | 7 Days |  | 28 Days |  | 56 Days |  | 
+ |  | Compressive Strength
+(MPa) | S.A.I | Compressive strength
+(MPa) | S.A.I | Compressive strength
+(MPa) | S.A.I | Compressive
+strength (MPa) | S.A.I | 
+ | 0% | 3.229 | 100.0 | 6.932 | 100.0 | 13.563 | 100.0 | 23.251 | 100.0 | 
+ | 6% | 3.380 | 104.7 | 7.535 | 108.7 | 14.640 | 107.9 | 25.404 | 109.3 | 
+ | 12% | 3.294 | 102.0 | 6.050 | 87.3 | 13.090 | 96.5 | 21.744 | 93.5 | 
+ | 18% | 2.885 | 89.3 | 5.813 | 83.9 | 12.056 | 88.9 | 20.022 | 86.1 | 
+ | 24% | 2.583 | 80.0 | 5.425 | 78.3 | 11.303 | 83.3 | 17.438 | 75.0 | 
+ |  |  |  |  |  |  |  |  |  | 
+
+===== PAGE 7 =====
+
+EFFECT O F U S I NG R I C E HU S K A S H A S PA R T I A L R E P L A CE M E N T O F C E M EN T O N P RO P E R T I E S . . . .
+Figure 9 presents the split cylinder strength of blend-
+ed concrete cylinders at different ages whereas Fig.
+10 shows box whisker plots for overall tensile strength
+at 3, 7, 28, & 56 days. It is concluded that again ten-
+sile strength of concrete is highest at 6% replacement
+of cement by RHA. The same discussion may follow
+here as done in case of compressive strength. The
+strength at optimum replacement level i.e. 6% is
+1.0005 MPa at the age of 3 days, 1.2814 MPa at the
+age of 7 days, 2.1243 MPa at the age of 28 days and
+3.5633 MPa at the age of 56 days. Figure 11 reveals
+the trend of rate of gain of tensile (split cylinder)
+strength of concrete casted by blended cement. It is
+clearly shown that the pattern of increase in strength
+for all replacement levels is almost similar but at
+early ages i.e. from 3 days to 7 days it is abruptly high
+for replacement levels 0% and 6%. However, after
+7 days all samples follow the same pattern of strength
+gain.
+3.5. Modulus of rupture
+The modulus of rupture was experimentally mea-
+sured by three point loading test, and results are illus-
+trated in Fig. 12. It shows the test results of 3 point
+load test carried out to determine the flexural
+strength of concrete beams. It reveals that the trend
+of strength gain is similar to other test results i.e. 6%
+replacement level gives better strength as compared
+to 0% (control mix) replacement level. But for all
+other replacement levels the difference in flexural
+C I V I L
+E N G I N E E R I N G
+e
+2/2022
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+91
+Figure 9.
+Replacement level versus split cylinder strength of concrete
+Figure 10.
+Box Whisker plot for Tensile strength at all ages
+Figure 11.
+Rate of gain of split cylinder strength of concrete with age
+Table 5.
+Split cylinder strength activity index of concrete
+Split cylinder strength activity index
+Ratio
+3 Days
+7 Days
+28 Days
+56 Days
+Split cylinder strength
+(MPa)
+S.A.I
+Split cylinder
+strength (MPa)
+S.A.I
+Split cylinder
+strength (MPa)
+S.A.I
+Split cylinder
+strength (MPa)
+S.A.I
+0%
+0.953
+100.0
+1.179
+100.0
+1.891
+100.0
+3.358
+100.0
+6%
+1.000
+105.0
+1.281
+108.7
+2.124
+112.3
+3.563
+106.1
+12%
+0.863
+90.6
+1.014
+86.0
+1.275
+67.4
+3.049
+90.8
+18%
+0.884
+92.8
+0.932
+79.1
+1.597
+84.4
+2.844
+84.7
+24%
+0.836
+87.8
+0.891
+75.6
+1.329
+70.3
+2.570
+76.5
+c
+
+
+----- TABLE p7#1 -----
+
+ | Table 5.
+Split cylinder strength activity index of concrete |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  | 
+ | Split cylinder strength activity index |  |  |  |  |  |  |  |  | 
+ | Ratio | 3 Days |  | 7 Days |  | 28 Days |  | 56 Days |  | 
+ |  | Split cylinder strength
+(MPa) | S.A.I | Split cylinder
+strength (MPa) | S.A.I | Split cylinder
+strength (MPa) | S.A.I | Split cylinder
+strength (MPa) | S.A.I | 
+ | 0% | 0.953 | 100.0 | 1.179 | 100.0 | 1.891 | 100.0 | 3.358 | 100.0 | 
+ | 6% | 1.000 | 105.0 | 1.281 | 108.7 | 2.124 | 112.3 | 3.563 | 106.1 | 
+ | 12% | 0.863 | 90.6 | 1.014 | 86.0 | 1.275 | 67.4 | 3.049 | 90.8 | 
+ | 18% | 0.884 | 92.8 | 0.932 | 79.1 | 1.597 | 84.4 | 2.844 | 84.7 | 
+ | 24% | 0.836 | 87.8 | 0.891 | 75.6 | 1.329 | 70.3 | 2.570 | 76.5 | 
+Figure 9. Figure 11.
+Replacement level versus split cylinder strength of concrete Rate of gain of split cylinder strength of concrete with age
+here as done in case of compressive strength. The
+strength at optimum replacement level i.e. 6% is
+1.0005 MPa at the age of 3 days, 1.2814 MPa at the
+age of 7 days, 2.1243 MPa at the age of 28 days and
+3.5633 MPa at the age of 56 days. Figure 11 reveals
+the trend of rate of gain of tensile (split cylinder)
+strength of concrete casted by blended cement. It is
+clearly shown that the pattern of increase in strength
+for all replacement levels is almost similar but at
+early ages i.e. from 3 days to 7 days it is abruptly high
+for replacement levels 0% and 6%. However, after
+7 days all samples follow the same pattern of strength
+gain.
+Figure 10. 3.5. Modulus of rupture
+Box Whisker plot for Tensile strength at all ages
+The modulus of rupture was experimentally mea-
+sured by three point loading test, and results are illus-
+trated in Fig. 12. It shows the test results of 3 point
+Figure 9 presents the split cylinder strength of blend- load test carried out to determine the flexural
+ed concrete cylinders at different ages whereas Fig. strength of concrete beams. It reveals that the trend
+10 shows box whisker plots for overall tensile strength of strength gain is similar to other test results i.e. 6%
+at 3, 7, 28, & 56 days. It is concluded that again ten- replacement level gives better strength as compared
+sile strength of concrete is highest at 6% replacement to 0% (control mix) replacement level. But for all
+of cement by RHA. The same discussion may follow other replacement levels the difference in flexural |  |  |  |  |  |  |  |  |  | 
+
+----- TABLE p7#2 -----
+
+ |  | 
+ | Figure 9.
+Replacement level versus split cylinder strength of concrete | 
+
+----- TABLE p7#3 -----
+
+ |  | 
+ | Figure 11.
+Rate of gain of split cylinder strength of concrete with age | 
+
+----- TABLE p7#4 -----
+
+ |  | 
+ | Figure 10.
+Box Whisker plot for Tensile strength at all ages | 
+
+===== PAGE 8 =====
+
+A .
+A j w a d ,
+S .
+A h m a d ,
+A b d u l l a h ,
+S .
+T .
+A .
+J a f f a r ,
+U .
+I l y a s ,
+M .
+A .
+A d n a n
+strength is not significant as strength lies between
+4 MPa to 6 MPa.
+3.6. Water permeability
+Water permeability of concrete was checked by the
+water penetration test at the age of 28 days. The
+results are graphically presented in Fig. 13 which
+revealed that water penetration decreases as the
+replacement ratio is 6% of cement by weight than
+control mix. This is so because the pores in concrete
+are filled by the finer particles of RHA, and the pen-
+etration of water reduces. But as the replacement
+level increases the water penetration increases, due
+to reduction of binder content in concrete. This out-
+come strengthens Maurice discovery regarding
+enhanced water demand of RHA reinforced concrete
+[7]. However the reduction of water penetration at
+6% replacement level is greatly reduced.
+3.7. Cost comparison
+As concrete is the basis of construction industry, any
+sort of change in the cost of concrete can affect the
+budget of whole project. In order to perform a cost
+comparison between normal concrete and 6% RHA
+blended concrete 1 m3 (35.31 cft) concrete has been
+considered. By taking mix ratio of 1:2:4 and water-
+binder ratio 0.6, quantities of materials have been
+calculated both in cft and kg for ease. The detailed
+comparison is given in Table 6. It is clear that in addi-
+tion to the enhanced characteristics of 6% RHA
+blended concrete; it is 2.2% cheaper than normal
+concrete while 6% RHA blended cement is 6%
+cheaper as compared to pure cement. Similar sort of
+saving of around 3% was also concluded by Bhushan
+in his 2017 study which ensures that using RHA as
+cement replacement does contribute to cost-cutting
+with added benefits [19].
+92
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+2/2022
+Figure 12.
+Replacement level versus modulus of rupture of concrete
+Figure 13.
+Replacement level versus water permeability through con-
+crete
+Table 6.
+Cost comparison between normal and blended concretes
+Items
+Quantity of con-
+crete
+Quantity of
+cement
+Quantity of RHA
+(6%)
+Quantity of fine
+aggregates
+Quantity of coarse
+aggregates
+Weight
+of materials
+Raw concrete
+1 m3 (35.31 cft)
+2415 kg
+8.62 cft
+345 kg
+---
+15.73 cft
+690 kg
+31.47 cft
+1380 kg
+Blended concrete
+1 m3 (35.31 cft)
+2415 kg
+8.10 cft
+324.3 kg
+1.38 cft
+20.7 kg
+15.73 cft
+690 kg
+31.47 cft
+1380 kg
+Cost of materials
+Raw concrete
+USD 21.57/-
+USD 13.80/-
+---
+USD 2.0/-
+USD 5.77/-
+Blended concrete
+USD 21.09/-
+USD 12.97/-
+USD 0.35/-
+USD 2.0/-
+USD 5.77/-
+Difference in cost
+USD 0.47/-
+(2.2% of normal
+concrete)
+USD 0.82/-
+(6% of pure
+cement)
+---
+---
+---
+
+
+----- TABLE p8#1 -----
+
+ |  | 
+ | Figure 12.
+Replacement level versus modulus of rupture of concrete | 
+
+----- TABLE p8#2 -----
+
+ |  | 
+ | Figure 13.
+Replacement level versus water permeability through con-
+crete | 
+
+----- TABLE p8#3 -----
+
+ | Table 6.
+Cost comparison between normal and blended concretes |  |  |  |  |  |  | 
+ | Items |  | Quantity of con-
+crete | Quantity of
+cement | Quantity of RHA
+(6%) | Quantity of fine
+aggregates | Quantity of coarse
+aggregates | 
+ | Weight
+of materials | Raw concrete | 1 m3 (35.31 cft)
+2415 kg | 8.62 cft
+345 kg | --- | 15.73 cft
+690 kg | 31.47 cft
+1380 kg | 
+ |  | Blended concrete | 1 m3 (35.31 cft)
+2415 kg | 8.10 cft
+324.3 kg | 1.38 cft
+20.7 kg | 15.73 cft
+690 kg | 31.47 cft
+1380 kg | 
+ | Cost of materials | Raw concrete | USD 21.57/- | USD 13.80/- | --- | USD 2.0/- | USD 5.77/- | 
+ |  | Blended concrete | USD 21.09/- | USD 12.97/- | USD 0.35/- | USD 2.0/- | USD 5.77/- | 
+ |  | Difference in cost | USD 0.47/-
+(2.2% of normal
+concrete) | USD 0.82/-
+(6% of pure
+cement) | --- | --- | --- | 
+ |  |  |  |  |  |  |  | 
+
+===== PAGE 9 =====
+
+EFFECT O F U S I NG R I C E HU S K A S H A S PA R T I A L R E P L A CE M E N T O F C E M EN T O N P RO P E R T I E S . . . .
+4. CONCLUSIONS & RECOMMENDA-
+TIONS
+4.1. Conclusions
+1. There is increase in workability of concrete as the
+replacement level of cement by RHA increases
+from 0 to 24%.
+2. Compressive, Tensile & Flexure strengths of
+blended concrete increases at 6% replacement
+level than for control mix. For all other replace-
+ment levels, the gain in strength is not significant
+as it is even less than control mix.
+3. The water permeability of concrete decreases as
+compared to control mix at 6% replacement level.
+4. The use of RHA as pozzolanic material is an envi-
+ronmental friendly option, as it resolves the seri-
+ous issue of disposing wastes of Rice Husk as well
+as Rice Husk Ash.
+5. It has been seen by cost comparison that in addi-
+tion to the enhanced characteristics of 6% RHA
+blended concrete; it is 2.2% cheaper than normal
+concrete while 6% cheaper as compared to pure
+cement. Along these lines, minimal effort concrete
+can be created by substituting RHA as partial sub-
+stitution of cement without trading off on its
+attractive parameters.
+4.2. Recommendations
+6% replacement of cement by Pakistani RHA is here-
+by recommended for construction industry. It will not
+only save overall cost of cement but also solve the
+major environmental issue of disposal of rice husk
+ash from brick kilns.
+REFERENCES
+[1]
+Ganesan, K., Rajagopal K., Thangavel K. (2008).
+Rice husk ash blended cement: Assessment of opti-
+mal level of replacement for strength and permeabil-
+ity properties of concrete. Construction and Building
+Materials, 22(8), 1675–1683.
+[2]
+Givi, A.N., Rashid, S.A., Aziz, F.N.A, Salleh, M.A.M.
+(2010). Assessment of the effects of rice husk ash par-
+ticle size on strength, water permeability and worka-
+bility of binary blended concrete. Construction and
+Building Materials, 24(11), 2145–2150.
+[3]
+Bui, D.D., Hu, J., Stroeven, P. (2005). Particle size
+effect on the strength of rice husk ash blended gap-
+graded Portland cement concrete. Cement and
+Concrete composites. 27(3), 357–366.
+[4]
+Sensale, G.R.D. (2006). Strength development of
+concrete with rice-husk ash. Cement and Concrete
+composites. 28(2), 158–160.
+[5]
+Krishna R.N. (2008). Rice Husk Ash, an Ideal
+Admixture for Concrete in Aggressive Environment,
+Proceedings of Recycling Construction Waste for
+Sustainable Development, Organized by CREAM,
+UITM, ACCI and CSM, Kuala Lumpur.
+[6]
+Swamy, R.N. (1983). New concrete material, Concrete
+technology and design, (1), 146–150.
+[7]
+Gutt, W., Nixon, P.J. (1979). Use of waste materials in
+the construction industry.
+Materials and Structures,
+12(4), 255–306.
+[8]
+Mehta, P.K. (1992). Rice husk ash–a unique supple-
+mentary cementing material, V.M. Malhotra (Ed.),
+Proceedings of the International Symposium on
+Advances in Concrete Technology. CANMET/ACI,
+Athens, Greece. 407–430.
+[9]
+Ephraim M.E., Akeke G.A, Ukpata J.O, (2012).
+Compressive strength of concrete with rice husk ash
+as partial replacement of ordinary Portland cement.
+Scholarly Journal of Engineering Research, 1(2), 32–36.
+[10] Deshmukh S.D. (2011). Experimental Study on
+Strength of Concrete by Using Artificial Fibers with
+Rice Husk Ash. International Journal of Engineering
+Research and Applications, 1(3), 571–581.
+[11] Kumar S. (2012). Experimental study on the proper-
+ties of concrete made with alternate construction
+materials.International Journal of Modern Engineering
+Research, 2(5), 3006–3012.
+[12] Givi A.N., Rashid S.A. (2010). Contribution of RHA
+to the properties of mortar and concrete. A Review-
+Journal of American Science, 6(3), 157–165.
+[13] Uduweriya R., Subash C. (2010). Investigation of
+compressive strength of concrete containing RHA-
+Proceedings
+of
+International
+Conference
+on
+Sustainable Built Environment, Kandy, Indonesia.
+[14] Domke P.V., Deshmukh S.D., Kene S.D., Deotale
+R.S. (2011). Study of Various Characteristic of
+Concrete
+with
+Rice
+Husk
+Ash
+As
+A
+Partial
+Replacement Of Cement With Natural Fibers (Coir).
+International Journal of Engineering Research and
+Applications, 1(3), 554–562.
+[15] Kartini, K., Mahmud, H.B., Hamidah, M.S. (2006).
+Strength properties of grade 30 rice husk ash con-
+crete. 31st Conference on OUR WORLD IN CON-
+CRETE & STRUCTURES: Singapore.
+[16] Chik, F.A.W., Bakar, B.H.A., Johari, M.A.M., Jaya,
+R.P. (2011). Properties of concrete block containing
+rice husk ash subjected to girha, IJRRAS.
+[17] Zareei, S.A., Ameri, F., Dorostkar, F., Ahmadi, M.
+(2017). Rice husk ash as a partial replacement of
+cement in high strength concrete containing micro sil-
+ica: Evaluating durability and mechanical properties.
+Case studies in construction materials, 7, 73–81.
+C I V I L
+E N G I N E E R I N G
+c
+e
+2/2022
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+93
+
+
+===== PAGE 10 =====
+
+A .
+A j w a d ,
+S .
+A h m a d ,
+A b d u l l a h ,
+S .
+T .
+A .
+J a f f a r ,
+U .
+I l y a s ,
+M .
+A .
+A d n a n
+[18] Alex, J., Dhanalakshmi, J., Ambedkar, B. (2016).
+Rice husk ash as a partial replacement of cement in
+high strength concrete containing micro silica:
+Evaluating durability and mechanical properties,
+Construction and building materials, 127, 353–362.
+[19] Bhushan, E.R., Gochhe, S., Singh, E.H., Bastola, B.P.
+(2017). Partial Replacement of cement by rice husk
+ash. International Research Journal of Engineering and
+Technology, 4(10) 251–256.
+[20] Poloju, K.K., Rollakanti, C.R. (2017). Strength
+Studies on Different Grades of Concrete Considering
+Fire Exposure. American Journal of Civil Engineering,
+6(1), 16–23.
+94
+A R C H I T E C T U R E
+C I V I L E N G I N E E R I N G
+E N V I R O N M E N T
+2/2022

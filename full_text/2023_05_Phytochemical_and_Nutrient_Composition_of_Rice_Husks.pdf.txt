@@ -1,0 +1,1125 @@
+
+===== PAGE 1 =====
+
+                               Trop J Nat Prod Res, February 2023; 7(2):2457-2463                 ISSN 2616-0684 (Print) 
+                                                                                                                                                  ISSN 2616-0692 (Electronic)  
+ 
+2457 
+ © 2023 the authors. This work is licensed under the Creative Commons Attribution 4.0 International License 
+ 
+Tropical Journal of Natural Product Research 
+ 
+Available online at https://www.tjnpr.org 
+Original Research Article 
+ 
+Phytochemical and Nutrient Composition of Rice Husks 
+ 
+Uzoamaka C. Nnadiukwu1,2*, Eugene N. Onyeike1,2, Catherine C. Ikewuchi1,2 and Kingsley C. Patrick-Iwuanyanwu1,2 
+ 
+1Africa Centre of Excellence in Public Health and Toxicological Research (PUTOR), University of Port Harcourt, PMB, 5323 Port Harcourt, Rivers State, 
+Nigeria. 
+2Department of Biochemistry, Faculty of Science, University of Port Harcourt, Rivers State, Nigeria 
+ 
+ 
+Introduction  
+Rice husk (RH) is a substantial by-product of rice milling 
+generated globally in high quantity. Its utilization as prospective raw 
+material plays significant role in waste management in milling 
+industries. According to Singh,1 RHs are the hard-outer part of rice 
+grains that are removed from the grains during milling process. Chen et 
+al,2 reported that about 150 million tons of rice husks are generated 
+globally per annum. Sani et al. 3 stated that rice is a major cash crop 
+cultivated for commercial purposes and its industries contributes 
+significantly in employment of workforce. Omolehin et al,4 reported 
+that rice is an essential food consumed by majority of Nigeria 
+population. According to Soltani et al,5 RH is a natural fiber applied in 
+composites. These natural fiber composites play significant roles in 
+reducing dependence on non-renewable energy/material sources, 
+reducing pollutant emissions and greenhouse gas discharges, and 
+improving energy recovery. According to Varzakas et al,6 the inedible 
+parts of plants such as the peel and husk rich in polyphenolics has been 
+applied as food supplements. Currently, approximately two-third of 
+global populace depends on plant-based treatments for health benefits.7  
+ 
+*Corresponding author. E mail: nnadiukwu.chinonso@uniport.edu.ng 
+                                            Tel: (+234) 07037993903 
+ 
+Citation: Nnadiukwu UC, Onyeike EN, Ikewuchi CC, Patrick-Iwuanyanwu 
+KC. Phytochemical and Nutrient Composition of Rice Husk. Trop J Nat Prod 
+Res. 2023; 7(2): 2457-2463 http://.www.doi.org/10.26538/tjnpr/v7i2.24 
+ 
+Official Journal of Natural Product Research Group, Faculty of Pharmacy,  
+University of Benin, Benin City, Nigeria. 
+ 
+ 
+ 
+Thus, utilization of phyto-nutrients from agro-wastes should be 
+advocated as some by-products especially from milling industries might 
+possess numerous and significant bioactive substances which can serve 
+as intrinsic precursor for drug production. RH and bran are the major 
+by-products of rice milling and accounts for two-third of the total rice 
+milling products. Parichart et al,8 posited that extract of rice husk extract 
+generated in some parts of the globe has shown anti-inflammatory, 
+antidiabetic, antihyperlipidemic, hepatoprotective, anticancer, and 
+antioxidant effects. It is worthy to note that limited benefits of RH from 
+Southeast Nigeria has been documented, thus entailed this study. These 
+benefits if identified will be attributed to the bioactive components of 
+the plant’s by-product. In most scientific report, the plant’s secondary 
+metabolites predict its therapeutic proclivity, though the development 
+of plants extracts with potential medical benefits is hindered by poor 
+biopharmaceutical processes, insufficient scientific data and resources. 
+According to Hatfield & Marita,9 plant’s intrinsic bioactive compounds 
+are mainly attached to cell walls via polysaccharide, lignin, and perhaps 
+silicon, and may be extracted under mild conditions using various 
+extraction methods and solvents notwithstanding the available 
+concentrations. The most preferred technique for evaluating the 
+bioactive composition of long chain hydrocarbons, alcohols, acids, 
+esters, alkaloids, steroids, amino and nitro chemicals in medicinal plants 
+is via gas chromatography-mass spectroscopy (GC-MS). However, 
+combination of GC and MS with specific identification procedures have 
+advanced into a refined method for analysing plant constituents 10 . The 
+proximate, vitamin, mineral and GC-MS analyses of RH investigated in 
+this study is part of the search for plants by-products with bioactive 
+compounds as to establish their possible nutritional and medicinal 
+potentials. 
+ 
+ 
+ 
+ARTICLE  INFO 
+ABSTRACT 
+Article history: 
+Received  27 October 2022 
+Revised  12 December 2022 
+Accepted  08 February 2023 
+Published online  01 March 2023  
+This study deals with the determination of possible phytocompounds, minerals, vitamins and 
+nutritional constituents present in Rice husk (RH). Dried rice husk samples were collected from a 
+local rice mill at Awgu Town in Enugu, South-East Nigeria. The proximate, phytochemical, 
+vitamin and mineral composition of the ground sample were investigated using standard methods 
+of analysis, while a Gas chromatography-mass spectrometry (GC-MS) device was employed for 
+the characterization of bioactive components of the sample. The proximate analysis revealed the 
+presence of carbohydrate (37.04%), crude protein (1.85%), moisture (7.93%), crude fat (3.76%), 
+fibre (25.74%), and ash content (23.39%). The phytochemical screening high amount of 
+flavonoids, carotenoid, and glycosides in the RH sample. Vitamins such as A, C, D, E, K and B-
+complexes (B1, B2, B3, B5, B6, B7, B9, and B12) as well as minerals (calcium, magnesium, 
+potassium, sodium, zinc, iron, selenium, cobalt, manganese, copper and phosphorus) were also 
+identified in the sample. Meanwhile, the GC-MS analysis of the sample revealed the presence of 
+cynarin, demecolcine, penta-triacontene, hyoscyamine, kheltin, acetyldigoxin, quinoline-3-
+methyl, coumaric acid, copaene, benzyl benzoate, caryophyllene, danthron, lupenon, beta-amyrin, 
+ephedrine, 
+alpha-ergosterol, 
+galanthamine, 
+kawain, 
+agrimophol, 
+eugenol, 
+anabasine, 
+benzylisoquinoline, carpaine, phytol, phytic acid, myrcene, lobeline, beta-caryophyllene, 
+sparteine, and emetine. This study established that the high nutritional value and bioactive 
+composition of rice husk indicates the rice milling by-product to be a promising food formulate 
+with numerous health benefits. 
+ 
+ 
+ 
+Keywords:    GC-MS, Minerals, Phytochemicals, Rice husk and Vitamins 
+Copyright: © 2023 Nnadiukwu et al. This is an open-
+access article distributed under the terms of the 
+Creative Commons Attribution License, which 
+permits unrestricted use, distribution, and reproduction 
+in any medium, provided the original author and 
+source are credited. 
+
+
+===== PAGE 2 =====
+
+                               Trop J Nat Prod Res, February 2023; 7(2):2457-2463                 ISSN 2616-0684 (Print) 
+                                                                                                                                                  ISSN 2616-0692 (Electronic)  
+ 
+2458 
+ © 2023 the authors. This work is licensed under the Creative Commons Attribution 4.0 International License 
+ 
+Materials and Methods 
+Collection of plant materials 
+Dried rice husks sample was collected from a local rice mill at Awgu 
+town, Enugu State, South-East, Nigeria, in December 2021.  
+ 
+Preparation of extract 
+The husks were ground and samples filtered through a mesh sieve size 
+of 48. Extraction was done with appropriate solvents for the specific 
+analysis as stated by the AOAC 11 method of analysis. 
+ 
+ 
+Methodology 
+Dried RH was assayed for proximate to evaluate the carbohydrate 
+(CHO), moisture, ash, fibre, crude protein and lipid content using 
+Association of Official Analytical Chemists.11  Moisture content was 
+evaluated by measuring the change in the weight of 5g portion of the 
+rice husk after it was dried in an electric oven set at 105oC for 6 hours. 
+Ash content, the inorganic residue that remains after the organic matter 
+has been dried was quantified by incinerating 5g of the sample in a 
+muffle furnace at 500oC for about 240 minutes. Crude protein was 
+evaluated using Kjeldahl procedure.12 The procedure involves 
+degradation of sample with conc. H2SO4 in the presence of a metallic 
+catalyst with further reduction of nitrogen to ammonia (NH3) which is 
+retained in the solution as ammonium sulfate [(NH4)2SO4], followed by 
+distillation and titration. Crude fibre was obtained using acid and 
+alkaline digestion method.13 Lipid value was evaluated by continually 
+extracting the sample with non-polar organic solvent using a soxhlet 
+extractor. CHO content was quantified by the difference method by 
+subtracting the total sum of moisture, ash, crude protein, crude fat and 
+crude fibre content from 100. The energy level was calculated by 
+totalling the product of the mean values of crude protein, crude fat and 
+total carbohydrate and the factors 4, 9, and 4 respectively, and result 
+expressed in kilocalories per 100g sample.14    
+The mineral component of rice husk such as calcium, iron, zinc, 
+selenium, copper, magnesium, manganese, cobalt, potassium, sodium 
+and phosphorus 
+were obtained 
+with 
+an 
+atomic 
+absorption 
+spectrophotometry (AAS) (Solar Thermos Elemental Flame AAS; 
+Model: S4 = 71096) following the procedure of Długaszek and 
+Kaszczuk. 15 
+The sample’s bioactive components was obtained with the procedure of 
+Balamurugan et al,16 using a GC-MS device (Agilent 6890N Gas 
+Chromatograph with Agilent 5975 Mass Selective Detector, and a 30 
+μm x 0.25 mm ID fused-silica capillary column chemically attached 
+with SE-54 (DB-5), and 1-μm film thickness). The unknown 
+components in the mass spectrum of the GC-MS were identified using 
+a database from the National Institute of Standards and Technology 
+(NIST) library.  
+For the quantitative phytochemical analysis, the standard techniques of 
+Harborne 17 was adopted for alkaloid estimation; Obadoni and Ochuko 
+method,18 was used for saponin estimation; Awah et al method,19 was 
+adopted for tannin estimation; Kumaran and Karunakaran procedure,20 
+with slight modification by Awah et al,19 was used for total phenol 
+content and total flavonoid content; while Munro and Bassir guideline,21 
+was adopted for the estimation of oxalate, glycosides, phytate, and 
+cyanogenic glycosides.  
+The vitamins composition was quantified using UV-Visible 
+spectrophotometer at 512nm for various vitamins, based on their 
+standard calibration curves as stated by AOAC.11  
+ 
+Ethical approval 
+The research was duly approved by the University of Port Harcourt Re
+search Ethics Committee with Approval No: UPH/CEREMAD/REC/
+MM79/026. 
+ 
+Statistical analysis 
+Recorded data were analysed with T-Test of SPSS version 25.0, and 
+results expressed as Mean ± SD of three replicates of analysis. 
+ 
+ 
+Results and Discussion 
+According to  Dey et al,22 RH is an agro-waste of rice milling with an 
+appreciable fibre content. RH is believed to contain many bioactive 
+compounds like phytochemicals, proximate nutrients, vitamins and 
+minerals. The current study revealed the presence of numerous 
+bioactive components of RH. The phytochemical screening revealed the 
+presence of important phytochemicals such as alkaloid, flavonoid, 
+steroid, carotenoid, tannin, and terpenoid. Table 1 showed some 
+phytochemicals such as alkaloid (13.07 mg/100g), phytate (8.93 
+mg/100g), glycoside (7.92 mg/100g), cardiac glycoside (6.57 mg/100g), 
+flavonoid (5.64 mg/100g), oxalate (0.63 mg/100g), carotenoid (0.05 
+mg/100g), cyanogenic glycoside (0.05 mg/100g) and steroid (0.03 
+mg/100g). As per  Altemimi et al,23 phytochemicals such as phenols, 
+flavonoids, carotenoid, and phenols have been previously reported to be 
+responsible for the therapeutic potentials of some plant extracts. Thus, 
+Amirkia & Heinrich,24 posited that the plants’ therapeutic effects are 
+solely dependent on their secondary metabolites, though these 
+therapeutic metabolites exist in few plant species. According to 
+Varzakas et al.6 inedible plant portions such as the peel and husk, have 
+recently been adopted as food supplements. Butsat & Siriamornpun 26; 
+Wanyo et al,25 reported that bioactive components from RH have shown 
+resistance against oxidative damage. Studies have also reported 
+biological  benefits of phytate despite its anti-nutrient property.27 
+Phytate intake has been reported to inhibit development of kidney stone 
+through complex formation with calcium (Ca).28 According to Lee et al, 
+29 phytic acid inhibited free radicals and increased antioxidant potentials 
+against alcohol-related liver impairment. Tannin containing plants have 
+been used to treat intestinal disorders such as diarrhoea and dysentery.30 
+Tannins has been reported to aid in managing inflamed/ulcerated 
+tissues.31 Flavonoids are antioxidants and free radical scavengers that 
+shield cells from oxidative damage. According to Okwu & Iroabuchi,32 
+flavonoids possess strong anticancer activity and protect cells from all 
+stages of carcinogenesis. Thus, this study is in tandem with that of Irakli 
+et al,33 which recorded significant polyphenol and flavonoids content.   
+RH was also screened for its biological components using a GC-MS. 
+The analysis revealed cynarin, demecolcine, penta-triacontene, 
+hyoscyamine, kheltin, acetyldigoxin, quinoline-3-methyl, coumaric 
+acid, copaene, benzyl benzoate, caryophyllene, danthron, lupenon, beta-
+amyrin, 
+ephedrine, 
+alpha-ergosterol, 
+galanthamine, 
+kawain, 
+agrimophol, eugenol, anabasine, benzylisoquinoline, carpaine, phytol, 
+phytic acid, myrcene, lobeline, beta-caryophyllene, sparteine, and 
+emetine as presented in Table 2.   
+ 
+Table 1: Quantitative phytochemical constituents of rice husk 
+ 
+Phytochemical Constituent           Relative amount (mg/100g) 
+Alkaloid  
+13.07 ± 0.11 
+Flavonoid  
+5.64 ± 0.02 
+Saponin  
+0.29 ± 0.02 
+Tannin 
+1.73 ± 0.01 
+Oxalate  
+0.63 ± 0.01 
+Phytate  
+8.93 ± 0.10 
+Glycoside  
+7.92 ± 0.07 
+Cyanogenic glycoside  
+0.05 ± 0.00 
+Cardiac glycoside  
+6.57 ± 0.05 
+Steroid  
+0.03 ± 0.00 
+Phenol  
+2.79 ± 0.02 
+Anthraquinone 
+4.83 ± 0.03 
+Terpenoid  
+1.83 ± 0.01 
+Carotenoid 
+0.05 ± 0.00 
+Values are means ± standard deviations of triplicate determinations. 
+ 
+
+
+===== PAGE 3 =====
+
+                               Trop J Nat Prod Res, February 2023; 7(2):2457-2463                 ISSN 2616-0684 (Print) 
+                                                                                                                                                  ISSN 2616-0692 (Electronic)  
+ 
+2459 
+ © 2023 the authors. This work is licensed under the Creative Commons Attribution 4.0 International License 
+ 
+The GC-MS spectrum confirmed the presence of various components 
+with different retention times as illustrated in Figure 1. The mass 
+spectrometer examines the molecules eluted at various periods to 
+estimate their type. The big compound splits into little compounds, 
+causing peaks with varying mass-to-charge (m/z) ratios to appear. These 
+mass spectra are the compound's fingerprint, which are discovered using 
+the data library. 
+The proximate screening of RH revealed substantial amount of 
+carbohydrate (37.04 g/100g), fibre (25.74 g/100g), and ash (23.39 
+g/100g); while moisture (7.93 g/100g), lipid (3.76 g/100g), and protein 
+(1.85 g/100g) were in small amount with an energy value of 189.4 Kcal 
+(Table 3). High ash content was recorded in this study. Reports by Pivie 
+and Butler, 34; Onyeike and Nwideezia,35 had suggested that human food 
+sources should contain about 3.0% ash. RH recorded over 3.0% ash and 
+therefore should be considered for human consumption. The low crude 
+protein recorded indicates that RH cannot contribute significantly to the 
+day-to-day protein requirement of 23 to 56 g for humans as 
+recommended by the National Research Council.36  Furthermore, the 
+low crude lipid indicates that the sample may be recommended to 
+people suffering from hyperlipidemia. This research also established 
+that RH has higher fibre content than wheat husk. According to Heshe 
+et al,37 wheat husk has a fibre content of 9.97 g/100g.  
+ 
+Table 2: Characterization of phytochemical constituents of rice husk with using GC-MS 
+ 
+Name of compound/ Peak 
+Name 
+Molecular 
+Formula 
+M.W (g/mol) 
+R/T 
+(min) 
+Conc. (mg/ 
+100g) 
+Reported Biological Activity 
+Cynarin 
+C25H24O12 
+516.45 
+8.67 
+7.73 
+Antioxidant and Antichoke activity 51 
+Demecolcine 
+C12H20N2O3 
+371.43 
+9.19 
+9.42 
+Anti-inflammatory activity 52 
+Penta-triacontene 
+C35H70 
+236.00 
+9.85 
+1.98 
+Antibacterial activity 53 
+Hyoscyamine 
+C17H23NO3 
+289.38 
+10.44 
+12.13 
+Anticholinergic agent and Antioxidant 
+activity 54 
+Kheltin 
+C14H12O5 
+260.24 
+10.61 
+5.57 
+Anti-inflammatory, Antimicrobial, 
+Antipyretic and cholesterol effects 55 
+Acetyldigoxin 
+C43H66O15 
+300.20 
+12.95 
+3.16 
+Positive inotropic effect on cardiac 
+muscle 56  
+Quinoline, 3-methyl 
+C10H9N 
+143.00 
+13.53 
+1.74 
+Antimicrobial, Antibacterial and 
+Cytotoxic activity 57 
+Coumaric acid 
+C9H8O3 
+164.00 
+14.72 
+8.40 
+Antioxidant and Anti-inflammatory 
+activities 58 
+Copaene 
+C15H24 
+204.36 
+15.70 
+3.49 
+Anti-inflammatory, Antioxidant, 
+Antimicrobial activities 
+and Antinociceptive effect 56  
+Benzyl Benzoate 
+C14H12O2 
+212.25 
+16.21 
+1.53 
+Anti-inflammatory, 
+Antimicrobial activity 
+and Antinociceptive effect 59 
+Caryophyllene 
+C15H24 
+204.30 
+16.78 
+9.18 
+Anti-inflammatory, Anticancer, 
+Antioxidant, Antimicrobial and 
+Analgesic 60 
+Danthron 
+C14H8O4 
+240.21 
+18.36 
+3.72 
+Antidiabetic, suppress autophagy and 
+pancreatic cancer 61  
+Lupenon 
+C30H48O 
+424.71 
+18.76 
+15.18 
+Antimicrobial, Antibacterial and 
+Antifungal 62 
+Beta-Amyrin 
+C30H50O 
+410.00 
+19.43 
+11.13 
+Antihyperglycemic and hypolipidemic 
+effect 63 
+Ephedrine 
+C10H15NO 
+165.24 
+19.69 
+9.08 
+Decongestant stimulant, 
+bronchodilator, Ergogenic supplement 
+64 
+Alpha-ergosterol 
+C28H44O 
+398.00 
+19.85 
+2.42 
+Antimicrobial, Antifungal activity  65 
+Galanthamine 
+C17H21NO3 
+287.35 
+20.27 
+4.19 
+Competitive acetylcholinesterase 
+inhibitor 66 
+Kawain 
+C14H14O3 
+230.26 
+20.61 
+9.43 
+Anticancer and Anticonvulsive 
+activity 67 
+
+
+===== PAGE 4 =====
+
+                               Trop J Nat Prod Res, February 2023; 7(2):2457-2463                 ISSN 2616-0684 (Print) 
+                                                                                                                                                  ISSN 2616-0692 (Electronic)  
+ 
+2460 
+ © 2023 the authors. This work is licensed under the Creative Commons Attribution 4.0 International License 
+ 
+Agrimophol 
+C26H34O8 
+478.70 
+21.25 
+7.18 
+Antihelmintic effect and Antitumor 
+activity  68 
+Eugenol 
+C10H12O2 
+164.20 
+21.65 
+5.72 
+Anti-inflammatory and 
+Antioxidant 
+activities 69 
+Anabasine 
+C10H14N2 
+162.30 
+22.40 
+2.58 
+Anti-inflammatory activity 70  
+Benzylisoquinoline 
+C16H13N 
+219.28 
+22.70 
+3.44 
+Antiprotozoal natural product 71 
+Carpaine 
+C28H50N2O4 
+478.70 
+22.95 
+1.75 
+Anti-thrombocytopenic, 
+and Antioxidant activities 72 
+Phytol 
+C20H40O 
+296.53 
+23.37 
+18.16 
+Antinociceptive, Antioxidant, Anti-
+inflammatory, Anti-
+cancer, Antimicrobial, and Cytotoxic 
+activity 73 
+Phytic acid 
+C6H18O24P6 
+660.04 
+23.64 
+24.28 
+Antioxidant and Antinutrient activity 
+74, 75 
+Myrcene 
+C10H16 
+136.23 
+23.91 
+8.65 
+Sedative, Antidiabetic, 
+Antioxidant, Anti-inflammatory, 
+Antibacterial and Antcancer activity  76  
+Lobeline 
+C22H27NO2 
+337.46 
+24.53 
+2.70 
+Antimicrobial, Antidepressant, 
+Anticancer and Antiepileptic sactivity  
+77. 
+Beta-caryophyllene 
+C15H24 
+204.36 
+24.86 
+6.69 
+Anti-inflammatory and 
+Antinociception activity 78,79 
+Sparteine 
+ C15H26N2 
+234.39 
+26.21 
+5.52 
+Anti-inflammatory activity, Anti-
+bacterial activity, Diuretic effect 
+and Antiarrhythmic effect 80 
+Emetine  
+C29H40N2O4 
+480.64 
+26.80 
+2.76 
+Antiviral, Anticancer, 
+Antiparastic and contraceptive 
+activities 81 
+ 
+ 
+Figure 1: GC-MS chromatogram of rice husk methanolic 
+extract 
+Meanwhile, review report by Elleuch et al,38 stated that wheat husk and 
+corn husk have high dietary fibre content more than RH. Studies 
+presented that dietary fibre may affect cation exchange properties which 
+enable them to bind easily with calcium (Ca), zinc (Zn), iron (Fe) and 
+other cations,39 and it can also affect trace mineral absorption, gastric 
+filling and emptying including gastrointestinal transition time.40 As per 
+the Institute of Medicine (IOM), 14 grams of total dietary fibre per 1000 
+calories is recommended to minimize the risk of developing chronic 
+illnesses.41 Dietary fibre has been identified to be deficient in America 
+diet by the USDA Dietary Guidelines Advisory Committee.42 
+Consuming foods enriched with RH fibre can therefore contribute to 
+increase fibre consumption. Thus, food and/or by-products rich in 
+dietary fibre should be encouraged in food processing industries or 
+company as they contains various bioactive chemicals and dietary 
+fibres. The high CHO content of RH is linked to the low crude lipid and 
+crude protein concentrations. CHO has been reported to contribute 
+greatly to the calorific value than crude protein and crude fat.35 The low 
+moisture content may be due to loss of water during storage and sun 
+drying before milling. This signifies that RH could be stored for a very 
+long time without spoilage.  
+Vitamins and minerals are vital nutrition components required in 
+adequate proportions for healthy living. They serve as critical cofactors 
+and coenzymes for various physiological and metabolic functions, 
+including regulation of some important reactions required for energy 
+generation metabolic functions.43  The vitamin composition showed that 
+vitamin A (8.93 mg/100g), vitamin C (2.40 mg/100g) and vitamin E 
+(1.29 mg/100g) are present in significant amount; while other vitamins 
+such as B7 (0.02 mg/100g), B5 (0.03 mg/100g), B9 (0.03 mg/100g), B3 
+
+
+===== PAGE 5 =====
+
+                               Trop J Nat Prod Res, February 2023; 7(2):2457-2463                 ISSN 2616-0684 (Print) 
+                                                                                                                                                  ISSN 2616-0692 (Electronic)  
+ 
+2461 
+ © 2023 the authors. This work is licensed under the Creative Commons Attribution 4.0 International License 
+ 
+(0.05 mg/100g), B2 (0.12 mg/100g), D (0.16 mg/100g), B1 (0.28 
+mg/100g), B12 (0.35 mg/100g), K (0.41 mg/100g) and B6 (0.49 
+mg/100g) existed in trace amount as shown in Table 4. The significant 
+amount of ascorbic acid reveals that the sample possess antioxidant 
+potentials. Vitamin C also aids in the transport and uptake of non-haeme 
+iron through the mucosa, including decrease in folic acid intermediates 
+and cortisol formation.44  
+ 
+Table 3: Proximate composition of rice husk 
+ 
+Parameter 
+Concentration (g/100g) 
+Ash 
+23.39 ± 0.19 
+Carbohydrate 
+37.04 ± 0.82 
+Crude Fibre 
+25.74 ± 0.42 
+Crude Lipid 
+3.76 ± 0.42 
+Moisture 
+7.93 ± 0.02 
+Crude Protein 
+1.85 ± 0.10 
+Energy value (kcal/100g sample) 
+189.40 
+Values are means ± standard deviations of triplicate determinations 
+ 
+Table 4: Vitamins composition of rice husk  
+ 
+Parameter 
+Amount (mg/100g) 
+Vitamin A 
+8.93 ± 0.19 
+Vitamin B1 
+0.28 ± 0.01 
+Vitamin B2 
+0.12 ± 0.02 
+Vitamin B3 
+0.05 ± 0.01 
+Vitamin B5 
+0.03 ± 0.01 
+Vitamin B6 
+0.49 ± 0.04 
+Vitamin B7 
+0.02 ± 0.00 
+Vitamin B9 
+0.03 ± 0.00 
+Vitamin B12 
+0.35 ± 0.01 
+Vitamin C 
+2.40 ± 0.08 
+Vitamin D 
+0.16 ± 0.03 
+Vitamin E 
+1.29 ± 0.07 
+Vitamin K 
+0.41 ± 0.01 
+Values are means ± standard deviations of triplicate determinations. 
+ 
+Table 5: Mineral composition of rice husk  
+ 
+Mineral 
+Concentration of rice husk (mg/kg) 
+Calcium 
+29.49 ± 1.77 
+Iron 
+14.01 ± 0.17 
+Zinc 
+6.13 ± 0.12 
+Selenium 
+1.25 ± 0.01 
+Copper 
+9.85 ± 0.08 
+Magnesium 
+19.32 ± 0.19 
+Manganese 
+11.54 ± 0.13 
+Cobalt 
+1.85 ± 0.02 
+Potassium 
+48.28 ± 0.46 
+Sodium 
+2.81 ± 0.03 
+Phosphorus 
+4.02 ± 0.02 
+Values are means ± standard deviations of triplicate determinations. 
+Result of the mineral composition showed that RH contained 
+appreciable amounts of minerals as shown in Table 5. Minerals, 
+according to Iniaghe et al, 45 are daily essential nutrients required for 
+optimal tissue function. From the analysis, RH contains good amount of 
+potassium (48.28 mg/kg), calcium (29.49 mg/kg), magnesium (19.32 
+mg/kg), iron (14.01 mg/kg), and manganese (11.54 mg/kg), while other 
+minerals such as copper (9.85 mg/kg), zinc (6.13 mg/kg), phosphorus 
+(4.02 mg/kg), sodium (2.81 mg/kg), cobalt (1.85 mg/kg), and selenium 
+(1.25 mg/kg) existed in lower concentrations. Minerals perform various 
+important functions in humans. Ca is required for normal growth, 
+muscle activity, and skeletal development; Cu and Fe are necessary for 
+cellular activities and oxygen transport; chemical reactions in the body 
+and intestinal absorption are enhanced by the presence of Mg; while 
+effective fluid balance and nerve transmission requires Na and K 46. 
+Abbaspour et al.47 also reported that Fe is required for the formation of 
+haem- enzymes and other iron-containing enzymes involved in electron 
+transfer and redox reactions, including the synthesis of oxygen-carrying 
+proteins such as haemoglobin and myoglobin. Mg is a known activator 
+in enzyme systems that maintain electrical potential in nerves, whereas 
+Na and K influence osmotic pressure and contribute to normal pH 
+balance.48 According to Muhammad et al,49 Mg is important in energy 
+production and immune system support. Ca, along with P, is an 
+important component of body fluid that enhances bone formation.46 In 
+fact, the roles of minerals in human diet cannot be over emphasized as 
+they serve multiple purposes, including provision of building elements 
+for our bones, influencing muscle and neuron function, and maintaining 
+body water balance.50 Thus, nutrient-dense foods are essential for both 
+adults and children, as deficiencies can cause human dysfunction and 
+diseases. With the significant presence of these important vitamins and 
+minerals, it is obvious that RH can be adopted to combat mineral and 
+vitamin deficiencies.    
+ 
+Conclusion 
+This study revealed that rice husks is rich in various essential 
+compounds. RH has shown to contain low amount of protein and thus, 
+not a good source of protein. RH also contains significant amount of 
+fibre which can supplement fibre intake since no adverse effect has been 
+recorded in the use RH as animal feeds. This study has revealed that rice 
+husk has high nutritional value which indicates the plant to be a 
+promising food formulate with numerous health benefits. 
+ 
+Conflict of Interest  
+The authors declare no conflict of interest. 
+ 
+Authors’ Declaration 
+The authors hereby declare that the work presented in this article is 
+original and that any liability for claims relating to the content of this 
+article will be borne by them. 
+ 
+Acknowledgments  
+This study was partially funded by Africa Centre of Excellence in Public 
+Health and Toxicological Research (PUTOR), University of Port 
+Harcourt, Rivers State, Nigeria. 
+ 
+References 
+1. 
+Singh B. Rice husk ash. In: In Waste and supplementary 
+cementitious materials in concrete. Woodhead Publishing.; 
+2018. p. 417–60.  
+2. 
+Chen R, Congress SS, Cai G, Duan Wand Liu S. Sustainable 
+utilization of biomass waste-rice husk ash as a new solidified 
+material of soil in geotechnical engineering:A review. 
+Contruction Build Mater. 2021;292:123219.  
+3. 
+Sani TP, Omolehin RA, Abullahi  AU. Economic Activities 
+of Rice Production Practice and the Outcome in Southern 
+Guinea Savanna of Nigeria. Trop J Nat Prod Res. 
+
+
+===== PAGE 6 =====
+
+                               Trop J Nat Prod Res, February 2023; 7(2):2457-2463                 ISSN 2616-0684 (Print) 
+                                                                                                                                                  ISSN 2616-0692 (Electronic)  
+ 
+2462 
+ © 2023 the authors. This work is licensed under the Creative Commons Attribution 4.0 International License 
+ 
+2022;6(9):1523–33.  
+4. 
+Omolehin RA, Fakayode SB, Oyewole SO. Rice and Non-
+Rice Staple Consumption Preference among Urban and Rural 
+Communities of Ekiti State, Nigeria. Trop J Nat Prod Res. 
+2022;6(11):1876–81.  
+5. 
+Soltani N, Bahrami A, Pech-Canul, MI, Gonzalez, LA. 
+Review on the physicochemical treatments of rice husk for 
+production of advanced materials. Chem Eng Journal,. 
+2015;264:899–935.  
+6. 
+Varzakas T, Zakynthinos G, Verpoort F. Plant food residues 
+as a source of nutraceuticals and functional foods. Foods. 
+2016;5:88.  
+7. 
+Sermakkani, M., and Thangapandian V. GC- MS analysis of 
+Cassia italica leaf methanol extract. Asian J Pharm Clin Res. 
+2012;5(2):90–4. 
+8. 
+Parichart NK, Sasithorn T, Chaiyasut C, Lailerd N. 
+Antihyperglycemic 
+effect 
+of 
+rice 
+husk 
+derived 
+xylooligosaccharides in high-fat diet and low-dose 
+streptozotocin-induced type 2 diabetic rat model. Food Sci 
+Nutr. 2020;8(1):428–44.  
+9. 
+Hatfield RD and Marita JM. Enzymatic processes involved 
+in the incorporation of hydroxycinnamates into grass cell 
+walls. Phytochem Rev. 2010;9(1):35-45.  
+10. Vinodh KS, Natarajan A, Devi K and Senthilkumar B. 
+Chemical composition of aqueous leaf extract of Murraya 
+Koenigii. Int J Pharmacol Biol Arch. 2013;4:493–497.  
+11. AOAC. 
+Food 
+composition, 
+additives 
+and 
+natural 
+contaminants. In: Official Methods of Analysis. Helrich, K. 
+(ed). 
+Association 
+of 
+Official 
+Analytical 
+Chemists 
+International 2, 15th Edition, Arlington, VA, USA. 2000;  
+12. Kjeldahl J. Determination of protein nitrogen in food 
+products. J Anal Chem. 1883;22:366–82.  
+13. Sultana S. Nutritional and functional properties of Moringa 
+oleifera. Metab open. 2020;8:100061.  
+14. Onyeike EN, Ayalogu EO, Okaraonye CC. Nutritive value of 
+the larvae of raphia palm beetle (Oryctes rhinoceros) and 
+weevil (Rhyncophorus pheonicis). J Sci Food Agric. 
+2005;85:1822–8.  
+15. Długaszek M and Kaszczuk M. Assessment of the nutritional 
+value of various teas infusions in terms of the macro-and 
+trace elements content. J Trace Elem Med Biol. 
+2020;59:126428.  
+16. Balamurugan K, Nishanthini A, Mohan VR. GC–MS 
+analysis of Polycarpaea corymbosa (L.) Lam whole plant. 
+Asian Pac J Trop Biomed. 2012;2(3):1289–129.  
+17. Harborne JB. Phytochemical methods. 2nd ed. New York: 
+Chapman and Hall; 1984;  
+18. Obadoni BO and Ochuko PO. Phytochemical Studies and 
+Comparative Efficacy of the Crude Extract of some 
+Homeostatic plants in Edo and Delta States of Nigeria. Glob 
+J Pure Appl Sci. 2001;8:203–8.  
+19. Awah FM, Uzoegwu PN, Ifeonu P, Oyugi JO, Rutherford J, 
+Yao XJ, Fehrmann F, Fowke KR, Eze MO. Free radical 
+scavenging activity, phenolic content and cytotoxicity of 
+selected 
+Nigerian 
+medicinal 
+plants. 
+Food 
+Chem. 
+2012;131(4):1279 – 1286.  
+20. Kumaran A and Karunakaran R. Activity-guided isolation 
+and identification of free radical-scavenging components 
+from an aqueous extract of Coleus aromaticus. Food Chem. 
+2007;100:356 – 361.  
+21. Munro A and Bassir O. Oxalatein Nigerian vegetables. West 
+African J Biol Appl Chem. 1969;12(1):14–8.  
+22. Dey T, Bhattacharjee T, Nag P, Ghati  KA. Valorization of 
+agro-waste into value added products for sustainable 
+development. Bioresour Technol Reports. 2021;16:100834.  
+23. Altemimi A, Lakhssassi N, Baharlouei A, Watson DG LD. 
+Phytochemicals: Extraction, isolation, and identification of 
+bioactive 
+compounds 
+from 
+plant 
+extracts. 
+Plants. 
+2017;6(4):42.  
+24. Amirkia V and Heinrich M. Alkaloids as drug leads–A 
+predictive structural and biodiversity-based analysis. 
+Phytochem Lett. 2014;10: xlviii–liii.  
+25. Wanyo P, Kaewseejan N, Meeso N. Bioactive compounds 
+and antioxidant properties of different solvent extracts 
+derived from Thai rice by-products. Appl Biol Chem. 
+2016;59(3):373–84.  
+26. Butsat S & Siriamornpun S. Phenolic acids and antioxidant 
+activities in husk of different Thai rice varieties. Food Sci 
+Technol Int. 2010;16(4):329–36.  
+27. Dolan LC, Matulka RA, Burdock GA. Naturally occurring 
+food toxins. Toxins (Basel). 2010;2(9):2289-2332.  
+28. Dahl NK & Goldfarb DS. Nutritional prevention and 
+treatment of urinary tract stones. In Nutritional Management 
+of Renal Disease. Acad Press. 2022;685–97.  
+29. Lee KM, Kang HS, Yun CH, Kwak HS. Potential in vitro 
+protective effect of quercetin, catechin, caffeic acid and 
+phytic acid against ethanol-induced oxidative stress in SK-
+Hep-1 cells. Biomol Ther (Seoul). 2012;20(5):492.  
+30. Dharmanda S. Gallnuts and the uses of tannins in Chinese 
+Medicine-A paper presented at the Institute for Traditional 
+Medicine.Portlant,. Oregon. 2003;3:941–5.  
+31. Parekh J & Chanda S. In vitro antimicrobial activity and 
+phytochemical analysis of some Indian medicinal plants. 
+Turkish J Biol. 2007;31(1):53–8.  
+32. Okwu DE & Iroabuchi F. Phytochemical composition and 
+biological activities of Uvaria chamae and Clerodendoron 
+splendens. E-Journal Chem. 2009;6(2):553–600.  
+33. Irakli M, Kleisiaris F, Kadoglidou K, Katsantonis D. 
+Phenolic Compounds from Rice By-Products and their 
+antioxidant effects. foods. 2018;7(6):93-102.  
+34. Pivie NW and Butler J. A sample unit leaf. Proceeding Nutr 
+scociety. 1977;36:136.  
+35. Onyeike EN and Nwideezia ND. Nutritional composition 
+and levels of some toxicants in three species of cocoyam 
+tubers as affected by heat treatments. Niger J Biochem Mol 
+Biol. 2001;16:123–7.  
+36. National Research Council. Recommended daily dietary 
+allowance. Nutr Rev. 1974;31:373–95.  
+37. Heshe GG, Haki GD, Woldegiorgis AZ, Gemede HF. Effect 
+of conventional milling on the nutritional value and 
+antioxidant capacity of wheat types common in Ethiopia and 
+a recovery attempt with bran supplementation in bread. Food 
+Sci Nutr. 2016;4(4):534–43.  
+38. Elleuch M, Bedigian D, Roiseux O, Besbes S, Blecker C,  
+Attia H. Dietary fibre and fibre-rich by-products of food 
+processing: Characterisation, technological functionality and 
+commercial 
+applications: 
+A 
+review. 
+Food 
+Chem. 
+2011;124(2):411–21.  
+39. James WPT, Branch WJ, Southgate DAT. Calcium binding 
+by dietary fibre. Lancet. 1978;1:638–9.  
+40. Kritchevsky D. Physiological and metabolic effects of 
+dietary fibre. Proc Soc Exp Biol Med. 1985;180:407–8.  
+41. Stevenson K and Ward R. Effect of Optimizing Fiber Intake 
+of Mice on Weight Gain, Fat Mass, Oral Glucose and Insulin 
+Tolerance Tests in Mice Fed a High Fat Diet. Curr Dev Nutr. 
+2022;6(Supplement_1):536-536.  
+42. Millen BE, Abrams S, Adams-Campbell L, Anderson CA, 
+Brenna JT, Campbell WW, Lichtenstein AH. The 2015 
+dietary guidelines advisory committee scientific report: 
+development 
+and 
+major 
+conclusions. 
+Adv 
+Nutr. 
+2016;7(3):438–44.  
+43. Balogun IO and Olatidoye OP. Chemical composition and 
+nutritional evaluation of velvet bean seeds (Mucuna utilis) 
+for domestic consumption and industrial utilization in 
+Nigeria. Pakistan J Nutr. 2012;11(2):11-22.  
+44. Chaturvedi S, Khan S, Bhunia RK, Kaur K,Tiwari S. 
+Metabolic engineering in food crops to enhance ascorbic acid 
+production: crop biofortification perspectives for human 
+health., Physiol Mol Biol Plants. 2022;1-14.  
+45. Iniaghe OM, Malomo SO, Adebayo JO. Proximate 
+composition and phytochemical constituents of leaves of 
+some Acalypha species. Pakistan J Nutr. 2009;8(3):256–8.  
+
+
+===== PAGE 7 =====
+
+                               Trop J Nat Prod Res, February 2023; 7(2):2457-2463                 ISSN 2616-0684 (Print) 
+                                                                                                                                                  ISSN 2616-0692 (Electronic)  
+ 
+2463 
+ © 2023 the authors. This work is licensed under the Creative Commons Attribution 4.0 International License 
+ 
+46. Vannucci L, Fossi C, Quattrini S, Guasti L, Pampaloni B, 
+Gronchi G, Brandi ML. Calcium intake in bone health: a 
+focus 
+on 
+calcium-rich 
+mineral 
+waters. 
+Nutrients. 
+2018;10(12):1930.  
+47. Abbaspour N, Hurrell R,  Kelishadi R. Review on iron and 
+its importance for human health. J Res Med Sci Off J Isfahan 
+Univ Med Sci. 2014;19(2):164.  
+48. Zoroddu MA, Aaseth J, Crisponi G, Medici S, Peana M,  
+Nurchi VM. The essential metals for humans: a brief 
+overview. J Inorg Biochem. 2019;195:120–9.  
+49. Muhammad WN, Sajuri, Z, Mutoh Y, Miyashita Y. 
+Microstructure and mechanical properties of magnesium 
+composites prepared by spark plasma sintering technology. J 
+Alloy Compd. 2011;509(20):6021–9.  
+50. Weyh C, Krüger K, Peeling P, Castell L. The Role of 
+Minerals in the Optimal Functioning of the Immune System. 
+Nutrients. 2022;14(3):644-651.  
+51. Silva L, Rodrigues AM, Ciriani M, Falé PLV, Teixeira V, 
+Madeira P. Antiacetylcholinesterase activity and docking 
+studies with chlorogenic acid, cynarin and arzanol from 
+Helichrysum stoechas (Lamiaceae). Med Chem Res 
+[Internet]. 2017;26(11):2942–50. 
+http://dx.doi.org/10.1007/s00044-017-1994-7 
+52. Davoodi A, Azadbakht M, Hosseinimehr SJ, Emami S, 
+Azadbakht M. Phytochemical Profiles, Physicochemical 
+Analysis, and Biological Activity of Three Colchicum 
+Species. Jundishapur J Nat Pharm Prod. 2021;16(2).  
+53. Amudha P, Jayalakshmi M, Pushpabharathi N, Vanitha V. 
+Identification of bioactive components in enhalus acoroides 
+seagrass extract by gas chromatography–mass spectrometry. 
+Asian J Pharm Clin Res. 2018;11(10):313–7.  
+54. Muhtadi FJ. Hyoscyamine. Anal Profiles Drug Subst 
+Excipients. 1994;23(C):153–228.  
+55. Salah N, Sawy E. Development and validation of analytical 
+methods for the determination of some drugs with herbal 
+origin A thesis presented by. CU Thesis. 2004;1–15.  
+56. Sukoyan GV & Gongadze N V. Mechanism of 
+cardioprotective effect of adenocine and non-glycoside 
+cardiotonic drugs during experimental chronic cardiac 
+insufficiency. Bull Exp Biol Med. 2011;150(5):610-613.  
+57. Pradhan A & Vishwakarma SK. Synthesis, characterisation 
+and antimicrobial activity of Schiff base of 7-hydroxy-3-
+methyl-2-quinolone. Int J Theor Appl Sci. 2018;10(1):40-43.  
+58. Nenadis N, Kyriakoudi A, Tsimidou MZ. Impact of alkaline 
+or acid digestion to antioxidant activity, phenolic content and 
+composition of rice hull extracts. LWT - Food Sci Technol 
+[Internet]. 2013;54(1):207–15. 
+http://dx.doi.org/10.1016/j.lwt.2013.05.005 
+59. Abd-El-Aziz AS, Benaaisha MR, Abdelghani AA, Bissessur 
+R, Abdel-Rahman LH, Fayez AM, El-ezz DA. Aspirin-Based 
+Organoiron Dendrimers as Promising Anti-Inflammatory, 
+Anticancer, and Antimicrobial Drugs. Biomolecules. 
+2021;11(11):1568.  
+60. Bisht BS. Evaluation of Antianxiety activity of Zonisamide 
+based on the Serendipitious action in Swiss albino mice. Int 
+J Curr Res Chem Pharm Sci [Internet]. 2019;6(4):27–32.  
+61. Chen H, Zhao C, He R, Zhou M, Liu Y, Guo X,  Li X. 
+Danthron suppresses autophagy and sensitizes pancreatic 
+cancer cells to doxorubicin. Toxicol Vitr. 2019;54:345-353.  
+62. Mutai C, Bii C, Vagias, Abatis D, Roussis V. Antimicrobial 
+activity of Acacia mellifera extracts and lupane triterpenes. J 
+Ethnopharmacol. 2009;123(1):143-148.  
+63. Santos FA, Frota JT, Arruda BR, de Melo TS, de Castro Brito 
+GA, Chaves MH, Rao VS. Antihyperglycemic and 
+hypolipidemic effects of α, β-amyrin, a triterpenoid mixture 
+from Protium heptaphyllum in mice. Lipids Health Dis. 
+2012;11(1):1–8.  
+64. Trainer A, Powers ME. Ephedra and Its Application to Sport. 
+J Althletic Train. 2001;36(4):420–4.  
+65. Kadhim 
+EJ 
+and 
+AL-Shammaa 
+DA. 
+Phytochemical 
+characterization using GC-MS analysis of methanolic extract 
+of Moringa oleifera (Family Moringaceae) plant cultivated 
+in Iraq. Chem Mater Res,. 2014;6(5):9-26.  
+66. Fraser MD, Vallin HE, Davies JRT, Rowlands GE, Chang X. 
+Integrating Narcissus ‑derived galanthamine production into 
+traditional upland farming systems. Sci Rep. 2021;1–9.  
+67. Liu Z and Zi X. Kawain, a kavalactone, inhibits urinary 
+bladder carcinogenesis in the UPII-mutant Ha-ras transgenic 
+model and associated with inhibition of the mTOR pathway. 
+Am Assoc Cancer Res. 2013;73(8):3709.  
+68. Jin G, Du L, Lu Y. Agrimophol. Nat Small Mol Drugs from 
+Plants. 2018;563–7.  
+69. Barboza JN, Maia S, Filho B, Silva RO, Medeiros JVR, 
+Sousa DP De. Review Article An Overview on the Anti-
+inflammatory Potential and Antioxidant Profile of Eugenol. 
+2018;2018.  
+70. Palmer-Young EC, Hogeboom A, Kaye AJ. Donnelly, D., 
+Andicoechea, J. and Connon SJ. Content-dependent 
+medicinal effects of anabasine and infection-dependent 
+toxicity in bumble bees. PLoS One. 2017;12(8):e0183729.  
+71. Menéndez-Perdomo IM, Facchini PJ. Isolation and 
+characterization of two O-methyltransferases involved in 
+benzylisoquinoline alkaloid biosynthesis in sacred lotus 
+(Nelumbo 
+nucifera). 
+J 
+Biol 
+Chem 
+[Internet]. 
+2020;295(6):1598–612.  
+72. Yap JY, Hii CL, Ong SP, Lim KH, Abas F, Pin KY. 
+Quantification of Carpaine and antioxidant properties of 
+extracts from Carica Papaya plant leaves and stalks. J 
+Bioresour Bioprod [Internet]. 2021; Available from: 
+https://doi.org/10.1016/j.jobab.2021.03.002 
+73. Dinesh Kumar G, Karthik M, Rajakumar R. Gc-Ms Analysis 
+of Bioactive Compounds From Ethanolic Leaf Extract of 
+Waltheria Indica Linn. 
+and Their 
+Pharmacological 
+Activities. Int J Pharm Sci Res. 2018;9(5):2005–10.  
+74. Sim GY, Lee SU, Lee JW. Enhanced extraction of phytic 
+acid from rice hulls with enzymatic treatment and production 
+of ethanol from reducing sugars in hydrolyzed rice hulls after 
+extraction of phytic acid. Lwt- Food Sci Technol [Internet]. 
+2020;133:110–1. Available from: 
+https://doi.org/10.1016/j.lwt.2020.110111 
+75. Lee HH, Loh SP, Bong CFJ, Sarbini SR, Yiu PH. Impact of 
+phytic acid on nutrient bioaccessibility and antioxidant 
+properties of dehusked rice. 2015;52(December):7806–16.  
+76. Surendran S, Qassadi F, Surendran G, Lilley D, Heinrich M. 
+Myrcene—What Are the Potential Health Benefits of This 
+Flavouring and Aroma Agent? Front Nutr. 2021;8(July):1–
+14.  
+77. Dwoskin LP & Crooks PA. A novel mechanism of action and 
+potential use for lobeline as a treatment for psychostimulant 
+abuse. Biochem Pharmacol. 2002;63(2):89-98.  
+78. Bell SJ, Gomez-Pinilla F, Ling PR. Beta-caryophyllene, An 
+Anti-Inflammatory Natural Compound, Improves Cognition. 
+J Food Nutr Sci. 2021;3(2):189-199.  
+79. Katsuyama S, Mizoguchi H, Kuwahata H, Komatsu T, 
+Nagaoka K, Nakamura, H, Sakurada S. Involvement of 
+peripheral cannabinoid and opioid receptors in β‐
+caryophyllene‐induced 
+antinociception. 
+Eur 
+J 
+Pain. 
+2013;17:664–675.  
+80. Al-Onazi W, Al-Mohaimeed AM, Amina M, El-Tohamy 
+MF. Identification of Chemical Composition and Metal 
+Determination of Retama raetam (Forssk) Stem Constituents 
+Using ICP-MS, GC-MS-MS, and DART-MS. J Anal 
+Methods Chem. 2021;2021.  
+81. Akinboye SE & Bakare O. Biological activities of emetine. 
+Open Nat Prod J. 2011;4(1):175-186.  
+ 
+ 
+ 
+ 
+ 
+ 

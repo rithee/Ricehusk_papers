@@ -1,0 +1,1396 @@
+
+===== PAGE 1 =====
+
+High correlated variables creator machine: Prediction of the compressive
+strength of concrete
+Aydin Shishegaran a,b, Hesam Varaee c, Timon Rabczuk d,e,⇑, Gholamreza Shishegaran f
+a Institute of Structural Mechanics, Bauhaus-University Weimar, Marienstr. 15, Weimar D-99423, Germany
+b School of Civil Engineering, Iran University of Science and Technology, Tehran, Iran
+c Department of Civil Engineering, Ale Taha Institute of Higher Education, Tehran 14888-36164, Iran
+d Division of Computational Mechanics, Ton Duc Thang University, Ho Chi Minh City, Viet Nam
+e Faculty of Civil Engineering, Ton Duc Thang University, Ho Chi Minh City, Viet Nam
+f School of Civil Engineering, Khajeh Nasir Toosi University of Technology, Tehran, Iran
+a r t i c l e
+i n f o
+Article history:
+Received 14 September 2020
+Accepted 31 December 2020
+Available online 6 February 2021
+Keywords:
+Adaptive Neuro-Fuzzy Inference System
+(ANFIS)
+Gene Expression Programming (GEP)
+Step-By-Step Regression (SBSR)
+Ultrasonic Pulse Velocity (UPV)
+Rebound Number (RN)
+Rebound Hammer (RH)
+a b s t r a c t
+In this paper, we introduce a novel hybrid model for predicting the compressive strength of concrete
+using Ultrasonic Pulse Velocity (UPV) and Rebound Number (RN). First, we collect 516 datasets from 8
+studies of UPV and Rebound Hammer (RH) tests. Then, we propose the High Correlated Variables
+Creator Machine (HCVCM) to create the new variables that have a better correlation with the output
+in order to improve the prediction models. Three single models, including a Step-By-Step Regression
+(SBSR), Gene Expression Programming (GEP), an Adaptive Neuro-Fuzzy Inference System (ANFIS) as well
+as three hybrid models, i.e. HCVCM-SBSR, HCVCM-GEP, and HCVCM-ANFIS are employed to predict the
+compressive strength of concrete. The statistical parameters and error terms such as the coefﬁcient of
+determination, the Root Mean Square Error (RMSE), Normalized Mean Square Error (NMSE), fractional
+bias, the maximum positive and negative errors, and the Mean Absolute Percentage Error (MAPE) are
+computed to evaluate the models. The results show that HCVCM-ANFIS can predict the compressive
+strength of concrete better than all other models. HCVCM improves the accuracy of ANFIS by 5% in the
+coefﬁcient of determination, 10% in the RMSE, 3% in the NMSE, 20% in MAPE, and 7% in the maximum
+negative error.
+ 2021 Elsevier Ltd. All rights reserved.
+1. Introduction
+Thanks to its low cost, concrete is among the most widely used
+building materials in the world. Estimating the properties of hard-
+ened concrete has been the topic of numerous studies [1]. The
+compressive strength is a key property of concrete and directly
+related to the safety of the structure. Evaluating the Concrete Com-
+pressive Strength (CCS) is a common requirement in quality con-
+trol and performance determination of existing structures during
+their entire life cycle. Strength test results also may be a necessity
+after a structural failure, such as environmental degradation or ﬁre
+damage [2]. Fig. 1.
+Methods to estimate the mechanical properties of concrete can
+be classiﬁed into Destructive Tests (DTs) and Non-Destructive
+Tests (NDTs). Usually, cubic or cylinder specimen are prepared
+and cured to measure the compressive strength of fresh concrete
+in accordance with procedures described in the American Society
+for Testing and Materials (ASTM) standard test methods [3,4]. Dif-
+ferent concrete mixtures lead to different properties, and the
+reproducibility of the test results is of major importance [5–8].
+Although DTs, such as core tests, are commonly used, they have
+several drawbacks. They are expensive and time-consuming and
+have ‘locally destructive effects’ on the structures. They are also
+the only representative for small parts of structures, and conduct-
+ing these tests is sometimes difﬁcult due to access to the coring
+machine [9].
+NDTs are widely used to evaluate the fundamental characteris-
+tics of concrete in structures, such as compressive strength. NDTs
+do not cause any damage to the structure and do not affect the
+structural performance [10]. Many different types of NDTs have
+been developed in order to measure the compressive strength of
+concrete, among them the Ultrasonic Pulse Velocity (UPV) and
+Rebound Hammer (RH) tests. These methods are simple yet effec-
+tive and can be used for quality control of concrete in structures or
+https://doi.org/10.1016/j.compstruc.2021.106479
+0045-7949/ 2021 Elsevier Ltd. All rights reserved.
+⇑Corresponding author.
+E-mail address: timon.rabczuk@tdtu.edu.vn (T. Rabczuk).
+Computers and Structures 247 (2021) 106479
+Contents lists available at ScienceDirect
+Computers and Structures
+journal homepage: www.elsevier.com/locate/compstruc
+
+
+===== PAGE 2 =====
+
+conﬁrm the uniformity of the material from one part to another
+[11–13].
+UPV is a common and fast test without any damage to concrete.
+It was presented and proposed by ASTM C 597 and BS 1881: Part
+203 [4,14]. This test is one of the suitable approaches to check
+the uniformity of concrete quickly, and it can be applied in various
+parts of Reinforced Concrete (RC) elements. This test can determine
+the properties of used concrete in structures and also specify the
+presence of voids and internal cracks [15]. The results of this test
+depend on several factors, including the percentage of components
+of the mix proportion, properties of aggregates, steel bars, cracks,
+voids, and ﬁbers. On the other hand, some studies report high
+uncertainties of the results of UPV to estimate the compressive
+strength of concrete [16,17].
+The RH test is one of the most used non-destructive tests
+because of its simplicity. This test was presented by ASTM C 805
+and BS 1881: Part 202 [14,18]. In this test method, a spring-
+loaded mass, which has a ﬁxed amount of energy, is released.
+The traveled distance by this mass is deﬁned as a percentage of
+the initial spring extension. This value is deﬁned through a
+Rebound Number (RN). The determined RNs depend on the per-
+centage of components of mix proportions, surface texture, surface
+wetness of the concrete, and properties of the aggregate, although
+the RN is the reﬂection of the concrete surface [11,17,19].
+Sometimes, a combination of UPV and RH methods is used for
+better prediction of concrete compressive strength, which is also
+known as the SonReb method. UPV and RH tests are both sensitive
+to the variations in the concrete properties, especially in opposite
+(a) 
+(b) 
+(c) 
+3
+3.2
+3.4
+3.6
+3.8
+4
+4.2
+4.4
+4.6
+4.8
+5
+5.2
+5.4
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Ultrasonic Pulse Velocity 
+(km/s)
+Sample number
+0
+10
+20
+30
+40
+50
+60
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Rebound Number
+Sample number
+0
+100
+200
+300
+400
+500
+600
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Compressive strength 
+(kg/cm²)
+Sample number
+Fig. 1. The values of input variables and output. (a) UPV. (b) RN. (c) Compressive strength of concrete.
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+2
+
+
+===== PAGE 3 =====
+
+directions. UPV tests provide information about the interior con-
+crete properties, whereas the RH test results usually predict con-
+crete
+strength
+near
+the
+surface.
+Consequently,
+using
+the
+combination of two methods for the prediction can lead to more
+accurate and reliable results [17,20].
+2. Theoretical background
+Introducing precise and reliable models for predicting the CCS
+would lead to saving both costs and time. In this regard, many
+researchers have used several models to estimate the compressive
+strength of concrete [21–26]. Based on the results of the previous
+studies, computational modeling, Artiﬁcial Intelligence (AI) and
+parametric multi-variable regression models are three groups of
+techniques that are commonly used to predict concrete strength
+using the UPV and RH outputs. Computational modeling is based
+on the mathematical modeling of complex physical phenomena
+and often encounter some difﬁculties due to the complexity of
+the models or the time consuming numerical computation [19].
+In this regard, several equations were established by researchers
+for predicting concrete compressive strength; however, most of
+them require previous knowledge of concrete ingredients to
+achieve reliable results. Among them, Rashid and Waqas [11]
+established a relationship between UPV with compressive strength
+and RN with compressive strength. Ahmadi-Nedushan proposed an
+optimized instance-based learning approach for prediction of the
+compressive strength of high-performance concrete based on
+mixed data, such as water to binder ratio, water content, super-
+plasticizer content, ﬂy ash content [25]. In recent years, AI methods
+and Machine Learning (ML) techniques have been used frequently
+to predict the CCS without knowing the theoretical relationships
+between the inputs and the output. Several researchers have
+employed AI methods to predict the mechanical properties of dif-
+ferent types of concrete using detail of mix proportion and UPV
+[22,22,27,28]. Tenza-Abril et al. used an Artiﬁcial Neural Network
+(ANN) for the prediction and sensitivity analysis of compressive
+strength in segregated lightweight concrete using UPV [29]. Ashra-
+ﬁan [30] utilized heuristic regression methods as a hybrid method
+in the prediction of both strength and UPV for ﬁber reinforced con-
+crete. Adaptive Neuro-Fuzzy Inference System (ANFIS) is another
+strong candidate for predicting the performance of concrete. For
+example, the properties of rubberized concrete, compressive
+strength, and splitting tensile strength of concrete containing silica
+fume and recycled aggregate at 3, 7, 14, 28, and 90 days, and com-
+pressive strength of no-slump concrete were predicted using ANFIS
+[21,31,32]. Cevik [33] employed ANFIS to predict the increased
+strength of Fiber-Reinforced Polymer (FRP) conﬁned concrete. Sev-
+eral researchers used several methods, including ANFIS, ANN, and
+group method, to estimate the compressive strength of concrete
+based on the results of core tests. The used variables include
+length-to-diameter ratio, core diameter, aggregate size, and con-
+crete age [34].
+Parametric multi-variable regression models are another group
+of methods to predict CCS. Speciﬁcally, the conﬁdence interval of a
+prediction calculated by a parametric regression model reveals the
+accuracy of the estimation, and the statistics of the model param-
+eters can indicate how each variable in the model inﬂuences the
+prediction [35]. Kewalramani [16], used a regression analysis to
+predict the compressive strength of concrete based on acoustic
+characteristics like UPV and damping constant.
+The main target of this study is a comparison of the accuracy
+and performance of two new proposed models and two available
+models in predicting the compressive strength of concrete using
+RN and UPV. First, the data is collected from 8 previous studies.
+Secondly, the Step-By-Step Regression (SBSR), Gene Expression
+Programming (GEP) and ANFIS are used as an individual model
+to predict the compressive strength. Thirdly, High Correlated Vari-
+able Creator Machine (HCVCM) is used to generate the new vari-
+ables, which can improve the accuracy and performance of the
+models. HCVCM is also introduced and utilized for the ﬁrst time.
+Using the combination of HCVCM and the used models in previous
+steps, three hybrid models, including HCVCM-SBSR, HCVCM-GEP,
+and HCVCM-ANFIS, are created and used to predict the compres-
+sive strength. The statistical parameters and error terms, including
+the coefﬁcient of determination, Root Mean Square Error (RMSE),
+Normalized Square Error (NMSE), fractional bias, the maximum
+positive and negative errors, and Mean Absolute Percentage Error
+(MAPE) are used to evaluate the models.
+3. Materials and methods
+The main target of this study is related to the comparison accu-
+racy and performance of two unknown models and two known
+models in predicting the compressive strength of concrete using
+RN and UPV. First, the values of RN, UPV, and compressive strength
+of concrete from 8 previous studies are collected. Then, unknown
+regression models, namely SBSR, GEP, and ANIFS, are utilized to
+predict the compressive strength of concrete using the initial input
+variables, including the values of RN and UPV. Subsequently,
+HCVCM is used to propose several new variables. The proposed
+new variables by HCVCM are imported as input variables in SBSR,
+GEP,
+and
+ANFIS;
+therefore,
+HCVCM-SBSR,
+HCVCM-GEP,
+and
+HCVCM-ANFIS can be regarded as hybrid models. The results of
+single models are compared with the results of the hybrid models.
+70% of the dataset, which is selected to train models randomly, is
+the same for all models. After training the models, the remaining
+dataset is predicted using the trained models.
+3.1. Data
+To build up a precise prediction model, a large number of exper-
+imental data on normal-weight concrete compressive strength,
+UPV test results, and rebound number from rebound hammer tests
+is required. We have collected 516 data points of the compressive
+strength of concrete, which were tested at 3, 7, 14, 28, 56, and
+90 days [9,10,13,15,17,36–38].
+UPV and RN are considered as inputs of the models, and the
+compressive strength of concrete is selected as the output. Table 1
+shows the variation range, average, median, and standard devia-
+tion of each variable, while the histogram of the involved variables
+can be found in Fig. 2.
+Table 2 shows the coefﬁcient of determination (R2) between the
+input variables and also the coefﬁcient of determination between
+the inputs and output. The coefﬁcient of determination is a statis-
+tical measurement that examines how differences in one variable
+can be explained by the difference in a second variable [26,39].
+In other words, this coefﬁcient assesses how strong the linear rela-
+tionship is between two parameters. The optimal value of the coef-
+ﬁcient of determination between an input and the output is 1.
+Several input variables might have the same coefﬁcient of determi-
+nation with the output. In these cases, if the coefﬁcient of determi-
+nation between these input variables is close to 1, it means that the
+input variables represent the same properties and data. The results
+show that the input variables are independent, and RN has a better
+correlation with the compressive strength of concrete.
+3.2. Methods
+In this study, three single algorithms and three hybrid algo-
+rithms are used to predict the compressive strength of concrete
+using RN and PUV. The single algorithms include SBSR, GEP, and
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+3
+
+
+===== PAGE 4 =====
+
+ANFIS. The hybrid models are created by combining HCVCM and
+each single algorithm. 70% of the dataset is selected randomly to
+train the models. Then, they are used to predict the remaining
+dataset.
+3.2.1. Step-By-Step regression (SBSR)
+SBSR is a new regression model, which focuses on the coefﬁ-
+cient of determination between the variables and output to
+improve the accuracy of the obtained model. Fig. 3 shows an SBSR
+Table 1
+Statistical parameters of input variables and output.
+Variable
+Unit
+min
+max
+average
+SD
+median
+Type
+UPV
+Km=S
+3.37
+5.22
+4.44
+0.35
+4.45
+Input
+RN
+–
+3
+52
+29
+7.32
+28
+Input
+CCS
+Kg=Cm2
+113.33
+569.21
+276.92
+98.60
+261.97
+Output
+Fig. 2. The histogram of input variables and output. (a) UPV. (b) RN. (c) CSS.
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+4
+
+
+===== PAGE 5 =====
+
+model for three variables. In the ﬁrst step, the coefﬁcient of deter-
+mination between each input variable and output is calculated.
+Then, the variables are sorted based on the obtained values of
+the coefﬁcient of determination. The variable with the highest
+coefﬁcient of determination is imported in cell 1, and the variable
+with the smallest coefﬁcient of determination is placed in the last
+cell (see the second step in Fig. 3). In the second step, linear regres-
+sion is used to predict the output in each cell. As shown in Fig. 3
+and equations 1–3, the outputs of cells 1 and 2 are used as input
+in cells 2 and 3, respectively. Then, the predicted outputs of all cells
+in the second step are imported as new variables in the ﬁnal cell,
+which is located in the third step. These variables are used in the
+ﬁnal cell to predict the output. In all cells, the constant parameters
+of the regression model are obtained using the mean square error
+(MSE) technique. Equations (1)-(3) show the regression model in
+the ﬁrst cell, second cell, and third cell, respectively. Equation (4)
+represents the regression model in the ﬁnal cell, which is located
+in the ﬁnal step.
+Y ¼ b1 þ b2  X1
+ð1Þ
+Y ¼ b3 þ b4  X2 þ b5  F1
+ð2Þ
+Y ¼ b6 þ b7  X3 þ b8  F2
+ð3Þ
+Y ¼ b9 þ b10  F1 þ b11  F2 þ b12  F3
+ð4Þ
+where X1, X2, and X3 refer to the sorted input variables based on
+the coefﬁcient of determination with the output; F1, F2, and F3 indi-
+cate the outputs of Cells 1, 2, and 3, respectively while b1, b2, . . .,
+b12 denote the constant variable of the regression model, i.e.
+bi ¼ ðXT
+X Þ
+1
+ðXT
+Y Þ
+ð5Þ
+where the superimposed ‘T’ refers to the transpose.
+3.2.2. Gene Expression Programming (GEP)
+The Genetic Algorithm (GA) was ﬁrst introduced by Holland
+[40], which was inspired by the natural biological evolution of liv-
+ing species. Different operators such as reproduction, selection,
+crossover, and mutation inspired from natural biological evolution
+are integrated in the GA, and the solution as an individual is signi-
+ﬁed in ﬁxed chromosome form. Similarly, Genetic Programming
+(GP) as an extension of GA was ﬁrst proposed by Cramer [41]. GP
+requires a ﬁtness function to evolve a population of individuals
+by imitating the basic principles of Darwinian evolution. It gener-
+ates new solutions using an iterative process involving the proba-
+bilistic selection of the ﬁttest solutions and their variation by
+means of crossover and mutation [42]. GEP [43] is an extension
+of the conventional GP and uses populations of individuals, selects
+them according to their ﬁtness, and introduces a genetic variation
+using genetic operators. The most important difference between
+the three algorithms lies in the nature of the individuals: in GAs,
+the individuals are symbolic strings of ﬁxed length, the so-called
+chromosomes whereas in GP, non-linear entities of different sizes
+and shapes form the individuals. They are called functions or parse
+trees. And ﬁnally, in GEP, the individuals, called Expression Trees
+(ET), are non-linear entities of different sizes and shapes, which
+are encoded as linear strings of ﬁxed length (the genome or chro-
+mosomes) [44]. The GEP process begins with the random genera-
+tion of the chromosomes of the initial population. Then, the
+chromosomes are expressed, and the ﬁtness of each individual is
+evaluated. The individuals are selected according to the ﬁtness,
+leaving progeny with new traits. The individuals of this new gener-
+ation are subjected to the same process: expression of the gen-
+omes,
+confrontation
+of
+the
+selection
+environment
+and
+reproduction with modiﬁcation. The process is repeated for a cer-
+tain number of generations or until a solution has been found.
+GEP is a strong tool to predict various phenomena and material
+properties [45]. In this study, we utilize the GEP model to predict
+the compressive strength of concrete. This model is created by
+using a set of different functions and terminals. A set of different
+functions, which are used in this study, includes the basic func-
+tions, inverse trigonometric
+function, trigonometric function,
+exponential function, hyperbolic function, user-deﬁned functions,
+and a combination of them. A set of terminals consists of input
+variables, their combination, and constant values. In this approach,
+a random population of data is used by GA to ﬁnd a suitable func-
+tion to predict the output, which is the compressive strength of
+concrete in this study. GA selects the suitable input variables and
+functions between all functions and input variables to estimate
+the output. Several operators, named genes, are used for perform-
+ing Genetic variations. Based on the GEP algorithm, the Roulette
+wheel selects data. Several genes reproduce the data. In the dupli-
+cation process, the genes avoid unsuitable data and transfer suit-
+able data to create the next generation. The main target of the
+mutation operator is related to the internal random optimization
+of the given chromosomes. Fig. 4 explains the process of GEP.
+Table 2
+The coefﬁcient of determination between variables and
+output.
+Coefﬁcient of determination (R2)
+Between compressive strength and UPV
+0.443
+Between compressive strength and RN
+0.758
+Between RN and UPV
+0.513
+Fig. 3. The general form of SBSR.
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+5
+
+
+===== PAGE 6 =====
+
+3.2.3. Adaptive neuro-fuzzy inference system (ANFIS)
+The fuzzy logic theorem was ﬁrst proposed by Zadeh [46] to
+describe complicated systems. Recently, fuzzy logic methods have
+been used successfully in many applications [47,48]. The main
+problem with fuzzy logic is that there is no systematic procedure
+for the design of a fuzzy controller [49]. Indeed, the performance
+and accuracy of the fuzzy systems are related to the used rule-
+based and the parameters such as the Membership Functions
+(MFs).
+An ANN has the ability to learn from the environment by input–
+output data sets, self-organizing its structure, and adapting it in an
+interactive manner [50]. ANFIS was proposed to capture the bene-
+ﬁts of both Fuzzy Inference Systems (FISs) and neural networks in a
+single framework [51]. The ANFIS is a multi-layer feed-forward
+network, which uses neural network learning algorithms and fuzzy
+reasoning to map an input space to an output space. It has the abil-
+ity to combine the verbal power of a fuzzy system with the
+numeric power of a neural system adaptive network [52,53]. In
+other words, ANFIS utilizes a linguistic model containing a set of
+If-Then fuzzy rules and the fuzzy sets to present the human-like
+reasoning style of a fuzzy system [54].
+Two types of FIS are commonly used: Sugeno fuzzy and Mam-
+dani models. Their defuzziﬁcation and aggregation approaches
+are different; therefore, the results of fuzzy rules are various for
+these systems. The number of rules grows with the number of
+premise-part variables in the Mamdani-type FIS. By growing the
+number of rules, the activity of assembling rules maybe complicate
+the relationships between the consequences and premises [55,56].
+The Sugeno-type approach (or Takagi-Sugeno-Kang) is based on
+fuzzy inputs and a crisp output (linear combination of the inputs)
+that computationally is suitable and efﬁcient. A systematic method
+is developed using the Sugeno approach to generate fuzzy rules
+from a given input–output data set. The sugeno method changes
+the sequence with an equation (function) of the input parameters.
+A weighted average is used by the Sugeno-type FIS to calculate the
+crisp output, although the technique of defuzziﬁcation of a fuzzy
+output is used by the Mamdani-type FIS. The ﬁrst two parts of
+the fuzzy inference process, including fuzzifying the inputs and
+applying the fuzzy operator, are identical; however, the Sugeno
+output membership functions are either linear or constant [57].
+Fig. 5(a) demonstrates the general architecture of the ANFIS
+model, which includes two inputs and one output. Fig. 5(b) shows
+the fuzzy reasoning mechanism.
+In the present investigation, a Sugeno FIS is used, and conse-
+quently, two Fuzzy If-Then rules are deﬁned as a linear combina-
+tion of
+input
+parameters,
+and
+the
+ﬁnal
+output
+equals
+the
+weighted mean of outputs for each rule. A Sugeno FIS, which
+includes an output (f), and two input parameters (y and x), is rep-
+resented as follows [58,59]:
+Rule 1 : if x is A1 and y is B1; then f1 ¼ p1x þ q1y þ r1
+ð6Þ
+Rule 2 : if x is A2 and y is B2; then f2 ¼ p2x þ q2y þ r2
+ð7Þ
+where B1, B2, A1, and A2 are the labels presenting the MFs for the
+inputs x and y, respectively. ri, qi, and pi designate the Output Mem-
+bership Function Parameters (OMFPs), which are the consequent
+parameters of ith rule.
+As can be seen in Fig. (5), the architecture of a typical ANFIS
+consists of ﬁve layers. Each layers’ functions are explained as
+follows:
+The ﬁrst Layer: Each node (i) in the ﬁrst layer is a square node
+with a node function:
+Oi
+A ¼ lAiðxÞ
+ð8Þ
+where O denotes the output of each node in this layer; x and Ai
+are the input variable to node (i) and the label to present the MFs
+for the input, respectively. The Gaussian Membership Functions
+(GMFs), used here are given by
+lAiðln1;ri; CiÞ ¼ expð ðln1  CiÞ
+2
+2r2
+i
+Þ; i ¼ 1; 2
+ð9Þ
+lBjðln2;rj; CjÞ ¼ expð ðln1  CjÞ
+2
+2r2
+j
+Þ; j ¼ 1; 2
+ð10Þ
+Fig. 4. The process of GEP.
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+6
+
+
+===== PAGE 7 =====
+
+fri; Cigand frj; Cjgbeing the premise parameters, which are
+governed form GMFs.
+The second layer: Each node in the second layer is a circle node,
+which is labeled as N that multiplies the output signals, and their
+outputs are calculated as follows:
+Wi ¼ lAiðxÞlBiðyÞ i ¼ 1; 2
+ð11Þ
+In this layer, the outputs of the nodes show the ﬁring weight of
+the rules.
+The third layer: Each node in the third layer is deﬁned as a circle
+node, which is labeled as N that plays a normalization role. The ith
+node calculates the ratio of the ﬁring weight of the ith rule to the
+summation of the ﬁring weights of all rules as:
+W
+i ¼
+Wi
+W1 þ W2
+i ¼ 1; 2
+ð12Þ
+The fourth layer: Each node in the fourth layer is a square node
+with a node function. Each output of this layer is determined as:
+O4
+i ¼ W
+i f i ¼ W
+i ðpix þ qiy þ riÞ i ¼ 1; 2
+ð13Þ
+The parameters of layer 4 are related to as consequent
+parameters.
+The ﬁfth layer: There is one circle node in layer 5, which is a
+ﬁxed node labeled byR, and deﬁned as the signal node. This node
+computes the overall output, which is obtained from the summa-
+tion of all incoming signals as
+O5
+i ¼
+X
+W
+i f i ¼
+P Wif i
+P Wi
+ð14Þ
+There are two approaches in ANFIS. The ﬁrst is a back propaga-
+tion for all parameters. The second is a hybrid approach, which
+includes a least-squares estimation for the parameters associated
+with the OMFPs and the back propagation for the parameters asso-
+ciated with the input MFs [58].
+3.2.4. High Correlated variables Creator Machine (HCVCM)
+HCVCM is a new algorithm to create the new variables from the
+initial variables improving the performance of model. There are
+three steps in this method. In the ﬁrst step, the new variables are
+created using several mathematical, trigonometric functions, their
+combinations, and user-deﬁned functions. In the second step, the
+coefﬁcient of determination between new variables and outputs
+is determined. In the second step, the coefﬁcient of determination
+between new variables and the outputs is determined. The values
+of the coefﬁcient of determination (R2) between the initial input
+variables and the output are compared to the R2 values between
+the new variables and the output. Among all new variables, only
+the variables, which have larger R2 values with the output com-
+pared to the R2 values of the initial variables with the output, are
+imported to the third step. In the third step, among all selected
+new variables in the second step, only the variables, which R2 val-
+ues with each other lower than the R2 values between the initial
+variables, are imported to prediction models. On the other hand,
+HCVCM tries to generate and ﬁnd several new variables, which
+have more correlations with the output in comparison to initial
+variables but have lower correlations with each other. Therefore,
+they can independently improve prediction models. HCVCM can
+contain several generations. Fig. 6, shows the process of the ﬁrst
+generation in HCVCM. Only new variables, which are selected in
+the ﬁrst generation, are imported as input variables in our hybrid
+models. In the second generation, new variables can be created
+using the new selected variables in generation 1.
+3.2.5. Using HCVCM in prediction models
+HCVCM is used before SBSR, GEP, and ANFIS to create the new
+variables, which ﬁnally improves the accuracy of the models. First,
+better variables are speciﬁed based on HCVCM. Then, these vari-
+ables are imported to SBSR, GEP, and ANFIS. Based on the results
+of HCVCM, the coefﬁcient of determination (R2) value of 6 new
+variables created from UPV will be higher compared to the R2 value
+of UPV. Moreover, the R2 value of the new RN will be higher than
+the old R2 value. The functions, which are used to create these
+new variables from UPV and RN, are shown in Table 3.
+Fig. 5. The structure of ANFIS (a) The general architecture of ANFIS (b) Fuzzy reasoning scheme of ANFIS [46]
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+7
+
+
+===== PAGE 8 =====
+
+As mentioned in section 3.2.4, not only the coefﬁcient of deter-
+mination between the new variables and the output should be
+higher than the coefﬁcient of determination between the initial
+variable and the output, but also the coefﬁcient of determination
+between the new variables should be lower than the coefﬁcient
+of determination between the initial variables. Therefore, as shown
+in Tables 3 and 4, the new variables are selected, which pass these
+two rules.
+4. Results
+As mentioned before, 70% of the dataset was used to train
+the models; then, the model was utilized to predict the remain-
+ing. The same data was used to train all models. Table 5 sum-
+marizes the statistical parameters of six models in the training
+and testing dataset. ANFIS performs better than all the other
+single models with respect to all statistical parameters in the
+training dataset, and SBSR is better than GEP according to the
+coefﬁcient of determination, RMSE, and NMSE. In contrast, GEP
+performs better than the other single models in the testing
+dataset. Although the coefﬁcient of determination of SBSR is
+better than those of ANFIS in the testing dataset, ANFIS shows
+better results with respect to RMSE and NMSE. The results show
+that the best single model based on statistical parameters can-
+not be selected.
+As Table 5 demonstrates, HCVCM positively affects the results
+of SBSR and ANFIS because not only the R2 value increases – com-
+pared to the associated single models, but also the RMSE and NMSE
+are less. HCVCM-GEP performs better than GEP in the training
+dataset, although, in the testing dataset, GEP yields better results
+in the RMSE and coefﬁcient of determination.
+Table 6 lists the error terms, including the maximum positive
+error, maximum negative error, and MAPE. ANFIS is the best single
+model. HCVCM-ANFIS performs better than ANFIS with respect to
+Table 3
+The coefﬁcient of determination (R2) between new variables and output.
+New variables
+UPV2
+UPV5
+UPV6
+UPV7
+UPV8
+UPV9
+RN5
+Cos(a)
+a2
+a3
+a4
+a5
+Exp(a)
+b2
+R2 (new variable, output)
+0.454
+0.455
+0.464
+0.471
+0.476
+0.478
+0.776
+Fig. 6. The process in HCVCM.
+Table 4
+The coefﬁcient of determination (R2) between new variables.
+R2 (new variables)
+(UPV2, RN5)
+(UPV4, RN5)
+(UPV5, RN5)
+(UPV6, RN5)
+(UPV7, RN5)
+(UPV8, RN5)
+R2
+0.484
+0.434
+0.481
+0.493
+0.502
+0.509
+Table 5
+The results of the statistical parameters for all models.
+Models
+R2
+RMSE
+NMSE
+Fractional bias
+R2
+RMSE
+NMSE
+Fractional bias
+SBSR
+0.761
+46.813
+0.084
+1.56E-05
+0.935
+51.119
+0.189
+7.97E-05
+HCVCM-SBSR
+0.788
+43.809
+0.100
+1.41E-05
+0.926
+43.538
+0.130
+7.20E-05
+GEP
+0.756
+47.824
+0.105
+2.54E-05
+0.943
+36.979
+0.109
+7.22E-05
+HCVCM-GEP
+0.767
+46.207
+0.102
+1.41E-05
+0.911
+39.273
+0.108
+4.36E-05
+ANFIS
+0.824
+39.901
+0.090
+1.66E-05
+0.930
+39.297
+0.110
+8.24E-05
+HCVCM-ANFIS
+0.862
+35.742
+0.064
+1.35E-05
+0.950
+32.628
+0.084
+8.03E-05
+Table 6
+The results of the error terms for all models.
+Error terms
+SBSR
+HCVCM-SBSR
+GEP
+HCVCM-GEP
+ANFIS
+HCVCM-ANFIS
+The maximum positive error
+102.3
+31.732
+35.813
+39.175
+28.842
+31.706
+The maximum negative error
+89.7
+81.815
+86.275
+86.320
+85.303
+79.363
+MAPE
+15.73
+13.932
+13.658
+12.856
+12.174
+10.145
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+8
+
+
+===== PAGE 9 =====
+
+the error term. It also leads to better results compared to HCVCM-
+SBSR and HCVCM-GEP. The maximum positive and negative errors
+of HCVCM-SBSR are less than those of HCVCM-GEP, but MAPE of
+HCVCM-GEP is less than those of HCVCM-SBSR. The results show
+that HCVCM is more useful when this method is used with SBSR
+and ANFIS.
+(a) 
+(b) 
+(c) 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Compressive strength (kg/cm2)
+Sample number
+The actual compressive strenght
+The obtained ompressive strength from SBSR
+The obtained compressive strength from HCVCM-SBSR
+-120
+-100
+-80
+-60
+-40
+-20
+0
+20
+40
+60
+80
+100
+120
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Error (%)
+Sample number
+The obtained error from SBSR
+The obtained error from HCVCM-SBSR
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Compressive strength (kg/cm2)
+Sample number
+The actural compressive strength
+The obtained compressive strength form ANFIS
+The obtained compressive strength from HCVCM-ANFIS
+Fig. 7. The actual and predicted compressive strength of concrete and obtained errors from models. (a) The predicted compressive strength by SBSR and HCVCM-SBSR. (b) The
+obtained error from SBSR and HCVCM-SBSR. (c) The predicted compressive strength by GEP and HCVCM-GEP. (d) The obtained error from GEP and HCVCM-GEP. (e) The
+predicted compressive strength by ANFIS and HCVCM-ANFIS. (f) The obtained error from ANFIS and HCVCM-ANFIS.
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+9
+
+
+===== PAGE 10 =====
+
+Fig. 7(a) shows the comparison of the actual compressive
+strength and the predicted values using SBSR and HCVCM-SBSR.
+The HCVCM-SBSR results better predict the actual compressive
+strength. Fig. 7(b) depicts the error of these models. HCVCM
+decreases the error in SBSR. Figs. 8(c) and (d) compare the pre-
+dicted compressive strength by GEP and HCVCM-GEP with the
+actual compressive strength. HCVCM is obviously not useful for
+GEP because GEP was not used the new variables, which were pro-
+(d) 
+(e) 
+-120
+-100
+-80
+-60
+-40
+-20
+0
+20
+40
+60
+80
+100
+120
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Error (%)
+Sample number
+The obtaned Error from GEP
+The obtained Error from HCVCMGEP
+(f) 
+0
+100
+200
+300
+400
+500
+600
+700
+800
+900
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Compressive strength (kg/cm2)
+Sample number
+The actural compressive strength
+The obtained compressive strength form ANFIS
+The obtained compressive strength from HCVCM-ANFIS
+-120
+-100
+-80
+-60
+-40
+-20
+0
+20
+40
+60
+80
+100
+120
+0
+43
+86
+129
+172
+215
+258
+301
+344
+387
+430
+473
+516
+Error (%)
+Sample number
+The obtained error from ANFIS
+The obtained error from HCVCM-ANFIS
+Fig. 7 (continued)
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+10
+
+
+===== PAGE 11 =====
+
+posed by HCVCM. On the other hand, GEP changed all new vari-
+ables, which were created by HCVCM; therefore, the results of
+HCVCM-GEP cannot improve the results of GEP. Fig. 7(e) shows
+the predicted compressive strength using ANFIS and HCVCM-
+ANFIS, whereas Fig. 7(f) illustrates the obtained errors from ANFIS
+and HCVCM-ANFIS.
+Table 7 shows the computational time for all models to predict
+the compressive strength of concrete. SBSR includes several regres-
+sion techniques; thus, the computational time of this model is
+lower compared to the other models. The computational cost for
+GEP and HCVCM-GEP is nearly identical as we stopped both GEP
+and HCVCM-GEP in the same generation. The computational time
+for ANFIS is only 4 sec because there are only two variables. There
+are more than 7 variables in HCVCM-ANFIS which signiﬁcantly
+increases the computational cost.
+5. Conclusion
+In this study, three single models, including SBSR, GEP, and
+ANFIS,
+and
+three
+hybrid
+models,
+including
+HCVCM-SBSR,
+HCVCM-GEP, and HCVCM-ANFIS, were used to predict the com-
+pressive strength of 516 concrete samples with various UPV and
+RN. In the following, the main ﬁndings are summarized:
+1- HCVCM aims to produce better variables with respect to the
+coefﬁcient of determination between the new variables and
+the output. On the other hand, the coefﬁcient of determina-
+tion between new input variables and outputs is more than
+those between the initial variables and output.
+2- Selecting the new variables with lowest correlation to each
+other and highest correlation with the output can improve
+the accuracy of the models.
+3- HCVCM improves the accuracy of SBSR and ANFIS to predict
+the compressive strength of concrete.
+4- HCVCM is an adaptive method for GEP in predicting the
+compressive strength of concrete.
+5- HCVCM improve the accuracy SBSR 2.6% in coefﬁcient of
+determination, 6.5% in RMSE, 3.75% in NMSE, 11.4% in MAPE,
+69.2% in maximum positive error, and 8.9% in the maximum
+negative error.
+6- HCVCM-ANFIS is selected as the best model to predict the
+compressive strength of concrete, HCVCM improve the accu-
+racy ANFIS 5% in coefﬁcient of determination, 10% in RMSE,
+3% in NMSE, 20% in MAPE, and 7% in the maximum negative
+error.
+Declaration of Competing Interest
+The authors declare that they have no known competing ﬁnan-
+cial interests or personal relationships that could have appeared
+to inﬂuence the work reported in this paper.
+References
+[1] Feng D, Liu Z, Wang X, Chen Y, Chang J, Wei D, et al. Machine learning-based
+compressive strength prediction for concrete : An adaptive boosting approach.
+Constr Build Mater 2020;230:117–28.
+[2] Deng F, He Y, Zhou S, Yu Y, Cheng H, Wu X. Compressive strength prediction of
+recycled concrete based on deep learning. Constr Build Mater 2018;175:562–9.
+https://doi.org/10.1016/j.conbuildmat.2018.04.169.
+[3] ASTM C1383-15, Standard Test Method for Measuring the P-Wave Speed and
+the Thickness of Concrete Plates Using the Impact-Echo Method, ASTM
+International,
+West
+Conshohocken,
+PA,
+2015,
+www.astm.org
+n.d.
+doi:10.1520/C1383-15.
+[4] ASTM C597-16, Standard Test Method for Pulse Velocity Through Concrete,
+ASTM International, West Conshohocken, PA, 2016, www.astm.org n.d.
+doi:10.1520/C0597-16.
+[5] Abu Yaman M, Abd Elaty M, Taman M. Predicting the ingredients of self
+compacting
+concrete
+using
+artiﬁcial
+neural
+network. Alexandria
+Eng
+J
+2017;56:523–32. https://doi.org/10.1016/j.aej.2017.04.007.
+[6] Duan ZH, Kou SC, Poon CS. Prediction of compressive strength of recycled
+aggregate concrete using artiﬁcial neural networks. Constr Build Mater
+2012;40:1200–6. https://doi.org/10.1016/j.conbuildmat.2012.04.063.
+[7] Shishegaran A, Ghasemi MR, Varaee H. Performance of a novel bent-up bars
+system not interacting with concrete. Front Struct Civ Eng 2019;13:1301–15.
+[8] Shishegaran A, Daneshpajoh F, Taghavizade H, Mirvalad S. Developing
+conductive concrete containing wire rope and steel powder wastes for route
+deicing. Constr Build Mater 2020;232:117184.
+[9] Na UJ, Park TW, Feng MQ, Chung L. Neuro-fuzzy application for concrete
+strength prediction using combined non-destructive tests. Mag Concr Res
+2009;61:245–56. https://doi.org/10.1680/macr.2007.00127.
+[10] Poorarbabi A, Ghasemi M, Moghaddam MA. Concrete compressive strength
+prediction using non-destructive tests through response surface methodology.
+Ain Shams Eng J 2020. https://doi.org/10.1016/j.asej.2020.02.009.
+[11] Rashid K, Waqas R. Compressive strength evaluation by non-destructive
+techniques : An automated approach in construction industry. J Build Eng
+2017;12:147–54. https://doi.org/10.1016/j.jobe.2017.05.010.
+[12] Helal J, SoﬁM, P.M.. Non-Destructive Testing of Concrete : A Review of
+Methods. Electron J Struct Eng 2015;14.
+[13] Mulik Nikhil V, Balkiminal R, Chhabria Deep S, Ghare Vijay D, Tele Vishal S. the
+use of combined non destructive testing in the concrete strenght assessment
+from laboratory specimens and existing buildings. Int J Curr Eng Sci Res
+2015;2:55–9.
+[14] BS 1881: Part 203: 1986: Measurement of Velocity of Ultrasonic Pulses in
+Concrete, BSI, U.K., 1986. n.d.
+[15] Ariöz Ö, Tuncan A, Tuncan M, Kavas T, Ramyar K, Kilinç K, et al. Use of
+Combined Non-Destructive Methods to Assess the Strength of Concrete in
+Structures. Afyon Kocatepe Üniversitesi Fen Ve Mühendislik Bilim Derg
+2009;9:147–54.
+[16] Kewalramani MA, Gupta R. Concrete compressive strength prediction using
+ultrasonic pulse velocity through artiﬁcial neural networks. Autom Constr
+2006;15:374–9. https://doi.org/10.1016/j.autcon.2005.07.003.
+[17] Jain A, Kathuria A, Kumar A, Verma Y, Murari K. Combined use of non-
+destructive tests for assessment of strength of concrete in structure. Procedia
+Eng 2013;54:241–51.
+[18] ASTM C805 / C805M-18, Standard Test Method for Rebound Number of
+Hardened Concrete, ASTM International, West Conshohocken, PA, 2018, www.
+astm.org n.d. doi:10.1520/C0805_C0805M-18.
+[19] Huang Q, Gardoni P, Hurlebaus S. Predicting Concrete Compressive Strength
+Using Ultrasonic Pulse Velocity and Rebound Number 2012:2012.
+[20] Cristofaro MT, Viti S, Tanganelli M. New predictive models to evaluate
+concrete compressive strength using the sonreb method. J Build Eng
+2019;100962. https://doi.org/10.1016/j.jobe.2019.100962.
+[21] Topçu _IB, Sarıdemir M. Prediction of rubberized concrete properties using
+artiﬁcial neural network and fuzzy logic. Constr Build Mater 2008;22:532–40.
+[22] Bilgehan
+M,
+Turgut
+P.
+Artiﬁcial
+neural
+network
+approach
+to
+predict
+compressive strength of concrete through ultrasonic pulse velocity. Res
+Nondestruct Eval 2010;21:1–17.
+[23] Ashraﬁan A, Shokri F, Javad M, Amiri T, Mundher Z. Compressive strength of
+Foamed Cellular Lightweight Concrete simulation : New development of
+hybrid artiﬁcial intelligence model. Constr Build Mater 2020;230:. https://doi.
+org/10.1016/j.conbuildmat.2019.117048117048.
+[24] Albuthbahak O. Prediction of concrete compressive strength using supervised
+machine learning models through ultrasonic pulse velocity prediction of
+concrete compressive strength using supervised machine learning models
+through
+ultrasonic
+pulse
+velocity
+and
+mix
+parameter.
+Rom
+J
+Mater
+2019;49:232–43.
+[25] Ahmadi-Nedushan B. An optimized instance based learning algorithm for
+estimation of compressive
+strength of concrete.
+Eng Appl
+Artif Intell
+2012;25:1073–81. https://doi.org/10.1016/j.engappai.2012.01.012.
+[26] Asteris PG, Ashraﬁan A, Rezaie-balf M. Prediction of the compressive strength
+of self-compacting concrete using surrogate models Panagiotis. Comput Concr
+2019;24:137–50. https://doi.org/10.12989/cac.2019.24.2.137.
+[27] Ongpeng J, Soberano M, Oreta A, Hirose S. Artiﬁcial neural network model
+using ultrasonic test results to predict compressive stress in concrete. Comput
+Concr 2017;19:59–68. https://doi.org/10.12989/cac.2017.19.1.059.
+[28] Trtnik G, Kavcˇicˇ F, Turk G. Prediction of concrete strength using ultrasonic
+pulse velocity and artiﬁcial neural networks. Ultrasonics 2009;49:53–60.
+Table 7
+The computational time for all models.
+Model
+SBSR
+HCVCM-SBSR
+GEP
+HCVCM-GEP
+ANFIS
+HCVCM-ANFIS
+Computational time (sec)
+1
+4
+1432
+1427
+4
+759
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+11
+
+
+===== PAGE 12 =====
+
+[29] Tenza-Abril AJ, Villacampa Y, Solak AM, Baeza-Brotons F. Prediction and
+sensitivity analysis of compressive strength in segregated lightweight concrete
+based on artiﬁcial neural network using ultrasonic pulse velocity. Constr Build
+Mater 2018;189:1173–83. https://doi.org/10.1016/j.conbuildmat.2018.09.096.
+[30] Ashraﬁan A, Javad M, Amiri T, Rezaie-balf M, Ozbakkaloglu T. Prediction of
+compressive strength and ultrasonic pulse velocity of ﬁber reinforced concrete
+incorporating nano silica using heuristic regression methods. Constr Build
+Mater 2018;190:479–94. https://doi.org/10.1016/j.conbuildmat.2018.09.047.
+[31] Topcu IB, Sarıdemir M. Prediction of compressive strength of concrete
+containing ﬂy ash using artiﬁcial neural networks and fuzzy logic. Comput
+Mater Sci 2008;41:305–11.
+[32] Topçu _IB, Sarıdemir M. Prediction of mechanical properties of recycled
+aggregate concretes containing silica fume using artiﬁcial neural networks
+and fuzzy logic. Comput Mater Sci 2008;42:74–82.
+[33] Mansouri I, Hu JW, Kisi O. Novel predictive model of the debonding strength
+for masonry members retroﬁtted with FRP. Appl Sci 2016;6:337.
+[34] Madandoust R, Bungey JH, Ghavidel R. Prediction of the concrete compressive
+strength by means of core testing using GMDH-type neural network and ANFIS
+models. Comput Mater Sci 2012;51:261–72.
+[35] Shishegaran A, Saeedi M, Kumar A, Ghiasinejad H. Prediction of air quality in
+Tehran
+by
+developing
+the
+nonlinear
+ensemble
+model.
+J
+Clean
+Prod
+2020:120825.
+[36] Domingo R, Hirose S. Correlation between concrete strength and combined
+nondestructive tests for concrete using high-early strength cement. Sixth Reg.
+Symp. Infrastruct. Dev. 2009:12–3.
+[37] Bahmani P. Concrete strength estimation by means of combined ultrasonic
+and Schmidt rebound hammer methods using nonlinear regression analysis
+and neural network. MSc. Thesis, Pooyandegan Danesh Institution of Higher
+Education, 2015.
+[38] Asteris PG, Mokos VG. Concrete compressive strength using artiﬁcial neural
+networks. Neural Comput Appl 2019;2. https://doi.org/10.1007/s00521-019-
+04663-2.
+[39] Chen Y, Wang Z, Liu Y, Zuo MJ, Huang H-Z. Parameters determination for
+adaptive bathtub-shaped curve using artiﬁcial ﬁsh swarm algorithm. Proc -
+Annu Reliab Maintainab Symp 2012.
+[40] Holland JH. Adaptation in Natural and Artiﬁcial Systems. vol. Ann. Arbor. 1975.
+https://doi.org/10.1137/1018105.
+[41] Cramer NL. A representation for the adaptive generation of simple sequential
+programs. Proc. an Int. Conf. Genet. Algorithms Appl. 1985:183–7.
+[42] Vanneschi L, Poli R. 24 Genetic Programming–Introduction, Applications,
+Theory and Open Issues 2012.
+[43] Ferreira C. Gene expression programming: a new adaptive algorithm for
+solving problems. ArXiv Prepr Cs/0102027 2001.
+[44] Dindarloo SR. Prediction of blast-induced ground vibrations via genetic
+programming. Int J Min Sci Technol 2015;25:1011–5.
+[45] Nazari A, Riahi S. Computer-aided prediction of physical and mechanical
+properties
+of
+high
+strength
+cementitious
+composite
+containing
+Cr2O3
+nanoparticles. NANO 2010;5:301–18.
+[46] Zadeh LA. Fuzzy sets. Inf Control 1965;8:338–53.
+[47] Lee C-C. Fuzzy logic in control systems: fuzzy logic controller. I. IEEE Trans Syst
+Man Cybern 1990;20:404–18.
+[48] Jager R. Fuzzy logic in control. Rene Jager 1995.
+[49] Ofoli AR, Rubaai A. Real-time implementation of a fuzzy logic controller for
+switch-mode
+power-stage
+DC–DC
+converters.
+IEEE
+Trans
+Ind
+Appl
+2006;42:1367–74.
+[50] Chang F-J, Chang Y-T. Adaptive neuro-fuzzy inference system for prediction of
+water level in reservoir. Adv Water Resour 2006;29:1–10.
+[51] Jang J-S. ANFIS: adaptive-network-based fuzzy inference system. IEEE Trans
+Syst Man Cybern 1993;23:665–85.
+[52] Rutkowski L. FLEXIBLE NEURO-FUZZY SYSTEMS. Structures, Learning and
+Performance Evaluation. Czestochowa-Polonia; 2004.
+[53] Jalalkamali A, Sedghi H, Manshouri M. Monthly groundwater level prediction
+using ANN and neuro-fuzzy models: a case study on Kerman plain. Iran. J
+Hydroinformatics 2011;13:867–76.
+[54] Ahmadi-Nedushan B. Prediction of elastic modulus of normal and high
+strength concrete using ANFIS and optimal nonlinear regression models.
+Constr
+Build
+Mater
+2012;36:665–73.
+https://doi.org/10.1016/
+j.conbuildmat.2012.06.002.
+[55] Tanaka K An. Introduction to Fuzzy Logic for Practical Applications. New York,
+NY, USA: Springer-Verlag:; 1991.
+[56] Takagi T, Sugeno M. Fuzzy identiﬁcation of systems and its applications to
+modeling and control. IEEE Trans Syst Man Cybern 1985:116–32.
+[57] Cavallaro F, Ciraolo L. Design and implementation of a fuzzy inference model
+for mapping the sustainability of energy crops. Renew. Altern. Energy
+Concepts, Methodol. Tools, Appl., IGI Global 2017:657–78.
+[58] Mirrashid M, Givehchi M, Miri M, Madandoust R, Branch Z, Faculty CE, et al.
+Performance investigation of neuro-fuzzy system for earthquake prediction.
+Asian J Civ Eng 2016;17:213–23.
+[59] Ghiasi R, Ghasemi MR, Noori M. Comparative studies of metamodeling and AI-
+Based
+techniques
+in
+damage
+detection
+of
+structures.
+Adv
+Eng
+Softw
+2018;125:101–12.
+A. Shishegaran, H. Varaee, T. Rabczuk et al.
+Computers and Structures 247 (2021) 106479
+12

@@ -1,0 +1,764 @@
+
+===== PAGE 1 =====
+
+Corresponding Author: Syed Abdhaheer Kadhar	
+Received on 28/11/2023    	
+Accepted on 22/01/2024 
+DOI: https://doi.org/10.1590/1517-7076-RMAT-2023-0336
+Optimizing flow, strength, and durability in high-strength self-compacting 
+and self-curing concrete utilizing lightweight aggregates
+Syed Abdhaheer Kadhar1
+, Elangovan Gopal2, Vivek Sivakumar3, Naveen Arasu Anbarasu4
+1University College of Engineering A.R. College of Engineering and Technology, Department of Civil Engineering. 
+Kadayam, 627423, Tamil Nadu, India.
+2University College of Engineering, Department of Civil Engineering. Pattukkottai, 614701, Tamil Nadu, India.
+3GMR Institute of Technology, Department of Civil Engineering. Razam, 532127, Andhra Pradesh, India.
+4CMS College of Engineering and Technology, Department of Civil Engineering. Coimbatore, 641032, Tamil Nadu, 
+India.
+e-mail: syedabdhaheerkadhar@gmail.com, abusvg@gmail.com, gelangoki@gmail.com, 1717vivek@gmail.com, 
+naveenanbu07@gmail.com
+ABSTRACT
+This comprehensive study undertaken to investigate the properties and performance of M60 grade self-
+compacting and self-curing concrete mix designs. The research involved an in-depth analysis of various concrete 
+compositions labeled as M1 to M16, each with specific aggregate combinations and percentages. The primary 
+focus was on assessing critical properties such as flow-ability, mechanical, durability and micro structural 
+properties. The mix labeled as M6, featuring a balanced incorporation of fine aggregate alternatives (FAA) 
+and natural coarse aggregates (NCA), exhibited noteworthy behavior in terms of the evaluated properties. This 
+indicated the potential advantages of judiciously combining different types of aggregates to achieve desired 
+concrete characteristics. The research underscored the critical role of aggregate selection and substitution in 
+determining the overall durability, strength, and structural performance of M60 grade concrete. These findings 
+contribute to an improved understanding of optimizing concrete mix designs for achieving enhanced mechanical 
+properties, micro structural and long-term structural sustainability. The mix M12 is more superior compared to 
+all the mix in the form of fresh concrete properties, mechanical properties and durability properties of concrete. 
+This study’s outcomes have implications for the construction industry, offering valuable insights into formulating 
+concrete blends tailored for specific structural requirements and desired performance outcomes.
+Keywords: Self-compacting and self-curing concrete; Light Weight Expanded; Clay aggregate and fly ash 
+aggregate.
+1. INTRODUCTION
+Self-Compacting Concrete (SCC) is acclaimed for its exceptional flow and self-compacting attributes, 
+eliminating external consolidation techniques. Integrating alternative aggregates like fly ash and expanded clay 
+for conventional coarse aggregates has gained attention for sustainable construction. This blend capitalizes on 
+SCC’s benefits while enhancing eco-consciousness and cost-effectiveness. SCC’s ability to flow effortlessly 
+and fill complex forms transforms construction by eliminating manual vibration, expediting casting, and 
+ensuring uniform concrete distribution [1–4]. Fly ash, a coal-fired power plant byproduct, enhances SCC’s self-
+compacting properties and workability as a cementitious material. Including expanded clay aggregates replaces 
+coarse aggregates, introducing qualities like reduced density, strength, and insulation. Combined with SCC, 
+this yields a composite with lower weight, superior insulation, and enhanced structure. Self-curing concrete 
+advances construction materials by streamlining curing and enhancing performance. Integrated innovative 
+additives provide a practical solution to traditional curing, promoting resource efficiency and sustainability in 
+construction [5–8].
+Using Self-Compacting Mortar (SCM) materials—Meta Kaolin, Blast-furnace Slag, and fly ash—to 
+replace cement in Self-Compacting Concrete (SCC). They found Metakaolin significantly improved compressive 
+strength, making it a promising SCM. Both Metakaolin and Blast-furnace Slag also enhanced elasticity, except 
+at 10% replacement of Blast-furnace Slag [9]. Using Granite Sawing Waste (GSW) and Polypropylene (PP) 
+fibers in Fiber Reinforced Self-Compacting Concrete (FRSCC). GSW replaced cement at levels of 5%–20%, 
+
+
+===== PAGE 2 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+and PP fibers at 0.05%–0.15% volume. Fly ash was also added. GSW and PP fibers improved compressive and 
+splitting tensile strengths, along with fly ash, enhancing material properties [10]. Self-compacting concrete 
+(SCC) with various additives and fibers to meet demands for efficient compaction around reinforcements in 
+complex structures. Traditional methods face challenges in achieving thorough compaction, leading to voids. 
+SCC, a self-flowing solution, eliminates external compaction. Their review emphasizes SCC’s transformative 
+role, enhancing compaction, quality, and efficiency in intricate construction [11]. Carbon fibers’ effect on self-
+compacting concrete (SCC) toughness. Silica fume improved the cementitious mix. Carbon fibers (0–1.5%) 
+strengthened and toughened the concrete. Their study unveiled synergistic performance enhancement from 
+silica fume and carbon fibers in SCC [12].
+Type F admixture and silica fume’s impact on high early strength self-compacting concrete (SCC). 
+ACEIVE 2018 conference presentation focused on their collaborative effects for expedited construction 
+schedules. Through analysis, they highlighted potential for enhancing early-age strength, offering insights 
+for robust SCC formulations in rapid construction projects [13]. The expansive self-compacting concrete 
+using calcium sulfoaluminate. Diverse cementitious material dosages and curing methods were examined. 
+Microstructural expansion improved compressibility and strength. Flexibility and compressive strength enhanced 
+with expansion magnitude, while excessive dosages affected fresh air alteration [14]. Enhanced binder concrete 
+durability using elevated cementitious materials and reduced water. Hydration acceleration caused permeability 
+issues. Fly ash and rice husk waste facilitated 100% self-compacting concrete (SCC) hydration, promoting 
+sustainability. Lightweight aggregates as internal curing improved strength and durability with W/b ratio < 
+0.36%. Cost-effective superabsorbent polymers (SAP) were highlighted as effective internal curing agents [15]. 
+Self-compacting self-curing concrete advancements, emphasizing moisture absorption for hydration. Self-
+curing and self-compacting benefits offer efficient construction. Polyethylene glycol (PEG) optimizes curing, 
+reducing water consumption. Best results involved 20% fly ash PEG with lower molecular weight, highlighting 
+PEG’s role in effective curing and water conservation [16]. Concrete grade, dosage, and curing agents’ influence 
+on normal and HSSC, self-curing concrete. Initial analysis assessed strength, followed by beam reinforcement. 
+PEG 6000 emerged as more effective than PEG 4000 in achieving optimal strength, revealing curing agent 
+importance for this innovative concrete type [17].
+Fly ash’s impact on self-compacting concrete (SCC) workability. Fly ash improved flowability, reducing 
+excessive water needs while maintaining desired consistency. The study highlighted fly ash’s potential as a 
+sustainable addition to SCC, enhancing workability and promoting environmentally conscious construction [18]. 
+Fly ash’s impact on self-compacting concrete (SCC) mechanics. Fly ash improved compressive strength and 
+durability through pozzolanic reactions and microstructure refinement. The study demonstrated fly ash’s potential 
+to enhance SCC’s mechanical performance, promoting sustainable and high-performance construction practices 
+[19]. Fly ash’s ecological impact on self-compacting concrete (SCC). Analyzing carbon emissions associated with 
+fly ash-infused SCC, they highlighted its potential to significantly reduce emissions compared CC due to fly ash’s 
+cement-reducing nature. Their findings advocate for fly ash in SCC to align with sustainable construction and 
+emission reduction goals [20]. The rheological behavior of fly ash-infused SCC. They highlighted the importance 
+of precise mix design and proportioning in achieving desired flow-ability and viscosity for effective self-placement 
+and compaction. Through varied mix designs and fly ash levels, their research emphasized balanced approaches 
+that optimize SCC with fly ash, enhancing its construction efficacy [21].
+Synergies between fly ash and nano-silica in self-compacting concrete (SCC). Their study revealed 
+combined potential to enhance strength and durability. By systematically investigating their interaction, the 
+research showcased the promise of optimizing SCC’s microstructure and mechanics through this partnership, 
+offering a dynamic enhancement strategy for SCC [22]. The economic feasibility of fly ash incorporation in self-
+compacting concrete (SCC). Balancing initial costs with long-term benefits, the study revealed that despite a slight 
+initial increase, fly ash-enhanced SCC’s lasting advantages—improved durability and reduced maintenance—far 
+outweighed the upfront difference. Their findings emphasized the strategic value of investing in fly ash-optimized 
+SCC for long-term structural integrity and cost efficiency [23]. Expansive self-compacting concrete with calcium 
+sulfo-aluminate ettringite. Variations in ettringite content affected characteristics and microstructure. Dosages, 
+curing methods, and water-to-cementitious materials ratio influenced expansion and mechanics. Type K agents 
+didn’t impair workability but reduced W/C ratios with type K agents induced potentially problematic expansion. 
+Elevated expansive agents caused expansion that compromised mechanical properties [24]. XRD and DTG 
+analyses couldn’t detect expansion. Anhydrous compounds induced expansion even after 28-day curing [25, 26]. 
+Replaced cement with fly ash, blast furnace slag, and metakaolin, studying three expansive agent compositions. 
+Agents improved pozzolanic activity, longevity, and mechanics, reducing autogenous shrinkage and enhancing 
+chloride resistance. Shrinkage reduced due to refined porosity and desiccation, particularly with magnesia-based 
+and liquid agents. The agents reduced V funnel time, enhancing slump flow. Sulpho-aluminate, polycarboxylate 
+
+
+===== PAGE 3 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+ether, and magnesium agents improved elasticity and compressibility. Shrinkage tendencies were resolved by 
+magnesium and polycarbonate agents, enhancing 28-day expansion [27].
+Calcium-sulfoaluminates (CSA) and calcium oxide (CaO) expansion in ultra high performance concrete 
+(UHPC). Factors like water-solid interactions, low W/b ratio, and compact structure impacted expansion. CaO 
+with low water, a unique recessive nature, yielded expansive UHPC with strong structure and hydration. Study 
+examined integrity, kinetics, strength, and volume traits [28]. CSA CaO curbed 24–28-hour auto shrinkage. 
+Premature additives reduced efficacy, dryness increased shrinkage, and silica fume hindered kinetics. CaO 
+with low water produced UHPC with minimal shrinkage [29]. Metakaolin and chemical admixtures for self-
+curing high-strength concrete. Metakaolin replaced cement (5%–15%), with optimal results at 5%. Poly-vinyl 
+alcohol (PVA) and poly-acrylic acid (PAA) were added at various percentages. Best strengths were achieved 
+with 0.04% PVA and 0.02% PAA. This approach enhances self-curing and strength in high-strength concrete 
+[30]. Exploring internal curing in concrete using wood powder and polyethylene glycol 400 (PEG-400). 
+M30 grade concrete underwent testing with varying wood powder (2%–8%) and PEG (0.5%–2.5%) ratios. 
+Optimal outcomes were observed at 6% wood powder and 1.5% PEG for indoor conditions, and 6% wood 
+powder and 2.5% PEG for outdoor conditions. This study underscores the potential of wood powder and 
+PEG-400 in enhancing self-curing and concrete mechanical properties, thereby contributing to sustainable 
+and durable concrete formulations [20]. Polyethylene Glycol (PEG) as a cement substitute for internal curing. 
+They replaced cement with PEG-400 (0.5%–2%) in M30 grade concrete, evaluating axial, split tensile, and 
+flexural strengths. Optimal results included 1% PEG-400 for axial and split tensile strengths, and 0.5% PEG-
+400 for flexural strength enhancement. This study highlights PEG-400’s potential as an internal curing agent to 
+enhance concrete properties and sustainability [31].
+Self-Compacting Concrete (SCC) with alternative aggregates, like fly ash and expanded clay, optimizes 
+sustainability and efficiency in construction. Metakaolin in Self-Compacting Concrete (SCC) boosts compressive 
+strength, while Granite Sawing Waste and Polypropylene fibers enhance FRSCC properties. Metakaolin in high-
+strength concrete, replacing cement (5%–15%), achieves optimal results at 5%, enhanced by PVA and PAA. The 
+main outcome of the research there is a lack of research with the SCC with self-curing concrete incorporating 
+the recycled flyash concrete [32–35].
+2. MATERIALS AND METHODS
+This section deeply explores constituents like fly ash, expanded clay, and calotropis, alongside cement, fine and 
+coarse aggregates, water, and additives, shaping concrete composition. Their properties influence concrete’s 
+behavior and performance [36]. The chapter highlights their roles in SCC and self-curing concrete. Fly ash 
+enhances workability and durability through its pozzolanic properties. Expanded clay aggregates, low-density 
+and porous, aid self-curing in SCC. Calotropis gigantea, a vegetative material, retains moisture for self-curing.
+2.1. Cement
+Cement, a vital concrete component, is meticulously chosen for this study. OPC grade 53 adhering to IS 12269 
+(1987) standard is used. OPC excels in binding constituents, providing strength and durability. OPC 53’s high 
+early strength and robustness make it optimal. Physically, it’s dense, solid, and grey, with a specific gravity of 
+3.14, surface area of 2250 cm2/gm, and a particle size below 90 microns. A 3 mm volume expansion upon hydra­
+tion and reactivity further define OPC 53’s role in the study.
+2.2. Fine aggregate
+Fine aggregate selection significantly influences concrete properties. This study employed locally available river 
+sand, ensuring cost-effectiveness and sustainability. Adhering to IS Grade Zone-II standards, the meticulously 
+cleaned sand exhibited characteristics conducive to concrete quality. Its specific gravity, bulk density, water 
+absorption, and fineness modulus were 2.75, 2.74 g/cc, 1.50%, and 1.52, respectively. The sand met specifica­
+tions, passing a 4.75 mm sieve and being devoid of silt and clay. This careful selection establishes a foundation 
+for producing concrete meeting performance criteria while upholding sustainability principles.
+2.3. Coarse aggregate
+The investigation delves into substituting traditional coarse aggregates with fly ash aggregates (as per IS 3812) 
+and lightweight expanded clay aggregates. The process entails heating plastic clay in a rotating kiln to produce 
+12.5 mm expanded clay. Fly ash aggregates of the same size are generated with a 20:80 cement to fly ash ratio 
+and 0.25 binder ratio. These innovative aggregates aim to enhance concrete attributes, exploring the prospects of 
+heightened performance and durability. The mechanical traits of these materials are detailed in Table 1.
+
+
+===== PAGE 4 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+Table 1: Mechanical properties of coarse aggregates.
+PROPERTIES
+NCA
+FAA
+LECA
+Size and Shape
+12.5 mm & Angular
+12.5 mm & Spherical
+Relative Density
+2.65
+1.34
+1.45
+WA (%)
+1.74
+20.5
+32.5
+CV (%)
+17.54
+18.49
+12.8
+Impact Strength (%)
+14.70
+16.69
+14.795
+Apparent Density (kg/m3)
+1619
+916
+526
+Moisture Content (%)
+0.79
+9.75
+17.4
+Fineness Modulus (%)
+6.79
+5.19
+5.27
+2.4. Calotropics gigantia milk
+A novel approach by incorporating Calotropis gigantea milk, a natural byproduct of the Calotropis gigantea 
+plant found in Tamil Nadu, India. The milk contains polyethylene glycol latex, offering dual benefits of internal 
+curing and enhanced water retention capacity in concrete. This resourceful utilization aligns with sustainable 
+practices. This innovative technique holds potential for improved concrete performance and durability. Calotropis 
+gigantea milk exhibits specific gravity of 1.1, solid content at 3.5% ± 0.1%, pH ranging from 7.19 to 8.21, and 
+a characteristic white liquid appearance.
+2.5. Superplasticizers
+The integral role of superplasticizers, particularly high-range water-reducing admixtures (HRWRAs), in 
+High-Performance Concrete (HPC) formulation is paramount. Among them, Conplast SP430, classified as an 
+effective plasticizer, significantly improves workability and performance. The specific gravity is 1.23. Applied 
+at 2% by weight of cement, it modifies properties. Superplasticizers reduce water content while maintaining 
+workability, often by up to 30%. Chosen here for practical mixtures with reduced water-to-binder (w/b) ratios, it 
+enhances strength, durability, and performance. CONPLAST SP 430 adheres to ASTM C494 and IS: 9103–1998 
+standards, ensuring reliability. This dimension of versatility empowers high-performance mixtures, reshaping 
+construction practices for more efficient and durable outcomes.
+3. METHODOLOGY
+The methodology encompasses the evaluation of flow-ability, mechanical, and durability properties of SCC 
+and self-curing concrete. To assess flow-ability, tests such as slump flow, L-box, V-funnel, J-Ring, and U-box 
+are conducted. Mechanical properties are measured through compressive, splitting tensile, and flexural strength 
+tests (IS: 516, IS: 5816, IS: 516–1959). The durability analysis involves water absorption (IS: 2386) to evaluate 
+porosity, rapid chloride permeability (ASTM C1202) to determine resistance to chloride penetration, acid 
+resistance test and sorptivity testing. The micro analysis SEM is used to study the micro structural properties of 
+concrete. This comprehensive testing approach facilitates s a holistic understanding of the concrete’s behavior, 
+contributing to advancements in concrete technology and the development of sustainable construction materials. 
+Table 2 shows the mix specifications. Based on the literature review the and preliminary research the mix 
+specifications have been decided.
+3.1. Fresh concrete test
+The study employed the slump flow test to precisely assess Self-Compacting Concrete (SCC) filling capacity, 
+flowability, and workability. A 500 mm diameter foundation plate, marked with a circle, served as the controlled 
+testing platform. A specialized 300 mm high slump cone at the center of the plate housed the SCC mixture. 
+Approximately six liters of SCC were gently poured into the cone, mimicking real-world scenarios. The 
+stopwatch-recorded time for the SCC to complete a 500 mm diameter circle provided insights into its flowability 
+and self-leveling capabilities.
+3.2. Mechanical properties of concrete
+The compressive strength test gauges concrete’s load-bearing capacity by applying controlled axial loads to 
+specimens. Prepared cylinders or cubes undergo meticulous curing before being vertically positioned in a 
+compressive testing apparatus. The applied load induces compressive stress, leading to deformations measured 
+
+
+----- TABLE p4#1 -----
+
+PROPERTIES | NCA | FAA | LECA
+Size and Shape | 12.5 mm & Angular | 12.5 mm & Spherical | 
+Relative Density | 2.65 | 1.34 | 1.45
+WA (%) | 1.74 | 20.5 | 32.5
+CV (%) | 17.54 | 18.49 | 12.8
+Impact Strength (%) | 14.70 | 16.69 | 14.795
+Apparent Density (kg/m3) | 1619 | 916 | 526
+Moisture Content (%) | 0.79 | 9.75 | 17.4
+Fineness Modulus (%) | 6.79 | 5.19 | 5.27
+
+===== PAGE 5 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+Table 2: Mix specifications.
+SI. NO.
+MIX DESIGNATION
+DESCRIPTION
+1
+M1
+Conventional Concrete
+2
+M2
+10% of Flyash Aggregate + 90% Natural Coarse Aggregate + 
+4% Calcotropis Gigantea + 2% Superplasticizer
+3
+M3
+20% of Flyash Aggregate + 80% Natural Coarse Aggregate +
+4% Calcotropis Gigantea + 2% Superplasticizer
+4
+M4
+30% of Flyash Aggregate + 70% Natural Coarse Aggregate + 
+4% Calcotropis Gigantea + 2% Superplasticizer
+5
+M5
+40% of Flyash Aggregate + 60% Natural Coarse Aggregate + 
+4% Calcotropis Gigantea + 2% Superplasticizer
+6
+M6
+50% of Flyash Aggregate + 50% Natural Coarse Aggregate + 
+4% Calcotropis Gigantea + 2% Superplasticizer
+7
+M7
+10% of Lightweight Expanded Clay Aggregates + 90% Natural Coarse 
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+8
+M8
+20% of Lightweight Expanded Clay Aggregates + 80% Natural Coarse 
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+9
+M9
+30% of Lightweight Expanded Clay Aggregates + 70% Natural Coarse 
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+10
+M10
+40% of Lightweight Expanded Clay Aggregates + 60% Natural Coarse 
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+11
+M11
+50% of Lightweight Expanded Clay Aggregates + 50% Natural Coarse 
+Aggregate + 2% Calcotropis Gigantea + 2% Superplasticizer
+12
+M12
+10% of Flyash Aggregate + 10% of Lightweight Expanded Clay 
+Aggregates + 80% Natural Coarse Aggregate + 4% Calcotropis 
+Gigantea + 2% Superplasticizer
+13
+M13
+20% of Flyash Aggregate + 20% of Lightweight Expanded Clay 
+Aggregates + 60% Natural Coarse Aggregate + 4% Calcotropis 
+Gigantea + 2% Superplasticizer
+14
+M14
+30% of Flyash Aggregate + 30% of Lightweight Expanded Clay 
+Aggregates + 40% Natural Coarse Aggregate + 4% Calcotropis 
+Gigantea + 2% Superplasticizer
+15
+M15
+40% of Flyash Aggregate + 40% of Lightweight Expanded Clay 
+Aggregates + 20% Natural Coarse Aggregate + 4% Calcotropis 
+Gigantea + 2% Superplasticizer
+16
+M16
+50% of Flyash Aggregate + 50% of Lightweight Expanded Clay 
+Aggregates + 0% Natural Coarse Aggregate + 4% Calcotropis Gigantea 
++ 2% Superplasticizer
+by strain gauges or sensors. The correlation between load and deformation yields the ultimate compressive 
+strength, vital for assessing compressive, splitting tensile and flexural strength test.
+3.3. Durability properties of concrete
+To ensure the durability of concrete, meticulous steps are taken from material selection to regular maintenance. 
+High-quality ingredients, optimal mix design, and incorporation of admixtures like air-entraining agents con­
+tribute to enhanced resistance against environmental factors. Rigorous testing saturated water absorption, acid 
+resistance, sorptivity, porosity and rapid chloride penetration test ensures the concrete’s robustness. Addition­
+ally, measures such as corrosion protection for reinforcement and regular inspections contribute to long-lasting, 
+structurally sound concrete, safeguarding against deterioration in diverse environmental conditions.
+
+
+----- TABLE p5#1 -----
+
+SI. NO. | MIX DESIGNATION | DESCRIPTION
+1 | M1 | Conventional Concrete
+2 | M2 | 10% of Flyash Aggregate + 90% Natural Coarse Aggregate +
+4% Calcotropis Gigantea + 2% Superplasticizer
+3 | M3 | 20% of Flyash Aggregate + 80% Natural Coarse Aggregate +
+4% Calcotropis Gigantea + 2% Superplasticizer
+4 | M4 | 30% of Flyash Aggregate + 70% Natural Coarse Aggregate +
+4% Calcotropis Gigantea + 2% Superplasticizer
+5 | M5 | 40% of Flyash Aggregate + 60% Natural Coarse Aggregate +
+4% Calcotropis Gigantea + 2% Superplasticizer
+6 | M6 | 50% of Flyash Aggregate + 50% Natural Coarse Aggregate +
+4% Calcotropis Gigantea + 2% Superplasticizer
+7 | M7 | 10% of Lightweight Expanded Clay Aggregates + 90% Natural Coarse
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+8 | M8 | 20% of Lightweight Expanded Clay Aggregates + 80% Natural Coarse
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+9 | M9 | 30% of Lightweight Expanded Clay Aggregates + 70% Natural Coarse
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+10 | M10 | 40% of Lightweight Expanded Clay Aggregates + 60% Natural Coarse
+Aggregate + 4% Calcotropis Gigantea + 2% Superplasticizer
+11 | M11 | 50% of Lightweight Expanded Clay Aggregates + 50% Natural Coarse
+Aggregate + 2% Calcotropis Gigantea + 2% Superplasticizer
+12 | M12 | 10% of Flyash Aggregate + 10% of Lightweight Expanded Clay
+Aggregates + 80% Natural Coarse Aggregate + 4% Calcotropis
+Gigantea + 2% Superplasticizer
+13 | M13 | 20% of Flyash Aggregate + 20% of Lightweight Expanded Clay
+Aggregates + 60% Natural Coarse Aggregate + 4% Calcotropis
+Gigantea + 2% Superplasticizer
+14 | M14 | 30% of Flyash Aggregate + 30% of Lightweight Expanded Clay
+Aggregates + 40% Natural Coarse Aggregate + 4% Calcotropis
+Gigantea + 2% Superplasticizer
+15 | M15 | 40% of Flyash Aggregate + 40% of Lightweight Expanded Clay
+Aggregates + 20% Natural Coarse Aggregate + 4% Calcotropis
+Gigantea + 2% Superplasticizer
+16 | M16 | 50% of Flyash Aggregate + 50% of Lightweight Expanded Clay
+Aggregates + 0% Natural Coarse Aggregate + 4% Calcotropis Gigantea
++ 2% Superplasticizer
+
+===== PAGE 6 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+4. RESULTS AND DISCUSSION
+4.1. Flow-ability test
+4.1.1. Slump cone test
+The study conducted an in-depth analysis of sixteen distinct concrete mixtures, labeled M1 to M16, to exam­
+ine the effect of varying aggregate proportions and chemical admixtures on slump flow. The combinations 
+included conventional aggregates, fly ash aggregates (FAA), lightweight expanded clay aggregates (LWECA), 
+calcotropis gigantea (CG), and superplasticizer (SP). The results revealed a notable correlation between the 
+composition of the mixtures and their workability. As the proportions of FAA, LWECA, and combined addi­
+tives increased, the slump flow also improved, indicating enhanced workability and flow characteristics. These 
+findings underline the potential for tailoring concrete mix designs to optimize workability and performance 
+for specific construction requirements. Notably, the proportion of LWECA within the mix exerts a significant 
+influence on deformability and stability. As the content of LWECA increases, there is a trend towards improved 
+deformability, indicated by the incrementally larger slump value. Mix designs like M10, M11, and M16, charac­
+terized by higher LWECA content, exhibit noticeably larger slump value in comparison to conventional concrete 
+and mixes dominated by FAA content. Figure 1 shows the slump cone test results of M60 grade concrete [37].
+4.1.2. L box test
+The study involved an extensive investigation into sixteen concrete mixtures labeled M1 to M16, aiming to 
+assess their workability using the L-box test. These mixtures encompassed various combinations of aggregates, 
+additives, and superplasticizer (SP). The results indicated that as the proportions of fly ash aggregates (FAA), 
+Figure 2: L box test results.
+Figure 1: Slump cone test results.
+
+
+===== PAGE 7 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+lightweight expanded clay aggregates (LWECA), calcotropis gigantea (CG), and SP were altered, the work­
+ability of the concrete mixtures exhibited variations [38]. The L-box test outcomes demonstrated an intricate 
+relationship between the composition of the mixtures and their ability to flow and spread, highlighting the role 
+of aggregates and additives in influencing concrete workability. These findings contribute to a better understand­
+ing of optimizing concrete mix designs for desired workability characteristics in construction applications. The 
+influence of LWECA content is further evident in the incremental increase in passing ability as the LWECA 
+content is raised, as seen in the progression from M7 to M11. Figure 2 shows the test results of L box test.
+4.1.3. V-Funnel test
+The workability characteristics of various concrete mixtures labeled M1 to M16, as determined by the V-funnel 
+test. The results highlight the substantial impact of altering aggregate proportions, additives, and superplasti­
+cizer (SP) content on the flow behavior of the concrete. Notably, the workability, represented by the V-funnel 
+test duration, exhibited variations based on these factors. The V-funnel test outcomes provide a comprehensive 
+overview of how different combinations of aggregates and additives influence the ease of concrete flow and its 
+ability to pass through constrictions, reflecting the intricate interplay between mixture components and their 
+effect on concrete workability [39]. These findings contribute to a more informed approach to designing con­
+crete mixtures that align with desired workability requirements for construction applications. Mix designs such 
+as M10, M11, M12, and M13, characterized by higher LWECA content, distinctly exhibit reduced V-Funnel 
+test times relative to conventional concrete and mixes dominated by FAA content. Figure 3 shows the result of 
+v-funnel test.
+4.1.4. J-Ring
+The stability and resistance to segregation during casting of concrete mixes with the labels M1 to M16 may be 
+learned a lot from the examination of J-Ring test results. J-Ring values can vary depending on the aggregate 
+quantities and additives used, including superplasticizer (SP). The measures represent the cohesiveness of the 
+concrete, which keeps the coarse aggregate from separating under self-compacting and self-curing circum­
+stances. These results underline the significance of aggregate combinations and additives in maintaining uni­
+formity and stability during placement, enhancing casting performance, and improving the general quality of 
+concrete. Notably, the proportion of LWECA within the mix emerges as a significant influencer of passing abil­
+ity and stability. A trend becomes apparent as the LWECA content escalates, correlating with improved passing 
+ability. This trend is evident from slightly elevated J-Ring measurements observed in mix designs such as M10, 
+M11, M12, and M13. These formulations, characterized by heightened LWECA content, manifest relatively 
+larger J-Ring measurements compared to conventional concrete and mixes enriched with FAA content. For a 
+graphic representation of the J-Ring test findings, see Figure 4.
+4.1.5. U-Box
+The U-Box test results for concrete mixtures designated from M1 to M16 offer valuable insights into the stability 
+and deformability of these mixtures. The measured U-Box values reflect the responsiveness of the concrete to 
+flow and deformation under the influence of varying aggregate combinations and additives, including superplas­
+ticizer (SP). The obtained measurements illustrate the ability of each mixture to maintain its form and structure 
+Figure 3: V-Funnel test results.
+
+
+===== PAGE 8 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+while flowing into the U-Box apparatus, which simulates a practical casting scenario. These findings underscore 
+the role of specific aggregate combinations and additives in determining the concrete’s flow characteristics and 
+stability during placement, thus contributing to improve casting performance and enhanced overall concrete 
+quality. Notably, the proportion of LWECA within the mix exerts a significant influence on deformability and 
+stability. As the content of LWECA increases, there is a trend towards improved deformability, indicated by 
+the incrementally larger U-Box measurements. Mix designs like M10, M11, and M16, characterized by higher 
+LWECA content, exhibit noticeably larger U-Box measurements in comparison to conventional concrete and 
+mixes dominated by FAA content. Figure 5 visually presents the outcomes of the U-Box tests, further elucidat­
+ing the impact of the studied parameters on concrete behavior.
+4.2. Mechanical properties of concrete
+4.2.1. Compression strength test
+The compressive strength test outcomes offer insight into the mechanical performance of distinct concrete 
+mixes, particularly for M60 grade, across varying curing periods. Mixes with higher lightweight expanded 
+clay aggregate (LWECA) content, like M7, M8, and M12, exhibit superior strengths at 7, 14, and 28 days. In 
+summary, the results underscore LWECA’s positive influence on strength in self-consolidating concrete, though 
+comprehensive evaluation remains pivotal for practical application. Figure 6 visually presents the outcomes of 
+the compressive strength tests, further elucidating the impact of the studied parameters on concrete behavior.
+4.2.2. Split tensile strength
+The split tensile strength test outcomes unveil the mechanical characteristics of distinct concrete mixes for M60 
+grade over different curing periods. Mixes with elevated lightweight expanded clay aggregate (LWECA) content, 
+like M7, M8, and M12, exhibit notable improvements in split tensile strengths at 7, 14, and 28 days. Yet, it’s vital 
+to recognize that factors such as durability and workability significantly influence mix selection. In summary, 
+Figure 4: J-ring Test results.
+Figure 5: U-Box test results.
+
+
+===== PAGE 9 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+Figure 6: Compression strength test results.
+Figure 7: Split tensile strength results.
+the results underscore LWECA’s constructive impact on split tensile strength within self-consolidating concrete, 
+stressing the need for a comprehensive assessment for practical applications. Figure 7 visually represent the 
+nuanced variations in split tensile test results.
+4.2.3. Flexural strength test
+The flexural strength test outcomes elucidate the structural behavior of diverse concrete mixtures for M60 
+grade, spanning multiple curing periods. Mix designs enriched with higher lightweight expanded clay aggre­
+gate (LWECA) ratios, like M7, M8, and M12, exhibit notable improvements in flexural strengths at 7, 14, and 
+28 days. Nevertheless, it’s vital to recognize that mix selection is also influenced by aspects such as durability 
+and workability. In essence, the findings underscore LWECA’s positive influence on flexural strength within 
+self-consolidating concrete, emphasizing the necessity for a comprehensive assessment in practical applications. 
+Figure 8 visually depict the nuanced variations in flexural strength test results.
+4.3. Durability test
+4.3.1. Saturated water absorption
+The data highlights varying water absorption percentages across different mix designs and curing durations. 
+Conventional concrete (M1) showed a 2.31% water absorption at 28 days, decreasing to 1.99% at 90 days. 
+Generally, increased proportions of fine aggregate alternatives (FAA) or lightweight expanded clay aggregate 
+
+
+===== PAGE 10 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+Figure 9: Saturated water absorption.
+Figure 8: Flexural strength test results.
+(LWECA) led to reduced water absorption. Mix M6, comprising 50% FAA and 50% natural coarse aggregate 
+(NCA), exhibited a 2.51% water absorption at 28 days, decreasing to 2.17% at 90 days. The introduction of 
+LWECA also influenced water absorption. For example, mix M11, with 50% LWECA and 50% NCA, demon­
+strated a 2.53% water absorption at 28 days, decreasing to 2.18% at 90 days. The data underscores the significant 
+role of aggregate types and proportions in water absorption characteristics, contributing valuable insights for 
+mix design optimization tailored to specific project requirements. Figure 9 visually depict the nuanced variations 
+in saturated water absorption test results.
+4.3.2. Porosity
+The results exhibit variations in porosity among the mix designs and curing durations. Conventional concrete 
+(M1) displayed a porosity of 3.91% at 28 days, which decreased to 3.01% at 90 days. The introduction of fine 
+aggregate alternatives (FAA) or lightweight expanded clay aggregate (LWECA) generally led to a reduction in 
+porosity. For instance, mix M6, consisting of 50% FAA and 50% natural coarse aggregate (NCA), displayed 
+a porosity of 4.25% at 28 days, decreasing to 3.46% at 90 days. Furthermore, the incorporation of LWECA 
+influenced porosity. Mix M11, composed of 50% LWECA and 50% NCA, exhibited a porosity of 4.31% at 
+28 days, which decreased to 3.49% at 90 days. The data underscores the substantial impact of aggregate types 
+and proportions on porosity characteristics, offering insights for refining mix designs according to specific 
+­project requirements. Figure 10 visually depict the nuanced variations in porosity test results.
+
+
+===== PAGE 11 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+4.3.3. Acid resistance
+The findings reveal fluctuations in weight loss percentages across mix designs and curing durations. Conven­
+tional concrete (M1) showed a weight loss of 3.03% at 28 days, declining to 2.32% at 90 days. Introducing fine 
+aggregate alternatives (FAA) or lightweight expanded clay aggregate (LWECA) generally led to marginal vari­
+ations in weight loss. For example, mix M6, composed of 50% FAA and 50% natural coarse aggregate (NCA), 
+displayed a weight loss of 3.30% at 28 days, decreasing to 2.66% at 90 days. The data underscores how aggre­
+gate types and proportions influence weight loss characteristics. Figure 11 visually depict the nuanced variations 
+in % of loss of weight.
+4.3.4. Sorptivity test
+The findings reveal variations in sorptivity percentages across different mix designs and curing durations. Con­
+ventional concrete (M1) exhibited a sorptivity of 0.096 at 28 days, which decreased to 0.067 at 90 days. Incor­
+porating fine aggregate alternatives (FAA) or lightweight expanded clay aggregate (LWECA) generally led to 
+minor fluctuations in sorptivity. For instance, mix M6, composed of 50% FAA and 50% natural coarse aggregate 
+(NCA), demonstrated a sorptivity of 0.112 at 28 days, increasing to 0.092 at 90 days. The data underscores the 
+influence of aggregate types and proportions on sorptivity characteristics, providing insights for optimized mix 
+design considerations. Figure 12 visually depict the nuanced variations in sorptivity test results.
+Figure 11: Percetnage loss of weight.
+Figure 10: Potosity properties of the concrete.
+
+
+===== PAGE 12 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+4.3.5. Rapid chloride penetration test
+The findings illustrate variations in total charge periods attributed to distinct mix compositions. Standard con­
+crete (M1) exhibited total charge periods of 910 Coulombs at 28 days, diminishing to 748 Coulombs at 90 
+days. Formulations involving substitutions like fine aggregate alternatives (FAA) or lightweight expanded clay 
+aggregate (LWECA) displayed slight fluctuations in total charge periods. Remarkably, mixture M6, comprising 
+50% FAA and 50% natural coarse aggregate (NCA), presented a total charge period of 1005 Coulombs at 28 
+days, which reduced to 834 Coulombs at 90 days. The outcomes underscore the influence of aggregate types and 
+ratios on the overall charge characteristics of concrete blends. Figure 13 visually depict the nuanced variations 
+in RCPT test results.
+4.4. Microstructure analysis
+4.4.1. SEM
+The Scanning Electron Microscope (SEM) has proven to be an invaluable tool for the detailed analysis of con­
+crete structures, as evidenced by the compelling images presented in Figures 14 and 15. These images shed light 
+on the intricate microstructural differences between standard concrete, M12 mix, and SCC mixes. In the case 
+of standard concrete, Figure 14 reveals a somewhat disorganized particle distribution, accompanied by a higher 
+prevalence of pores. These pores exhibit a relatively larger diameter, spanning from 3 to 4.25 μm. This observa­
+tion suggests that standard concrete may be more susceptible to structural weaknesses due to its porous nature. 
+Figure 12: Sorptivity test of concrete.
+Figure 13: Rapid Chloride Penertion Test.
+
+
+===== PAGE 13 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+Figure 14: SEM image of standard concrete.
+Figure 15: SEM image of M12 mix.
+On the other hand, Figure 15 showcases SEM images of the M12 mix, where a notable improvement in the bond 
+between the cement matrix and aggregates is evident. However, not without its imperfections, the M12 mix still 
+exhibits the presence of pores and cracks within the cement matrix. Notably, these pores possess a smaller diam­
+eter, measuring between 0.95 and 2.5 μm, suggesting that the M12 mix may offer enhanced structural integrity 
+compared to standard concrete [40]. These findings underscore the critical role of SEM analysis in elucidating 
+the intricate characteristics of concrete mixes, aiding in their optimization and overall improvement.
+
+
+===== PAGE 14 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+5. CONCLUSION
+The conclusions drawn from this study are explained below:
+The introduction of Calotropics gigantia milk into SCC has improved the self-curing properties of the 
+concrete. Mix designs like M10, M11, and M16, characterized by higher LWECA content, exhibit noticeably 
+larger flow-ability in comparison to conventional concrete and mixes dominated by FAA content. Mix designs 
+enriched with higher lightweight expanded clay aggregate (LWECA) ratios, like M7, M8, and M12, exhibit 
+notable improvements in mechanical properties like compressive strength, split tensile strength and flexural 
+strengths at 7, 14, and 28 days. Conventional concrete (M1) showed a 2.31% water absorption at 28 days, 
+decreasing to 1.99% at 90 days. Mix M6, comprising 50% FAA and 50% natural coarse aggregate (NCA), 
+exhibited a 2.51% water absorption at 28 days, decreasing to 2.17% at 90 days. The introduction of LWECA 
+also influenced water absorption. The results exhibit variations in porosity among the mix designs and curing 
+durations. Conventional concrete (M1) displayed a porosity of 3.91% at 28 days, which decreased to 3.01% at 
+90 days. For instance, mix M6, consisting of 50% FAA and 50% natural coarse aggregate (NCA), displayed 
+a porosity of 4.25% at 28 days, decreasing to 3.46% at 90 days. The findings reveal fluctuations in weight 
+loss percentages across mix designs and curing durations. Conventional concrete (M1) showed a weight loss 
+of 3.03% at 28 days, declining to 2.32% at 90 days. The findings reveal variations in sorptivity percentages 
+across different mix designs and curing durations. Conventional concrete (M1) exhibited a sorptivity of 0.096 
+at 28 days, which decreased to 0.067 at 90 days. The findings reveal variations in sorptivity percentages across 
+different mix designs and curing durations. Conventional concrete (M1) exhibited a sorptivity of 0.096 at 
+28 days, which decreased to 0.067 at 90 days. The findings illustrate variations in total charge periods attributed 
+to distinct mix compositions. Standard concrete (M1) exhibited total charge periods of 910 Coulombs at 
+28 days, diminishing to 748 Coulombs at 90 days. Microstructural differences between standard concrete and 
+M12 mix. Standard concrete exhibits larger pores (3–4.25 μm), potentially impacting its structural integrity. 
+In contrast, M12 mix displays improved cement-aggregate bonding but still has smaller pores (0.95–2.5 μm), 
+suggesting enhanced structural integrity. SEM analysis is vital for optimizing concrete mixes. The mix M12 
+(10% of Flyash Aggregate + 10% of Lightweight Expanded Clay Aggregates + 80% Natural Coarse Aggregate 
++ 4% Calcotropis Gigantea + 2% Superplasticizer) is more superior compared to all the mix in the form of fresh 
+concrete properties, mechanical properties and durability properties of concrete.
+6. BIBLIOGRAPHY
+[1]	
+LIU, C., CUI, J., ZHANG, Z., et al., “The role of TBM asymmetric tail-grouting on surface settlement in 
+coarse-grained soils of urban area: Field tests and FEA modelling”, Tunnelling and Underground Space 
+Technology, v. 111, pp. 103857, 2021. doi: http://dx.doi.org/10.1016/j.tust.2021.103857. 
+[2]	
+HE, H., E, S., WEN, T., et al., “Employing novel N-doped graphene quantum dots to improve chloride 
+binding of cement”, Construction & Building Materials, v. 401, pp. 132944, 2023. doi: http://dx.doi.
+org/10.1016/j.conbuildmat.2023.132944.
+[3]	
+HE, H., SHI, J., YU, S., et al., “Exploring green and efficient zero-dimensional carbon-based inhibitors for 
+carbon steel: from performance to mechanism”, Construction & Building Materials, v. 411, pp. 134334, 
+2024. doi: http://dx.doi.org/10.1016/j.conbuildmat.2023.134334.
+[4]	
+WANG, M., YANG, X., WANG, W., “Establishing a 3D aggregates database from X-ray CT scans of bulk 
+concrete”, Construction & Building Materials, v. 315, pp. 125740, 2022. doi: http://dx.doi.org/10.1016/j.
+conbuildmat.2021.125740.
+[5]	
+TANG, Y., WANG, Y., WU, D., et al., “Exploring temperature-resilient recycled aggregate concrete with 
+waste rubber: an experimental and multi-objective optimization analysis”, Reviews on Advanced Materials 
+Science, v. 62, n. 1, pp. 20230347, 2023. doi: http://dx.doi.org/10.1515/rams-2023-0347.
+[6]	
+ZHANG, J., ZHANG, C., “Using viscoelastic materials to mitigate earthquake-induced pounding 
+between adjacent frames with unequal height considering soil-structure interactions”, Soil Dynamics and 
+Earthquake Engineering, v. 172, pp. 107988, 2023. doi: http://dx.doi.org/10.1016/j.soildyn.2023.107988.
+[7]	
+LIN, J., CHEN, G., PAN, H., et al., “Analysis of stress-strain behavior in engineered geopolymer composites 
+reinforced with hybrid PE-PP fibers: a focus on cracking characteristics”, Composite Structures, v. 323, 
+pp. 117437, 2023. doi: http://dx.doi.org/10.1016/j.compstruct.2023.117437.
+[8]	
+DADSETAN, S., BAI, J., “Mechanical and microstructural properties of self-compacting concrete blended 
+with metakaolin, ground granulated blast-furnace slag and fly ash”, Construction & Building Materials, 
+v. 146, pp. 658–667, 2017. doi: http://dx.doi.org/10.1016/j.conbuildmat.2017.04.158.
+
+
+===== PAGE 15 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+[9]	
+KARMEGAM, A., KALIDASS, A., “Reusing granite sawing waste in self‐compacting concrete with 
+polypropylene fiber at low‐volume fractions”, Structural Concrete, v. 20, n. 2, pp. 766–773, 2019. doi: 
+http://dx.doi.org/10.1002/suco.201800155.
+[10]	 ARULSIVANANTHAM, P., GOKULAN, R., “A review on self-compacting concrete”, International 
+Journal of Chemtech Research, v. 10, pp. 62–68, 2018.
+[11]	 GUNEYISI, E., GESOGLU, M., FAHMI, M., et al., “Mechanical and fracture properties of carbon 
+fiber reinforced self-compacting concrete composites”, In: 10th International Conference on Composite 
+Science and Technology, Lisboa, Portugal, 2015.
+[12]	 PANG, B., ZHENG, H., JIN, Z., et al., “Inner superhydrophobic materials based on waste fly ash: 
+microstructural morphology of microetching effects”, Composites. Part B, Engineering, v. 268, 
+pp. 111089, 2024. doi: http://dx.doi.org/10.1016/j.compositesb.2023.111089.
+[13]	 HUANG, H., HUANG, M., ZHANG, W., et al., “Progressive collapse resistance of multistory RC frame 
+strengthened with HPFL-BSP”, Journal of Building Engineering, v. 43, pp. 103123, 2021. doi: http://
+dx.doi.org/10.1016/j.jobe.2021.103123.
+[14]	 HUANG, H., GUO, M., ZHANG, W., et al., “Numerical investigation on the bearing capacity of RC 
+columns strengthened by HPFL-BSP under combined loadings”, Journal of Building Engineering, v. 39, 
+pp. 102266, 2021. doi: http://dx.doi.org/10.1016/j.jobe.2021.102266.
+[15]	 GUO, M., HUANG, H., ZHANG, W., et al., “Assessment of RC frame capacity subjected to a loss of 
+corner column”, Journal of Structural Engineering, v. 148, n. 9, pp. 04022122, 2022. doi: http://dx.doi.
+org/10.1061/(ASCE)ST.1943-541X.0003423.
+[16]	 ZHANG, W., KANG, S., LIN, B., et al., “Mixed-mode debonding in CFRP-to-steel fiber-reinforced con­
+crete joints”, Journal of Composites for Construction, v. 28, n. 1, pp. 04023069, 2024. doi: http://dx.doi.
+org/10.1061/JCCOF2.CCENG-4337.
+[17]	 ZHOU, C., WANG, J., SHAO, X., et al., “The feasibility of using ultra-high performance concrete (UHPC) 
+to strengthen RC beams in torsion”, Journal of Materials Research and Technology, v. 24, pp. 9961–9983, 
+2023. doi: http://dx.doi.org/10.1016/j.jmrt.2023.05.185.
+[18]	 YAO, X., LYU, X., SUN, J., et al., “AI-based performance prediction for 3D-printed concrete considering 
+anisotropy and steam curing condition”, Construction & Building Materials, v. 375, pp. 130898, 2023. 
+doi: http://dx.doi.org/10.1016/j.conbuildmat.2023.130898.
+ [19]	 DJONO, L., KAROLINA, R., The effect of admixture Type F and silica fume on high early strength 
+self-compacting concrete, Indonesia, ACEIVE, 2018. 
+[20]	 CARBALLOSA, P., GARCÍA CALVO, J.L., REVUELTA, D., et al., “Influence of cement and expansive 
+additive types in the performance of self-stressing and self-compacting concretes for structural elements”, 
+Construction & Building Materials, v. 93, pp. 223–229, 2015. doi: http://dx.doi.org/10.1016/j.conbuild­
+mat.2015.05.113.
+[21]	 VENKATESWARLU, K., DEO, S.V., MURMU, M., “Overview of effects of internal curing agents on 
+low water to binder concretes”, Materials Today: Proceedings, v. 32, pp. 752–759, 2020. doi: http://dx.
+doi.org/10.1016/j.matpr.2020.03.479.
+[22]	 PAUL, A.M., GEORGE, E.H., “Self-compacting self- curing concrete: a review”, International Research 
+Journal of Engineering And Technology, v. 5, n. 11, pp. 617–620, 2018.
+[23]	 KAMAL, M.M., SAFANA, M.A., BASHANDYA, A.A., et al., “Experimental investigation on the 
+behavior of normal strength and high strength self-curing self-compacting concrete”, Journal of Building 
+Engineering, v. 16, pp. 79-93, 2018. doi: http://dx.doi.org/10.1016/j.jobe.2017.12.012.
+[24]	 AHMAD, S., AHMAD, M., “Effect of fly ash on the workability and mechanical properties of self-
+compacting concrete”, Construction & Building Materials, v. 133, pp. 223–229, 2017.
+[25]	 SENSALE, G.R., CAPPELLETTI, G., “Sustainability of self-compacting concrete with fly ash: from an 
+eco-compatibility assessment to potential market penetration”, Journal of Cleaner Production, v. 201, 
+pp. 294–309, 2018.
+[26]	 SONEBI, M., SUBHANI, M., “Rheological properties of self-compacting concrete containing fly ash”, 
+Cement and Concrete Composites, v. 72, pp. 139–152, 2016.
+[27]	 LIU, S., WU, Z., WANG, D., et al., “Effects of nano-silica and fly ash on the properties of self-compacting 
+concrete”, Construction & Building Materials, v. 237, pp. 117588, 2020.
+
+
+===== PAGE 16 =====
+
+KADHAR, S.A.; GOPAL, E.; SIVAKUMAR, V., et al., revista Matéria, v.29, n.1, 2024
+[28]	 SRINIVAS PRABHU, R., ANURADHA, R., VIVEK, S., “Experimental research on triple blended 
+self-concrete geo polymer concrete”, Asian Journal of Engineering and Applied Technology, v. 5, n. 2, 
+pp. 15–21, 2016. http://dx.doi.org/10.51983/ajeat-2016.5.2.804.
+[29]	 NAVEEN ARASU, A., NATARAJAN, M., BALASUNDARAM, N., et al., “Optimization of high 
+performance concrete composites b using nano materials”, Research on Engineering Structures and 
+Materials, 2023.
+[30]	 LIU, K., SHUI, Z., SUN, T., et al., “Effects of combined expansive agents and supplementary cementitious 
+materials on the mechanical properties, shrinkage and chloride penetration of self-compacting concrete”, 
+Construction & Building Materials, v. 211, pp. 120–129, 2019. doi: http://dx.doi.org/10.1016/j.
+conbuildmat.2019.03.143.
+[31]	 SHEN, P., LU, L., HE, Y., et al., “Investigation on expansion effect of the expansive agents in ultra-high 
+performance concrete”, Cement and Concrete Composites, v. 105, pp. 103425, 2020. doi: http://dx.doi.
+org/10.1016/j.cemconcomp.2019.103425.
+[32]	 NAVEEN ARASU, N., NATARAJAN, M., BALASUNDARAM, N., et al., “Utilizing recycled 
+nanomaterials as a partial replacement for cement to create high performance concrete”, Global NEST 
+Journal, v. 6, n. 25, pp. 89–92, 2023.
+[33]	 AKSHANA, V., NAVEEN ARASU, A., KARTHIGAISELVI, P., “Experimental study on concrete by 
+partial replacement cement with silica fume”, Journal of Critical Reviews, v. 7, n. 17, pp. 3801–3805, 
+2020.
+[34]	 GANAPATHY, G.P., ALAGU, A., RAMACHANDRAN, S., et al., “Effects of fly ash and silica fume 
+on alkalinity, strength and planting characteristics of vegetation porous concrete”, Journal of Materials 
+Research and Technology, v. 24, n. May-June, pp. 5347–5360, 2023. doi: http://dx.doi.org/10.1016/j.
+jmrt.2023.04.029.
+[35]	 NAVEEN ARASU, A., VIVEK, S., ROBINSON, J., et al., “Experimental analysis of waste foundry sand 
+in partial replacement of fine aggregate in concrete”, International Journal of Chemtech Research, v. 10, 
+pp. 605–622, 2017.
+[36]	 WANG, Z., WANG, Q., JIA, C., et al., “Thermal evolution of chemical structure and mechanism of oil 
+sands bitumen”, Energy, v. 244, pp. 123190, 2022. doi: http://dx.doi.org/10.1016/j.energy.2022.123190.
+[37]	 YU, J., ZHU, Y., YAO, W., et al., “Stress relaxation behaviour of marble under cyclic weak disturbance 
+and confining pressures”, Measurement, v. 182, pp. 109777, 2021. doi: http://dx.doi.org/10.1016/j.
+measurement.2021.109777.
+[38]	 REN, C., YU, J., LIU, S., et al., “A plastic strain-induced damage model of porous rock suitable for dif­
+ferent stress paths”, Rock Mechanics and Rock Engineering, v. 55, n. 4, pp. 1887–1906, 2022. doi: http://
+dx.doi.org/10.1007/s00603-022-02775-1.
+[39]	 ZHANG, X., ZHOU, G., LIU, X., et al., “Experimental and numerical analysis of seismic behaviour 
+for recycled aggregate concrete filled circular steel tube frames”, Computers and Concrete, v. 31, n. 6, 
+pp. 537–543, 2023. doi: http://dx.doi.org/10.12989/cac.2023.31.6.537.
+[40]	 ZHANG, X., LIU, X., ZHANG, S., et al., “Analysis on displacement-based seismic design method of 
+recycled aggregate concrete-filled square steel tube frame structures”, Structural Concrete, v. 24, n. 3, 
+pp. 3461–3475, 2023. doi: http://dx.doi.org/10.1002/suco.202200720.

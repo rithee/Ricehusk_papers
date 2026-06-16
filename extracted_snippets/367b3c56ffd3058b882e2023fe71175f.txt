@@ -1,0 +1,45 @@
+Table 1: Different Tests Conducted on Self Compacted Concrete Filling Ability Tests Passing Ability Tests Segregation Resistance Tests Slump flow test L-Box Test V- funnel test at T5 minutes T50cm Slump Flow J- ring test GTM screen stability Tests Orimet U- Box Test - V-funnel Test Fill – Box Test - Source: EFNARC, 2005 Rice milling industry generates a lot of rice husk during milling of paddy which comes from the fields. This rice husk is mostly used as a fuel in the boilers for processing of paddy. Rice husk is also used as a fuel for power generation. Rice husk ash (RHA) remains about 25% by weight of rice husk when burnt in boilers. It is estimated that about 70 million tons of RHA is produced annually worldwide. Rice Husk is pozzolanic materials having physical and chemical properties and this study was limited to assess those properties. This RHA is a great environment threat causing damage to the land and the surrounding area in which it is dumped. The rice husk itself has a very rough surface which is abrasive in nature. These are hence resistant to natural degradation. This would result in improper disposal problems. So, a way to use these by-products to make a new product is the best sustainable idea. Among all industries to reuse this product, cement, and concrete manufacturing industries are the ones who can use rice husk in a better way[2]. 2. MATERIAL AND METHODS Self-compacting concrete (SCC) is an innovative concrete that assumes it can hold sufficient workability without any vibration. It is able to flow under its own weight, completely filling formwork and achieving full compaction, even in the presence of congested reinforcement. The hardened concrete is dense, homogeneous and has the same engineering properties and durability as traditional vibrated 
+
+---SEGMENT---
+
+Table 2: Selection of Source for Sample Collection of Ingredients Materials S.N. Material Type of Ingredients Location 1 Cement Shivam OPC NS Standard Pokhara 2 Sand Fine Aggregate Seti River Ramghat, Kaski 3 Coarse Aggregate Crusher Run materials Kotre , Kaski 4 Water Boring Water Pokhara, Kaski A. Methods and Laboratory Procedures for Mix Design of Concrete The concrete mix was designed to produce the required grade of concrete having the designated workability, characteristic and compressive strength. Mix design were carried out for the concrete grade M20 as per IS 10262:2009 and IS 456:2000. This mix design principles result that concrete compared to traditional vibrated concrete, normally contains lower coarse aggregate content, increased paste content, low water/powder ratio, increased superplasticizer and sometimes a viscosity modifying admixture.
+
+---SEGMENT---
+
+Table 3: Trails Mix Proportion for Assessing Fresh Properties of Concrete per 0.014m3(in Kg) Trial W/C Water Cement Aggregate Fine Coarse of 16mm Coarse of 10mm Superplasticizer Set A TRA1 0.41 2.25 5.47 13.61 13.61 - 0.055 TRA2 0.43 2.35 5.47 13.61 13.61 - 0.055 TRA3 0.45 2.45 5.47 13.61 13.61 - 0.055 TRA4 0.47 2.55 5.47 13.61 13.61 - 0.055 TRA5 0.48 2.65 5.47 13.61 13.61 - 0.055 TRA6 0.50 2.75 5.47 13.61 13.61 - 0.055 TRA7 0.52 2.85 5.47 13.61 13.61 - 0.055 Set B TRB1 0.54 2.95 5.47 16.33 8.17 2.72 0.055 TRB2 0.56 3.05 5.47 16.33 8.17 2.72 0.055 TRB3 0.58 3.15 5.47 16.33 8.17 2.72 0.055 TRB4 0.59 3.25 5.47 16.33 8.17 2.72 0.055 TRB5 0.61 3.35 5.47 16.33 8.17 2.72 0.055 Set C TRC1 0.50 3 6.01 16.33 10.88 - 0.060 TRC2 0.52 3.1 6.01 16.33 10.88 - 0.060 TRC3 0.53 3.2 6.01 16.33 10.88 - 0.060 TRC4 0.55 3.3 6.01 16.33 10.88 - 0.060 TRC5 0.57 3.4 6.01 16.33 10.88 - 0.060 The trail mix design was based on the evaluation of the water demand and optimization of the flow and stability of the paste, determination of the proportion of sand, coarse agregates and the doses of admixture to give the required robustness, test for the sensitivity for small variations in quantities, addition of an appropriate amount of coarse aggregate, production of the fresh SCC in the laboratory mixer, perform the required tests and the compressive strength of the SCC in the hardened state was calculated recording breaking load of concrete cubes. B. Filling Ability Test Figure 1: Slump Flow Apparatus (All Dimensions are in mm) International Journal of Engineering Research & Technology (IJERT) ISSN: 2278-0181 http://www.ijert.org IJERTV9IS070576 (This work is licensed under a Creative Commons Attribution 4.0 International License.) Published by : www.ijert.org Vol. 9 Issue 07, July-2020 1404 The cone a
+
+---SEGMENT---
+
+Table 4. Table 4: Sieve Analysis of Coarse Aggregate Source: Lab test, 2020 Table 4 indicates gradation are within the specified range, hence aggregates are suitable for the concrete production. b) Gradation of Fine Aggregate Gradation, sieve analysis is used to assess the particle size distribution of a granular material by allowing the material to pass through a series of sieves. The gradation of sampled fine aggregate is presented in Table 5. Sieve Size Percentage Passing (%) Specification of DOR 16 mm 100 90-100%
+
+---SEGMENT---
+
+Table 4: Sieve Analysis of Coarse Aggregate Source: Lab test, 2020 Table 4 indicates gradation are within the specified range, hence aggregates are suitable for the concrete production. b) Gradation of Fine Aggregate Gradation, sieve analysis is used to assess the particle size distribution of a granular material by allowing the material to pass through a series of sieves. The gradation of sampled fine aggregate is presented in Table 5. Sieve Size Percentage Passing (%) Specification of DOR 16 mm 100 90-100%
+
+---SEGMENT---
+
+Table 4 indicates gradation are within the specified range, hence aggregates are suitable for the concrete production. b) Gradation of Fine Aggregate Gradation, sieve analysis is used to assess the particle size distribution of a granular material by allowing the material to pass through a series of sieves. The gradation of sampled fine aggregate is presented in Table 5. Sieve Size Percentage Passing (%) Specification of DOR 16 mm 100 90-100%
+
+---SEGMENT---
+
+Table 5: Sieve Analysis of Fine Aggregate Source. Sieve Size Percentage Passing (%) Specification 10 mm 100.00 100% 4.75 mm 97.33 95-100% 2.36 mm 95.63 95-100% 1.18 mm 90.29 90-100% 0.6 mm 88.24 80-100%
+
+---SEGMENT---
+
+Table 5 reveals that gradation are within the specified range of Zone IV grading limits for fine aggregates (IS: 383-1970). c) Specific Gravity and Water Absorption The result of Specific Gravity are presented in Table 6. Specific gravity was found within the standard range (>2.5) as per Standard Specification for Road and Bridge Works-2073 of DoR, Nepal.
+
+---SEGMENT---
+
+Table 6. Specific gravity was found within the standard range (>2.5) as per Standard Specification for Road and Bridge Works-2073 of DoR, Nepal. Table 6: Specific Gravity of Coarse Aggregate Source Specific Gravity DOR Specification Kotre Source 2.69 >2.5 Source: Lab test,2020 The obtained result of water absorption is presented in Table 7. Water absorption of coarse aggregate was comprised within the standard range (< 2%) as per Standard Specification for Road and Bridge Works- 2073 of DoR, Nepal.
+
+---SEGMENT---
+
+Table 6: Specific Gravity of Coarse Aggregate Source Specific Gravity DOR Specification Kotre Source 2.69 >2.5 Source: Lab test,2020 The obtained result of water absorption is presented in Table 7. Water absorption of coarse aggregate was comprised within the standard range (< 2%) as per Standard Specification for Road and Bridge Works- 2073 of DoR, Nepal.
+
+---SEGMENT---
+
+Table 7. Water absorption of coarse aggregate was comprised within the standard range (< 2%) as per Standard Specification for Road and Bridge Works- 2073 of DoR, Nepal. Table 7: Water Absorption of Coarse Aggregate Source Water Absorption DOR Specification Kotre Source 0.35% <2% Source: Lab test, 2020 B. Flow Properties of Self Compacting Concrete The obtained results of various trails and respective flow properties are presented in Table 8.
+
+---SEGMENT---
+
+Table 7: Water Absorption of Coarse Aggregate Source Water Absorption DOR Specification Kotre Source 0.35% <2% Source: Lab test, 2020 B. Flow Properties of Self Compacting Concrete The obtained results of various trails and respective flow properties are presented in Table 8.

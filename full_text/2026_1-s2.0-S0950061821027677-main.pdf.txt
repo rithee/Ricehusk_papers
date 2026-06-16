@@ -1,0 +1,2724 @@
+
+===== PAGE 1 =====
+
+Construction and Building Materials 308 (2021) 125021
+Available online 29 September 2021
+0950-0618/©
+2021
+The
+Author(s).
+Published
+by
+Elsevier
+Ltd.
+This
+is
+an
+open
+access
+article
+under
+the
+CC
+BY-NC-ND
+license
+(http://creativecommons.org/licenses/by-nc-nd/4.0/).
+Predicting the compressive strength of concrete with fly ash admixture 
+using machine learning algorithms 
+Hongwei Song a, Ayaz Ahmad b,c,*, Furqan Farooq b,c, Krzysztof Adam Ostrowski c,*, 
+Mariusz Ma´slak c, Slawomir Czarnecki d,*, Fahid Aslam e 
+a College of Civil Engineering, Dalian Minzu University, Dalian 116600, China 
+b Department of Civil Engineering, COMSATS University Islamabad, Abbottabad Campus 22060, Pakistan 
+c Faculty of Civil Engineering, Cracow University of Technology, 24 Warszawska Str. 31-155 Cracow, Poland 
+d Department of Building Engineering, Wroclaw Univeristy of Science and Technology, Wroclaw 50-370, Poland 
+e Department of Civil Engineering, College of Engineering in Al-Kharj, Prince Sattam bin Abdulaziz University, Al-Kharj 11942, Saudi Arabia   
+A R T I C L E  I N F O   
+Keywords: 
+Individual algorithms 
+Concrete 
+Compressive strength 
+Fly ash 
+Predictions 
+Gene expression programming 
+Decision tree 
+Artificial neural network 
+Bagging regressor 
+A B S T R A C T   
+The cementitious composites have different properties in the changing environment. Thus, knowing their me­
+chanical properties is very important for safety reasons. The most important in the case of concrete is the 
+Compressive strength (CS). To predict the CS of concrete Machine learning (ML) approaches has been essential. 
+This study includes the collection of data from the experimental work and the application of ML techniques to 
+predict the CS of concrete containing fly ash. The chemical and physical properties of all the materials used in 
+this study were evaluated. Although, the emphasis of this research is on the use of supervised machine learning 
+algorithms to forecast the CS of concrete. The Gene expression programming (GEP), Artificial neural network 
+(ANN), and Decision tree (DT) algorithms were investigated for the prediction of outcome (CS). Concrete samples 
+(cylinders) with different mix ratios were cast and tested at various ages to maintain the required data for 
+applying it to run the models. Total 98 data points were collected from the experimental approach, in which 
+seven parameters namely cement, fly ash, superplasticizer, coarse aggregate, fine aggregate, water, and days 
+were taken as input to predict the output which was CS parameter. The experimental data is further validated by 
+mean of k-fold cross-validation using R2, root mean error (RME), and Root mean square error (RMSE). In 
+addition, statistical checks were incorporated to evaluate the model performance. In comparison, the bagging 
+algorithm shows high accuracy towards the prediction of outcome as indicated by its high coefficient correlation 
+(R2) value equals to 0.95, while R2 value for GEP, ANN and DT comes to 0.86, 0.81 and 0.75 respectively.   
+1. Introduction 
+Cement industries are one of the biggest carbon dioxide (CO2) 
+emission producers around the world. Hence have a magnificent effect 
+on the environmental conditions [1]. The production of greenhouse 
+gases (GHG) is mainly due to the production and utilization of cement in 
+construction projects every year all around the world [2]. Moreover, 
+cement production is around four billion tons yearly and about one ton 
+of cement emits the same amount of CO2 gases [3]. Production of 
+Portland cement (PC) results in seven percent of all CO2 emissions to the 
+atmosphere. The Calcination of calcium oxide (CaO) plays a vital role in 
+the production of CO2 during the manufacturing of PC [4,5]. To 
+minimize this effect use of waste or recycled material in concrete pro­
+duction is recommended [5]. It will be not only suitable for the 
+requirement of concrete but also minimalize the degradation of the 
+natural environment [6]. PC can be replaced by various supplementary 
+materials obtained as wastes from the industrial processes (e.g. ground 
+granulated blast furnace slag (GGBS) [7], granite powder [8], and fly ash 
+[9]). Using these supplementary raw materials will not only improve the 
+properties of hardened concrete but also reduce the carbon footprint. It 
+has been observed that the use of GGBS, granite powder and fly ash in 
+the replacement of PC within concrete can minimize 80% of GHG 
+emission [10]. Such waste materials are normally stored in heaps, which 
+also affects the environment. The application of these waste materials as 
+a partial replacement of cement is also beneficial from this point in the 
+* Corresponding authors. 
+E-mail addresses: shwdut2000@163.com (H. Song), ayazahmad@cuiatd.edu.pk (A. Ahmad), furqan@cuiatd.edu.pk (F. Farooq), krzysztof.ostrowski.1@pk.edu.pl 
+(K.A. Ostrowski), mmaslak@pk.edu.pl (M. Ma´slak), slawomir.czarnecki@pwr.edu.pl (S. Czarnecki), f.aslam@psau.edu.sa (F. Aslam).  
+Contents lists available at ScienceDirect 
+Construction and Building Materials 
+journal homepage: www.elsevier.com/locate/conbuildmat 
+https://doi.org/10.1016/j.conbuildmat.2021.125021 
+Received 31 May 2021; Received in revised form 13 August 2021; Accepted 21 September 2021   
+
+
+===== PAGE 2 =====
+
+Construction and Building Materials 308 (2021) 125021
+2
+construction industry [11]. 
+The importance of concrete material can be judged by its usage all 
+over the world every year, as it is the second-most utilizing material 
+after water on the earth [12]. Concrete is used as a building material all 
+over the globe because of its benefits by various properties like strength, 
+durability, stiffness, hardness, porosity, density, fire resistance, and 
+thermal resistance. Among these, the compressive strength is thought to 
+be the most important as it strongly affects the concrete element’s safety 
+and durability [13]. The reason for the different values of the 
+compressive strength of concrete is the fact, that concrete is a hetero­
+geneous material made up of a binder, aggregate, water, and admixtures 
+[14]. All these ingredients and their mixtures affect the compressive 
+loading capacity of concrete, including water to binder ratio, size of 
+aggregate, type of binder, or composition of waste [15]. It is difficult to 
+find or predict the compressive strength of concrete accurately in such a 
+complicated mixture. The compressive strength of concrete can be 
+evaluated in the laboratory during the tests by crushing the cylinders or 
+cubes of standard dimension for a required time after the casting of the 
+sample [16]. This method is standardized all over the world. However, 
+the laboratory tests are ought to be nowadays inefficient and uneco­
+nomical as it is costly and time-consuming. Recently, with the evolution 
+of Artificial intelligence (AI), Machine learning algorithms (ML) are used 
+to predict many mechanical properties in concrete [17]. ML techniques 
+like regression, clustering, and classification can be used to estimate the 
+various other parameters with different efficiency and help in fore­
+casting the compressive strength with accurate precision [18-23]. 
+2. Machine learning overview 
+Artificial intelligence (AI) is further classified into ML with the su­
+preme focus on the development of predictive algorithms. This is due to 
+the unbiased identification of various patterns having large datasets 
+without being a direct arrangement for a given task. This area of arti­
+ficial intelligence allows computers to execute those complicated and 
+complex tasks which were nuanced for the machines. These algorithms 
+came up with the ability to learn the patterns from the data rather than 
+by straightforward programming by humans. The idea of these algo­
+rithms is generally based on the training, which enables the computer to 
+learn the properties/features that preferably constitute the data set for 
+the given problem and then interpreting this information to produce 
+explanations of more available datasets. For example, if the selected 
+algorithm is trained to transform a benign from a spiteful lesion on 
+imaging and can be applied to other image data and categorize lesions as 
+either benign or malignant, depending on previously “learned” criteria. 
+Fig. 1 shows the hierarchy and subfields of artificial intelligence. Based 
+on the piece of work, ML models can be broadly categorized as follow: 
+Notations 
+AI 
+Artificial Intelligence 
+ANN 
+Artificial neural network 
+GEP 
+Genetic engineering programming 
+HPC 
+High performance concrete 
+MSE 
+Mean square error 
+DL 
+Deep learning 
+FA 
+Fly ash 
+SVM 
+Support vector machine 
+GB 
+Gradient boosting 
+RHA 
+Rice husk ash 
+SF 
+Silica fume 
+RF 
+Random forest 
+ML 
+Machine learning 
+GGBS 
+Ground granulated blast furnace slag 
+DT 
+Decision tree 
+MAE 
+Mean absolute error 
+RMSE 
+Root mean square error 
+SCC 
+Self-compacting concrete 
+POFA 
+Palm oil fuel ash 
+IREMSVM-FR Intelligent rule-based enhanced multiclass support 
+vector machine 
+ANFIS 
+Adaptive Neuro Fuzzy Inference System 
+RMS 
+Response surface method 
+RKSA 
+Random Kitchen Sink Algorithm 
+MOGW 
+multi-objective grey wolves  
+Machine Learning
+Data Mining
+Experts Systems
+Robotics
+Deep Learning
+Decision Tree
+Clustering
+Genetic Algorithms
+Capsule Networks
+Convolutional Neural 
+Network
+Recurrent Neural 
+Network
+Fig. 1. Indicating the hierarchy and subfields of the artificial intelligence.  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 3 =====
+
+Construction and Building Materials 308 (2021) 125021
+3
+2.1. A. Supervised learning 
+In the supervised learning-based tasks, the presentation of the model 
+is with the labeled dataset, which is also called a feature vector, which 
+means that the datasets having examples of observations along with 
+their expected outcomes. These models are enabled to produce an 
+inferred function which maps the features vectors for the output labels. 
+The commonly used and popular supervised machine learning tech­
+niques are decision tree, support vector machine, AdaBoost, bagging, 
+boosting, artificial neural network, gene expression programming. 
+2.2. B. Unsupervised learning 
+In the case of unsupervised learning, the given datasets have very 
+limited or sometimes with zero levels of information for the output la­
+bels. Instead, the aim of these models is to obtain the relationship among 
+the observations and/or reveal the inactive parameters. Some examples 
+of unsupervised learning-based approaches are k-means, Self- 
+Organizing Maps, and Generalized Adversarial Networks (GANs). 
+3. Machine learning techniques with literature review 
+Machine learning techniques such as Artificial neural networks 
+(ANN), Decision trees (DT), Support vector machines (SVM), Genetic 
+engineering programming (GEP), and Deep learning (DL) are now 
+widely used to predict different scientific problems [24]. To overcome 
+the shortening of these techniques the design of SVM is such a way that 
+can deal in a better way with the nonlinear regression problems [25]. It 
+has a well-generalized ability and can achieve a better global optimal 
+solution instead of a local optimum. While the Decision tree (DT) and 
+Random forest (RF) behaves like tree structure uses roots and nodes for 
+prediction the results [26]. DT uses a complete database with the vari­
+able of its interest whereas the selection of RF is random for features 
+variables within the parameters that generate the number of trees in 
+prediction. Prediction is then averaged and connected with maximum 
+voters shows an accurate prediction. GEP is one of the latest ML 
+computer-based programs via mimicking the Darwinian evolution pro­
+cess [27]. It expresses the non-linear relationship as an expression type 
+tree. Machine learning (ML) approaches are normally used to extract 
+unknown patterns, data information, and relationship from a large 
+database. Although, this process uses the technology of database along 
+with machine learning as well as statistical analysis. There are two 
+techniques used for modeling and prediction. One of them is a standard 
+approach situated on a single separate model, and another is known as 
+the ensemble algorithm approach [28]. As per the previous research on 
+these algorithms, ensemble techniques presents to be more accurate in 
+Table 1 
+The ML algorithms for different mechanical properties prediction.  
+Sr. 
+No 
+Algorithm name 
+Notation 
+Dataset 
+Prediction properties 
+Year 
+Waste material 
+used 
+References 
+1. 
+Individual and ensemble algorithm 
+GEP, DT and Bagging 
+270 
+Compressive Strength 
+2021 
+FA 
+[21] 
+2. 
+Individual with ensemble modeling 
+ANN, bagging and 
+boosting 
+1030 
+Compressive strength 
+2021 
+FA 
+[22] 
+3. 
+Individual Algorithms 
+ANN, GEP, DT 
+642 
+Chloride Concentration 
+2021 
+FA 
+[18] 
+4. 
+Data Envelopment Analysis 
+DEA 
+114 
+Compressive strength 
+Slump test 
+L-box test 
+V-funnel test 
+2021 
+FA 
+[42] 
+5. 
+Multivariate 
+MV 
+21 
+Compressive strength 
+2020 
+Crumb rubber 
+with SF 
+[43] 
+6. 
+Support vector machine 
+SVM 
+– 
+Compressive strength 
+2020 
+FA 
+[44] 
+7. 
+Support vector machine 
+SVM 
+115 
+Slump test 
+L-box test 
+V-funnel test 
+Compressive strength 
+2020 
+FA 
+[45] 
+8. 
+Adaptive neuro fuzzy inference system 
+ANFIS with ANN 
+7 
+Compressive strength 
+2020 
+POFA 
+[46] 
+9. 
+Gene expression programming 
+GEP 
+277 
+Axial capacity 
+2020 
+– 
+[20] 
+10. 
+Gene expression programming 
+GEP 
+357 
+Compressive strength 
+2020 
+– 
+[47] 
+11. 
+Random forest and gene expression programming 
+RF and GEP 
+357 
+Compressive strength 
+2020 
+– 
+[48] 
+12. 
+Artificial neuron network 
+ANN 
+205 
+Compressive strength 
+2019 
+FA 
+GGBFS 
+SF 
+RHA 
+[49] 
+13. 
+Intelligent rule-based enhanced multiclass support vector 
+machine and fuzzy rules 
+IREMSVM-FR with 
+RSM 
+114 
+Compressive strength 
+2019 
+FA 
+[50] 
+14. 
+Random forest 
+RF 
+131 
+Compressive strength 
+2019 
+FA 
+GGBFS 
+FA 
+[51] 
+15. 
+Multivariate adaptive regression spline 
+M5 
+MARS 
+114 
+Compressive strength 
+Slump test 
+L-box test  
+2018 
+FA 
+[52] 
+16. 
+Random Kitchen Sink Algorithm 
+RKSA 
+40 
+V-funnel test 
+J-ring test 
+Slump test 
+Compressive strength 
+2018 
+FA 
+[53] 
+17. 
+Adaptive neuro fuzzy inference system 
+ANFIS 
+55 
+Compressive strength 
+2018 
+– 
+[54] 
+18. 
+Artificial neuron network 
+ANN 
+114 
+Compressive strength 
+2017 
+FA 
+[55] 
+19. 
+Artificial neuron network 
+ANN 
+69 
+Compressive strength 
+2017 
+FA 
+[56] 
+20. 
+Artificial neuron network 
+ANN 
+169 
+Compressive strength 
+2016 
+FA GGBFS 
+FA 
+RHA 
+[57] 
+21. 
+Artificial neuron network 
+ANN 
+80 
+Compressive strength 
+2011 
+FA 
+[58] 
+22. 
+Artificial neuron network 
+ANN 
+300 
+Compressive strength 
+2009 
+FA 
+[59]  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 4 =====
+
+Construction and Building Materials 308 (2021) 125021
+4
+comparison with the standard individual ML models [29]. Ensemble 
+learning models use to train so-called weak learners initially using 
+training data, then integrate the weak learner into a strong one [30]. 
+Machine learning algorithms are used to predict the performance of 
+various parameters for so many years. However, the trend of their use in 
+civil engineering increases significantly in the last few years. It is due to 
+their high accuracy level of mechanical properties prediction as pre­
+sented in Table 1. ML working principle is similar to the conventional 
+algorithms but because nonlinear behavior is more accurate as 
+compared to linear behavior. Artificial neural networks (ANN), Decision 
+trees (DT), Support vector machines (SVM), Random forest (RF), Gene 
+expression programming (GEP), Deep learning (DL) are commonly used 
+for the analysis of concrete mechanical properties [31]. Jesika et al. [32] 
+used eleven algorithms for the shear strength prediction of the steel fi­
+bers reinforced concrete beams. Behnood et al. [33] used ANN with 
+optimizer as multi-objective grey wolves (MOGW) to predict the me­
+chanical properties of the silica fume concrete. Kadir et at. [34] used DT, 
+ANN, SVR, and LR for the prediction of concrete compressive strength. 
+Getahun et al. [35] used ANN algorithm to predict the compressive 
+strength and tensile strength of waste concrete. Ling et al.[36] predict 
+the compressive strength of concrete in marine nature using SVM and 
+compared the result with ANN and DT models. Zaher et al. [37] predict 
+the compressive strength of lightweight foamed concrete with various 
+machine learning approaches. Taffese et al. [38] also used a machine 
+learning algorithm for the assessment of the durability of reinforced 
+concrete structures. Suguru et al. [39] made the development of auto­
+matic detector of cracks in concrete structures with machine learning. 
+Photographs of the concrete samples were used for learning data, while 
+for the crack detection deep learning was applied. Wassim et al.[40] 
+evaluate the accuracy level of the machine learning models. In addition, 
+Miao et al.[41] uses MLR, SVM, and ANN to predict the interfacial bond 
+strength between fiber-reinforced polymers (FRPs) and concrete. 
+4. Research significance 
+The significance and novelty of this research are (1) conducting 
+experimental work for fly ash-based concrete (FAC) through ASTM 
+standards, and (2) making FAC model using the Machine learning (ML) 
+algorithms. Moreover, the focus of this study is based on the prediction 
+and comparison of concrete (fly ash based) compressive strength via 
+supervised machine learning approaches. The DT, ANN, and boosting 
+ML approaches were employed to predict and compare the outcome 
+with the actual results. The boosting approach was used for optimization 
+by developing twenty sub-models to have a more accurate value of the 
+coefficient of correlation (R2). These applications were used to compare 
+the prediction performance of each technique. The importance of this 
+research is to understand the role of input parameters and the accuracy 
+level of the outcomes from the various ML algorithms. This study also 
+presents the comparison approach of both ensemble and individual ML 
+approaches with the results obtained for the experimental work. Each 
+model performance was also evaluated from the statistical checks and k- 
+fold cross-validation. 
+5. Description of data with the experimental procedure 
+The various properties of the materials used in the preparation of 98 
+mixes such as cement, fly ash, fine aggregate and coarse aggregate has 
+been conformed to the specification as per the ASTM standards as shown 
+in Tables below. Ordinary Portland cement (Type-1) was used in this 
+experimental work. The information stated in ASTM C150 for cement 
+has been adopted during the entire investigation of this research. The 
+airtight polythene sheet was used to cover the bags of cement and pre­
+vention was made from the effect of moisture. The physical and chem­
+ical properties of cement and fly ash used in the research are listed in 
+Table 2 and Table 3, respectively. The fine aggregate was tested as per 
+the ASTM standard to determine its properties. Locally available coarse 
+aggregates with a maximum nominal size of 25.4 mm have been used for 
+preparing the concrete mix according to ASTM standards. The sieve 
+analysis and physical properties of the coarse aggregate (CA) were 
+evaluated according to ASTM recommendations and the results are lis­
+ted in Table 4. In addition, the physical properties of fine and coarse 
+aggregate can be seen in Table 5. Super-plasticizer was added to the 
+concrete mix by weight of cement to achieve the desired flow. The fly 
+ash used was obtained from Pakistan. 
+5.1. Test program 
+The details of mix proportion in terms of weight for all studied for­
+mulations are mentioned in Annexure A. A total of 98 cylindrical spec­
+imens of 200 mm height and 100 mm diameter were prepared. A w/c 
+ratio ranging from 0.40 to 0.60 is adopted by the hit and trial method 
+and varying superplasticizer demand third generation to achieve desire 
+workability. Specimens were de-molded after 24 h and water cured at 
+23 ℃ for 28 days. Compressive strength test was performed as per ASTM 
+C39 at 3, 7, 14, and 28 and 90 days to evaluate the strength progression 
+of designed formulations to achieve a desire strength of 28 MPa [60]. 
+The reflection of the experimental work can be seen in Fig. 2. 
+5.2. Modeling aspect description 
+The data includes in the supplementary file as illustrated in Annex­
+ure A. The dataset consists of 7 inputs (cement, fly ash, water, super­
+plasticizers, coarse aggregate, fine aggregate, and days) with one output 
+(concrete compressive strength). The relative frequency distribution of 
+all the parameters is presented in Fig. 2. The statistical description of the 
+parameters used during numerical analyses is listed in Table 6 and 
+Table 7, respectively. 
+Table 2 
+Physical properties of Ordinary Portland Cement.  
+Physical Property 
+Content 
+Insoluble residue (% mass) 
+0.49 
+Specific surface area (cm2 /g) 
+8300 
+Specific gravity (g/cm3) 
+3.15 
+Particle size (d50) (cm) 
+1.649 
+Loss on ignition (% mass) 
+2.21  
+Table 3 
+Chemical properties of Cement and Fly Ash.  
+Compound details 
+Cement 
+Fly ash 
+Silica (SiO2)  
+18.97 
+52.1 
+Alumina (Al2O3)  
+6.96 
+4.26 
+Calcium Oxide (CaO)  
+65.81 
+2.32 
+Iron Oxide (Fe2O3)  
+3.62 
+26.9 
+Sodium Oxide (Na2O)  
+0.11 
+0.110 
+Magnesium Oxide (MgO)  
+1.96 
+1.51 
+Potassium Oxide (K2O)  
+0.46 
+1.48 
+Loss on Ignition  
+1  
+Table 4 
+Physical properties of Fly ash.  
+Property 
+Value 
+range 
+Retention on 45 µm Sieve, % 
+< 34 
+Lime Reactivity, N/mm2 
+6 
+Soundness by Autoclave Expansion, % 
+0.05 
+Drying Shrinkage, % 
+0.06 
+Compressive Strength (as percent of strength of corresponding plain 
+cement mortar cubes), % 
+80  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 5 =====
+
+Construction and Building Materials 308 (2021) 125021
+5
+6. Methodology in making models 
+This section describes the algorithms used in modeling to predict the 
+compressive strength of fly ash-based concrete. The anaconda software 
+was used to run the models [61]. The forecasting of the compressive 
+strength is made by using ensemble algorithm (boosting) and individual 
+approaches like Artificial neuron network (ANN), with a tree-based al­
+gorithm such as Decision tree (DT) and Genetic engineering program­
+ming (GEP). The detailed flowchart of the algorithm used is depicted in 
+Fig. 3. 
+The decision tree is considered one of the simplest and strong algo­
+rithms for classified data. It is a tree-like model which separates data 
+points into numerous classes depend on the data points that meet certain 
+criteria. DT uses the properties of input data as criteria to manage the 
+classification task. The decision tree behaves in such a manner that the 
+criteria have zero similarity for both classification and regression trees. 
+The schematic diagram of DT can be seen in Fig. 4. 
+On the other hand, artificial neural networks (ANNs) can learn like 
+the brain of a human being. ANN is the base of Artificial intelligence (AI) 
+which can solve complex problems easily. The schematic functionality of 
+the ANN is described in Fig. 5. Using self-learning capabilities, ANN can 
+generate better results in the form of output by performing learning 
+processes. As human also requires standard rules or guidelines to come 
+up with the appropriate result or output, ANNs also use a standard set of 
+learning rules known as backpropagation. The parameter used in mak­
+ing an ANN model is listed in Table 8. 
+Gene expression programming (GEP) was initially presented in the 
+form of genetic programming by Ferreira [62]. GEP can collect more 
+data rapidly than the older genetic algorithms. It gives more trans­
+parency because genetic operators are working at the chromosome level. 
+The basic steps/flowchart of GEP are graphically represented in Fig. 6. 
+The process starts using the arbitrarily generated chromosomes of the 
+first population. The chromosomes are then revealing, and the strength 
+of every individual is set based on fitness cases. These individuals are 
+then chosen as per their fitness for reproduction and modification. The 
+new chromosomes are subjected to the same processes of development: 
+expression of the genomes, conflict of the selection environment, se­
+lection, and then reproduction with changes till satisfactory results have 
+been found [63]. 
+The boosting regressor was initially invented by the estimation of the 
+learning theories and then was reanalyzed by the machine learning re­
+searchers. It is considered an ensemble method (weighted average data 
+of the predictions of individual classifiers). The basic boosting ML 
+approach needs the explanation of two parameters. The number of splits 
+(number of nodes) can fit each regression during the process. The total 
+number of nodes equals the number of splits plus one. Identifying one 
+split corresponds to an additional model remaining only with main ef­
+fects. Identifying two splits corresponds to the main effects of the model 
+and two-way interconnections and vice versa. Boosting adopts the same 
+procedure as other ensemble ML algorithms. There is the splitting of 
+data into a training dataset and a test dataset. The selected percentage of 
+data is normally used as training data and the remaining percentage is 
+used as the test data. The selection of percentages can be changed to 
+obtain better accuracy. 
+7. Results and discussion 
+7.1. Decision tree (DT) model outcome 
+The results of the prediction result of FA-based concrete via decision 
+Table 5 
+Physical properties of Fine Aggregate & Coarse Aggregate.  
+Property 
+Fine 
+Aggregate 
+Coarse 
+Aggregate 
+Standards 
+Followed 
+Bulk Specific Gravity  
+2.63  
+2.70 
+ASTM C128/ 
+C127 
+Moisture Content, %  
+1.129  
+0.65 
+ASTM C566 
+Moisture Absorption, %  
+1.06  
+1.36 
+ASTM C128/ 
+C127 
+Fineness Modulus  
+2.41  
+– 
+ASTM C136 
+Nominal Maximum Size, 
+mm  
+–  
+25.4 
+– 
+Rodded Unit Weight, kg/ 
+m3  
+–  
+1550.6 
+ASTM C29  
+Fig. 2. Part of the specimens from the experimental work predicted to compressive tests.  
+Table 6 
+Range of input and output variables.  
+Parameters 
+Abbreviation 
+Units 
+Minimum 
+value 
+Maximum 
+value 
+Cement 
+C 
+kg/ 
+m3 
+136.1 
+376 
+Fly ash 
+FA 
+kg/ 
+m3 
+92.1 
+168.3 
+Super plasticizer 
+SP 
+kg/ 
+m3 
+0 
+18 
+Water 
+W 
+kg/ 
+m3 
+141.1 
+220.5 
+Fine aggregate 
+FA 
+kg/ 
+m3 
+687 
+905.4 
+Age 
+A 
+Days 
+3 
+90 
+Coarse aggregate 
+CA 
+kg/ 
+m3 
+801 
+1118 
+Compressive 
+Strength 
+CS 
+MPa 
+9.49 
+72.11  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 6 =====
+
+Construction and Building Materials 308 (2021) 125021
+6
+tree have been presented in Fig. 7. It can be seen that the DT accurately 
+forecasts the concrete compressive strength with a better coefficient of 
+determination R2 = 0.75 as shown in Fig. 7(a). Moreover, the model 
+error distribution illustrates that the average error of the test set is 4.21 
+MPa with the minimum and maximum error values of 0.002 MPa and 
+21.39 MPa respectively as depicted in Fig. 7(b). Also, the model accu­
+racy can be judged by its output results as depicted in Table 9. It shows 
+that most of the data points lie below 5 MPa with 65 percent accuracy 
+and 30 percent of data lies in the range of 5 MPa to 10 MPa and one data 
+point shows out space with 21.39 MPa. 
+7.2. Artificial neural network (ANN) model outcome 
+The prediction of the compressive strength by the ANN algorithm 
+yields an adamantly strong relationship between the predicted and 
+experimental value as shown in Fig. 8(a). Model shows an R2 value of 
+Table 7 
+Descriptive analysis of parameters.   
+Cement 
+Flash 
+Water 
+Superplasticizer 
+Coarse aggregate 
+Fine aggregate 
+Days 
+Mean 
+241.36 
+123.88 
+178.69 
+6.32 
+1002.24 
+794.55 
+33.79 
+Standard Error 
+5.64 
+1.03 
+1.84 
+0.5 
+7.24 
+4.67 
+2.94 
+Median 
+230.35 
+124.8 
+184.2 
+6.7 
+1014.85 
+794.9 
+28 
+Mode 
+213.5 
+124.8 
+191.3 
+0 
+1055.6 
+800 
+28 
+Standard Deviation 
+55.85 
+10.23 
+18.18 
+4.94 
+71.7 
+46.21 
+29.1 
+Sample Variance 
+3119.16 
+104.64 
+330.57 
+24.37 
+5140.86 
+2135.06 
+846.64 
+Kurtosis 
+−0.8 
+9.54 
+−0.61 
+−1.06 
+0.31 
+0.31 
+−0.19 
+Skewness 
+0.27 
+0.53 
+−0.07 
+0.02 
+−0.81 
+0.42 
+1.04 
+Range 
+239.9 
+76.2 
+79.4 
+18 
+317 
+218.4 
+87 
+Minimum 
+136.1 
+92.1 
+141.1 
+0 
+801 
+687 
+3 
+Maximum 
+376 
+168.3 
+220.5 
+18 
+1118 
+905.4 
+90 
+Sum 
+23653.5 
+12140.1 
+17511.6 
+619.3 
+98219.3 
+77866.3 
+3311 
+Count 
+98 
+98 
+98 
+98 
+98 
+98 
+98  
+Fig. 3. Histogram showing the maximum concentration used in evaluating the compressive strength.  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 7 =====
+
+Construction and Building Materials 308 (2021) 125021
+7
+0.81 and a low error distribution presented in Fig. 8(b) with the average 
+error of the training set was 2.96 MPa, while the minimum and 
+maximum error were observed to be 0.01 MPa and 21.01 MPa. Simi­
+larly, 90 percent of the result of distribution error of model lies below 10 
+MPa as depicted in Fig. 8(b) and Table 9. 
+7.3. Genetic engineering programming (GEP) model outcome 
+The influence of variables in the prediction of compressive strength 
+through linear regression is illustrated in Fig. 9. The GEP performed 
+more accurately than the previous algorithms by showing a higher value 
+of the coefficient of determination with R2 value equals 0.86 as shown in 
+Fig. 9(a). In addition, Fig. 9(b) represents the error distribution, and the 
+average value of errors equals 3.35 MPa, with the minimum error value 
+equal to 0.76 MPa, and the maximum error value equal to 5.98 MPa. 
+Moreover, the predicted error result outcome shows that 100 percent of 
+data points lie below 10 MPa which depicts the model accuracy with 
+maximum predicted strength. 
+7.4. Boosting regressor outcome 
+The prediction of the compressive strength of concrete via ensemble 
+(boosting) ML algorithm shows much better performance as compared 
+to individual ML approaches employed in this study. The reflection of its 
+performance can be seen in Fig. 10(a) showing the correlation between 
+the actual and targeted outcome. While Fig. 10(b) gives the information 
+of its error distribution indicating the maximum and minimum values of 
+the error equal to 3.03 MPa and 0.57, respectively with average error of 
+about 2.013 MPa. Moreover, 100 percent of the error data lie below 5 
+MPa showing the accuracy of the model. 
+7.5. K-fold Cross validation and statistical metrics 
+K-fold cross validation algorithm represents the process of Jack’s 
+knife test which can be apply for various aspects, including for the 
+reduction of biases in a random sampling of the training set, for holding 
+out the data set, and to minimize the overfitting complications. Strati­
+fied ten-fold validation process is considered as precise and normally 
+adopted for the optimum computational time. This study also ap­
+proaches the same ten-fold using the splitting of data into k-group. It 
+divides the data into 10 subsets, from which it uses nine out of ten 
+subsets. The only one subset refer to validate the model. This process 
+needs to repeat for ten times for the average outcome. In addition, the 
+response of the applied models was also evaluated with the statistical 
+checks. The following equations in accordance with the literature [64] 
+were used to give the information of the model’s performance (1–5). 
+RMSE =
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+∑n
+i=1(exi −moi)2
+n
+√
+(1)  
+MAE =
+∑n
+i=1|exi −moi|
+n
+(2)  
+RSE =
+∑n
+i=1(moi−exi)2
+∑n
+i=1(ex −exi)2
+(3)  
+RRMSE = 1
+e
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+∑n
+i=1(exi −moi)2
+n
+√
+(4)  
+R =
+∑n
+i=1
+(
+exi −exi
+)(
+moi −moi
+)
+̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+∑
+n
+i=1
+(
+exi −exi
+)2 ∑
+n
+i=1
+(
+moi −moi
+)2
+√
+(5) 
+Fig. 4. Algorithm Flowchart.  
+Fig. 5. The schematic diagram of a decision tree.  
+Table 8 
+ANN model parameters.  
+Parameters 
+Values 
+Hidden layer sizes 
+20,20 
+Activation function 
+relu 
+solver 
+Adam 
+alpha 
+0.0001 
+batch size 
+32 
+learning rate 
+Constant 
+Learning rate initial 
+0.001 
+Max iteration 
+10,000  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 8 =====
+
+Construction and Building Materials 308 (2021) 125021
+8
+Where, 
+exi = experimental value, 
+moi = predicted value, 
+exi = mean experimental value, 
+moi = mean predicted value obtained by the model, 
+Fig. 6. Function of ANN.  
+Fig. 7. The flowchart of gene expression programming.  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 9 =====
+
+Construction and Building Materials 308 (2021) 125021
+9
+Table 9 
+The predicted result of models with errors.   
+DT 
+ANN 
+GEP 
+Boosting 
+Data points 
+Y-Test 
+Y-Pred 
+Errors 
+Y-Test 
+Y-Pred 
+Errors 
+Y-Test 
+Y-Pred 
+Errors 
+Y-Test 
+Y-Pred 
+Errors 
+1  
+21.13  
+15.31  
+5.82  
+24.70  
+24.02  
+0.68  
+36.98  
+31.34  
+5.64  
+36.09  
+37.21  
+1.12 
+2  
+19.95  
+19.95  
+0.00  
+59.64  
+38.24  
+21.40  
+20.01  
+21.93  
+1.92  
+25.81  
+23.48  
+2.33 
+3  
+44.17  
+38.24  
+5.93  
+45.99  
+38.24  
+7.75  
+9.49  
+10.26  
+0.77  
+35.92  
+36.87  
+0.95 
+4  
+62.55  
+54.28  
+8.27  
+45.20  
+38.24  
+6.96  
+11.78  
+13.27  
+1.49  
+27.54  
+29.14  
+1.60 
+5  
+30.92  
+24.02  
+6.90  
+26.29  
+25.77  
+0.52  
+26.11  
+30.43  
+4.32  
+23.18  
+21.00  
+2.18 
+6  
+25.81  
+22.45  
+3.36  
+25.11  
+24.02  
+1.09  
+18.98  
+24.03  
+5.05  
+18.98  
+21.51  
+2.53 
+7  
+21.43  
+20.50  
+0.93  
+40.94  
+36.77  
+4.17  
+22.11  
+20.31  
+1.80  
+18.66  
+21.67  
+3.01 
+8  
+36.57  
+34.77  
+1.80  
+21.13  
+15.31  
+5.82  
+26.29  
+22.02  
+4.27  
+36.99  
+36.42  
+0.57 
+9  
+21.20  
+18.33  
+2.86  
+44.17  
+38.24  
+5.93  
+40.10  
+35.39  
+4.71  
+15.21  
+16.93  
+1.72 
+10  
+45.20  
+38.24  
+6.96  
+21.43  
+20.50  
+0.93  
+41.64  
+40.24  
+1.40  
+15.44  
+13.51  
+1.93 
+11  
+25.11  
+24.02  
+1.09  
+62.55  
+54.28  
+8.27  
+33.55  
+32.16  
+1.39  
+35.61  
+38.64  
+3.03 
+12  
+29.22  
+28.76  
+0.46  
+25.81  
+22.45  
+3.36  
+28.79  
+25.62  
+3.17  
+18.90  
+21.00  
+2.10 
+13  
+24.70  
+24.02  
+0.68  
+36.57  
+34.77  
+1.80  
+47.83  
+49.41  
+1.58  
+18.24  
+20.71  
+2.47 
+14  
+40.94  
+36.77  
+4.17  
+24.69  
+19.95  
+4.74  
+25.81  
+31.73  
+5.92  
+28.66  
+30.21  
+1.55 
+15  
+24.69  
+19.95  
+4.74  
+40.12  
+40.11  
+0.01  
+37.77  
+34.96  
+2.81  
+20.01  
+22.59  
+2.58 
+16  
+26.29  
+25.77  
+0.52  
+29.22  
+28.76  
+0.46  
+36.99  
+32.13  
+4.86  
+9.55  
+12.06  
+2.51 
+17  
+40.12  
+40.11  
+0.01  
+19.95  
+19.95  
+0.00  
+27.41  
+25.49  
+1.92  
+29.33  
+32.24  
+2.91 
+18  
+59.64  
+38.24  
+21.40  
+21.20  
+18.33  
+2.86  
+30.92  
+24.93  
+5.99  
+13.11  
+11.27  
+1.84 
+19  
+45.99  
+38.24  
+7.75  
+23.18  
+22.50  
+0.68  
+35.92  
+33.13  
+2.79  
+40.94  
+38.64  
+2.30 
+20  
+23.18  
+22.50  
+0.68  
+30.92  
+24.02  
+6.90  
+18.24  
+23.50  
+5.26  
+41.64  
+40.61  
+1.03  
+Fig. 8. Results obtained using DT algorithm: (a) Relation between the predicted and experimental values of the compressive strength; (b) Prediction errors performed 
+by the DT algorithm. 
+Fig. 9. Results obtained using ANN algorithm: (a) relation between the predicted and experimental values of the compressive strength; (b) Prediction errors per­
+formed by the ANN algorithm. 
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 10 =====
+
+Construction and Building Materials 308 (2021) 125021
+10
+n = number of samples. 
+7.6. Statistical analysis and K fold analysis 
+A standard approach of K-fold cross validation is applied for examine 
+the bias and variance decrease for the test set. To examine the result of 
+cross-validation correlation coefficient (R2), mean absolute error (MAE), 
+mean square error (MSE), and Root mean square error (RMSE) were 
+used as expressed in Fig. 11. In comparison, all three machine learning 
+algorithms shows fluctuation in their output. The GEP model shows 
+fewer errors with much better R2 value oppose to ANN and Decision tree 
+(DT). The average R2 value of GEP modeling comes to 0.81 with the 
+maximum of 0.96 and minimum values of 0.65, as illustrated in Fig. 11 
+(a). Whereas the ANN model gives the average value of R2 = 0.80 of ten 
+folds with the maximum and minimum values of 0.92 and 0.80, 
+respectively. Similarly, the Decision tree (DT) model gives the average 
+R2 value of 0.78 with the maximum and minimum value of 0.90 and 
+0.58 as illustrate in Fig. 11(b) and (c). Every individual model reflects 
+with the fewer errors for validation. As per the validation indicator 
+result for the GEP reflect the values of MAE, MSE, and RMSE are 3.98 
+MPa, 25.57 MPa and 5.05 MPa reflected in Fig. 11(a). Indicator results 
+for ANN gives the value of MAE, MSE, and RMSE are 4.48 MPa, 28.74 
+MPa and 5.36 MPa as illustrated in Fig. 11(b). Similarly, the values for 
+decision tree of MAE, MSE and RMSE comes to 4.55 MPa, 32.66 MPa and 
+5.71 MPa respectively are shown in Fig. 11(c). While Fig. 11(d) illus­
+trates the maximum value of R2 for boosting regressor equals to 0.97, 
+minimum 0.62 and average 0.83. The maximum values of MAE, MSE 
+and, RMSE of BR were 8.98 MPa, 9.1 MPa and, 3.01 MPa, respectively. 
+The minimum values (MAE, MSE and RMSE) for BR were 4.99 MPa, 5.2 
+MPa and, 2.28 MPa shown in Fig. 11(d). Moreover, the K-fold cross 
+validation of all the applied models and statistical checks are also listed 
+in the Table 9 and Table 10, respectively. Fig. 12 shows the statistical 
+indicator for K-fold cross-validation. Table 11 indicates the values of 
+statistical checks. 
+In addition, statistical checks applied on the models reveals that the 
+ensemble ML algorithm shows lesser errors from other three employed 
+individual algorithms (GEP, ANN, DT) as illustrated in the Table 10. The 
+values of MAE, MSE, and RMSE of the bagging regressor (BR) from 
+statistical checks comes to 3.69 MPa, 24.76 MPa, and 4.79 MPa, 
+respectively. In comparison, the GEP, ANN, and DT shows sequence vice 
+lesser error from one another. This check is directly linked with coeffi­
+cient correlation (R2), lesser the error value shows the higher R2 value 
+for the model. 
+Fig. 10. Results obtained using GEP: (a) relation between the predicted and experimental values of the compressive strength; (b) Prediction errors performed by 
+the GEP. 
+Fig. 11. Results obtained using Boosting Regressor: (a) represents the relationship between the predictied variable and the experimentally determined variable; (b) 
+distribution of errors of boosting regressor. 
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 11 =====
+
+Construction and Building Materials 308 (2021) 125021
+11
+8. Conclusion 
+This research work is based on the performance comparison of the 
+selected machine learning algorithms of concrete with fly ash as its main 
+constituent. Supervised ML algorithms such as decision tree (DT), arti­
+ficial neural network (ANN) and genetic engineering programming 
+(GEP) and, bagging regressor (BR) were investigated for the prediction 
+of compressive strength of fly ash-based concrete. Moreover, the indi­
+vidual ML algorithms were compared with ensemble ML approach for 
+better understanding the performances of the approach.  
+1) The individual ML algorithms show better performance with less 
+variance between the actual and the predicted outcomes.  
+2) While, when the accuracy level of the individual ML techniques was 
+compared with ensemble employed algorithm (bagging regressor), 
+the ensemble comes as a stronger and more accurate model indicated 
+from its coefficient correlation (R2) value equals to 0.95. The R2 
+Table 10 
+K-fold cross validation indicators and result.   
+GEP    
+ANN    
+DT    
+Boosting    
+K-fold 
+R2 
+MAE 
+MSE 
+RMSE 
+R2 
+MAE 
+MSE 
+RMSE 
+R2 
+MAE 
+MSE 
+RMSE 
+R2 
+MAE 
+MSE 
+RMSE 
+1 
+0.65 
+5.44 
+6.77 
+2.60 
+0.69 
+8.38 
+9.49 
+3.08 
+0.87 
+8.94 
+8.78 
+2.96 
+0.77 
+5.10 
+5.67 
+2.38 
+2 
+0.79 
+9.29 
+5.38 
+2.32 
+0.85 
+9.88 
+8.68 
+2.95 
+0.90 
+10.77 
+5.77 
+2.40 
+0.76 
+8.30 
+5.20 
+2.28 
+3 
+0.68 
+8.59 
+9.77 
+3.13 
+0.92 
+8.46 
+7.49 
+2.74 
+0.79 
+8.99 
+9.99 
+3.16 
+0.88 
+7.90 
+9.10 
+3.02 
+4 
+0.93 
+6.38 
+6.28 
+2.51 
+0.66 
+10.21 
+9.33 
+3.05 
+0.74 
+8.56 
+8.99 
+3.00 
+0.97 
+5.10 
+5.79 
+2.41 
+5 
+0.88 
+10.81 
+7.54 
+2.75 
+0.88 
+9.59 
+8.23 
+2.87 
+0.81 
+6.34 
+9.12 
+3.02 
+0.92 
+5.78 
+7.89 
+2.81 
+6 
+0.95 
+7.59 
+9.28 
+3.05 
+0.90 
+8.99 
+9.56 
+3.09 
+0.58 
+9.99 
+7.88 
+2.81 
+0.93 
+8.98 
+8.88 
+2.98 
+7 
+0.89 
+5.99 
+6.74 
+2.60 
+0.68 
+6.38 
+6.89 
+2.62 
+0.69 
+6.96 
+6.37 
+2.52 
+0.79 
+4.99 
+6.10 
+2.47 
+8 
+0.77 
+6.77 
+9.96 
+3.16 
+0.84 
+6.98 
+7.10 
+2.66 
+0.77 
+7.12 
+6.87 
+2.62 
+0.62 
+6.77 
+5.28 
+2.30 
+9 
+0.75 
+9.49 
+8.88 
+2.98 
+0.86 
+6.11 
+7.32 
+2.71 
+0.89 
+7.21 
+7.12 
+2.67 
+0.83 
+7.44 
+7.45 
+2.73 
+10 
+0.87 
+8.58 
+7.47 
+2.73 
+0.77 
+7.47 
+7.69 
+2.77 
+0.76 
+5.99 
+9.59 
+3.10 
+0.87 
+6.78 
+6.77 
+2.60  
+Fig. 12. Statistical indicator for K-fold cross-validation; (a) ANN model; (b) GEP model; (c) DT model; (d) Boosting regressor.  
+Table 11 
+Statistical Checks.  
+Machine Learning Techniques 
+MAE (MPa) 
+MSE (MPa) 
+RMSE (MPa) 
+Gene Expression Program (GEP)  
+3.98  
+25.57  
+5.05 
+Artificial Neural Network (ANN)  
+4.48  
+28.74  
+5.36 
+Decision Tree (DT)  
+4.55  
+32.66  
+5.71 
+Bagging Regressor (BR)  
+3.69  
+24.76  
+4.97  
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 12 =====
+
+Construction and Building Materials 308 (2021) 125021
+12
+value of the GEP, ANN and, DT comes to 0.86, 0.81 and, 0.75, 
+respectively.  
+3) The lesser values of the errors, MAE (3.69 MPa), MSE (24.76) and, 
+RMSE (4.97) also confirmes the high accuracy of the bagging re­
+gressor, while other algorithms shows higher values for these errors.  
+4) K-fold cross validation process, which was adopted to confirm the 
+model’s accuracy also reveals that bagging regressor was effective.  
+5) Application of statistical checks also confirms that bagging regressor 
+indicates the enhancement in model accuracy by minimizing the 
+difference of error among the targeted and predicted results. 
+In conclusion, this study shows the reflection of various ML tech­
+niques for the predictive perspective. It gives the better understanding to 
+the researcher in the field of engineering that the better selection of the 
+input parameters and regressor to run the model would results in the 
+accurate predicted outcomes. The ML approaches used in this work gives 
+strong relation between the targeted and predicted results. Higher ac­
+curacy level of the models indicates the importance of their use in the 
+field of civil engineering, especially when it comes to predict the 
+strength properties of concrete, because practically it is time consuming 
+task to have a strength result of the concrete. This approach is now 
+grooming the scientific society by minimizing the time and physical 
+activities. Moreover, the application of more ensemble algorithms like, 
+Adaboost regressor, XGboost regressor and bagging regressor would be 
+more effective for the log list of the datapoints. 
+CRediT authorship contribution statement 
+Hongwei Song: Conceptualization, Methodology, Investigation, 
+Funding acquisition. Ayaz Ahmad: Formal analysis, Software, Investi­
+gation, Visualization, Writing – original draft, Writing – review & edit­
+ing. Furqan Farooq: Formal analysis, Software, Writing – original draft. 
+Krzysztof Adam Ostrowski: Methodology, Writing – original draft, 
+Writing – review & editing. Mariusz Ma´slak: Conceptualization, 
+Writing – original draft, Writing – review & editing. Slawomir Czar­
+necki: Methodology, Writing – original draft, Writing – review & edit­
+ing. Fahid Aslam: Formal analysis, Software, Visualization, Writing – 
+original draft. 
+Declaration of Competing Interest 
+The authors declare that they have no known competing financial 
+interests or personal relationships that could have appeared to influence 
+the work reported in this paper. 
+Acknowledgments 
+The authors would like to acknowledge the National Natural Science 
+Foundation of China, No. 51478089; the Liaoning nature science fund 
+guidance project of China (2019-ZD-0178); and the Basic Scientific 
+Research Project of the Central Universities, No. 0220/110006.  
+Annexure a  
+Cement (kg/m3) 
+Fly ash (kg/m3) 
+Water (kg/m3) 
+Superplasticizer (kg/m3) 
+Coarse aggregate (kg/m3) 
+Fine aggregate (kg/m3) 
+Age (Days) 
+Strength (MPa) 
+185.7  
+101.5 
+166.9 
+7.5 
+1006.4 
+905.4 
+90  
+38.28 
+170.7  
+127.4 
+161.8 
+7.8 
+1090 
+798.5 
+3  
+17.11 
+180.7  
+127.4 
+166.1 
+7.8 
+1090 
+798.6 
+14  
+23.34 
+160.7  
+127.4 
+162.1 
+7.8 
+1090 
+804 
+28  
+27.41 
+242.1  
+125.6 
+184.3 
+5.7 
+1057.6 
+779.3 
+14  
+21.91 
+212.1  
+125.6 
+184.2 
+5.7 
+1057.6 
+779.3 
+28  
+21.81 
+212.1  
+124.6 
+184.2 
+5.7 
+1057.6 
+779.3 
+56  
+33.21 
+240  
+118.3 
+191.9 
+4.6 
+1029.4 
+758.6 
+90  
+32.31 
+195.3  
+124.2 
+160.8 
+9.9 
+1088.1 
+802.6 
+3  
+9.49 
+190.7  
+124.2 
+161.9 
+9.9 
+1088.1 
+802.6 
+14  
+23.1 
+168.1  
+168.3 
+172.4 
+4.5 
+1058.6 
+780.1 
+3  
+11.78 
+136.1  
+163.3 
+176.5 
+4.5 
+1058.6 
+780.1 
+14  
+27.49 
+165.2  
+161.3 
+172.4 
+4.5 
+1058.6 
+780.1 
+28  
+25.2 
+230.6  
+118.2 
+195.2 
+6.1 
+1028.1 
+757.6 
+3  
+15.47 
+228.7  
+119.2 
+191.3 
+6.1 
+1028.1 
+757.6 
+14  
+21.31 
+229.7  
+118.2 
+195.2 
+6.1 
+1028.1 
+757.6 
+90  
+42.37 
+248.1  
+94.1 
+186.7 
+7 
+949.9 
+847 
+3  
+21.43 
+238.1  
+92.1 
+188.7 
+7 
+949.9 
+847 
+14  
+26.6 
+248.1  
+92.1 
+186.7 
+7 
+949.9 
+847 
+90  
+47.83 
+250.5  
+95.7 
+187.4 
+5.5 
+956.9 
+861.2 
+3  
+12.78 
+251  
+95.7 
+186.5 
+5.5 
+956.9 
+861.2 
+14  
+27.4 
+212.5  
+124.9 
+159 
+7.8 
+1085.4 
+799.5 
+3  
+18.42 
+212.6  
+124.7 
+181.9 
+5.8 
+1028.4 
+757.7 
+14  
+30.92 
+251.8  
+124.2 
+188.5 
+6.4 
+1028.4 
+810.7 
+56  
+34.9 
+251.9  
+122.8 
+181.6 
+6.4 
+1028.4 
+757.7 
+90  
+45.2 
+181.8  
+122.8 
+169.6 
+7.6 
+1055.6 
+810.7 
+3  
+14.61 
+181.8  
+122.8 
+170.6 
+7.6 
+1055.6 
+810.7 
+14  
+22.93 
+181.8  
+122.8 
+169.6 
+7.6 
+1055.6 
+777.8 
+28  
+28.79 
+182.5  
+124.4 
+170.6 
+7.6 
+1055.6 
+777.8 
+56  
+37.77 
+181.4  
+121.8 
+169.6 
+7.6 
+1055.6 
+777.8 
+90  
+46.77 
+250.1  
+124.8 
+168.3 
+9.4 
+961.2 
+865 
+90  
+45.99 
+230.1  
+124.8 
+160.6 
+11.8 
+973.9 
+875.6 
+3  
+22.11 
+220.8  
+124.8 
+146.1 
+12.4 
+1006 
+899.8 
+28  
+31.74 
+210.8  
+124.8 
+143.3 
+12 
+1086.8 
+800.9 
+56  
+62.55 
+220.8  
+124.7 
+141.1 
+12 
+1086.8 
+800.9 
+90  
+62.32 
+213.7  
+124.7 
+154.8 
+10.2 
+1053.5 
+776.4 
+28  
+43.15 
+213.7  
+124.8 
+155 
+10.2 
+1053.5 
+776.4 
+56  
+47.14 
+213.7  
+124.8 
+154.8 
+10.2 
+1053.5 
+776.4 
+90  
+54.09 
+213.5  
+124.8 
+155.6 
+11.7 
+1052.3 
+775.5 
+3  
+19.64 
+213.5  
+124.8 
+154.6 
+11.7 
+1052.3 
+800 
+14  
+36.98 
+213.5  
+124.8 
+155.7 
+11.7 
+1052.3 
+800 
+28  
+42.44 
+(continued on next page) 
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 13 =====
+
+Construction and Building Materials 308 (2021) 125021
+13
+(continued) 
+Cement (kg/m3) 
+Fly ash (kg/m3) 
+Water (kg/m3) 
+Superplasticizer (kg/m3) 
+Coarse aggregate (kg/m3) 
+Fine aggregate (kg/m3) 
+Age (Days) 
+Strength (MPa) 
+213.5  
+124.8 
+154.6 
+11.7 
+1052.3 
+800.5 
+56  
+49.43 
+213.5  
+124.8 
+155.5 
+11.7 
+1052.3 
+800 
+90  
+58.4 
+218.9  
+124.8 
+158.5 
+11.3 
+1078.7 
+794.9 
+56  
+40.21 
+218.9  
+124.8 
+160.1 
+11.3 
+1078.7 
+794.9 
+90  
+45.25 
+376  
+124.8 
+216.7 
+0 
+1003.5 
+762.4 
+3  
+18.98 
+190.3  
+124.8 
+165.6 
+9.9 
+1079 
+798.9 
+14  
+20.22 
+165  
+124.8 
+163.8 
+0 
+1005.6 
+900.9 
+28  
+26.11 
+190.3  
+124.8 
+165.3 
+9.9 
+1079 
+798.9 
+28  
+26.67 
+250  
+124.8 
+192.8 
+5.3 
+948.9 
+857.2 
+28  
+28.21 
+213.5  
+124.8 
+159.2 
+11.7 
+1043.6 
+771.9 
+28  
+44.61 
+194.7  
+124.8 
+171.5 
+7.5 
+998 
+901.8 
+28  
+39.27 
+251.4  
+124.8 
+192.9 
+5.8 
+1043.6 
+754.3 
+28  
+36.99 
+310  
+124.8 
+189.9 
+0 
+936.2 
+712.2 
+28  
+40.94 
+280  
+124.8 
+189.9 
+0 
+936.2 
+700 
+7  
+36.57 
+290.2  
+124.8 
+183.6 
+0 
+1069.2 
+754.3 
+7  
+23.18 
+252.5  
+124.8 
+186.7 
+0 
+1111.6 
+784.3 
+7  
+13.11 
+339  
+124.8 
+197 
+0 
+968 
+800 
+3  
+18.24 
+257  
+124.8 
+192.8 
+0 
+968 
+856.5 
+90  
+27.54 
+254  
+124.8 
+192.7 
+0 
+968 
+799.7 
+90  
+28.66 
+307  
+124.8 
+193.5 
+0 
+968 
+799.5 
+28  
+29.33 
+307  
+124.8 
+191.2 
+0 
+968 
+799.5 
+90  
+35.92 
+290  
+124.8 
+192.2 
+0 
+936 
+755 
+28  
+46.29 
+297  
+124.8 
+191.3 
+0 
+936 
+755 
+90  
+51.18 
+299  
+124.8 
+187.3 
+0 
+966 
+763 
+3  
+17.11 
+288  
+124.8 
+188.6 
+0 
+966 
+758 
+7  
+21.21 
+289  
+124.8 
+188.6 
+0 
+966 
+759 
+14  
+29.22 
+292  
+124.8 
+187.3 
+0 
+966 
+763 
+28  
+33.55 
+331  
+124.8 
+192.2 
+0 
+978 
+801 
+90  
+40.1 
+349  
+124.8 
+192.2 
+0 
+1047 
+806 
+3  
+16.59 
+295  
+124.8 
+185.3 
+0 
+1069 
+769.4 
+28  
+27.19 
+238  
+124.8 
+185.2 
+0 
+1118 
+789 
+28  
+16.84 
+296  
+124.7 
+191.3 
+0 
+1085 
+765.5 
+7  
+16.83 
+322.5  
+124.8 
+203.4 
+0 
+974 
+840 
+14  
+24.11 
+322  
+124.4 
+201.5 
+0 
+974 
+800.2 
+28  
+26.15 
+322  
+124.7 
+202.7 
+0 
+974 
+820 
+90  
+30.57 
+302  
+124.8 
+202.7 
+0 
+974 
+817 
+28  
+26.11 
+312.5  
+124.6 
+182.4 
+0 
+1040 
+734 
+28  
+40.08 
+317  
+124.8 
+192.5 
+0 
+936 
+721 
+3  
+26.29 
+210  
+124.8 
+142.5 
+0 
+896 
+896 
+7  
+49.41 
+220.9  
+124.8 
+142.5 
+0 
+896 
+896 
+28  
+72.11 
+144  
+124.8 
+158.2 
+18 
+943 
+844 
+28  
+17.42 
+148  
+124.8 
+158.4 
+16 
+1002 
+830 
+28  
+19.95 
+326  
+124.6 
+199.1 
+11 
+801 
+792 
+28  
+39.78 
+290  
+124.8 
+220.5 
+11 
+898 
+713 
+28  
+9.59 
+299.8  
+124.8 
+211.5 
+9.9 
+878.2 
+727.6 
+28  
+25.81 
+148.1  
+124.6 
+159.2 
+16.1 
+1001.8 
+830.1 
+28  
+18.98 
+326.5  
+124.8 
+193.3 
+10.8 
+801.1 
+792.5 
+28  
+35.61 
+276.4  
+124.8 
+217.4 
+11 
+897.7 
+712.9 
+28  
+9.55 
+150.7  
+124.8 
+164.6 
+15.6 
+1074.5 
+687 
+28  
+15.44 
+190.8  
+124.8 
+185.1 
+11.1 
+979.5 
+811 
+28  
+15.21 
+190.9  
+124.8 
+168.2 
+11.6 
+991.2 
+784 
+28  
+18.66 
+188.7  
+124.8 
+182.4 
+11.7 
+1023.3 
+732 
+28  
+20.01 
+298.1  
+124.6 
+189.4 
+6.1 
+879 
+815 
+28  
+41.64 
+318.9  
+124.8 
+212.7 
+5.7 
+860.5 
+725 
+28  
+36.09 
+355.9  
+124.5 
+196.3 
+11 
+801.4 
+769 
+28  
+36.27 
+199.8  
+124.8 
+185.4 
+12.6 
+849.3 
+856.5 
+28  
+18.01 
+278.7  
+124.8 
+170.3 
+10.1 
+925.3 
+782 
+28  
+41.16  
+References 
+[1] H. Xiao, Z. Duan, Y. Zhou, N. Zhang, Y. Shan, X. Lin, G. Liu, CO2 emission patterns 
+in shrinking and growing cities: a case study of Northeast China and the Yangtze 
+River Delta, Appl. Energy. 251 (2019) 113384, https://doi.org/10.1016/j. 
+apenergy.2019.113384. 
+[2] H. Yan, Q. Shen, L.C.H. Fan, Y. Wang, L. Zhang, Greenhouse gas emissions in 
+building construction: a case study of one peking in Hong Kong, Build. Environ. 45 
+(2010) 949–955, https://doi.org/10.1016/j.buildenv.2009.09.014. 
+[3] E. Benhelal, G. Zahedi, E. Shamsaei, A. Bahadori, Global strategies and potentials 
+to curb CO2 emissions in cement industry, J. Clean. Prod. 51 (2013) 142–161, 
+https://doi.org/10.1016/j.jclepro.2012.10.049. 
+[4] L. Barcelo, J. Kline, G. Walenta, E. Gartner, Cement and carbon emissions, Mater. 
+Struct. Constr. 47 (2014) 1055–1065, https://doi.org/10.1617/s11527-013-0114- 
+5. 
+[5] R. Kajaste, M. Hurme, Cement industry greenhouse gas emissions - Management 
+options and abatement cost, J. Clean. Prod. 112 (2016) 4041–4052, https://doi. 
+org/10.1016/j.jclepro.2015.07.055. 
+[6] M. Batayneh, I. Marie, I. Asi, Use of selected waste materials in concrete mixes, 
+Waste Manag. 27 (2007) 1870–1876, https://doi.org/10.1016/j. 
+wasman.2006.07.026. 
+[7] S. Czarnecki, M. Shariq, M. Nikoo, Ł. Sadowski, An intelligent model for the 
+prediction of the compressive strength of cementitious composites with ground 
+granulated blast furnace slag based on ultrasonic pulse velocity measurements, 
+Meas. J. Int. Meas. Confed. 172 (2021) 108951, https://doi.org/10.1016/j. 
+measurement.2020.108951. 
+[8] A. Chajec, Granite powder vs. fly ash for the sustainable production of air-cured 
+cementitious mortars, Materials (Basel) 14 (2021) 1–26, https://doi.org/10.3390/ 
+ma14051208. 
+[9] A.A. Shubbar, H. Jafer, A. Dulaimi, K. Hashim, W. Atherton, M. Sadique, The 
+development of a low carbon binder produced from the ternary blending of 
+cement, ground granulated blast furnace slag and high calcium fly ash: an 
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 14 =====
+
+Construction and Building Materials 308 (2021) 125021
+14
+experimental and statistical approach, Constr. Build. Mater. 187 (2018) 
+1051–1060, https://doi.org/10.1016/j.conbuildmat.2018.08.021. 
+[10] A.A. Phul, M.J. Memon, S.N.R. Shah, A.R. Sandhu, GGBS And fly ash effects on 
+compressive strength by partial replacement of cement concrete, Civ. Eng. J. 5 
+(2019) 913–921, https://doi.org/10.28991/cej-2019-03091299. 
+[11] A. Torres, L. Bartlett, C. Pilgrim, Effect of foundry waste on the mechanical 
+properties of portland cement concrete, Constr. Build. Mater. 135 (2017) 674–681, 
+https://doi.org/10.1016/j.conbuildmat.2017.01.028. 
+[12] F. Farooq, A. Akbar, R.A. Khushnood, W.L.B. Muhammad, S.K.U. Rehman, M. 
+F. Javed, Experimental investigation of hybrid carbon nanotubes and graphite 
+nanoplatelets on rheology, shrinkage, mechanical, and microstructure of SCCM, 
+Materials (Basel). 13 (2020) 230, https://doi.org/10.3390/ma13010230. 
+[13] A.R. Khaloo, M. Dehestani, P. Rahmatabadi, Mechanical properties of concrete 
+containing a high volume of tire-rubber particles, Waste Manag. 28 (2008) 
+2472–2482, https://doi.org/10.1016/j.wasman.2008.01.015. 
+[14] M.A. Rashid, M.A. Mansur, M.A. Rashid, M.A. Mansur, Considerations in producing 
+high strength concrete, J. Civ. Eng. 37 (2009) 53–63. 
+[15] D.M. Cotsovos, M.N. Pavlovi´c, Numerical investigation of concrete subjected to 
+compressive impact loading. Part 2: parametric investigation of factors affecting 
+behaviour at high loading rates, Comput. Struct. 86 (2008) 164–180, https://doi. 
+org/10.1016/j.compstruc.2007.05.015. 
+[16] M. Li, H. Hao, Y. Shi, Y. Hao, Specimen shape and size effects on the concrete 
+compressive strength under static and dynamic tests, Constr. Build. Mater. 161 
+(2018) 84–93, https://doi.org/10.1016/j.conbuildmat.2017.11.069. 
+[17] D.C. Feng, Z.T. Liu, X.D. Wang, Y. Chen, J.Q. Chang, D.F. Wei, Z.M. Jiang, Machine 
+learning-based compressive strength prediction for concrete: an adaptive boosting 
+approach, Constr. Build. Mater. 230 (2020) 117000, https://doi.org/10.1016/j. 
+conbuildmat.2019.117000. 
+[18] A. Ahmad, F. Farooq, K.A. Ostrowski, K. ´Sliwa-Wieczorek, S. Czarnecki, 
+Application of novel machine learning techniques for predicting the surface 
+chloride concentration in concrete containing waste material, Materials (Basel). 14 
+(2021) 2297, https://doi.org/10.3390/ma14092297. 
+[19] M.A. Khan, S.A. Memon, F. Farooq, M.F. Javed, F. Aslam, R. Alyousef, Y. Sun, 
+Compressive strength of fly-ash-based geopolymer concrete by gene expression 
+programming and random forest, Adv. Civ. Eng. 2021 (2021) 1–17, https://doi. 
+org/10.1155/2021/6618407. 
+[20] M.F. Javed, F. Farooq, S.A. Memon, A. Akbar, M.A. Khan, F. Aslam, R. Alyousef, 
+H. Alabduljabbar, S.K.U. Rehman, S.K. Ur Rehman, S. Kashif, U. Rehman, New 
+prediction model for the ultimate axial capacity of concrete-filled steel tubes: an 
+evolutionary approach, Crystals. 10 (2020) 1–33, https://doi.org/10.3390/ 
+cryst10090741. 
+[21] A. Ahmad, F. Farooq, P. Niewiadomski, K. Ostrowski, A. Akbar, F. Aslam, 
+R. Alyousef, Prediction of compressive strength of fly ash based concrete using 
+individual and ensemble algorithm, Materials (Basel). 14 (2021) 1–21, https://doi. 
+org/10.3390/ma14040794. 
+[22] F. Farooq, W. Ahmed, A. Akbar, F. Aslam, R. Alyousef, Predictive modeling for 
+sustainable high-performance concrete from industrial wastes: a comparison and 
+optimization of models using ensemble learners, J. Clean. Prod. 292 (2021) 
+126032, https://doi.org/10.1016/j.jclepro.2021.126032. 
+[23] M.F. Javed, M.N. Amin, M.I. Shah, K. Khan, B. Iftikhar, F. Farooq, F. Aslam, 
+R. Alyousef, H. Alabduljabbar, Applications of gene expression programming and 
+regression techniques for estimating compressive strength of bagasse ash based 
+concrete, Crystals. 10 (2020) 1–17, https://doi.org/10.3390/cryst10090737. 
+[24] A. Foucquier, S. Robert, F. Suard, L. St´ephan, A. Jay, State of the art in building 
+modelling and energy performances prediction: a review, Renew. Sustain. Energy 
+Rev. 23 (2013) 272–288, https://doi.org/10.1016/j.rser.2013.03.004. 
+[25] Y. Lv, J. Liu, T. Yang, D. Zeng, A novel least squares support vector machine 
+ensemble model for NOx emission prediction of a coal-fired boiler, Energy. 55 
+(2013) 319–329, https://doi.org/10.1016/j.energy.2013.02.062. 
+[26] J. Dou, A.P. Yunus, D. Tien Bui, A. Merghadi, M. Sahana, Z. Zhu, C.W. Chen, 
+K. Khosravi, Y. Yang, B.T. Pham, Assessment of advanced random forest and 
+decision tree algorithms for modeling rainfall-induced landslide susceptibility in 
+the Izu-Oshima Volcanic Island, Japan, Sci. Total Environ. 662 (2019) 332–346, 
+https://doi.org/10.1016/j.scitotenv.2019.01.221. 
+[27] D. Zhang, J.J.P. Tsai, Machine learning and software engineering, Softw. Qual. J. 
+11 (2003) 87–119, https://doi.org/10.1023/A:1023760326768. 
+[28] J.S. Chou, A.D. Pham, Enhanced artificial intelligence for ensemble approach to 
+predicting high performance concrete compressive strength, Constr. Build. Mater. 
+49 (2013) 554–563, https://doi.org/10.1016/j.conbuildmat.2013.08.078. 
+[29] M. Galar, A. Fernandez, E. Barrenechea, H. Bustince, F. Herrera, A review on 
+ensembles for the class imbalance problem: bagging-, boosting-, and hybrid-based 
+approaches, IEEE Trans. Syst. Man Cybern. Part C Appl. Rev. 42 (2012) 463–484, 
+https://doi.org/10.1109/TSMCC.2011.2161285. 
+[30] H.M. Gomes, J.P. Barddal, F. Enembreck, A. Bifet, A survey on ensemble learning 
+for data stream classification, ACM Comput. Surv. 50 (2017) 1–36, https://doi.org/ 
+10.1145/3054925. 
+[31] H. Salehi, R.B.-E. structures, undefined 2018, Emerging artificial intelligence 
+methods in structural engineering, Elsevier. (n.d.). 
+[32] J. Rahman, K.S. Ahmed, N.I. Khan, K. Islam, S. Mangalathu, Data-driven shear 
+strength prediction of steel fiber reinforced concrete beams using machine learning 
+approach, Eng. Struct. 233 (2021) 111743. https://doi.org/10.1016/j. 
+engstruct.2020.111743. 
+[33] A. Behnood, E.M. Golafshani, Predicting the compressive strength of silica fume 
+concrete using hybrid artificial neural network with multi-objective grey wolves, 
+J. Clean. Prod. 202 (2018) 54–64, https://doi.org/10.1016/j.jclepro.2018.08.065. 
+[34] K. Güçlüer, A. ¨Ozbeyaz, S. G¨oymen, O. Günaydın, A comparative investigation 
+using machine learning methods for concrete compressive strength estimation, 
+Mater. Today Commun. 27 (2021) 102278, https://doi.org/10.1016/j. 
+mtcomm.2021.102278. 
+[35] M.A. Getahun, S.M. Shitote, Z.C. Abiero Gariy, Artificial neural network based 
+modelling approach for strength prediction of concrete incorporating agricultural 
+and construction wastes, Constr. Build. Mater. 190 (2018) 517–525, https://doi. 
+org/10.1016/j.conbuildmat.2018.09.097. 
+[36] H. Ling, C. Qian, W. Kang, C. Liang, H. Chen, Combination of support vector 
+machine and K-Fold cross validation to predict compressive strength of concrete in 
+marine environment, Constr. Build. Mater. 206 (2019) 355–363, https://doi.org/ 
+10.1016/j.conbuildmat.2019.02.071. 
+[37] Z.M. Yaseen, R.C. Deo, A. Hilal, A.M. Abd, L.C. Bueno, S. Salcedo-Sanz, M.L. Nehdi, 
+Predicting compressive strength of lightweight foamed concrete using extreme 
+learning machine model, Adv. Eng. Softw. 115 (2018) 112–125, https://doi.org/ 
+10.1016/j.advengsoft.2017.09.004. 
+[38] W.Z. Taffese, E. Sistonen, Machine learning for durability and service-life 
+assessment of reinforced concrete structures: recent advances and future 
+directions, Autom. Constr. 77 (2017) 1–14, https://doi.org/10.1016/j. 
+autcon.2017.01.016. 
+[39] S. Yokoyama, T. Matsumoto, Development of an automatic detector of cracks in 
+concrete using machine learning, in, Procedia Eng., Elsevier Ltd (2017) 
+1250–1255, https://doi.org/10.1016/j.proeng.2017.01.418. 
+[40] W. Ben Chaabene, M. Flah, M.L. Nehdi, Machine learning prediction of mechanical 
+properties of concrete: critical review, Constr. Build. Mater. 260 (2020) 119889, 
+https://doi.org/10.1016/j.conbuildmat.2020.119889. 
+[41] M. Su, Q. Zhong, H. Peng, S. Li, Selected machine learning approaches for 
+predicting the interfacial bond strength between FRPs and concrete, Constr. Build. 
+Mater. 270 (2021) 121456, https://doi.org/10.1016/j.conbuildmat.2020.121456. 
+[42] F.R. Balf, H.M. Kordkheili, A.M. Kordkheili, A new method for predicting the 
+ingredients of self-compacting concrete (SCC) including fly ash (FA) using data 
+envelopment analysis (DEA), Arab. J. Sci. Eng. (2020) 1–22, https://doi.org/ 
+10.1007/s13369-020-04927-3. 
+[43] R. Buˇsi´c, M. Benˇsi´c, I. Miliˇcevi´c, K. Strukar, Prediction models for the mechanical 
+properties of self-compacting concrete with recycled rubber and silica fume, 
+Materials (Basel). 13 (2020) 1821, https://doi.org/10.3390/MA13081821. 
+[44] M. Azimi-Pour, H. Eskandari-Naddaf, A. Pakzad, Linear and non-linear SVM 
+prediction for fresh properties and compressive strength of high volume fly ash 
+self-compacting concrete, Constr. Build. Mater. 230 (2020) 117021, https://doi. 
+org/10.1016/j.conbuildmat.2019.117021. 
+[45] P. Saha, P. Debnath, P. Thomas, Prediction of fresh and hardened properties of self- 
+compacting concrete using support vector regression approach, Neural Comput. 
+Appl. 32 (2020) 7995–8010, https://doi.org/10.1007/s00521-019-04267-w. 
+[46] T. Al-Mughanam, T.H.H. Aldhyani, B. Alsubari, M. Al-Yaari, Modeling of 
+compressive strength of sustainable self-compacting concrete incorporating treated 
+palm oil fuel ash using artificial neural network, Sustain. 12 (2020) 1–13, https:// 
+doi.org/10.3390/su12229322. 
+[47] F. Aslam, F. Farooq, M.N. Amin, K. Khan, A. Waheed, A. Akbar, M.F. Javed, 
+R. Alyousef, H. Alabdulijabbar, Applications of gene expression programming for 
+estimating compressive strength of high-strength concrete, Adv. Civ. Eng. 2020 
+(2020) 1–23, https://doi.org/10.1155/2020/8850535. 
+[48] F. Farooq, M.N. Amin, K. Khan, M.R. Sadiq, M.F. Javed, F. Aslam, R. Alyousef, 
+A comparative study of random forest and genetic engineering programming for 
+the prediction of compressive strength of high strength concrete (HSC), Appl. Sci. 
+10 (2020) 1–18, https://doi.org/10.3390/app10207330. 
+[49] P.G. Asteris, K.G. Kolovos, Self-compacting concrete strength prediction using 
+surrogate models, Neural Comput. Appl. 31 (2019) 409–424, https://doi.org/ 
+10.1007/s00521-017-3007-7. 
+[50] S. Selvaraj, S. Sivaraman, Prediction model for optimized self-compacting concrete 
+with fly ash using response surface method based on fuzzy classification, Neural 
+Comput. Appl. 31 (2019) 1365–1373, https://doi.org/10.1007/s00521-018-3575- 
+1. 
+[51] J. Zhang, G. Ma, Y. Huang, J. Sun, F. Aslani, B. Nener, Modelling uniaxial 
+compressive strength of lightweight self-compacting concrete using random forest 
+regression, Constr. Build. Mater. 210 (2019) 713–719, https://doi.org/10.1016/j. 
+conbuildmat.2019.03.189. 
+[52] A. Kaveh, T. Bakhshpoori, S.M. Hamze-Ziabari, M5’ and mars based prediction 
+models for properties of selfcompacting concrete containing fly ash, Period. 
+Polytech Civ. Eng. 62 (2018) 281–294, https://doi.org/10.3311/PPci.10799. 
+[53] D. Sathyan, K.B. Anand, A.J. Prakash, B. Premjith, Modeling the fresh and 
+hardened stage properties of self-compacting concrete using random kitchen sink 
+algorithm, Int. J. Concr. Struct. Mater. 12 (2018) 1–10, https://doi.org/10.1186/ 
+s40069-018-0246-7. 
+[54] B. Vakhshouri, S. Nejadi, Prediction of compressive strength of self-compacting 
+concrete by ANFIS models, Neurocomputing. 280 (2018) 13–22, https://doi.org/ 
+10.1016/j.neucom.2017.09.099. 
+[55] O. Belalia Douma, B. Boukhatem, M. Ghrici, A. Tagnit-Hamou, Prediction of 
+properties of self-compacting concrete containing fly ash using artificial neural 
+network, Neural Comput. Appl. 28 (2017) 707–718, https://doi.org/10.1007/ 
+s00521-016-2368-7. 
+[56] M. Abu Yaman, M. Abd Elaty, M. Taman, Predicting the ingredients of self 
+compacting concrete using artificial neural network, Alexandria Eng. J. 56 (2017) 
+523–532, https://doi.org/10.1016/j.aej.2017.04.007. 
+[57] P.G. Asteris, K.G. Kolovos, M.G. Douvika, K. Roinos, Prediction of self-compacting 
+concrete strength using artificial neural networks, Eur. J. Environ. Civ. Eng. 20 
+(2016) s102–s122, https://doi.org/10.1080/19648189.2016.1246693. 
+H. Song et al.                                                                                                                                                                                                                                    
+
+
+===== PAGE 15 =====
+
+Construction and Building Materials 308 (2021) 125021
+15
+[58] R. Siddique, P. Aggarwal, Y. Aggarwal, Prediction of compressive strength of self- 
+compacting concrete containing bottom ash using artificial neural networks, Adv. 
+Eng. Softw. 42 (2011) 780–786, https://doi.org/10.1016/j. 
+advengsoft.2011.05.016. 
+[59] B.K.R. Prasad, H. Eskandari, B.V.V. Reddy, Prediction of compressive strength of 
+SCC and HPC with high volume fly ash using ANN, Constr. Build. Mater. 23 (2009) 
+117–128, https://doi.org/10.1016/j.conbuildmat.2008.01.014. 
+[60] ASTM C39/C39M - Standard Test Method for Compressive Strength of Cylindrical 
+Concrete Specimens | Engineering360, (n.d.). https://scholar.google.com/scholar? 
+hl=en&as_sdt=0%2C5&q=C39%2FC39M-12%2C+A.%2C+Standard+test+
+method+for+compressive+strength+of+cylindrical+concrete+specimens.+
+2012.&btnG= (accessed July 30, 2021). 
+[61] Anaconda, Anaconda | The World’s Most Popular Data Science Platform, 
+Anaconda. (2021). 
+[62] C. Ferreira, Gene Expression Programming: a New Adaptive Algorithm for Solving 
+Problems, Arxiv.Org. (2001). http://arxiv.org/abs/cs/0102027. 
+[63] C. Ferreira, Gene Expression Programming and the Evolution of Computer 
+Programs, in: Recent Dev. Biol. Inspired Comput., IGI Global, 2011: pp. 82–103. 
+https://doi.org/10.4018/978-1-59140-312-8.ch005. 
+[64] M. Hadzima-Nyarko, E.K. Nyarko, N. Ademovi´c, I. Miliˇcevi´c, T.K. ˇSipoˇs, Modelling 
+the influence of waste rubber on compressive strength of concrete by artificial 
+neural networks, Materials (Basel). 12 (2019) 561, https://doi.org/10.3390/ 
+ma12040561. 
+H. Song et al.                                                                                                                                                                                                                                    

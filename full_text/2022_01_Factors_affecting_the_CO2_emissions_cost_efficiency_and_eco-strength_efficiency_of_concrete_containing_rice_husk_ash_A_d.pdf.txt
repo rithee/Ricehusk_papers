@@ -1,0 +1,4986 @@
+
+===== PAGE 1 =====
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Citation for published version:
+Ozturk, E, Ince, C, Derogar, S & Ball, R 2022, 'Factors affecting the CO2 emissions, cost efficiency and eco-
+strength efficiency of concrete containing rice husk ash: A database study', Construction and Building Materials,
+vol. 326, 126905. https://doi.org/10.1016/j.conbuildmat.2022.126905
+DOI:
+10.1016/j.conbuildmat.2022.126905
+Publication date:
+2022
+Document Version
+Peer reviewed version
+Link to publication
+Publisher Rights
+CC BY-NC-ND
+University of Bath
+Alternative formats
+If you require this document in an alternative format, please contact:
+openaccess@bath.ac.uk
+General rights
+Copyright and moral rights for the publications made accessible in the public portal are retained by the authors and/or other copyright owners
+and it is a condition of accessing publications that users recognise and abide by the legal requirements associated with these rights.
+Take down policy
+If you believe that this document breaches copyright please contact us providing details, and we will remove access to the work immediately
+and investigate your claim.
+Download date: 15. Jun. 2026
+
+
+===== PAGE 2 =====
+
+ 
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+ 
+3 
+4 
+5  Factors affecting the CO2 emissions, cost efficiency and eco-strength efficiency of concrete containing rice 
+husk ash: A database study 
+6 
+8 
+9 
+ 
+10 
+11 
+12 
+ 
+Abstract 
+13 The agriculture industry has grown dramatically by about three times over the last 50 years due to the rapid 
+14 
+15 population growth, improvements in green production technology and agricultural land development. Rice 
+16 
+17 is the second most-consumed agricultural product globally. The rice husk ash (RHA), attained by 
+burning 
+18 the husk that is removed in the process of rice production, possesses high pozzolanic activity and 
+therefore 
+19 
+20  is a promising supplementary cementitious material. Despite the numerous studies on the successful 
+21 
+22 incorporation of RHA in concrete in the literature, a comprehensive assessment on the sustainability aspects 
+23 
+24 of these practices has not yet been solely and exclusively addressed. The paper reports findings from the 
+25 analysis of a large database on the RHA incorporation in concrete.  Principal sustainability components 
+such 
+Manuscript Number: 
+CONBUILDMAT-D-21-10628R1 
+Article Type: 
+Research Paper 
+Keywords: 
+rice husk ash;  Waste utilisation;  Database;  CO2 emissions and cost efficiency; 
+cleaner waste management alternative route;  Cement 
+Corresponding Author: 
+Ceren Ince, BSc, MSc, PhD 
+Orta Dogu Teknik Universitesi Kuzey Kibris Kampusu 
+Güzelyurt, TURKEY 
+First Author: 
+Ece Ozturk, BSc 
+Order of Authors: 
+Ece Ozturk, BSc 
+Ceren Ince, BSc, MSc, PhD 
+Shahram Derogar, BSc, MSc, PhD 
+Richard J Ball, BEng, PhD, FHEA, CSci, CEng, FIMMM 
+
+
+----- TABLE p2#1 -----
+
+ | 
+Manuscript Number: | CONBUILDMAT-D-21-10628R1
+ | 
+Article Type: | Research Paper
+ | 
+Keywords: | rice husk ash; Waste utilisation; Database; CO2 emissions and cost efficiency;
+ | cleaner waste management alternative route; Cement
+ | 
+Corresponding Author: | Ceren Ince, BSc, MSc, PhD
+Orta Dogu Teknik Universitesi Kuzey Kibris Kampusu
+Güzelyurt, TURKEY
+ | 
+First Author: | Ece Ozturk, BSc
+ | 
+Order of Authors: | Ece Ozturk, BSc
+ | Ceren Ince, BSc, MSc, PhD
+ | Shahram Derogar, BSc, MSc, PhD
+ | Richard J Ball, BEng, PhD, FHEA, CSci, CEng, FIMMM
+
+===== PAGE 3 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+26 
+27 as CO2 emissions, cost efficiency and eco-strength efficiency are described. The database, comprising over 
+28 
+29 1000 data points has been utilized to assess the key factors that have significant influences on the 
+mechanical 
+30 properties of concrete comprising RHA using the established set of criteria. Independent determination 
+of 
+31 
+32 the boundary conditions played a vital role in the sustainability assessment. The results showed that the use 
+33 
+34 of RHA along with the other pozzolanic materials can yield a 25% diminution in the CO2 emissions 
+35 generated during the concrete production in conjunction with a 65% rise in the cost efficiency of such 
+36 
+37 practices. The findings reported in this study demonstrate improved sustainability for construction practice 
+38 
+39 and highlight greener waste management routes that can be established for RHA. 
+40 
+41 
+42 Keywords 
+43 
+44 Rice husk ash, waste utilisation, database, CO2 emissions and cost efficiency, cleaner waste management 
+45 alternative route, cement. 
+46 
+47 
+48 
+49 
+50 
+51 
+52 
+53 
+54 
+55 
+ 
+
+
+===== PAGE 4 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+ 
+ 
+1. Introduction 
+The dramatic increase of environmental pollution and its associated adverse effects on health is threatening 
+the entire planet unprecedentedly. One of the major contributors for this is the unlimited generation of raw 
+materials from the continual increase in demand for food production particularly in developed countries 
+11 (Bhuvaneshwari et al., 2019). It is widely known that most of the main agricultural production was 
+cultivated 
+12 for thousands of years in what is now entitled ‘developing’ countries’ (de Candolle, 1886; Vavilov, 1926; 
+13 
+14  Harlan, 1975; Simmonds, 1976; Fowler et al., 2001).  Throughout history, the utmost focus of genetic 
+15 
+16  diversity has correspondingly been constituted in the developing countries (Vavilov, 1926; Zeven and 
+17 
+18 Zhukovsky, 1975; Pretty et al., 2003). Waste generation, substantially grows due to the dramatic rise in 
+the 
+19 consumption of raw material and is expected to reach 3.4 billion tons by 2050 (Kaza et al., 2018). Some 
+of 
+20 
+21  the most common disposal methods further contribute to environmental damage. For instance, Sathiparan 
+22 
+23 and De Zoysa, (2018) stated that, open dumping and burning, the two frequently utilized methods for 
+waste 
+24 disposal, have substantial adverse effects on human health and environment. 
+25 
+26 
+27 
+28 The agriculture industry, for instance, has dramatically grown by about three times over the last 50 years 
+29 due to the growing population, improvements in green production technology and agricultural land 30 
+31  development (Bhuvaneshwari et al., 2019; FAO, 2017; FAO, 2019). As defined by Ramírez-García et al. 
+32 
+
+
+===== PAGE 5 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+33 2019, agricultural waste, undesirably generated by agricultural activities, significantly contributed to 
+waste 
+34 generation primarily as a result of the increase in agro-based products. Although the environmental 
+pollution 35 
+36  
+and its associated health hazards caused by the agricultural wastes are a key global challenge, the 
+37 
+38 inadequacies of waste disposal methods is one of the most devastating factors influencing the 
+environmental  
+39 deprivation (Ramírez-García et al., 2019). Incineration, for instance, is leading a substantial increase in 
+the 40 
+41 production of greenhouse gas emissions (Bhuvaneshwari et al., 2019). It is also documented in Sabiiti (2011) 
+42 
+43 that burning agricultural waste is a conventional method particularly in under-developed nations. This 
+44 approach is one of the biggest contributors to environmental contamination. Ezcurra et al. (2001) 
+reported 45 
+46  that, gaseous pollutants, in particular carbon monoxide, nitrous oxide, nitrogen dioxide and particles such 
+47 
+48 as smoke carbon are liberated to the environment because of agricultural waste burning. These pollutants 
+49 significantly contribute to acid deposition (Lacaux et al., 1992) as a result of ozone and nitric acid 
+formation 
+50 
+51 (Hegg et al., 1987), and hence endangering human and ecological health (Alston et al., 2014). Dumping, on 
+52 
+53 the other hand, often adversely affects the soil properties mainly from the ingress of the methane gas in 
+the 
+54 land. Treatment methods or alternatively utilizing the wastes as fertilizer or animal food are often not 
+55 reported to be environmentally friendly due to heavy chemicals used for this process that both pollute the 
+environment and negatively affect the ecosystem (Vadiveloo et al., 2009).  It must be emphasized that the 
+potency of agricultural waste is a function of the quantity produced as well as the disposal methods utilized. 
+ 
+
+
+===== PAGE 6 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+Rice, one of the most produced agricultural products, is the second most-consumed food item globally 
+(Fernandes et al., 2016). It is an important staple food that provides half of the nutrients with a yearly 
+production of 742 million tons (FAO, 2015). On the average, paddy comprises 72% rice, 5-8% of bran, and 
+11 20-22% of husk (Li et al., 2016; Muthadhi and Kothandaraman, 2010). The husk is removed in the 
+process 
+12 of the production of rice. Production of rice produces two types of husks. Bran surrounds the rice and has 
+13 
+14  high nutritional properties. Glume (outer husk of rice) has a stiff structure and low nutritional properties. 
+15 
+16 Glume comprises a high volume of amorphous silica and carbon content with low density and high volume 
+17 
+18 (Yuzer et al., 2013). As Della et al. (2002) stated that cellulose, lignin, and inorganic compounds are the 
+19 main ingredients of glume. It is reported in the literature that the inorganic portion contains, on average, 
+20 
+21  95% amorphous hydrated silica by weight. Although this is a cost-effective material, high silica content 
+22 
+23 discourages recycling of rice husks by the rice production industry. Rice husks are also not suitable for 
+24 animal feed due to the high silica content that results in the low nutritional value and potential to cause 
+25 
+26 serious health problems due to accumulation within an animal’s body (Zerbino et al., 2011). 
+27 
+28 
+29  Maiti et al. (2016) demonstrated that the rice husk char attained through the rice husk gasification system 
+30 
+31 could be used as a biomass energy source. It is extensively documented in Rigon et al. (2021) that rice husk 
+32 
+33 is commonly used in thermal power stations which results in the formation of rice husk ash (RHA). Rice 
+34 husk, substantially available in various developing countries, is used for the bioenergy production (Pode 
+et 35 
+36 al., 2015; Pode, 2016). It is also essentially reported in Rigon et al. (2021) that Brazil alone generates ~3.3 
+37 
+
+
+===== PAGE 7 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+38 million tonne rice husk annually. Despite the fact that only a mere amount of this husk is currently used 
+for 
+39 the energy production in Brazil, it should be emphasised that the rice husk ash generation reaches up to 
+40 
+41  495.000 t annually. The biomass energy by means of gasification or thermally generated electricity is 
+42 
+43 currently becoming a more common practice particularly in Asian countries. It should be emphasised that 
+44 the several Asian countries such as India, China, Thailand, Cambodia, Malaysia, Indonesia, Philippines 
+45 
+46  have already implemented rice husk gasification technology for power generation (Pode et al., 2015; 
+47 
+48 Shackley et al., 2012; Lim et al., 2012). Biomass gasifiers are also recently used in rice mills in 
+Cambodia 
+49 to produce power for machine operations and office appliances (Pode et al., 2015; Shackley et al., 2012). 
+50 
+51  Teixeira et al. (2016) also stresses the fact that essentially increasing amounts of fly ash is also being 
+52 
+53 produced through the biomass combustion over the last years (Teixeira et al., 2016; Tarelho et al., 2012). 
+54 Application of rice husk has also been addressed across a diverse range of applications in the literature. 
+55 
+These include the utilization of rice husk in energy storage/capacitors, production of silica gels, silicon chips, 
+manufacture of lightweight construction materials and protection, fertilizer, and to synthesis of activated 
+carbon and silica. Rice husk ash (RHA), produced as from burning rice husk, is approximately 20% of the 
+weight of the rice. However, the byproduct attained following the biomass operation is often disposed of in 
+rivers or landfill which cause substantial soil contamination and water pollution (Liu et al., 2012). 
+ 
+11 It is widely reported in the literature that the RHA comprises primarily silicon dioxide (SiO2) and smaller 
+12 amounts of carbon (C), potassium oxide (K2O), phosphoric oxide (P2O5) as well as calcium oxide (CaO). 
+13 
+14  
+Magnesium (Mg), iron (Fe), and sodium (Na) could be present as an impurity (Rigon et al., 2021; 
+15 
+
+
+===== PAGE 8 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+16  Venkatanarayanan and Rangaraju, 2013). The most commonly implemented methods of obtaining RHA 
+17 
+18 comprise either uncontrolled burning or controlled combustion. The controlled combustion could be 
+19 performed using the moving grate incinerators or bubbling fluidized bed reactors (Armesto et al., 2002; 
+20 
+21  Fernandes et al., 2016; Ferraro et al., 2010). It must be emphasised that the chemical composition and 
+22 
+23 structure of RHA is significantly affected by these procedures and more specifically by the temperature 
+and 
+24 the duration of these processes. (Ferro et al., 2007; Ferro, 2009; Rigon et al., 2021; Rafiee et al., 2012). 
+25 
+26  Chandrasekhar et al. (2006) stated that surface melting takes place prior to the oxidation of carbon during 
+27 
+28 rapid heating of the rice husk and this further results high carbon content of the ash and exhibits slightly 
+29 darker colours as a result of the partial combustion (Isberto et al., 2019; Yang et al., 2016). Oxidation of 
+30 
+31 carbon prior to the melting of silica is enabled when performing controlled combustion with lowered heating 
+32 
+33 rate and therefore, the lower carbon content of ash and consequently gray or pinkish-white colour of 
+RHA 
+34 is obtained (Isbero et al., 2019; Anantha et al., 2016; Isberto et al., 2019; Chandrasekhar et al., 2006). 
+35 
+36 
+37 
+38 It must be emphasised that the complete combustion of RHA provides improved pozzolanic activity as a 
+39 result of the improved reactivity, higher surface area as well as the formation of the amorphous structure 
+of 40 
+41 the ash (Rigon et al., 2021; Isberto et al., 2019; Cordeiro et al., 2009; Moraes et al., 2010). This pozzolanic 
+42 
+43 character of RHA, which is significantly affected by the burning conditions, is essentially important 
+when 
+44 used as a binder substitute in cement and concrete. It is well documented in the literature that rice husk 
+ash, 45 
+
+
+===== PAGE 9 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+46 obtained through the fluidized bed combustion process, possess high pozzolanicity and hence can react with 
+47 
+48 calcium hydroxide and generate additional formations of calcium-silicate-hydrate (C-S-H) gels. The 
+49 formation of C-S-H gels densify the cement matrix and enables improved durability and therefore is a 50 
+51  promising supplementary cementitious material to be used in mortar and concrete making (De Sensale, 
+52 
+53 2010; Metha & Monteiro, 2014; Rigon et al., 2021). 
+54 
+55 
+It is also reported in Xu et al. (2012) that RHA has a porous microstructure, high specific surface area as well 
+as high amorphous nano-silica content. Prasara and Gheewala, (2017), de Sensale et al. (2008) and 
+James and Rao (1986) also stresses the fact that the chemical composition of RHA, more specifically the 
+carbon content of the by-product, essentially depends on the combustion conditions. When calcined at 
+temperatures greater than 700°C, crystalline silica alone is formed that can be utilised in the steel and ceramic 
+industries only (Malhotra and Mehta, 1996). Conversely, when crystalline silica is subjected to air, it can be 
+dangerous to human exposure as it often causes silicosis. Thus, the lower burning temperatures, 11 
+particularly below 700°C, of RHA are recommended to produce amorphous silica that is suitable as a 
+12 supplementary cementitious material (SCM) in construction materials as well as a filler material in rubber 
+13 
+14  or paint industry (Prasara and Gheewala, 2017; He et al., 2017). The optimal combustion temperature is 
+15 
+16  reported to be between 500–700°C for the attainment of the highest amorphous silica content (Msinjili et 
+17 
+18 al., 2017; Nair et al., 2008; Rêgo et al., 2015; Xu et al., 2016). Using temperatures below 500°C led to an 
+19 uncontrolled burning that does not properly convert the husk to ash due to the insufficient combustion, 
+and 
+20 
+21  consequently a substantial amount of unburnt carbon remained in the resulting ash. Carbon content above 
+22 
+23 30% is expected to have a negative impact on the pozzolanic activity of RHA (Cook, 1986). For 
+instance, 
+
+
+===== PAGE 10 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+24 it is widely reported in Venkatanarayanan and Rangaraju (2013) and Corderio et al., (2009) that 
+uncontrolled 25 
+26 burning process results in a high-carbon content in the composition of RHA which could negatively affect 
+27 
+28 the pozzolanic activity as well as the rheology of mortar and concrete. The correlation between the 
+chemical 
+29 composition of RHA and the burning conditions such as the temperature and the duration are also widely 
+30 
+31  reported in Ferraro et al., (2010), Rafiee (2012), De Sensale (2010), James and Rao (1986). Rigon et al., 
+32 
+33 (2021) also emphasized that fact that fluidized bed method, enables uniform burning of biomass, and 
+grate 
+34 furnace combustion takes place along a temperature gradient. It is reported in the study that these 
+processes 35 
+36  
+have eminent influences on the characteristics of RHA. The RHA obtained through the controlled 
+37 
+38 combustion often comprises greater reactive silica minerals compared to that of the uncontrolled 
+combustion 
+39 or the open-field burning. Silica obtained by means of this process also is in non-crystalline form, which 
+is 40 
+41  essential for the pozzolanic reaction. This form of silica can then reach with calcium hydroxide in the 
+42 
+43 presence of moisture to produce calcium-silica-hydrate gels through the pozzolanic reaction. 
+44 
+45 
+46  
+It is comprehensively documented in the literature that incorporation of RHA provides significant 
+47 
+48 improvement on the mechanical properties and durability characteristics of concrete (Madandoust et al., 
+49 2011; Ezcurra et al., 2001; Yuzer et al., 2013). The considerable enhancements on the compressive and 
+50 
+51  flexural strength, reduction in permeability, enrichment in workability, and reduction in efflorescence due 
+52 
+53 to reduced calcium hydroxide are commonly reported by researchers as a consequence of the 
+incorporation 
+
+
+===== PAGE 11 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+54 of RHA in cement based materials (Mehta and Monteiro, 2014). It is previously indicated in the paper 
+that 
+55 the rice husk ash could be obtained through controlled or uncontrolled burning processes. As 
+abovementioned, the controlled burning is more influential in attaining high pozzolanic activity of RHA, 
+however uncontrolled burning is nevertheless reported to be a practice (Narra, 2011). It is also widely 
+reported in the literature that the CO2 emissions from burning are affected by a range of diverse conditions. 
+These include the moisture content and chemical composition of rice husk, as well as the burning method and 
+the duration and extent of burning (Arai et al., 2015). The studies meticulously sourced from the literature for 
+the construction of the database often did not contain sufficient information regarding the 11 burning process 
+of the RHA. This feature, although critical, could not be considered herein due to the 
+12  aforementioned inadequacies regarding the burning process of RHA.    
+13 
+14 
+15 
+16 It is reported in Qing-ge et al. (2004) that the utilisation of RHA as a cement substitute yielded a rise in the 
+17 
+18 compressive strength of concrete. This feature further caused a great reduction in the average pore radius 
+of 
+19 the concrete, and decreased the amount of Ca(OH)2 within the matrix. Zhang et al. (1996) also reported 
+that 
+20 
+21 the RHA, a high pozzolanicity material, enhanced the interfacial transition zone (ITZ) amongst the cement 
+22 
+23 matrix as well as the aggregate in concrete. Yu et al. (1999) reported that in addition to the physical and 
+24 mechanical properties, the durability could also be enhanced for RHA blended concrete due to formation 
+of 25 
+26  calcium-silicate-hydrate (CSH) gel and less portlandite, Ca(OH)2. Saraswathy and Song (2007) further 
+27 
+28 reported that incorporating RHA up to a substitution level of 30% decreased the permeability and hence 
+the 
+29 chloride penetration which considerably enhanced the corrosion resistance and strength of concrete. 30 
+
+
+===== PAGE 12 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+31  Safiuddin et al. (2010) also demonstrated that optimal strength of concrete was attained when 15% RHA 
+32 
+33 was added to the existing mixture in concrete. 5% RHA with respect to the total volume of binder, was 
+34 reported to enhance mechanical properties of concrete when utilised as a cement substitute. Cordiero et 
+al. 35 
+36 (2009) investigated the incorporation of ultra-fine RHA (particle size of 3 µm). The study showed that the 
+37 
+38 utilisation of 20% RHA as a cement substitute resulted in an enhancement of mechanical properties and 
+39 durability. Rego et al. (2015) also reported that residual RHA was an appropriate supplement for cement 
+40 
+41  even with low amorphous silica content. Chatveera and Lertwattanaruk (2011) utilized RHA with a fine 
+42 
+43 particle size typically smaller than 12 µm where the cement substitution level was up to 20%. Enhanced 
+44 strength and durability of concrete were attained in the study. Chopra et al. (2015) also documented that 
+the 45 
+46  use of RHA, up to 20% as cement substitute, increased the strength and durability in self-compacted 
+47 
+48 concrete. Black RHA with a particle size of 12 µm was also reported to attain high strength concrete, 
+49 particularly at 5% substitution (Mahmud, 2010). Sulfate, progressively attacks concrete and changes its 
+50 
+51 internal microstructure, having a direct influence on engineering properties and processes such as swelling, 
+52 
+53 spalling, and cracking (Marchand, et al., 2010). Bolla et al. (2015) stated that the RHA significantly 
+54 improved the concrete durability in particular the resistance of concrete to sulphate attack. Bahri et al. 
+(2018) 
+55 also used black and grey RHA as a substitution of cement (20% by weight). It is shown in the study that 
+the grey RHA enhanced the compressive strength by 30% due to the lower carbon content of the ash whereas, 
+the black RHA lower the compressive strength by 30% compared to the control specimen. 
+The social aspects of the RHA utilization in concrete is rarely addressed in the literature (Prasara and 
+Gheewala, 2017). Shacklet et al., (2012) investigated the greenhouse gas emission reduction, cost reductions 
+
+
+===== PAGE 13 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+and employment creation for rice husk ash applications using environmental, economic and social indicators 
+and suggested that the ash could be used to substitute the charcoal as a sustainable option. Shacklet et al., 
+11 (2012) also stresses the fact that a further research regarding the agronomic benefits of rice husk char on 
+the 
+12 health and ecological hazards resulting from char generation, storage and mobilization is required. Later 
+in 13 
+14 2020, Jittin et al., (2020) also emphasized the social and environmental aspects of the open field burning of 
+15 
+16 rice husk that comprised not only the emissions of harmful gasses and also the adverse consequences of the 
+17 
+18 increased smog along with the reduction in fertility that leads to the detrimental health concerns to all 
+living 
+19 creatures. 
+20 
+21 
+22 
+23 Although there are numerous studies on concrete incorporating RHA, the majority of these address the 
+24 engineering properties of the end product and not the sustainability indices when used in construction 
+25 
+26  practice. For instance, Gursel et al. (2016) reported the implication of Life Cycle Assessment (LCA) on 
+27 
+28 sustainable cementitious materials by considering the cradle-to-gate approach. Gastaldini et al. (2009), 
+on 
+29 the other hand, studied the unit cost of concrete incorporating RHA. It is reported that the increase in the 
+30 
+31  unit cost of concrete when utilising RHA should not be considered alone as higher compressive strengths 
+32 
+33 of concrete are attained compared to the conventional supplementary cementitious materials. Gastaldini 
+et 
+34 al. (2014) further stated that the cost of adding 5% RHA is less than 5% silica fume while taking several 
+35 
+36 critical factors into account when computing the cost per cubic meter of concrete. Sua-iam and Makul (2014) 
+37 
+
+
+===== PAGE 14 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+38 also reported that when used as a fine aggregate replacement, the cost of concrete could reduce 
+substantially 
+39 compared to the control mixture. Brown (2012) also reported that the unit cost of the RHA is less than 40 
+41  cement and that the replacement of RHA reduces the unit cost by around 43-51%. Later in 2018, Gill and 
+42 
+43 Siddique also demonstrated that the unit price of concrete reduces with the replacement of RHA in 
+concrete 
+44 due to the lower unit prices of RHA compared to the cement binder. Moraes et al. (2010) exhibited the 
+45 
+46 potential of LCA as an environmental tool which is used for the evaluation environmental sustainability of 
+47 
+48 RHA utilization as mortar coatings. Later in 2013, Turner and Colins stated that the use of geopolymers 
+49 provide high potential on reducing the carbon footprint of concrete. Turk et al. (2015) also reported that 
+50 
+51  inclusions of different industrial by-products as cement or aggregate replacement provide environmental 
+52 
+53 benefits such as pronounced reductions on the global warming potential, abiotic resource depletion 
+potential 
+54 of fossil fuels, acidification potential and eutrophication potential. The LCA results reported in Teixeira 
+et 
+55 al. (2016) has also shown that the use of 60% biomass fly ash as cement substitute improved the 
+environmental performance of concrete. Fernando et al. (2021) also conducted a life cycle assessment on 
+alkali-activated concrete comprising fly ash geopolymer and blended fly ash-rice husk ash and demonstrated 
+that considerable reduction on the carbon footprint can be attained through this practice. Sathurshan et al. 
+(2021) evaluated the life cycle assessment of concrete incorporating RHA as cement substitute. The results 
+have shown that the incorporation of RHA in the range of 10–15% can be utilised to attain improved 
+performance of environmental impact such as CO2 emission, water pollution and eco-toxicity. Recently, 11 
+Rigon et al. (2021) has also demonstrated that carbon footprint can be reduced significantly when 20% 
+12 RHA, attained through the fluidized bed method, is used as a cement substitute in concrete. Despite these 
+13 
+14  studies providing a significant insight into the use of RHA with respect to life cycle assessment and cost, 
+
+
+===== PAGE 15 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+15 
+16  there is a growing need to conduct a more comprehensive study reporting the consequences and the 
+17 
+18 significances of the sustainable perspective of the RHA use in concrete manufacture. 
+19 
+20 
+21  The reduction in natural sources and extenuation of greenhouse gas (GHG) emissions interrelated with 
+22 
+23 concrete production and construction activities are the emerging challenges in the construction industry. 
+24 The global concrete production reached up to 10 billion tonnes in 2019 and is expected to rise to 18 
+billion 25 
+26 tonnes by 2050 (Chatham House Report, 2018). The rapid growth in population and the accelerated demand 
+27 
+28 for infrastructures are the main contributors for the dramatic increase in the global concrete production. 
+29 Although cement comprises 20–40% of the total volume of concrete and/or cementitious mortar, cement 
+30 
+31  manufacturing and processing are interrelated with the substantial CO2 emissions (Mi et al., 2017; Buchs 
+32 
+33 and Schnepf, 2013; Ince, 2019; Ince et al., 2020). Approximately 0.82 tonnes of CO2 emissions are 
+generated 
+34 from the manufacture of 1 tonne of cement (Collins, 2010) and this contributes to approximately 5-6% of 
+35 
+36  global CO2 emissions. Cement production, known as the most energy-intensive production among all the 
+37 
+38 manufacturing industries, necessitates high energy and high temperature for the calcination of limestone 
+is 
+39 a limited natural resource. Chatham House stresses the fact that we would require approximately 40% 
+more 40 
+41  clinker replacements by 2050 than that of today, particularity considering that the availability of the 
+42 
+43 traditional substitutes may likely commence to fall at a time (Chatham House Report, 2018). Therefore, 
+44 utilising RHA as a replacement to cement and/or to the raw materials strongly suggests a crucial 
+reduction 45 
+
+
+===== PAGE 16 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+46 on the consumption of cement as well as the raw materials used for manufacturing mortar and concrete. The 
+47 
+48 reduction on the consumption of the raw materials because of the utilization of RHA is significantly 
+49 contributing to the reduction in the associated GHG emissions in addition to the energy required for 50 
+51  processing (Sousa-Coutinho and Papadakis, 2011). Replacing raw materials with RHA also enables a 
+52 
+53 significant decrease in the consumption of natural aggregates in construction. Insensate hazard mining 
+and 
+54 quarrying activities required to obtain the raw materials are at high risk of leading to adverse 
+environmental 
+55 consequences including, intrusions into the eco-system, wrecked landscape and pollution of air, water, 
+and soil (Sathiparan and De Zoysa, 2018). For instance, the over exploration of the sand used in concrete 
+making 
+in Sri Lanka, resulted in diverse problems such as an increases in the depth of the riverbeds, lowering of the 
+water table, and reduction of aquatic diversity (Sathiparan and De Zoysa, 2018). 
+ 
+This study assesses and re-evaluates the incorporation of RHA in concrete and examines the common 
+sustainable indices including CO2 emissions, cost efficiency and eco-strength efficiency.  Findings are 
+11 
+12 derived from a database containing over 1000 data points harvested from the literature reporting the use of 
+13 
+14 RHA in concrete. The key factors that have an influence on the mechanical properties of concrete 
+15 comprising RHA were investigated independently and comprehensively, these include, water: binder 
+ratio, 
+16 
+17  replacement type and level of RHA, the replacement type and level of pozzolans. The database approach 
+18 
+19 adopted in the paper also enabled the reassessment of incorporation of RHA in concrete and significantly 
+20 contributed to addressing the contradictory research findings among the published studies in the literature 
+21 
+22 undividedly and effectively. This study demonstrates that the determination of the boundary conditions was 
+
+
+===== PAGE 17 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+23 
+24 vital to comprehend the first stage and hence enabled a successful reassessment on the sustainable 
+indices 
+25 to be conducted precisely. The paper demonstrates, for the first time, the key factors that affect both the 
+26 
+27 mechanical properties and sustainable indices of the incorporation of RHA in concrete and offers important 
+28 
+29 practical consequences for the construction practice and for the waste management corporations. 
+30 
+31 
+32  
+2. Development of the Rice Husk Ash (RHA) Database 
+33 
+34 The database developed focuses on RHA incorporation in concrete. Although there are many parameters 
+35 affecting the performance of concrete including the origin and carbon content of RHA, pozzolanic 
+activity 36 
+37  index, the degree of amorphousness and fineness of the ash, the key factors such as the water:binder ratio, 
+38 
+39 replacement types and levels of RHA and pozzolanic materials are observed to be the most prominently 
+40 reported parameters affecting the performance of concrete within the context of the harvested papers 
+used 41 
+42 to develop the database in this study. The boundary conditions are attained through the database assessment 
+43 
+44 using the aforementioned key factors as indicators to determine the optimal ranges of water: cement 
+ratios, 
+45 compressive strength values, the replacement type and level of RHA, the type of pozzolans used as well 
+as 46 
+47  the replacement level and type of pozzolanic materials in concrete. These boundary conditions were then 
+48 
+49 employed in the assessment of CO2 emissions, cost efficiency and the eco-strength efficiency. 
+50 
+51 
+52  The database comprises data for material mix constituents, water:binder ratio, replacement types and 
+53 
+
+
+===== PAGE 18 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+54 replacement levels of RHA and pozzolanic materials, the use of plasticisers, along with the short- and 
+long- 
+55 term strength of concrete incorporated RHA. The database used in the analysis for the construction of 
+boundary conditions and then in the analysis of sustainability indices is shown in Table 1. Table 1 comprises 
+the authors of the papers, number of data points used in each paper, compressive strength at 28 days and 
+greater than 28 days, sand and cement replacement, replacement level of RHA, type and amount of pozzolans 
+and plasticisers used in making concrete. The references used to construct the database are summarized in 
+Appendix A. 
+ 
+11 The test data found in the literature was critically examined for completeness, test procedure and the 
+RHA 
+12 properties. For instance, data with missing information with regard to the mix constituents, replacement 
+13 
+14 levels and replacement types of RHA, strength of concrete were omitted from the database. Studies failing 
+15 
+16 to cite the relevant standards used for testing and inspecting are also not included in the database. 
+17 
+18 
+19 Establishing the allocated criteria was essential in obtaining a data set that was consistent and comparable. 
+20 
+21  Criteria such as use of standard mix constituent materials, standard compressive strength data, RHA 
+22 
+23 properties, replacement types and levels of RHA, type of pozzolans, replacement types and levels of 
+24 pozzolans were therefore assessed in detail before a data set or a test result was included in the database. 
+25 
+26  Figure 1 shows a flowchart that illustrates the method used to build the database in this study. A total of 
+27 
+28 1018 data points relating to concrete containing RHA were assembled. Of these, 64 experiments which 
+did 
+29 not fulfil the criteria for including data were disregarded for further evaluation. 
+
+
+===== PAGE 19 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+30 
+31 
+32 
+33 3. Data analysis 
+34 CO2 emissions, cost efficiency and eco-strength efficiency form the sustainability indicators examined in 
+35 
+36  this study. The analysis of the CO2 emissions accounts for the entire manufacturing and preparation 
+37 
+38 processes of the individual components of the concrete including cement, fine aggregates and coarse 
+39 aggregates. For instance, the CO2 emission factor of cement used in this study includes the emissions 40 
+41 generated from the fuel combustion, process-related emissions as well as the emission generated as a result 
+42 
+43 of the fuel required to mine and transport the raw materials. Fuel combustion-related CO2 emissions are 
+44 derived from the clinker production and fuel used for pyro-processing. Process related emissions, on the 
+45 
+46  other hand were generated from the chemical reactions that convert limestone to calcium oxide and CO2. 
+47 
+48 The CO2 emission factor of cement is reported to be 0.82 kg CO2/kg in Collins et al. (2010), Turner and 
+49 Collins (2013), Diego et al. (2016), Geng et al. (2019), and more recently in Debbarma et al., (2020) and 
+50 
+51  Chen et al (2022). Remarkably similar CO2 emission factors of cement are also initailly reported by 
+52 
+53 Huntzinger et al. (2009), Benhelal et al. (2013) and more recently in Huang et al. (2017) and Murmu et 
+al. 
+54 (2020). The CO2 emission factor of cement therefore is accepted to be 0.82 kg CO2/kg in this study.  55 
+ 
+The CO2 emission factors of fine and coarse aggregates also account for the extraction, cutting, grinding, 
+sieving and transportation. The CO2 emission factors of coarse and fine aggregates are reported to be 0.0459 
+kg CO2/kg and 0.0139 kg CO2/kg respectively in Flower and Sanjayan, (2007). More recently, Quattrone et al. 
+(2014) provided CO2 emission factor for coarse aggregates in similar ranges. Turner and Collins (2013) also 
+provided the same CO2 emission factor for fine aggregates. 
+
+
+===== PAGE 20 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+ 
+11 The CO2 emission factor of RHA and the pozzolans simply consider the grinding, preparation and 
+sieving 
+12 operations, the essential processes employed prior to the replacement of these materials in concrete. The 
+13 
+14  CO2 emission factor of RHA is reported to be 0.1032 kg CO2/kg in Alnahhal et al. (2018). Prominently, 
+15 
+16  very similar CO2 emission factor of RHA is also recently reported in Selvaranjan et al. (2021). The CO2 
+17 
+18 emission factors of pozzolans are largely reported in Yang et al (2013) are in a good agreement with 
+Flower 
+19 and Sanjayan (2007) who reported the CO2 emission factor of slag is to be in the range of 0.052-0.143 kg 
+20 
+21 CO2/kg. The CO2 emission factor of silica fume, initally reported in Flower and Sanjayan (2007) is also in 
+22 
+23 a great agreement with the recently reported emission factor in Murmu et al. (2020). The CO2 emission 
+24 factor of silica fume and metakaolin are initailly reported in King (2012) and Hammond and Jones 
+(2008) 25 
+26  respectively. The associated emissions, also recently reported in Cassagnabere et al. (2010), Heath et al. 
+27 
+28 (2014) as well as in Debbarma et al. (2020) along with Campos et al. (2020) are re-validated. The CO2 
+29 emission factors, and the unit prices of the raw materials used in concrete making are summarised in 
+Table 30 
+31 2. 
+32 
+33 
+34 Cost efficiency factor (CEF) is determined using the ratio of concrete compressive strength to the total 
+cost 35 
+36 of material per m3 (Ince et al., 2021). The local prices of mix constituents, summarised in Table 2, were used 
+37 
+38 to estimate the total cost of concrete and concrete containing RHA and pozzolans in US dollars. 
+Therefore 
+
+
+===== PAGE 21 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+39 the total cost of concrete was calculated by multiplying the speficied raw material in the database, 40 
+41  summarised in Table 1 with its associated CO2 emissions factor, summarised in Table 2. The database 
+42 
+43 provides the associated strength values of the corresponding specimens and therefore the cost efficiency 
+44 factor could be computed using the ratio of compessive strength of concrete to the total cost of material. 
+45 
+46  Eco-strength efficiency factor (ESEF) is then determined using the ratio of concrete compressive strength 
+47 
+48 to CO2 emissions of the materials per kg. The eco-strength efficiency factor was also determined based 
+on 
+49 the specified compressive strength values summarised in Table 1 along with the corresponding CO2 
+50 
+51 emissions of each specimen. The total CO2 emissions were also calculated based on the cummulative CO2 
+52 
+53 emissions of each raw material used in the production of concrete specimens. 
+54 
+55 
+4. Results and Discussion 
+4.1 Factors affecting the RHA incorporation in mortars and concrete 
+The database approach adopted in the paper was used to investigate critical factors such as the water:binder 
+ratio, replacement types and levels of RHA and pozzolans, that influence the short- and long-term 
+performance of concrete containing RHA. The results enabled the independent determination of boundary 
+conditions essential for the holistic reassessment of the sustainable analysis to be implemented precisely. 
+11 
+12 4.1.1 Water:binder ratio 
+13 
+14  Water: binder ratio, significantly influences the compressive strength of concrete comprising RHA, and is 
+15 
+16 categorised under 3 distinct groups; water: binder ratio less than 0.3, water: binder ratio in the range of 0.3 
+17 
+18 to 0.6 and water: binder ratio greater than 0.6. 28-day compressive strength of concrete at all replacement 
+19 levels are shown in Figure 2(a) comprising RHA with varying water:binder ratios. It should be noted that 
+
+
+===== PAGE 22 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+20 
+21 Figure 2(a) consists of 954 data points representing the compressive strength however the majority of these 
+22 
+23 (above 67%) represent concrete with water: binder ratio in the range of 0.3 – 0.6. Only 6% of the data 
+points 
+24 represent water: binder ratio less than 0.3. This is expected as the water: binder ratio less than 0.3 in 
+concrete 
+25 
+26 is usually impractical without the use of plasticisers. Water is essential for the consistence of the mixture at 
+27 
+28 the plastic stage and for the hydration reaction to attain the ultimate properties of concrete at the 
+hardened 
+29 state. It is widely accepted that the water content required to proceed the chemical reactions is much less 
+30 
+31 than the amount of water required to attain the standard consistence for workability. It should be noted that 
+32 
+33 the water:binder ratio less than 0.3 shown in Figure 2(a) are the concrete samples often prepared using 
+34 plasticisers to attain the required workability. 26% of the data demonstrated in Figure 2(a) uses a 
+35 
+36  
+water:binder ratio greater than 0.6. It is clearly demonstrated that the rise in the water:binder ratio, 
+37 
+38 irrespective of the substitution levels of RHA, caused a reduction in the compressive strength of the 
+39 concrete. Results shown in Figure 2(a) clearly demonstrated that the rise in the replacement levels of 
+RHA 40 
+41  yielded a rise in the compressive strength of concrete at both water:binder ratios less than and equal to 0.3 
+42 
+43 as well as water:cement ratios in the range of 0.3 – 0.6. This trend is no longer valid when water:binder 
+44 ratios were 0.6 and above. Increasing water content could be adopted to allow greater replacement levels 
+of 45 
+46  RHA to be incorporated in mixtures however, the excess water which is unnecessary for the chemical 
+47 
+
+
+===== PAGE 23 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+48 reactions often evaporates and form unwanted air pockets in the material’s matrix. This feature is mainly 
+49 attributed to the reduction in the compressive strength of concrete containing particularly high substitution 
+50 
+51 levels of RHA. 
+52 
+53 
+54 It is also noteworthy that the incorporation of RHA in concrete with water:binder ratios less than 0.3 was 
+55 often not possible without the use of the plasticizers. High compressive strength of concrete particularly 
+at high replacement levels were a result of plasticiser use. It should also be noted that very high water:binder 
+ratios yielded a dramatic decrease in the strength of concrete incorporating RHA at higher substitution 
+levels.  Figure 2(a) shows that the use of RHA at replacement levels greater than 55% yielded in a substantial 
+reduction in the compressive strength which was often lower than the minimum structural grade of 20MPa. 
+Also, attaining very high compressive strength values particularly 100MPa could be achieved in a laboratory 
+condition but this range is rarely met in practice. Therefore, the replacement levels greater than 55% and 11 
+compressive strength values greater than 100 MPa are disregarded in the second attempt and are re-plotted 
+12 in Figure 2(b). The number of data points was reduced from 954, shown in Figure 2(a) to 920 in Figure 
+2(b).  13 
+14 
+15 
+16 Confining the replacement levels with 55% and the compressive strength with 100MPa enabled presentation 
+17 
+18 of a more authentic behaviour of concrete containing RHA with all water:cement ratios assessed in the 
+19 paper.  It should be noted that Figure 2(b) consists of 920 data points representing the 28-day 
+compressive 
+20 
+21 strength of concrete containing RHA. Water: cement ratios in the range of 0.3-0.6 provided the greatest fit 
+22 
+23 line indicating the attainment of the best performance of concrete incorporating RHA. Although the 
+24 water:cement ratios of 0.3-0.6 and the water:cement ratios less than 0.3 provided an accelerating gradient 
+25 
+26  of compressive strength of concrete incorporated RHA, the concrete with water:cement ratios above 0.6 
+
+
+===== PAGE 24 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+27 
+28 provided a decelerating gradient of compressive strength with rising replacement levels of RHA. Due to 
+the 
+29 decelerating gradient attained at water:cement ratios greater than 0.6 shown in Figure 2(b), the 
+replacement 30 
+31  ratios of RHA were re-examined. It was apparent that the increasing gradient of compressive strength of 
+32 
+33 concrete with water:cement ratios above 0.6 only occurred when the substitution level of RHA was 
+confined 
+34 to 35%.  The compressive strength of concrete comprising RHA at all water:binder ratios was replotted 
+in 
+35 
+36 Figure 2(c) and the replacement levels of RHA were limited to 35%. 
+37 
+38 
+39 Figure 2(c) comprises 883 data points in total where 5.5% of the data represents water:cement ratios less 
+40 
+41 than 0.3 and 23.1% of the data represents water:cement ratios greater than 0.6. Therefore, most of the data 
+42 
+43 points, above 71%, represent the 28-day compressive strength of concrete with water:cement ratios in the 
+44 range of 0.3-0.6. Compared to Figures 2(a) and (b), increasing gradients of compressive strength of 
+concrete 45 
+46 at all water:binder ratios were obtained for the first time in Figure 2(c) when the replacement level of RHA 
+47 
+48 were confined to 35%. The lower carbon content of the ash, obtained though the fluidized bed 
+combustion, 
+49 is essentially responsible from the high pozzolanic activity of the ash that enabled enhance compressive 
+50 
+51  
+strength of concrete to be attained within the optimum range of replacement level of RHA 
+52 
+53 (Venkatanarayanan and Rangaraju, 2015; Talsania et al., 2015; Nehdi and El Damatty, 2003; Zhang et 
+al., 
+
+
+===== PAGE 25 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+54 1996; Gastaldini et al., 2014; Rigon et al., 2021). The results shown in Figure 2(c) further demonstrated 
+that 
+55 very high replacement levels of RHA in concrete were often achieved by increasing the water:binder 
+ratio or using a plasticiser which often resulted in adverse effects, particularity at the hardened state. The 
+results 
+presented in Figure 2(c) also correlate well with the studies in the literature that often report the optimum 
+replacement levels of RHA to be in the range of 15% to 35% to attain the ultimate performance of concrete. 
+ 
+4.1.2 Replacement type: 
+11 Binder and sand replacements were the two types of replacement of RHA examined in this paper. 28-day 
+12 compressive strengths of concrete comprising RHA used both as cement and sand replacements were 
+plotted 13 
+14 versus the replacement levels of RHA in Figure 3(a). Figure 3(a) comprises 915 data points of which more 
+15 
+16 than 90% represent the compressive strength of concrete containing RHA used as a cement replacement at 
+17 
+18 28-day compressive strength. The rise in the substitution levels of RHA resulted in a decrease in the 
+19 compressive strength of the concrete.  It is also apparent that higher substitution levels of RHA ranging 
+from 
+20 
+21  60 to 100%, used as sand replacement, are only reported at water:cement ratios greater than 0.6. As 
+22 
+23 discussed previously, the rise in the water content, to attain the required consistence with high 
+replacement 
+24 levels of RHA, causes a remarkable diminution in concrete compressive strength. It is also demonstrated 
+in 25 
+26 Figure 3(a) that when the entire data is considered with all water:cement ratios, an authentic assessment of 
+27 
+28 the effectiveness of the replacement types of RHA in concrete could not be performed. Therefore, the 
+similar 
+
+
+===== PAGE 26 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+29 approach, previously pursued in the former section, is also adopted here. Hence, the water:binder ratios 
+were 30 
+31 limited to the range 0.3-0.6, replacement levels were confined to 35% and compressive strength values were 
+32 
+33 maintained within the range 20-100 MPa in Figure 3(b). 
+34 
+35 
+36  The influence of the substitution type of RHA on the compressive strength of concrete was investigated 
+37 
+38 using a total of 604 data points, presented in Figure 3(b). It is evident in Figure 3(b) that both 
+replacement 
+39 types examined in the paper had increasing effects on the compressive strength of concrete comprising 
+RHA 40 
+41  
+and that an increase in the substitution levels of RHA up to 35% had a methodical increase in the 
+42 
+43 compressive strength. Figure 3(b) also demonstrates that the utilisation of RHA as a cement substitute 
+had 
+44 a greater influence in increasing the compressive strength of concrete compared to sand replacement. The 
+45 
+46  great majority of the data (97%) collected from the literature were on the short-term compressive strength 
+47 
+48 of concrete. Although the RHA often possessed high pozzolanic activity and hence its contribution to the 
+49 development of definitive mechanical properties could only be seen over the long-term, the physical 
+effects 50 
+51  of RHA and therefore the associated influence on the physical properties on strength was demonstrated in 
+52 
+53 Figure 3(b) alone.  Although 46% of the studies, used to construct the database in this paper, reported the 
+54 prevalence of the pozzolanic activity of the RHA, only ~3% of these reported the long-term properties of 
+55 concrete containing RHA. It is widely accepted that the pozzolanic reaction, depending on the hydration 
+reaction and more specifically the formation of the calcium hydroxide, progresses slowly and hence the actual 
+influence of the pozzolans can only be observed over the long-term. 
+4.1.3 The use pozzolans: 
+
+
+===== PAGE 27 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+The utilisation of pozzolans on the compressive strength of concrete incorporating RHA with water:binder 
+ratios in the range of 0.3-0.6 is shown Figure 4(a). It should be noted that the compressive strength of concrete 
+was confined to the range of 20 to 100MPa and that the replacement levels of RHA were limited 
+11 to the 35%. 
+12 
+13 
+14 Figure 4(a) shows that the use of pozzolans yielded in a smaller rise in the compressive strength of concrete 
+15 
+16 compared to the concrete specimens with no pozzolans. It should be emphasised again that most of the data 
+17 
+18 (~97%) used in the database reported the short-term properties of concrete and hence the actual influence 
+19 of the RHA and the additional use of pozzolans may not necessarily be reflected to the results shown in 
+20 
+21 Figure 4(a). To gain an insight into the authentic performance of RHA and the additional use of pozzolans, 
+22 
+23 the short- and long-term compressive strength of concrete comprising RHA along with the pozzolans 
+were 
+24 replotted in Figure 4(b). 
+25 
+26 
+27 
+28 Although the long-term results consist of only about 3% of the data points shown in Figure 4(b), it is 
+evident 
+29 that the long-term results enabled the actual performance of the pozzolans to be detected. It must be 
+noted 30 
+31  that the data points representing the long-term strength overlapped with those representing the short-term 
+32 
+33 strength of concrete. Calcium hydroxide, formed during cement hydration reacted with silica phases 
+within 
+34 the pozzolans forming additional calcium-silica-hydrate gels entirely responsible from the development 
+of 35 
+36  strength. Long-term results relating to compressive strength of concrete 180 days and older demonstrated 
+
+
+===== PAGE 28 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+37 
+38 improved performance compared to the short-term. It should be noted however that Figure 4(b) 
+comprises 
+39 compressive strength of concrete incorporated RHA with varying types of pozzolans. The independent 
+40 
+41 influence of the pozzolans on the strength of concrete was then investigated in Figure 4(c). 
+42 
+43 
+44 Nevertheless, out of the 954 data points used to construct the database in this paper, only 46% contained 
+the 45 
+46 incorporation of pozzolans in concrete following the set constraints. It is noteworthy that Figure 4(c) omits 
+47 
+48 data points of concrete compressive strength less than 20MPa and higher than 100MPa, and RHA used as 
+a 
+49 sand replacement level higher than 35%. Nevertheless, out of 285 concrete specimens that contained 50 
+51 pozzolans, the use of more than 10 different types of pozzolans were identified. In fact, the most commonly 
+52 
+53 used pozzolans such as silica fume, fly ash, slag and metakaolin are taken into consideration to construct 
+54 Figure 4(c). It is evident in Figure 4(c) that the use of slag and fly ash significantly contributed to the 
+strength 
+55 
+development of concrete whereas silica fume and metakaolin had less influence enhancing the compressive 
+strength of concrete. 
+ 
+4.1.4 Boundary conditions 
+The designated key factors that significantly affected the performance of concrete incorporating RHA enabled 
+the following boundary conditions to be established which were then applied for the evaluation of the 
+sustainability indicators. 
+11  
+  
+The water:cement ratios in the range of 0.3 to 0.6 were found to provide the most accomplished 
+12 
+13 strength values of concrete. 
+
+
+===== PAGE 29 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+14 
+ Compressive strength values lower than 20MPa and greater than 100MPa were disregarded as they 15 
+16  
+were not often practically acceptable and applicable to on site practice. 
+17 
+18 
+  
+It was recognized that substitution levels of RHA up to 35% increased the concrete strength and 
+19 this value was therefore adopted for all water:binder ratios examined. 
+20 
+21  
+  
+The use of RHA as a cement substitute was found to provide higher compressive strengths of 
+22 
+23  
+concrete compared to sand replacements. 
+24 
+25 
+  
+The use of pozzolans, particularly over the long-term, enabled greater strength of concrete to be 
+26 attained. 
+27 
+28  
+  
+The utilization of fly ash and slag were more effective in increasing the compressive strength of 
+29 
+30 concrete over the long-term. 
+31 The key findings outlined above formed the basis of the constrains employed to construct the feasible 32 
+33  models that are used in the sustainability assessment in the latter section. These models encapsulate the 
+34 
+35 concrete comprising RHA up to 35% and concrete comprising RHA up to 35% in conjunction with the 
+36 pozzolans. The most commonly used pozzolans are designated to be silica fume, metakaolin, fly ash and 
+37 
+38  slag that were used as cement substitute up to 35%. The models that comprised concrete containing RHA 
+39 
+40 up to 35% used both as cement and sand replacement formed the next level of context. These models 
+41 determined based on the boundary conditions enabled the assessment of the influence of RHA alone and 
+42 
+43 RHA with pozzolans as well as the replacement type of RHA on the sustainability indices to be justifiably 
+44 
+45 performed. 
+46 
+47 
+48 4.2 Sustainability Assessment 
+
+
+===== PAGE 30 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+49 
+50 The database approach adopted in the paper was also utilized to investigate the effect of CO2 emissions, 
+the 
+51 cost efficiency and the eco-strength efficiency of concrete incorporating RHA. The key factors that 
+influence 52 
+53  of the performance of concrete containing RHA, reported in the former section, enabled the independent 
+54 
+55 determination of the boundary conditions. The implementation of these boundary conditions enabled a 
+holistic reassessment of the sustainability analysis. 
+ 
+ 
+4.2.1 CO2 emissions 
+The CO2 emissions of concrete containing RHA as well as concrete containing both RHA and pozzolans are 
+shown in Figure 5(a). The CO2 emissions of a concrete control is also added for comparative purposes. 
+It must be emphased that data points shown in Figure 5(a) represent only cement replacement of RHA up 11 
+to 35% where the water:cement ratios were designated within the range of 0.3-0.6, the pozzolanic 
+12 replacements were confined to silica fume, fly ash, slag and metakaolin. Specimen data points of concrete 
+13 
+14  compressive strength lower than 20MPa and higher than 100MPa were omitted from the sustainability 
+15 
+16 analysis and hence not considered in Figure 5(a). 
+17 
+18 
+19  It is evidently from Figure 5(a) that the rise in the binder substitution of RHA yielded in a substantial 
+20 
+21  decrease in the CO2 emissions of concrete. The significant decrease (~25%) attained in the CO2 emissions 
+22 
+23 of concrete is attributed to the considerable decrease in the cement consumption necessary to make up 
+the 
+
+
+===== PAGE 31 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+24 corresponding concrete. In this case, the high CO2 emissions of cement are partially replaced by the 
+lower 25 
+26  CO2 emissions of RHA, therefore resulting in a substantial decrease in the process-related emissions. It 
+27 
+28 should also be emphasised that the utilisation of RHA as a cement substitution also reduced the demand 
+for 
+29 cement manufacture and hence this further resulted in the reduction of fuel combustion and therefore 30 
+31 contributed to reducing the carbon footprints. The use of pozzolans in conjunction with the RHA used as a 
+32 
+33 binder replacement further reduced the necessity of cement and therefore accelerated the reduction of 
+CO2 
+34 emissions and likewise independently contributed to the carbon footprint recovery. It is also noteworthy 
+that 35 
+36  587 data points, shown in Figure 5(a) were used in the CO2 emission analysis of pozzolanic concrete 
+37 
+38 containing RHA. 
+39 
+40 
+41  Figure 5(b) demonstrates the CO2 emissions of concrete containing RHA used both as cement and sand 
+42 
+43 substitutes. Figure 5(b) shows that the utilisation of RHA as a binder substitution considerably reduces 
+the 
+44 CO2 emissions of concrete due to the aforementioned reasons. The incorporation of RHA as a sand 
+substitute 45 
+46 however does not positively influence the reduction of CO2 emissions of concrete and in fact accelerates the 
+47 
+48 CO2 emissions further when compared to the control concrete. Although the use of RHA as a sand 
+49 replacement could have an adverse impact on the carbon footprint generated due to concreting activities, 
+50 
+51 devastation of natural assets to attain the essential aggregates in concrete production has harmful effects on 
+52 
+53 the ecological sustainability. Substituting fine and coarse aggregates with RHA decreases the 
+environmental 
+
+
+===== PAGE 32 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+54 damage and maintains ecological conservation. 
+55 
+ 
+CO2 emissions are plotted versus the compressive strength of concrete and concrete comprising RHA in 
+Figure 5(c). Figure 5(c) shows that the concrete (the control concrete) provided high CO2 emissions over the 
+entire range of compressive strengths examined in the database when compared to the concrete comprising 
+RHA. This is to be expected as the control concrete contained a higher amount of cement compared to that of 
+the concrete comprising RHA at all strength ranges which yielded high CO2 emissions. 
+In addition to the substantial decrease in CO2 emissions associated with the use of  RHA over all concrete 11 
+compressive strengths, Figure 5(c) also demonstrates that an increase in the compressive strength of both 
+12 control and concrete comprising RHA improved the carbon footprint. The higher CO2 emissions attained 
+in 13 
+14  these cases are attributed to the increased amount of binder and the raw materials used in making high 
+15 
+16 strength concrete. 
+17 
+18 
+19  It must be noted that the considerable amount of CO2 emissions generated in the course of the production 
+20 
+21  of the raw materials is reabsorbed during the carbonation of cement based materials. Although there are 
+22 
+23 conflicting rates reported by individual researchers in the literature (Xi et al., 2016; Yang et al., 2014; 
+Wang 
+24 et al., 2020), the average reabsorption rate is stated to be 43% between 1930 to 2013 (Xi et al., 2016). 
+This 25 
+26 suggests that the significant amount of CO2 emitted during the production of the raw materials is reabsorbed 
+27 
+28 during the lifespan of cement based materials. 
+29 
+30 
+31 4.2.2 Cost efficiency factor 
+
+
+===== PAGE 33 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+32 
+33 The cost efficiency factor of concrete containing RHA as well as concrete containing both RHA and 
+34 pozzolans are shown in Figure 6(a). The cost efficiency factor of the control concrete is also added in 
+Figure 35 
+36 6(a) for comparison. It is previously shown in the paper that the incorporation of RHA as a cement substitute 
+37 
+38 increases the strength of concrete. The use of pozzolans in conjunction with the RHA promotes the 
+39 formation of calcium-silicate-hydrate gels and hence improves the hydraulic binding capacity of the 
+matrix. 40 
+41 Replacing the binder with RHA and pozzolans also reduces the total cost of the mixture as these materials 
+42 
+43 have usually lower unit prices compared to the cement binder itself. Figure 6(a) reveals that the cost 
+44 efficiency of concrete containing RHA is systematically increasing with the increased substitution level 
+of 45 
+46  RHA. The rise in the cost efficiency of concrete containing RHA is attributed to the significant rise in the 
+47 
+48 strength of concrete and an accompanying reduction in the total cost of the mixture. The utilisation of 
+49 pozzolans that further enhanced the strength of concrete and yielded a further decrease in the cost of such 
+50 
+51 mixtures led to a 65% rise in the cost efficiency of concrete. 
+52 
+53 
+54 Figure 6(b) demonstrates the cost efficiency of concrete containing RHA when used as a substitute for 
+both 
+55 cement and sand. The utilisation of RHA as a binder substitute increased the cost efficiency of concrete 
+due to the substantial increase in strength in conjunction with the decrease in the overall cost of these 
+mixtures. The incorporation of RHA as a sand substitute did not improve the cost efficiency of the concrete as 
+was 
+the case for binder replacement. The reduction in the cost efficiency of concrete containing RHA as a sand 
+substitute, compared to the case of binder replacement, is mainly attributed to the lower increase in strength as 
+well as the lower reduction conquered in the total cost of the mixture. It must be emphasized in the paper that 
+
+
+===== PAGE 34 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+the performance of the replacement type of RHA is already examined in Section 4.1.2 and that cement 11 
+replacements of RHA were reported to have more influential results on the strength of concrete. It is 
+12 therefore unsurprising to observe that the utilisation of RHA as a cement substitute has considerably 13 
+14 improved the cost efficiency of the concrete and that the adverse performance is exhibited in the case of the 
+15 
+16 sand replacement. 
+17 
+18 
+19 4.2.3 Eco-strength efficiency factor 
+20 
+21  The eco-strength efficiency factor of concrete comprising RHA and concrete comprising both RHA and 
+22 
+23 pozzolans are shown in Figure 7(a). The eco-strength efficiency factor of the control concrete was added 
+in 
+24 Figure 7(a) for comparison. The results show that the rise in the substitution level of RHA, utilised as 
+cement 25 
+26 substitute, resulted in a methodical increase in the eco-stren Sua-iam and Makul (2014) gth efficiency of the 
+27 
+28 concrete. The substantial increase in strength as well as the associated reductions on the CO2 emissions 
+of 
+29 the mixture, previously reported in the paper, acted simultaneously playing a determining role on the rise 
+in 30 
+31 the eco-strength efficiency of the concrete. The utilisation of pozzolans has already been shown to result in 
+32 
+33 a substantial increase in strength and further reduction on the overall cost of the mixtures. These 
+prominent 
+34 factors further enhanced the eco-strength efficiency of pozzolanic concrete containing RHA. 35 
+36 
+37 
+38 It is shown in Figure 7(b) that use of RHA as sand replacements, did also not improve the eco-strength 
+39 efficiency of concrete as much as in the case of the cement replacement. The results demonstrated in 
+Figure 40 
+
+
+===== PAGE 35 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+41  7(b) are in a good agreement with the results presented in Figure 7(b). The reduction in the eco-strength 
+42 
+43 efficiency of concrete comprising RHA as a sand substitute, compared to the case of binder replacement, 
+is 
+44 mainly accredited to the lower increase achieved in the strength as well as the lower decrease in total 
+CO2 45 
+46 emissions of the mixture. 
+47 
+48 
+49  5. Conclusions 
+50 
+51 The paper begins with an assessment of the key factors that influence the mechanical properties of concrete 
+52 
+53 incorporating RHA. Populating a large database was vital to gain an insight into the actual performance 
+of 
+54 RHA in concrete as well as to determine the boundary conditions that are essential to implement a 
+55 meaningful analysis of sustainability.  Sustainability components such as CO2 emissions, cost efficiency 
+and eco-strength efficiency attained during this practice are investigated in the paper for the first time. The 
+key findings of this research are summarized herein: 
+ 
+ It is shown in the paper that the water:binder ratio played an indispensable role in determining the optimal 
+replacement level of RHA. The results have revealed that the water:binder ratio in the range of 0.3 to 0.6 were 
+found to provide the most accomplished strength values of concrete containing 
+11  
+RHA. The database study also indicated that compressive strength values lower than 20MPa and 
+12 
+13 greater than 100MPa were not practical for use on site and therefore disregarded in this study. The 
+14 most effective replacement type was identified as RHA up to a 35% replacement level. The use of 15 
+16  
+pozzolans demonstrated a clear enhancement on the strength of concrete containing RHA. The fly 
+17 
+18 ash, silica fume, metakaolin and slag were designated as the most commonly used and effective 
+19 pozzolanic additions to concrete containing RHA. 
+
+
+===== PAGE 36 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+20 
+21  
+  Key factors, the water:binder ratio, replacement types and levels of RHA and pozzolanic materials 
+22 
+23 are observed to be the most prominently reported parameters affecting the performance of concrete 
+24 containing RHA, played a crucial role in the determination of the boundary conditions necessary 25 
+26  
+for the precise assessment of the sustainability analysis. 
+27 
+28 
+  
+The results have shown that the use of RHA in conjunction with the pozzolans as cement 
+29 replacement had a dramatic influence in reducing the carbon footprint significantly. This is 30 
+31  
+attributed to the reduced demand of cement that results in a substantial decrease in the process- 
+32 
+33  
+related emissions as well as fuel combustion and therefore essentially contributes to reducing the 
+3435   
+carbon footprint. 
+36  Cost efficiency and eco-strength efficiency of concrete have shown to improve significantly when 37 
+38  
+incorporated with RHA and pozzolans. The substantial increase in strength and the associated 
+39 
+40 reduction in the associated CO2 emissions, as well as the reduction in the total cost of such mixtures 
+41 were the decisive mechanism responsible from this phenomenon. 
+42 
+43  
+  
+Although reducing the clinker-to-cement ratio and the deploying innovative technologies could 
+44 
+45 dramatically improve the sustainable manufacture of cement, the latter often is not the optimal case 
+46 in developing countries. This paper reports important results regarding the reduced clinker-to47 
+48  
+cement ratio and hence contributes to the reduction of the most direct emissions in this context. 
+49 
+50 
+  
+Considering that the rice industry generates approximately 156 million tons of rice husk 
+annually, 
+51 the waste disposal method, addressed in the paper, should not be underestimated particularly when 52 
+53  
+compared to the existing waste management alternatives that often cause contamination and 
+54 
+
+
+===== PAGE 37 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+55  
+pollution. 
+ The research results demonstrated in this paper reinforce the resources that can basically be implemented 
+for the sustainable development of concrete in construction practice. 
+ 
+ 
+References 
+Alnahhal, M. F., Alengaram, U. J., Jumaat, M. Z., Abutaha, F., Alqedra, M. A., Nayaka, R. R., 2018. 
+Assessment on engineering properties and CO2 emissions of recycled aggregate concrete incorporating 11 
+waste products as supplements to Portland cement. J. Cleaner Prod. 203, 822-835. 
+12  https://doi.org/10.1016/j.jclepro.2018.08.292 
+13 
+14 
+15 
+16  Ananthi, A., Geetha, D., & Ramesh, P. S., 2016. Preparation and characterization of silica material from 
+17 
+18 rice husk ash–an economically viable method. Chemistry and Materials Research, 8(6), 1-7. 
+19 
+20 
+21  Arai, H., Hosen, Y., Pham Hong, V. N., Thi, N. T., Huu, C. N., Inubushi, K., 2015. Greenhouse gas 
+22 
+23 emissions from rice straw burning and straw-mushroom cultivation in a triple rice cropping system in the 
+24 Mekong Delta. Soil Sci. Plant Nutr. 61(4), 719-735. 
+25 
+26 https://doi.org/10.1080/00380768.2015.1041862 
+27 
+28 
+29  Armesto, L., Bahillo, A., Veijonen, K., Cabanillas, A., & Otero, J., 2002. Combustion behaviour of rice 
+30 
+31 husk in a bubbling fluidised bed. Biomass Bioenergy. 23(3), 171-179. 
+32 
+33 https://doi.org/10.1016/S0961-9534(02)00046-6 
+
+
+===== PAGE 38 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+34 
+35 
+36 Bahri, S., Mahmud, H. B., Shafigh, P., 2018. Effect of utilizing unground and ground normal and black rice 
+37 
+38 husk ash on the mechanical and durability properties of high-strength concrete. Sādhanā, 43(2), 1-12. 
+39 https://doi.org/10.1007/s12046-018-0795-0  
+40 
+41 
+42 
+43 Benhelal, E., Zahedi, G., Shamsaei, E., Bahadori, A., 2013. Global strategies and potentials to curb CO2 
+44 emissions in cement industry. J. Cleaner Prod. 51, 142-161. 
+45 
+46 https://doi.org/10.1016/j.jclepro.2012.10.049 
+47 
+48 
+49 Bhuvaneshwari, S., Hettiarachchi, H., Meegoda, J. N., 2019. Crop residue burning in India: Policy 50 
+51 challenges and potential solutions. Int. J. Environ. Res. Public Health 16(5), 832. 
+52 
+53 https://doi.org/10.3390/ijerph16050832  
+54 
+55 
+Bolla, R. K., Ratnam, M. K. M. V., Raju, U. R., Bolla, R. K., Ratnam, M. K. M. V., & Raju, U. R. (2015). 
+Experimental studies on concrete with rice husk ash as a Partial replacement of cement using magnesium 
+sulphate solution. Int. J. Innovative Res. Sci. & Technol., 1(8). 
+ 
+Büchs, M., Schnepf, S. V., 2013. Who emits most? Associations between socio-economic factors and UK 
+households' home energy, transport, indirect and total CO2 emissions. Ecol. Econ. 90, 114-123. 
+https://doi.org/10.1016/j.ecolecon.2013.03.007  
+11 
+12 Brown, D. K., 2012. Unprocessed rice husk ash as a partial replacement of cement for low-cost concrete 
+13 
+
+
+===== PAGE 39 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+14 (Doctoral dissertation, Massachusetts Institute of Technology). 
+15 
+16 
+17 
+18 Campos, H. F., Klein, N. S., Marques Filho, J., Bianchini, M., 2020. Low-cement high-strength concrete 
+19 with partial replacement of Portland cement with stone powder and silica fume designed by particle 
+packing 
+20 
+21 optimization. J. Cleaner Prod. 261, 121228. 
+22 
+23 https://doi.org/10.1016/j.jclepro.2020.121228 
+24 
+25 
+26 Cassagnabère, F., Mouret, M., Escadeillas, G., Broilliard, P., Bertrand, A., 2010. Metakaolin, a solution for 
+27 
+28 the precast industry to limit the clinker content in concrete: Mechanical aspects. Constr. Build. Mater. 
+24(7), 
+29 1109-1118. https://doi.org/10.1016/j.conbuildmat.2009.12.032 
+30 
+31 
+32 
+33 Chandrasekhar, S., Pramada, P. N., Majeed, J., 2006. Effect of calcination temperature and heating rate 
+on 
+34 the optical properties and reactivity of rice husk ash. J. Mater. Sci. 41(23), 7926-7933. 
+35 
+36 https://doi.org/10.1007/s10853-006-0859-0 
+37 
+38 
+39 Chatham House Report. 13 June 2018. ISBN: 978 1 78413 272 9. 
+40 
+41 
+42 Chatveera, B., Lertwattanaruk, P., 2011. Durability of conventional concretes containing black rice husk 
+43 ash. J. Environ. Manage. 92(1), 59-66. 
+44 
+
+
+===== PAGE 40 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+45 https://doi.org/10.1016/j.jenvman.2010.08.007  
+46 
+47 
+48  Chopra, D., Siddique, R., 2015. Strength, permeability and microstructure of self-compacting concrete 
+49 
+50 containing rice husk ash. Biosyst. Eng. 130, 72-80. 
+51 
+52 https://doi.org/10.1016/j.biosystemseng.2014.12.005  
+53 
+54 
+55 Collins, F., 2010. Inclusion of carbonation during the life cycle of built and recycled concrete: influence 
+on their carbon footprint. Int. J. Life Cycle Assess. 15(6), 549-556. 
+https://doi.org/10.1007/s11367-010-0191-4  
+ 
+Cook, J. D., 1986. Rice husk ash. In R. N. Swamy (Ed.), Concrete technology and design, Cement 
+replacement materials. (Vol. 3, pp. 171–195). Surrey University Press. 
+ 
+Cordeiro, G. C., Toledo Filho, R. D., Fairbairn, E. D. M. R., 2009. Use of ultrafine rice husk ash with high11 
+carbon content as pozzolan in high performance concrete. Mater. Struct. 42(7), 983-992. 
+12  https://doi.org/10.1617/s11527-008-9437-z 
+13 
+14 
+15 
+16 Debbarma, S., Ransinchung, G. D., Singh, S., Sahdeo, S. K., 2020. Utilization of industrial and agricultural 
+17 
+18 wastes for productions of sustainable roller compacted concrete pavement mixes containing reclaimed 
+19 asphalt pavement aggregates. Resour. Conserv. Recycl. 152, 104504. 
+20 
+21 https://doi.org/10.1016/j.resconrec.2019.104504 
+22 
+23 
+
+
+===== PAGE 41 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+24  De Candolle, A., 1886. Origin of Cultivated Plants. New York: Hafner (1967 reprint). 
+25 
+26 
+27 
+28 Della, V. P., Kühn, I., Hotza, D., 2002. Rice husk ash as an alternate source for active silica production. 
+29 Mater. Lett. 57(4), 818-821. 
+30 
+31 https://doi.org/10.1016/S0167-577X(02)00879-0 
+32 
+33 
+34  De Sensale, G. R., 2010. Effect of rice-husk ash on durability of cementitious materials. Cem. Concr. 
+35 
+36 Compos. 32(9), 718-725. 
+37 
+38 https://doi.org/10.1016/j.cemconcomp.2010.07.008 
+39 
+40 
+41 De Sensale, G. R., Ribeiro, A. B., Gonçalves, A., 2008. Effects of RHA on autogenous shrinkage of Portland 
+42 
+43 cement pastes. Cem. Concr. Compos. 30(10), 892-897. 
+44 https://doi.org/10.1016/j.cemconcomp.2008.06.014 45 
+46 
+47 
+48 Diego, M. E., Arias, B., Abanades, J. C., 2016. Analysis of a double calcium loop 
+process configuration for 
+49 CO2 capture in cement plants. J. Cleaner Prod. 117, 110-121. 50 
+51 https://doi.org/10.1016/j.jclepro.2016.01.027  
+52 
+53 
+54  Ezcurra, A., de Zárate, I. O., Dhin, P. V., Lacaux, J. P., 2001. Cereal waste burning pollution observed in 
+55 
+the town of Vitoria (northern Spain). Atmos. Environ. 35(8), 1377-1386. 
+https://doi.org/10.1016/S1352-2310(00)00393-9  
+
+
+===== PAGE 42 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+ 
+FAO., 2015. Food Outlook: biannual report on global food markets. www.fao.org/ 
+ 
+FAO, 2017. Food and Agriculture Organization of the United Nations (FAO) Strategic Work of FAO for 
+Sustainable Food and Agriculture. 
+11 http://www.fao.org/3/a-i6488e.pdf  
+12 
+13 
+14  Fernandes, I. J., Calheiro, D., Kieling, A. G., Moraes, C. A., Rocha, T. L., Brehm, F. A., Modolo, R. C., 
+15 
+16 2016. Characterization of rice husk ash produced using different biomass combustion techniques for energy. 
+17 
+18 Fuel. 165, 351-359. 
+19 https://doi.org/10.1016/j.fuel.2015.10.086  
+20 
+21 
+22 
+23 Fernando, S., Gunasekara, C., Law, D. W., Nasvi, M. C. M., Setunge, S., Dissanayake, R., 2021. Life 
+cycle 
+24 assessment and cost analysis of fly ash–rice husk ash blended alkali-activated concrete. J. Environ. 
+Manage. 25 
+26 295, 113140. 
+27 
+28 https://doi.org/10.1016/j.jenvman.2021.113140 
+29 
+30 
+31  Ferraro, R. M., Nanni, A., Vempati, R. K., Matta, F., 2010. Carbon neutral off-white rice husk ash as a 
+32 
+33 partial  white  cement  replacement.  
+J.  
+Mater.  Civ.  
+Eng.  
+22(10),  1078-1083. 
+34 https://doi.org/10.1061/(ASCE)MT.1943-5533.0000112 
+35 
+36 
+37 
+
+
+===== PAGE 43 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+38 Ferro, W. P., 2009. Utilização da cinza da casca de arroz como carga em Matriz de poliamida 6 
+submetida 
+39 à radiação ionizante (Doctoral dissertation, Universidade de São Paulo). 
+40 
+41 https://doi.org/10.11606/T.85.2009.tde-23092009-145638 
+42 
+43 
+44 Ferro, W. P., Silva, L. G., Wiebeck, H., 2007. Uso da cinza da casca de arroz como carga em matrizes de 
+45 
+46 poliamida 6 e poliamida 6.6. Polímeros, 17, 240-243. 
+47 
+48 https://doi.org/10.1590/S0104-14282007000300014 
+49 
+50 
+51  Flower, D. J., Sanjayan, J. G., 2007. Green house gas emissions due to concrete manufacture. Int. J. Life 
+52 
+53 Cycle Assess. 12(5), 282-288. 
+54 
+55 
+Food and Agriculture Organization of the United Nations (FAO) & Organization for Economic Cooperation 
+and Development (OECD), 2019. Background Notes on Sustainable, Productive and Resilient Agro-Food 
+Systems: Value Chains, Human Capital, and the 2030 Agenda. A Report to the G20 Agriculture Deputies July 
+2019. 
+https://www.oecd-ilibrary.org/agriculture-and-food/background-notes-on-sustainable-productive-andresilient-
+agro-food-systems_dca82200-en;jsessionid=4Fi8lWn8I5rt8TH86kXkgybj.ip-10-240-5-175  
+11 
+12 Fowler, C., Smale, M., Gaiji, S., 2001. Unequal exchange? Recent transfers of agricultural resources and 
+13 
+14 their  implications  for  developing  countries. Development  Policy  Review, 19(2),  181-204. 
+15 
+16 https://doi.org/10.1111/1467-7679.00130  
+17 
+
+
+===== PAGE 44 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+18 
+19 Gastaldini, A. L. G., Isaia, G. C., Hoppe, T. F., Missau, F., Saciloto, A. P., 2009. Influence of the use of rice 
+20 
+21 husk ash on the electrical resistivity of concrete: a technical and economic feasibility study. Constr. Build. 
+22 
+23 Mater. 23(11), 3411-3419. 
+24 https://doi.org/10.1016/j.conbuildmat.2009.06.039 
+25 
+26 
+27 
+28 Gastaldini, A. L. G., Da Silva, M. P., Zamberlan, F. B., Neto, C. M., 2014. Total shrinkage, chloride 
+29 penetration, and compressive strength of concretes that contain clear-colored rice husk ash. Constr. 
+Build. 30 
+31 Mater. 54, 369-377. 
+32 
+33 https://doi.org/10.1016/j.conbuildmat.2013.12.044  
+34 
+35 
+36  Geng, Y., Wang, Z., Shen, L., Zhao, J., 2019. Calculating of CO2 emission factors for Chinese cement 
+37 
+38 production based on inorganic carbon and organic carbon. J. Cleaner Prod. 217, 503-509. 
+39 https://doi.org/10.1016/j.jclepro.2019.01.224 
+40 
+41 
+42 
+43 Gill, A. S., Siddique, R., 2018. Durability properties of self-compacting concrete incorporating 
+metakaolin 
+44 and rice husk ash. Constr. Build. Mater. 176, 323-332. 
+45 
+46 https://doi.org/10.1016/J.Conbuildmat.2018.05.054 
+47 
+48 
+49 Gursel, A. P., Maryman, H., Ostertag, C., 2016. A life-cycle approach to environmental, mechanical, and 
+50 
+
+
+===== PAGE 45 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+51 durability properties of “green” concrete mixes with rice husk ash. J. Cleaner Prod. 112, 823-836. 
+52 
+53 https://doi.org/10.1016/j.jclepro.2015.06.029 
+54 
+55 
+Hammond, G. P., Jones, C. I., 2008. Embodied energy and carbon in construction materials. Proc. Inst. Civ. 
+Eng. Energy. 161(2), 87-98. 
+https://doi.org/10.1680/ener.2008.161.2.87  
+ 
+Harlan, J.R., 1975. Crops and Man. Madison, WI: American Society of Agronomy/Crop Science Society of 
+America. 
+ 
+11 He, Z. H., Li, L. Y., Du, S. G., 2017. Creep analysis of concrete containing rice husk ash. Cem. Concr. 
+12 Compos. 80, 190-199. 
+13 
+14 https://doi.org/10.1016/j.cemconcomp.2017.03.014  
+15 
+16 
+17 
+18 Heath, A., Paine, K., McManus, M., 2014. Minimising the global warming potential of clay based 
+19 geopolymers. J. Cleaner Prod. 78, 75-83. 
+20 
+21 https://doi.org/10.1016/j.jclepro.2014.04.046 
+22 
+23 
+24 Hegg, D. A., Radke, L. F., Hobbs, P. V., Brock, C. A., Riggan, P. J., 1987. Nitrogen and sulfur emissions 
+25 
+26 from the burning of forest products near large urban areas. J. Geophys. Res.: Atmos. 92(D12), 14701-14709. 
+27 
+28 https://doi.org/10.1029/JD092iD12p14701  
+29 
+30 
+
+
+===== PAGE 46 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+31  Huang, W., Kazemi-Kamyab, H., Sun, W., Scrivener, K., 2017. Effect of replacement of silica fume with 
+32 
+33 calcined clay on the hydration and microstructural development of eco-UHPFRC. Mater. Des. 121, 36-
+46. 
+34 https://doi.org/10.1016/j.matdes.2017.02.052 
+35 
+36 
+37 
+38 Huntzinger, D. N., Eatmon, T. D., 2009. A life-cycle assessment of Portland cement manufacturing: 
+39 comparing the traditional process with alternative technologies. J. Cleaner Prod. 17(7), 668-675. 
+40 
+41 https://doi.org/10.1016/j.jclepro.2008.04.007 
+42 
+43 
+44 Ince, C., 2019. Reusing gold-mine tailings in cement mortars: Mechanical properties and socio-economic 
+45 
+46 developments for the Lefke-Xeros area of Cyprus. J. Cleaner Prod. 238, 117871. 
+47 
+48 https://doi.org/10.1016/j.jclepro.2019.117871  
+49 
+50 
+51 Ince, C., Hamza, A., Derogar, S., Ball, R. J., 2020. Utilisation of waste marble dust for improved durability 
+52 
+53 and cost efficiency of pozzolanic concrete. J. Cleaner Prod. 270, 122213. 
+54 https://doi.org/10.1016/j.jclepro.2020.122213  
+55 
+ 
+Ince, C., Derogar, S., Gurkaya, K., Ball, R. J., 2021. Properties, durability and cost efficiency of cement and 
+hydrated lime mortars reusing copper mine tailings of Lefke-Xeros in Cyprus. Constr. Build. Mater. 268, 
+121070. 
+https://doi.org/10.1016/j.conbuildmat.2020.121070  
+11 
+
+
+===== PAGE 47 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+12 Isberto, C. D., Labra, K. L., Landicho, J. M. B., & De Jesus, R. (2019). Optimized preparation of rice 
+husk 13 
+14  
+ash (RHA) as a supplementary cementitious material. GEOMATE Journal, 16(57), 56-61. 
+15 
+16 https://doi.org/10.21660/2019.57.4628 
+17 
+18 
+19 James, J., Rao, M. S., 1986. Reactivity of rice husk ash. Cem. Concr. Res. 16(3), 296-302. 
+20 
+21 https://doi.org/10.1016/0008-8846(86)90104-3  
+22 
+23 
+24  Jittin, V., Bahurudeen, A., & Ajinkya, S. D. (2020). Utilisation of rice husk ash for cleaner production of 
+25 
+26 different construction products. Journal of cleaner production, 263, 121578. 
+27 
+28 
+29 Kaza, S., Yao, L., Bhada-Tata, P., Van Woerden, F., 2018. What a waste 2.0: A global snapshot of solid 
+30 
+31  waste management to 2050, What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050. 
+32 
+33 World Bank, Washington. 
+34 https://doi.org/10.1596/978-1-4648-1329-0. 
+35 
+36 
+37 
+38 Lacaux, J. P., Loemba-Ndembi, J., Lefeivre, B., Cros, B., Delmas, R., 1992. Biogenic emissions and 
+39 biomass burning influences on the chemistry of the fogwater and stratiform precipitations in the African 
+40 
+41 equatorial forest. Atmos. Environ. Part A. 26(4), 541-551. 
+42 
+43 https://doi.org/10.1016/0960-1686(92)90167-J  
+44 
+45 
+
+
+===== PAGE 48 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+46  Li, X., Zhang, W., Liu, T., Chen, L., Chen, P., Li, F., 2016. Changes in the composition anddiversity of 
+47 
+48 microbial communities during anaerobic nitrate reduction and Fe(II) 
+oxidation at circumneutral pH in paddy 
+49 soil. Soil Biol. Biochem. 94, 70-79 50 
+51 10.1016/j.soilbio.2015.11.013 
+52 
+53 
+54 Lim, J. S., Manan, Z. A., Alwi, S. R. W., Hashim, H., 2012. A review on utilisation of biomass from rice 
+55 industry as a source of renewable energy. Renewable Sustainable Energy Rev. 16(5), 3084-3094. 
+https://doi.org/10.1016/j.rser.2012.02.051 
+ 
+Liu, Y., Guo, Y., Gao, W., Wang, Z., Ma, Y., Wang, Z., (2012). Simultaneous preparation of silica and 
+activated carbon from rice husk ash. J. Cleaner Prod. 32, 204-209. 
+https://doi.org/10.1016/j.jclepro.2012.03.021  
+ 
+11 Marchand, J., Odler, I., Skalny, J. P., 2001. Sulfate attack on concrete. CRC Press. 
+12 
+13 
+14  Madandoust, R., Ranjbar, M. M., Moghadam, H. A., Mousavi, S. Y., 2011. Mechanical properties and 
+15 
+16 durability assessment of rice husk ash concrete. Biosyst. Eng. 110(2), 144-152. 
+17 
+18 https://doi.org/10.1016/j.biosystemseng.2011.07.009  
+19 
+20 
+21 Mahmud, H. (2010). Properties of high strength concrete incorporating black rice husk ash. In Proceedings 
+22 
+23 of the 2nd ASEAN Civil Engineering Conference, Vientiane, Laos. 
+24 
+25 
+26 Maiti, S., Dey, S., Purakayastha, S., Ghosh, B., 2006. Physical and thermochemical characterization of rice 
+
+
+===== PAGE 49 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+27 
+28 husk char as a potential biomass energy source. Bioresour. Technol. 97(16), 2065-2070. 
+29 https://doi.org/10.1016/j.biortech.2005.10.005 
+30 
+31 
+32 
+33 Malhotra, V. M., Mehta, P. K., 1996. Pozzolanic and cementitious materials (Vol. 1). Taylor & Francis. 
+34 
+35 
+36 Mehta, P. K. A. M., Monteiro, P., 2014. Concrete: microstructure, properties, and materials. McGraw-Hill 
+37 
+38 Education. 
+39 
+40 
+41 Mi, Z., Meng, J., Guan, D., Shan, Y., Song, M., Wei, Y. M., ... Hubacek, K., 2017. Chinese CO 2 emission 
+42 
+43 flows have reversed since the global financial crisis. Nat. Commun. 8(1), 1-
+10. 
+44 https://doi.org/10.1038/s41467-017-01820-w 45 
+46 
+47 
+48 Moraes, C. A. M., Kieling, A. G., Caetano, M. O., Gomes, L. P., 2010. Life cycle analysis (LCA) for the 
+49 incorporation of rice husk ash in mortar coating. Resour. Conserv. Recycl. 54(12), 1170-1176. 
+50 
+51 https://doi.org/10.1016/j.resconrec.2010.03.012 
+52 
+53 
+54 Murmu, A. L., Dhole, N., Patel, A., 2020. Stabilisation of black cotton soil for 
+subgrade application using 
+55 fly ash geopolymer. Road Mater. Pavement Des. 21(3), 867-885. 
+https://doi.org/10.1080/14680629.2018.1530131 
+ 
+
+
+===== PAGE 50 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+Msinjili, N. S., Schmidt, W., Rogge, A., Kühne, H. C., 2017. Performance of rice husk ash blended 
+cementitious systems with added superplasticizers. Cem. Concr. Compos. 100(83), 202-208. 
+https://doi.org/10.1016/j.cemconcomp.2017.07.014  
+ 
+11 Muthadhi, A., Kothandaraman, S., 2010. Optimum production conditions for reactive rice husk ash. 
+Mater. 
+12 Struct. 43(9), 1303-1315. 
+13 
+14 https://doi.org/10.1617/s11527-010-9581-0  
+15 
+16 
+17 
+18 Nair, D. G., Fraaij, A., Klaassen, A. A., Kentgens, A. P., 2008. A structural investigation relating to the 
+19 pozzolanic activity of rice husk ashes. Cem. Concr. Res. 38(6), 861-869. 
+20 
+21 https://doi.org/10.1016/j.cemconres.2007.10.004  
+22 
+23 
+24  Narra, S., 2011. Bioenergy production: special emphasis on rice husks usage in India. In Implementing 
+25 
+26 Environmental and Resource Management (pp. 15-22). Springer, Berlin, Heidelberg. 
+27 
+28 
+29  
+Nehdi, M., Duquette, J., El Damatty, A., 2003. Performance of rice husk ash produced using a new 
+30 
+31 technology as a mineral admixture in concrete. Cem. Concr. Res. 33(8), 1203-1210. 
+32 
+33 https://doi.org/10.1016/S0008-8846(03)00038-3 
+34 
+35 
+36 Pode, R., 2016. Potential applications of rice husk ash waste from rice husk biomass power plant. Renewable 
+37 
+38 Sustainable Energy Rev. 1468-1485. 
+
+
+===== PAGE 51 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+39 https://doi.org/10.1016/j.rser.2015.09.051  
+40 
+41 
+42 
+43 Pode, R., Diouf, B., Pode, G., 2015. Sustainable rural electrification using rice husk biomass energy: A 
+case 
+44 study of Cambodia. Renewable Sustainable Energy Rev. 44, 530-542. 
+45 
+46 https://doi.org/10.1016/j.rser.2015.01.018 
+47 
+48 
+49 Prasara-A, J., Gheewala, S. H., 2017. Sustainable utilization of rice husk ash from power plants: A review. 
+50 
+51 J. Cleaner Prod. 167, 1020-1028. 
+52 
+53 https://doi.org/10.1016/j.jclepro.2016.11.042  
+54 
+55 
+Pretty, J. N., Morison, J. I., Hine, R. E., 2003. Reducing food poverty by increasing agricultural sustainability 
+in developing countries. Agric. Ecosyst. Environ. 95(1), 217-234. 
+https://doi.org/10.1016/S0167-8809(02)00087-7 
+ 
+Qing-ge, F., Qing-yu, L., Qi-jun, Y., San-ying, Z., Lu-feng, Y., Sugita, S., 2004. Concrete with highly active 
+rice husk ash. J. Wuhan Univ. Technol. Mater. Sci. Ed.19(3), 74-77. 
+https://doi.org/10.1007/BF02835067  
+11 
+12 Quattrone, M., Angulo, S. C., John, V. M., 2014. Energy and CO2 from high performance recycled 13 
+14 aggregate production. Resour. Conserv. Recycl. 90, 21-33. 
+15 
+16 https://doi.org/10.1016/j.resconrec.2014.06.003 
+17 
+18 
+
+
+===== PAGE 52 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+19  Prasara-A, J., & Gheewala, S. H. (2017). Sustainable utilization of rice husk ash from power plants: A 
+20 
+21 review. Journal of Cleaner production, 167, 1020-1028. 
+22 
+23 
+24  
+Rafiee, E., Shahebrahimi, S., Feyzi, M., & Shaterzadeh, M. (2012). Optimization of synthesis and 
+25 
+26 characterization of nanosilica produced from rice husk (a common waste material). Int. Nano Lett. 2(1), 1- 
+27 
+28 8. https://doi.org/10.1186/2228-5326-2-29 
+29 
+30 
+31  
+Ramírez-García, R., Gohil, N., Singh, V., 2019. Recent advances, challenges, and opportunities in 
+32 
+33 bioremediation of hazardous materials. In Phytomanagement of Polluted Sites (pp. 517-568). Elsevier. 
+34 https://doi.org/10.1016/B978-0-12-813912-7.00021-1  
+35 
+36 
+37 
+38 Rêgo, J. H. S., Nepomuceno, A. A., Figueiredo, E. P., Hasparyk, N. P., 2015. Microstructure of cement 
+39 pastes with residual rice husk ash of low amorphous silica content. Constr. Build. Mater. 80, 56-68. 
+40 
+41 https://doi.org/10.1016/j.conbuildmat.2014.12.059  
+42 
+43 
+44 Rigon, M. R., Espinosa Modolo, R. C., Zortea, R. B., Mancio, M., Moraes, C. A. M, 2021. CO2 emission 
+45 
+46 assessment for rice husk ash in concrete on environmental approach. Revista Aidis de Ingenieria Y Ciencias 
+47 
+48 Ambientales, V. 14, p. 246-265, 2021. 
+49 http://dx.doi.org/10.22201/iingen.0718378xe.2021.14.1.70340 50 
+51 
+52 
+53 Sabiiti, E. N., 2011. Utilising agricultural waste to enhance food security and conserve the environment. 
+
+
+===== PAGE 53 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+54 Afr. J. Food Agric. Nutr. Dev. 11(6). 
+55 http://ajfand.net/AJFAND/copyrightstatement.html  
+ 
+Safiuddin, M., West, J. S., Soudki, K. A., 2010. Hardened properties of self-consolidating high performance 
+concrete including rice husk ash. Cem. Concr. Compos. 32(9), 708-717. 
+https://doi.org/10.1016/j.cemconcomp.2010.07.006  
+ 
+11 Saraswathy, V., Song, H. W., 2007. Corrosion performance of rice husk ash blended concrete. Constr. 
+Build. 
+12 Mater. 21(8), 1779-1784. 
+13 
+14 https://doi.org/10.1016/j.conbuildmat.2006.05.037  
+15 
+16 
+17 
+18 Sathiparan, N., De Zoysa, H. T. S. M., 2018. The effects of using agricultural waste as partial substitute 
+for 
+19 sand in cement blocks. J. Build. Eng., 19, 216-227. 
+20 
+21 https://doi.org/10.1016/j.jobe.2018.04.023  
+22 
+23 Sathurshan, M., Yapa, I., Thamboo, J., Jeyakaran, T., Navaratnam, S., Siddique, R., Zhang, J., 2021. 
+24 Untreated rice husk ash incorporated high strength self-compacting concrete: Properties and 
+environmental 
+25 
+26 impact assessments. Environ. Challenges. 2, 100015. 
+27 
+28 https://doi.org/10.1016/j.envc.2020.100015 
+29 
+30 
+31 Selvaranjan, K., Gamage, J. C. P. H., De Silva, G. I. P., Navaratnam, S., 2021. Development of sustainable 
+32 
+33 mortar using waste rice husk ash from rice mill plant: Physical and thermal properties. J. Build. Eng. 43, 
+
+
+===== PAGE 54 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+34 102614. https://doi.org/10.1016/j.jobe.2021.102614 
+35 
+36 
+37 
+38 Shackley, S., Carter, S., Knowles, T., Middelink, E., Haefele, S., Sohi, S., Cross, A., Haszeldine, S., 
+2012. 
+39 Sustainable gasification–biochar systems? A case-study of rice-husk gasification in Cambodia, Part I: 40 
+41  Context, chemical properties, environmental and health and safety issues. Energy Policy. 42, 49-58. 
+42 
+43 https://doi.org/10.1016/j.enpol.2011.11.026 
+44 
+45 
+46 Simmonds, N.W., 1976. Evolution of Crop Plants. London: Longman. 
+47 
+48 
+49 Sousa-Coutinho, J., Papadakis, V. G., 2011. Rice Husk Ash-Importance of Fineness for its Use as a 50 
+51  Pozzolanic and Chloride-Resistant Material. In Proceedings of the 12th International Conference on 
+52 
+53 Durability of Building Materials and Componenets, Porto, Portugal. 
+54 
+55 
+Sua-iam, G., Makul, N., 2014. Utilization of high volumes of unprocessed lignite-coal fly ash and rice husk 
+ash in self-consolidating concrete. J. Cleaner Prod. 78, 184-194. 
+https://doi.org/10.1016/j.jclepro.2014.04.060 
+ 
+Talsania, S., Pitroda, J., Vyas, C. M., 2015. Effect of rice husk ash on properties of pervious concrete. Int. J. 
+Adv. Eng. Res. Studies/IV/II/Jan.-March, 296, 299. 
+ 
+11 Tarelho, L. A. C., Teixeira, E. R., Silva, D. F. R., Modolo, R. C. E., Silva, J. J. F., 2012. Characteristics, 
+12 management and applications of ashes from thermochemical conversion of biomass to energy. The 
+Swedish 13 
+14  Bioenergy Association (Ed.), Proceedings of the World bioenergy 2012, conference and exhibition on 
+
+
+===== PAGE 55 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+15 
+16 biomass for energy (29 to 31 May 2012), pp. 154-163 
+17 
+18 ISBN 978-91-977624-5-8, Jonkoping, Sweden 
+19 
+20 
+21 Teixeira, E. R., Mateus, R., Camoes, A. F., Bragança, L., Branco, F. G., 2016. Comparative environmental 
+22 
+23 life-cycle analysis of concretes using biomass and coal fly ashes as partial cement replacement material. 
+J. 
+24 Cleaner Prod. 112, 2221-2230. 
+25 
+26 https://doi.org/10.1016/j.jclepro.2015.09.124 
+27 
+28 
+29  Turner, L. K., Collins, F. G., 2013. Carbon dioxide equivalent (CO2-e) emissions: A comparison between 
+30 
+31 geopolymer and OPC cement concrete. Constr. Build. Mater. 43, 125-130. 
+32 
+33 https://doi.org/10.1016/j.conbuildmat.2013.01.023 
+34 
+35 
+36  Turk, J., Cotič, Z., Mladenovič, A., Šajna, A., 2015. Environmental evaluation of green concretes versus 
+37 
+38 conventional concrete by means of LCA. Waste Manage. (Oxford). 45, 194-205. 
+39 https://doi.org/10.1016/j.wasman.2015.06.035 
+40 
+41 
+42 
+43 Vadiveloo, J., Nurfariza, B., Fadel, J. G., 2009. Nutritional improvement of rice husks. Anim. Feed Sci. 
+44 Technol. 151(3-4), 299-305. 
+45 
+46 https://doi.org/10.1016/j.anifeedsci.2009.03.002  
+47 
+
+
+===== PAGE 56 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+48 
+49  Vavilov, N.I., 1926. Studies on the Origin of Cultivated Plants. Bulletin of Applied Botany 16 (2). 
+50 
+51 
+52 
+53 Venkatanarayanan, H. K., Rangaraju, P. R., 2013. Material characterization studies on low-and high-
+carbon 
+54 rice husk ash and their performance in portland cement mixtures. Adv. Civ. Eng. Mat., 2 (2013), pp. 
+26655 
+287 https://doi.org/10.1520/ACEM20120056 
+Wang, J., Bing, L., Tong, D., Guo, R., Xi, F., 
+2020. Global CO2 uptake of cement in 1930-
+2019. Zenodo,  
+https://doi.org/10.5281/zenodo.4064803 
+ 
+Xi, F., Davis, S. J., Ciais, P., Crawford-Brown, D., Guan, D., Pade, C., Shi, T., Syddall, M., Lv, J., Ji, L., 11 
+Bing, L., Wang, J., Wei, W., Yang, K.-H., Lagerblad, B., Galan, I., Andrade, C., Zhang, Y., Liu, Z., 2016. 
+12 Substantial  global  carbon  uptake  by  cement  carbonation.  Nat.  Geosci.  9(12),  880–883. 
+13 
+14 https://doi.org/10.1038/ngeo2840 
+15 
+16 
+17 
+18 Xu, W., Lo, T. Y., Memon, S. A., 2012. Microstructure and reactivity of rich husk ash. Constr. Build. 
+Mater. 
+19 29, 541-547. 
+20 
+21 https://doi.org/10.1016/j.conbuildmat.2011.11.005  
+22 
+23 
+
+
+===== PAGE 57 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+24 Yang, K. H., Seo, E. A., Tae, S. H., 2014. Carbonation and CO2 uptake of concrete. Environ. Impact 
+Assess. 25 
+26 Rev. 46, 43-52. 
+27 
+28 https://doi.org/10.1016/j.eiar.2014.01.004 
+29 
+30 
+31  Yang, W., Xue, Y., Wu, S., Xiao, Y., Zhou, M., 2016. Performance investigation and environmental 
+32 
+33 application of basic oxygen furnace slag–Rice husk ash based composite cementitious materials. Constr. 
+34 Build. Mater. 123, 493-500. 
+35 
+36 https://doi.org/10.1016/j.conbuildmat.2016.07.051 
+37 
+38 
+39 Yu, Q., Sawayama, K., Sugita, S., Shoya, M., Isojima, Y., 1999. The reaction between rice husk ash and 
+Ca 40 
+41 (OH) 2 solution and the nature of its product. Cem. Concr. Res. 29(1), 37-43. 
+42 
+43 https://doi.org/10.1016/S0008-8846(98)00172-0  
+44 
+45 Yuzer, N., Cinar, Z., Akoz, F., Biricik, H., Gurkan, Y. Y., Kabay, N., Kizilkanat, A. B., 2013. Influence 
+of 46 
+47 raw rice husk addition on structure and properties of concrete. Constr. Build. Mater. 44, 54-62. 
+48 
+49 https://doi.org/10.1016/j.conbuildmat.2013.02.070  
+50 
+51 
+52  Zerbino, R., Giaccio, G., Isaia, G. C., 2011. Concrete incorporating rice-husk ash without processing. 
+53 
+54 Constr. Build. Mater. 25(1), 371-378. 
+55 https://doi.org/10.1016/j.conbuildmat.2010.06.016  
+ 
+
+
+===== PAGE 58 =====
+
+ 1  
+ 2  
+ 3  
+ 4  
+ 5  
+ 6  
+ 7  
+ 8  
+ 9  
+10  
+56  
+57  
+58  
+59  
+60  
+61  
+62  
+63  
+64  
+65  
+Zeven, A.C., Zhukovsky, P.M., 1975. Dictionary of Cultivated Plants and Their Centres of Diversity. 
+Wageningen: Pudoc. 
+ 
+Zhang, M. H., Lastra, R., Malhotra, V. M., 1996. Rice-husk ash paste and concrete: some aspects of 
+11 hydration and the microstructure of the interfacial zone between the aggregate and paste. Cem. Concr. 
+Res. 
+12 26(6), 963-977. 
+13 
+14 https://doi.org/10.1016/0008-8846(96)00061-0  
+15  
+ 
+16  
+  
+17  
+ 
+18  
+  
+ 
+19  
+  
+20  
+ 
+21  
+  
+ 
+22  
+  
+23  
+2
+4  
+2
+5  
+2
+6  
+2
+7  
+2
+8  
+2
+9  
+3
+0  
+3
+1  
+3
+2  
+
+
+===== PAGE 59 =====
+
+ 
+1  
+ 
+2  
+ 
+3  
+ 
+4  
+ 
+5  
+ 
+6  
+ 
+7  
+ 
+8  
+ 
+9  
+1
+0  
+5
+6  
+5
+7  
+5
+8  
+5
+9  
+6
+0  
+6
+1  
+6
+2  
+6
+3  
+6
+4  
+6
+5  
+3
+3  
+3
+4  
+
+
+===== PAGE 60 =====
+
+ 
+ 
+Table 1 
+Click here to access/download;Table;Table 1.docx 
+Click here to view linked ReferenceTable 1: The database context  
+s 
+#  
+Author  
+Year of 
+Publication  
+# of 
+data  
+Compressive 
+strength  
+(MPa)   
+(<28 days)  
+Compressive 
+strength (MPa)   
+(28 days)  
+Compressive 
+strength  
+(MPa)  
+ (>28 days)  
+Sand/Cement 
+Replacement  
+RHA  
+Replacement 
+Range (%)  
+Pozzolan 
+Type  
+Pozzolan  
+Amount  
+(Range %)  
+Plasticizer type  
+Plasticizer  
+Amount  
+1  
+Gursel et al.  
+2016  
+9  
+15-48  
+48-68  
+54-69  
+Cement   
+10-20  
+Fly Ash and  
+Limestone 
+Flour  
+30-45  
+Superplasticizer  
+2.6-4.8  
+2  
+Le et al.  
+2014  
+6  
+37-57  
+54-62  
+-  
+Cement   
+5-20  
+SF  
+0-10  
+Superplasticizer  
+0.5-0.6  
+3  
+Koushkbaghi et 
+al.  
+2019  
+12  
+40-56  
+43-63  
+48-68  
+Cement   
+0-20  
+-  
+-  
+High-range 
+waterreducing  
+4  
+4  
+Muthukrishnan et 
+al.  
+2019  
+6  
+49-62  
+55-71  
+60-80  
+Cement   
+0-20  
+-  
+-  
+Superplasticizer  
+6.3-8  
+5  
+Givi et al.  
+2010  
+9  
+22-28  
+37-44  
+41-51  
+Cement   
+5-20  
+-  
+-  
+-  
+-  
+6  
+Jindal and  
+Ransinchung  
+2018  
+11  
+16-28  
+36-41  
+-  
+Mineral Addition  
+5-15  
+Fly Ash and 
+Bagasse Ash  
+5-15  
+Superplasticizer  
+2  
+7  
+Kannan and 
+Ganesan  
+2014  
+17  
+28-29  
+37-57  
+-  
+Cement   
+5-30  
+Metakaolin  
+5-30  
+Superplasticizer  
+8  
+8  
+Makul  
+2019  
+28  
+13-69  
+29-83  
+32-97  
+Cement   
+10-20  
+   
+   
+Superplasticizer  
+6.5-33.6  
+9  
+Sathawane et al.  
+2013  
+8  
+18-39  
+29-46  
+31-50  
+Cement   
+2.5-15  
+Fly Ash  
+15-30  
+Superplasticizer  
+5.7-7.7  
+10  
+Salas et al.  
+2009  
+10  
+   
+34-42  
+37-53  
+Cement   
+5-20  
+Silica Fume  
+0-10  
+Superplasticizer  
+1.8-17.6  
+11  
+Zerbino et al.  
+2011  
+15  
+5-33  
+10-44  
+13-57  
+Cement   
+15-25  
+   
+   
+Superplasticizer  
+0.2-1.7  
+12  
+Chatveera and  
+Lertwattanaruk  
+2011  
+27  
+   
+10-29  
+   
+Cement   
+20-40  
+   
+   
+   
+   
+13  
+Gill and Siddique  
+2018  
+4  
+28-38  
+41-52  
+45-72  
+Fine Aggregate  
+0-10  
+Metakaolin  
+5-15  
+Superplasticizer  
+7.2-9.6  
+14  
+Makul and Suaiam  
+2018  
+24  
+8-42  
+20-45  
+21-53  
+Cement   
+0-20  
+Urea  
+5-20  
+High-range 
+waterreducing  
+0.2-8.2  
+15  
+Venkatanarayanan 
+and Rangaraju  
+2015  
+7  
+29-51  
+43-61  
+47-66  
+Cement   
+7.5-15  
+Silica Fume  
+7.5-15  
+Superplasticizer  
+2.1-5.5  
+16  
+Sua-iam and 
+Makul  
+2012  
+6  
+10-57  
+28-51  
+   
+Fine Aggregate  
+5-20  
+   
+   
+High-range 
+waterreducing  
+11  
+17  
+Le and Ludwig  
+2016  
+8  
+35-96  
+109-118  
+117-129  
+Cement   
+5-20  
+Silica Fume 
+and Fly Ash   
+30-40  
+Superplasticizer  
+13.3-15.6  
+18  
+Talsania et al.  
+2015  
+9  
+6-10  
+8-11  
+   
+Cement   
+10-20  
+   
+   
+   
+   
+19  
+Mahmud et al.  
+2016  
+4  
+31-106  
+94-113  
+99-114  
+Cement   
+10-20  
+   
+   
+Superplasticizer  
+3.1-4  
+20  
+Chao-Lung et al.  
+2011  
+6  
+16-63  
+47-66  
+51-74  
+Cement   
+10-30  
+   
+   
+Superplasticizer  
+0.3-3.7  
+21  
+Lertwattanaruk et 
+al.  
+2018  
+28  
+16-53  
+24-59  
+25-62  
+Cement   
+0-20  
+Calclium 
+Carbonate  
+20-40  
+HRWR  
+11-13  
+22  
+Olutoge and 
+Adesina  
+2019  
+6  
+13-41  
+23-41  
+25-54  
+Cement   
+5-15  
+   
+   
+   
+   
+23  
+Foong et al.  
+2015  
+20  
+15-47  
+44-52  
+   
+Cement   
+5-20  
+   
+   
+Superplasticizer  
+3.3-6.6  
+24  
+Patel and Shah  
+2018  
+5  
+5-38  
+20-43  
+   
+Cement   
+5-25  
+   
+   
+Superplasticizer, 
+NaOH, Na-silicate  
+15,8  
+25  
+Chatveera and  
+Lertwattanaruk  
+2014  
+18  
+   
+19-45  
+   
+Cement   
+10-50  
+   
+   
+HNO3 and  
+CH3COOH  
+10  
+26  
+Chatveera and  
+Lertwattanaruk  
+2009  
+16  
+20  
+   
+   
+Cement   
+10-50  
+   
+   
+   
+   
+27  
+Cordeiro et al  
+2012  
+8  
+15-55  
+21-70  
+29-76  
+Cement   
+0-20  
+Sugar cane 
+Bagasse Ash  
+0-20  
+Superplasticizer  
+0.5-2.4  
+28  
+Zareei et al.  
+2017  
+6  
+35-42  
+51-60  
+   
+Cement   
+5-25  
+0  
+10  
+Superplasticizer  
+15  
+29  
+Muthadhi and 
+Kothandaraman  
+2013  
+19  
+31-72  
+43-87  
+49-92  
+Cement   
+10-30  
+   
+   
+Superplasticizer  
+0.9-11  
+30  
+Safiuddin and 
+Soudki  
+2010  
+15  
+30-72  
+42-95  
+45-100  
+Cement   
+5-30  
+   
+   
+High-range 
+waterreducing and 
+AEA  
+1.7-10.6  
+31  
+Gastaldini et al.  
+2010  
+19  
+   
+17-72  
+24-86  
+Cement   
+10-35  
+Slag and Fly 
+Ash  
+35-50  
+Superplasticizer  
+0.1-2.9  
+32  
+Padhi et al.  
+2018  
+16  
+10-30  
+18-41  
+22-44  
+Cement   
+5-35  
+   
+   
+Superplasticizer  
+3,7  
+
+
+----- TABLE p60#1 -----
+
+# | Author | Year of
+Publication | # of
+data | Compressiv e
+strength
+(MPa)
+(<28 days) | Compressive
+strength (MPa)
+(28 days) | Compressiv e
+strength
+(MPa)
+(>28 days) | Sand/Cement
+Replacement | RHA
+Replacement
+Range (%) | Pozzolan
+Type | Pozzolan
+Amount
+(Range %) | Plasticizer type | Plasticizer
+Amount
+1 | Gursel et al. | 2016 | 9 | 15-48 | 48-68 | 54-69 | Cement | 10-20 | Fly Ash and
+Limestone
+Flour | 30-45 | Superplasticizer | 2.6-4.8
+2 | Le et al. | 2014 | 6 | 37-57 | 54-62 | - | Cement | 5-20 | SF | 0-10 | Superplasticizer | 0.5-0.6
+3 | Koushkbaghi et
+al. | 2019 | 12 | 40-56 | 43-63 | 48-68 | Cement | 0-20 | - | - | High-range
+waterreducing | 4
+4 | Muthukrishnan et
+al. | 2019 | 6 | 49-62 | 55-71 | 60-80 | Cement | 0-20 | - | - | Superplasticizer | 6.3-8
+5 | Givi et al. | 2010 | 9 | 22-28 | 37-44 | 41-51 | Cement | 5-20 | - | - | - | -
+6 | Jindal and
+Ransinchung | 2018 | 11 | 16-28 | 36-41 | - | Mineral Addition | 5-15 | Fly Ash and
+Bagasse Ash | 5-15 | Superplasticizer | 2
+7 | Kannan and
+Ganesan | 2014 | 17 | 28-29 | 37-57 | - | Cement | 5-30 | Metakaolin | 5-30 | Superplasticizer | 8
+8 | Makul | 2019 | 28 | 13-69 | 29-83 | 32-97 | Cement | 10-20 |  |  | Superplasticizer | 6.5-33.6
+9 | Sathawane et al. | 2013 | 8 | 18-39 | 29-46 | 31-50 | Cement | 2.5-15 | Fly Ash | 15-30 | Superplasticizer | 5.7-7.7
+10 | Salas et al. | 2009 | 10 |  | 34-42 | 37-53 | Cement | 5-20 | Silica Fume | 0-10 | Superplasticizer | 1.8-17.6
+11 | Zerbino et al. | 2011 | 15 | 5-33 | 10-44 | 13-57 | Cement | 15-25 |  |  | Superplasticizer | 0.2-1.7
+12 | Chatveera and
+Lertwattanaruk | 2011 | 27 |  | 10-29 |  | Cement | 20-40 |  |  |  | 
+13 | Gill and Siddique | 2018 | 4 | 28-38 | 41-52 | 45-72 | Fine Aggregate | 0-10 | Metakaolin | 5-15 | Superplasticizer | 7.2-9.6
+14 | Makul and Suaiam | 2018 | 24 | 8-42 | 20-45 | 21-53 | Cement | 0-20 | Urea | 5-20 | High-range
+waterreducing | 0.2-8.2
+15 | Venkatanarayanan
+and Rangaraju | 2015 | 7 | 29-51 | 43-61 | 47-66 | Cement | 7.5-15 | Silica Fume | 7.5-15 | Superplasticizer | 2.1-5.5
+16 | Sua-iam and
+Makul | 2012 | 6 | 10-57 | 28-51 |  | Fine Aggregate | 5-20 |  |  | High-range
+waterreducing | 11
+17 | Le and Ludwig | 2016 | 8 | 35-96 | 109-118 | 117-129 | Cement | 5-20 | Silica Fume
+and Fly Ash | 30-40 | Superplasticizer | 13.3-15.6
+18 | Talsania et al. | 2015 | 9 | 6-10 | 8-11 |  | Cement | 10-20 |  |  |  | 
+19 | Mahmud et al. | 2016 | 4 | 31-106 | 94-113 | 99-114 | Cement | 10-20 |  |  | Superplasticizer | 3.1-4
+20 | Chao-Lung et al. | 2011 | 6 | 16-63 | 47-66 | 51-74 | Cement | 10-30 |  |  | Superplasticizer | 0.3-3.7
+21 | Lertwattanaruk et
+al. | 2018 | 28 | 16-53 | 24-59 | 25-62 | Cement | 0-20 | Calclium
+Carbonate | 20-40 | HRWR | 11-13
+22 | Olutoge and
+Adesina | 2019 | 6 | 13-41 | 23-41 | 25-54 | Cement | 5-15 |  |  |  | 
+23 | Foong et al. | 2015 | 20 | 15-47 | 44-52 |  | Cement | 5-20 |  |  | Superplasticizer | 3.3-6.6
+24 | Patel and Shah | 2018 | 5 | 5-38 | 20-43 |  | Cement | 5-25 |  |  | Superplasticizer,
+NaOH, Na-silicate | 15,8
+25 | Chatveera and
+Lertwattanaruk | 2014 | 18 |  | 19-45 |  | Cement | 10-50 |  |  | HNO3 and
+CH3COOH | 10
+26 | Chatveera and
+Lertwattanaruk | 2009 | 16 | 20 |  |  | Cement | 10-50 |  |  |  | 
+27 | Cordeiro et al | 2012 | 8 | 15-55 | 21-70 | 29-76 | Cement | 0-20 | Sugar cane
+Bagasse Ash | 0-20 | Superplasticizer | 0.5-2.4
+28 | Zareei et al. | 2017 | 6 | 35-42 | 51-60 |  | Cement | 5-25 | 0 | 10 | Superplasticizer | 15
+29 | Muthadhi and
+Kothandaraman | 2013 | 19 | 31-72 | 43-87 | 49-92 | Cement | 10-30 |  |  | Superplasticizer | 0.9-11
+30 | Safiuddin and
+Soudki | 2010 | 15 | 30-72 | 42-95 | 45-100 | Cement | 5-30 |  |  | High-range
+waterreducing and
+AEA | 1.7-10.6
+31 | Gastaldini et al. | 2010 | 19 |  | 17-72 | 24-86 | Cement | 10-35 | Slag and Fly
+Ash | 35-50 | Superplasticizer | 0.1-2.9
+32 | Padhi et al. | 2018 | 16 | 10-30 | 18-41 | 22-44 | Cement | 5-35 |  |  | Superplasticizer | 3,7
+
+===== PAGE 61 =====
+
+ 
+ 
+33  
+Kunchariyakun et 
+al.  
+2018  
+5  
+13-18  
+   
+   
+Sand  
+30-50  
+Lime  
+4  
+Superplasticizer  
+   
+34  
+Huang et al.  
+2017  
+6  
+88-96  
+120-136  
+125-137  
+SF Replacement  
+17-83  
+Silica Fume  
+17-100  
+Superplasticizer  
+19,1  
+35  
+Raisi et al.  
+2018  
+5  
+   
+48-58  
+   
+Cement   
+5-20  
+   
+   
+Superplasticizer  
+4.5-9.2  
+36  
+Tangchirapat et 
+al.  
+2008  
+13  
+25-37  
+35-51  
+38-58  
+Cement   
+20-50  
+   
+   
+Superplasticizer  
+1.7-3.3  
+37  
+Gastaldini et al.  
+2009  
+18  
+   
+17-72  
+24-86  
+Cement   
+10-30  
+Slag and Fly 
+Ash  
+35-50  
+Superplasticizer  
+0.4-9.5  
+38  
+Horsakulthai et 
+al.  
+2011  
+7  
+16-30  
+21-40  
+29-53  
+Cement   
+10-40  
+   
+   
+Superplasticizer  
+1-6.4  
+39  
+Bahri et al.  
+2019  
+5  
+35-96  
+86-113  
+91-115  
+Cement   
+10-20  
+Silica Fume  
+0-10  
+Superplasticizer  
+2.4-4.2  
+40  
+Raisi et al.  
+2018  
+17  
+25-36  
+29-65  
+64-74  
+Cement   
+5-20  
+   
+   
+Superplasticizer  
+2.7-9.8  
+41  
+Madandoust et 
+al.  
+2011  
+7  
+   
+27-35  
+   
+Cement   
+5-30  
+   
+   
+Superplasticizer  
+3.8-4.6  
+42  
+Mahmud et al.  
+2009  
+15  
+19-60  
+41-69  
+   
+Cement   
+5-20  
+   
+   
+Superplasticizer  
+0.6-4.4  
+43  
+Madandoust and 
+Ghavidel  
+2013  
+13  
+13-40  
+25-45  
+48-58  
+Cement   
+5-20  
+Glass 
+Powder  
+10-25  
+Superplasticizer  
+0.4-4.6  
+44  
+Modarres and 
+Hosseini  
+2014  
+12  
+6-33  
+11-40  
+19-46  
+Cement   
+3-5  
+   
+   
+Superplasticizer  
+   
+45  
+Mohseni et al.  
+2016  
+13  
+26-34  
+45-58  
+54-65  
+Cement   
+5-15  
+0  
+1-5  
+Superplasticizer  
+4.2-8  
+46  
+Sua-iam et al.  
+2016  
+4  
+16-38  
+38-45  
+   
+Cement   
+10-20  
+Lime Stone  
+10-20  
+Superplasticizer  
+9  
+47  
+Ameri et al.  
+2019  
+10  
+29-39  
+38-50  
+46-67  
+Cement   
+5-30  
+Bacteria 
+content  
+addition, 
+Limestone 
+and Micro 
+silica  
+28  
+Superplasticizer  
+14  
+48  
+Bui et al.  
+2005  
+24  
+19-67  
+58-98  
+65-107  
+Cement   
+10-20  
+   
+   
+Superplasticizer  
+5-7.5  
+49  
+Nehdi et al.  
+2003  
+18  
+25-37  
+54-72  
+   
+Cement   
+7.5-12.5  
+Silica Fume  
+7.5-12.5  
+High-range 
+waterreducing  
+1.5-4  
+50  
+Mohseni et al.  
+2016  
+26  
+   
+39-53  
+44-60  
+Cement   
+7.5-12.5  
+Nanoalumina  
+1-3  
+SP  
+0.9-4.5  
+51  
+Siddique et al.  
+2016  
+10  
+21-26  
+33-40  
+39-47  
+Cement   
+5-20  
+Bacillus 
+aerius  
+10^5 
+cells/mL  
+   
+   
+52  
+Zareei et al.  
+2017  
+6  
+51-57  
+83-93  
+   
+Cement   
+5-25  
+Micro-silica  
+8-10  
+Plasticizer: poly 
+carboxylic  
+15  
+53  
+Ganesan et al.  
+2007  
+8  
+26-39  
+35-43  
+37-46  
+Cement   
+5-35  
+   
+   
+   
+   
+54  
+Zhang et al.  
+1996  
+3  
+41-65  
+61-79  
+71-82  
+Cement   
+0-10  
+Silica Fume  
+0-10  
+Superplasticizer  
+6.9-9.6  
+55  
+Rahman et al.  
+2014  
+4  
+21-37  
+34-49  
+   
+Cement   
+20-40  
+   
+   
+Superplasticizer  
+3.7-8.8  
+56  
+Kannan  
+2018  
+26  
+   
+31-45  
+35-47  
+Cement   
+5-30  
+Metakaolin  
+5-30  
+Superplasticizer  
+7.6-9.5  
+57  
+Gill and Siddique  
+2017  
+16  
+19-38  
+30-52  
+46-72  
+Fine Aggregate  
+10-30  
+Metakaolin  
+5-15  
+Superplasticizer  
+4,2  
+58  
+Abalaka  
+2013  
+20  
+17-54  
+29-56  
+34-66  
+Cement   
+5-25  
+   
+   
+   
+   
+59  
+Chindaprasirt et 
+al.  
+2007  
+9  
+   
+18-28  
+22-29  
+Cement   
+20-55  
+Fly Ash  
+20-40  
+   
+   
+60  
+de Sensale  
+2006  
+15  
+21-51  
+32-60  
+35-69  
+Cement   
+10-20  
+   
+   
+Superplasticizer  
+0.1-2.1  
+61  
+Chopra et al.  
+2015  
+4  
+29-36  
+37-49  
+40-54  
+Cement   
+10-20  
+   
+   
+Superplasticizer  
+5,5  
+62  
+Praveenkumar et 
+al.  
+2019  
+7  
+23-27  
+36-41  
+43-48  
+Cement   
+0-10  
+0  
+1-5  
+   
+   
+63  
+Mehta and 
+Siddique  
+2018  
+7  
+48-62  
+51-67  
+53-69  
+GGBS  
+5-30  
+   
+   
+Superplasticizer 
+and Alkali 
+solution  
+166  
+64  
+Gastaldini et al.  
+2014  
+21  
+   
+32-73  
+37-81  
+Cement   
+5-30  
+Silica Fume  
+5-10  
+Superplasticizer 
+and Plasticizer 
+chemical 
+admixture  
+0.9-12.1  
+65  
+Cordeiro et al.  
+2009  
+4  
+52-55  
+61-70  
+69-77  
+Cement   
+10-20  
+   
+   
+Superplasticizer  
+1.4-2.4  
+66  
+Sua-iam and 
+Makul  
+2013  
+7  
+7-45  
+21-61  
+26-69  
+Cement   
+10-40  
+Fuel Ash  
+10-20  
+Superplasticizer  
+11  
+67  
+Anwar et al.  
+2000  
+3  
+2-21  
+21-31  
+27-42  
+Cement   
+10-20  
+   
+   
+   
+   
+68  
+Sua-iam and 
+Makul  
+2014  
+20  
+1-42  
+3-53  
+5-72  
+Fine Aggregate  
+25-100  
+Fly Ash  
+20-60  
+High-range 
+waterreducing  
+5.5-6.6  
+69  
+Sua-iam and 
+Makul  
+2013  
+25  
+0.5-62  
+2-68  
+3-83  
+Fine Aggregate  
+10-100  
+   
+   
+Superplasticizer  
+11  
+
+
+----- TABLE p61#1 -----
+
+33 | Kunchariyakun et
+al. | 2018 | 5 | 13-18 |  |  | Sand | 30-50 | Lime | 4 | Superplasticizer | 
+34 | Huang et al. | 2017 | 6 | 88-96 | 120-136 | 125-137 | SF Replacement | 17-83 | Silica Fume | 17-100 | Superplasticizer | 19,1
+35 | Raisi et al. | 2018 | 5 |  | 48-58 |  | Cement | 5-20 |  |  | Superplasticizer | 4.5-9.2
+36 | Tangchirapat et
+al. | 2008 | 13 | 25-37 | 35-51 | 38-58 | Cement | 20-50 |  |  | Superplasticizer | 1.7-3.3
+37 | Gastaldini et al. | 2009 | 18 |  | 17-72 | 24-86 | Cement | 10-30 | Slag and Fly
+Ash | 35-50 | Superplasticizer | 0.4-9.5
+38 | Horsakulthai et
+al. | 2011 | 7 | 16-30 | 21-40 | 29-53 | Cement | 10-40 |  |  | Superplasticizer | 1-6.4
+39 | Bahri et al. | 2019 | 5 | 35-96 | 86-113 | 91-115 | Cement | 10-20 | Silica Fume | 0-10 | Superplasticizer | 2.4-4.2
+40 | Raisi et al. | 2018 | 17 | 25-36 | 29-65 | 64-74 | Cement | 5-20 |  |  | Superplasticizer | 2.7-9.8
+
+----- TABLE p61#2 -----
+
+41 | Madandoust et
+al. | 2011 | 7 |  | 27-35 |  | Cement | 5-30 |  |  | Superplasticizer | 3.8-4.6
+42 | Mahmud et al. | 2009 | 15 | 19-60 | 41-69 |  | Cement | 5-20 |  |  | Superplasticizer | 0.6-4.4
+43 | Madandoust and
+Ghavidel | 2013 | 13 | 13-40 | 25-45 | 48-58 | Cement | 5-20 | Glass
+Powder | 10-25 | Superplasticizer | 0.4-4.6
+44 | Modarres and
+Hosseini | 2014 | 12 | 6-33 | 11-40 | 19-46 | Cement | 3-5 |  |  | Superplasticizer | 
+45 | Mohseni et al. | 2016 | 13 | 26-34 | 45-58 | 54-65 | Cement | 5-15 | 0 | 1-5 | Superplasticizer | 4.2-8
+46 | Sua-iam et al. | 2016 | 4 | 16-38 | 38-45 |  | Cement | 10-20 | Lime Stone | 10-20 | Superplasticizer | 9
+47 | Ameri et al. | 2019 | 10 | 29-39 | 38-50 | 46-67 | Cement | 5-30 | Bacteria
+content
+addition,
+Limestone
+and Micro
+silica | 28 | Superplasticizer | 14
+48 | Bui et al. | 2005 | 24 | 19-67 | 58-98 | 65-107 | Cement | 10-20 |  |  | Superplasticizer | 5-7.5
+49 | Nehdi et al. | 2003 | 18 | 25-37 | 54-72 |  | Cement | 7.5-12.5 | Silica Fume | 7.5-12.5 | High-range
+waterreducing | 1.5-4
+50 | Mohseni et al. | 2016 | 26 |  | 39-53 | 44-60 | Cement | 7.5-12.5 | Nanoalumina | 1-3 | SP | 0.9-4.5
+51 | Siddique et al. | 2016 | 10 | 21-26 | 33-40 | 39-47 | Cement | 5-20 | Bacillus
+aerius | 10^5
+cells/mL |  | 
+52 | Zareei et al. | 2017 | 6 | 51-57 | 83-93 |  | Cement | 5-25 | Micro-silica | 8-10 | Plasticizer: poly
+carboxylic | 15
+53 | Ganesan et al. | 2007 | 8 | 26-39 | 35-43 | 37-46 | Cement | 5-35 |  |  |  | 
+54 | Zhang et al. | 1996 | 3 | 41-65 | 61-79 | 71-82 | Cement | 0-10 | Silica Fume | 0-10 | Superplasticizer | 6.9-9.6
+55 | Rahman et al. | 2014 | 4 | 21-37 | 34-49 |  | Cement | 20-40 |  |  | Superplasticizer | 3.7-8.8
+56 | Kannan | 2018 | 26 |  | 31-45 | 35-47 | Cement | 5-30 | Metakaolin | 5-30 | Superplasticizer | 7.6-9.5
+57 | Gill and Siddique | 2017 | 16 | 19-38 | 30-52 | 46-72 | Fine Aggregate | 10-30 | Metakaolin | 5-15 | Superplasticizer | 4,2
+58 | Abalaka | 2013 | 20 | 17-54 | 29-56 | 34-66 | Cement | 5-25 |  |  |  | 
+59 | Chindaprasirt et
+al. | 2007 | 9 |  | 18-28 | 22-29 | Cement | 20-55 | Fly Ash | 20-40 |  | 
+60 | de Sensale | 2006 | 15 | 21-51 | 32-60 | 35-69 | Cement | 10-20 |  |  | Superplasticizer | 0.1-2.1
+61 | Chopra et al. | 2015 | 4 | 29-36 | 37-49 | 40-54 | Cement | 10-20 |  |  | Superplasticizer | 5,5
+62 | Praveenkumar et
+al. | 2019 | 7 | 23-27 | 36-41 | 43-48 | Cement | 0-10 | 0 | 1-5 |  | 
+63 | Mehta and
+Siddique | 2018 | 7 | 48-62 | 51-67 | 53-69 | GGBS | 5-30 |  |  | Superplasticizer
+and Alkali
+solution | 166
+64 | Gastaldini et al. | 2014 | 21 |  | 32-73 | 37-81 | Cement | 5-30 | Silica Fume | 5-10 | Superplasticizer
+and Plasticizer
+chemical
+admixture | 0.9-12.1
+65 | Cordeiro et al. | 2009 | 4 | 52-55 | 61-70 | 69-77 | Cement | 10-20 |  |  | Superplasticizer | 1.4-2.4
+66 | Sua-iam and
+Makul | 2013 | 7 | 7-45 | 21-61 | 26-69 | Cement | 10-40 | Fuel Ash | 10-20 | Superplasticizer | 11
+67 | Anwar et al. | 2000 | 3 | 2-21 | 21-31 | 27-42 | Cement | 10-20 |  |  |  | 
+68 | Sua-iam and
+Makul | 2014 | 20 | 1-42 | 3-53 | 5-72 | Fine Aggregate | 25-100 | Fly Ash | 20-60 | High-range
+waterreducing | 5.5-6.6
+69 | Sua-iam and
+Makul | 2013 | 25 | 0.5-62 | 2-68 | 3-83 | Fine Aggregate | 10-100 |  |  | Superplasticizer | 11
+
+===== PAGE 62 =====
+
+ 
+ 
+70  
+Chalee et al.  
+2013  
+10  
+   
+29-45  
+29-46  
+Cement   
+15-50  
+   
+   
+Superplasticizer  
+0.3-3.8  
+71  
+Sua-iam et al.  
+2019  
+14  
+15-46  
+34-55  
+38-65  
+Cement   
+10-20  
+   
+   
+Superplasticizer  
+6.4-27.8  
+72  
+Rattanachu et al.  
+2020  
+9  
+16-36  
+22-46  
+24-49  
+Cement   
+20-50  
+   
+   
+Superplasticizer  
+0.4-1.7  
+73  
+Kusbiantoro et 
+al.  
+2012  
+9  
+7-55  
+17-57  
+17-71  
+Fly Ash  
+3-7  
+   
+   
+NaOH and Na 
+2SiO3 Solution  
+144  
+74  
+Krishna et al.  
+2016  
+5  
+12-20  
+16-29  
+   
+Cement   
+5-20  
+   
+   
+   
+   
+75  
+Naveen et al.  
+2015  
+10  
+28-54  
+9-70  
+   
+Cement   
+5-20  
+   
+   
+   
+   
+76  
+Prayuda et al.  
+2020  
+16  
+6-36  
+19-40  
+   
+Fine Aggregate  
+20-60  
+Silica Fume  
+0-5  
+Superplasticizer  
+4,85  
+77  
+Zubairu et al.  
+2018  
+9  
+11-27  
+13-27  
+20-34  
+Cement  
+2.5-20  
+0  
+2.5-10  
+   
+   
+78  
+Nair et al.  
+2013  
+15  
+42-67  
+67  
+68  
+Cement  
+10-25  
+   
+   
+Superplasticizer  
+1.7-9  
+79  
+Hussain et al.  
+2019  
+8  
+37-52  
+41-60  
+   
+Cement  
+10-20  
+   
+   
+0  
+4.5-8  
+80  
+Amin et al.  
+2019  
+4  
+   
+42-44  
+   
+Cement  
+10-20  
+   
+   
+Superplasticizer  
+5.1-7.1  
+81  
+Vieira et al.  
+2020  
+5  
+51-63  
+58-68  
+69-73  
+Cement  
+8-12  
+   
+   
+Superplasticizer  
+2.9-4.5  
+82  
+Das et al.  
+2020  
+6  
+12-29  
+25-39  
+   
+Fly Ash  
+1-10  
+0  
+63-70  
+Alkaline Liquid  
+147  
+83  
+Sakr  
+2006  
+30  
+30-42  
+43-57  
+48-70  
+Cement  
+5-20  
+Silica Fume  
+5-20  
+Superplasticizer  
+22.5-30  
+84  
+Lun  
+2015  
+10  
+22-32  
+31-40  
+   
+Cement  
+2.5-10  
+   
+   
+Plasticizer  
+4,69  
+85  
+Brown  
+2012  
+23  
+0.4-26  
+   
+   
+Cement  
+10-40  
+   
+   
+   
+   
+  
+ 
+
+
+----- TABLE p62#1 -----
+
+70 | Chalee et al. | 2013 | 10 |  | 29-45 | 29-46 | Cement | 15-50 |  |  | Superplasticizer | 0.3-3.8
+71 | Sua-iam et al. | 2019 | 14 | 15-46 | 34-55 | 38-65 | Cement | 10-20 |  |  | Superplasticizer | 6.4-27.8
+72 | Rattanachu et al. | 2020 | 9 | 16-36 | 22-46 | 24-49 | Cement | 20-50 |  |  | Superplasticizer | 0.4-1.7
+73 | Kusbiantoro et
+al. | 2012 | 9 | 7-55 | 17-57 | 17-71 | Fly Ash | 3-7 |  |  | NaOH and Na
+2SiO3 Solution | 144
+74 | Krishna et al. | 2016 | 5 | 12-20 | 16-29 |  | Cement | 5-20 |  |  |  | 
+75 | Naveen et al. | 2015 | 10 | 28-54 | 9-70 |  | Cement | 5-20 |  |  |  | 
+76 | Prayuda et al. | 2020 | 16 | 6-36 | 19-40 |  | Fine Aggregate | 20-60 | Silica Fume | 0-5 | Superplasticizer | 4,85
+77 | Zubairu et al. | 2018 | 9 | 11-27 | 13-27 | 20-34 | Cement | 2.5-20 | 0 | 2.5-10 |  | 
+78 | Nair et al. | 2013 | 15 | 42-67 | 67 | 68 | Cement | 10-25 |  |  | Superplasticizer | 1.7-9
+79 | Hussain et al. | 2019 | 8 | 37-52 | 41-60 |  | Cement | 10-20 |  |  | 0 | 4.5-8
+80 | Amin et al. | 2019 | 4 |  | 42-44 |  | Cement | 10-20 |  |  | Superplasticizer | 5.1-7.1
+81 | Vieira et al. | 2020 | 5 | 51-63 | 58-68 | 69-73 | Cement | 8-12 |  |  | Superplasticizer | 2.9-4.5
+82 | Das et al. | 2020 | 6 | 12-29 | 25-39 |  | Fly Ash | 1-10 | 0 | 63-70 | Alkaline Liquid | 147
+83 | Sakr | 2006 | 30 | 30-42 | 43-57 | 48-70 | Cement | 5-20 | Silica Fume | 5-20 | Superplasticizer | 22.5-30
+84 | Lun | 2015 | 10 | 22-32 | 31-40 |  | Cement | 2.5-10 |  |  | Plasticizer | 4,69
+85 | Brown | 2012 | 23 | 0.4-26 |  |  | Cement | 10-40 |  |  |  | 
+
+===== PAGE 63 =====
+
+ 
+ 
+Table 2 
+Click here to access/download;Table;Table 2.docx 
+Click here to view linked References 
+Table 2: CO2 emission factors and the unit prices of constituent materials  
+Constituent materials  
+CO2 emission factor (kg 
+CO2/kg of the material)  
+Cost (local price 
+in $)  
+Portland cement  
+0.82  
+(Collins et al. 2010)  
+$0.11/kg  
+Coarse Aggregates  
+  
+0.0459  
+(Flower and Sanjayan, 2007)  
+$0.008/kg  
+Fine Aggregates   
+0.0139  
+(Flower and Sanjayan, 2007)  
+$0.0075/kg  
+Rice Husk Ash (RHA)  
+0.1032  
+(Alnahhal et al. 2018)  
+$0.015/kg  
+Silica fume  
+0.028  
+King (2012)  
+$0.095/kg  
+Metakaolin  
+0.330-0.423  
+(Hammond and Jones, 2008)  
+$0.093/kg  
+Fly ash  
+0.004-0.027  
+(Flower and Sanjayan, 2007)  
+$0.080/kg  
+Slag  
+0.052-0.143  
+(Flower and Sanjayan, 2007)  
+$0.072/kg  
+  
+ 
+
+
+----- TABLE p63#1 -----
+
+Constituent materials | CO emission factor (kg
+2
+CO /kg of the material)
+2 | Cost (local price
+in $)
+Portland cement | 0.82
+(Collins et al. 2010) | $0.11/kg
+Coarse Aggregates | 0.0459
+(Flower and Sanjayan, 2007) | $0.008/kg
+Fine Aggregates | 0.0139
+(Flower and Sanjayan, 2007) | $0.0075/kg
+Rice Husk Ash (RHA) | 0.1032
+(Alnahhal et al. 2018) | $0.015/kg
+Silica fume | 0.028
+King (2012) | $0.095/kg
+Metakaolin | 0.330-0.423
+(Hammond and Jones, 2008) | $0.093/kg
+Fly ash | 0.004-0.027
+(Flower and Sanjayan, 2007) | $0.080/kg
+Slag | 0.052-0.143
+(Flower and Sanjayan, 2007) | $0.072/kg
+
+===== PAGE 64 =====
+
+ 
+ 
+Figure 1 
+Click here to access/download;Figure;Figure 1.docx 
+Click here to view linked References 
+   
+  
+
+
+===== PAGE 65 =====
+
+ 
+ 
+ 
+Figure 2a 
+Click here to access/download;Figure;Figure 2(a).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 66 =====
+
+ 
+ 
+ 
+Figure 2b 
+Click here to access/download;Figure;Figure 2(b).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 67 =====
+
+ 
+ 
+ 
+Figure 2c 
+Click here to access/download;Figure;Figure 2(c).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 68 =====
+
+ 
+ 
+ 
+Figure 3a 
+Click here to access/download;Figure;Figure 3(a).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 69 =====
+
+ 
+ 
+ 
+Figure 3b 
+Click here to access/download;Figure;Figure 3(b).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 70 =====
+
+ 
+ 
+ 
+Figure 4a 
+Click here to access/download;Figure;Figure 4(a).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 71 =====
+
+ 
+ 
+ 
+Figure 4b 
+Click here to access/download;Figure;Figure 4(b).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 72 =====
+
+ 
+ 
+ 
+Figure 4c 
+Click here to access/download;Figure;Figure 4(c).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 73 =====
+
+ 
+ 
+ 
+Figure 5a 
+Click here to access/download;Figure;Figure 5(a).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 74 =====
+
+ 
+ 
+ 
+Figure 5b 
+Click here to access/download;Figure;Figure 5(b).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 75 =====
+
+ 
+ 
+ 
+Figure 5c 
+Click here to access/download;Figure;Figure 5(c).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 76 =====
+
+ 
+ 
+ 
+Figure 6a 
+Click here to access/download;Figure;Figure 6(a).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 77 =====
+
+ 
+ 
+ 
+Figure 6b 
+Click here to access/download;Figure;Figure 6(b).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 78 =====
+
+ 
+ 
+ 
+Figure 7a 
+Click here to access/download;Figure;Figure 7(a).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 79 =====
+
+ 
+ 
+Figure 7b 
+Click here to access/download;Figure;Figure 7(b).pd f 
+Click here to view linked Reference s 
+
+
+===== PAGE 80 =====
+
+ 
+ 
+ 

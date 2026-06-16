@@ -1,0 +1,391 @@
+
+===== PAGE 1 =====
+
+Budownictwo i Architektura 19(4) 2020, 45-54 
+DOI: 10.35784/bud-arch.2121
+Received: 31.01.2020; Revised: 27.05.2020;  
+Accepted: 27.05.2020; Avaliable online: 02.11.2020
+Orginal Article
+© 2020 Budownictwo i Architektura
+This is an open-access article distributed under the terms of the CC-BY-SA 3.0
+Thermal performance of rice husk ash mixed mortar  
+in concrete and masonry buildings
+Kajanan Selvaranjan1, J.C.P.H. Gamage2, G.I.P. De Silva3,  
+Vajira Attanayaka4
+1 Department of Civil Engineering, University of Moratuwa, Sri Lanka;  
+kajansss22@gmail.com 
+ 0000-0003-3589-6065 
+2 Department of Civil Engineering, University of Moratuwa, Sri Lanka;  
+kgamage@civil.mrt.ac.lk 
+ 0000-0002-9246-8414 
+3 Department of Materials Science and Engineering, University of Moratuwa, Sri Lanka;  
+indikagip@uom.lk 
+ 0000-0002-8792-3494 
+4 Airow Solutions (Pvt) Ltd, Sri Lanka; vajira@airowsolutions.com
+Funding: The authors acknowledge the University of Moratuwa for providing the 
+necessary funding required for the research through Exploratory Research Grant scheme by 
+National Research Grant (NRC/PPP/18/01).
+Abstract: Rice Husk(RH) is an agricultural waste which is produced in huge amounts 
+from the milling process of paddy rice. Rice husk ash (RHA) is a by-product material obtained 
+from the combustion of rice husk. The amorphous silica-rich RHA (84-90 wt%) has a wide 
+range of applications. This research focused on the possibility of utilizing RHA in the process 
+of developing a mortar with low thermal conductivity to enhance the thermal comfort in 
+concrete and masonry buildings. The thermal conductivity of mortar was determined by Lee’s 
+Disc method, and the results were compared to the data for conventional mortar as well as 
+commercial thermal insulation materials. The results indicate a significant reduction in thermal 
+conductivity in the mortar developed with RHA.
+Keywords: rice husk ash, thermal conductivity, mortar, mechanical properties, SEM
+1.	 Introduction
+Concerns with sustainable waste management and recycling have become prominent 
+in all sectors of the economy. Thus, the new approaches to energy-efficient design are the 
+development and use of natural materials. Replacement of cement with fly ash, sawdust ash, 
+waste ceramic, recycled plastic, waste tyres, recycled glass and date palm in mortar or concrete 
+are few examples [1]–[6].
+
+
+===== PAGE 2 =====
+
+Kajanan Selvaranjan, J.C.P.H. Gamage, G.I.P. De Silva, Vajira Attanayaka
+46
+Rice husk is one of the agricultural wastes that is used as a major source of biomass for 
+fuel generation. Rice husks are usually dumped in the open area, thas is leading to contamination 
+of water and consumption of huge land space, thereby impacting the environment negatively 
+without any economic benefits. After the combustion of rice husk, ash is produced known 
+as rice husk ash (RHA). When rice husk is incinerated, it produces 17%-20% mass of RHA 
+out of the initial mass, that is a lightweight, bulky, and highly porous material with a density 
+of around 180–200 kg/m3 [7]–[9]. RHA had been one of the wastes that has such excellent 
+pozzolanic characteristics due to its high silica content [10]. The percentage of silica (SiO2) 
+and the carbon contents in the ash range between 80%-90% and 30%-50% respectively [11].
+RHA is thicker as compared to the interior surface, and there is an interlayer that consists 
+of a crisscross mesh of chips between the two surfaces. The chips are arranged in loose honey-
+combed fashion and contain a large number of holes. Many nanosized pores ranging from 
+several nanometers to several microns are distributed in the interlayer. These pores contribute 
+to the huge specific surface area and high reactivity of RHA when it is ground to powder. 
+RHA is a fine material with particle sizes being generally less than 45 μm and the average 
+particle size being in the range of 6-10 μm [4]. A. Siddika et al. [12] investigated that RHA is 
+suitable as an additional cementitious material, which can be obtained by controlled or natural 
+incineration and used with or without further processing. They have further revealed that the 
+increase of cement replacement with RHA results in decreasing the slump and increasing the 
+water demand.
+Most studies [7], [13] have focused on the partial replacement of cement particles with 
+RHA. S. Mayooran et al. [10] reported that the use of rice husk ash at levels of up to 5% as 
+a replacement of cement could improve the mechanical properties of concrete. M. Jamil et al. 
+[14] found that when RHA is applied in the preparation of mortar specimens, the compressive 
+strength of mortar significantly increases due to the filler and pozzolanic actions. However, 
+a lower contribution pozzolanic reaction of RHA to the strength development of mortar is 
+observed at early ages (7 and 14 days). Pozzolanic reactions of RHA depend on their particle 
+size, ageing time and percentage replacement of cement. S.K. Tulashie et al. [15] discussed 
+encouraging the cement and construction industries to partially replace ordinary Portland 
+cement with RHA to enhance the compressive strength of mortar structures. Practically, even 
+in countries with a limited production, RHA can be a valuable addition in special products 
+such as high strength concrete and repair mortars and also RHA addition in concrete is feasible 
+since slump can be retained at target with the small addition of a superplasticizer, strength 
+profile remains competitive [16].
+The studies focused on thermal properties of RHA mixed mortars have been very limited. 
+Therefore, the current study aims to investigate the thermal and mechanical properties of 
+mortar containing various amounts of rice husk ash.
+2.	 Experimental program
+2.1.	 Materials
+Ordinary portland cement and well-graded river sand with the size range of 0.251.18 mm 
+were used in all the mortar mixtures. RHA used in this study (Fig. 1) was obtained from 
+a factory in the northwestern part of Sri Lanka which has a tropical environment. According 
+to Fig. 2 most pozzolanic particles present in between 10–50 µm. Here, the RHA with particle 
+size less than 75 µm was used for this test program. The grading curve obtained as a result of 
+
+
+===== PAGE 3 =====
+
+Thermal performance of rice husk ash mixed mortar in concrete and masonry buildings
+47
+the Laser Diffraction analysis. The nature of RHA particles and their size distribution were 
+observed by scanning electron microscopes (SEM) shown in Fig. 3. These SEM images 
+showed that most of RHA have planar and angular shapes with ample smooth surface texture. 
+The chemical composition was analysed by Atomic absorption spectroscopy and results are 
+presented in Table 1. As shown in Table 1, RHA was mainly composed of silica along with 
+major oxides of potassium, calcium and magnesium. Similar observations were reported in 
+previous studies [17].
+Fig. 1.	
+Illustration of: a) rice husk, b) rice husk ash used for the experimental program.  
+Source: own study
+Fig. 2.	
+The Particle size distribution of RHA obtained by Laser Diffraction analysis. Source: own study
+Fig. 3.	
+SEM observation of RHA: a) at ×75, b) at ×500 magnification level. Source: own study
+a)
+b)
+a)
+b)
+
+
+===== PAGE 4 =====
+
+Kajanan Selvaranjan, J.C.P.H. Gamage, G.I.P. De Silva, Vajira Attanayaka
+48
+Table 1.	 Chemical examination of RHA. Source: own study
+Chemical 
+composition
+SiO2
+Al2O3
+CaO
+Fe2O3
+MgO
+Na2O
+K2O
+LOI
+%
+85.4
+1.1
+2.6
+0.7
+1.4
+0.8
+3.4
+7.9
+2.2.	 Sample preparation
+The control mortar mixes were prepared by using cement: sand mass ratio of 1:3. Mortar 
+specimens with RHA were prepared using constant and varying water-cement ratios. Initially, 
+the water-cement ratio was 0.5. The details of the specimens are given in Table 2. The flow-
+ability of mortar was measured according to ASTM C1437 [18]. The average flow diameter 
+of the control mixture without RHA was 140 mm. Since the workability of mortar mixture 
+decreases with the addition of RHA, a constant flow (140 mm) was maintained by varying w/c.
+Table 2.	 Mix proportion of mortars. Source: own study
+Mix designation
+RHA (%)
+Cement (kg)
+Sand (kg)
+RHA (kg)
+Water (kg)
+M0
+0
+1
+3
+0
+0.50
+M10
+10
+1
+2.7
+0.3
+0.78
+M20
+20
+1
+2.4
+0.6
+0.92
+M30
+30
+1
+2.1
+0.9
+1.24
+M50
+50
+1
+1.5
+1.5
+1.96
+M70
+70
+1
+0.9
+2.1
+2.24
+M80
+80
+1
+0.6
+2.4
+2.68
+M100
+100
+1
+0
+3
+3.06
+2.3.	 Testing and results
+In the application of buildings, it is important to ensure better thermal performance with 
+the new product. Hence, the thermal conductivity of samples was measured. According to the 
+mortar classification in ASTM C270 [19], the minimum requirement for average compressive 
+strength for the general purpose at 28 days is 5.2 MPa. Therefore, compressive strength testing 
+was also done in accordance with ASTM C109 [20].
+2.3.1.	 Thermal conductivity
+The specimens were prepared in circular shaped moulds with 60 mm diameter and 5 mm 
+depth as shown in Fig. 4. After 28 days of curing in water, the specimens were tested based on 
+the principle of the lee disc method [21] as shown in Fig. 5. A total of 24 samples were prepared.
+Fig. 4.	
+Specimens to check thermal conductivity. Source: own study
+60 mm
+
+
+===== PAGE 5 =====
+
+Thermal performance of rice husk ash mixed mortar in concrete and masonry buildings
+49
+Fig. 5.	
+Test set-up. Source: own study
+Figure 6 shows the thermal conductivity of mortar with different levels of RHA replace-
+ment. It is noted that the addition of RHA into the mortar results in good thermal conductivity 
+of the mortar which exhibited a good thermal insulation property. The thermal conductivity 
+of the 100% RHA mortar was approximately 0.213 W/mK. This is 67.42% lower than the 
+control mixture. The thermal conductivity of porous materials is governed by the voids in the 
+sample [2]. Thus, mortar filled with 100% RHA results in an increase in the number of voids 
+lead to lower conductivity of the final product.
+Fig. 6.	
+Thermal conductivity variation with RHA replacement. Source: own study
+The coefficient of determination (0.9957) shows a fairly good prediction for thermal 
+conductivity.
+2.3.2.	 Compressive strength
+The preparation of the mixture is made by first mixing the materials cement, sand and 
+RHA was mixed first without adding water when the mixture becomes homogeneous. Then, 
+water is added to the mixture and mixed for 5 min in the mixing machine running with an 
+
+
+===== PAGE 6 =====
+
+Kajanan Selvaranjan, J.C.P.H. Gamage, G.I.P. De Silva, Vajira Attanayaka
+50
+angular velocity of 50 rpm. Compressive strength of mortar cube specimens as shown in 
+Fig. 7 (70 × 70 × 70 mm) incorporating RHA were performed in accordance with ASTM 
+C109 [18]. Cubes were cured and tested for compressive strength at 7 and 28 days. A total of 
+24 samples were prepared.
+Fig. 7.	
+Mortar cube specimens. Source: own study
+Figure 8 shows the variation of the compressive strength of mortar as a function of RHA 
+replacement at 7-days and 28-days of curing. It is noticed that the compressive strength of 
+mortar decreases drastically with the increase of RHA. Mortar containing 10% to 50% RHA 
+shows a considerable compressive strength, while the replacement of RHA above 50% shows 
+a negative impact on the compressive strength (Fig. 10). The average compressive strength of 
+specimens with 50% RHA replacement is 4.8 MPa, less than the minimum requirement for 
+type N mortar [22]. This behaviour is due to the addition of low-density RHA which leads 
+to an increase in porosity of mortars. A similar trend observed in previous studies [14], [22].
+Fig. 8.	
+Relationship between compressive strength and amount of RHA. Source: own study
+
+
+===== PAGE 7 =====
+
+Thermal performance of rice husk ash mixed mortar in concrete and masonry buildings
+51
+2.3.3.	 Density
+The density of mortars with the variation of RHA replacement at 28 days also measured 
+(Fig. 9). The result has shown that the density of samples with RHA was lower than that of 
+control samples. Both bulk density and dry density have been decreased with the increase of 
+RHA replacement. When the sand was entirely replaced with RHA, the dry density of mortar 
+was 0.6 g/cm3 whereas for control sample 2.2 g/cm3 at the age of 28 days. This is due to the 
+replacement of high-density sand with low-density RHA and also mortars containing RHA 
+absorb more water which forms internal voids in mortars.
+Fig. 9.	
+Relationship between density and percentage of RHA. Source: own study
+2.3.4.	 Microstructure examination
+Pure RHA and mortar specimens containing a various proportion of RHA tested for 
+thermal conductivity were observed by SEM.
+The microstructure of mortars containing 10, 20, 30, 50, 70 and 100% of RHA was 
+examined using a Scanning Electron Microscope (SEM). Figure 10 shows the SEM image of 
+control mortar without RHA. Fig. 11 shows the results of SEM analysis for different percent-
+ages of RHA replacement. According to the figures, the size and density of voids had increased 
+with the increase of RHA. This can be explained by the excess water absorbed by the RHA 
+and has resulted in a reduction of compressive strength.
+Fig. 10.	 SEM image of mortar without RHA. Source: own study
+
+
+===== PAGE 8 =====
+
+Kajanan Selvaranjan, J.C.P.H. Gamage, G.I.P. De Silva, Vajira Attanayaka
+52
+Fig. 11.	 SEM images of mortar shows the pores in mortar containing, a) 20%, b) 30%, c) 50%, d) 100% rice 
+husk ash. Source: own study
+3.	 Conclusion
+This study was focused on the development of an innovation of low cost insulated mortar 
+rice waste result from paddy cultivation. The following conclusion can be made:
+1.	The composition RHA result from tropical cultivation is also very similar to other 
+parts of the world.
+2.	The density of mortar with RHA decreases with increase in the percentage of RHA 
+replacement. A reduction of 32.7% of bulk density was noted with the 50% replace-
+ment of RHA.
+3.	Almost a similar reduction in thermal conductivity was noted when the replacement 
+ratio of RHA exceeds 50%. This is about 78.3% reduction when compared to cemen-
+titious mortar.
+4.	SEM results indicate an increase in porosity of mortar with the increase of RHA 
+replacement. This has caused the heavy reduction in compressive strength of RHA 
+replaced mortar when the replacement ratio exceeds 50%.
+References
+[1]	
+Mandal A.K., Verma H.R., and Sinha O.P., “Utilization of aluminum plant’s waste for production 
+of insulation bricks”, J. Clean. Prod., vol. 162, 2017, pp. 949-957.
+ 
+ 
+ 
+Porosity 
+Porosity 
+a) 
+b) 
+c) 
+d) 
+Porosity 
+Porosity 
+
+
+===== PAGE 9 =====
+
+Thermal performance of rice husk ash mixed mortar in concrete and masonry buildings
+53
+[2]	
+Torkittikul P., Nochaiya T., and Wongkeo W., “Utilization of coal bottom ash to improve thermal 
+insulation of construction material”, J. Mater. Cycles Waste Manag., 2015.
+[3]	
+Abu Bakar B.H., Ramadhansyah P.J., and Megat Azmi M.J., “Effect of rice husk ash fineness on the 
+chemical and physical properties of concrete”, Mag. Concr. Res., vol. 63, no. 5, 2011, pp. 313-320.
+[4]	
+Jaya R.P. et al., “Physical and chemical properties of cement with nano black rice husk ash”, in 
+AIP Conference Proceedings, 2019, vol. 2151.
+[5]	
+Corinaldesi V., Mazzoli A., and Moriconi G., “Mechanical behaviour and thermal conductivity of 
+mortars containing waste rubber particles”. Mater. Des., vol. 32, no. 3, 2011, pp. 1646-1650.
+[6]	
+Kapur P.C., “Thermal Insulations from Rice Husk Ash, an Agricultural Waste”, Ceramurgia 
+International, vol. 6, 1953, pp. 75-78. https://doi.org/10.1016/0390-5519(80)90045-9
+[7]	
+Patel J.S., Parikh K.B., and Darji P.A.R., “Study on Concrete Using Fly Ash, Rice Husk Ash and 
+Egg Shell Powder”, International Journal for Research, vol. 5, 2017, pp. 566-570.
+[8]	
+Musa M.N., Fikhri M., and Aziz A., “Thermal Conductivity for Mixture of Rice Husk Fiber and 
+Gypsum”, Applied Mechanics and Materials, vol. 819, 2016, pp. 69-73. https://doi.org/10.4028/
+www.scientific.net/AMM.819.69
+[9]	
+Ruiz-herrero J.L. et al., “Mechanical and thermal performance of concrete and mortar cellular mate-
+rials containing plastic waste”, Construction and Building Materials, vol. 104, 2016, pp. 298-310. 
+https://doi.org/10.1016/j.conbuildmat.2015.12.005
+[10]	 Mayooran S., Ragavan S., and Sathiparan N., “Comparative study on open air burnt low- and 
+high-carbon rice husk ash as partial cement replacement in cement block production”, J. Build. 
+Eng., vol. 13, (May 2017), pp. 137-145. https://doi.org/10.1016/j.jobe.2017.07.011
+[11]	 Prasara-a J. and Gheewala S.H., “SC,” J. Clean. Prod., 2016.
+[12]	 Siddika A., Al Mamun A., and Ali H., “Study on concrete with rice husk ash,” Innov. Infrastruct. 
+Solut., vol. 3, no. 3, 2018. https://doi.org/10.1007/s41062-018-0127-6
+[13]	 International T. and Of J., “Experimental Study on Rice Husk as Fine Aggregates in Concrete”, 
+no. 1992, 2014, pp. 9-14.
+[14]	 Jamil M., M. Khan N.N., Karim M.R., Kaish A.B.M.A., and Zain M.F.M., “Physical and chemical 
+contributions of Rice Husk Ash on the properties of mortar”, Constr. Build. Mater., vol. 128, 2016, 
+pp. 185-198.
+[15]	 Kofi S., Kotoka F., Mensah D., and Kwame A., “Investigation of the compressive strength of pit 
+sand , and sea sand mortar prisms produced with rice husk ash as additives”, Constr. Build. Mater., 
+vol. 151, 2017, pp. 383-387. https://doi.org/10.1016/j.conbuildmat.2017.06.082
+[16]	 Antiohos S.K., Papadakis V.G., and Tsimas S., “Cement and Concrete Research Rice Husk Ash 
+(RHA) Effectiveness in Cement and Concrete as a Function of Reactive Silica and Fineness”, Cem. 
+Concr. Res., vol. 61-62, 2014, pp. 20-27. https://doi.org/10.1016/j.cemconres.2014.04.001
+[17]	 Gonçalves M.R.F. and Bergmann C.P., “Thermal insulators made with rice husk ashes: Production 
+and correlation between properties and microstructure”, Construction and Building Materials, 
+vol. 21, 2007, pp. 2059-2065. https://doi.org/10.1016/j.conbuildmat.2006.05.057
+[18]	 ASTM C 1437-07, “Standard Test Method for Flow of Hydraulic Cement Mortar”, Annu. B. ASTM 
+Stand., 2009, pp. 6-7.
+[19]	 ASTM C 270-07, “Standard Specification for Mortar for Unit Masonry”, United States Am. Soc. 
+Test. Mater., 2007, pp. 2-13.
+[20]	 ASTM Committee, “ASTM C109/C109M-02 Standard Test Method for Compressive Strength of 
+Hydraulic Cement Mortars,” Annu. B. ASTM Stand., vol. 4, 2002, pp. 1-6.
+[21]	 Piela L.B.D.C.L., “LEED v 4 for BD and C”, 2016, pp. 113-165.
+[22]	 Na O. and Xi Y., “Mechanical and durability properties of insulation mortar with rubber powder 
+from waste tires”, J. Mater. Cycles Waste Manag., 2016.
+
+
+===== PAGE 10 =====
+

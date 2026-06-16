@@ -1,0 +1,1326 @@
+
+===== PAGE 1 =====
+
+ORIGINAL RESEARCH
+published: 30 June 2021
+doi: 10.3389/fmats.2021.665625
+Edited by:
+Ali Kashani,
+University of New South Wales,
+Australia
+Reviewed by:
+Souradeep Gupta,
+Indian Institute of Science (IISc), India
+Aziz Hasan Mahmood,
+University of New South Wales,
+Australia
+*Correspondence:
+Osama Zaid
+osamazaidmarwat@gmail.com
+Jawad Ahmad
+jawadcivil13@scetwah.edu.pk
+Specialty section:
+This article was submitted to
+Structural Materials,
+a section of the journal
+Frontiers in Materials
+Received: 08 February 2021
+Accepted: 20 April 2021
+Published: 30 June 2021
+Citation:
+Zaid O, Ahmad J, Siddique MS
+and Aslam F (2021) Effect of
+Incorporation of Rice Husk Ash
+Instead of Cement on the
+Performance of Steel Fibers
+Reinforced Concrete.
+Front. Mater. 8:665625.
+doi: 10.3389/fmats.2021.665625
+Effect of Incorporation of Rice Husk
+Ash Instead of Cement on the
+Performance of Steel Fibers
+Reinforced Concrete
+Osama Zaid1*, Jawad Ahmad1*, Muhammad Shahid Siddique1 and Fahid Aslam2
+1 Department of Civil Engineering, Military College of Engineering, Risalpur, Sub Campus of National University of Science
+and Technology, Islamabad, Pakistan, 2 Department of Civil Engineering, College of Engineering in Al-Kharj, Prince Sattam
+Bin Abdulaziz University, Al-Kharj, Saudi Arabia
+The production of rice is signiﬁcant worldwide; the husk produced is generally used as
+a combustible material for the preparation of paddies, delivering energy through direct
+combustion as well as by gasifying. Annually, 7.4 million tons of Rice Husk Ash (RHA) is
+produced and poses an incredible danger to the environment, harming the land and the
+encompassing zone where it is unloaded. In the transformation of rice husk to ash, the
+ignition cycle eliminates the natural products, leaving silica-rich remains. These silica-rich
+remains have proven to have potential to be utilized in concrete as a limited substitution
+of cement to enhance the concrete compressive strength. Steel ﬁbers’ incorporation
+increases the concrete tensile strength, balances out concrete samples, and changes
+their brittle behavior to a more ductile response. In the current study, the inﬂuence of
+various doses of Rice Husk Ash (RHA) used in concrete in the presence and absence
+of steel ﬁbers and concrete performance has been examined. A total of nine mixes
+have been designed: one was a control, four were without steel ﬁbers containing only
+RHA, and the last four mixed RHA with steel ﬁbers from 0.5 to 2%. Tests with 5, 10,
+15, and 20% percentages of RHA replacing the concrete have been targeted. Results
+have been compared with the reference samples and the reasonability of adding Rice
+Husk Ash to concrete has been studied. From the results, it was noted that about 10%
+of cement might be replaced with Rice Husk Ash mixed in with steel ﬁbers with almost
+equal compressive strength. Replacing more than 15% of cement with RHA will produce
+concrete with a low performance in terms of strength and durability.
+Keywords: concrete, steel ﬁbers, rice husk ash, compressive strength, superplasticizer
+INTRODUCTION
+Concrete is a frequently used construction and building material, which is suﬃciently strong,
+impermeable, and durable. Among the ingredients of concrete, cement is an expensive material, and
+its demand is persistently increasing all over the globe. Hence, to control the cost of construction,
+it is important to utilize modern waste materials, mineral admixtures, and other materials to
+accommodate the increasing use of concrete. Agricultural waste, such as rice husk ash (RHA),
+can be used instead of cement in concrete making, producing eﬃcient concrete with improved
+Frontiers in Materials | www.frontiersin.org
+1
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 2 =====
+
+Zaid et al.
+RHA in Concrete
+concrete properties like impermeability, workability, strength,
+and
+corrosion
+of
+steel
+reinforcement.
+For
+reasonable
+improvement of concrete, increasing the use of cement raw
+materials must be preserved. RHA is an exceptionally responsive
+pozzolanic material used as an Ordinary Portland Cement
+substitution. It is a good option to utilize RHA in concrete
+because it will increase concrete workability.
+A lot of studies have been performed to examine the possible
+use of Rice Husk Ash in concrete. Tay (1990) conﬁrmed a
+reduction in concrete compressive strength which is nearly
+relative to the amount of ash in the mixed cement (Udoeyo
+and Dashibil, 2002). Concrete samples with sawdust ash (SDA)
+substitution from 20 to 25% demonstrated a compressive
+strength, with strength diminishing with higher ash content
+(Jaturapitakkul and Roongreung, 2003). It was also shown that
+mortar of CaC2 residue compressive strength and Rice Husk Ash
+can be more than 16.5 Mpa after 28 days of curing days and
+expand to 20.2 Mpa after 180 days of curing (Qing-ge et al., 2004).
+Further studies have demonstrated that, in the substitution of
+cement with Rice Husk Ash, concrete compressive strength is
+clearly increased (Sakr, 2006). It was also shown that ilmenite
+concrete had the highest compressive strength when blended
+in with 10% steel ﬁbers (Tangchirapat et al., 2009). One study
+replaced 10% cement with palm ash and showed palm oil fuel
+ash mortar compressive strength was 100–102% of cement Type I
+mortar after curing for 90 days (Ferraro et al., 2010). Using white
+cement, up to 15% of RHA may be well mixed (Xu et al., 2012). It
+was also demonstrated that that about 20% of Rice Husk Ash, Fine
+Aggregate, Palm oil fuel ash, or wheat straw ash can be utilized
+to replace cement without inﬂuencing the physical properties of
+glass ﬁber reinforced concrete (GFRC) (Zain et al., 2011). A ﬁnal
+study examined the concrete compressive strength over varying
+ﬁneness of RHA replacing cement at about 15% and indicated
+that the concrete strength was enhanced.
+Rice husk is a signiﬁcant agricultural by-product and is
+produced during the husk removal cycle of paddy rice. In a 2002
+environmental review, it was shown that the yearly worldwide
+formation of paddy was 0.579 billion tons (Xu et al., 2012).
+India is close to China in terms of paddy production, making up
+31.2% of the globe’s creation. Removal of rice husk is a signiﬁcant
+problem as inappropriate removal causes natural issues (Zain
+et al., 2011). One technique is using the rice husk as a replacement
+for concrete. In concrete, RHA could be utilized as a mineral
+admixture due to its profoundly siliceous nature if the rice husk
+is kept at a constrained temperature between 700 and 800◦C
+(James and Rao, 1986). Through this consuming cycle, the carbon
+amount in rice husk is burnt oﬀand all that is left is silica
+residue (O’Connell et al., 2007). The huge pozzolanic behavior
+is an important quality for utilizing it as a replacement or an
+admixture (mineral) in concrete (Ahmad et al., 2021). The viable
+use of Rice Husk Ash in concrete relies upon its particle size
+(Kishore et al., 2011). Given the checking electron magnifying
+lens contemplates, it has been proven that Rice Husk Ash is a
+permeable pozzolanic material and includes a huge number of
+sets of size 1–10 µm (Mehta, 1992; Uduweriya et al., 2010). Fine
+grains work as a ﬁller on the pore structure and more conﬁne
+enhancement of RHA particles produces more hydration. Adding
+Rice Husk Ash to concrete improves the strength. However, when
+a low water/cement ratio is used, a weak performance is seen in
+Rice Husk Ash concrete (Giaccio et al., 2007; Vijai et al., 2012).
+Various research shows that mechanical and durability
+characteristics considerably improved with the incorporation
+of ﬁbers (Ahmad et al., 2020a). The impact of polypropylene
+ﬁbers and silica fume improved the mechanical properties
+of expansive-cement concrete (Toutanji, 1999). According to
+Toutanji (1999), characteristics considered include those of
+the change of length, fresh mix properties, rapid chloride
+permeability, ﬂexural conduct, compressive strength, and bond
+of hardened concrete. The silica fume amount utilized was
+7 and 9% and volume of ﬁber amount was 0.15, 0.20, and
+0.30%. Results display that utilization of 7% silica fume joined
+with 0.20 percent volume of ﬁber volume fraction brings
+about an optimum mix design for repair applications from
+the angles of length change, workability, strength, bond, and
+permeability (Nuruddin et al., 2011). Researchers examined
+the impacts of sodium hydroxide molarity and superplasticizer
+on the workability, compressive strength, and microstructure
+of (SCGC) Self Compacting Geopolymer Concrete. Outcomes
+TABLE 1 | Physical and chemical property of OPC.
+Chemical
+property
+Percentage (%)
+Physical property
+Results
+CaO
+62.7
+Size
+≤75 µ
+SiO2
+25.9
+Fineness
+92%
+Al2O3
+8.4
+Normal
+consistency
+28%
+Fe2O3
+1.7
+Initial
+setting time
+38 min
+MgO
+2.5
+Final
+setting time
+412 min
+SO3
+1.9
+Speciﬁc surface
+322 m2/kg
+K2O
+2.4
+Soundness
+1.70%
+Na2O
+0.2
+28-days compressive
+Strength
+42 Mpa
+TABLE 2 | Physical property of steel ﬁbers.
+Physical property
+Results
+Length
+35 mm
+Diameter
+0.55 mm
+Aspect ratio (L/d)
+64
+Tensile strength
+415 Mpa
+Young’sModulus
+3.6GPa
+TABLE 3 | Physical properties of ﬁne and coarse aggregate.
+Physical property
+Fine aggregate
+Coarse aggregate
+Bulk density (kg/m3)
+1,586
+1,535
+Moisture content
+1.8%
+1.25%
+Absorption capacity
+5.28%
+2.13%
+Fineness modulus
+2.93
+4.7
+Particle size
+4.75–0.75 mm
+30–4.75 mm
+Frontiers in Materials | www.frontiersin.org
+2
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 3 =====
+
+Zaid et al.
+RHA in Concrete
+showed that workability and performance enhanced with
+the increase in superplasticizer content. The Rice Husk Ash
+produced from the consumption of husk in heater at controlled
+temperature satisﬁes the actual qualities and compound piece
+of mineral admixtures. The pozzolanic behavior of Rice
+Husk Ash relies on the silica crystallization stage, silica
+percentage, and surface zone and size of ash. The measure
+of carbon amount in RHA should be small. In the event
+that the carbon content is more in RHA, the strength of
+concrete will be less.
+In the current study, lab tests were performed to analyze
+the use of Rice Husk Ash alongside superplasticizer (with
+the presence and absence of steel ﬁbers with 0%, 0.5%,
+1.0%, 1.5%, and 2.0%) as a cement substitution ingredient in
+A
+B
+FIGURE 1 | (A) Gradation Curve of Fine Aggregate, (B) Gradation curve of Coarse Aggregate.
+Frontiers in Materials | www.frontiersin.org
+3
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 4 =====
+
+Zaid et al.
+RHA in Concrete
+TABLE 4 | Chemical composition of rice husk ash.
+Chemical
+Rice husk ash (%)
+CaO
+12.56
+SiO2
+62.3
+Al2O3
+10.11
+Fe2O3
+6.48
+MgO
+3.5
+SO3
+0.61
+K2O
+2.09
+Na2O
+0.049
+concrete. The use of steel ﬁbers might increase the cement
+stabilized samples and change concrete brittle behavior to
+ductile behavior. The impact of the various ratios of RHA
+incorporated into concrete which contains superplasticizer with
+and without steel ﬁbers on concrete performance has been
+TABLE 5 | Physical property of superplasticizer.
+Property
+Result
+Color
+Brown liquid
+Air entrainment
+1.48 at 25◦C
+Chloride content
+Nil to BS 5075/BS: EN934
+Speciﬁc gravity
+1.18 @ 25(◦C
+studied. Tests with 0, 5, 10, 15, and 20% percentage of
+Rice Husk Ash replacing the cement have been tried. The
+outcomes have been compared with the control samples and
+the feasibility of adding Rice Husk Ash to concrete has been
+contemplated. From studying previous literature, it is concluded
+that incorporation of steel ﬁbers aﬀects concrete workability,
+so using a superplasticizer was important to keep concrete in
+a ﬂowable state.
+TABLE 6 | Quantiﬁcation of materials.
+Mix ID
+Mix proportion (%)
+Cement
+(Kg/m3)
+RHA
+Steel ﬁbers
+(kg)
+Water (kg)
+Sand
+(kg/m3)
+Coarse
+aggregate
+(kg/m3)
+Superplasticizer
+(kg)
+Cement
+RHA
+Steel Fibers
+Mix 1
+100%
+0%
+0%
+375
+−
+−
+165
+650
+1,310
+0%
+Mix 2
+95%
+5%
+0%
+365.25
+18.75
+−
+165
+650
+1,310
+0%
+Mix 3
+90%
+10%
+0%
+337.5
+37.5
+−
+165
+650
+1,310
+0%
+Mix 4
+85%
+15%
+0%
+318.75
+56.25
+−
+165
+650
+1,310
+0%
+Mix 5
+80%
+20%
+0%
+300
+75
+−
+165
+650
+1,310
+0%
+Mix 6
+95%
+5%
+0.5%
+365.25
+18.75
+1.875
+165
+650
+1,310
+2.50
+Mix 7
+90%
+10%
+1.0%
+337.5
+37.5
+3.75
+165
+650
+1,310
+2.50
+Mix 8
+85%
+15%
+1.5%
+318.75
+56.25
+5.625
+165
+650
+1,310
+2.50
+Mix 9
+80%
+20%
+2.0%
+300
+75
+7.5
+165
+650
+1,310
+2.50
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+20% RHA
+Compressive Strenght (Psi)
+ 7 days
+ 21 days
+ 28 days
+FIGURE 2 | Compressive strength (without steel ﬁbers and superplasticizer).
+Frontiers in Materials | www.frontiersin.org
+4
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 5 =====
+
+Zaid et al.
+RHA in Concrete
+0.0%
+20.0%
+40.0%
+60.0%
+80.0%
+100.0%
+120.0%
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+20% RHA
+7-Days
+21-Days
+28-Days
+CON(28-Days)
+FIGURE 3 | Relative analysis compressive strength (without steel ﬁbers and superplasticizer).
+0
+500
+1000
+1500
+2000
+2500
+3000
+3500
+0% RHA+0% SF
+5% RHA+0.5% SF
+10% RHA+1.0% SF
+15% RHA+1.5% SF
+20% RHA+2.0% SF
+Compressive Strength (Psi)
+ 7 days
+ 21 days
+ 28 days
+FIGURE 4 | Compressive strength (with steel ﬁbers and superplasticizer).
+0.0%
+20.0%
+40.0%
+60.0%
+80.0%
+100.0%
+120.0%
+0% RHA+0% SF
+5% RHA+0.5% SF
+10% RHA+1.0% SF
+15% RHA+1.5% SF
+20% RHA+2.0% SF
+7-Days
+21-Days
+28-Days
+CON(28-Days)
+FIGURE 5 | Relative analysis of compressive strength (with steel ﬁbers and superplasticizer).
+Frontiers in Materials | www.frontiersin.org
+5
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 6 =====
+
+Zaid et al.
+RHA in Concrete
+EXPERIMENTAL PROGRAM
+Methods and Materials
+Cement
+The primary binder that was used in all mixes was Ordinary
+Portland Cement, which is type I general-purpose cement as
+per ASTM C 150 [22]. The chemical and physical properties of
+Ordinary Portland Cement are displayed in Table 1.
+Steel Fibers
+Hook end steel ﬁbers with a length of 35 mm were glued together
+and were used in diﬀerent percentages. Their properties are given
+in Table 2.
+Aggregates
+For ﬁne aggregates, typical natural sand, obtained from
+Lawrancepaur, was utilized in saturated surface dry conditions
+in entire blends. The coarse aggregate used in this study was
+obtained from Margalla in saturated surface dry condition and
+was used in all blends; the maximum size of the coarse aggregate
+was 30 mm. Tests were performed to determine aggregate
+physical parameters, which are shown in Table 3, while gradation
+curves of ﬁne and coarse aggregate as per ASTM C 33 (ASTM C
+33/C33M, 2008) are shown in Figures 1A,B, respectively.
+Rice Husk Ash
+Rice husk is obtained from the rice milling industry because it is
+a byproduct. Research has demonstrated that heating rice husk
+at a temperature of 700◦C makes a powder that has a suﬃcient
+structure for pozzolanic materials. Research has also indicated
+that, because of RHA’s high surface area, the Rice Husk Ash can
+be used in concrete as a mineral admixture. RHA reduces the
+permeability of concrete when used as a mineral admixture. Rice
+Husk Ash utilized in the present study was gray, had a pH of 7.4,
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+20% RHA
+Split Tensile Strength (Psi)
+ 7 days
+ 21 days
+ 28 days
+FIGURE 6 | Split tensile strength (without steel ﬁbers and superplasticizer).
+0.0%
+20.0%
+40.0%
+60.0%
+80.0%
+100.0%
+120.0%
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+20% RHA
+7-Days
+21-Days
+28-Days
+CON(28-Days)
+FIGURE 7 | Relative analysis split tensile strength (without steel ﬁbers and superplasticizer).
+Frontiers in Materials | www.frontiersin.org
+6
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 7 =====
+
+Zaid et al.
+RHA in Concrete
+and contained silica of 62.3%. The typical chemical composition
+is shown in Table 4.
+Water
+The study revealed that the pH of water for mixing in concrete
+should be in the range of 6 and 8 (Zain et al., 2011). In this
+study, clean drinking water was used, which was obtained from
+commercial tube well.
+Superplasticizer
+In the present research, Conplast SP 430 superplasticizer was
+used. It is included commonly in the scope of 0.6–1.3% by cement
+weight. The utilization of a superplasticizer makes pumpable
+concrete and concrete which is more workable. In the current
+investigation, a 0.8% superplasticizer was utilized to control test
+samples. Conplast SP430 meets with BS 5075, BS: EN 934-2
+(ENTS, 2009), and with ASTM C494 as Type A and Type F
+[25], contingent upon the measurements utilized. In Table 5 its
+physical properties are provided.
+Test Mixing Procedure and Size of
+Specimen
+The complete investigation program was planned so that it was
+done within 30 days from the date of acquisition of cement
+to diminish the negative eﬀects on properties of concrete as a
+result of storing cement. A 1:1.5:3 ratio was used for concrete
+making. First, the cement, sand, and coarse aggregates were dry
+mixed for 60 seconds, and then water was added along with
+RHA, and then the mixture was mixed again for 2 min. The
+aggregates used to manufacture concrete were used in saturated
+surface dry conditions. For concrete, 1:1.5:3 ratios were used
+as per ASTM C 39 (Materials ASFTA, 2012). For sampling
+standard size of cylinders, 6 inch × 12 inches were utilized to
+0
+50
+100
+150
+200
+250
+300
+350
+400
+0% RHA + 0% SF
+5% RHA+ 0.5% SF
+10% RHA+ 1.0% SF
+HA+ 1.5% SF
+20% RHA+ 2.0% SF
+Split Tensile Strength (Psi)
+ 7 days
+ 21 days
+ 28 days
+15% R
+FIGURE 8 | Split tensile strength (with steel ﬁbers and superplasticizer).
+0.0%
+20.0%
+40.0%
+60.0%
+80.0%
+100.0%
+120.0%
+0% RHA+0% SF
+5% RHA+0.5% SF
+10% RHA+1.0% SF
+15% RHA+1.5% SF
+20% RHA+2.0% SF
+7-Days
+21-Days
+28-Days
+CON(28-Days)
+FIGURE 9 | Relative analysis split tensile strength (with steel ﬁbers and super plasticizer).
+Frontiers in Materials | www.frontiersin.org
+7
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 8 =====
+
+Zaid et al.
+RHA in Concrete
+determine the concrete compressive strength as per ASTM C 39
+(C39/C39M A, 2003) and split tensile strength as per ASTM C
+496 (Designation, 1976). Water absorption tests as per ASTM
+C 642-13 (C642-13 A, 2013), density as per ASTM C 642-13
+(C642-13 A, 2013), and volume of voids test as ASTM C 642-
+13 (C642-13 A, 2013) of concrete were performed at 7, 21, and
+28 days after curing. During sampling, concrete was packed with
+3 layers, with each layer being compacted 25 times. Adding of
+RHA to concrete with varying dosages (0, 5, 10, 15, and 20%)
+with and without steel ﬁbers of diﬀerent percentage (0%, 0.5%,
+1.0%, 1.5%, and 2.0%) and keeping the dose of superplasticizer
+same were compared with normal control mixes, as shown in
+Table 6.
+RESULTS AND DISCUSSION
+Compressive Strength Test on Concrete
+Cylinders With Cement Substituted With
+Rice Husk Ash (Without Steel Fibers and
+Superplasticizer)
+The results of the compressive strength test on concrete cylinders
+as per ASTM C 39 (C39/C39M A, 2003) with cement substituted
+with Rice Husk Ash (without superplasticizer and steel ﬁbers) are
+displayed below in Figure 2.
+It is a known fact that concrete strength increases with an
+increase in curing days. For normal concrete with 0% RHA,
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0% RHA
+5% RHA
+10% RHA
+15% RHA
+20% RHA
+Water Absorption  (%)
+FIGURE 10 | Water absorption (without steel ﬁbers and superplasticizer).
+0
+1
+2
+3
+4
+5
+6
+7
+Control
+5 % RHA with 0.50%
+steel fibers
+10 % RHA with 1.0%
+steel fibers
+15 % RHA with 1.5%
+steel fibers
+20 % RHA with 2.0%
+steel fibers
+Water Absorption  (%)
+FIGURE 11 | Water absorption (with steel ﬁbers and super plasticizer).
+Frontiers in Materials | www.frontiersin.org
+8
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 9 =====
+
+Zaid et al.
+RHA in Concrete
+concrete compressive strength was 2,554 psi after 7 days of
+curing, 2,750 psi after 21 days of curing, and 2,910 psi after
+28 days of curing. General trends show that compressive strength
+decreases with the addition of RHA (Mehta, 1992; Nehdi et al.,
+2003). For 5% of cement replaced with RHA, the strength
+decrease was 5.4, 3.6, and 3.9% after 7, 21, and 28 days
+of curing, respectively, as in comparison to control samples.
+For 10% cement replaced with Rice Husk Ash, the strength
+decrease was 12.1, 13.2, and 13.5% after 7, 21, and 28 days
+of curing, respectively, as in comparison to control samples.
+For 15% cement replaced with Rice Husk Ash, the strength
+decrease was 20.3, 21.7, and 23.4% after 7, 21, and 28 days
+of curing, respectively, as in comparison to control samples.
+For 20% cement replaced with Rice Husk Ash, the strength
+decrease was 25.4, 26.1, and 28.5% after 7, 21, and 28 days of
+curing, respectively, as compared to control samples. From the
+outcomes, it is seen that increasing the amount of RHA used as a
+cement replacement decreases the concrete compressive strength.
+Upon replacement of 10% RHA with cement, about a 12%
+decrease in compressive strength was noted. By further increasing
+doses of RHA, concrete strength would be aﬀected signiﬁcantly.
+Consequently, Rice Husk Ash up to 10% as replacement of
+cement is allowed in concrete without considerable change in
+compressive strength.
+A relative analysis was carried out in which the 28-days curing
+age compressive strength of the control mix was considered
+the relating mix, and from this, diﬀerent blends with changing
+percentages of RHA are compared, as shown in Figure 3. At
+2050
+2100
+2150
+2200
+2250
+2300
+2350
+2400
+2450
+Control
+5% RHA
+10% RHA
+15% RHA
+20% RHA
+Density (kg/m^3)
+FIGURE 12 | Density (without steel ﬁbers and superplasticizer).
+2350
+2400
+2450
+2500
+2550
+2600
+Control
+5 % RHA with 0.50%
+steel fibers
+10 % RHA with 1.0%
+steel fibers
+15 % RHA with 1.5%
+steel fibers
+20 % RHA with 2.0%
+steel fibers
+Density (kg/m^3)
+FIGURE 13 | Density (with steel ﬁbers and superplasticizer).
+Frontiers in Materials | www.frontiersin.org
+9
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 10 =====
+
+Zaid et al.
+RHA in Concrete
+7 days of curing, compressive strength was about 19% less than
+that of the control (28 days) at 10% substitution with RHA
+(optimum dosage). As compared to the control, 10% substitution
+with RHA (optimum dosage) showed 18% less compressive
+strength at 21 days of curing. On day 28 of curing, compressive
+strength was only 9.0% less than that of the control (28 days)
+at 10% substitution with RHA (optimum dosage). As compared
+to the control, 20% substitution with RHA showed 31% less
+compressive strength at 7 days. On day 21 of curing, compressive
+strength was about 28% less than that of the control (28 days) at
+20% substitution with RHA. At 28 days of curing, compressive
+strength was about 24% less as compared to control mix. It
+can be concluded that 10% substitution shows only 9.0% less
+as compared to control; this is not too much of a reduction in
+compressive strength and hence can be successfully utilized in
+concrete. Therefore, it is recommended to substitute up to 10%
+of cement with RHA.
+Compressive Strength Test on Concrete Cylinders
+With Cement Substituted With Rice Husk Ash (With
+Steel Fibers and Superplasticizer)
+Figure 4 illustrates the diﬀerent concrete compressive strengths
+in which the cement is substituted with changed doses of Rice
+Husk Ash (with steel ﬁbers and superplasticizer) with the curing
+age of concrete. Normal concrete with 0% Rice Husk Ash showed
+concrete compressive strength was 2,554 psi after 7 days curing,
+0
+5
+10
+15
+20
+25
+Control
+5% RHA
+10% RHA
+15% RHA
+20% RHA
+Viods (%)
+FIGURE 14 | Voids Volume (without steel ﬁbers and superplasticizer).
+0
+5
+10
+15
+20
+25
+Control
+5 % RHA with 0.50%
+steel fibers
+10 % RHA with 1.0%
+steel fibers
+15 % RHA with 1.5%
+steel fibers
+20 % RHA with 2.0%
+steel fibers
+Viods (%)
+FIGURE 15 | Voids Volume (with steel ﬁbers and superplasticizer).
+Frontiers in Materials | www.frontiersin.org
+10
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 11 =====
+
+Zaid et al.
+RHA in Concrete
+2,750 psi after 21 days curing, and 2,910 psi after 28 days of
+curing. RHA reduces the strength due to its porous nature which
+creates porous concrete and leads to less packing density, which
+in turn results in less strength. RHA reduces workability due
+to its ﬁneness and porous nature which increases compaction,
+leading to pore voids in hardened concrete, resulting in less
+split tensile strength. Also, RHA absorbs more water which
+aﬀects the hydration process due to lack of water (Nehdi et al.,
+2003), superplasticizer (MacInnis and Racic, 1986), and steel
+ﬁber (Vairagade and Kene, 2012; Ahmad et al., 2020a) increased
+strength. For 5% cement substituted with Rice Husk Ash
+(RHA), and also incorporating steel ﬁbers and superplasticizer
+in concrete, the decrease in strength was 4.6, 3.3, and 3.0% after
+7, 21, and 28 days of curing, respectively, as in comparison to
+control sample (with superplasticizer and steel ﬁbers).
+For 10% substitution of cement with Rice Husk Ash including
+steel ﬁbers and superplasticizer in concrete, strength was reduced
+9.4, 10.1, and 10.5% after 7, 21, and 28 days of curing, respectively,
+as compared to control sample (with superplasticizer and steel
+ﬁbers). For 15% cement substituted with Rice Husk Ash including
+steel ﬁbers and superplasticizer in concrete, the decrease in
+strength was 15.2, 17.0, and 17.3% after 7, 21, and 28 days of
+curing, respectively, as compared to the control sample (with
+superplasticizer and steel ﬁbers). When 20% cement replaced
+with Rice Husk including steel ﬁbers and superplasticizer in
+concrete, the decrease in strength was 22.4, 24.2, and 25.5%
+after 7, 21, and 28 days of curing, respectively, as compared to
+reference samples (with superplasticizer and steel ﬁbers).
+A relative analysis was carried out in which the 28-days curing
+age compressive strength of the control mix was considered
+the relating mix, and from this, diﬀerent mixes with varying
+percentages of RHA and steel ﬁber (SF) were compared, as
+displayed in Figure 5. On day 7 of curing, compressive strength
+was about 21% less than that of the control (28 days) at 10%
+substitution with RHA and 1.0% SF. On day 21 of curing,
+compressive strength was about 13% less than that of the control
+(28 days) at 10% substitution with RHA and 1.0% SF. On 28 days
+of curing, compressive strength was about 4.0% less than that of
+the control (28 days) at 20% substitution with RHA and 1.0% SF.
+It was observed from the test outcome that by adding
+superplasticizer and steel ﬁbers the concrete compressive strength
+improved by a signiﬁcant margin. For 10% cement replaced with
+Rice Husk Ash and also using steel ﬁbers and superplasticizer,
+on average about 4.0% strength was reduced. Thus, up to 10%
+replacement of cement with Rice Husk Ash is allowed in concrete
+without a noticeable eﬀect in compressive strength.
+Split Tensile Strength Test on Concrete Cylinders
+With Cement Substituted With Rice Husk Ash (With
+the Absence of Steel Fibers)
+Split tensile strength test is carried out as per ASTM C 496
+(Designation, 1976). Results of the split tensile strength test on
+concrete cylinders with Rice Husk Ash substituted with cement
+(without steel ﬁbers) are displayed in Figure 6. It is recognized
+that concrete strength increases with an increase in curing days.
+Split tensile strength values followed the same strength reduction
+pattern in concrete. It has been also reported that split tensile
+strength behaves in a similar pattern with the incorporation of
+RHA (Sakr, 2006). For normal concrete with 0% RHA, concrete
+split tensile strength was 265 psi after 7 days of curing, 295 psi
+after 21 days of curing, and 335 psi after 28 days of curing. For
+5% of cement replaced with RHA, the strength decrease was 4.4,
+4.2, and 3.8% after 7, 21, and 28 days of curing, respectively, as
+in comparison to control specimens. For 10% cement substituted
+with RHA, the strength decrease was 9.6, 11.9, and 13.0% after 7,
+21, and 28 days of curing, respectively, as compared to reference
+samples. For 15% cement replaced with Rice Husk Ash, the
+decrease in strength was 16.1, 17.2, and 19.4% after 7, 21, and
+28 days of curing, respectively, as compared to control samples.
+For 20% replacement of cement with Rice Husk Ash, the strength
+decrease was 25.2, 26.3, and 26.9% after 7, 21, and 28 days of
+curing, respectively, as compared to control samples. From the
+results, it is noted that with the increase in dosage of RHA
+with cement replacement, the concrete split tensile strength was
+continuously reduced. On substitution of 10% cement with RHA
+on average a 12% decrease in compressive strength was seen.
+By further increasing the dose of RHA, concrete strength would
+be aﬀected signiﬁcantly. Thus, up to 10% substitution of RHA
+with cement is allowed in concrete without a notable eﬀect in
+split tensile strength. RHA reduces split tensile strength due
+to its porous nature, which creates porous concrete, leading
+to less packing density and, in turn, less strength. It is worth
+mentioning here that RHA aﬀects split tensile strength more
+than compressive strength; compressive strength reduced only
+9.0% while split tensile strength reduced about 14% at 10%
+substitution of RHA. Steel ﬁber improves split strength but RHA
+reduces it, which results strength approximately equal to the
+control. Furthermore, both steel and RHA reduce workability
+which also results in lower strength. But overall, the results show
+that strength is comparable to control with the incorporation of
+RHA. Thus, it is a good choice to use RHA instead of cement.
+A relative analysis was carried out in which the 28-day split
+tensile strength of the control mix was considered the reference
+mix, and from this, diﬀerent mixes with varying percentages of
+were compared, as shown in Figure 7.
+On 7 days of curing, split tensile strength was about 29% below
+that of the reference specimen (28 days) at 10% substitution
+with RHA. As compared to the control, 20% substitution with
+RHA showed 41% less split tensile strength. On day 21 of curing,
+split tensile strength was about 32% below that of the reference
+specimen (28 days) at 10% substitution with RHA. As compared
+to the control, 20% substitution with RHA showed 36% below
+split tensile strength at 21 days curing. On day 28 of curing,
+split tensile strength was about 14% below that of the reference
+specimen (28 days) at 10% substitution with RHA.
+Split Tensile Strength Test on Concrete Cylinders
+With Cement Substituted With Rice Husk Ash (With
+Steel Fibers and Superplasticizer)
+Figure 8 illustrates various concrete split tensile strengths in
+which the cement is replaced with varying doses of RHA
+(with steel ﬁbers and superplasticizer) with the 7, 21, and
+28 days of curing age.
+Frontiers in Materials | www.frontiersin.org
+11
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 12 =====
+
+Zaid et al.
+RHA in Concrete
+Normal concrete with 0% Rice Husk Ash demonstrated a
+concrete split tensile strength of 258 psi after 7 days of curing,
+279 psi after 21 days of curing, and 294 psi after 28 days
+of curing. For 5% cement substituted with RHA, the strength
+decrease was 3.5, 3.8, and 3.0% after 7, 21, and 28 days of curing,
+respectively, as in comparison to control specimens. For 10%
+cement substituted with RHA, the strength decrease was 7.2,
+7.6, and 6.8% after 7, 21, and 28 days of curing, respectively, as
+compared to reference samples. For 15% of cement replaced with
+Rice Husk Ash, the decrease in strength was 14.3, 14.9, and 15.3%
+after 7, 21, and 28 days of curing, respectively, as in comparison
+to control specimens. For 20% substitution of cement with RHA,
+the strength reduction was 21.9, 22.8, and 23.3% after 7, 21, and
+28 days of curing, respectively, as compared to control samples.
+A relative analysis was carried out in which the 28-day split
+tensile strength of the control mix was considered the reference
+mix, and varying percentages of RHA and steel ﬁber (SF) are
+compared, as shown in Figure 9.
+On day 7 of curing, split tensile strength was about 33% below
+that of the reference mix (28 days) at 10% substitution with
+RHA and 10% of SF. On day 21 of curing, split tensile strength
+was about 19% below that of the reference mix (28 days) at
+10% substitution with RHA and 2.0% SF. On 28 days of curing,
+split tensile strength was only 6.0% less than that of the control
+(28 days) at 10% substitution with RHA and 1.0% SF.
+From the outcomes, it is perceived that by increasing the
+percentage of cement substitution with RHA, the concrete
+split tensile strength continuously decreased. On substitution
+of 10% RHA with cement, on average a 6.0% decrease
+in split tensile strength at 28 days was noted. By further
+increasing the percentage of RHA, concrete strength would be
+aﬀected signiﬁcantly. Thus, up to 10% substitution with cement
+RHA is allowed in concrete without a notable eﬀect in split
+tensile strength.
+Durability
+Water Absorption
+Water absorption is an indirect measurement of concrete
+durability and is carried out as ASTM C 642-13 (C642-13 A,
+2013). Most harmful chemicals are present in water. These
+chemicals react with concrete constituents, which changes the
+properties of concrete. Extra water present in the pores of
+concrete undergo a freeze and thaw eﬀect because of changes
+in temperature, which results in cracks in the concrete (Kurda
+et al., 2019). The water absorption test was performed on those
+samples which were only cured in water for 28 days, the results
+of which are shown in Figure 10. General trends show that the
+water absorption increased as the percentages of RHA increased
+from 0 to 20%. It has been also reported that water absorption
+increases with the addition of RHA (Kishore et al., 2011).
+According to test observation, maximum water absorption was
+6.55% which increased to 8.39% when 20% Rice Husk Ash (RHA)
+was utilized in place of cement without adding steel ﬁbers and
+superplasticizer.
+The water absorption considerably decreased with the
+incorporation of steel ﬁbers and superplasticizer, as shown in
+Figure 11. The reduction in water absorption is because of the
+rise in workability superplasticizer (Alsadey, 2015) as well as
+the crack prevention of steel ﬁbers resulting in fewer voids.
+It has been reported that SF reduces water absorption due to
+crack prevention (Ahmad et al., 2020b). An increase in water
+absorption signiﬁes lower durability of concrete when adding
+higher percentages of RHA without the addition of steel ﬁbers
+and superplasticizer.
+Density
+The density test of concrete is carried out as per ASTM C 642-
+13 (C642-13 A, 2013). Figure 12 illustrates concrete density
+in detail, which is determined by using concrete cylindrical
+samples made with varying percentages of RHA, steel ﬁbers, and
+superplasticizer.
+Density decreases as the percentage of RHA increases, with a
+maximum density of 0% substitution of RHA while minimum
+density was obtained at 20% substitution of RHA. This is due
+to the physical nature of RHA, which is porous in nature, as
+well as the larger surface area (Bui et al., 2005) which results
+in decreased workability resulting in porous concrete, which
+ultimately decreases density.
+Steel ﬁbers and superplasticizer are added to oﬀset this
+negative eﬀect of (decreasing density) RHA, as shown in
+Figure 13. Superplasticizer enhances the workability of concrete
+(Alsadey, 2015) by creating an opposite charge on the particles
+which repel each other and, as a result, create more dense
+concrete. Also, steel ﬁbers prevent the creation of cracks (Chang
+and Chai, 1995), resulting in a reduction in void content which
+leads to enhanced density of concrete. So, the addition of SFs
+would lead to increased tensile properties of concrete, and as a
+result, it would restrict the formation and development of initial
+cracks (Huang and Xie, 2011).
+Overall, the diminishing value of density indicates that
+an increase in void content in concrete causes less durable
+and lower strength as compared to normal concrete. But by
+replacing cement with RHA and adding steel ﬁbers enhances
+the strength value of concrete, which is both economical and
+environmentally friendly.
+Volume of Voids
+The results of the volume of voids are evaluated using concrete
+cylinders as per ASTM C 642-13 (C642-13 A, 2013) with diﬀerent
+percentages of RHA and the result was then compared to control
+samples as shown in Figure 14. Voids in concrete indirect
+measurements of the durability of concrete (Ahmad et al., 2020a).
+The value of voids’ volume in the normal concrete mix was
+14.62%, which then increased to 21.42% with the replacement
+of cement with 20% RHA with no steel ﬁbers. Furthermore, the
+addition of steel and superplasticizer showed some improvement
+with the reduction of voids in concrete as shown in Figure 15.
+The volume of voids increased from 14.62 to 18.45%. This
+is due to fact that steel ﬁbers act as crack arresters and prevent
+the propagation of a crack in hardening concrete (Ahmad
+et al., 2020b). It has also been reported that, with the addition
+of superplasticizer, the workability of concrete improved,
+results in decreased voids in concrete (Borsoi et al., 2000;
+Frontiers in Materials | www.frontiersin.org
+12
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 13 =====
+
+Zaid et al.
+RHA in Concrete
+Ahmad et al., 2020b). Increasing voids’ volume depicts lower
+bonding in concrete and can raise the ultrasonic pulse velocity
+of concrete (Ahmad et al., 2020b).
+CONCLUSION
+The current research was intended to analyze the impact of the
+utilization of changing doses of RHA as a fractional substitution
+of cement in concrete blends. For this, 0, 5, 10, 15, and 20%
+RHA was presented in cement blends. Properties of the concrete
+mix, like its compressive and split tensile strength, density, water
+absorption, and the volume of voids, were evaluated at 7, 21, and
+28 days. The aftereﬀects of these experiential examinations have
+been dissected and the signiﬁcant ﬁndings of this investigation
+are introduced as follows.
+• The
+compressive
+strength
+of
+concrete
+decreased
+considerably with an increasing percentage of RHA.
+Therefore, adding steel ﬁbers and superplasticizer was
+important because steel ﬁbers provide ductility to concrete
+and, while RHA and steel ﬁbers diminish concrete
+workability, superplasticizer helps concrete to be ﬂowable
+and easy to work with.
+• Concrete
+tensile
+strength
+is
+around
+10–15%
+of
+its
+compressive
+strength.
+Adding
+steel
+ﬁbers
+with
+superplasticizer in concrete, in which cement is replaced
+with RHA in diﬀerent percentages, improved concrete
+tensile strength remarkably as compared to concrete
+compressive strength.
+• An increase in volume voids and water absorption and
+decrease in concrete density was detected when RHA was
+added up to 20%.
+• 10% replacement of cement with RHA was considered
+good, as it did not aﬀect concrete that much, and
+the introduction of steel ﬁbers and admixtures like
+superplasticizer can make concrete a more economically
+viable option for the construction industry.
+DATA AVAILABILITY STATEMENT
+The original contributions presented in the study are included
+in the article/supplementary material, further inquiries can be
+directed to the corresponding author/s.
+AUTHOR CONTRIBUTIONS
+OZ has written the main text, JA revised the paper, MSS secured
+the funding and helped in methodology. FA has helped in data
+collection.
+REFERENCES
+Ahmad, J., Al-Dala’ien, R. N. S., Manan, A., and Zaid, O. (2020a). Evaluating the
+eﬀects of ﬂexure cracking behaviour of beam reinforced with steel ﬁbres from
+environment aﬀect. J. Green Eng. 10, 4998–5016.
+Ahmad, J., Manan, A., Ali, A., Waleed Khan, M., Asim, M., and Zaid, O.
+(2020b). A study on mechanical and durability aspects of concrete modiﬁed
+with steel ﬁbers (SFs). Civil Eng. Arch. 8, 814–823. doi: 10.13189/cea.2020.0
+80508
+Ahmad, J., Tufail, R. F., Aslam, F., Mosavi, A., Alyousef, R., Faisal Javed, M.,
+et al. (2021). A step towards sustainable self-compacting concrete by using
+partial substitution of wheat straw ash and bentonite clay instead of cement.
+Sustainability 13:824. doi: 10.3390/su13020824
+Alsadey, S. (2015). Eﬀect of superplasticizer on fresh and hardened properties of
+concrete. J. Agric. Sci. Eng. 1, 70–74.
+ASTM C 33/C33M (2008). Stand Specif Concr Aggregates. West Conshohocken:
+ASTM, 498–505.
+Borsoi, A., Collepardi, S., Coppola, L., Troli, R., and Collepardi, M. (2000). Eﬀect
+of superplasticizer type on performance of high-volume ﬂy ash concrete. ACI
+Spec. Publ. 195, 17–28.
+Bui, D. D., Hu, J., and Stroeven, P. (2005). Particle size eﬀect on the strength of rice
+husk ash blended gap-graded Portland cement concrete. Cem. Concr. Compos.
+27, 357–366. doi: 10.1016/j.cemconcomp.2004.05.002
+C39/C39M A (2003). Standard Test Method for Compressive Strength of Cylindrical
+Concrete Specimens. Annu B ASTM Stand. West Conshohocken: ASTM.
+C642-13 A (2013). Standard Test Method for Density, Absorption, and Voids in
+Hardened Concrete. West Conshohocken, PA: ASTM Int.
+Cement AP ASTM C150 of the following type: 1. Concr which will be contact with
+Sew Type II, Moderate Sulfate Resist 2. Available at: https://www.cement.org/
+cement-concrete/concrete-materials/cement-types
+Chang, D.-I., and Chai, W.-K. (1995). Flexural fracture and fatigue behavior of
+steel-ﬁber-reinforced concrete structures. Nucl. Eng. Des. 156, 201–207. doi:
+10.1016/0029-5493(94)00946-v
+Designation, A. (1976). C496-71. Stand Method Test Split Tensile Strength Cylind
+Concr Specimens. West Conshohocken: ASTM.
+ENTS (2009). 934-2 “Admixtures For Concrete, Mortar and Grout-Part 2: Concrete
+Admixtures; Deﬁnitions, Requirements, Conformity, Marking and Labelling”.
+London: BSI.
+Ferraro, R. M., Nanni, A., Vempati, R. K., and Matta, F. (2010). Carbon neutral oﬀ-
+white rice husk ash as a partial white cement replacement. J. Mater. Civ. Eng. 22,
+1078–1083. doi: 10.1061/(asce)mt.1943-5533.0000112
+Giaccio, G., de Sensale, G. R., and Zerbino, R. (2007). Failure mechanism of
+normal and high-strength concrete with rice-husk ash. Cem. Concr. Compos.
+29, 566–574.
+High-Range W-RA, Admixture R ASTM C 494/C 494M. Type F. Available at: https:
+//www.astm.orgDATABASE.CART/HISTORICAL/C494C494M-08A.htm
+Huang, G., and Xie, X. (2011). Experimental study on the eﬀect of nano-SiO 2 to
+durability in hydraulic concrete. Yellow River 33, 138–140.
+James, J., and Rao, M. S. (1986). Reactivity of rice husk ash. Cem. Concr. Res. 16,
+296–302. doi: 10.1016/0008-8846(86)90104-3
+Jaturapitakkul, C., and Roongreung, B. (2003). Cementing material from calcium
+carbide residue-rice husk ash. J. Mater. Civ. Eng. 15, 470–475. doi: 10.1061/
+(asce)0899-1561(2003)15:5(470)
+Kishore, R., Bhikshma, V., and Prakash, P. J. (2011). Study on strength
+characteristics of high strength rice husk ash concrete. Proc. Eng. 14, 2666–2672.
+doi: 10.1016/j.proeng.2011.07.335
+Kurda, R., de Brito, J., and Silvestre, J. D. (2019). Water absorption and electrical
+resistivity of concrete with recycled concrete aggregates and ﬂy ash. Cem. Concr.
+Compos. 95, 169–182. doi: 10.1016/j.cemconcomp.2018.10.004
+MacInnis, C., and Racic, D. (1986). The eﬀect of superplasticizers on the entrained
+air-void system in concrete. Cem. Concr. Res. 16, 345–352. doi: 10.1016/0008-
+8846(86)90110-9
+Materials ASFTA (2012). ASTM C39/C39M-12 Standard Test Method for
+Compressive Strength of Cylindrical Concrete Specimens. West Conshohocken:
+ASTM.
+Mehta, P. K. (1992). Rice Hush Ash-A unique supplementary cementing material.
+Adv. Concr. Technol. 154, 531–542.
+Nehdi, M., Duquette, J., and El Damatty, A. (2003). Performance of rice husk ash
+produced using a new technology as a mineral admixture in concrete. Cem.
+Concr. Res. 33, 1203–1210. doi: 10.1016/s0008-8846(03)00038-3
+Frontiers in Materials | www.frontiersin.org
+13
+June 2021 | Volume 8 | Article 665625
+
+
+===== PAGE 14 =====
+
+Zaid et al.
+RHA in Concrete
+Nuruddin, F., Demie, S., Memon, F. A., and Shaﬁq, N. (2011). Eﬀect of
+superplasticizer and NaOH molarity on workability, compressive strength
+and microstructure properties of self-compacting geopolymer concrete. World
+Acad. Sci. Eng. Technol. 75, 187–194.
+O’Connell, M. T., Shepherd, T. D., O’Connell, A. M. U., and Myers, R. A. (2007).
+Long-term declines in two apex predators, bull sharks (Carcharhinus leucas)
+and alligator gar (Atractosteus spatula), in lake pontchartrain, an oligohaline
+estuary in southeastern Louisiana. Estua. Coasts 30, 567–574. doi: 10.1007/
+bf02841954
+Qing-ge, F., Qing-yu, L., Qi-jun, Y., San-ying, Z., Lu-feng, Y., and Sugita, S. (2004).
+Concrete with highly active rice husk ash. J. Wuhan Univ. Technol. Sci. Ed. 19,
+74–77.
+Sakr, K. (2006). Eﬀects of silica fume and rice husk ash on the properties of heavy
+weight concrete. J. Mater. Civ. Eng. 18, 367–376.
+doi: 10.1061/(asce)0899-
+1561(2006)18:3(367)
+Tangchirapat, W., Jaturapitakkul, C., and Kiattikomol, K. (2009). Compressive
+strength and expansion of blended cement mortar containing palm oil fuel ash.
+J. Mater. Civ. Eng. 21, 426–431. doi: 10.1061/(asce)0899-1561(2009)21:8(426)
+Tay,
+J.-H.
+(1990).
+Ash
+from
+oil-palm
+waste
+as
+a
+concrete
+material.
+J.
+Mater.
+Civ.
+Eng.
+2,
+94–105.
+doi:
+10.1061/(asce)0899-1561
+(1990)2:2(94)
+Toutanji, H. A. (1999). Properties of polypropylene ﬁber reinforced silica fume
+expansive-cement concrete. Constr. Build Mater. 13, 171–177. doi: 10.1016/
+s0950-0618(99)00027-6
+Udoeyo, F. F., and Dashibil, P. U. (2002). Sawdust ash as concrete material. J. Mater.
+Civ. Eng. 14, 173–176. doi: 10.1061/(asce)0899-1561(2002)14:2(173)
+Uduweriya, R., Subash, C., Sulfy, M. M. A., and De Silva, S. (2010). “Investigation
+of compressive strength of concrete containing rice-husk-ash,” in Proceedings
+of the International Conference on Sustainable Built Environment (ICSBE-2010),
+Kandy.
+Vairagade, V. S., and Kene, K. S. (2012). Introduction to steel ﬁber reinforced
+concrete on engineering performance of concrete. Int. J. Sci. Technol. Res. 1:141.
+Vijai, K., Kumutha, R., and Vishnuram, B. G. (2012). Eﬀect of inclusion of steel
+ﬁbres on the properties of geopolymer concrete composites. Asian J. Civil Eng.
+13, 377–385.
+Xu, W., Lo, T. Y., and Memon, S. A. (2012). Microstructure and reactivity of rich
+husk ash. Constr. Build Mater. 29, 541–547. doi: 10.1016/j.conbuildmat.2011.
+11.005
+Zain, M. F. M., Islam, M. N., Mahmud, F., and Jamil, M. (2011). Production of rice
+husk ash for use in concrete as a supplementary cementitious material. Constr.
+Build Mater. 25, 798–805. doi: 10.1016/j.conbuildmat.2010.07.003
+Conﬂict of Interest: The authors declare that the research was conducted in the
+absence of any commercial or ﬁnancial relationships that could be construed as a
+potential conﬂict of interest.
+Copyright © 2021 Zaid, Ahmad, Siddique and Aslam. This is an open-access article
+distributed under the terms of the Creative Commons Attribution License (CC BY).
+The use, distribution or reproduction in other forums is permitted, provided the
+original author(s) and the copyright owner(s) are credited and that the original
+publication in this journal is cited, in accordance with accepted academic practice. No
+use, distribution or reproduction is permitted which does not comply with these terms.
+Frontiers in Materials | www.frontiersin.org
+14
+June 2021 | Volume 8 | Article 665625

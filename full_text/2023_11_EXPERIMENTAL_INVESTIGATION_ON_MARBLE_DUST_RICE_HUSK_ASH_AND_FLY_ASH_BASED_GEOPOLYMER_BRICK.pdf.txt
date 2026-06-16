@@ -1,0 +1,1279 @@
+
+===== PAGE 1 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4220 
+EXPERIMENTAL INVESTIGATION ON MARBLE DUST, RICE 
+HUSK ASH, AND FLY ASH BASED GEOPOLYMER BRICK 
+ 
+Sumit Kumar1*, Avani Chopra2, Md. Zia Ui Haq3  
+ 
+Abstract 
+The goal of this research is to determine whether geopolymer bricks can be made using Fly ash (FA), Rice 
+husk ash (RHA), and Marble dust powder (MDP). It has been researched that the process of Geo-
+polymerization, which uses materials that have been alkali-activated to build solid structures, offers potential 
+as a sustainable substitute for conventional brick-making techniques. In this work, to investigate the qualities 
+of geopolymer bricks manufactured with Fine aggregate, geopolymer brick samples were made using various 
+combinations of fly ash, RHA, and marble dust. The researchers next tested the bricks for compressive 
+strength, water absorption, and efflorescence to establish their quality and durability. When making 
+geopolymer bricks with fly ash, Rice husk, marble dust, and alkaline soda-based chemical activator solution 
+are used, along with sodium silicate, water, and a variety of Na2O/ (Al2O3 + SiO2) ratios. For this 
+investigation, a typical brick size of 230mm x 110mm x 75mm was employed. Fly ash (50%-70%), fine 
+aggregate (15%), Rice husk ash (15% - 30%), and Marble dust powder (5%- 30%) were used in different 
+amounts to make the bricks. The goal of this study was to look at the impact of these various proportions on 
+the characteristics of bricks. For all the mixture, a sodium hydroxide molarity of 12M was maintained, and the 
+sodium silicate ratio was held fixed at 1:2.5. Fly ash building bricks of the dimensions 230 mm x110 mm x75 
+mm are produced during this procedure under atmospheric curing. Additionally, the compressive strength of 
+the geopolymer bricks was compared to that of conventional bricks commonly found in the area. Different 
+combinations of materials were used to cast and cure the geopolymer bricks under atmospheric conditions. 
+The results showed that the geopolymer bricks made with M-sand had better compressive strength compared 
+to those made with natural sand. The findings suggest that M-sand can be a practical alternative to natural sand 
+for geopolymer brick production. The use of recycled material as a substitute for fired bricks in construction 
+can supply both construction brick and economic benefits. The outcomes suggest examining the environmental 
+and economic impact, as well as the geopolymer brick's durability properties, which would be compelling 
+research. To measure the strength of the geopolymer bricks, compressive strength tests were done after 7, 14, 
+and 28 days. The brick will then be examined for soundness, Efflorescence, compressive strength, and water 
+absorption. 
+ 
+Keyword: - Geopolymer bricks, Fly ash (FA), Marble dust powder (MDP), Rice husk ash (RHA), and sodium 
+silicate, sodium hydroxide activator solution, compressive strength   
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+1*, ME Student Department of Civil Engineering, Chandigarh University, Mohali, Punjab, India.
+2,3 Assistant professor Department of Civil Engineering, Chandigarh University, Mohali, India.
+*Corresponding author: - Sumit Kumar
+*ME Student Department of Civil Engineering, Chandigarh University, Mohali, Punjab, India.
+DOI:10.53555/ecb/2023.12.si5a.0324  
+ 
+ 
+ 
+
+
+===== PAGE 2 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4221 
+INTRODUCTION 
+The world's population is expanding quickly, 
+which has raised housing demand and, in turn, 
+increased the need for ecofriendly building 
+materials. Bricks are a commonly used building 
+material in many parts of the world, but their 
+manufacturing can have an adverse effect on the 
+environment, because so many non-renewable 
+resources are used in them, and a lot of greenhouse 
+gas emissions are produced. Researchers have 
+been looking for ways to transform waste items 
+into bricks to increase their sustainability to solve 
+these 
+challenges. 
+As 
+prospective 
+building 
+materials, fly ash, limestone dust, Rice husk ash, 
+welding flux slag, marble dust powder and other 
+industrial by-products have all been researched [1]. 
+Due to its potential to produce sustainable and 
+ecologically friendly binders using industrial waste 
+products, geopolymer binder research has drawn a 
+lot of attention from academics. In addition to 
+helping in the reduction of waste produced by 
+various industries, The industrial waste materials 
+are used in the manufacturing of geopolymer 
+binder help in the creation of durable and strong 
+binders suited for a variety of designs. As a result, 
+both academics and business experts find the study 
+of geo-polymer binders to be intriguing and 
+especially important [2]. Using 360 million tonnes 
+of topsoil and 24 million tonnes of coal, India 
+makes more than 1400 billion bricks annually, 
+producing 42 million tonnes of CO2 in the process. 
+In India, fired clay bricks have traditionally been 
+the most used building material. Fly ash bricks 
+have recently developed appeal due to their 
+inexpensive production costs and lightweight 
+qualities. 
+ 
+Fly-ash bricks, like conventional burnt clay bricks, 
+may be widely employed in a variety of building 
+construction projects. Fly ash bricks are superior in 
+strength and lighter in weight in compared to clay 
+bricks. The addition of fly ash as the major raw 
+material in brick manufacturing not only allows for 
+efficient disposal but also aids in the control of 
+environmental pollution around thermal power 
+stations, where fly ash accumulates as waste and 
+generates substantial environmental pollution 
+concerns. 
+Due 
+to 
+their 
+better 
+quality, 
+environmental 
+friendliness, 
+and 
+government 
+assistance, fly ash bricks are in more demand than 
+ever before. Due to its high silica and alumina 
+concentration, Class F fly ash is well recognized 
+[2][3]. When fly ash (class F) is used to make 
+bricks, the silica Si and alumina Al in the ash react 
+with an already-mixed alkali-activated solution of 
+sodium hydroxide and sodium silicate. This 
+reaction results in a gel-like material that renders 
+cement unnecessary for the creation of these 
+bricks.   
+RHA is a byproduct of rice husk combustion in rice 
+mills. RHA is the ash produce by the burning 
+process of rice husk. When the burning process is 
+not complete, colorized rice husk is created. 
+Amorphous ash, which is black in color, is formed 
+at burning temperatures between 550 and 800 C, 
+whereas crystalline ash, which is grey in color, is 
+formed at burning temperatures between 550 and 
+800 C, whereas crystalline ash, which is grey to 
+white in color, is created at higher temperatures 
+[4][13]. 
+ 
+Marble is a crucial building material, especially for 
+decorative purposes. 25% of marble is reduced to 
+powder and dust throughout the shaping, polishing, 
+and sawing processes. Since the turn of the 
+millennium, the waste produced by the marble 
+industry has significantly impacted on the 
+environment. This problem affects a large number 
+of nations and is not just a local one. While several 
+nations, including Japan, Germany, Taiwan, and 
+South Korea, import marble products [5].  
+ 
+In an alkaline solution, silicon (Si) and aluminum 
+(Al) are combined to create a geopolymer. 
+Geopolymer bricks have the strength to replace 
+Portland cement concrete, according to several 
+research. To give the geopolymer brick, the 
+required compressive strength, a high molar ratio 
+of NaOH was used. Due to its excellent strength, 
+fireproofing, 
+and 
+waterproofing 
+properties, 
+geopolymer cement is frequently utilized in 
+industrial and construction applications [11][15]. 
+Additionally, it is very resistant to salts, acids, and 
+alkalis 
+and 
+has 
+non-expanding 
+foam-like 
+characteristics. Geopolymer b bricks are a new 
+type of bricks that incorporate materials such as 
+Fly ash (FA), Rice husk ash (RHA), along with an 
+alkaline activator. Fly ash bricks have become 
+popular in construction industries because of their 
+ability to reduce CO2 emissions by using waste 
+materials rather than cement. Geopolymer bricks 
+manufactured with fly ash, on the other hand, 
+require a higher curing temperature to obtain better 
+compressive strength and reduced absorption [17]. 
+ 
+In this study, the performance of a geopolymer 
+brick manufactured from Fly ash (FA), Rice husk 
+ash (RHA), and Marble dust powder (MDP) is 
+assessed. It provides new techniques for creating 
+bricks in India and increases the possibilities for 
+recycling waste (fly ash, rice husk ash, marble 
+dust) into useful products, notably building 
+supplies that may be advantageous for the 
+environment and the economy. The study's end 
+
+
+===== PAGE 3 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4222 
+goal is to use its findings to compare and contrast 
+the performance of traditional bricks with 
+geopolymer bricks in India. 
+ 
+Literature review 
+• Dighe and Gulave,2003[6] In their report, 
+researchers have concluded that sustainable 
+construction materials made from industrial 
+waste, known as geopolymers, could be the best 
+choice 
+due 
+to 
+their 
+affordability 
+and 
+environmentally friendly properties. 
+• Cengizler et al.,2012[7] investigation into non-
+fired FA (fly ash) brick manufacturing processes 
+and how they react to heavy metal leaching 
+reveals the possibility of an environmentally 
+friendly choice. By meeting the rising demand 
+for 
+eco-friendly 
+building 
+materials 
+both 
+domestically and abroad, this method might help 
+solve environmental issues while improving the 
+economy. Additionally, the report mentions the 
+economic advantages of this strategy. 
+• Mohan et al., 2012[8] A study investigated the 
+viability of using RHA to make bricks in place of 
+clay, either entirely or partially. According to the 
+study, 30% RHA and 70% clay were the 
+appropriate ratio for RHA and clay bricks. These 
+bricks are lightweight, have a high density, and 
+have a high compressive strength. 
+• Bilgin et al., 2012[9] The industrial brick has 
+outstanding mechanical, chemical, and physical 
+durability was found to be positively affected by 
+the addition of marble dust powder (MP) in 
+varying proportions, ranging from 0% to 80% by 
+weight, to the brick mortar. The resulting simple 
+were sintered and pressed at temperatures of 900, 
+1000, and 1100 degrees Celsius. 
+• Al Bakri et al., 2012[10] When testing the fly 
+ash to alkaline activator ratio was increased from 
+0.3 to 0.35, The compressive strength of the fly 
+ash-based 
+geopolymer 
+improved 
+quickly, 
+increasing from 3.695 MPa to 8.325 MPa. The 
+ratio was changed from 0.35 to 0.4, which 
+resulted in an increase in compressive strength 
+from 8.315 MPa to 8.62 MPa.  
+• Dara and Bhogayata, 2015[11] The study 
+identified adding rice husk ash to geopolymer 
+material boosted its compressive strength by up 
+to 25%, but then decrease by up to 40%. The 
+percentage of rice husk ash substitution ranged 
+from 0% to 25%, resulting in an enhancement of 
+compressive strength from 2.24% to 1.78%. The 
+highest increase, 5.40% was recorded at 25% 
+substitution, as compared to normal block test 
+results. 
+• Neupane et al.,2015[12] An experiment was 
+carried out to look at how temperature affected 
+compressive strength of geopolymers, the 
+investigators 
+built 
+geopolymer 
+concrete 
+compositions with Fly ash (FA) and slag ratios of 
+7:3 and 4:6. Under different settings, both types 
+of fly ash were tested for compressive strength. 
+Aft After one day of curing and heat treatment, 
+the compressive strengths of slag geopolymers 
+with 7:3 and 4:6 ratios were 58 MPa and 65.5 
+MPa, respectively, while compressive strengths 
+for room temperature curing were 7.2 MPa and 
+12.5 MPa. 
+• Fapohunda et al.,2017[13] The inclusion of rice 
+husks in concrete increases the amount of water 
+used. However, replacing 10% of the cement 
+with rice husk ash results in an equal gain in 
+strength to the control specimen. The use of rice 
+husk ash in concrete strengthens it. the 
+microstructure and prevent failure caused by 
+sulphate attack, chloride penetration, and other 
+factors. Furthermore, it produces a durable brick 
+with excellent shrinkage properties.  
+• M.V. Patil et al. 2018[14] This research 
+investigated the viability of using marble dust 
+and copper slag as partial substitutes for fine 
+aggregate in concrete. Marble dust was used as a 
+sand substitute in blends containing copper slag 
+in varied quantities ranging from 5% to 50%. The 
+concrete's compressive strength was measured 
+after 7, 28, 56, and 112 days. Then the results 
+showed that substituting marble dust and copper 
+slag for up to 60% of the fine aggregate increased 
+compressive strength. The split tensile strength, 
+flexural strength, density, and modulus of 
+flexibility all increased in strength at a 
+substitution rate of 60%. However, for both 
+marble dust and sand, porosity decreased up to 
+60% replacement and increased beyond this 
+limit. 
+• Osman, 2019[15] Researchers focused on 
+several combinations of marble dust, fly ash, 
+silica fume, and an alkali activator to examine the 
+mechanical 
+characteristics 
+(compressive 
+strength, flexural strength, and tensile strength), 
+as well as the durability (water absorption), of 
+geopolymer paste. The combination with a water-
+to-binder (w/b) ratio of 0.28 with a composition 
+of 80% FA, 20% MDP, and displayed the 
+maximum compressive strength, measuring 
+22.78 
+N/mm2, 
+according 
+to 
+the 
+study. 
+Additionally, a geopolymer paste made of 90% 
+fly ash and 10% marble dust was used, yielding a 
+w/b ratio of 0.28 and a maximum flexural 
+strength of 2.55 N/mm2. 
+• Mohd Basri et.al., 2021[16] The ratio of RHA to 
+Alkaline Activator (AA), as well as the NaOH 
+concentration, were both shown to have a 
+significant impact on the compressive strength of 
+geopolymer specimens (p=0.024). The RHA/AA 
+
+
+===== PAGE 4 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4223 
+ratio should be between 0.7 and 0.8, and the 
+NaOH concentration should be between 12 and 
+14 M to get the best compressive strength. 
+Specifically, a RHA/AA ratio of 0.85 and a 
+NaOH concentration of 14 M were used to 
+produce a compressive strength of around 47 
+MPa. In contrast to samples with greater Si/Al 
+ratios, which had compressive strengths of 88.95 
+MPa, lower Si/Al ratio samples were brittle but 
+also showed high compressive strengths of 33.55 
+MPa and considerable geopolymerization. 
+• Vijai et.al.,2021[17] The researchers looked at 
+how two different curing conditions, The effects 
+of heat curing at 60°C for 24 hours and 
+temperature variations on the density and 
+compressive strength of geopolymer concrete 
+were investigated. Fly ash was the principal 
+material used, with sodium silicate and NaOH 
+serving as chemical activators According to the 
+results, there was no discernible difference 
+between the various geopolymer kinds of 
+compressive strengths after 28 days (24.4 and 
+34.2 MPa, respectively). This shows that the 
+curing method does not have a long-term impact 
+on the mechanical properties, as it does at an 
+early stage. 
+• A. Sumathi et.al.,2021[18] investigated the use 
+of fly ash in the construction industry and 
+focused on identifying the best mix proportions 
+for fly ash bricks. The specimens were 230mm x 
+110mm x 90mm in size, with variations in sample 
+composition comprising fly ash (15 to 50%), 
+gypsum (2%), lime (5 to 30%), and quarry dust 
+(45 to 55%). The compressive strength of several 
+mix combinations was evaluated, and it was 
+discovered that the compressive strength varied 
+with changes in mix proportions and curing time. 
+The results revealed that a mix design of 15% fly 
+ash, 53% quarry dust, 30% lime, and 2% gypsum 
+produced the maximum compressive strength. 
+ 
+MATERIALS 
+1. FLY ASH 
+Fly ash is a byproduct of pulverized coal 
+combustion in thermal power plants, the FA used 
+in this experiment was classed as class F. It was 
+sourced from the Rajpura thermal power plant 
+located village near Rajpura in Patiala district in 
+the Indian state of Punjab. Fly ash includes a high 
+percentage of silica and alumina. Fly ash had a 
+specific gravity of 2.15. 
+ 
+ 
+Fig. 1- Fly ash 
+ 
+Table 1. Physical properties of Fly ash (FA)::- 
+Parameters 
+Value 
+Specific gravity (g/cm3) 
+2.15 
+Fineness 
+295 m2/kg 
+Moisture content 
+0.5% 
+Bulk density 
+1100 -1200 kg/m3 
+Color 
+Grey 
+ 
+2. Rice husk ash (RHA) 
+Rice husk ash that is supplied from a rice mill in 
+Kharar, Mohali, Punjab, was used as a material in 
+this stud. India generates a significant quantity of 
+rice husk ash, which show a high-level of reactivity 
+and 
+possesses 
+pozzolanic 
+properties. 
+After 
+separating it from the rice grain, the husk was 
+burned in a burner. 
+ 
+ 
+Fig. 2 - Rice husk ash 
+ 
+Table 2. Physical properties of RHA:- 
+Parameters 
+Value 
+Fineness passing through 45 
+microns 
+95% 
+Specific gravity (g/cm3) 
+2.05 
+Specific surface (nitrogen 
+absorption) m2/kg 
+27650 
+Particle size (µm) 
+6 
+ 
+3. Marble dust powder  
+Marble dust powder is used in this experiment. The 
+collections of marble dust powder took place at 
+Ram Krishna Marble & Tiles situated in Sector 21, 
+Panchkula, Chandigarh 
+ 
+
+
+----- TABLE p4#1 -----
+
+Parameters | Value
+Specific gravity (g/cm3) | 2.15
+Fineness | 295 m2/kg
+Moisture content | 0.5%
+Bulk density | 1100 -1200 kg/m3
+Color | Grey
+
+----- TABLE p4#2 -----
+
+Parameters | Value
+Fineness passing through 45
+microns | 95%
+Specific gravity (g/cm3) | 2.05
+Specific surface (nitrogen
+absorption) m2/kg | 27650
+Particle size (µm) | 6
+
+===== PAGE 5 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4224 
+.
+ 
+Fig. 4 – Marble dust Powder  
+Table 3. Physical properties of marble dust: - 
+Parameters 
+Value 
+Specific gravity(g/cm3) 
+2.74 
+Surface by blain (cm2/g) 
+4376 
+ 
+Chemical composition of Fly ash (FA), Rice husk ash (RHA), and Marble dust powder (MDP): - 
+ 
+Table 4. Major Chemical composition of raw material analyzed by XRF (weight percentage). waste marble 
+dust, fly ash: - 
+Chemical composition% 
+ FA % 
+ RHA % 
+MDP % 
+Silica Oxide (SiO2) 
+61.84% 
+87.40% 
+0.29% 
+Aluminum Oxide (Al2O3) 
+26.68% 
+0.46% 
+1.42% 
+Iron Oxide (Fe2O3) 
+10.75% 
+1.55% 
+0.49% 
+Calcium Oxide (CaO) 
+6.65% 
+1.4% 
+55.63% 
+Magnesium Oxide (MgO) 
+2.66% 
+1% 
+0.44% 
+Sulphur Oxide (SO3) 
+4.24% 
+- 
+- 
+Potassium oxide, K2O 
+2.26% 
+2.90% 
+- 
+Loss of ignition (Lou) 
+0.8% 
+0.15% 
+43.5% 
+4. Fine aggregate  
+The Fine aggregate that was simply available in 
+Ramjee concrete pvt. Ltd., jhanjeri, S.A.S Nagar, 
+Punjab was used as fine aggregate with a 4.75mm 
+size Sand's sieve analysis is carried out using Zone- 
+II the fineness modulus of aggregate is 2.4 IS 383-
+1970 as shown in the table.  
+ 
+ 
+Table 5: Sieve analysis of Fine aggregate 
+IS sieve 
+sizes 
+Weight Retained 
+(gm) 
+ 
+Cumulative 
+Weight 
+Retained (gm) 
+Cumulative 
+Percentage 
+Retained 
+Cumulative 
+Percentage 
+Passed 
+10mm 
+0 
+0 
+0 
+100 
+4.75mm 
+21.02 
+21.02 
+2.1 
+97.9 
+2.36mm 
+82.44 
+103.46 
+10.3 
+89.7 
+1.18mm 
+155.04 
+258.04 
+25.8 
+74.2 
+600 microns 
+232.31 
+490.35 
+49.03 
+50.97 
+300 microns 
+225.93 
+716.28 
+71.6 
+28.4 
+150 microns 
+151.83 
+871.11 
+87.11 
+12.89 
+75 microns 
+101.43 
+101.43 
+- 
+- 
+Fineness modulus = Cum. % wt. Retained/100 
+21.02+10.3+25.8+49.03+71.6+87.11/ 100 = 2.4 
+ 
+5. Alkaline activators 
+A mixture of sodium silicate and sodium 
+hydroxide was used to ensure the consistency and 
+uniformity of the alkaline activator solution used 
+in the creation of geopolymer bricks. In 
+comparison, solid capsule forms of NaOH with a 
+purity of 98% were used, and sodium silicate 
+contains 27% SiO2, 8% Na2O, and 65% H2O by 
+mass. The sodium hydroxide molarity was held 
+constant at 12M for all mixtures, and the sodium 
+hydroxide to sodium silicate ratio was held at 
+1:2.5. To make sure that the entire solution was 
+homogeneous, the solutions of NaOH and 
+Na2SiO3 were mixed 24 hours before the 
+preparation of geopolymer brick samples. 
+ 
+ 
+a. Sodium hydroxide  
+Caustic soda, also known as sodium hydroxide, is 
+a highly corrosive metallic base that is widely 
+employed as a powerful chemical base in a variety 
+of sectors, including the production of textiles, 
+soaps, detergents, and drinking water. It quickly 
+dissolves in water, generating heat. Synthesis was 
+used to dissolve 480 grams of sodium hydroxide in 
+1000 ml of distilled water to get a 12M NaOH 
+solution. 
+ 
+
+
+----- TABLE p5#1 -----
+
+Parameters | Value
+Specific gravity(g/cm3) | 2.74
+Surface by blain (cm2/g) | 4376
+
+----- TABLE p5#2 -----
+
+Chemical composition% | FA % | RHA % | MDP %
+Silica Oxide (SiO
+2) | 61.84% | 87.40% | 0.29%
+Aluminum Oxide (Al O
+2 3) | 26.68% | 0.46% | 1.42%
+Iron Oxide (Fe O )
+2 3 | 10.75% | 1.55% | 0.49%
+Calcium Oxide (CaO) | 6.65% | 1.4% | 55.63%
+Magnesium Oxide (MgO) | 2.66% | 1% | 0.44%
+Sulphur Oxide (SO )
+3 | 4.24% | - | -
+Potassium oxide, K O
+2 | 2.26% | 2.90% | -
+Loss of ignition (Lou) | 0.8% | 0.15% | 43.5%
+
+----- TABLE p5#3 -----
+
+IS sieve
+sizes | Weight Retained
+(gm) | Cumulative
+Weight
+Retained (gm) | Cumulative
+Percentage
+Retained | Cumulative
+Percentage
+Passed
+10mm | 0 | 0 | 0 | 100
+4.75mm | 21.02 | 21.02 | 2.1 | 97.9
+2.36mm | 82.44 | 103.46 | 10.3 | 89.7
+1.18mm | 155.04 | 258.04 | 25.8 | 74.2
+600 microns | 232.31 | 490.35 | 49.03 | 50.97
+300 microns | 225.93 | 716.28 | 71.6 | 28.4
+150 microns | 151.83 | 871.11 | 87.11 | 12.89
+75 microns | 101.43 | 101.43 | - | -
+
+===== PAGE 6 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4225 
+ 
+Fig 5 Sodium Hydroxide  
+ 
+b. Sodium Silicate 
+Sodium silicate, popularly is also known as water 
+glass or liquid glass, is a Na2SiO3-containing 
+chemical. It is found in both solid and aqueous 
+solution forms, and it is colourless or white in its 
+pure form. In sectors such as detergents and 
+textiles, sodium silicate is commonly utilised as a 
+bonding agent. 
+ 
+ 
+Fig 6 Sodium silicate  
+ 
+Mix proportion of Geopolymer brick 
+• Preparation of geopolymerization activator 
+Geopolymerization is a method that involves the 
+use of an alkaline chemical activator to start a 
+reaction that results in the creation of mineral 
+polymer structures. The chemical activator is 
+commonly a commercially available sodium 
+hydroxide pellet combined with water and a 
+sodium silicate solution. Additionally, alkaline 
+base chemicals containing anions such as O2-, 
+[OH]-, Cl-, and [SO4]2- are introduced at various 
+quantities to enhance the reaction. These 
+components work together to facilitate the 
+geopolymerization process and the formation of 
+the necessary mineral polymer structures. For a 
+proper geopolymerization process, the pH of the 
+chemical activator is kept between 11 and 12.   
+To reduce heat generation during polymerization, 
+a 
+sodium 
+silicate 
+and 
+sodium 
+hydroxide 
+combination was made one day before being added 
+to the dry materials [9]. To create the solution, 
+48grm of sodium hydroxide pellets were dissolved 
+in water at a concentration of 12 M. The sodium 
+silicate solution was then thoroughly mixed with 
+the sodium hydroxide solution. The semi-solid 
+paste that resulted was then poured into mould 
+measuring 230mm x 110mm x 70mm for 
+additional processing. 
+ 
+ 
+Fig 7 alkaline activator  
+ 
+• Mixing of material 
+The hand mixing method was used to combine the 
+various elements. Fine aggregate was then 
+carefully incorporated into the dry materials after 
+careful mixing. The slurry was then gently re-
+mixed after adding fine aggregate. The chemical 
+admixture was mixed while water is gradually 
+added, and the mixing was halted after a usable 
+mixture was attained. During the procedure, 
+mixing was done often.  The average strength of 
+bricks on the market is 5 MPa, which is higher than 
+the minimum strength criterion of 3.5 N/mm2 
+outlined by the IS: 1077:2007 regulation. A 
+molarity of 12M was chosen for casting the 
+geopolymer bricks based on the results of testing 
+several geopolymer binder molarities. Fly ash 
+(50%-70%), fine aggregate (15%), Rice husk ash 
+(15% - 30%), and Marble dust powder (5%- 30%) 
+were used in different amounts to make the bricks. 
+source materials and binder of brick were also cast 
+before the bricks. To enable the curing of the 
+specimen at room temperature. The different 
+proportions of fly ash (FA), Rice husk ash (RHA), 
+and Marble dust powder (MDP) source material 
+combined with fine aggregate in a 1:3 ratio to 
+create the geopolymer mortar. 
+ 
+ 
+ 
+ 
+ 
+
+
+===== PAGE 7 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4226 
+Table 6: - Mix proportion for geopolymer brick 
+Fly ash % 
+Rice husk 
+ash% 
+Marble dust 
+powder % 
+Fine 
+Aggregate% 
+Sodium 
+hydroxide 
+Sodium 
+silicate 
+70% 
+25% 
+5% 
+15% 
+1 
+2.5 
+70% 
+20% 
+10% 
+15% 
+1 
+2.5 
+70% 
+15% 
+15% 
+15% 
+1 
+2.5 
+60% 
+30% 
+10% 
+15% 
+1 
+2.5 
+60% 
+25% 
+15% 
+15% 
+1 
+2.5 
+60% 
+20% 
+20% 
+15% 
+1 
+2.5 
+50% 
+30% 
+20% 
+15% 
+1 
+2.5 
+50% 
+25% 
+25% 
+15% 
+1 
+2.5 
+50% 
+20% 
+30% 
+15% 
+1 
+2.5 
+• Batching, Mixing and curing   
+The basic components for geopolymer mortar were 
+combined in the laboratory using a pan mixer. The 
+mixture was progressively combined with a pre-
+mixed alkaline activated solution for 4 to 6 
+minutes, depending on the consistency. The 
+geopolymer bricks were made using a 1:3 
+combination of fly ash, rice husk ash, marble dust 
+powder, and sand, and a standard-size mould of 
+230 x 110 x 75 mm was employed. 12M NaOH 
+was used to make an alkaline solution. The 
+geopolymer bricks were cast in the Mould and 
+allowed to cure for 24 hours on the roof under 
+ambient conditions. Figure 8 shows a diagram of 
+the geopolymer bricks. After the bricks had been 
+de-mould, they were either heated to a higher 
+temperature, left at room temperature, or placed in 
+water to cure. The bricks were made to cure at 
+ambient temperature for 7 period of 7 days, 14 
+days, and 28 days using the room temperature 
+curing procedure. The bricks were submerged in 
+water for the same ageing times when using the 
+water-curing 
+process. 
+The 
+dried 
+bricks' 
+compressive strength and water absorption were 
+then assessed. d. 
+ 
+ 
+Fig 8 Curing  
+ 
+Result and discussion  
+Test on bricks: -  
+• Compressive strength  
+• Water absorption 
+•  Efflorescence test  
+ 
+ 
+COMPRESSIVE STRENGTH TEST  
+A compression testing device with a max capacity 
+of 2000 kilonewtons and a continuous loading rate 
+of 200 kilograms per square centimeter per minute 
+is used to gauge the Compressive strength of the 
+geopolymer bricks. For assessing the compressive 
+strength of clay bricks and fly ash bricks, the 
+testing process complies with the specifications 
+defined by Indian Standards IS: 1077-1992 and IS: 
+3495 (Part 1) After 7 day and 14 days curing of the 
+specimens, 
+the 
+specimens 
+are 
+tested 
+for 
+compressive strength using various material ratios 
+and molar ratios of the alkaline solution. Below are 
+presented the test's findings. 
+ 
+ 
+ 
+ 
+Fig 9 Compressive strength on CTM  
+ 
+The compressive strength of geopolymer bricks 
+that are water-cured may be lower than that of 
+bricks that are cured under other conditions. This 
+can be because of the high-water content and low 
+temperature present during the curing process. In 
+addition, the low temperature may impede the 
+
+
+----- TABLE p7#1 -----
+
+Fly ash % | Rice husk
+ash% | Marble dust
+powder % | Fine
+Aggregate% | Sodium
+hydroxide | Sodium
+silicate
+70% | 25% | 5% | 15% | 1 | 2.5
+70% | 20% | 10% | 15% | 1 | 2.5
+70% | 15% | 15% | 15% | 1 | 2.5
+60% | 30% | 10% | 15% | 1 | 2.5
+60% | 25% | 15% | 15% | 1 | 2.5
+60% | 20% | 20% | 15% | 1 | 2.5
+50% | 30% | 20% | 15% | 1 | 2.5
+50% | 25% | 25% | 15% | 1 | 2.5
+50% | 20% | 30% | 15% | 1 | 2.5
+
+===== PAGE 8 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4227 
+polycondensation reaction, which may be a factor 
+in the geopolymer bricks reduced compressive 
+strength after being cured under water. It may be 
+necessary to optimise the curing conditions, such 
+as water content and temperature, to increase the 
+compressive strength of geopolymer bricks dried 
+in water. 
+ 
+ 
+Fig 10 Compressive Strength  
+ 
+• WATER ABSORPTION 
+Water absorption is a major factor effect on brick 
+durability. The less water that penetrates a brick, 
+the greater its durability and resistance to the 
+environment. The results show that increasing the 
+Rice husk ash to water ratio and the curing 
+temperature 
+increase 
+water 
+absorption. 
+As 
+indicated in Figure 11, the water absorption rate of 
+geopolymer bricks was shown to be greater after 7 
+days of room temperature curing compare to 14 
+days and 28 days. This shows that prolonged 
+curing durations could produce bricks that are 
+denser, less porous, and absorb water less slowly. 
+However, it is crucial to remember that the ideal 
+curing time might change according on the 
+particular mix of design and curing circumstances 
+employed. The appropriate curing time for 
+geopolymer bricks in various applications may 
+require more study. As previously, as the volume 
+of Rice husk increases, more linked pores allow 
+water flow to appear. pear. In any case, increased 
+water 
+absorption 
+may 
+reduce 
+compressive 
+strength. 
+ 
+ 
+Fig 11 Water absorption 
+ 
+ 
+Fig 12 Water absorption  
+ 
+• EFFLORESCENCE TEST 
+Efflorescence is a white crystalline salt compound 
+made up of magnesium sulphate, calcium sulphate, 
+sodium and potassium carbonates. This test was 
+done according to IS: 3495(Part 3) Typically, 
+efflorescence is caused by wet conditions, 
+condensation, low temperatures, among other 
+things, and deposits on the surface of the bricks. 
+The occurrence of efflorescence in bricks is 
+classified as nil, faint, moderate, heavy, and 
+serious (IS: 3495, Part-III). No white areas have 
+been detected since the day of de-molding; hence 
+efflorescence is recorded as nil. 
+ 
+Table 9 Result of Efflorescence test 
+S. no 
+Brick type 
+Nil 
+Slight 
+Moderate 
+Heavy 
+Serious 
+1 
+FA70RH25MD5 
+- 
+Yes 
+- 
+- 
+- 
+2 
+FA70RH20MD5 
+- 
+Yes 
+- 
+- 
+- 
+3 
+FA70RH15MD5 
+Yes 
+- 
+- 
+- 
+- 
+4. 
+FA60RH30MD5 
+- 
+- 
+Yes 
+- 
+- 
+5 
+FA60RH25MD5 
+Yes 
+- 
+- 
+- 
+- 
+6 
+FA60RH20MD20 
+Yes 
+- 
+- 
+- 
+- 
+7 
+FA50RH30MD20 
+- 
+Yes 
+ 
+- 
+- 
+8 
+FA50RH25MD30 
+- 
+- 
+Yes 
+- 
+- 
+9 
+FA50RH20MD30 
+- 
+- 
+Yes 
+- 
+- 
+ 
+ 
+
+
+----- TABLE p8#1 -----
+
+S. no | Brick type | Nil | Slight | Moderate | Heavy | Serious
+1 | FA70RH25MD5 | - | Yes | - | - | -
+2 | FA70RH20MD5 | - | Yes | - | - | -
+3 | FA70RH15MD5 | Yes | - | - | - | -
+4. | FA60RH30MD5 | - | - | Yes | - | -
+5 | FA60RH25MD5 | Yes | - | - | - | -
+6 | FA60RH20MD20 | Yes | - | - | - | -
+7 | FA50RH30MD20 | - | Yes |  | - | -
+8 | FA50RH25MD30 | - | - | Yes | - | -
+9 | FA50RH20MD30 | - | - | Yes | - | -
+
+===== PAGE 9 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4228 
+Future implementation of geopolymer bricks 
+and recommendations 
+The study's methodology and findings show that 
+geopolymer bricks could be an acceptable 
+replacement for burnt bricks. Future research 
+should, however, focus on the endurance of this 
+geopolymer material as well as the optimum means 
+of including it in the brick production line. 
+Research is currently being done to evaluate the 
+adjustments required in the burnt brick production 
+chain to incorporate geopolymer bricks. 
+ 
+Several guidelines should be considered when 
+putting geopolymer bricks into practice. To begin, 
+a comparison of the different stages of life of 
+traditional and geopolymer bricks should be 
+performed to assess the latter's environmental 
+impact and sustainability. Second, to optimise 
+production and increase brick quality, a complete 
+analysis of the raw material preparation process, as 
+well as the process of producing and drying 
+geopolymer bricks on an industrial scale, should be 
+performed. Finally, geopolymer brick research and 
+development 
+offer 
+promise 
+for 
+sustainable 
+construction methods. Additional efforts should be 
+made to incorporate the new material into the 
+building sector, with an emphasis on optimizing 
+the manufacturing process and ensuring the final 
+product's quality. 
+ 
+Conclusion 
+The results of this investigation could be 
+generalized to the following:  
+• The geopolymer brick specimens made at a 12 M 
+NaOH 
+concentration 
+have 
+an 
+increased 
+compressive strength. 
+• It has been identified that the combination of 
+silica-based (Fly ash and rice husk ash) and CaO-
+rich MDP may be used as a cement substitute 
+since they are suitable with one another. 
+• The geopolymer bricks with a material ratio of 
+70:25:5 
+consistently 
+display 
+the 
+highest 
+compressive strength during both the 7-day and 
+14-day periods, when compared to other 
+combinations, while using a constant alkaline 
+solution of 1:2.5. The compressive strength 
+increases from 12.6 MPa to 18.1 MPa  
+• Geopolymer 
+bricks 
+have 
+a lower 
+water 
+absorption rate, as they show water absorption of 
+up to 5.4%. In comparison, normal clay bricks 
+typically have a water absorption rate of around 
+20%. 
+• Geopolymer brick has a high compressive 
+strength when mixed with fly ash 70%, rice husk 
+ash 25%, and marble dust 5% with an alkaline 
+activator  
+ 
+REFERENCES  
+1. Olukoya Obafemi A P, Kurt S. Environmental 
+impacts of adobe as a building material: The 
+North Cyprus traditional building case. Journal 
+of Case Studies in Construction Materials. 
+2016; 4:32-41 
+2. Yung Chang (2018), “The Application of 
+Waste Marble as Coarse Aggregate in Concrete 
+Production” Source: (IRMI, Volume15 No.1) 
+3. D Hardjito (2013), Production of bricks from 
+waste 
+materials 
+A 
+review, 
+Article 
+in 
+Construction and Building Materials 47: 
+643655 · October2013 
+4. Hakan Cengiz Ler, Tayfun Cicek, Mehmet 
+Tanrıverdi. Brief Overview of FA Brick 
+Production. Proceedings of XIIIth International 
+Mineral Processing Symposium, Bodrum-
+Turkey. 2012; 1–12p. 
+5. Osman B A 2019 Developing a novel 
+geopolymer using marble dust, A Thesis 
+Submitted to the Faculty of Engineering at 
+Cairo University in Partial Fulfillment of the 
+Requirements for the Degree of Master of 
+science In Structural Engineering, Faculty of 
+engineering, Cairo University Giza, Egypt. 
+6. Neupane K, Sriravindra rajah R, and Baweja D 
+2015 Construction and Building Materials 94 
+241–248. 
+7. Bilgin, N., Yeprem, H.A., Arslan, S., Bilgin, A., 
+Gunay, E. & Marsoglu, M. (2012). Use of waste 
+marble powder in brick industry. Construction 
+and Building Materials, 29, 449-457. 
+8. Fernando RP “Fly ash Based Geopolymer 
+Concrete – A State of the Art Review” 
+International 
+Journal 
+of 
+Computational 
+Engineering 
+Research. 
+ISSN:2250-3005. 
+Vol.3(1). 2013 Andreola, Sun, L.; Gong, K. 
+Silicon-based materials from rice husks and 
+their applications. Ind. Eng. Chem. Res. 2001, 
+40, 5861–5877. 
+9. Wan Mastura Wan Ibrahim1, Kamarudin 
+Hussin “Applied Mechanics and Materials 
+Vols. 754-755 (2015) pp 452-456. 
+10. Chen Y, Zhang Y, Chen T, Zhao Y, Bao S. 
+2011. Preparation of eco-friendly construction 
+bricks from hematite tailings. Construction 
+Build Mater. 25:2107-2111. 
+11. Madheswaran C. K, Gnanasundar G., Gopala 
+Krishnan.N,, “Effect of molarity in geopolymer 
+concrete”, International journal of civil and 
+structural engineering. ISSN0976–4399. Vol.4 
+(2). 2013 
+12. N. V. Mohan, P. V. V. Satyanarayana, and K. 
+S. Rao, “Performance of rice husk ash bricks,” 
+International Journal of Engineering Research 
+and Applications, vol. 2, no. 5, pp. 1906– 1910, 
+2012 
+
+
+===== PAGE 10 =====
+
+Experimental Investigation On Marble Dust, Rice Husk Ash, And Fly Ash Based Geopolymer Brick              Section A-Research paper 
+ 
+Eur. Chem. Bull. 2023, 12(Special Issue 5), 4220 – 4229                                
+                                                  4229 
+13. Cheng, 
+T.-W.; 
+Chiu, 
+J. 
+Fire-resistant 
+geopolymer produced by granulated blast 
+furnace slag. Miner. Eng. 2003, 16, 205–210. 
+14. Chithambar Ganesha, Muthukananm. Rajesw-
+ranm, Shankarm and Selvam M 2018 
+Comparative Study on the Behavior of 
+Geopolymer Concrete Using M-sand and 
+Conventional Concrete Exposed to Elevated 
+Temperature International Journal of Civil 
+Engineering and Technology9 (11) (2018)981–
+989. 
+15. S.D. Muduli. J.K. Sadangi, B.D. Nayak, B.K. 
+Mishra "Effect of NaOH Concentration in 
+Manufacture of Geopolymer Fly Ash Building 
+Brick” ISSN: 2276- 7851, Vol. 3 (6), pp. 204-
+211, October 2013. 
+16. Ilker Tekin PhD 2016 “Properties of NaOH 
+activated geopolymer with marble, travertine, 
+and volcanic tuff wastes” Construction and 
+Building Materials. 16.M. Mustafa Al Bakri, H. 
+Kamarudin & Omar A. KA Karem, C.M. 
+Ruzaidi & A.R. Rafisa and MN. Norazian 
+“Applied Mechanics and Materials Vols. 110-
+116 (2012) pp 734-739”.  
+17. Mohd 
+Salahuddin 
+Mohd 
+Basri, 
+Faizal 
+Mustapha, Nor Khairunnisa Mazlan and Mohd 
+Ridzwan Ishak Polymers 2021, 13, 4373. 
+https://doi.org/10.3390/polym13244373 
+18. Vijai K, Kumutha R and Vishnuram B G 2010 
+International Journal of the Physical Sciences 
+5(9) 1419–1423 19. Neupane K, Sriravind-
+rarajah R and Baweja D 2015 Construction and 
+Building Materials 94 241–248 
