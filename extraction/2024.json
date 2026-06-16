@@ -1,0 +1,1318 @@
+{
+  "year": 2024,
+  "rha_dataset": [
+    {
+      "paper_id": "2024_01",
+      "source_file": "2024/01_Experimental_Study_on_Concrete_Incorporating_Partial_Replacement_of_Aggregates_with_Coconut_Shell_and_Cement_with_Rice_H.pdf",
+      "paper_title": "Experimental Study on Concrete Incorporating Partial Replacement of Aggregates with Coconut Shell and Cement with Rice Husk Ash",
+      "authors": "Kumar, Sahu",
+      "country_region": "India (Jagdalpur, Chhattisgarh; Govt. Engineering College)",
+      "rha_source_location": "Not specified (agro-waste rice husk ash; pozzolanic)",
+      "material_type": "Concrete M20 grade (IS 10262:2019)",
+      "primary_binder_scm": "OPC+RHA",
+      "output_availability": "Compressive and split tensile tabulated at 7/28 days for RHA-only and CS+RHA combo mixes; no flexural.",
+      "value_source": "Batch quantities from mix design (cement 422, fine 670, coarse 1124 kg/m3, w/c 0.5). RHA kg/m3 computed. Strengths verbatim from results tables.",
+      "data_origin": "primary",
+      "notes": "OPC 53 grade. RHA 10/15/20%; combo 10% coconut shell + 10/15% RHA. Optimum ~15% RHA.",
+      "evidence": "Mix cement 422 kg/m3, w/c 0.5. RHA 15% comp 19.06/29.82 MPa (7/28d).",
+      "mixes": [
+        {
+          "mix_id": "Control (0% RHA)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": 422,
+          "rha_kg_m3": 0,
+          "fine_agg_kg_m3": 670,
+          "coarse_agg_kg_m3": 1124,
+          "other_additives": "none",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 18.07,
+              "split": 1.52
+            },
+            {
+              "age": 28,
+              "comp": 28.26,
+              "split": 2.47
+            }
+          ]
+        },
+        {
+          "mix_id": "RHA 10%",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 379.8,
+          "rha_kg_m3": 42.2,
+          "fine_agg_kg_m3": 670,
+          "coarse_agg_kg_m3": 1124,
+          "other_additives": "none",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 18.53,
+              "split": 1.64
+            },
+            {
+              "age": 28,
+              "comp": 28.97,
+              "split": 2.55
+            }
+          ]
+        },
+        {
+          "mix_id": "RHA 15%",
+          "rha_pct_cement_replacement": 15,
+          "cement_kg_m3": 358.7,
+          "rha_kg_m3": 63.3,
+          "fine_agg_kg_m3": 670,
+          "coarse_agg_kg_m3": 1124,
+          "other_additives": "none",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 19.06,
+              "split": 1.89
+            },
+            {
+              "age": 28,
+              "comp": 29.82,
+              "split": 2.8
+            }
+          ]
+        },
+        {
+          "mix_id": "RHA 20%",
+          "rha_pct_cement_replacement": 20,
+          "cement_kg_m3": 337.6,
+          "rha_kg_m3": 84.4,
+          "fine_agg_kg_m3": 670,
+          "coarse_agg_kg_m3": 1124,
+          "other_additives": "none",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 18.04,
+              "split": 1.57
+            },
+            {
+              "age": 28,
+              "comp": 28.35,
+              "split": 2.44
+            }
+          ]
+        },
+        {
+          "mix_id": "CS 10% + RHA 10%",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 379.8,
+          "rha_kg_m3": 42.2,
+          "fine_agg_kg_m3": 670,
+          "coarse_agg_kg_m3": 1124,
+          "other_additives": "Coconut shell 10% coarse agg replacement",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 28.35,
+              "split": 2.84
+            }
+          ]
+        },
+        {
+          "mix_id": "CS 10% + RHA 15%",
+          "rha_pct_cement_replacement": 15,
+          "cement_kg_m3": 358.7,
+          "rha_kg_m3": 63.3,
+          "fine_agg_kg_m3": 670,
+          "coarse_agg_kg_m3": 1124,
+          "other_additives": "Coconut shell 10% coarse agg replacement",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 29.73,
+              "split": 2.93
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "2024_03",
+      "source_file": "2024/03_Effect_Of_Quarry_Dust_On_Mechanical_Properties_Of_Rice_Husk_Ash-Based_Concrete_For_Sustainable_Environment.pdf",
+      "paper_title": "Effect Of Quarry Dust On Mechanical Properties Of Rice Husk Ash-Based Concrete For Sustainable Environment",
+      "authors": "Noshin, Hamza, Uzair, Aslam, Rehman, Yasin, Joyia, Ahmad, Hamza, Amina",
+      "country_region": "Pakistan (Lahore) / Germany (Bochum)",
+      "rha_source_location": "Rice husk burned 650C 4h; ground (~80 um)",
+      "material_type": "Concrete (ACI 211, w/b 0.5)",
+      "primary_binder_scm": "OPC+RHA",
+      "output_availability": "28-day comp+split in Table 5; 7/14/21d figure-only.",
+      "value_source": "kg/m3 Table 4; 28d strengths Table 5.",
+      "data_origin": "primary",
+      "notes": "RHA fixed 10% for M1-M6; QD replaces sand 0-50%. Optimum QD 40% (M5).",
+      "evidence": "Table 4-5.",
+      "mixes": [
+        {
+          "mix_id": "M0 (0% RHA)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": 306,
+          "rha_kg_m3": 0,
+          "fine_agg_kg_m3": 592,
+          "coarse_agg_kg_m3": 1029,
+          "other_additives": "QD 0; water 205",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 22.68,
+              "split": 2.42
+            }
+          ]
+        },
+        {
+          "mix_id": "M1 (10% RHA, 0% QD)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 275,
+          "rha_kg_m3": 30.6,
+          "fine_agg_kg_m3": 592,
+          "coarse_agg_kg_m3": 1029,
+          "other_additives": "QD 0; water 205",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 21.31,
+              "split": 2.21
+            }
+          ]
+        },
+        {
+          "mix_id": "M2 (10% RHA, 10% QD)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 275,
+          "rha_kg_m3": 30.6,
+          "fine_agg_kg_m3": 533,
+          "coarse_agg_kg_m3": 1029,
+          "other_additives": "QD 59.2 kg/m3; water 205",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 21.02,
+              "split": 1.98
+            }
+          ]
+        },
+        {
+          "mix_id": "M3 (10% RHA, 20% QD)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 275,
+          "rha_kg_m3": 30.6,
+          "fine_agg_kg_m3": 474,
+          "coarse_agg_kg_m3": 1029,
+          "other_additives": "QD 118 kg/m3; water 205",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 21.09,
+              "split": 2.06
+            }
+          ]
+        },
+        {
+          "mix_id": "M4 (10% RHA, 30% QD)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 275,
+          "rha_kg_m3": 30.6,
+          "fine_agg_kg_m3": 414,
+          "coarse_agg_kg_m3": 1029,
+          "other_additives": "QD 178 kg/m3; water 205",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 21.26,
+              "split": 2.12
+            }
+          ]
+        },
+        {
+          "mix_id": "M5 (10% RHA, 40% QD)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 275,
+          "rha_kg_m3": 30.6,
+          "fine_agg_kg_m3": 355,
+          "coarse_agg_kg_m3": 1029,
+          "other_additives": "QD 237 kg/m3; water 205",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 21.45,
+              "split": 2.25
+            }
+          ]
+        },
+        {
+          "mix_id": "M6 (10% RHA, 50% QD)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 275,
+          "rha_kg_m3": 30.6,
+          "fine_agg_kg_m3": 296,
+          "coarse_agg_kg_m3": 1029,
+          "other_additives": "QD 296 kg/m3; water 205",
+          "water_cement_ratio": 0.5,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 21.19,
+              "split": 2.07
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "2024_06",
+      "source_file": "2024/06_Impact_of_Incorporating_Rice_Husk_Ash_RHA_into_Recycled_Concrete_Aggregates_RCA_on_the_Compressive_and_Flexural_Strength.pdf",
+      "paper_title": "Impact of Incorporating Rice Husk Ash (RHA) into Recycled Concrete Aggregates (RCA) on the Compressive and Flexural Strength of Concrete",
+      "authors": "Adier, Silva",
+      "country_region": "Philippines (Palawan / Manila)",
+      "rha_source_location": "Rice mill Aborlan, Palawan; open-air burned",
+      "material_type": "Concrete 100% RCA coarse, Type 1 OPC",
+      "primary_binder_scm": "OPC+RHA",
+      "output_availability": "Comp+flexural 7/14/28d Table 2; no kg/m3.",
+      "value_source": "Table 2 verbatim; RHA% from cement:RHA ratios.",
+      "data_origin": "primary",
+      "notes": "High RHA ratios (20-43%). w/c 0.56. kg/m3 not reported.",
+      "evidence": "Table 2 all treatments.",
+      "mixes": [
+        {
+          "mix_id": "Control (RCA, 0% RHA)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": null,
+          "rha_kg_m3": null,
+          "fine_agg_kg_m3": null,
+          "coarse_agg_kg_m3": null,
+          "other_additives": "100% RCA coarse; w/c 0.56",
+          "water_cement_ratio": 0.56,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 12.4,
+              "flexural": 2.85
+            },
+            {
+              "age": 14,
+              "comp": 13.4,
+              "flexural": 3.82
+            },
+            {
+              "age": 28,
+              "comp": 23.73,
+              "flexural": 4.63
+            }
+          ]
+        },
+        {
+          "mix_id": "T1 (~43% RHA)",
+          "rha_pct_cement_replacement": 42.9,
+          "cement_kg_m3": null,
+          "rha_kg_m3": null,
+          "fine_agg_kg_m3": null,
+          "coarse_agg_kg_m3": null,
+          "other_additives": "100% RCA; 1:0.75 cement:RHA; w/c 0.56",
+          "water_cement_ratio": 0.56,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 15.47,
+              "flexural": 2.17
+            },
+            {
+              "age": 14,
+              "comp": 16.33,
+              "flexural": 2.65
+            },
+            {
+              "age": 28,
+              "comp": 22.67,
+              "flexural": 4.53
+            }
+          ]
+        },
+        {
+          "mix_id": "T2 (~33% RHA)",
+          "rha_pct_cement_replacement": 33.3,
+          "cement_kg_m3": null,
+          "rha_kg_m3": null,
+          "fine_agg_kg_m3": null,
+          "coarse_agg_kg_m3": null,
+          "other_additives": "100% RCA; 1:0.5 cement:RHA; w/c 0.56",
+          "water_cement_ratio": 0.56,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 11.47,
+              "flexural": 2.1
+            },
+            {
+              "age": 14,
+              "comp": 12.77,
+              "flexural": 2.58
+            },
+            {
+              "age": 28,
+              "comp": 21.87,
+              "flexural": 4.48
+            }
+          ]
+        },
+        {
+          "mix_id": "T3 (~20% RHA)",
+          "rha_pct_cement_replacement": 20,
+          "cement_kg_m3": null,
+          "rha_kg_m3": null,
+          "fine_agg_kg_m3": null,
+          "coarse_agg_kg_m3": null,
+          "other_additives": "100% RCA; 1:0.25 cement:RHA; w/c 0.56",
+          "water_cement_ratio": 0.56,
+          "strengths": [
+            {
+              "age": 7,
+              "comp": 14.23,
+              "flexural": 2.43
+            },
+            {
+              "age": 14,
+              "comp": 17.27,
+              "flexural": 2.83
+            },
+            {
+              "age": 28,
+              "comp": 21.07,
+              "flexural": 4.43
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "2024_08",
+      "source_file": "2024/08_Fresh_and_Hardened_Properties_of_SCC_Incorporating_Rice_Husk_Ash_and_Sugarcane_Bagasse_Ash.pdf",
+      "paper_title": "Fresh and Hardened Properties of SCC Incorporating Rice Husk Ash and Sugarcane Bagasse Ash",
+      "authors": "Jagdeep, Verma",
+      "country_region": "India (Punjab; Chandigarh University)",
+      "rha_source_location": "Incinerated >800C; ~90% amorphous silica",
+      "material_type": "SCC M30 (35% fly ash fixed)",
+      "primary_binder_scm": "OPC+FA+RHA",
+      "output_availability": "Full kg/m3; RA10 peak 28d strengths in text; others figure-only.",
+      "value_source": "Table 3.3 kg/m3; RA10 peaks from text.",
+      "data_origin": "primary",
+      "notes": "RHA 6-14% replaces cement; FA 155 kg/m3 constant. w/c 0.45.",
+      "evidence": "RA10: comp 35.79, flex 4.46, split 3.68 MPa @28d.",
+      "mixes": [
+        {
+          "mix_id": "R (0% RHA)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": 287,
+          "rha_kg_m3": 0,
+          "fine_agg_kg_m3": 975,
+          "coarse_agg_kg_m3": 737,
+          "other_additives": "FA 155; SP 2.65; water 190",
+          "water_cement_ratio": 0.45,
+          "strengths": []
+        },
+        {
+          "mix_id": "RA6 (6% RHA)",
+          "rha_pct_cement_replacement": 6,
+          "cement_kg_m3": 269.78,
+          "rha_kg_m3": 17.22,
+          "fine_agg_kg_m3": 975,
+          "coarse_agg_kg_m3": 737,
+          "other_additives": "FA 155; SP 2.65; water 190",
+          "water_cement_ratio": 0.45,
+          "strengths": []
+        },
+        {
+          "mix_id": "RA8 (8% RHA)",
+          "rha_pct_cement_replacement": 8,
+          "cement_kg_m3": 264.04,
+          "rha_kg_m3": 22.96,
+          "fine_agg_kg_m3": 975,
+          "coarse_agg_kg_m3": 737,
+          "other_additives": "FA 155; SP 2.65; water 190",
+          "water_cement_ratio": 0.45,
+          "strengths": []
+        },
+        {
+          "mix_id": "RA10 (10% RHA)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 258.3,
+          "rha_kg_m3": 28.96,
+          "fine_agg_kg_m3": 975,
+          "coarse_agg_kg_m3": 737,
+          "other_additives": "FA 155; SP 2.65; water 190",
+          "water_cement_ratio": 0.45,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 35.79,
+              "flexural": 4.46,
+              "split": 3.68
+            }
+          ]
+        },
+        {
+          "mix_id": "RA12 (12% RHA)",
+          "rha_pct_cement_replacement": 12,
+          "cement_kg_m3": 252.56,
+          "rha_kg_m3": 34.4,
+          "fine_agg_kg_m3": 975,
+          "coarse_agg_kg_m3": 737,
+          "other_additives": "FA 155; SP 2.65; water 190",
+          "water_cement_ratio": 0.45,
+          "strengths": []
+        },
+        {
+          "mix_id": "RA14 (14% RHA)",
+          "rha_pct_cement_replacement": 14,
+          "cement_kg_m3": 246.82,
+          "rha_kg_m3": 40.18,
+          "fine_agg_kg_m3": 975,
+          "coarse_agg_kg_m3": 737,
+          "other_additives": "FA 155; SP 2.65; water 190",
+          "water_cement_ratio": 0.45,
+          "strengths": []
+        }
+      ]
+    },
+    {
+      "paper_id": "2024_09",
+      "source_file": "2024/09_Influence_of_rice_husk_ash_on_the_mechanical_properties_of_ultra-high_strength_engineered_cementitious_composites_UHS-EC.pdf",
+      "paper_title": "Influence of rice husk ash on the mechanical properties of ultra-high strength engineered cementitious composites (UHS-ECC)",
+      "authors": "Liu, Jin, He, Zhou",
+      "country_region": "China (Hangzhou / Yinchuan)",
+      "rha_source_location": "Maoming, Guangdong; burned 800C 72h",
+      "material_type": "UHS-ECC mortar (2% PE fiber)",
+      "primary_binder_scm": "OPC+RHA+SF",
+      "output_availability": "Comp @28d for M-C/M-10/M-20 in text.",
+      "value_source": "Table 3 kg/m3; comp from text.",
+      "data_origin": "primary",
+      "notes": "Fiber-reinforced UHS-ECC, not conventional concrete. Binder >1650 kg/m3.",
+      "evidence": "M-C 125.8, M-10 126.8, M-20 130.8 MPa @28d.",
+      "mixes": [
+        {
+          "mix_id": "M-C (0% RHA)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": 1400,
+          "rha_kg_m3": 0,
+          "fine_agg_kg_m3": 693,
+          "coarse_agg_kg_m3": 0,
+          "other_additives": "SF 250; SP 40; PE fiber 2%",
+          "water_cement_ratio": 0.19,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 125.8
+            }
+          ]
+        },
+        {
+          "mix_id": "M-10 (10% RHA)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 1260,
+          "rha_kg_m3": 140,
+          "fine_agg_kg_m3": 693,
+          "coarse_agg_kg_m3": 0,
+          "other_additives": "SF 250; SP 40; PE fiber 2%",
+          "water_cement_ratio": 0.19,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 126.8
+            }
+          ]
+        },
+        {
+          "mix_id": "M-20 (20% RHA)",
+          "rha_pct_cement_replacement": 20,
+          "cement_kg_m3": 1120,
+          "rha_kg_m3": 280,
+          "fine_agg_kg_m3": 693,
+          "coarse_agg_kg_m3": 0,
+          "other_additives": "SF 250; SP 40; PE fiber 2%",
+          "water_cement_ratio": 0.19,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 130.8
+            }
+          ]
+        },
+        {
+          "mix_id": "M-30 (30% RHA)",
+          "rha_pct_cement_replacement": 30,
+          "cement_kg_m3": 980,
+          "rha_kg_m3": 420,
+          "fine_agg_kg_m3": 693,
+          "coarse_agg_kg_m3": 0,
+          "other_additives": "SF 250; SP 40; PE fiber 2%",
+          "water_cement_ratio": 0.19,
+          "strengths": []
+        }
+      ]
+    },
+    {
+      "paper_id": "2024_10",
+      "source_file": "2024/10_Optimization_of_Self-Compacting_Concrete_Incorporating_Granite_Dust_and_Rice_Husk_Ash_Using_Response_Surface_Methodology.pdf",
+      "paper_title": "Optimization of Self-Compacting Concrete Incorporating Granite Dust and Rice Husk Ash Using Response Surface Methodology",
+      "authors": "Aliyu, Olubunmi",
+      "country_region": "Uganda / Nigeria",
+      "rha_source_location": "Not specified",
+      "material_type": "SCC M30 (Box-Behnken RSM)",
+      "primary_binder_scm": "OPC+RHA",
+      "output_availability": "Comp 3/7/28/90d Table 5 for 18 mixes.",
+      "value_source": "Computed kg/m3 from base + factor levels; Table 5 comp.",
+      "data_origin": "primary",
+      "notes": "RHA 5-20% replaces cement; GD 20-60% replaces fine agg. w/b 0.46.",
+      "evidence": "Table 1, 3, 5.",
+      "mixes": [
+        {
+          "mix_id": "Control (0% RHA, 0% GD)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": 435,
+          "rha_kg_m3": 0,
+          "fine_agg_kg_m3": 980,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 0; SP 8.7 kg/m3",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 9.1
+            },
+            {
+              "age": 7,
+              "comp": 18.9
+            },
+            {
+              "age": 28,
+              "comp": 28.1
+            },
+            {
+              "age": 90,
+              "comp": 32.5
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 1 (20% RHA, 60% GD)",
+          "rha_pct_cement_replacement": 20,
+          "cement_kg_m3": 348.0,
+          "rha_kg_m3": 87.0,
+          "fine_agg_kg_m3": 392.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 588.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 4
+            },
+            {
+              "age": 7,
+              "comp": 11.5
+            },
+            {
+              "age": 28,
+              "comp": 25
+            },
+            {
+              "age": 90,
+              "comp": 28.9
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 2 (12.5% RHA, 20% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 784.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 196.0 kg/m3 (replaces fine agg); SP dose 1% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 6.5
+            },
+            {
+              "age": 7,
+              "comp": 15.1
+            },
+            {
+              "age": 28,
+              "comp": 32
+            },
+            {
+              "age": 90,
+              "comp": 36.1
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 3 (20% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 20,
+          "cement_kg_m3": 348.0,
+          "rha_kg_m3": 87.0,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 3% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 5.5
+            },
+            {
+              "age": 7,
+              "comp": 12.4
+            },
+            {
+              "age": 28,
+              "comp": 26.5
+            },
+            {
+              "age": 90,
+              "comp": 29.5
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 4 (5% RHA, 60% GD)",
+          "rha_pct_cement_replacement": 5,
+          "cement_kg_m3": 413.25,
+          "rha_kg_m3": 21.75,
+          "fine_agg_kg_m3": 392.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 588.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 6.4
+            },
+            {
+              "age": 7,
+              "comp": 13.3
+            },
+            {
+              "age": 28,
+              "comp": 28.6
+            },
+            {
+              "age": 90,
+              "comp": 32.6
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 5 (12.5% RHA, 20% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 784.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 196.0 kg/m3 (replaces fine agg); SP dose 3% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 6.7
+            },
+            {
+              "age": 7,
+              "comp": 15
+            },
+            {
+              "age": 28,
+              "comp": 31.5
+            },
+            {
+              "age": 90,
+              "comp": 35.1
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 6 (5% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 5,
+          "cement_kg_m3": 413.25,
+          "rha_kg_m3": 21.75,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 1% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 6.5
+            },
+            {
+              "age": 7,
+              "comp": 13.9
+            },
+            {
+              "age": 28,
+              "comp": 29.8
+            },
+            {
+              "age": 90,
+              "comp": 33.2
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 7 (20% RHA, 20% GD)",
+          "rha_pct_cement_replacement": 20,
+          "cement_kg_m3": 348.0,
+          "rha_kg_m3": 87.0,
+          "fine_agg_kg_m3": 784.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 196.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 5.7
+            },
+            {
+              "age": 7,
+              "comp": 14.4
+            },
+            {
+              "age": 28,
+              "comp": 30.8
+            },
+            {
+              "age": 90,
+              "comp": 35
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 8 (12.5% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 5.7
+            },
+            {
+              "age": 7,
+              "comp": 14.3
+            },
+            {
+              "age": 28,
+              "comp": 30.4
+            },
+            {
+              "age": 90,
+              "comp": 34.6
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 9 (12.5% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 5.7
+            },
+            {
+              "age": 7,
+              "comp": 14.3
+            },
+            {
+              "age": 28,
+              "comp": 30.4
+            },
+            {
+              "age": 90,
+              "comp": 34.6
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 10 (12.5% RHA, 60% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 392.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 588.0 kg/m3 (replaces fine agg); SP dose 1% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 4.4
+            },
+            {
+              "age": 7,
+              "comp": 13.2
+            },
+            {
+              "age": 28,
+              "comp": 28.8
+            },
+            {
+              "age": 90,
+              "comp": 31.9
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 11 (20% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 20,
+          "cement_kg_m3": 348.0,
+          "rha_kg_m3": 87.0,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 1% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 4.6
+            },
+            {
+              "age": 7,
+              "comp": 13
+            },
+            {
+              "age": 28,
+              "comp": 28
+            },
+            {
+              "age": 90,
+              "comp": 32.2
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 12 (12.5% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 5.7
+            },
+            {
+              "age": 7,
+              "comp": 14.3
+            },
+            {
+              "age": 28,
+              "comp": 30.4
+            },
+            {
+              "age": 90,
+              "comp": 34.6
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 13 (5% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 5,
+          "cement_kg_m3": 413.25,
+          "rha_kg_m3": 21.75,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 3% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 6.6
+            },
+            {
+              "age": 7,
+              "comp": 13.8
+            },
+            {
+              "age": 28,
+              "comp": 29.4
+            },
+            {
+              "age": 90,
+              "comp": 32.9
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 14 (5% RHA, 20% GD)",
+          "rha_pct_cement_replacement": 5,
+          "cement_kg_m3": 413.25,
+          "rha_kg_m3": 21.75,
+          "fine_agg_kg_m3": 784.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 196.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 7
+            },
+            {
+              "age": 7,
+              "comp": 14.1
+            },
+            {
+              "age": 28,
+              "comp": 30.4
+            },
+            {
+              "age": 90,
+              "comp": 34.5
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 15 (12.5% RHA, 60% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 392.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 588.0 kg/m3 (replaces fine agg); SP dose 3% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 4.5
+            },
+            {
+              "age": 7,
+              "comp": 13.3
+            },
+            {
+              "age": 28,
+              "comp": 27.9
+            },
+            {
+              "age": 90,
+              "comp": 30.4
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 16 (12.5% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 5.7
+            },
+            {
+              "age": 7,
+              "comp": 14.3
+            },
+            {
+              "age": 28,
+              "comp": 30.4
+            },
+            {
+              "age": 90,
+              "comp": 34.6
+            }
+          ]
+        },
+        {
+          "mix_id": "Run 17 (12.5% RHA, 40% GD)",
+          "rha_pct_cement_replacement": 12.5,
+          "cement_kg_m3": 380.62,
+          "rha_kg_m3": 54.38,
+          "fine_agg_kg_m3": 588.0,
+          "coarse_agg_kg_m3": 795,
+          "other_additives": "Granite dust 392.0 kg/m3 (replaces fine agg); SP dose 2% of binder",
+          "water_cement_ratio": 0.46,
+          "strengths": [
+            {
+              "age": 3,
+              "comp": 5.7
+            },
+            {
+              "age": 7,
+              "comp": 14.3
+            },
+            {
+              "age": 28,
+              "comp": 30.4
+            },
+            {
+              "age": 90,
+              "comp": 34.6
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "2024_11",
+      "source_file": "2024/11_Strength_And_Durability_Properties_of_Sustainable_Concrete_Utilising_Rice_Husk_Ash_and_Silica_Fume.pdf",
+      "paper_title": "Strength And Durability Properties of Sustainable Concrete Utilising Rice Husk Ash and Silica Fume",
+      "authors": "Premkumar, Balaji, Balaveeradurai, Velraja, Jayakanth",
+      "country_region": "India (Tamil Nadu; Kalasalingam)",
+      "rha_source_location": "Agricultural waste RHA",
+      "material_type": "Concrete M30",
+      "primary_binder_scm": "OPC+RHA+SF",
+      "output_availability": "Comp 28d in text; 7d/split/flex figure-only.",
+      "value_source": "Table 3 kg/m3; 28d comp from text.",
+      "data_origin": "primary",
+      "notes": "RHA fixed 30% (120 kg/m3); SF 0-20% replaces cement. w/b=0.4.",
+      "evidence": "M1-M6 comp @28d: 31.6, 33, 34, 38, 42, 40 MPa.",
+      "mixes": [
+        {
+          "mix_id": "M1 (0% RHA)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": 400,
+          "rha_kg_m3": 0,
+          "fine_agg_kg_m3": 762.244,
+          "coarse_agg_kg_m3": 984.68,
+          "other_additives": "SF 0; water 160",
+          "water_cement_ratio": 0.4,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 31.6
+            }
+          ]
+        },
+        {
+          "mix_id": "M2 (30% RHA)",
+          "rha_pct_cement_replacement": 30,
+          "cement_kg_m3": 280,
+          "rha_kg_m3": 120,
+          "fine_agg_kg_m3": 762.244,
+          "coarse_agg_kg_m3": 984.68,
+          "other_additives": "SF 0; water 160",
+          "water_cement_ratio": 0.4,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 33
+            }
+          ]
+        },
+        {
+          "mix_id": "M3 (30% RHA, 5% SF)",
+          "rha_pct_cement_replacement": 30,
+          "cement_kg_m3": 260,
+          "rha_kg_m3": 120,
+          "fine_agg_kg_m3": 762.244,
+          "coarse_agg_kg_m3": 984.68,
+          "other_additives": "SF 20; water 160",
+          "water_cement_ratio": 0.4,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 34
+            }
+          ]
+        },
+        {
+          "mix_id": "M4 (30% RHA, 10% SF)",
+          "rha_pct_cement_replacement": 30,
+          "cement_kg_m3": 240,
+          "rha_kg_m3": 120,
+          "fine_agg_kg_m3": 762.244,
+          "coarse_agg_kg_m3": 984.68,
+          "other_additives": "SF 40; water 160",
+          "water_cement_ratio": 0.4,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 38
+            }
+          ]
+        },
+        {
+          "mix_id": "M5 (30% RHA, 15% SF)",
+          "rha_pct_cement_replacement": 30,
+          "cement_kg_m3": 220,
+          "rha_kg_m3": 120,
+          "fine_agg_kg_m3": 762.244,
+          "coarse_agg_kg_m3": 984.68,
+          "other_additives": "SF 60; water 160",
+          "water_cement_ratio": 0.4,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 42
+            }
+          ]
+        },
+        {
+          "mix_id": "M6 (30% RHA, 20% SF)",
+          "rha_pct_cement_replacement": 30,
+          "cement_kg_m3": 200,
+          "rha_kg_m3": 120,
+          "fine_agg_kg_m3": 762.244,
+          "coarse_agg_kg_m3": 984.68,
+          "other_additives": "SF 80; water 160",
+          "water_cement_ratio": 0.4,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "paper_id": "2024_12",
+      "source_file": "2024/12_Evaluation_of_Fresh_and_Hardened_Properties_of_Concrete_made_with_Rice_Husk_Ash_admixed_with_Snail_Shell_Ash.pdf",
+      "paper_title": "Evaluation of Fresh and Hardened Properties of Concrete made with Rice Husk Ash admixed with Snail Shell Ash",
+      "authors": "Alhassan, Adamu, Aboshio, Ibrahim",
+      "country_region": "Nigeria / Saudi Arabia",
+      "rha_source_location": "Dakace, Zaria; burned 650C",
+      "material_type": "Concrete M30 (RSM RHA+SSA)",
+      "primary_binder_scm": "OPC+RHA+SSA",
+      "output_availability": "Full kg/m3 Table II; key strengths for M5/M11 in text.",
+      "value_source": "Table II kg/m3; M5/M11 strengths from text.",
+      "data_origin": "primary",
+      "notes": "18 RSM mixes. Most strengths figure-only. M11 optimum (15% RHA, 15% SSA).",
+      "evidence": "M5 comp 30.3@28d; M11 comp 35.8@28d, 46.2@90d.",
+      "mixes": [
+        {
+          "mix_id": "M1 (control)",
+          "rha_pct_cement_replacement": 0,
+          "cement_kg_m3": 382,
+          "rha_kg_m3": 0,
+          "fine_agg_kg_m3": 705,
+          "coarse_agg_kg_m3": 1103,
+          "other_additives": "SSA 0; water 210",
+          "water_cement_ratio": 0.55,
+          "strengths": []
+        },
+        {
+          "mix_id": "M5 (10% RHA, 20% SSA)",
+          "rha_pct_cement_replacement": 10,
+          "cement_kg_m3": 267.4,
+          "rha_kg_m3": 38.2,
+          "fine_agg_kg_m3": 705,
+          "coarse_agg_kg_m3": 1103,
+          "other_additives": "SSA 76.4; water 225.4",
+          "water_cement_ratio": 0.6,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 30.3
+            }
+          ]
+        },
+        {
+          "mix_id": "M11 (15% RHA, 15% SSA) OPTIMUM",
+          "rha_pct_cement_replacement": 15,
+          "cement_kg_m3": 367.4,
+          "rha_kg_m3": 57.3,
+          "fine_agg_kg_m3": 705,
+          "coarse_agg_kg_m3": 1103,
+          "other_additives": "SSA 57.3; water 244.5",
+          "water_cement_ratio": 0.6,
+          "strengths": [
+            {
+              "age": 28,
+              "comp": 35.8,
+              "flexural": 4.67
+            },
+            {
+              "age": 90,
+              "comp": 46.2,
+              "flexural": 5.68,
+              "split": 5.26
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "non_rha_agro_ash": [],
+  "excluded_papers": [
+    {
+      "paper_id": "2024_02",
+      "paper_title": "Cellulose nanocrystals extracted from rice husk using the formic/peroxyformic acid process",
+      "reason": "Nanocellulose extraction; no concrete mix data."
+    },
+    {
+      "paper_id": "2024_04",
+      "paper_title": "Effect of Rice Husk Ash on the Properties and Performance of Geopolymer Concrete",
+      "reason": "No-OPC geopolymer; out of scope."
+    },
+    {
+      "paper_id": "2024_05",
+      "paper_title": "A study of some relevant properties of concrete incorporating waste ceramic powder as a cement replacement agent",
+      "reason": "Ceramic powder only; RHA not in experimental mixes."
+    },
+    {
+      "paper_id": "2024_07",
+      "paper_title": "Fly Ash and Rice Husk Ash Utilization to Enlarge Clay Brick Dimension",
+      "reason": "Clay brick; not concrete."
+    },
+    {
+      "paper_id": "2024_13",
+      "paper_title": "Estimating Rice Husk Ash Concrete Compressive Strength Using Hybrid Machine Learning Methodology",
+      "reason": "ML on compiled database; no new experimental data. See cited_sources_to_fetch."
+    },
+    {
+      "paper_id": "2024_14",
+      "paper_title": "Improving Soil Properties for Construction Usage with Fly Ash and Rice Husk Ash",
+      "reason": "Soil stabilization; not concrete."
+    },
+    {
+      "paper_id": "2024_15",
+      "paper_title": "Optimizing flow, strength, and durability in high-strength self-compacting and self-curing concrete utilizing lightweight aggregates",
+      "reason": "Lightweight SCC; RHA only in literature, not in M1-M16 mixes."
+    }
+  ],
+  "cited_sources_to_fetch": [
+    {
+      "from_paper": "2024_13",
+      "citation": "Reference [25] compiled RHA-concrete database (age, cement, RHA, water, SP, aggregate kg/m3 -> comp strength) used for hybrid ML paper.",
+      "reason": "Bulk-import source for RHA-concrete rows cited by 2024_13.",
+      "doi": null
+    }
+  ]
+}
